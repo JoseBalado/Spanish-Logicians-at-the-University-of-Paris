@@ -891,7 +891,83 @@ Vides consequentia est nulla, antecedentis est verum, quia utraque est sesquiter
 
 Patet in exemplo dato, nam non sequitur qualis 8 ad 6, talis est 4 ad 3; ergo qualis 8 ad 4, talis est 6 ad 3; ergo etiam qualis est 8 ad 3, talis est 6 ad 4, patet ex proportione.
 
-Patet ultra non oportet proportiones consequentis consequente esse similes proportionibus antecedentis, et in bona proportionalitate patet proportiones illius modi arguendi qualis /36b/ est 8 ad 6, talis 4 ad 3; ergo qualis....
+Patet ultra, non oportet proportiones consequentis esse similes proportionibus antecedentis, et in bona proportionalitate patet proportiones illius modi arguendi, qualis /36a/ est 8 ad 6, talis 4 ad 3; ergo qualis est 8 ad 4, talis est 6 ad 3, sunt sesquitertiae, tamen in consequente sunt duplae.
+
+Isti modi arguendi etiam serviunt nostrae philosophiae, et si non aequaliter, quia ex velocitate motus unius potentiae super suam resistentiam, et alterius potentiae super suam, poterimus per hos modos arguendi inferre velocitatem non esse similem, aut esse similem primae potentiae super secundam resistentiam, et secundae super primam, et ponendo talia exempla combinando potentias et resistentias, sicut dedimus exempla in his *Proportionalitatibus*, quae facile valent applicari septimo *Physicorum*, quae sine his nescires intelligere.
+
+### Proportionalitas conversa
+
+> Proportionalitas conversa: est quando ex similitudine aliquarum proportionum infertur similitudo consequentis unius ad antecedens eiusdem, et consequentis alterius ad antecedens ipsius.
+
+Exemplum: qualis est proportio a ad b, talis est c ad d, et qualis est b ad a, talis est d ad c. Patet exemplum expresse in numeris, qualis est proportio 8 ad 4, talis est 2 ad 1; ergo qualis est 4 ad 8, talis est unius ad duo.
+
+### Proportionalitas permutata
+
+> Proportionalitas permutata: est quando ex similitudine aliquarum proportionum infertur similitudo proportionis antecedentis unius ad antecedens alterius, et consequentis unius ad consequens alterius.
+
+Exemplum: qualis est proportio a ad b, talis est c ad d; ergo qualis est a ad c, talis est b ad d. Unde in numeris, qualis est 8 ad 4, talis est 2 ad 1; ergo qualis est 8 ad 2, talis 4 ad 1. Nec istae proportionalitates sunt alienae a proposito nostro, quoniam serviunt philosophiae naturali.
+
+### De Caelo et Mundo
+
+Patet, nam in *Caelo et Mundo*, in materia de infinito, in tertia conclusione textus, Aristoteles volens probare quod nullum finitum potest pati ab infinito, nec infinitum ab infinito, utitur hac proportionalitate permutata, ut patet intuenti.
+
+### Secundo Perihermeneias
+
+Similiter Aristoteles in fine secundo *Perihermeneias* etiam proportionalitate utitur.
+
+### Tertio Topicorum
+
+Similiter ipse in tertio *Topicorum* hac proportionalitate utitur.
+
+Signum ergo est quod proportionalitates conferunt nostro proposito, ideo eas indicam esse declarandas.
+
+### Nicomachus, Euclides, Severinus
+
+Si eas ad longum vis reperire, vide *Nicomachum* et Euclidem sexto *Elementorum*, et Severinum in sua Arithmetica calce, ipsi tibi aperiunt ut accommodatur ad mathematicos.
+
+### Ulisbonensis
+
+Item si vis nodos aperire latentes, lege Ulisbonensem in secunda parte suarum *Proportionum*, primo et tertio capitulo.
+
+### Lax
+
+Etiam Gaspar Lax in tractatu suarum *Proportionum*.
+
+Ipsi ut mathematici loquuntur, nobis iuxta prooemium nostrum sufficit describere, sed adverte circa dicta, ne, si alios legas, decipiaris, nam id quod nos vocavimus proportionalitatem /36b/ coniunctam sive disiunctam, praenominati appellant.
+
+### Alvarus, Lax
+
+Sed hoc non obstante, Alvarus in primo capitulo secundae partis *Proportionum* vocat proportionalitatem coniunctam et disiunctam, quam nos dicimus continuam et discontinuam, quam etiam Gaspar sic vocat loco praeallegato ut nos.
+
+### Aristoteles quinto Ethicorum
+
+Nihilominus appellatione Alvari constat quinto *Ethicorum* de iustitia distributiva, seiunctam eam appellans, ut patet in traductione Argyropyli.
+
+### Dullaert
+
+Consonat etiam sibi Dullaert in tertio *Physicorum*, licet ipse Dullaert aliquam videatur vocare disiunctam quam conversam dicimus, nec habet modum praecedendi qui ibi debet haberi, ut patet suis in exemplis, ita quod quidquid velit dicere quodam modo sit ambiguum.
+
+### Lax, Alvarus
+
+Consonant etiam plures sibi proportionistae, sed nec nos cum Lax male sic vocabimus, quia ipse Alvarus postea, tertio capite illius secundae partis, nobiscum est concors, et quam nos, coniunctam sive disiunctam appellamus, ipse etiam illic appellat.
+
+### Aristoteles quinto *Ethicorum*
+
+Et nostrae vocitationi de proportionalitate continua annuit Aristoteles, quinto *Ethicorum*, tertio capite, dicens: "An non et continua in quattuor est? Uno namque termino utitur ut duobus", et sic omnes bonos scriptores concordes facimus, et nostra dicta dictis eorum corroborantur.
+
+### Proportionalitas aequa
+
+> Proportionalitas aequa, breviter sic describitur: est quando ex comparatione plurium proportionum infertur similitudo proportionis extremorum ad extrema seclusis mediis.
+
+### Alvarus, Lax
+
+Et haec est descriptio Alvari quam Lax aliis verbis exprimit, dicens: "Ubi infertur similitudo primi antecedentis ad ultimum consequens primae continuationis, et alterius antecedentis ad ultimum consequens eiusdem. Et ista ponitur communiter in sex terminis sic: a, b, c, d, e, f, et supposita similitudine proportionum inter eos inferendo; ergo qualis est a ad c, talis est d ad f. Et facile capies sic numeros 64, 32, 16, 8, 4, 2, inferendo, qualis est 64 ad 16, talis 8 ad 2, et pluribus aliis modis.
+
+Ibi Lax ponit duplicem proportionalitatem aequam, scilicet directam et indirectam. Alvarus non specificat, sed bene video illas duas in definitione proportionalitatis aequae includi, et non est magna cura super illo, nam discrimen est numeri qui ponitur in directa in una ordinatione, ponuntur in indirecta in alia, et e contra, idem termini tamen utrobique inferuntur.
+
+### Lax
+
+Lax dicit quod ibi per antecedens oportet intelligere illud quod sic est antecedens quod nullo modo est consequens, et per consequens illud quod sic est consequens quod nullo modo est antecedens. Dat exemplum de directa /37a/, sic qualis est proportio a ad b talis...
 
 
 
@@ -936,5 +1012,8 @@ Page 33a: commutativa ] emend. commitativa
 Page 33a: 3 ] emend. 2
 Page 34a: 1 ] emend. 2 (initial term of 1, 3, 5, 7, 9)
 Page 34a: licet ] conj. 13
+Page 36a: 1 ] emend. 2
+Page 36a: conclusione ] conj. ꝯōe
+Page 36b: 64 ] emend. 94
 
 -->

@@ -552,6 +552,53 @@ Superflue ponitur "aut unius numeri ad alterum numerum", cum numerus sub quantit
 
 Habitudo illa quam in definitione ponimus nihil aliud quam aequalitas vel inaequalitas in aliquo utrique communi censenda est. Et ideo non est proportio in magnitudine angeli ad hominem, cum magnitudinis habitudo non utrique conveniat. Et nota quod ibi non capitur 'inaequale' ut tantum valet sicut 'non-aequale'. Angelus in hac materia non mihi inaequalis diceretur, licet mihi sit non aequalis, sed capitur 'inaequale' ut /29a/ valet magis vel minus.
 
+# De definitione proportiones
+
+Circa haec notare debes, plures sibi involvi difficultates.
+
+Prima: An numeri ad unitatem sit proportio, vel e contra.
+
+Secunda: An numeri sive quantitatis discretae ad continuam sit proportio.
+
+Tertia: An inter res diversorum generum in aliquo tamen utrique communi comparatas sit proportio, aliter nihil esset dictum, patet ex declaratione facta.
+
+Quarta: An lineae ad superficiem, superficiei ad corpus aut e contra sit proportio, et praecipue more Realium.
+
+Quinta: An sicut ob magnitudinem proportio inter aliqua resultat, ita ob intensionem aut remissionem, velocitatem, tarditatem aliasque denominationes proportio abstrahatur.
+
+Sexta: Quae entitas proportio dicatur, an res ipsae vel quiddam rebus distinctum.
+
+Septima: An finiti ad infinitum sit proportio, quomodo intelligitur dictum commune negativum, scilicet non reperiri, ubi etiam potest, ibi ne infiniti ad infinitum sit proportio. Quibus solutis, multa incognita ab aliis quam dimissa nostrae philosophiae deservientia propalabuntur, quarum solutiones ordinatim ponentur.
+
+Ideo ad primam respondeamus, pro cuius solutione est sciendum quod, apud nonnullos, proportio multum stricte sumebatur, unde non ponebant proportionem reperiri nisi inter ea quae sunt eiusdem generis subalterni, et ideo sic definiebant:
+
+> Proportio est duarum quantitatum eiusdem generis habitudo.
+
+Et ex consequenti non ponebant proportionem inter aliqua duo nisi esset aliquid dimensionis aut multitudinis utrique conveniens, et sic bene situabant proportionem inter duas quantitates continuas, postquam in dimensione utrique convenienti comparari valeant. Similiter et inter duas quantitates discretas, quoniam queunt comparari in multitudine utrique convenienti.
+
+Et ex hoc infertur quod inter unam quantitatem continuam et unam discretam non erat proportio isto modo, tum quia, ut patet ex Dialectica, non sunt eiusdem generis subalterni, licet bene generalissimi, puta quantitatis, tum etiam quia non valent comparari in dimensione, cum quantitati discretae, secundum nostram imaginationem, non sit dimensio attribuenda, immo nec nominalizando ea ratione qua est quantitas discreta. Inter eas etiam non valet fieri comparatio quoad multitudinem, cum quantitati continuae /29b/ inquantum tali, sive sit Realis sive Nominalis, multitudo ut nos capimus, attribuenda non sit.
+
+Patet ultra quod quibuscumque duobus comparatis in intensione aut remissione proportio haec inter ea non resultat, cum intensionis vel remissionis ratio non dimensio aut multitudo sit. Patet ultra quibuscumque duobus comparatis in velocitate et tarditate inter ea hanc proportionem non reperiri, cum velocitas aut tarditas a ratione dimensionis aut multitudinis aliena sit. Patet demum quibuscumque duobus comparatis in activitate aut resistentia non ad illa talem proportionem reperiri, quoniam activitas aut resistentia dimensionis aut multitudinis rationem egreditur, et sic ubi non fieret breviter comparatio dimensionis aut multitudinis, haec proportio non resultaret.
+
+Hanc proportionem nonnulli Mathematici propriam sive proprie dictam vocant. Sed ut patet ex dictis, aequalitas, maioritas aut minoritas non proprie nisi quantitati continuae attribuitur, ut patet ex praedicamentis, a quibus proportio resultat, volentes hanc propriam solum vocare proportionem, eam inter continuas quantitates solum ponere debuissent.
+
+### Lax
+
+Non obstante tamen hoc, et non obstante Lax dicente in suis *Proportionibus*, capite tertio, hanc proportionem fuisse de mente Mathematicorum, nihilominus nostrum propositum haud comprehendit.
+
+### Aristoteles
+
+Intuemur in septimo *Physicorum*, in regulis Aristotelis et aliorum philosophorum Calculatorum, de motu penes causam proportiones ab activitatibus et resistentiis sortiri, et etiam a proportionibus inter se, quae rationem dimensionis aut multitudinis, ut in proposito, non habent. Patebit inferius, dicentibus illic philosophis, velocitatem motus attendi penes proportionem proportionum activitatum super suas resistentias. Quis igitur haesitat illam proportionem haec philosophiae dicta non attingere?
+
+Item, in tertio *Physicorum*, quis dubitat philosophos proportiones ponere, quae hoc modo proportiones non essent? Patet de motu locali ad longum, et in plerisque aliis philosophiae partibus.
+
+### Suisset, Venetus
+
+Non inficior quin illa proportionis acceptio alicui philosophiae parti prodesse valeat, et maxime velocitati motus augmentationis, praecipue secundum opinionem Calculatoris, licet non aeque bene Venetum insequendo.
+
+Opus /30a/ est igitur latius assumere proportionem...
+
+# De divisione proportionis
 
 <!--
 ## Apparatus Criticus Reference
@@ -584,7 +631,7 @@ Page 24: Bradwardinum ] emend. Brauardinum
 Page 24: Forliviensem ] emend. Forlumensem 
 Page 26a: phantastica ] emend. fantastica 
 Page 26a: aequalis ] emend. et qualis 
-Page 27a: sesquipedalitatis ] emend. se imipedalitatis 
+Page 27a: sesquipedalitatis ] emend. se imipedalitatis
 Page 27a: sesquipedalitas ] emend. se imipedalitas
 Page 28b: sexies ] emend. septies
 

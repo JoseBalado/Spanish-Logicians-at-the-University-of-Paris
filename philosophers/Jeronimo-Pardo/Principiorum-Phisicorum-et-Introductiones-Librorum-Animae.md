@@ -882,7 +882,31 @@ Secunda proprietas est quod potentia concupiscibilis, licet pro obiecto convenie
 
 Tertia proprietas: est quod potentia concupiscibilis habet duos actus, unus est in obiectum conveniens appetitui sensitivo, vel interiori vel exteriori, et tunc sequitur dilatatio, et hoc semper in parte sensitiva. Ex quo sequitur quod verum est illud quod aliqui dicunt, quod propter magnum gaudium sequitur mors, et ratio naturalis est quod illa pellicula dilatatur et tantum potest dilatari quod frangitur, et tunc sequitur mors. Secundus actus est fugere obiectum disconveniens appetitui sensitivo.
 
-Sed pro declaratione potentiae irascibilis ponuntur aliquae eius proprietates, quarum prima est: obiectum potentiae irascibilis est punibile vel offendens, seu illud quod removet conveniens concupiscibile suae parti sensitivae. Declaro hoc: si sit unus qui concupiscit vinum bonum, et aliquis auferat illud vinum, tunc ille dicitur offendens, et ille inquantum offendens fit obiectum irascibile. /41a/
+Sed pro declaratione potentiae irascibilis ponuntur aliquae eius proprietates, quarum prima est: obiectum potentiae irascibilis est punibile vel offendens, seu illud quod removet conveniens concupiscibile suae parti sensitivae. Declaro hoc: si sit unus qui concupiscit vinum bonum, et aliquis auferat illud vinum, tunc ille dicitur offendens, et ille inquantum offendens fit obiectum irascibile. /41a/ Ex quo sequitur quod isto casu posito ibi sunt duo volita: et unum concupiscibile, et est carere cibo; aliud est irascibile, et est ille qui removet cibum.
+
+Secunda proprietas: potentia illa habet duos actus, unus est perfectus et alius imperfectus. Imperfectus est velle vendicare seu velle punire offendentem antequam puniat alium actum. Habet perfectum et quietatum eius, et est velle actualiter punire, quando actu punit.
+
+Tertia proprietas: secundum quosdam ista potentia irrationalis habet organum, quod est una pellicula circa cor, quae consurgit quando habet actum imperfectum, et tunc dicunt omnes Nominales quod est assensus sanguinis circa cor; sed quando habet actum perfectum dilatatur.
+
+Exemplum: Sortes famescit, et habet panem proper se et Plato removet sibi panem. Ibi sunt duo volita: unum est carere illo pane, et hoc est volitum a potentia concupiscibili; aliud volitum est tale offendens, scilicet Plato, et est volitum ab irascibili. Et dicit Scotus quod illud velle non est proprie refugium, sed est unum velle imperiosum.
+
+Item, potentiarum rationalium quaedam est intellectiva, alia est appetitiva.
+
+De intellectiva ponuntur aliquae proprietates. Prima proprietas: potentia intellectiva sive intellectus, quia idem sunt, est potentia immaterialis, ita quod non dependet ab aliquo organo in operando. 
+
+Ex quo sequitur /41b/ quod ipsa potentia intellectiva est in ipsamet anima. Circa hoc est advertendum quod Deo glorioso convenit potentia intellectiva quae est ipsemet Deus, et angelo convenit potentia intellectiva quae est ipsemet angelus. Et ideo ista consequentia non valet, scilicet: "Hoc habet intellectum; igitur hoc habet anima".
+
+Secunda proprietas: intellectus ex natura sua potest cognoscere ens creatum, tam absolutum quam respectivum entis huius non est Deus. 
+
+Pro cuius declaratione est notandum quod magna difficultas est apud doctores, quod est obiectum nostri intellectus, pro quo ponit Scotus, in *Quolibeto*, unam distinctionem: Aliquid est obiectum nostri intellectus duobus modis.
+
+Uno modo, quia intellectus ex natura sua potest habere notitiam distinctam de illo obiecto, et hoc modo potest considerari adhuc dupliciter: uno modo pro illo ad quod, id est, ad cuius notitiam distinctam intellectus noster pro statu potest venire.
+
+Et sic dixerunt aliqui quod res sensibilis est obiectum nostri intellectus pro isto statu. Hoc tamen est falsum, quia tenebimus per totam physicam quod intellectus ita intelligit suam intellectionem sicut quamlibet aliam rem sensibilem, et tamen intellectio non est sensibilis. 
+
+Et ideo si quis quaerat quod est obiectum nostri intellectus pro statu, dico quod suppletur per hoc disiunctum, scilicet sensibile vel immutatum pot, id est, intellectus. Unde dicunt boni doctores quod magis clare intelligo intellectionem meam quam rem aliam sensibilem /42a/.
+
+
 
 <!--
 ## Apparatus Criticus Reference

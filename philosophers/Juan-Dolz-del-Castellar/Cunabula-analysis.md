@@ -1,6 +1,6 @@
 # Analysis of Dolz, _Cunabula omnium fere scientiarum_ (1518)
 
-A running commentary on Juan Dolz del Castellar, _Cunabula omnium fere scientiarum et praecipue physicalium difficultatum in proportionibus et proportionalitatibus_ (Montalbanum, 1518), following the text page by page. Sections are added as the transcription advances; page references are to the folio numbers of the transcription.
+A running commentary on Juan Dolz del Castellar, _Cunabula omnium fere scientiarum et praecipue physicalium difficultatum in proportionibus et proportionalitatibus_ (Montalbanum, 1518), following the text page by page. Sections are added as the transcription advances; references such as 34a mean page 34 of the Google Books PDF, column a, not a printed folio or gathering signature.
 
 ## Introduction: an elementary mathematical foundation for natural philosophy
 
@@ -598,6 +598,15 @@ $$
 
 Just as equality or inequality between quantities produces a proportion, equality or inequality between proportions produces a _proportionalitas_. Dolz defines it as “a relation of proportions arising from equality or inequality” and divides it into geometrical and arithmetical proportionality. The page only begins this division: it defines the geometrical kind, while the arithmetical kind is announced and illustrated but its formal definition belongs to the continuation.
 
+The practical distinction is **multiplying versus adding**:
+
+| Kind | What repeats from one term to the next | Example |
+| --- | --- | --- |
+| Geometrical | Multiply by the same factor (equal ratios) | $2,4,8,16$: multiply by $2$ |
+| Arithmetical | Add the same amount (equal excesses) | $2,4,6,8$: add $2$ |
+
+For decreasing sequences, multiplying by a fixed fraction or subtracting a fixed amount works in the same way. This is a way to *generate numerical examples*, not a replacement for Dolz's definitions: his equal ratios and equal excesses explain what is preserved in each case. The following sections develop that distinction from pages 33–34.
+
 This transition explains the wide disciplinary claims. Dolz associates proportionality with distributive and commutative justice in book V of the _Ethics_; motion by its cause in book VII of the _Physics_; philosophical arguments in book IV; and Calculator problems concerning motion by its effect in book III. The same elementary doctrine is intended to organize ethical distributions, physical causes, and changing velocities.
 
 ### Geometrical proportionality: equal ratios, unequal differences
@@ -606,7 +615,7 @@ Dolz's formula is:
 
 > _Geometrica proportionalitas est similium proportionum cum excessus dissimilitudine._
 
-That is, geometrical proportionality preserves the same ratio while the absolute differences need not remain the same. In the sequence
+That is, geometrical proportionality preserves the same ratio, or multiplier, while the absolute differences need not remain the same. In the sequence
 
 $$
 1,2,4,8,\ldots,
@@ -632,21 +641,43 @@ His examples generate several geometrical progressions in both directions:
 
 This is immediately useful for music: a geometrical sequence repeats an intervallic ratio at each step. Thus $1,2,4,8$ repeats the $2:1$ octave ratio even though the numerical differences grow; $3:2$ could similarly generate $1,3/2,9/4,27/8,\ldots$, a succession of equal ratio-intervals rather than equal additive steps.
 
-### Arithmetical proportionality: announced, not yet defined
+### Arithmetical proportionality: anticipated on page 33
 
-The contrasting Calculator case begins $2,3,\ldots$ “arithmetically.” Its natural continuation is $2,3,4,5,\ldots$, which preserves equal differences rather than equal ratios:
+The contrasting Calculator case begins $2,3,\ldots$ “arithmetically.” Its natural continuation is $2,3,4,5,\ldots$: keep adding one, thereby preserving equal differences rather than equal ratios:
 
 $$
 3-2=4-3=5-4=1,
 $$
 
-while $3:2$, $4:3$, and $5:4$ are different proportions. Page 33 clearly intends this contrast, but since the formal definition continues beyond the present transcription, it is safest to treat this as the explanatory implication of the example rather than as Dolz's complete definition.
+while $3:2$, $4:3$, and $5:4$ are different proportions. Page 33 intends this contrast; page 34 explicitly defines arithmetical proportionality by similarity of excess rather than similarity of proportion.
 
 For the physical case “the mobile moves as $2$ in the first proportional part, as $4$ in the second, and so on geometrically,” page 33 gives a precise reading: continue $2,4,8,16,\ldots$, preserving the double ratio, not $2,4,6,8,\ldots$, which would preserve an additive excess. Dolz is therefore teaching students how to decode the progression language used by the Calculators, not merely listing abstract numerical patterns.
 
 ---
 
-## 13. Summary of the doctrine
+## 13. Page 34: arithmetical proportionality and shared terms
+
+### Equal excess rather than equal ratio
+
+Dolz now defines arithmetical proportionality as _excessus similitudo quamquam dissimilitudo_ and illustrates it with $1,2,3,4$: each successive excess is one, whereas the ratios change. In the Calculator case that began $2,3$ on page 33, the instruction to continue "arithmetically" therefore fixes the successive difference, not the successive ratio. Dolz extends this distinction to the corruption of something in equal successive amounts, contrasting it with the geometrical corruption of assent to a conclusion discussed at the beginning of the page: first one degree, then a half, then a quarter, then an eighth. He says that so long as some assent to the premises lasts, some assent to the conclusion lasts too; he refers the fuller explanation to his _Analyticorum_ lectures.
+
+The contrast also limits the often-cited definition of proportionality as _proportionum similitudo_: Dolz says that this describes **geometrical** proportionality, not proportionality in general. The printed $2,3,5,7,9$ has excesses $1,2,2,2$; emending its first term to $1$ yields $1,3,5,7,9$, with constant excess $2$, as in the following $2,4,6,8$. Changing the second term to $4$ would also regularize the progression, but would duplicate that following example. The transcription adopts the minimal emendation and records the printed reading in its apparatus.
+
+### Other writings attested by the _Cunabula_
+
+In discussing the geometrical corruption of assent to a conclusion (34a), Dolz says he has explained its relation to Aristotle's dictum on assent to premises in his _Analyticorum lectura_. This attests to lectures or a commentary on the _Analytics_, but does not establish a distinct completed book, its precise title, or whether it was printed. Earlier, in the seventeenth criticism of the _Invectiva_ against Celaya (23a), he rebuts the prediction that he would never publish his _Exponibilia_ with _Iam scripsi et scholaribus meis solutionem praebui_: he says he has written it and furnished a solution to his students. The latter is explicit evidence of a written teaching work, not evidence that it was printed. No printed edition of either has been identified here.
+
+### Antecedent, consequent, and the middle term
+
+Dolz introduces _antecedens_ and _consequens_ as terms borrowed metaphorically from logic. In a comparison $A:B$, $A$ is the antecedent and $B$ the consequent; the same quantity may be consequent in one comparison and antecedent in another, as $4:2=2:1$ shows. These are **roles in a directed comparison**, not permanent names for particular numbers.
+
+Continuous geometrical proportionality joins similar ratios through a common middle term: $8:4=4:2$, where the consequent $4$ of the first ratio is the antecedent of the second. Discussing Aristotle's example in book V of the _Ethics_, Dolz explains why this can be counted as four terms if the middle is counted twice, though only three distinct terms are needed; chains such as $8:4=4:2=2:1$ can use more. He expressly excludes continuous proportionality from the arithmetical kind because his definition of the continuous kind requires similarity of proportions.
+
+Discontinuous proportionality has no such shared middle: $8:4=2:1$ uses four terms. Dolz says it cannot have fewer than four, though it can have more. His initial formulation, _comparatio proportionum_, is broader than the alternative formulation requiring _similitudo proportionum_. The later example comparing $3:6$ with $8:4$ is expressly called discontinuous despite their unequal ratios; whether this reflects the broader formulation or a fault in the transmitted example remains unclear. It should not be silently treated as an equality of ratios.
+
+---
+
+## 14. Summary of the doctrine
 
 1. _Aliquot part_ is a **two-place relation** between a part and a whole, requiring exact measure and at least two repetitions.
 2. Dropping the second term of the relation is what generates every difficulty in preamble 8.
@@ -669,11 +700,12 @@ For the physical case “the mobile moves as $2$ in the first proportional part,
 19. Page 33 confirms that reciprocity as a universal rule: every greater-inequality genus and species has exactly one lesser-inequality counterpart.
 20. Proportionality is a second-order relation between proportions, not another name for a single ratio.
 21. Geometrical proportionality preserves equal ratios while permitting unequal absolute excesses; Dolz applies this directly to Calculator problems of changing motion.
-22. Arithmetical proportionality is introduced through a progression beginning $2,3,\ldots$, but its formal definition awaits the continuation on page 34.
+22. Page 34 defines arithmetical proportionality by equal successive excesses despite differing ratios; its examples of motion and corruption contrast with geometrical progression.
+23. Continuous geometrical proportionality reuses the consequent of one ratio as the antecedent of the next; discontinuous proportionality lacks that common middle. The examples on page 34 leave some tensions with the stated definitions.
 
 ---
 
-## 14. Textual notes
+## 15. Textual notes
 
 Proposed emendations arising from the analysis. Those marked _insecure_ are recorded but not recommended for adoption.
 
@@ -694,3 +726,4 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 32a | _multiplex sesquialtera_, exemplum **16 ad sex** | **15 ad sex** | $16:6=8:3=2+2/3$, not an integer multiple plus a half; $15:6=5:2=2+1/2$ fits the definition and nearby examples exactly |
 | 32b | **Simplex** minoris inaequalitatis etiam est multiplex… | probably **Similiter**… _(insecure)_ | The sentence otherwise calls the entire lesser-inequality division “simple” and then lists both its simple and composite branches; the preceding sentence and subsequent definitions require the same division as for greater inequality |
 | 33a | _subsuperbipartiens tertias_, exemplum **2 ad 5** | **3 ad 5** | $3:5$ is the reciprocal of $5:3$ and fits “once plus two thirds”; $2:5$ belongs to the _subdupla sesquialtera_ defined immediately afterward |
+| 34a | **2**, 3, 5, 7, 9 | **1**, 3, 5, 7, 9 (adopted) | The printed sequence has unequal successive excesses; $1,3,5,7,9$ has constant excess $2$ and avoids duplicating the following $2,4,6,8$ |

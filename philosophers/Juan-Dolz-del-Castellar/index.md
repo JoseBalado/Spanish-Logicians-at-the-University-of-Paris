@@ -33,7 +33,7 @@ Dolz dedicated the book to Antonio Grillon, a theologian and preacher who had go
 
 The controversy with Celaya preserves rare personal details. Celaya had mocked Dolz as *pinguis* (fat) and *petaso* (a fattened pig or ham). Dolz accepts that he is corpulent but turns the insult into a defense of his healthy natural constitution. He says that corpulence ran through almost his entire family: his grandfather and paternal uncle, another paternal relative, a maternal uncle, his father, and his mother, whom he remembers as so corpulent and robust that she was commonly called a *virago*. The maternal uncle, who shared Dolz's name, is said to have governed the whole territory of their native region peacefully. Dolz does not give the uncle's office or the name of the territory, so the passage should not be read as evidence for a more specific title.[^4]
 
-Dolz also remarks that intense study had sometimes made him melancholic. Elsewhere he appeals repeatedly to his students as witnesses to his teaching. Most notably, when Celaya predicted that he would never publish his *Exponibilia*, Dolz answered that he had already written the work and given its solutions to his students. No printed edition is presently known, but the statement is evidence for a completed or substantially completed classroom text on exponible propositions.[^5]
+Dolz also remarks that intense study had sometimes made him melancholic. Elsewhere he appeals repeatedly to his students as witnesses to his teaching. Most notably, when Celaya predicted that he would never publish his *Exponibilia*, Dolz answered that he had already written the work and given its solutions to his students. No printed edition is presently known, but the statement is evidence for a written classroom text on exponible propositions.[^5]
 
 ## Controversy with Juan de Celaya
 
@@ -55,7 +55,7 @@ The section is highly personal: Celaya reportedly called Dolz blind, ignorant, f
 - *Termini* (Paris, 1514)
 - [*Cunabula omnium fere scientiarum et precipue phisicalium difficultatum* (Montalbanum, 1518)](https://www.google.com/books/edition/Cunabula_omnium_fere_scientiarum_et_prec/sFNKTGK9w-UC)
 
-Dolz also states in 1518 that he had written an *Exponibilia* and supplied its solutions to his students. It is not included above because no printed edition is currently known.
+The *Cunabula* also attests to two further teaching works or activities, neither represented here by an identified printed edition: Dolz says he had written his *Exponibilia* and given its solution to students (23a), and refers to an explanation given in his *Analyticorum lectura* (34a). The latter reference establishes lectures or a commentary on the *Analytics*, not necessarily a completed, separately published book.[^8]
 
 ## Notes
 
@@ -66,6 +66,7 @@ Dolz also states in 1518 that he had written an *Exponibilia* and supplied its s
 [^5]: *Cunabula*, *Invectiva*, third and seventeenth criticisms, PDF pp. 19a and 23a.
 [^6]: *Cunabula*, *Invectiva*, opening and first criticism, PDF p. 18a. For Celaya's publication history, see the [Juan de Celaya works list](../Juan-de-Celaya/#works).
 [^7]: *Cunabula*, *Invectiva*, fourth criticism and conclusion, PDF pp. 20a and 23b.
+[^8]: *Cunabula*, discussion of geometrical corruption of assent, transcription marker 34a (Google Books PDF page 34, column a); see also the [analysis of page 34](Cunabula-analysis.html).
 
 ## Bibliography
 

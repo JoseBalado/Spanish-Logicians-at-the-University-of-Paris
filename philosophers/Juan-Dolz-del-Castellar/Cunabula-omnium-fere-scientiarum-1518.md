@@ -363,7 +363,9 @@ Credo iam te, o susurrator, ita obrutum confutatumque te esse, ipsa veritate att
 
 /24/
 
-# Prooemium in proportiones
+# Proportiones
+
+## Prooemium in proportiones
 
 Visa inscitia naturalis philosophiae admodum vos apud Aquitanos vigente, quia eius basim praetermittebant in proportionum et proportionalitatum peritia consistentem fere ab eis inauditarum, cuius potius praeceptoribus quam ipsis causa attribuenda est, ne illorum numero adscribar non valens et honestae scholarium petitioni obviare, tractatum quendam de proportionibus et proportionalitatibus in lucem emittere non mihi alienum visum fuit. Qua in materia licet, plerique peritissimi, quorum verum discipulum me esse scriptum sufficeret, corticem frangentes nucleum degustarint, non tamen insulse nec inpune hanc provintiam assumpsi, tum ob id quod dictum est, tum ut scholarium et boni communis utilitati insudarem. Superflua enim ab aliis pro philosophiae intellectione traduntur, et, si bene respexeris, plura nostrae philosophiae pertinentia omittunt.
 
@@ -384,7 +386,7 @@ Valete.
 
 /25a/
 
-# De multiplicitate numerorum et eorum magnitudine
+## De multiplicitate numerorum et eorum magnitudine
 
 Opus nostrum, ut ordo quispiam observetur memoriam et eruditionem iuvans, cum assidua frequentia, auctore Quintiliano suis in *Institutionibus* oratoriis, articulis secabimus.
 
@@ -430,7 +432,7 @@ Tertium praeambulum: Numerus hic praedicamentalis in binarium, ternarium, quater
 
 Consimiliter de aliis describe. An autem rebus remanentibus ille numerus ad nihilum redigi valeat, metaphysici aut physici est inquisitio, non mathematici alibi illa /26a/ enodavimus.
 
-# De inaequalitate numerorum
+## De inaequalitate numerorum
 
 ### Quartum praeambulum
 
@@ -474,7 +476,11 @@ Valemus etiam dicere non insulse Boetium, dum dixit unitatem appellatione numeri
 
 Sextum praeambulum: Pars aliquota declaranda est, et si in arithmetica enucleetur quoniam, ut patebit nobis, ad proportiones serviet.
 
-Duplex igitur est alicuius pars: quaedam aliquota, quaedam non aliquota. Aliquota ab aliquotiens reddere dicitur, et est illa quae aliquotiens sumpta ipsum adaequate conficit aliquotiens. Expone bis aut ter aut quater et caetera. Non exponas semel, quia si semel sumpta redderet, non pars sed totum esset adaequate exponendum, id est non magis nec minus. Ex hoc inferuntur propositiones concedendae.
+Duplex igitur est alicuius pars: quaedam aliquota, quaedam non aliquota.
+
+> Aliquota: ab aliquotiens reddere dicitur, et est illa quae aliquotiens sumpta ipsum adaequate conficit aliquotiens.
+
+Expone bis aut ter aut quater et caetera. Non exponas semel, quia si semel sumpta redderet, non pars sed totum esset adaequate exponendum, id est non magis nec minus. Ex hoc inferuntur propositiones concedendae.
 
 Prima: Cuiuslibet numeri unitas est pars aliquota, nam quocunque numero dato ipsum unitas aliquotiens sumpta conficit adaequate. Non intelligas conficit, id est componit, sed ad sensum prius datum.
 
@@ -486,7 +492,7 @@ Quarta: Binarius non imparis est pars aliquota. Et ex his ipsum numerum non prop
 
 Patet ultra in quantitatibus continuis non esse ut in numeris; nihil enim est quod cuiuslibet quantitatis continuae pars aliquota nuncupetur. Patet inductive: non pedalitas quia non sesquipedalitatis, nec sesquipedalitas quia non quartae, et caetera. Nihilominus continuorum pars aliquota est, et impar non imparis est pars aliquota.
 
-# De parte aliquota et non aliquota
+## De parte aliquota et non aliquota
 
 ### Pars aliquota dividitur
 
@@ -506,11 +512,15 @@ Si dicas debet definiri opposito modo aliquota ad partem aliquotam, tunc ergo de
 
 ### Pars non aliquota
 
-> Pars non aliquota est quae, non aliquotiens sumpta, ipsum totum conficit adaequate.
+> Pars non aliquota: est quae, non aliquotiens sumpta, ipsum totum conficit adaequate.
 
 Ex hac sequitur definitione quod binarius non est pars non aliquota, quia falsum quod non aliquotiens ipsum totum conficiat adaequate; immo quaternarium aliquotiens conficit adaequate, quod tamen debeat dici pars non aliquota patet: est pars non aliquota ternarii, ergo est non aliquota.
 
-Consequentiam concederet mathematicus, quidquid diceret logicus. Si alio modo definire voluerint, scilicet: "Pars non aliquota est quae aliquotiens sumpta, aliquod totum non conficit adaequate", sequitur quod eadem est pars aliquota et non aliquota. Sic patet de binario, qui est aliquota ut constat, et etiam non aliquota; nam aliquod totum aliquotiens non conficit adaequate, puta binarium.
+Consequentiam concederet mathematicus, quidquid diceret logicus. Si alio modo definire voluerint, scilicet:
+
+> Pars non aliquota: est quae aliquotiens sumpta, aliquod totum non conficit adaequate.
+
+Sequitur quod eadem est pars aliquota et non aliquota. Sic patet de binario, qui est aliquota ut constat, et etiam non aliquota; nam aliquod totum aliquotiens non conficit adaequate, puta binarium.
 
 Resolutio tamen erit haec: descriptio termini spontanea, est et unaquaeque data sustentabilis est, sed consequenter loqui opus est. Prima potest admitti, et diceretur binarium non esse non aliquotam, immo vix illo modo non aliquotam reperies, sed nihilominus diceretur non aliquota binarii aut quinarii; tunc merito negaretur ille arguendi modus: "est non aliquota binarii; ergo est non aliquota".
 
@@ -518,7 +528,7 @@ Mathematicus non sic loqueretur, quia non staret in rigore illius descriptionis;
 
 His praeambulis positis, ponendae /28a/ sunt definitiones hunc primum articulum respicientes.
 
-# De definitione proportionis
+## De definitione proportionis
 
 ### Ad intelligendum Dullaert 
 
@@ -546,13 +556,13 @@ Definitiones numeri, unitatis, paris, imparis, pariter paris, et divisiones horu
 
 ### Definitio proportionis
 
-Proportio sic describitur: est unius quantitatis ad alteram quantitatem certa habitudo.
+> Proportio sic describitur: est unius quantitatis ad alteram quantitatem certa habitudo.
 
 Superflue ponitur "aut unius numeri ad alterum numerum", cum numerus sub quantitate comprehendatur. Numerus enim quantitas est discreta, et ex consequenti, quantitas.
 
 Habitudo illa quam in definitione ponimus nihil aliud quam aequalitas vel inaequalitas in aliquo utrique communi censenda est. Et ideo non est proportio in magnitudine angeli ad hominem, cum magnitudinis habitudo non utrique conveniat. Et nota quod ibi non capitur 'inaequale' ut tantum valet sicut 'non-aequale'. Angelus in hac materia non mihi inaequalis diceretur, licet mihi sit non aequalis, sed capitur 'inaequale' ut /29a/ valet magis vel minus.
 
-# De definitione proportiones
+## De definitione proportiones
 
 Circa haec notare debes, plures sibi involvi difficultates.
 
@@ -572,7 +582,7 @@ Septima: An finiti ad infinitum sit proportio, quomodo intelligitur dictum commu
 
 Ideo ad primam respondeamus, pro cuius solutione est sciendum quod, apud nonnullos, proportio multum stricte sumebatur, unde non ponebant proportionem reperiri nisi inter ea quae sunt eiusdem generis subalterni, et ideo sic definiebant:
 
-> Proportio est duarum quantitatum eiusdem generis habitudo.
+> Proportio: est duarum quantitatum eiusdem generis habitudo.
 
 Et ex consequenti non ponebant proportionem inter aliqua duo nisi esset aliquid dimensionis aut multitudinis utrique conveniens, et sic bene situabant proportionem inter duas quantitates continuas, postquam in dimensione utrique convenienti comparari valeant. Similiter et inter duas quantitates discretas, quoniam queunt comparari in multitudine utrique convenienti.
 
@@ -602,11 +612,11 @@ Illa dicuntur proprie comparari in proposito quae in ratione multitudinis compar
 
 Et sic in nostra definitione non opus erit addere ly 'eiusdem generis', sed poterit dari definitio prior, scilicet:
 
-> Proportio est unius quantitatis ad alteram certa habitudo.
+> Proportio: est unius quantitatis ad alteram certa habitudo.
 
 Intelligendo sub nomine quantitatis dimensionem et multitudinem, et non solum multitudinem quoad numerum, sed quoad gradum intensionis, velocitatis, activitatis et aliorum quae diximus. Et similiter sub ly 'certa habitudo' eadem comprehendentur. Verum etiam nec isto modo proportio ponenda est inter aliqua nisi propter aliquid quod utrique sit commune, aut secundum aequalitatem, aut secundum magis vel minus. Nec hoc est redire ad priorem definitionem, quia in ly 'aliquid', ut enucleam, plura ibi comprehendimus quam in alia definitione. Et haec descriptio partim comprehendet Mathematicos, et amplectetur Philosophos. Et antequam alias quaestiones absolvam, ponetur divisio proportionum.
 
-# De divisione proportionis
+## De divisione proportionis
 
 ### Divisio proportionum
 
@@ -614,45 +624,59 @@ Proportionum quaedam aequalitatis, quaedam inaequalitatis.
 
 ### Proportio aequalitas
 
-Proportio aequalitatis /30b/: est unius ad aliud sibi aequale certa habitudo. Et intellige hos terminos ut prius, et etiam in omnibus descriptionibus ponendis. Exemplum, 4 ad 4, pedale ad pedale.
+> Proportio aequalitatis /30b/: est unius ad aliud sibi aequale certa habitudo.
 
-Proportio inaequalitatis: est unius ad aliud sibi inaequale certa habitudo, ut 4 ad 2. Proportio inaequalitatis gemina est, quaedam est maioris inaequalitatis, quaedam minoris inaequalitatis.
+Et intellige hos terminos ut prius, et etiam in omnibus descriptionibus ponendis. Exemplum, 4 ad 4, pedale ad pedale.
 
-Proportio maioris inaequalitatis: est unius ad aliud sibi inaequale certa habitudo maioris facta comparatione ad minus, ut 8 ad 4, 4 ad 2.
+> Proportio inaequalitatis: est unius ad aliud sibi inaequale certa habitudo, ut 4 ad 2.
+
+Proportio inaequalitatis gemina est, quaedam est maioris inaequalitatis, quaedam minoris inaequalitatis.
+
+> Proportio maioris inaequalitatis: est unius ad aliud sibi inaequale certa habitudo maioris facta comparatione ad minus, ut 8 ad 4, 4 ad 2.
 
 ### Proportio minoris inaequalitatis
 
-Proportio minoris inaequalitatis: est unius ad aliud sibi inaequale certa habitudo minore ad maius comparato, ut duorum ad quattuor.
+> Proportio minoris inaequalitatis: est unius ad aliud sibi inaequale certa habitudo minore ad maius comparato, ut duorum ad quattuor.
 
 Proportio maioris inaequalitatis scinditur, nam quaedam simplex, quaedam composita. Simplex dividitur, quaedam multiplex sine addito, quaedam superparticularis, quaedam superpartiens.
 
 ### Proportio multiplex
 
-Proportio multiplex: est quando aliquid continet aliud pluries adaequate, id est, aut bis aut ter aut quater dumtaxat, et sic consequenter, ut quattuor ad duo. Species multiplicis in quas multiplex dividitur plures sunt, dupla, tripla, quadrupla, et caetera.
+> Proportio multiplex: est quando aliquid continet aliud pluries adaequate, id est, aut bis aut ter aut quater dumtaxat, et sic consequenter, ut quattuor ad duo.
+
+Species multiplicis in quas multiplex dividitur plures sunt, dupla, tripla, quadrupla, et caetera.
 
 ### Dupla
 
-Dupla: quando aliquid continet aliud bis praecise, ut quattuor ad duo.
+> Dupla: quando aliquid continet aliud bis praecise, ut quattuor ad duo.
 
 ### Tripla
 
-Tripla: quando aliquid continet aliud ter praecise, et sic consequenter. Exemplum, sex ad duo, et sic valebis de aliis exemplificare.
+> Tripla: quando aliquid continet aliud ter praecise, et sic consequenter.
+
+Exemplum, sex ad duo, et sic valebis de aliis exemplificare.
 
 ### Superparticularis
 
-Proportio superparticularis: est quando aliquid continet aliud semel tantum, et cum hoc unam eius partem aliquotam adaequate, non est curae quae sit illa pars aliquota. Haec in plures species etiam dividitur, in scilicet sesquialteram, sesquitertiam, et sic de aliis.
+> Proportio superparticularis: est quando aliquid continet aliud semel tantum, et cum hoc unam eius partem aliquotam adaequate, non est curae quae sit illa pars aliquota.
+
+Haec in plures species etiam dividitur, in scilicet sesquialteram, sesquitertiam, et sic de aliis.
 
 ### Sesquialtera
 
-Sesquialtera: est quando aliquid continet aliud semel solum, et cum hoc partem aliquotam quae vocatur medietas adaequate. Exemplum, trium ad duo. Sex ad quattuor continet quattuor et binarium, medietatem quaternarii ad sensum dictum in praeambulis.
+> Sesquialtera: est quando aliquid continet aliud semel solum, et cum hoc partem aliquotam quae vocatur medietas adaequate.
+
+Exemplum, trium ad duo. Sex ad quattuor continet quattuor et binarium, medietatem quaternarii ad sensum dictum in praeambulis.
 
 ### Sesquitertia
 
-Proportio sesquitertia: est quando aliquid continet aliud semel solum, et cum hoc partem quae tertia nuncupatur adaequate. Exemplum, quattuor ad 3, 8 ad 6, et ita consimiliter poteris alias species describere et earum exempla dare.
+> Proportio sesquitertia: est quando aliquid continet aliud semel solum, et cum hoc partem quae tertia nuncupatur adaequate.
+
+Exemplum, quattuor ad 3, 8 ad 6, et ita consimiliter poteris alias species describere et earum exempla dare.
 
 ### Superpartiens
 
-Proportio superpartiens, est quando aliquid continet aliud semel solum, et cum hoc partes aliquotas eius ex quibus non fit una /31a/ aliquota illius, ut 5 ad 3 continet ternarium, et cum hoc duas unitates quarum quaelibet est ternarii aliquota, ex quibus non fit nisi binarius, qui, ut vides, non est ternarii aliquota.
+> Proportio superpartiens: est quando aliquid continet aliud semel solum, et cum hoc partes aliquotas eius ex quibus non fit una /31a/ aliquota illius, ut 5 ad 3 continet ternarium, et cum hoc duas unitates quarum quaelibet est ternarii aliquota, ex quibus non fit nisi binarius, qui, ut vides, non est ternarii aliquota.
 
 Sed in assignandis speciebus in quas superpartiens dividitur est difficultas, ut ostendemus.
 
@@ -664,7 +688,7 @@ Primum: Capiendo ly 'bi' et numeros imparem partium aliquotarum, semper ascenden
 
 Secundum documentum: In assignandis istis speciebus, cave ne cum ly 'bi' capias partes aliquotas a numero pari denominatas. Istae enim superbipartiens secundas, superbipartiens quartas, sextas, et caetera, non sunt species superpartientis demonstratur. Nam superbipartiens secundas esset quando aliquid contineret aliud semel solum, et cum hoc duas secundas eius, et cum duae secundae sint totum contineret bis totum, et sic esset dupla, et citius multiplicis species et non superpartientis. Et superbipartiens quartas esset quando aliquid contineret aliud semel /31b/ solum, et cum hoc duas quartas, et cum duae quartae faciant medietatem, iam medietati aequale contineret igitur ipsum et medietatem eius, et sic esset sesquialtera, et species superparticularis et non superpartientis. Consimiliter poterimus deducere de aliis.
 
-# De speciebus proportionis
+## De speciebus proportionis
 
 ### De speciebus superpartientis
 
@@ -682,7 +706,11 @@ Quintum documentum: Procedendo per 'quadri' et partes aliquotas numeri paris, al
 
 ### Proportio composita
 
-Proportio composita partitur, nam quaedam est multiplex superparticularis, quaedam multiplex superpartiens. Multiplex superparticularis [est] quando aliquid continet aliud pluries quam semel, et cum hoc partem aliquotam eius adaequate, ut 5 ad 2. Haec etiam dividi potest in species, et triplici modo ipsae sumi possunt, et sint tria documenta.
+Proportio composita partitur, nam quaedam est multiplex superparticularis, quaedam multiplex superpartiens.
+
+> Multiplex superparticularis: [est] quando aliquid continet aliud pluries quam semel, et cum hoc partem aliquotam eius adaequate, ut 5 ad 2.
+
+Haec etiam dividi potest in species, et triplici modo ipsae sumi possunt, et sint tria documenta.
 
 Primum: Species possunt sumi ex parte de ly 'multiplex' remanente ly 'superparticularis', et daretur sic dupla superparticularis, tripla superparticularis, et sic consequenter. Prima esset quando aliquid continet aliud bis solum, et cum hoc partem aliquotam eius adaequate, ut 10 ad 4, simili modo poteris alias definire.
 
@@ -690,7 +718,9 @@ Secundum documentum: Species possunt sumi ex parte de ly 'superparticularis' ret
 
 Tertium documentum: Species possunt sumi ex parte utriusque, et ibi servari multiplex ordo. Primum cum dupla capere species superparticularis non solum una. Secundus cum tripla capere etiam omnes superparticulares, et sic consequenter. Dupla sesquialtera est quando aliquid continet aliud bis solum, et cum hoc medietatem. Dupla sesquitertia est quando aliquid continet aliud bis solum, et tertiam eius, ut 7 ad 3. Tripla sesquialtera est quando aliquid continet aliud ter solum, et cum hoc medietatem eius, ut 7 ad 2, et consimiliter poteris omnes definire, et isto ultimo modo proprie assignantur species, quia hae sunt specialissimae, et per specialissimas respondendum est quando quaeritur quae proportio est huius ad illud.
 
-Multiplex superpartiens sic describitur: est quando aliquid continet aliud pluries quam semel, et cum hoc partes aliquotas ex quibus non fit una eius. Exemplum ut 8 ad 3. Haec etiam scinditur in species, et etiam /32b/ triplici modo possunt sumi: ex parte de ly 'multiplex' servando ly 'superpartiens', ut dupla superpartiens, tripla superpartiens; secundo ex parte de ly 'superpartiens' servando ly 'multiplex'; tertio ex parte utriusque, sed cave quomodo capis ex parte de ly 'superpartiens' capias eodem modo ut diximus in simplici, et dicta illic servient tibi ibi, et hoc tertio modo proprius capiendo species, et etiam potes facere plures ordines, ut diximus de alia composita.
+> Multiplex superpartiens sic describitur: est quando aliquid continet aliud pluries quam semel, et cum hoc partes aliquotas ex quibus non fit una eius.
+
+Exemplum ut 8 ad 3. Haec etiam scinditur in species, et etiam /32b/ triplici modo possunt sumi: ex parte de ly 'multiplex' servando ly 'superpartiens', ut dupla superpartiens, tripla superpartiens; secundo ex parte de ly 'superpartiens' servando ly 'multiplex'; tertio ex parte utriusque, sed cave quomodo capis ex parte de ly 'superpartiens' capias eodem modo ut diximus in simplici, et dicta illic servient tibi ibi, et hoc tertio modo proprius capiendo species, et etiam potes facere plures ordines, ut diximus de alia composita.
 
 Describam unam per quam patebit aliarum descriptio: dupla superbipartiens tertias quando aliquid continet aliud bis solum et cum hoc duas tertias, ut 16 ad 6, 8 ad 3, et ex his patet quod inter has species non debes capere duplam superbipartientem quartas, nec triplam supertripartientem tertias, et ita de aliis quas renuimus in simplici.
 
@@ -698,16 +728,22 @@ Describam unam per quam patebit aliarum descriptio: dupla superbipartiens tertia
 
 Proportio minoris inaequalitatis etiam portionis potest dividi in simplicem et compositam. Similiter minoris inaequalitatis etiam est multiplex, quaedam submultiplex, quaedam subsuperparticularis, quaedam subsuperpartiens, quaedam submultiplex superparticularis, quaedam submultiplex superpartiens.
 
-Proportio submultiplex plures species continet, et est quando aliquid continetur ab alio aliquoties adaequate. Species eius sunt subdupla, subtripla, et sic consequenter. Subdupla est quando aliquid continetur ab alio bis adaequate, ut 2 ad 4, et ita de aliis.
+> Proportio submultiplex: plures species continet, et est quando aliquid continetur ab alio aliquoties adaequate.
+
+Species eius sunt subdupla, subtripla, et sic consequenter. Subdupla est quando aliquid continetur ab alio bis adaequate, ut 2 ad 4, et ita de aliis.
 
 ### Subsesquialtera
 
-Subsuperparticularis est quando aliquid continetur ab alio semel, et cum hoc una pars eius aliquota adaequate, et plures eius sunt species, scilicet subsesquialtera, subsesquitertia, et sic consequenter. Prima est quando aliquid continetur ab alio semel adaequate, et cum hoc medietas eius, ut 2 ad 3, et consimiliter alias valebis describere.
+> Subsuperparticularis: est quando aliquid continetur ab alio semel, et cum hoc una pars eius aliquota adaequate, et plures eius sunt species, scilicet subsesquialtera, subsesquitertia, et sic consequenter.
+
+Prima est quando aliquid continetur ab alio semel adaequate, et cum hoc medietas eius, ut 2 ad 3, et consimiliter alias valebis describere.
 
 
 ### Subsuperpartiens quintas
 
-Proportio subsuperpartiens est quando aliquid continetur ab alio semel solum, et cum hoc aliquae partes aliquotae ex quibus non fit una pars eius aliquota continetur ab illo. Etiam plures species habet, hae sunt subsuperbipartiens tertias, subsuperbipartiens quintas, et sic de aliis. Et prima est quando aliquid continetur ab alio solus, et cum hoc /33a/ duae eius tertiae, ut 3 ad 5, et ita in aliis. Et in assignandis istis speciebus debes cavere id quod diximus assignando species superpartientis propositae minoris inaequalitatis, bina est etiam ibi composita submultiplex superparticularis et submultiplex superpartiens.
+> Proportio subsuperpartiens: est quando aliquid continetur ab alio semel solum, et cum hoc aliquae partes aliquotae ex quibus non fit una pars eius aliquota continetur ab illo.
+
+Etiam plures species habet, hae sunt subsuperbipartiens tertias, subsuperbipartiens quintas, et sic de aliis. Et prima est quando aliquid continetur ab alio solus, et cum hoc /33a/ duae eius tertiae, ut 3 ad 5, et ita in aliis. Et in assignandis istis speciebus debes cavere id quod diximus assignando species superpartientis propositae minoris inaequalitatis, bina est etiam ibi composita submultiplex superparticularis et submultiplex superpartiens.
 
 Prima est quando aliquid continetur ab alio pluries quam semel, et cum hoc una pars eius aliquota adaequate. Subdividitur etiam in plures, et possunt species triplici modo capi eodem modo ut diximus de multiplici superparticulari addendo ly 'sub'. Sed proprie sunt haec: subdupla sesquialtera, subdupla sesquitertia, et caetera.
 
@@ -715,9 +751,11 @@ Prima est quando aliquid continetur ab alio pluries quam semel, et cum hoc una p
 
 ### Subdupla sesquialtera
 
-Subdupla sesquialtera est quando aliquid continetur ab alio bis solum, et cum hoc medietas eius adaequate, ut 2 ad 5, et ita in aliis.
+> Subdupla sesquialtera: est quando aliquid continetur ab alio bis solum, et cum hoc medietas eius adaequate, ut 2 ad 5, et ita in aliis.
 
-Submultiplex superpartiens est quando aliquid pluries quam semel continetur ab alio cum aliquotis aliquibus ex quibus non fit una aliquota eius. Et possunt eius species tripliciter assignari, ut diximus de multiplici superpartienti addendo ly 'sub', et propter brevitatem relinquuntur, proprie tamen sunt haec: subdupla superbipartiens tertias, subdupla superbipartiens quintas, et sic de ceteris. Prima est quando aliquid continetur ab alio bis solum cum duabus tertiis eius, ut 3 ad 8. Eodem modo valebis alias describere.
+> Submultiplex superpartiens: est quando aliquid pluries quam semel continetur ab alio cum aliquotis aliquibus ex quibus non fit una aliquota eius.
+
+Et possunt eius species tripliciter assignari, ut diximus de multiplici superpartienti addendo ly 'sub', et propter brevitatem relinquuntur, proprie tamen sunt haec: subdupla superbipartiens tertias, subdupla superbipartiens quintas, et sic de ceteris. Prima est quando aliquid continetur ab alio bis solum cum duabus tertiis eius, ut 3 ad 8. Eodem modo valebis alias describere.
 
 Potest tamen breviter, pro omnibus minoris inaequalitatis, ponere unam regulam quae talis est:
 
@@ -739,9 +777,11 @@ Pro quarum enucleatione sit tale documentum: Sicut inter numeros et quantitates 
 
 ### Proportionalitas geometrica, proportionalitas arithmetica
 
-> Proportionalitas est proportionum ob aequalitatem vel inaequalitatem habitudo, quae multiplex est, quaedam dicitur geometrica, quaedam arithmetica.
+> Proportionalitas: est proportionum ob aequalitatem vel inaequalitatem habitudo, quae multiplex est, quaedam dicitur geometrica, quaedam arithmetica.
 
-Geometrica proportionalitas est similium proportionum cum excessus dissimilitudine. Exemplum: 1, 2, 4, 8. Ibi continue servatur similis proportio, quia continue servatur dupla descendendo et subdupla ascendendo, ut vides, dato quod non semper observetur similitudo excessus, quoniam primus excessus est unitatis, secundus binarii, et caetera. Ex quo patet quod tam ascendendo quam descendendo potest reperiri haec proportionalitas.
+> Geometrica proportionalitas: est similium proportionum cum excessus dissimilitudine.
+
+Exemplum: 1, 2, 4, 8. Ibi continue servatur similis proportio, quia continue servatur dupla descendendo et subdupla ascendendo, ut vides, dato quod non semper observetur similitudo excessus, quoniam primus excessus est unitatis, secundus binarii, et caetera. Ex quo patet quod tam ascendendo quam descendendo potest reperiri haec proportionalitas.
 
 ### Documentum in naturali philosophia
 
@@ -757,7 +797,7 @@ Et hoc servit pluribus aliis locis ubi tangitur de hac corruptione geometrica, e
 
 ### Proportionalitas arithmetica
 
-> Proportionalitas arithmetica est excessus similitudo quamquam dissimilitudo.
+> Proportionalitas arithmetica: est excessus similitudo quamquam dissimilitudo.
 
 Do exemplum, ut: 1, 2, 3, 4. Et sic consequenter. Vides semper unitatis servatur excessum cum alia et alia proportione. Quando igitur in physica reperies casum quod mobile in prima parte proportionali moveatur ut 2, in secunda ut 3, et sic consequenter arithmetice, iam scies intelligere quod debes servare similem excessum ut in principio, et si non similem proportionem.
 
@@ -775,9 +815,7 @@ Et sicut in logica, non est inconveniens id esse antecedens et consequens opposi
 
 ### Proportionalitas continua
 
-Tunc proportionalitas continua sic definitur:
-
-> Est similitudo proportionum communicantium in eodem tertio communi medio vel pluribus, sive quando consequens unius est antecedens alterius.
+> Tunc proportionalitas continua sic definitur: est similitudo proportionum communicantium in eodem tertio communi medio vel pluribus, sive quando consequens unius est antecedens alterius.
 
 Exemplum: qualis est proportio 8 ad 4, talis est 4 ad 2. Haec proportionalitas continua dicitur et vocatur continua geometrica propter proportionum similitudinem cum excessus dissimilitudine.
 
@@ -793,9 +831,13 @@ Proportionalitas continua non potest reperiri in proportionalitate arithmetica, 
 
 ### Proportionalitas discontinua
 
-> Proportionalitas discontinua est comparatio proportionum.
+> Proportionalitas discontinua: est comparatio proportionum.
 
-Vel si vis, ut dixi, similitudo proportionum inter quas non capitur idem commune, sive inter quas non est consequens unius antecedens alterius. Exemplum ut qualis est proportio 8 ad 4, talis est 2 ad 1. Et haec proportionalitas non reperitur in paucioribus terminis quam 4, sed in pluribus reperiri valet. Patet in exemplo qualis est 3 ad 6, talis est 8 ad 4, et 2 ad 1. Et si petas utrum ibi sit proportionalitas discontinua, qualis est proportio 3 ad 6, talis 8 /35a/ ad 4, dico quod sic.
+Vel si vis, ut dixi:
+
+> Similitudo proportionum inter quas non capitur idem commune, sive inter quas non est consequens unius antecedens alterius.
+
+Exemplum ut qualis est proportio 8 ad 4, talis est 2 ad 1. Et haec proportionalitas non reperitur in paucioribus terminis quam 4, sed in pluribus reperiri valet. Patet in exemplo qualis est 3 ad 6, talis est 8 ad 4, et 2 ad 1. Et si petas utrum ibi sit proportionalitas discontinua, qualis est proportio 3 ad 6, talis 8 /35a/ ad 4, dico quod sic.
 
 
 

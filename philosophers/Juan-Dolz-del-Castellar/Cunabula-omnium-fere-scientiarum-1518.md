@@ -482,8 +482,39 @@ Secunda: Binarius cuiuslibet partis ipso dempto aliquota est, patet ex definitio
 
 Tertia: Ternarius non cuiuslibet imparis est pars aliquota, patet de quinario numero, licet bene alicuius, patet de novenario.
 
-Quarta: Binarius non imparis est pars aliquota. Et ex his ipsum numerum non proprie habere partem aliquotam, cum situs sit indivisibilis /27a/.
+Quarta: Binarius non imparis est pars aliquota. Et ex his ipsum numerum non proprie habere partem aliquotam, cum situs sit indivisibilis /27a/, sed ad sensum superius datum de numeri resultantia.
 
+Patet ultra in quantitatibus continuis non esse ut in numeris; nihil enim est quod cuiuslibet quantitatis continuae pars aliquota nuncupetur. Patet inductive: non pedalitas quia non sesquipedalitatis, nec sesquipedalitas quia non quartae, et caetera. Nihilominus continuorum pars aliquota est, et impar non imparis est pars aliquota.
+
+### Pars aliquota dividitur
+
+Septimum praeambulum: Pars aliquota scinditur: quaedam fertur medietas sive secunda, quaedam tertia, quaedam quarta, et sic consequenter. Et quia omne totum medietatem, tertiam, quartam, et sic deinceps continet, unde omne totum ex duabus medietatibus, tribus tertiis, quattuor quartis, et caetera, componitur sive resultat. Ideo unum totum plures, immo infinitas partes aliquotas habere censetur.
+
+Inter illas discrimen est: nam si cum medietate quidquid ultra suscipias, totius non est pars aliquota cuius est medietas, secus alterius; sed si cum tertia et quarta et caeteris quidquid ultra accipias, pars aliquota ipsius totius remanet, saltem poterit ita esse. Patet quoniam medietas est tertia et quarta et quidquid ultra, et sic de aliis; ex quibus patet medietatem debere sumi bis, tertiam ter, quartam quater, et sic de singulis ad totius resultantiam.
+
+Multae istis partibus aliquotis proprietates, multa quod discrimina, plures convenientiae attribui valent. Sed haec arithmeticus perscrutatur extra terminos quos in principio exire renuimus. Solum quia artium cursus, et maxime in philosophia apud Parisianos, brevis est, proportiones philosophiae eruditionem innuentes, ut quas legere et audire in tam brevi temporis curriculo regentes et scholares valeant, declarare intendimus.
+
+Pro nunc tum, etiam quia omnibus in locis istis artibus studentes raro nisi semel in die philosophiae incumbunt, et vix ultra annum ad audiendam philosophiam scholas frequentant; tum quia paucis quisque contentatur et paucis se magnifacit, iuxta illud apostoli: "Scientia inflat"; tum quia communiter artium professores indigentiae insudant, iuxta illud: "Artes mendicant et non nisi paleae colliguntur". Quia virtutes diligunt, et vitia fugientes temporalia postponunt, non valent plures annos studio incumbere. Hunc tractatum non nisi ut eruditioni /27b/ philosophiae tam brevi tempore eorum indigentiae annuamus, non prolixiorem in aliis impertinentibus mathematicalibus philosophiae adiecimus.
+
+### Octavum praeambulum
+
+Octavum praeambulum: Respiciens definitionem partis non aliquotae. Quia, et si communiter praeambulum non fiat super hoc, difficultas facienda tamen est ut ostendam; et quaeritur quae sit eius definitio.
+
+Si dicas debet definiri opposito modo aliquota ad partem aliquotam, tunc ergo definitio esset haec:
+
+### Pars non aliquota
+
+> Pars non aliquota est quae, non aliquotiens sumpta, ipsum totum conficit adaequate.
+
+Ex hac sequitur definitione quod binarius non est pars non aliquota, quia falsum quod non aliquotiens ipsum totum conficiat adaequate; immo quaternarium aliquotiens conficit adaequate, quod tamen debeat dici pars non aliquota patet: est pars non aliquota ternarii, ergo est non aliquota.
+
+Consequentiam concederet mathematicus, quidquid diceret logicus. Si alio modo definire voluerint, scilicet: "Pars non aliquota est quae aliquotiens sumpta, aliquod totum non conficit adaequate", sequitur quod eadem est pars aliquota et non aliquota. Sic patet de binario, qui est aliquota ut constat, et etiam non aliquota; nam aliquod totum aliquotiens non conficit adaequate, puta binarium.
+
+Resolutio tamen erit haec: descriptio termini spontanea, est et unaquaeque data sustentabilis est, sed consequenter loqui opus est. Prima potest admitti, et diceretur binarium non esse non aliquotam, immo vix illo modo non aliquotam reperies, sed nihilominus diceretur non aliquota binarii aut quinarii; tunc merito negaretur ille arguendi modus: "est non aliquota binarii; ergo est non aliquota".
+
+Mathematicus non sic loqueretur, quia non staret in rigore illius descriptionis; si sibi tamen supponeretur, admittere deberet per regulam famosam artis obligatoriae: "quilibet terminus potest converti cum quolibet alio per novam impositionem". Si vero teneatur secunda descriptio, fateor eandem partem esse aliquotam et non aliquotam simul; et hoc consonat mathematicis, nec illi termini contradictorie caperentur, quia, ut vides, descriptiones non opponerentur. Ut dicunt Dialectici de conceptu ultimato et non ultimato, ibi praesupponimus, quantum ad quantitatem, idem esse quod distinguantur aut non, in lectura philosophiae aperuimus.
+
+His praeambulis positis, ponendae /28a/ sunt definitiones hunc primum articulum respiciens.
 
 <!--
 ## Apparatus Criticus Reference
@@ -516,6 +547,8 @@ Page 24: Bradwardinum ] emend. Brauardinum
 Page 24: Forliviensem ] emend. Forlumensem 
 Page 26a: phantastica ] emend. fantastica 
 Page 26a: aequalis ] emend. et qualis 
+Page 27a: sesquipedalitatis ] emend. se imipedalitatis 
+Page 27a: sesquipedalitas ] emend. se imipedalitas
 
 
 -->

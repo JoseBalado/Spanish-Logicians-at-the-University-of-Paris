@@ -113,8 +113,11 @@ aliquales
 aliqualis
 aliquomodo
 aliquota
+aliquotae
 aliquotam
+aliquotas
 aliquotiens
+aliquotis
 Allatio
 allegatorem
 Alliaco
@@ -1632,6 +1635,7 @@ materialitate
 materialitatem
 materialitatis
 mathematicalia
+mathematicalibus
 mathematices
 Mediavilla
 medonem
@@ -1854,6 +1858,7 @@ paralogizari
 parificantur
 pariforma
 pariformiter
+Parisianos
 Parisiensem
 Parisiensibus
 Parisiensis
@@ -1874,6 +1879,7 @@ partitivum
 parvissima
 parvissimaque
 parvissimum
+pedalitas
 pedalitates
 pelagianis
 penetrabilitatem
@@ -2404,6 +2410,7 @@ restauretur
 restrictivum
 restrictoria
 restringibilem
+resultantiam
 retentiva
 retentivam
 Retentivum
@@ -2502,6 +2509,8 @@ sermocinalem
 sermocinalibus
 sermocinalis
 sermocionales
+sesquipedalitas
+sesquipedalitatis
 Severino
 Sexingenta
 sexqui

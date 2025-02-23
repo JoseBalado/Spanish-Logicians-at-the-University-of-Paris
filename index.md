@@ -1,5 +1,7 @@
 ---
 title: Spanish Logicians at the University of Paris (16th Century)
+description: A comprehensive resource on Spanish logicians at the University of Paris during the 16th century.
+keywords: Spanish logicians, University of Paris, 16th century, history of logic
 ---
 
 ## Welcome to the Spanish Logicians at the University of Paris (16th Century) Project

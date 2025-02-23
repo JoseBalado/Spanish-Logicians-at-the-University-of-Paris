@@ -1,7 +1,7 @@
 ---
 title: Spanish Logicians at the University of Paris (16th Century)
 description: A comprehensive resource on Spanish logicians at the University of Paris during the 16th century.
-keywords: Spanish logicians, University of Paris, 16th century, history of logic
+keywords: Spanish logicians, University of Paris, 16th century, history of logic, medieval logic, renaissance logic, Jerónimo Pardo, Antonio Coronel, Luis Coronel, Gaspar Lax, Juan Dolz, Juan de Celaya, Fernando de Enzinas, Fernando de Encinas, Domingo de Soto
 ---
 
 ## Welcome to the Spanish Logicians at the University of Paris (16th Century) Project
@@ -59,7 +59,7 @@ Domingo de Soto was a renowned Spanish logician and theologian, whose work at th
 
 ### Contact me
 
-If you are interested in contributing to this project, please reach out to us using the form below. I look forward to collaborating with you!
+If you are interested in contributing to this project, please reach out to me using the form below. I look forward to collaborating with you!
 
 <form
   action="https://formspree.io/f/myzkazvk"

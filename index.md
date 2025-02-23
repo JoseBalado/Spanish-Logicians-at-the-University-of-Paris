@@ -26,7 +26,7 @@ Here are some of the logicians I am currently focusing on:
 - **Antonio Coronel (1480 - 1521)**
 - **Luis Coronel (1482? - 1531)**
 - **Gaspar Lax (1487 - 1560)**
-- **Juan Dolz (1490? - 1550?)**
+- **[Juan Dolz (1490? - 1550?)](philosophers/Juan-Dolz-del-Castellar.md)**
 - **Juan de Celaya (1490 - 1558)**
 - **Fernando de Enzinas (1494? - 1523)**
 - **Domingo de Soto (1494 - 1560)**
@@ -44,7 +44,7 @@ Luis Coronel made significant contributions to logic and philosophy, although th
 ### Gaspar Lax (1487 - 1560)
 Gaspar Lax was a prominent Spanish logician and mathematician, whose work at the University of Paris left a lasting impact on the academic community.
 
-### Juan Dolz (1490? - 1550?)
+### [Juan Dolz (1490? - 1550?)](philosophers/Juan-Dolz-del-Castellar.md)
 Juan Dolz was a respected logician, with approximate dates indicating his active period and contributions to the University of Paris.
 
 ### Juan de Celaya (1490 - 1558)

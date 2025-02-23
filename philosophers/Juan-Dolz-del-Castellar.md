@@ -1,7 +1,7 @@
 ---
 title: About Juan Dolz del Castellar
 description: Detailed information about Juan Dolz del Castellar, an Aragonese philosopher and disciple of Gaspar Lax.
-keywords: Juan Dolz del Castellar, Aragonese philosopher, Gaspar Lax, Collège de Montaigu, Collège de Lisieux, Montauban, Disceptationes
+keywords: Juan Dolz, Juan Dolz del Castellar, Aragonese philosopher, Gaspar Lax, Collège de Montaigu, Collège de Lisieux, Montauban, Disceptationes
 ---
 
 ## About Juan Dolz del Castellar

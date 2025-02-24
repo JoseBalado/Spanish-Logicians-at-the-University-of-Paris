@@ -1,7 +1,7 @@
 ---
 title: Spanish Logicians at the University of Paris (16th Century)
 description: A comprehensive resource on Spanish logicians at the University of Paris during the 16th century.
-keywords: Spanish logicians, University of Paris, 16th century, history of logic, medieval logic, renaissance logic, Jerónimo Pardo, Antonio Coronel, Luis Coronel, Gaspar Lax, Juan Dolz, Juan de Celaya, Fernando de Enzinas, Fernando de Encinas, Domingo de Soto
+keywords: Spanish logicians, University of Paris, 16th century, logic, history of logic, medieval logic, renaissance logic, Jerónimo Pardo, Antonio Coronel, Luis Coronel, Gaspar Lax, Juan Dolz, Juan de Celaya, Fernando de Enzinas, Fernando de Encinas, Domingo de Soto
 ---
 
 ## Welcome to the Spanish Logicians at the University of Paris (16th Century) Project
@@ -56,7 +56,6 @@ Fernando de Enzinas was a notable figure in the field of logic, with approximate
 ### Domingo de Soto (1494 - 1560)
 Domingo de Soto was a renowned Spanish logician and theologian, whose work at the University of Paris significantly shaped the academic discourse of his time.
 
-
 ### Contact me
 
 If you are interested in contributing to this project, please reach out to me using the form below. I look forward to collaborating with you!
@@ -77,3 +76,11 @@ If you are interested in contributing to this project, please reach out to me us
   <br>
   <button type="submit">Send</button>
 </form>
+
+## Copyright and Collaboration
+
+This project is a collaborative effort, and all content is provided under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt the material as long as you provide appropriate credit, indicate if changes were made, and distribute your contributions under the same license.
+
+If you notice any copyright violations or have concerns about the content, please contact me immediately so that we can address the issue.
+
+Thank you for your contributions and support in making this project a valuable resource for everyone interested in the history of logic.

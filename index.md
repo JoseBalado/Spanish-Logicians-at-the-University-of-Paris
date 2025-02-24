@@ -76,6 +76,8 @@ If you are interested in contributing to this project, please reach out to me us
   <button type="submit" style="padding: 10px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">Send</button>
 </form>
 
+<br>
+
 ## Copyright and Collaboration
 
 This project is a collaborative effort, and all content is provided under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt the material as long as you provide appropriate credit, indicate if changes were made, and distribute your contributions under the same license.

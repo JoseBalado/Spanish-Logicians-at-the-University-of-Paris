@@ -24,10 +24,10 @@ keywords: Juan Dolz del Castellar, Juan Dolz, Aragonese philosopher, Gaspar Lax,
 
 ## Works
 
-- *Syllogismi* (1511)
-- *Disceptationes* (1512)
-- *Termini* (1514)
-- *Cunabula omnium fere scientiarum et precipue phisicalium difficultatum* (1518)
+- [*Syllogismi* (Paris 1511)](https://www.digitale-sammlungen.de/en/view/bsb10139052?page=,1)
+- [*Disceptationes* (Paris 1512)](https://www.digitale-sammlungen.de/en/view/bsb10139249?page=,1)
+- *Termini* (Paris 1514)
+- [*Cunabula omnium fere scientiarum et precipue phisicalium difficultatum* (Montalbanum 1518)](https://www.google.com/books/edition/Cunabula_omnium_fere_scientiarum_et_prec/sFNKTGK9w-UC)
 
 ## References
 

@@ -56,7 +56,9 @@ Fernando de Enzinas was a notable figure in the field of logic, with approximate
 ### Domingo de Soto (1494 - 1560)
 Domingo de Soto was a renowned Spanish logician and theologian, whose work at the University of Paris significantly shaped the academic discourse of his time.
 
-### Contact me
+---
+
+## Contact me
 
 If you are interested in contributing to this project, please reach out to me using the form below. I look forward to collaborating with you!
 
@@ -77,6 +79,8 @@ If you are interested in contributing to this project, please reach out to me us
 </form>
 
 <br>
+
+---
 
 ## Copyright and Collaboration
 

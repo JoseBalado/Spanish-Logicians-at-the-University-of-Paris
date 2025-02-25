@@ -63,18 +63,17 @@ If you are interested in contributing to this project, please reach out to me us
 <form
   action="https://formspree.io/f/myzkazvk"
   method="POST"
+  style="display: flex; flex-direction: column; max-width: 400px;"
 >
-  <label>
+  <label style="margin-bottom: 10px;">
     Your email:
-    <input type="email" name="email" required>
+    <input type="email" name="email" required style="width: 100%; padding: 8px; margin-top: 5px;">
   </label>
-  <br>
-  <label>
+  <label style="margin-bottom: 10px;">
     Your message:
-    <textarea name="message" required></textarea>
+    <textarea name="message" required style="width: 100%; padding: 8px; margin-top: 5px;"></textarea>
   </label>
-  <br>
-  <button type="submit">Send</button>
+  <button type="submit" style="padding: 10px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">Send</button>
 </form>
 
 ## Copyright and Collaboration

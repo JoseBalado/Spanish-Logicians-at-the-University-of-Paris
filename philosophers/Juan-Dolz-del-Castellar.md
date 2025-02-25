@@ -12,12 +12,15 @@ keywords: Juan Dolz del Castellar, Juan Dolz, Aragonese philosopher, Gaspar Lax,
 | **Era**              | Early modern philosophy, Renaissance philosophy |
 | **Name**             | Juan Dolz del Castellar                |
 | **Birth Date**       | circa 1490                             |
+| **Death Date**       | circa 1550                             |
 | **Birth Place**      | Castellar, Crown of Aragon             |
 | **School Tradition** | Scholasticism, Nominalism              |
 | **Alma Mater**       | University of Paris                    |
 | **Main Interests**   | Logic                                  |
 
 **Juan Dolz del Castellar** was an Aragonese philosopher and disciple of Gaspar Lax. They met when Gaspar Lax taught Art at the Collège de Montaigu in Paris. In 1509, he completed his studies for a degree and a teaching degree in Arts. He taught Arts at the Collège de Lisieux in Paris, around 1509, and in Montauban (Quercy), around 1518. He published a total of four treatises between 1510 and 1518, of which *Disceptationes* (1512) stands out.
+
+*This paragraph is taken from the [Catalan Wikipedia page on Juan Dolz del Castellar](https://ca.wikipedia.org/wiki/Juan_Dolz_del_Castellar).*
 
 ## Works
 

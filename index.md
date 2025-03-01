@@ -25,7 +25,7 @@ Here are some of the logicians I am currently focusing on:
 - **Jerónimo Pardo (1460? - 1502)**
 - **Antonio Coronel (1480 - 1521)**
 - **Luis Coronel (1482? - 1531)**
-- **Gaspar Lax (1487 - 1560)**
+- **[Gaspar Lax (1487 - 1560)](#gaspar-lax-1487---1560)**
 - **[Juan Dolz (1490? - 1550?)](#juan-dolz-1490---1550)**
 - **Juan de Celaya (1490 - 1558)**
 - **Fernando de Enzinas (1494? - 1523)**
@@ -41,7 +41,7 @@ Antonio Coronel was an influential figure in the realm of logic and philosophy, 
 ### Luis Coronel (1482? - 1531)
 Luis Coronel made significant contributions to logic and philosophy, although the exact details of his birth remain unknown.
 
-### Gaspar Lax (1487 - 1560)
+### [Gaspar Lax (1487 - 1560)](philosophers/Gaspar-Lax.md)
 Gaspar Lax was a prominent Spanish logician and mathematician, whose work at the University of Paris left a lasting impact on the academic community.
 
 ### [Juan Dolz (1490? - 1550?)](philosophers/Juan-Dolz-del-Castellar.md)

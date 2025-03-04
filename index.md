@@ -6,7 +6,7 @@ keywords: Spanish logicians, University of Paris, 16th century, logic, history o
 
 ## Welcome to the Spanish Logicians at the University of Paris (16th Century) Project
 
-This project aims to gather, share, and enhance knowledge about Spanish logicians who were active at the University of Paris during the 16th century. We are dedicated to creating a comprehensive resource that includes biographical information, contributions, and historical context about these influential figures.
+This project aims to gather, share, and enhance knowledge about Spanish logicians who were active at the University of Paris during the 16th century. I am dedicated to creating a comprehensive resource that includes biographical information, contributions, and historical context about these influential figures.
 
 ### My Mission
 
@@ -28,7 +28,7 @@ Here are some of the logicians I am currently focusing on:
 - **[Gaspar Lax (1487 - 1560)](#gaspar-lax-1487---1560)**
 - **[Juan Dolz (1490? - 1550?)](#juan-dolz-1490---1550)**
 - **Juan de Celaya (1490 - 1558)**
-- **Fernando de Enzinas (1494? - 1523)**
+- **[Fernando de Enzinas (1494? - 1523)](#fernando-de-enzinas-1494---1523)**
 - **Domingo de Soto (1494 - 1560)**
 
 ## Main 
@@ -50,8 +50,8 @@ Juan Dolz was a respected logician, with approximate dates indicating his active
 ### Juan de Celaya (1490 - 1558)
 Juan de Celaya was a distinguished logician and philosopher, known for his extensive work and influence at the University of Paris.
 
-### Fernando de Enzinas (1494? - 1523)
-Fernando de Enzinas was a notable figure in the field of logic, with approximate dates marking his contributions to the University of Paris.
+### [Fernando de Enzinas (1494? - 1523)](philosophers/Fernando-de-Enzinas.md)
+Fernando de Enzinas was a notable figure in the field of logic, with approximate dates marking his contributions to the University of Paris. He was also a teacher at the Complutense University.
 
 ### Domingo de Soto (1494 - 1560)
 Domingo de Soto was a renowned Spanish logician and theologian, whose work at the University of Paris significantly shaped the academic discourse of his time.
@@ -86,6 +86,6 @@ If you are interested in contributing to this project, please reach out to me us
 
 This project is a collaborative effort, and all content is provided under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt the material as long as you provide appropriate credit, indicate if changes were made, and distribute your contributions under the same license.
 
-If you notice any copyright violations or have concerns about the content, please contact me immediately so that we can address the issue.
+If you notice any copyright violations or have concerns about the content, please contact me immediately so that I can address the issue.
 
 Thank you for your contributions and support in making this project a valuable resource for everyone interested in the history of logic.

@@ -17,7 +17,7 @@ keywords: Gaspar Lax, Aragonese philosopher, medieval logic, renaissance logic, 
 | **Alma Mater**       | University of Paris                    |
 | **Main Interests**   | Logic, Mathematics                     |
 
-**Gaspar Lax** was an Aragonese philosopher and logician. He was born in Sariñena (Huesca) in 1487, the son of Leonor de la Cueva and Gaspar Lax, a physician, and had two brothers and four sisters[^1].
+**Gaspar Lax** was an Aragonese philosopher, logician and mathematician. He was born in Sariñena (Huesca) in 1487, the son of Leonor de la Cueva and Gaspar Lax, a physician, and had two brothers and four sisters[^1].
 
 After a brief stay at the Estudio de Artes in Zaragoza, he went to Paris at the age of 17.
 

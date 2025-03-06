@@ -49,7 +49,7 @@ He continued in Zaragoza with great recognition in the academic world. In 1559, 
 
 [^2]: Ayala Martínez, Jorge M. (2000). *Pensadores Aragoneses. Historia de las ideas filosóficas en Aragón*, p. 271.
 
-[^3]: [Wikipedia: Gaspar Lax](https://en.wikipedia.org/wiki/Gaspar_Lax).
+[^3]: [English Wikipedia: Gaspar Lax](https://en.wikipedia.org/wiki/Gaspar_Lax).
 
 [^4]: Ayala Martínez, Jorge M. (2000). *Pensadores Aragoneses. Historia de las ideas filosóficas en Aragón*, p. 271.
 
@@ -61,4 +61,4 @@ He continued in Zaragoza with great recognition in the academic world. In 1559, 
 
 [^8]: Ayala Martínez, Jorge M. (2000). *Pensadores Aragoneses. Historia de las ideas filosóficas en Aragón*. pp. 272-273.
 
-[^9]: [Wikipedia: Gaspar Lax](https://es.wikipedia.org/wiki/Gaspar_Lax)
+[^9]: [Spanish Wikipedia: Gaspar Lax](https://es.wikipedia.org/wiki/Gaspar_Lax)

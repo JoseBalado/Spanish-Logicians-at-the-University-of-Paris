@@ -22,7 +22,7 @@ I am looking for people to help me add content, fix errors, and share material r
 
 Here are some of the logicians I am currently focusing on:
 
-- **Jerónimo Pardo (1460? - 1502)**
+- **[Jerónimo Pardo (1460? - 1502)](#jerónimo-pardo-1460---1502)**
 - **Antonio Coronel (1480 - 1521)**
 - **Luis Coronel (1482? - 1531)**
 - **[Gaspar Lax (1487 - 1560)](#gaspar-lax-1487---1560)**
@@ -32,7 +32,7 @@ Here are some of the logicians I am currently focusing on:
 - **Domingo de Soto (1494 - 1560)**
 
 ## Main 
-### Jerónimo Pardo (1460? - 1502)
+### [Jerónimo Pardo (1460? - 1502)](philosophers/Jeronimo-Pardo.md)
 Jerónimo Pardo was a notable Spanish logician whose contributions to the field were recognized during his time at the University of Paris.
 
 ### Antonio Coronel (1480 - 1521)

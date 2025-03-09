@@ -21,9 +21,7 @@ keywords: Jerónimo Pardo, Spanish logician, medieval logic, renaissance logic, 
 
 Pardo wrote a manual on logic and one on natural philosophy, which he never completed. García Villoslada considers that the latter is in fact the *Introductiones phisicales artium Hieronimo Pardo ad totam naturalem philosophiam*, the manuscript of which is preserved in the Columbine Library of Seville (n. 3351)[^4].
 
-The only work published by Pardo was *Medulla Dyalectices*. The first edition was published by Pardo in Paris in 1500, with a foreword by his brother Miguel. The work was republished in Paris by John Mair and Jacobo Ortiz in 1505, after Jerónimo's death.
-
-*Note: The content of this article up to this point, with very few changes, was taken from* Paloma Pérez-Ilzarbe (1996). *The Doctrine of Descent in Jeronimo Pardo. Meaning, Inference, Truth.*
+The only work published by Pardo was *Medulla Dyalectices*. The first edition was published by Pardo in Paris in 1500, with a foreword by his brother Miguel. The work was republished in Paris by John Mair and Jacobo Ortiz in 1505, after Jerónimo's death[^5].
 
 Includes an index and corrections made by Ortiz as stated in the foreword, reproduced here:
 
@@ -49,6 +47,11 @@ This is the index of the Medulla Dyalectices:
 ## Notes
 
 [^1]: On the life and work of Jerónimo Pardo see García Villoslada 1938, pp. 379-380; Muñoz Deldado 1970, pp. 213-227.
+
 [^2]: Cf. Beuchot 1976, pp. 213-230; Elie 1950-1951, p. 205; Guerlac 1979, p. 20; Prantl 1955, p. 247; Torrance 1969, pp. 531-576. However, García Villoslada observes that Mair himself in his De Infinito refers to Pardo not as a teacher but as a friend. Cf. García Villoslada 1938, p. 131, n. 7.
+
 [^3]: Cf. Muñoz Delgado 1970, p. 213; Garcia Villoslada 1938, p. 380; Elie 1950-1951, p. 206; Fraile 1971, p. 322.
+
 [^4]: Cf. García Villoslada 1938, p. 380.
+
+[^5]: *Note: The content of this article up to this point, with very few changes, was taken from*: Paloma Pérez-Ilzarbe (1996). *The Doctrine of Descent in Jeronimo Pardo. Meaning, Inference, Truth.*

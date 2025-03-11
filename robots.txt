@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://josebalado.github.io/Spanish-Logicians-at-the-University-of-Paris/sitemap.xml

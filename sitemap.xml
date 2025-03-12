@@ -1,33 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
   <url>
-    <loc>https://josebalado.github.io/index.md</loc>
-    <lastmod>2025-03-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <loc>https://josebalado.github.io/Spanish-Logicians-at-the-University-of-Paris/</loc>
+    <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://josebalado.github.io/philosophers/Jeronimo-Pardo.md</loc>
-    <lastmod>2025-03-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://josebalado.github.io/Spanish-Logicians-at-the-University-of-Paris/philosophers/Jeronimo-Pardo.html</loc>
+    <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://josebalado.github.io/philosophers/Gaspar-Lax.md</loc>
-    <lastmod>2025-03-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://josebalado.github.io/Spanish-Logicians-at-the-University-of-Paris/philosophers/Gaspar-Lax.html</loc>
+    <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://josebalado.github.io/philosophers/Juan-Dolz-del-Castellar.md</loc>
-    <lastmod>2025-03-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://josebalado.github.io/Spanish-Logicians-at-the-University-of-Paris/philosophers/Juan-Dolz-del-Castellar.html</loc>
+    <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://josebalado.github.io/philosophers/Fernando-de-Enzinas.md</loc>
-    <lastmod>2025-03-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://josebalado.github.io/Spanish-Logicians-at-the-University-of-Paris/philosophers/Fernando-de-Enzinas.html</loc>
+    <priority>0.80</priority>
   </url>
 </urlset>

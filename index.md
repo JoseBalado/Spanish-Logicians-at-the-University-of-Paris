@@ -22,36 +22,24 @@ I am looking for people to help me add content, fix errors, and share material r
 
 Here are some of the logicians I am currently focusing on:
 
-- **[Jerónimo Pardo (1460? - 1502)](#jerónimo-pardo-1460---1502)**
+- **[Jerónimo Pardo (1460? - 1502)](philosophers/Jeronimo-Pardo.md)**
 - **Antonio Coronel (1480 - 1521)**
 - **Luis Coronel (1482? - 1531)**
-- **[Gaspar Lax (1487 - 1560)](#gaspar-lax-1487---1560)**
-- **[Juan Dolz (1490? - 1550?)](#juan-dolz-1490---1550)**
+- **[Gaspar Lax (1487 - 1560)](philosophers/Gaspar-Lax.md)**
+- **[Juan Dolz (1490? - 1550?)](philosophers/Juan-Dolz-del-Castellar.md)**
 - **Juan de Celaya (1490 - 1558)**
-- **[Fernando de Enzinas (1494? - 1523)](#fernando-de-enzinas-1494---1523)**
+- **[Fernando de Enzinas (1494? - 1523)](philosophers/Fernando-de-Enzinas.md)**
 - **Domingo de Soto (1494 - 1560)**
 
 ## Main 
-### [Jerónimo Pardo (1460? - 1502)](philosophers/Jeronimo-Pardo.md)
-Jerónimo Pardo was a notable Spanish logician whose contributions to the field were recognized during his time at the University of Paris.
-
 ### Antonio Coronel (1480 - 1521)
 Antonio Coronel was an influential figure in the realm of logic and philosophy, known for his work and teachings at the University of Paris.
 
 ### Luis Coronel (1482? - 1531)
-Luis Coronel made significant contributions to logic and philosophy, although the exact details of his birth remain unknown.
-
-### [Gaspar Lax (1487 - 1560)](philosophers/Gaspar-Lax.md)
-Gaspar Lax was a prominent Spanish logician and mathematician, whose work at the University of Paris left a lasting impact on the academic community.
-
-### [Juan Dolz (1490? - 1550?)](philosophers/Juan-Dolz-del-Castellar.md)
-Juan Dolz was a respected logician, with approximate dates indicating his active period and contributions to the University of Paris.
+Luis Coronel made significant contributions to logic and philosophy.
 
 ### Juan de Celaya (1490 - 1558)
 Juan de Celaya was a distinguished logician and philosopher, known for his extensive work and influence at the University of Paris.
-
-### [Fernando de Enzinas (1494? - 1523)](philosophers/Fernando-de-Enzinas.md)
-Fernando de Enzinas was a notable figure in the field of logic, with approximate dates marking his contributions to the University of Paris. He was also a teacher at the Complutense University.
 
 ### Domingo de Soto (1494 - 1560)
 Domingo de Soto was a renowned Spanish logician and theologian, whose work at the University of Paris significantly shaped the academic discourse of his time.

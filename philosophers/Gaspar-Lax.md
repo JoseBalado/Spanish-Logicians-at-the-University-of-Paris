@@ -191,8 +191,6 @@ He continued in Zaragoza with great recognition in the academic world. In 1559, 
 
 ---
 
----
-
 ### Impositiones (Parisius 1513)
 - Prima quaestio: Utrum quilibet terminus... possit converti et ipsi in sic significando subordinari — Page 4
 - Secunda quaestio: Utrum quilibet terminus... possit converti et ipsi in sic significando subordinari — Page 58
@@ -416,6 +414,7 @@ He continued in Zaragoza with great recognition in the academic world. In 1559, 
 - De descensu et ascensu — Page 58c
 - Explicit Tractatus consequentiarum — Page 66b
 
+---
 
 ## References
 

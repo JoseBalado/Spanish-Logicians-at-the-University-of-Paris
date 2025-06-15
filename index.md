@@ -44,6 +44,41 @@ Juan de Celaya was a distinguished logician and philosopher, known for his exten
 ### Domingo de Soto (1494 - 1560)
 Domingo de Soto was a renowned Spanish logician and theologian, whose work at the University of Paris significantly shaped the academic discourse of his time.
 
+
+## Chronology of Renaissance Logicians.
+*All the logicians in this table were born in the 15th century.*
+
+| Name                               | Dates        |
+|------------------------------------|--------------|
+| Johannes Versoris                  | 1410-1485    |
+| Georges de Bruxelles               | 1440?1510?   |
+| Thomas Bricot                      | 1445?1516    |
+| Magnus Hundt                       | 1449-1519    |
+| Jacques Lefèvre d'Étaples          | 1455-1536    |
+| Gerardus de Harderwijck            | 1455-1503    |
+| Silvestro Mazzolini (Prierio)      | 1456-1527    |
+| Jerónimo Pardo                     | 1460?1502    |
+| Peter Tartaret                     | 1460-1522    |
+| Jodocus Trutfetter                 | 1460-1519    |
+| Bartholomaeus Arnoldi (Usingen)    | 1465-1532    |
+| John Mair                          | 1467-1550    |
+| Agostino Nifo                      | 1470-1538    |
+| Chrysostomus Javellus              | 1470-1538    |
+| Arnoldus de Tongern                | 1470-1540    |
+| Hieronymus de Sancto Marco         | 1470?????    |
+| Hieronimus of Hangest              | 1470?1538    |
+| Josse van Clichtove                | 1472-1543    |
+| Antonio Coronel                    | 1480-1521    |
+| Luis Coronel                       | 14??-1531    |
+| Robert Caubraith                   | 1483-1544    |
+| John Eck                           | 1486-1543    |
+| Gaspar Lax                         | 1487-1560    |
+| Juan Dolz                          | 1490?1550?   |
+| Juan de Celaya                     | 1490-1558    |
+| Fernando de Enzinas                | 1494?1523    |
+| Domingo de Soto                    | 1494-1560    |
+| Augustinus Sbarroya                | 1495-1554    |
+
 ---
 
 ## Contact me

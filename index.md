@@ -79,7 +79,6 @@ Domingo de Soto was a renowned Spanish logician and theologian, whose work at th
 | Domingo de Soto                    | 1494-1560    |
 | Augustinus Sbarroya                | 1495-1554    |
 
----
 
 ## Contact me
 

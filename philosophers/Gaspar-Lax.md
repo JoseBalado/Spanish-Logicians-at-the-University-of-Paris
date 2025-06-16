@@ -43,7 +43,7 @@ He continued in Zaragoza with great recognition in the academic world. In 1559, 
 ## Index of Works and Detailed Table of Contents
 
 ### Tractatus exponibilium propositionum (Parisius 1507)
-- Littera minutisimae
+*Littera minutissima*
 - De resolutione — Page 5
 - De propositione exponibili — Page 6
 - De universalibus — Page 7
@@ -69,7 +69,7 @@ He continued in Zaragoza with great recognition in the academic world. In 1559, 
 ---
 
 ### Insolubilia (Parisius 1508)
-- Litterae minutissimae
+*Littera minutissima*
 - Circa insolubilium propositionum difficultates...
 - Prima quaestio: An aliqua propositio possit se falsificare aut impossibilitare aut propter reflexionem significare aliter esse quam est — Page 3
 - Secunda quaestio: An in se falsificantibus propositionibus duo contradictoria simul vera vel simul falsa reperiantur — Page 14
@@ -79,7 +79,7 @@ He continued in Zaragoza with great recognition in the academic world. In 1559, 
 ---
 
 ### Tractatus syllogismorum (Parisius 1509)
-- Litterae minutae
+*Littera minuta*
 - Tractatus syllogismorum feliciter incipit — Page 9
 - Prima pars — Page 9
 - Secunda pars — Page 13
@@ -110,7 +110,7 @@ He continued in Zaragoza with great recognition in the academic world. In 1559, 
 ---
 
 ### Tractatus de materiis & de oppositionibus in generali (Parisius 1511)
-- Litterae minutae
+*Littera minuta*
 - De materiis — Page 4
 - De oppositionibus in generali — Page 36
 - De contrariis — Page 6
@@ -143,7 +143,7 @@ He continued in Zaragoza with great recognition in the academic world. In 1559, 
 ---
 
 ### Obligationes (Parisius 1512)
-- Litterae minutae
+*Litterae minutae*
 - Prima pars obligationum — Page 12
 - Secunda pars principalis — Page 16
 - Prima regula — Page 16

@@ -57,6 +57,24 @@ Fernando de Enzinas was a notable figure in the field of logic, with approximate
 Domingo de Soto was a renowned Spanish logician and theologian, whose work at the University of Paris significantly shaped the academic discourse of his time.
 
 ---
+## Appendix Lean Tutorial
+
+Exercises and comments following **[Theorem Proving in Lean 4](#https://leanprover.github.io/theorem_proving_in_lean4/)**
+
+### Lean Tutorial Files
+
+- [3. Propositions and Proofs](Lean_tutorial/3.%20Propositions%20and%20Proofs.lean)
+- [3. Propositions and Proofs Tactics](Lean_tutorial/3.%20Propositions%20and%20Proofs%20Tactics.lean)
+- [4. Quantifiers and Equality](Lean_tutorial/4.%20Quantifiers%20and%20equality.lean)
+- [4. Quantifiers and Equality Tactics](Lean_tutorial/4.%20Quantifiers%20and%20equality%20Tactics.lean)
+- [5. Tactics](Lean_tutorial/5.%20Tactics.lean)
+- [6. Interacting with Lean](Lean_tutorial/6.%20Interacting%20with%20Lean.lean)
+- [7. Inductive Types](Lean_tutorial/7.%20Inductive%20Types.lean)
+- [8. Induction and Recursion - Exercises 1](Lean_tutorial/8.%20Induction%20and%20Recursion%20-%20exercises%201.lean)
+- [8. Induction and Recursion - Exercises 2](Lean_tutorial/8.%20Induction%20and%20Recursion%20-%20exercises%202.lean)
+- [8. Induction and Recursion](Lean_tutorial/8.%20Induction%20and%20Recursion.lean)
+- [9. Structures and Records](Lean_tutorial/9.%20Structures%20and%20Records.lean)
+---
 
 ## Contact me
 

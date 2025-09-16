@@ -22,60 +22,84 @@ I am looking for people to help me add content, fix errors, and share material r
 
 Here are some of the logicians I am currently focusing on:
 
-- **[Jerónimo Pardo (1460? - 1502)](#jerónimo-pardo-1460---1502)**
+- **[Jerónimo Pardo (1460? - 1502)](philosophers/Jeronimo-Pardo.md)**
 - **Antonio Coronel (1480 - 1521)**
 - **Luis Coronel (1482? - 1531)**
-- **[Gaspar Lax (1487 - 1560)](#gaspar-lax-1487---1560)**
-- **[Juan Dolz (1490? - 1550?)](#juan-dolz-1490---1550)**
+- **[Gaspar Lax (1487 - 1560)](philosophers/Gaspar-Lax.md)**
+- **[Juan Dolz (1490? - 1550?)](philosophers/Juan-Dolz-del-Castellar.md)**
 - **Juan de Celaya (1490 - 1558)**
-- **[Fernando de Enzinas (1494? - 1523)](#fernando-de-enzinas-1494---1523)**
+- **[Fernando de Enzinas (1494? - 1523)](philosophers/Fernando-de-Enzinas.md)**
 - **Domingo de Soto (1494 - 1560)**
 
 ## Main 
-### [Jerónimo Pardo (1460? - 1502)](philosophers/Jeronimo-Pardo.md)
-Jerónimo Pardo was a notable Spanish logician whose contributions to the field were recognized during his time at the University of Paris.
-
 ### Antonio Coronel (1480 - 1521)
 Antonio Coronel was an influential figure in the realm of logic and philosophy, known for his work and teachings at the University of Paris.
 
 ### Luis Coronel (1482? - 1531)
-Luis Coronel made significant contributions to logic and philosophy, although the exact details of his birth remain unknown.
-
-### [Gaspar Lax (1487 - 1560)](philosophers/Gaspar-Lax.md)
-Gaspar Lax was a prominent Spanish logician and mathematician, whose work at the University of Paris left a lasting impact on the academic community.
-
-### [Juan Dolz (1490? - 1550?)](philosophers/Juan-Dolz-del-Castellar.md)
-Juan Dolz was a respected logician, with approximate dates indicating his active period and contributions to the University of Paris.
+Luis Coronel made significant contributions to logic and philosophy.
 
 ### Juan de Celaya (1490 - 1558)
 Juan de Celaya was a distinguished logician and philosopher, known for his extensive work and influence at the University of Paris.
-
-### [Fernando de Enzinas (1494? - 1523)](philosophers/Fernando-de-Enzinas.md)
-Fernando de Enzinas was a notable figure in the field of logic, with approximate dates marking his contributions to the University of Paris. He was also a teacher at the Complutense University.
 
 ### Domingo de Soto (1494 - 1560)
 Domingo de Soto was a renowned Spanish logician and theologian, whose work at the University of Paris significantly shaped the academic discourse of his time.
 
 ---
-## Appendix Lean Tutorial
+## Chronology of Renaissance Logicians.
+*All the logicians in this table were born in the 15th century.*
 
-Exercises and comments following **[Theorem Proving in Lean 4](#https://leanprover.github.io/theorem_proving_in_lean4/)**
+| Name                               | Dates        |
+|------------------------------------|--------------|
+| Johannes Versoris                  | 1410-1485    |
+| Georges de Bruxelles               | 1440?1510?   |
+| Thomas Bricot                      | 1445?1516    |
+| Magnus Hundt                       | 1449-1519    |
+| Jacques Lefèvre d'Étaples          | 1455-1536    |
+| Gerardus de Harderwijck            | 1455-1503    |
+| Silvestro Mazzolini (Prierio)      | 1456-1527    |
+| Jerónimo Pardo                     | 1460?1502    |
+| Peter Tartaret                     | 1460-1522    |
+| Jodocus Trutfetter                 | 1460-1519    |
+| Bartholomaeus Arnoldi (Usingen)    | 1465-1532    |
+| John Mair                          | 1467-1550    |
+| Agostino Nifo                      | 1470-1538    |
+| Chrysostomus Javellus              | 1470-1538    |
+| Arnoldus de Tongern                | 1470-1540    |
+| Hieronymus de Sancto Marco         | 1470?????    |
+| Hieronimus of Hangest              | 1470?1538    |
+| Josse van Clichtove                | 1472-1543    |
+| Antonio Coronel                    | 1480-1521    |
+| Luis Coronel                       | 14??-1531    |
+| Robert Caubraith                   | 1483-1544    |
+| John Eck                           | 1486-1543    |
+| Gaspar Lax                         | 1487-1560    |
+| Juan Dolz                          | 1490?1550?   |
+| Juan de Celaya                     | 1490-1558    |
+| Fernando de Enzinas                | 1494?1523    |
+| Domingo de Soto                    | 1494-1560    |
+| Augustinus Sbarroya                | 1495-1554    |
+
+
+---
+## Appendix: Lean Tutorial
+
+Exercises and comments following **[Theorem Proving in Lean 4](https://leanprover.github.io/theorem_proving_in_lean4/)**
 
 ### Lean Tutorial Files
 
-- [3. Propositions and Proofs](Lean_tutorial/3.%20Propositions%20and%20Proofs.lean)
-- [3. Propositions and Proofs Tactics](Lean_tutorial/3.%20Propositions%20and%20Proofs%20Tactics.lean)
-- [4. Quantifiers and Equality](Lean_tutorial/4.%20Quantifiers%20and%20equality.lean)
-- [4. Quantifiers and Equality Tactics](Lean_tutorial/4.%20Quantifiers%20and%20equality%20Tactics.lean)
-- [5. Tactics](Lean_tutorial/5.%20Tactics.lean)
-- [6. Interacting with Lean](Lean_tutorial/6.%20Interacting%20with%20Lean.lean)
-- [7. Inductive Types](Lean_tutorial/7.%20Inductive%20Types.lean)
-- [8. Induction and Recursion - Exercises 1](Lean_tutorial/8.%20Induction%20and%20Recursion%20-%20exercises%201.lean)
-- [8. Induction and Recursion - Exercises 2](Lean_tutorial/8.%20Induction%20and%20Recursion%20-%20exercises%202.lean)
-- [8. Induction and Recursion](Lean_tutorial/8.%20Induction%20and%20Recursion.lean)
-- [9. Structures and Records](Lean_tutorial/9.%20Structures%20and%20Records.lean)
----
+- [3. Propositions and Proofs](lean-tutorial/3-propositions-and-proofs.txt)
+- [3. Propositions and Proofs Tactics](lean-tutorial/3-propositions-and-proofs-tactics.txt)
+- [4. Quantifiers and Equality](lean-tutorial/4-quantifiers-and-equality.md)
+- [4. Quantifiers and Equality Tactics](lean-tutorial/4-quantifiers-and-equality-tactics.txt)
+- [5. Tactics](lean-tutorial/5-tactics.txt)
+- [6. Interacting with Lean](lean-tutorial/6-interacting-with-lean.txt)
+- [7. Inductive Types](lean-tutorial/7-inductive-types.txt)
+- [8. Induction and Recursion - Exercises 1](lean-tutorial/8-induction-and-recursion-exercises-1.txt)
+- [8. Induction and Recursion - Exercises 2](lean-tutorial/8-induction-and-recursion-exercises-2.txt)
+- [8. Induction and Recursion](lean-tutorial/8-induction-and-recursion.txt)
+- [9. Structures and Records](lean-tutorial/9-structures-and-records.txt)
 
+---
 ## Contact me
 
 If you are interested in contributing to this project, please reach out to me using the form below. I look forward to collaborating with you!

@@ -22,13 +22,13 @@ I am looking for people to help me add content, fix errors, and share material r
 
 Here are some of the logicians I am currently focusing on:
 
-- **[Jerónimo Pardo (1460? - 1502)](philosophers/Jeronimo-Pardo.md)**
+- **[Jerónimo Pardo (1460? - 1502)](philosophers/Jeronimo-Pardo.html)**
 - **Antonio Coronel (1480 - 1521)**
 - **Luis Coronel (1482? - 1531)**
-- **[Gaspar Lax (1487 - 1560)](philosophers/Gaspar-Lax.md)**
-- **[Juan Dolz (1490? - 1550?)](philosophers/Juan-Dolz-del-Castellar.md)**
+- **[Gaspar Lax (1487 - 1560)](philosophers/Gaspar-Lax.html)**
+- **[Juan Dolz (1490? - 1550?)](philosophers/Juan-Dolz-del-Castellar.html)**
 - **Juan de Celaya (1490 - 1558)**
-- **[Fernando de Enzinas (1494? - 1523)](philosophers/Fernando-de-Enzinas.md)**
+- **[Fernando de Enzinas (1494? - 1523)](philosophers/Fernando-de-Enzinas.html)**
 - **Domingo de Soto (1494 - 1560)**
 
 ## Main 

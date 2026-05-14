@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 title: Spanish Logicians at the University of Paris (16th Century)
-description: Bookmark this to keep an eye on my project updates!
+description: A comprehensive resource on Spanish logicians at the University of Paris during the 16th century, including Jerónimo Pardo, Gaspar Lax, Fernando de Enzinas, Juan Dolz, and others.
+url: "https://josebalado.github.io"
+baseurl: "/Spanish-Logicians-at-the-University-of-Paris"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

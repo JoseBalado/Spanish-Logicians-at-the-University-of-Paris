@@ -17,27 +17,27 @@ keywords: Gaspar Lax, Aragonese philosopher, medieval logic, renaissance logic, 
 | **Alma Mater**       | University of Paris                    |
 | **Main Interests**   | Logic, Mathematics                     |
 
-**Gaspar Lax** was an Aragonese philosopher, logician and mathematician. He was born in Sariñena (Huesca) in 1487, the son of Leonor de la Cueva and Gaspar Lax, a physician, and had two brothers and four sisters[^1].
+**Gaspar Lax** was an Aragonese philosopher, logician and mathematician born in Sariñena (Huesca, Aragon) in 1487. His birth year is inferred from encomiastic verses prefixed to one of his Paris works, giving him twenty-five years of age in 1512; another source, Chevalier's *Répertoire de sources*, places his birth in 1481.[^1] After early studies in Zaragoza he went to Paris, where he became a disciple of John Major (Mair) at the Collège de Montaigu and graduated as Master of Arts and Doctor in Theology.[^2] By the age of twenty he was already teaching at Montaigu, principally philosophy and mathematics — a subject in which he acknowledged himself largely self-taught, writing to his student E. de Melo that in arithmetic he had driven his own small intelligence forward *nullo doctore* (without any teacher).[^3]
 
-After a brief stay at the Estudio de Artes in Zaragoza, he went to Paris at the age of 17.
+Nicolás Antonio considered him the *logicorum princeps* of his time, and all who knew him agreed, as García Villoslada reports, in calling him the "Prince of the Parisian sophists" — the word carrying no pejorative sense then.[^4] Francisco de Vitoria defined him as a pure nominalist — *pure nominales, ut Gaspar Lax, Caubraith et similes* — setting him apart from the more eclectic current represented by Mair and Celaya.[^5]
+
+Vicente Muñoz Delgado calls him "el fecundo y extraordinario aragonés" and "uno de los mayores lógicos nacidos en la Península Ibérica," noting the constant interest in logical formalism that runs through his work and its place in the tradition of scholastic logic passed over by the Renaissance.[^6]
 
 ### Period in Paris
-By 1507-1508, he was already teaching at the Collège de Calvi, known as the "little Sorbonne," and later moved to the Collège de Montaigu, where he alternated teaching with his own education under John Major[^2].
 
-In Paris, he was known as the "Prince of Sophists," and his works and lessons were highly praised[^3].
+Lax's teaching at Montaigu attracted students from across Spain. Among them were Juan Dolz del Castellar, Juan de Celaya, Francisco de Vitoria, and Luis Vives; his fame was such that the direction of the Collège Sainte-Barbe feared losing all its Spanish students to Montaigu and to the Collège de Coqueret, where Celaya taught, and made determined efforts to attract one of those two professors. He published his first work, the *Tractatus exponibilium propositionum*, at Paris in 1507, and continued producing logical and mathematical works throughout his Parisian years.
 
-He remained at Montaigu until 1516, leaving a lasting impression on his students, including Juan de Celaya, Juan Dolz del Castellar, Francisco de Vitoria, and Luis Vives[^4].
+He left Paris around 1521, possibly on account of a royal decree expelling foreigners.[^7]
 
-### Return to Spain
-In 1516, Lax returned to Spain, possibly due to a decree expelling foreigners from the University of Paris[^5].
+### Return to Zaragoza
 
-He returned to Zaragoza in 1516 with great prestige and was hired at the Sertorian University of Huesca, earning 1,000 Jaquesan salaries and receiving special treatment and additional benefits. There, he taught arts from 1516 to 1520, the same year in which he obtained a degree in Theology from that university.[^6]
+Back in Zaragoza, Lax held the chair of Juan Jarabal and, after Jarabal's death, acquired it in perpetuity. In 1525 he taught the future Saint Francis Borgia and other selected students. He was appointed Vice-Chancellor of the *Academia Caesaraugustana* (University of Zaragoza), a post equivalent to Rector.[^8]
 
-He settled at the Estudio Mayor de Artes in Zaragoza, where he taught logic and mathematics. He was appointed Vice-Chancellor and Master, equivalent to Rector. His death in 1560 was followed with great interest by the members of the University, and he was buried in the Church of San Nicolás de Bari[^7].
+In 1559 he was attacked by gout and went blind. He died on 23 February 1560 and was buried in the Church of San Nicolás de Bari in Zaragoza. The epitaph on his tomb reads:
 
-At the University of Alcalá, some of Lax's works were studied. For example, the "Tractatus terminorum una cum prima parte Summularum" (Paris, 1512) was reprinted by the University itself (1512) and recommended to students by the professor of logic, Tomás García de Villanueva. In the dedication, Lax is called "nostrae Hispaniae decus" (pride of our Spain)[^8].
+> *Hic jacet Gaspar Lax, Artium et Sacrae Theologiae doctor, Academiae Caesaraugustanae vicecancellarius et Rector, qui obiit 7 idus mensis februarii 1560.*[^9]
 
-He continued in Zaragoza with great recognition in the academic world. In 1559, he suffered from blindness and gout problems, and finally passed away on February 23, 1560, after having developed a prestigious career in France and Spain[^9].
+He had the fortune and honor of being teacher to Luis Vives and to the future Saint Francis Borgia.[^10]
 
 
 ## Index of Works and Detailed Table of Contents
@@ -418,20 +418,22 @@ He continued in Zaragoza with great recognition in the academic world. In 1559, 
 
 ## References
 
-[^1]: González Ancín, Miguel & Towns, Otis. (2017). *Miguel Servet en España (1506-1527)*. Edición ampliada, pp. 140-142, 360.
+[^1]: Birth year inferred from encomiastic verses: Enciclopedia Espasa, vol. 29, col. 1206. The year 1481 is given by M. Chevalier, *Répertoire de sources* (Montbéliard, 1903), II, col. 2780.
 
-[^2]: Ayala Martínez, Jorge M. (2000). *Pensadores Aragoneses. Historia de las ideas filosóficas en Aragón*, p. 271.
+[^2]: García Villoslada, Ricardo. *La Universidad de París durante los estudios de Francisco de Vitoria, O.P. (1507–1522)*. Analecta Gregoriana XIV. Rome, 1938, p. 406. García Villoslada notes that he searched in vain for Lax's name in the rolls of the Sorbonne and in the register of graduates of the Theology Faculty, though he acknowledges that the register has deficiencies.
 
-[^3]: [English Wikipedia: Gaspar Lax](https://en.wikipedia.org/wiki/Gaspar_Lax).
+[^3]: Lax, letter to E. de Melo, cited in García Villoslada (1938), p. 404.
 
-[^4]: Ayala Martínez, Jorge M. (2000). *Pensadores Aragoneses. Historia de las ideas filosóficas en Aragón*, p. 271.
+[^4]: Nicolás Antonio, cited in Enciclopedia Espasa, vol. 29, col. 1206; García Villoslada (1938), p. 404.
 
-[^5]: Ayala Martínez, Jorge M. (2000). *Pensadores Aragoneses. Historia de las ideas filosóficas en Aragón*, p. 272.
+[^5]: Francisco de Vitoria, cited in García Villoslada (1938), p. 86.
 
-[^6]: González Ancín y Towns, 2017, pp. 148-150.
+[^6]: Muñoz Delgado, Vicente. "La lógica en Salamanca durante la primera mitad del siglo XVI." *Salmanticensis* (1964), p. 171. The encomiastic verses composed by Antonio Alcaraz for the *Tractatus de Obligationibus* call Lax "Splendida callaice Gaspar Lax gloria gentis / Hispanique soli laus honor atque decus."
 
-[^7]: Ayala Martínez, Jorge M. (2000). *Pensadores Aragoneses. Historia de las ideas filosóficas en Aragón*, p. 272.
+[^7]: García Villoslada (1938), p. 406.
 
-[^8]: Ayala Martínez, Jorge M. (2000). *Pensadores Aragoneses. Historia de las ideas filosóficas en Aragón*. pp. 272-273.
+[^8]: Solana, Marcial. *Historia de la Filosofía Española*, III, p. 19.
 
-[^9]: [Spanish Wikipedia: Gaspar Lax](https://es.wikipedia.org/wiki/Gaspar_Lax)
+[^9]: Solana (op. cit.), III, p. 19.
+
+[^10]: Enciclopedia Espasa, vol. 29, col. 1206.

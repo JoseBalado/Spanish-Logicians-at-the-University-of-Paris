@@ -10,7 +10,7 @@ keywords: Jerónimo Pardo, Spanish logician, medieval logic, renaissance logic, 
 |----------------------|----------------------------------------|
 | **Era**              | Early modern philosophy, Renaissance philosophy |
 | **Name**             | Jerónimo Pardo                         |
-| **Birth Date**       | circa 1460                             |
+| **Birth Date**       | circa 1467                             |
 | **Death Date**       | 1502 or 1505                           |
 | **Birth Place**      | Province of Burgos, Castile            |
 | **School Tradition** | Scholasticism, Nominalism              |

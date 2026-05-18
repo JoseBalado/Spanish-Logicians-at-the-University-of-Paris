@@ -22,13 +22,13 @@ I am looking for people to help me add content, fix errors, and share material r
 
 Here are some of the logicians I am currently focusing on:
 
-- **[Jerónimo Pardo (1467? - 1502)](philosophers/Jeronimo-Pardo.html)**
+- **[Jerónimo Pardo (c. 1467 - 1502)](philosophers/Jeronimo-Pardo.html)**
 - **[Antonio Coronel (1480 - 1521)](philosophers/Antonio-Coronel.html)**
 - **[Luis Coronel (c. 1480 - 1531)](philosophers/Luis-Coronel.html)**
 - **[Gaspar Lax (1487 - 1560)](philosophers/Gaspar-Lax.html)**
-- **[Juan Dolz del Castellar (1490? - 1550?)](philosophers/Juan-Dolz-del-Castellar.html)**
+- **[Juan Dolz del Castellar (c. 1490 – c. 1550)](philosophers/Juan-Dolz-del-Castellar.html)**
 - **[Juan de Celaya (c. 1490 - 1558)](philosophers/Juan-de-Celaya.html)**
-- **[Fernando de Enzinas (1494? - 1523)](philosophers/Fernando-de-Enzinas.html)**
+- **[Fernando de Enzinas (c. 1494 – 1523)](philosophers/Fernando-de-Enzinas.html)**
 - **Domingo de Soto (1494 - 1560)**
 
 ## Logicians
@@ -61,36 +61,36 @@ Born in Segovia, Soto studied at the Collège Sainte-Barbe in Paris under Juan d
 ## Chronology of Renaissance Logicians.
 *All the logicians in this table were born in the 15th century.*
 
-| Name                               | Dates        |
-|------------------------------------|--------------|
-| Johannes Versoris                  | 1410-1485    |
-| Georges de Bruxelles               | 1440?1510?   |
-| Thomas Bricot                      | 1445?1516    |
-| Magnus Hundt                       | 1449-1519    |
-| Jacques Lefèvre d'Étaples          | 1455-1536    |
-| Gerardus de Harderwijck            | 1455-1503    |
-| Silvestro Mazzolini (Prierio)      | 1456-1527    |
-| Peter Tartaret                     | 1460-1522    |
-| Jodocus Trutfetter                 | 1460-1519    |
-| Bartholomaeus Arnoldi (Usingen)    | 1465-1532    |
-| Jerónimo Pardo                     | 1467?1502    |
-| John Mair                          | 1467-1550    |
-| Agostino Nifo                      | 1470-1538    |
-| Chrysostomus Javellus              | 1470-1538    |
-| Arnoldus de Tongern                | 1470-1540    |
-| Hieronymus de Sancto Marco         | 1470?????    |
-| Hieronimus of Hangest              | 1470?1538    |
-| Josse van Clichtove                | 1472-1543    |
-| Antonio Coronel                    | 1480-1521    |
-| Luis Coronel                       | 14??-1531    |
-| Robert Caubraith                   | 1483-1544    |
-| John Eck                           | 1486-1543    |
-| Gaspar Lax                         | 1487-1560    |
-| Juan Dolz                          | 1490?1550?   |
-| Juan de Celaya                     | 1490-1558    |
-| Fernando de Enzinas                | 1494?1523    |
-| Domingo de Soto                    | 1494-1560    |
-| Augustinus Sbarroya                | 1495-1554    |
+| Name                               | Dates           |
+|------------------------------------|-----------------|
+| Johannes Versoris                  | 1410-1485       |
+| Georges de Bruxelles               | c. 1440-c. 1510 |
+| Thomas Bricot                      | c. 1445-1516    |
+| Magnus Hundt                       | 1449-1519       |
+| Jacques Lefèvre d'Étaples          | 1455-1536       |
+| Gerardus de Harderwijck            | 1455-1503       |
+| Silvestro Mazzolini (Prierio)      | 1456-1527       |
+| Peter Tartaret                     | 1460-1522       |
+| Jodocus Trutfetter                 | 1460-1519       |
+| Bartholomaeus Arnoldi (Usingen)    | 1465-1532       |
+| Jerónimo Pardo                     | c. 1467-1502    |
+| John Mair                          | 1467-1550       |
+| Agostino Nifo                      | 1470-1538       |
+| Chrysostomus Javellus              | 1470-1538       |
+| Arnoldus de Tongern                | 1470-1540       |
+| Hieronymus de Sancto Marco         | c. 1470-?       |
+| Hieronimus of Hangest              | c. 1470-1538    |
+| Josse van Clichtove                | 1472-1543       |
+| Antonio Coronel                    | 1480-1521       |
+| Luis Coronel                       | c. 1480-1531    |
+| Robert Caubraith                   | 1483-1544       |
+| John Eck                           | 1486-1543       |
+| Gaspar Lax                         | 1487-1560       |
+| Juan Dolz                          | c. 1490-c. 1550 |
+| Juan de Celaya                     | 1490-1558       |
+| Fernando de Enzinas                | c. 1494-1523    |
+| Domingo de Soto                    | 1494-1560       |
+| Augustinus Sbarroya                | 1495-1554       |
 
 
 ---

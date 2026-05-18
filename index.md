@@ -23,8 +23,8 @@ I am looking for people to help me add content, fix errors, and share material r
 Here are some of the logicians I am currently focusing on:
 
 - **[Jerónimo Pardo (1460? - 1502)](philosophers/Jeronimo-Pardo.html)**
-- **Antonio Coronel (1480 - 1521)**
-- **Luis Coronel (1482? - 1531)**
+- **[Antonio Coronel (1480 - 1521)](philosophers/Antonio-Coronel.html)**
+- **[Luis Coronel (c. 1480 - 1531)](philosophers/Luis-Coronel.html)**
 - **[Gaspar Lax (1487 - 1560)](philosophers/Gaspar-Lax.html)**
 - **[Juan Dolz (1490? - 1550?)](philosophers/Juan-Dolz-del-Castellar.html)**
 - **Juan de Celaya (1490 - 1558)**
@@ -32,11 +32,11 @@ Here are some of the logicians I am currently focusing on:
 - **Domingo de Soto (1494 - 1560)**
 
 ## Main 
-### Antonio Coronel (1480 - 1521)
-Antonio Coronel was an influential figure in the realm of logic and philosophy, known for his work and teachings at the University of Paris.
+### [Antonio Coronel (1480 - 1521)](philosophers/Antonio-Coronel.html)
+Antonio Coronel was a Spanish philosopher, logician and theologian at the Collège de Montaigu, disciple of John Major and Peter Crockaert, and rector of the college. He was a prolific author of works on logic and a defender of both the *via realium* and the *via nominalium*.
 
-### Luis Coronel (1482? - 1531)
-Luis Coronel made significant contributions to logic and philosophy.
+### [Luis Coronel (c. 1480 - 1531)](philosophers/Luis-Coronel.html)
+Luis Coronel was a Spanish philosopher and natural philosopher at the Collège de Montaigu, whose *Physicae perscrutationes* (Paris, 1511) is a landmark work in late medieval dynamics. He was also the leading advocate of Erasmism in Spain during the 1520s.
 
 ### Juan de Celaya (1490 - 1558)
 Juan de Celaya was a distinguished logician and philosopher, known for his extensive work and influence at the University of Paris.
@@ -57,10 +57,10 @@ Domingo de Soto was a renowned Spanish logician and theologian, whose work at th
 | Jacques Lefèvre d'Étaples          | 1455-1536    |
 | Gerardus de Harderwijck            | 1455-1503    |
 | Silvestro Mazzolini (Prierio)      | 1456-1527    |
-| Jerónimo Pardo                     | 1460?1502    |
 | Peter Tartaret                     | 1460-1522    |
 | Jodocus Trutfetter                 | 1460-1519    |
 | Bartholomaeus Arnoldi (Usingen)    | 1465-1532    |
+| Jerónimo Pardo                     | 1467?1502    |
 | John Mair                          | 1467-1550    |
 | Agostino Nifo                      | 1470-1538    |
 | Chrysostomus Javellus              | 1470-1538    |

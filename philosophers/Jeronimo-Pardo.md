@@ -17,7 +17,7 @@ keywords: Jerónimo Pardo, Spanish logician, medieval logic, renaissance logic, 
 | **Alma Mater**       | University of Paris                    |
 | **Main Interests**   | Logic, Theology                        |
 
-**Jerónimo Pardo** was a notable Spanish logician and theologian. He was born in the province of Burgos[^1] and is known to have arrived in Paris at the end of the fifteenth century. He studied and taught at the College of Montaigu and was possibly Mair's teacher[^2]. Pardo was a fellow of the Sorbonne but never became a Doctor of Theology. He taught theology in Melun until his death, which occurred in 1502 according to Muñoz Delgado and Villoslada, or 1505 according to Elie and Fraile[^3].
+**Jerónimo Pardo** was a notable Spanish logician and theologian. He was born in the province of Burgos[^1] and is known to have arrived in Paris at the end of the fifteenth century. He studied and taught at the College of Montaigu and was Mair's friend[^2]. Pardo was a fellow of the Sorbonne but never became a Doctor of Theology. He taught theology in Melun until his death, which occurred in 1502 according to Muñoz Delgado and Villoslada, or 1505 according to Elie and Fraile[^3].
 
 Pardo wrote a manual on logic and one on natural philosophy, which he never completed. García Villoslada considers that the latter is in fact the *Introductiones phisicales artium Hieronimo Pardo ad totam naturalem philosophiam*, the manuscript of which is preserved in the Columbine Library of Seville (n. 3351)[^4].
 
@@ -48,7 +48,7 @@ This is the index of the Medulla Dyalectices:
 
 [^1]: On the life and work of Jerónimo Pardo see García Villoslada 1938, pp. 379-380; Muñoz Deldado 1970, pp. 213-227.
 
-[^2]: Cf. Beuchot 1976, pp. 213-230; Elie 1950-1951, p. 205; Guerlac 1979, p. 20; Prantl 1955, p. 247; Torrance 1969, pp. 531-576. However, García Villoslada observes that Mair himself in his De Infinito refers to Pardo not as a teacher but as a friend. Cf. García Villoslada 1938, p. 131, n. 7.
+[^2]: Most secondary sources assume a teacher-student relationship with Mair: cf. Beuchot 1976, pp. 213-230; Elie 1950-1951, p. 205; Guerlac 1979, p. 20; Prantl 1955, p. 247; Torrance 1969, pp. 531-576. However, García Villoslada draws attention to the fact that Mair himself, in his *De Infinito*, refers to Pardo not as *magister* but as *amicus* — which, had Pardo been his teacher, would have been the natural and expected form of address. Cf. García Villoslada 1938, p. 131, n. 7. The text above follows García Villoslada's reading of the primary source.
 
 [^3]: Cf. Muñoz Delgado 1970, p. 213; Garcia Villoslada 1938, p. 380; Elie 1950-1951, p. 206; Fraile 1971, p. 322.
 

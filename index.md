@@ -22,7 +22,7 @@ I am looking for people to help me add content, fix errors, and share material r
 
 Here are some of the logicians I am currently focusing on:
 
-- **[Jerónimo Pardo (1460? - 1502)](philosophers/Jeronimo-Pardo.html)**
+- **[Jerónimo Pardo (1467? - 1502)](philosophers/Jeronimo-Pardo.html)**
 - **[Antonio Coronel (1480 - 1521)](philosophers/Antonio-Coronel.html)**
 - **[Luis Coronel (c. 1480 - 1531)](philosophers/Luis-Coronel.html)**
 - **[Gaspar Lax (1487 - 1560)](philosophers/Gaspar-Lax.html)**
@@ -33,7 +33,7 @@ Here are some of the logicians I am currently focusing on:
 
 ## Logicians
 
-### [Jerónimo Pardo (c. 1460 – 1502)](philosophers/Jeronimo-Pardo.html)
+### [Jerónimo Pardo (c. 1467 – 1502)](philosophers/Jeronimo-Pardo.html)
 Born in the province of Burgos, Pardo studied and taught at the Collège de Montaigu, where he was a colleague or possible teacher of John Major, and later taught theology at Melun. His only published work, *Medulla Dyalectices* (Paris, 1500), is a substantial manual of logic covering consequences, modals, syllogistics and the *descensus*; it was re-edited posthumously by Major and Jacobo Ortiz in 1505.
 
 ### [Antonio Fernández Coronel (c. 1480 – 1521)](philosophers/Antonio-Coronel.html)

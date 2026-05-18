@@ -54,6 +54,6 @@ This is the index of the Medulla Dyalectices:
 
 [^4]: Cf. García Villoslada 1938, p. 380.
 
-[^5]: *Note: The content of this article up to this point, with very few changes, was taken from*: Paloma Pérez-Ilzarbe (1996). *The Doctrine of Descent in Jeronimo Pardo. Meaning, Inference, Truth.*
+[^5]: The biographical section of this article draws in part on Paloma Pérez-Ilzarbe (1996), *The Doctrine of Descent in Jeronimo Pardo. Meaning, Inference, Truth*, with subsequent additions and corrections.
 
 [^6]: The birth date is an estimate based on Pardo's friendship with John Mair, who was born in 1467. If the two were contemporaries and peers at the Collège de Montaigu — as the term *amicus* in Mair's text suggests — Pardo was likely born around the same time.

@@ -6,16 +6,16 @@ keywords: Jerónimo Pardo, Spanish logician, medieval logic, renaissance logic, 
 
 ## About Jerónimo Pardo
 
-| **Region**           | Western philosophy, Spanish philosophy |
-|----------------------|----------------------------------------|
+| **Region**           | Western philosophy, Spanish philosophy          |
+|----------------------|-------------------------------------------------|
 | **Era**              | Early modern philosophy, Renaissance philosophy |
-| **Name**             | Jerónimo Pardo                         |
-| **Birth Date**       | circa 1467                             |
-| **Death Date**       | 1502 or 1505                           |
-| **Birth Place**      | Province of Burgos, Castile            |
-| **School Tradition** | Scholasticism, Nominalism              |
-| **Alma Mater**       | University of Paris                    |
-| **Main Interests**   | Logic, Theology                        |
+| **Name**             | Jerónimo Pardo                                  |
+| **Birth Date**       | circa 1467                                      |
+| **Death Date**       | 1502 or 1505                                    |
+| **Birth Place**      | Province of Burgos, Castile                     |
+| **School Tradition** | Scholasticism, Nominalism                       |
+| **Alma Mater**       | University of Paris                             |
+| **Main Interests**   | Logic, Physics                                  |
 
 **Jerónimo Pardo** was a notable Spanish logician and theologian. He was born in the province of Burgos[^1] and is known to have arrived in Paris at the end of the fifteenth century. He studied and taught at the College of Montaigu and was Mair's friend[^2]. Pardo was a fellow of the Sorbonne but never became a Doctor of Theology. He taught theology in Melun until his death, which occurred in 1502 according to Muñoz Delgado and Villoslada, or 1505 according to Elie and Fraile[^3].
 

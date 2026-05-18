@@ -17,7 +17,7 @@ keywords: Juan de Celaya, Juan Lorenzo de Celaya, Spanish philosopher, medieval 
 | **Alma Mater**       | University of Valencia; University of Paris     |
 | **Main Interests**   | Logic, Natural Philosophy, Theology             |
 
-**Juan Lorenzo de Celaya** was a Spanish philosopher, logician and theologian born in Valencia around 1490. One of the most celebrated members of the Parisian nominalist circle, he taught logic and natural philosophy at Paris for nearly fifteen years and earned the title *Doctor Resolutissimus* from his contemporaries. Known to Vicente Muñoz Delgado as "the enormous Valencian" (*el enorme valenciano*), he ended his career as professor of theology and rector of the University of Valencia, where he was instrumental in restructuring its studies and inspired what his student Juan Ribeyro described as a "Celayan school."
+**Juan Lorenzo de Celaya** was a Spanish philosopher, logician and theologian born in Valencia around 1490. One of the most celebrated members of the Parisian nominalist circle, he taught logic and natural philosophy at Paris for nearly fifteen years and earned the title *Doctor Resolutissimus* from his contemporaries. Vicente Muñoz Delgado called him "the enormous Valencian" (*el enorme valenciano*); he ended his career as professor of theology and rector of the University of Valencia, where he was instrumental in restructuring its studies and inspired what his student Juan Ribeyro described as a "Celayan school."
 
 ### Early Life and Education
 

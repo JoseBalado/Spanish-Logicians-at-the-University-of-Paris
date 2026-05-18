@@ -21,6 +21,22 @@ keywords: Juan Dolz del Castellar, Juan Dolz, Aragonese philosopher, Gaspar Lax,
 
 *This paragraph is taken from the [Catalan Wikipedia page on Juan Dolz del Castellar](https://ca.wikipedia.org/wiki/Juan_Dolz_del_Castellar).*
 
+Among Dolz's fellow students in arts at Paris was the Valencian Juan de Celaya, who attacked his *Termini* in his *Dialecticae introductiones* (Paris, c. 1512) — a work also published under the title *Termini*. This raises an apparent difficulty: Celaya's work appeared in print around 1512, yet Dolz's *Termini* was not published until 1514. Dolz resolves this implicitly himself, describing his *Termini* as a text he "had formerly, while teaching at Paris, committed to the press" — phrasing that points to a manuscript prepared and already in circulation before its publication. Since both men were teaching at Paris at the same time, Celaya's access to such a manuscript would have been entirely natural.
+
+Dolz replied with a six-page double-column rebuttal included in his *Cunabula omnium fere scientiarum et precipue phisicalium difficultatum* (Montauban, 1518). The rebuttal opens:
+
+> Sequuntur quae hic, meus emulus, reprehendere laboravit. Unamquamque reprehensionem seorsum adducam, et etiam absolvam, sumendo initium a reprehensionibus, quas suis in terminis, si sui dici mereantur, cum reverentia loquendo, in nos vehere non dubitavit.
+>
+> Here follow the things my rival labored to criticize. I shall present each criticism separately and resolve it, beginning with those which, in his *Termini* — if they deserve to be called his, speaking with all due respect — he did not hesitate to launch against us.
+
+The first criticism is then introduced as follows:
+
+> Prima reprehensio in terminis quos olim Parisius inter regendum impressioni demandaveram: reprobavi istum mordacem, quia dixerat in suis introductionibus quod, capta ista propositione, se sola ex hac denotatur aliquid inferri, ipsi bene convenit deffinitio antecedentis, et tamen non est antecedentis. Respondit: [...]
+>
+> First criticism — against the *Termini* which I had formerly, while teaching at Paris, committed to the press: I rebuke this sharp critic, because he said in his *Introductiones* that, given this proposition — from which alone something is denoted to be inferred — the definition of antecedent fits it well, yet it is not an antecedent. [Dolz] replied: [...]
+
+The use of both *terminis* (in the opening) and *introductionibus* (in the first criticism) for the same work confirms that the vehicle of Celaya's attack was his *Dialecticae introductiones*, also circulating under the title *Termini*.
+
 ## Works
 
 - [*Syllogismi* (Paris 1511)](https://www.digitale-sammlungen.de/en/view/bsb10139052?page=,1)

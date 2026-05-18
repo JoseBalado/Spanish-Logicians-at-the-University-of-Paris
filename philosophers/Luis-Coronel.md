@@ -1,15 +1,15 @@
 ---
-title: About Luis Núñez Coronel
-description: Detailed information about Luis Núñez Coronel, a Spanish philosopher, logician and theologian at the University of Paris.
+title: About Luis Coronel
+description: Detailed information about Luis Coronel, a Spanish philosopher, logician and theologian at the University of Paris.
 keywords: Luis Coronel, Luis Núñez Coronel, Spanish philosopher, medieval logic, renaissance logic, Collège de Montaigu, University of Paris, John Major, Physicae perscrutationes, Erasmism, Segovia
 ---
 
-## About Luis Núñez Coronel
+## About Luis Coronel
 
 | **Region**           | Western philosophy, Spanish philosophy          |
 |----------------------|-------------------------------------------------|
 | **Era**              | Early modern philosophy, Renaissance philosophy |
-| **Name**             | Luis Núñez Coronel                              |
+| **Name**             | Luis Coronel                              |
 | **Birth Date**       | c. 1480                                         |
 | **Death Date**       | 1531                                            |
 | **Birth Place**      | Segovia, Castile                                |

@@ -1,15 +1,15 @@
 ---
-title: About Antonio Fernández Coronel
-description: Detailed information about Antonio Fernández Coronel, a Spanish philosopher, logician and theologian at the University of Paris.
+title: About Antonio Coronel
+description: Detailed information about Antonio Coronel, a Spanish philosopher, logician and theologian at the University of Paris.
 keywords: Antonio Coronel, Antonio Fernández Coronel, Spanish philosopher, medieval logic, renaissance logic, Collège de Montaigu, University of Paris, John Major, Peter Crockaert, scholasticism, Segovia
 ---
 
-## About Antonio Fernández Coronel
+## About Antonio Coronel
 
 | **Region**           | Western philosophy, Spanish philosophy          |
 |----------------------|-------------------------------------------------|
 | **Era**              | Early modern philosophy, Renaissance philosophy |
-| **Name**             | Antonio Fernández Coronel                       |
+| **Name**             | Antonio Coronel                       |
 | **Birth Date**       | c. 1480                                         |
 | **Death Date**       | 1521                                            |
 | **Birth Place**      | Segovia, Castile                                |

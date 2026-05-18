@@ -36,10 +36,10 @@ Here are some of the logicians I am currently focusing on:
 ### [Jerónimo Pardo (c. 1467 – 1502)](philosophers/Jeronimo-Pardo.html)
 Born in the province of Burgos, Pardo studied and taught at the Collège de Montaigu, where he was a colleague or possible teacher of John Major, and later taught theology at Melun. His only published work, *Medulla Dyalectices* (Paris, 1500), is a substantial manual of logic covering consequences, modals, syllogistics and the *descensus*; it was re-edited posthumously by Major and Jacobo Ortiz in 1505.
 
-### [Antonio Fernández Coronel (c. 1480 – 1521)](philosophers/Antonio-Coronel.html)
+### [Antonio Coronel (c. 1480 – 1521)](philosophers/Antonio-Coronel.html)
 Born in Segovia, Antonio Coronel studied at the Collège de Montaigu under John Major and Peter Crockaert of Brussels, becoming rector of the college and receiving his doctorate in 1516. A prolific author working in both the *via realium* and the *via nominalium*, he published nine works on logic at Paris between 1509 and 1517, and served as confessor to Emperor Charles V in Flanders before returning to Paris, where he died in 1521.
 
-### [Luis Núñez Coronel (c. 1480 – 1531)](philosophers/Luis-Coronel.html)
+### [Luis Coronel (c. 1480 – 1531)](philosophers/Luis-Coronel.html)
 Brother of Antonio, also from Segovia, Luis Coronel taught at the Collège de Montaigu and received his doctorate in theology in 1514. His *Physicae perscrutationes* (Paris, 1511) is a landmark work in late medieval dynamics, analyzed at length by Duhem as an anticipation of Galileo's concept of impetus; back in Spain from c. 1517, he became the leading advocate of Erasmism during the 1520s and was appointed Abbot of San Isidoro de León by Charles V.
 
 ### [Gaspar Lax (1487 – 1560)](philosophers/Gaspar-Lax.html)

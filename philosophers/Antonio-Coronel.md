@@ -1,7 +1,7 @@
 ---
 title: About Antonio Coronel
 description: Detailed information about Antonio Coronel, a Spanish philosopher, logician and theologian at the University of Paris.
-keywords: Antonio Coronel, Antonio Fernández Coronel, Spanish philosopher, medieval logic, renaissance logic, Collège de Montaigu, University of Paris, John Major, Peter Crockaert, scholasticism, Segovia
+keywords: Antonio Coronel, Antonio Núñez Coronel, Spanish philosopher, medieval logic, renaissance logic, Collège de Montaigu, University of Paris, John Major, Peter Crockaert, scholasticism, Segovia
 ---
 
 ## About Antonio Coronel
@@ -17,7 +17,7 @@ keywords: Antonio Coronel, Antonio Fernández Coronel, Spanish philosopher, medi
 | **Alma Mater**       | University of Paris                             |
 | **Main Interests**   | Logic, Theology                                 |
 
-**Antonio Fernández Coronel** was a Spanish philosopher, logician and theologian born in Segovia around 1480. Along with his brother Luis, he was one of the most prominent Spanish scholars at the Collège de Montaigu in Paris in the early sixteenth century, and a leading figure in the remarkable circle of logicians that gathered there around John Major.
+**Antonio Núñez Coronel** was a Spanish philosopher, logician and theologian born in Segovia around 1480. Along with his brother Luis, he was one of the most prominent Spanish scholars at the Collège de Montaigu in Paris in the early sixteenth century, and a leading figure in the remarkable circle of logicians that gathered there around John Major.
 
 ### Family
 

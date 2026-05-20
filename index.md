@@ -26,8 +26,8 @@ Here are some of the logicians I am currently focusing on:
 - **[Antonio Coronel (1480 - 1521)](philosophers/Antonio-Coronel.html)**
 - **[Luis Coronel (c. 1480 - 1531)](philosophers/Luis-Coronel.html)**
 - **[Gaspar Lax (1487 - 1560)](philosophers/Gaspar-Lax.html)**
+- **[Juan de Celaya (1490 - 1558)](philosophers/Juan-de-Celaya.html)**
 - **[Juan Dolz del Castellar (c. 1490 – c. 1550)](philosophers/Juan-Dolz-del-Castellar.html)**
-- **[Juan de Celaya (c. 1490 - 1558)](philosophers/Juan-de-Celaya.html)**
 - **[Fernando de Enzinas (c. 1494 – 1523)](philosophers/Fernando-de-Enzinas.html)**
 - **Domingo de Soto (1494 - 1560)**
 
@@ -36,7 +36,7 @@ Here are some of the logicians I am currently focusing on:
 ### [Jerónimo Pardo (c. 1467 – 1502)](philosophers/Jeronimo-Pardo.html)
 Born in the province of Burgos, Pardo studied and taught at the Collège de Montaigu, where he was a colleague or possible teacher of John Major, and later taught theology at Melun. His only published work, *Medulla Dyalectices* (Paris, 1500), is a substantial manual of logic covering consequences, modals, syllogistics and the *descensus*; it was re-edited posthumously by Major and Jacobo Ortiz in 1505.
 
-### [Antonio Coronel (c. 1480 – 1521)](philosophers/Antonio-Coronel.html)
+### [Antonio Coronel (1480 – 1521)](philosophers/Antonio-Coronel.html)
 Born in Segovia, Antonio Coronel studied at the Collège de Montaigu under John Major and Peter Crockaert of Brussels, becoming rector of the college and receiving his doctorate in 1516. A prolific author working in both the *via realium* and the *via nominalium*, he published nine works on logic at Paris between 1509 and 1517, and served as confessor to Emperor Charles V in Flanders before returning to Paris, where he died in 1521.
 
 ### [Luis Coronel (c. 1480 – 1531)](philosophers/Luis-Coronel.html)
@@ -45,11 +45,11 @@ Brother of Antonio, also from Segovia, Luis Coronel taught at the Collège de Mo
 ### [Gaspar Lax (1487 – 1560)](philosophers/Gaspar-Lax.html)
 Born in Sariñena (Aragon), Lax taught at the Collège de Calvi and the Collège de Montaigu, where he was known as the "Prince of Sophists" and numbered among his students Juan Dolz, Juan de Celaya, Francisco de Vitoria and Luis Vives. He returned to Zaragoza in 1516, taught logic and mathematics at the Estudio Mayor, and rose to Vice-Chancellor; he published extensively in both logic and arithmetic.
 
+### [Juan de Celaya (1490 – 1558)](philosophers/Juan-de-Celaya.html)
+Born in Valencia, Celaya had Gaspar Lax as his teacher (*regentis mei*) at the Collège de Montaigu and also heard John Major there. As reader of philosophy at the Collège de Coqueret (1510–1515), his students included Domingo de Soto and Francisco de Vitoria; he then held the chair at the Collège Sainte-Barbe (1515–1524), becoming known as *Doctor Resolutissimus*. His *Expositio in octo libros physicorum* (Paris, 1517) is important for the history of science; he returned to Valencia in 1524, was appointed professor of theology (1525) and rector in perpetuo (1526), and published commentaries on all four books of the *Sentences* (1528–1531).
+
 ### [Juan Dolz del Castellar (c. 1490 – c. 1550)](philosophers/Juan-Dolz-del-Castellar.html)
 Born in Castellar (Aragon), Dolz studied under Gaspar Lax at the Collège de Montaigu, completed his arts degree in 1509, and then taught at the Collège de Lisieux in Paris and later at Montauban. He published four treatises on logic between 1510 and 1518, of which the *Disceptationes* (Paris, 1512) is the most noted; his final work, the *Cunabula* (Montauban, 1518), replied to criticisms by Juan de Celaya.
-
-### [Juan de Celaya (c. 1490 – 1558)](philosophers/Juan-de-Celaya.html)
-Born in Valencia, Celaya had Gaspar Lax as his teacher (*regentis mei*) at the Collège de Montaigu and also heard John Major there. As reader of philosophy at the Collège de Coqueret (1510–1515), his students included Domingo de Soto and Francisco de Vitoria; he then held the chair at the Collège Sainte-Barbe (1515–1524), becoming known as *Doctor Resolutissimus*. His *Expositio in octo libros physicorum* (Paris, 1517) is important for the history of science; he returned to Valencia in 1524, was appointed professor of theology (1525) and rector in perpetuo (1526), and published commentaries on all four books of the *Sentences* (1528–1531).
 
 ### [Fernando de Enzinas (c. 1494 – 1523)](philosophers/Fernando-de-Enzinas.html)
 Born in Valladolid, Enzinas studied at the Complutense University before moving to Paris around 1518, where he taught Arts at the Collège Sainte-Barbe and the Collège de Beauvais. His *Summulae* were used as a teaching text at Alcalá and Salamanca for decades after his early death in August 1523, praised by Cristóbal de Medina as the best summulae treatise of its kind.

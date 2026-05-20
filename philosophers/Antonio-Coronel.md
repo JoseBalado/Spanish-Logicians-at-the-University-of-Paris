@@ -9,8 +9,8 @@ keywords: Antonio Coronel, Antonio Núñez Coronel, Spanish philosopher, medieva
 | **Region**           | Western philosophy, Spanish philosophy          |
 |----------------------|-------------------------------------------------|
 | **Era**              | Early modern philosophy, Renaissance philosophy |
-| **Name**             | Antonio Coronel                       |
-| **Birth Date**       | c. 1480                                         |
+| **Name**             | Antonio Coronel                                 |
+| **Birth Date**       | 1480                                            |
 | **Death Date**       | 1521                                            |
 | **Birth Place**      | Segovia, Castile                                |
 | **School Tradition** | Scholasticism, Nominalism, Realism              |

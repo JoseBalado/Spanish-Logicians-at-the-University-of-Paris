@@ -34,7 +34,7 @@ Here are some of the logicians I am currently focusing on:
 
 ## Logicians
 
-### [John Mair (c. 1467 – 1550)](philosophers/John-Mair/)
+### [John Mair (1467 – 1550)](philosophers/John-Mair/)
 
 John Mair (also *Major*; Latin *Joannes Majoris*) was a Scottish logician, theologian and teacher at the Collège de Montaigu in Paris. He is included here not as a Spanish logician, but because he was at the very centre of this circle: he was a close friend and colleague of Jerónimo Pardo — whose *Medulla Dyalectices* he co-edited and republished after Pardo's death — and the teacher of Antonio Coronel, Luis Coronel and Gaspar Lax. Through these students his nominalist, technically rigorous approach to logic was carried into the whole Spanish scholastic tradition. His own logical publications, from the collected *Terminorum exponibilium tractatus* (1501) and the *Summulae* commentary (c. 1505) to the *Quaestiones logicales* (1528), show the same concerns with supposition theory, consequences and the logic of infinity that mark the work of his Spanish students.
 

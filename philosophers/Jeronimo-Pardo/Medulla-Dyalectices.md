@@ -12,7 +12,7 @@ keywords: >-
   Jerónimo Pardo, Medulla Dyalectices, logic, consequences, modals, syllogistics, descensus, University of Paris, Collège de Montaigu, medieval logic, renaissance logic, John Mair, Jacobo Ortiz
 ---
 
-Medulla **D**yalectices
+Medulla Dyalectices
 
 Pardus, Hieronymus
 

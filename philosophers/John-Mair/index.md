@@ -6,16 +6,16 @@ keywords: John Mair, John Major, Joannes Majoris, Scottish logician, University 
 
 ## About John Mair (John Major)
 
-| **Region**           | Western philosophy, Scottish philosophy         |
-|----------------------|-------------------------------------------------|
+| **Region**           | Western philosophy, Scottish philosophy          |
+|----------------------|--------------------------------------------------|
 | **Era**              | Late medieval philosophy, Renaissance philosophy |
-| **Name**             | John Mair (John Major; Joannes Majoris)         |
-| **Birth Date**       | c. 1467                                         |
-| **Death Date**       | 1550                                            |
-| **Birth Place**      | Gleghornie, East Lothian, Scotland              |
-| **School Tradition** | Scholasticism, Nominalism                       |
-| **Alma Mater**       | University of Paris (Collège Sainte-Barbe)      |
-| **Main Interests**   | Logic, Theology, History                        |
+| **Name**             | John Mair (John Major; Joannes Majoris)          |
+| **Birth Date**       | 1467                                             |
+| **Death Date**       | 1550                                             |
+| **Birth Place**      | Gleghornie, East Lothian, Scotland               |
+| **School Tradition** | Scholasticism, Nominalism                        |
+| **Alma Mater**       | University of Paris (Collège Sainte-Barbe)       |
+| **Main Interests**   | Logic, Theology, History                         |
 
 **John Mair** (also written *Mair* or *Major*; in Latin *Joannes Majoris*) was a Scottish philosopher, logician and theologian, born about 1467 at Gleghornie in East Lothian, Scotland, and died in 1550. He is included here not as a Spanish logician, but because he was at the very centre of the Parisian circle of Spanish logicians: he was a close friend and colleague of [Jerónimo Pardo](../Jeronimo-Pardo/), and the teacher of [Antonio Coronel](../Antonio-Coronel/), [Luis Coronel](../Luis-Coronel/) and [Gaspar Lax](../Gaspar-Lax/).
 

@@ -22,15 +22,15 @@ I am looking for people to help me add content, fix errors, and share material r
 
 Here are some of the logicians I am currently focusing on:
 
-- **[John Mair (c. 1467 – 1550)](philosophers/John-Mair/)** — Scottish, but at the centre of this circle
 - **[Jerónimo Pardo (c. 1467 – 1502)](philosophers/Jeronimo-Pardo/)**
+- **[John Mair (1467 – 1550)](philosophers/John-Mair/)** — Scottish, but at the centre of this circle
 - **[Antonio Coronel (1480 – 1521)](philosophers/Antonio-Coronel/)**
 - **[Luis Coronel (c. 1480 – 1531)](philosophers/Luis-Coronel/)**
 - **[Gaspar Lax (1487 – 1560)](philosophers/Gaspar-Lax/)**
 - **[Juan de Celaya (1490 – 1558)](philosophers/Juan-de-Celaya/)**
 - **[Juan Dolz del Castellar (c. 1490 – c. 1550)](philosophers/Juan-Dolz-del-Castellar/)**
-- **[Fernando de Enzinas (c. 1494 – 1523)](philosophers/Fernando-de-Enzinas/)**
 - **[Domingo de Soto (1494 – 1560)](philosophers/Domingo-de-Soto/)**
+- **[Fernando de Enzinas (c. 1494 – 1523)](philosophers/Fernando-de-Enzinas/)**
 
 ## Logicians
 

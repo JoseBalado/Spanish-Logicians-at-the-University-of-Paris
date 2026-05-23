@@ -17,13 +17,13 @@ keywords: John Mair, John Major, Joannes Majoris, Scottish logician, University 
 | **Alma Mater**       | University of Paris (Collège Sainte-Barbe)       |
 | **Main Interests**   | Logic, Theology, History                         |
 
-**John Mair** (also written *Mair* or *Major*; in Latin *Joannes Majoris*) was a Scottish philosopher, logician and theologian, born about 1467 at Gleghornie in East Lothian, Scotland, and died in 1550. He is included here not as a Spanish logician, but because he was at the very centre of the Parisian circle of Spanish logicians: he was a close friend and colleague of [Jerónimo Pardo](../Jeronimo-Pardo/), and the teacher of [Antonio Coronel](../Antonio-Coronel/), [Luis Coronel](../Luis-Coronel/) and [Gaspar Lax](../Gaspar-Lax/).
+**John Mair** (also written *Mair* or *Major*; in Latin *Joannes Majoris*) was a Scottish philosopher, logician and theologian, born about 1467 at Gleghornie in East Lothian, Scotland, and died in 1550. He is included here not as a Spanish logician, but because he was at the very centre of the Parisian circle of Spanish logicians: he was a close friend and colleague of [Jerónimo Pardo](../Jeronimo-Pardo/), and the teacher of [Antonio Coronel](../Antonio-Coronel/), [Luis Coronel](../Luis-Coronel/) and [Gaspar Lax](../Gaspar-Lax/).[^1]
 
 ### Life
 
-Mair received his early education in Haddington, East Lothian, and in 1492–93 studied briefly at Cambridge before matriculating at the University of Paris in 1493. He studied at the Collège Sainte-Barbe, taking his BA in 1495 and his MA in 1496. He then became a *regent* (student master) in Arts at the **Collège de Montaigu** in 1496, the same college where Jerónimo Pardo taught, and began his theological studies under Jan Standonck. He received his Bachelor of Sacred Theology in 1501 and his doctorate on 11 November 1506, thereafter teaching at Montaigu and at the Sorbonne.
+Mair received his early education in Haddington, East Lothian, and in 1492–93 studied briefly at Cambridge before matriculating at the University of Paris in 1493. He studied at the Collège Sainte-Barbe, taking his BA in 1495 and his MA in 1496. He then became a *regent* (student master) in Arts at the **Collège de Montaigu** in 1496, the same college where Jerónimo Pardo taught, and began his theological studies under Jan Standonck. He received his Bachelor of Sacred Theology in 1501 and his doctorate on 11 November 1506, thereafter teaching at Montaigu and at the Sorbonne.[^2]
 
-In 1518 he returned to Scotland, becoming Principal of the University of Glasgow, but returned to Paris for further periods of teaching. In 1533 he was made Provost of St Salvator's College at the University of St Andrews, where he died in 1550.
+In 1518 he returned to Scotland, becoming Principal of the University of Glasgow, but returned to Paris for further periods of teaching. In 1533 he was made Provost of St Salvator's College at the University of St Andrews, where he died in 1550.[^2]
 
 ### His connection to the Spanish logicians
 
@@ -34,7 +34,7 @@ Mair's relationship with the Spanish logicians at Paris was deep and lasting:
 - **Luis Coronel**, Antonio's brother, also taught at Montaigu during Mair's time there.
 - **Gaspar Lax** was likewise among Mair's students at Montaigu, before becoming known as the "Prince of Sophists" and teaching Juan Dolz, Juan de Celaya and others.
 
-Wikipedia's article on Mair sums up his influence: "His influence extended through enthusiastic pupils to the leading thinkers of the day but most obviously to a group of Spanish thinkers, including Antonio Coronel."
+Wikipedia's article on Mair sums up his influence: "His influence extended through enthusiastic pupils to the leading thinkers of the day but most obviously to a group of Spanish thinkers, including Antonio Coronel."[^3]
 
 ### Logic works
 
@@ -65,3 +65,13 @@ The following texts by John Mair are available in this site:
 
 - [Introdvctorium in Aristotelicam Dialecticen (Paris, 1521)](Introdvctorium-in-Aristotelicam-Dialecticen-1521.md)
 - [Introductorium perutile in Aristotelicum dialecticen (1527)](Introductorium-perutile-in-Aristotelicum-dialecticen-1527.md)
+
+---
+
+## Notes and Attribution
+
+[^1]: The biographical information on this page is largely drawn from the Wikipedia article [John Major (philosopher)](https://en.wikipedia.org/wiki/John_Major_(philosopher)), available under the [Creative Commons Attribution-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/), with additions and reframing focused on his logic and his connection to the Spanish logicians at Paris.
+
+[^2]: Wikipedia, [John Major (philosopher)](https://en.wikipedia.org/wiki/John_Major_(philosopher)), "Life" section; cf. Broadie, Alexander (1985). *The Circle of John Mair: Logic and Logicians in Pre-Reformation Scotland*. Oxford.
+
+[^3]: Wikipedia, [John Major (philosopher)](https://en.wikipedia.org/wiki/John_Major_(philosopher)), "Calvin and Loyola" section.

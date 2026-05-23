@@ -48,3 +48,10 @@ The *Summulae* in particular connects Soto to the teaching tradition that produc
 - *De natura et gratia* (Venice, 1547)
 - *De iustitia et iure* (Salamanca, 1553) — his principal work on law and justice, foundational for international law.
 - *In IV libros Sententiarum commentarii* (Salamanca, 1557–1560)
+---
+
+## Original Works
+
+The following texts by Domingo de Soto are available in this site:
+
+- [Summulae (Burgos, 1529)](Summulae.md)

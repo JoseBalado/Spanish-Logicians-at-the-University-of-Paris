@@ -57,3 +57,11 @@ This is the index of the Medulla Dyalectices:
 [^5]: Cf. García Villoslada 1938, p. 380.
 
 [^6]: The biographical section of this article draws in part on Paloma Pérez-Ilzarbe (1996), *The Doctrine of Descent in Jeronimo Pardo. Meaning, Inference, Truth*, with subsequent additions and corrections.
+
+---
+
+## Original Works
+
+The following texts by Jerónimo Pardo are available in this site:
+
+- [Medulla Dyalectices (Paris, 1505)](Medulla-Dyalectices.md)

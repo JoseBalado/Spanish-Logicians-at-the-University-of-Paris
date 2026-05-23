@@ -437,3 +437,11 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 [^9]: Solana (op. cit.), III, p. 19.
 
 [^10]: Enciclopedia Espasa, vol. 29, col. 1206.
+
+---
+
+## Original Works
+
+The following texts by Gaspar Lax are available in this site:
+
+- [Tractatus Summularum (Zaragoza, 1521)](Tractatus-Summularum.md)

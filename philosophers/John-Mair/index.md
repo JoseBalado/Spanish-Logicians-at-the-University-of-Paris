@@ -56,3 +56,12 @@ He also co-edited works of others that are important for this group:
 ### Broader significance
 
 As a teacher, Mair attracted students from all over Europe. His logical and theological approach — nominalist, technically rigorous, skeptical of humanist stylistic fashions — was exactly the intellectual air the Spanish logicians breathed at the Collège de Montaigu. Through his Spanish students, and through Domingo de Soto and Francisco de Vitoria (who studied under Celaya and Lax), Mair's influence penetrated the School of Salamanca and shaped the development of late-scholastic thought in Spain.
+
+---
+
+## Original Works
+
+The following texts by John Mair are available in this site:
+
+- [Introdvctorium in Aristotelicam Dialecticen (Paris, 1521)](Introdvctorium-in-Aristotelicam-Dialecticen-1521.md)
+- [Introductorium perutile in Aristotelicum dialecticen (1527)](Introductorium-perutile-in-Aristotelicum-dialecticen-1527.md)

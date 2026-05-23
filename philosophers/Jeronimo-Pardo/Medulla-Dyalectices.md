@@ -20,7 +20,7 @@ Paris, 1505
 
 München, Bayerische Staatsbibliothek \-- 2 Ph.sp. 35
 
-Medulla Dialectices edita a perspicacissimo artium praeceptor Hieronymo Pardo. Ferme graviores difficultates logicas acutissimae dissolvens, omnibus dialectice studiosis plurimum accommoda, de novo correcta et emendata cum tabula notabilium et propositionum disputatarum iuxta materiam et ordinem foliorum et capitulorum, per honorandos magistros: magistrum Iohannem Maioris in Sacra Theologia baccalarium, necnon per acutissimi ingenii virum magistrum Iacobum Ortiz, quia postremo ipsam cum augmento castigavit eique tabulam supradictam apposuit.![](./Pictures/10000000000005B70000084BEFD195DD.jpg){width="6.1126in" height="8.8701in"}
+Medulla Dialectices edita a perspicacissimo artium praeceptor Hieronymo Pardo. Ferme graviores difficultates logicas acutissimae dissolvens, omnibus dialectice studiosis plurimum accommoda, de novo correcta et emendata cum tabula notabilium et propositionum disputatarum iuxta materiam et ordinem foliorum et capitulorum, per honorandos magistros: magistrum Iohannem Maioris in Sacra Theologia baccalarium, necnon per acutissimi ingenii virum magistrum Iacobum Ortiz, quia postremo ipsam cum augmento castigavit eique tabulam supradictam apposuit.
 
 > Iacobus Ortiz illustri viro domino Petro de Meneses, magistro subtilissimo. Salutem dicit plurimam.
 

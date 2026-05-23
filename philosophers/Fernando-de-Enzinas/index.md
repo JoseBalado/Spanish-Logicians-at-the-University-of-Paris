@@ -34,3 +34,11 @@ In Salamanca, around 1530, we have testimony that Cristóbal de Medina read Summ
 [^1]: It is reasonable to assume that he was born in 1494, as Domingo de Soto, his colleague in studies, was born around the same time.
 
 [^2]: Urriza, pp 288-290, 450, 486, 509; Villoslada, pp. 392-394.
+
+---
+
+## Original Works
+
+The following texts by Fernando de Enzinas are available in this site:
+
+- [Tractatus de compositione propositionis mentalis (Lyon, 1528)](Tractatus-de-compositione-propositionis-mentalis.md)

@@ -84,7 +84,7 @@ Born in Segovia, Soto studied at the Collège Sainte-Barbe in Paris under Juan d
 | Chrysostomus Javellus              | 1470-1538       |
 | Arnoldus de Tongern                | 1470-1540       |
 | Hieronymus de Sancto Marco         | c. 1470-?       |
-| Hieronimus of Hangest              | c. 1470-1538    |
+| Hieronimus de Hangest              | c. 1470-1538    |
 | Josse van Clichtove                | 1472-1543       |
 | Antonio Coronel                    | 1480-1521       |
 | Luis Coronel                       | c. 1480-1531    |

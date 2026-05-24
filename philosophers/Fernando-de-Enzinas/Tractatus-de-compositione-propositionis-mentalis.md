@@ -36,7 +36,7 @@ Suscipe, ergo, qua soles alacri serenaque fronte, parvum hoc lumen, quod si per 
 
 Vale.
 
-Ex nostra palaestra Bellovaca apud Parisios quinto Idus Junii.
+Ex nostra palaestra Bellovaca apud Parisios quinto Idus Iunii.
 
 # De propositione mentali
 
@@ -280,7 +280,7 @@ quoniam per illam concipimus aliquid, ut alteri attributum et aliquid cui attrib
 
 ### Contra hanc solutionem arguitur postquam illa simplex qualitas aeque bene praesupponit notitias omnium hominum
 
-sicut notitiam omnium animalium non /7.1a/ videtur magis, cur notitia hominum sit subiectum et notitia animalium praedicatum, aut econtra. Sequitur igitur utrumque erit subiectum et untrumque erit praedicatum.
+sicut notitiam omnium animalium non /7.1a/ videtur magis, cur notitia hominum sit subiectum et notitia animalium praedicatum, aut econtra. Sequitur igitur utrumque erit subiectum et utrumque erit praedicatum.
 
 ### Ad hoc respondent quidam concedendo quod infertur.
 
@@ -438,26 +438,84 @@ sed voluntas unica notitia potest velle amare deum, atque hominem /9.1a/ esse an
 
 ### Sub confirmatur: Ascensus est notitia simplex et propositio; ergo aliqua propositio est notitia simplex.
 
-Maior probata est. Minor probatur: quia vere representat assensus, tunc ultra aliqua notitia est propositio simplex, et non est maior ratio de una quam de alia; ergo quaelibet est notitia simplex.
+Maior probata est. Minor probatur: quia vere repraesentat assensus, tunc ultra aliqua notitia est propositio simplex, et non est maior ratio de una quam de alia; ergo quaelibet est notitia simplex.
 
-Propter argumentum tenet Hieronymus Hangest, tenens opinionem communem. Non esse nobis, pro isto statu caliginoso, manifestum intellectum non formare unam simplicem qualitatem representantem hominem-esse-animal, et ideo asserit intellectum, post formationem huius propositionis "Homo est animal" compositae, posse formare unam simplicem qualitatem apprehensivam significantem hominem-esse-animal, quae quidem qualitas non est eadem cum notitia hominum, nec cum illa copula 'est', nec cum notitia animalium. Et dicit quod illa qualitas dependet in esse, conservari a propositioni mentali composite, et solum ratio huius doctoris est, quia significanda est natura quantum potest.
+Propter argumentum tenet Hieronymus Hangest, tenens opinionem communem. Non esse nobis, pro isto statu caliginoso, manifestum intellectum non formare unam simplicem qualitatem repraesentantem hominem-esse-animal, et ideo asserit intellectum, post formationem huius propositionis "Homo est animal" compositae, posse formare unam simplicem qualitatem apprehensivam significantem hominem-esse-animal, quae quidem qualitas non est eadem cum notitia hominum, nec cum illa copula 'est', nec cum notitia animalium. Et dicit quod illa qualitas dependet in esse, conservari a propositioni mentali composite, et solum ratio huius doctoris est, quia significanda est natura quantum potest.
 
 <!-- Important text here -->
-Sed videre meo, qualitas illa ultima propositionalis superflua est, nec ab intellectu producibilis, post alius productionem, qui intellectus, postquam intelligit hominem-esse-animal, non intelligit amplius quam antea intelligebat, nec aliqualiter qualiter antea non intelligebat per adventum illius novae notitie; ergo illa notitia non producitur ab intellectu. Antecedens manifestum est, et consequentia probatur per hoc qui intellectus nunquam occurrit ad productionem alicuius notitie, nisi mediante ea aliquid vel aliqualiter intelligat, quod vel qualiter antea non intelligebat. Sed intellectus quaecumque quae antea intelligebat et qualitercumque nunc intelligit; ergo intellectus non conoccurrit ad productionem illius novae notitiae. /9.1b/
+Sed videre meo, qualitas illa ultima propositionalis superflua est, nec ab intellectu producibilis, post alius productionem, qui intellectus, postquam intelligit hominem-esse-animal, non intelligit amplius quam antea intelligebat, nec aliqualiter qualiter antea non intelligebat per adventum illius novae notitie; ergo illa notitia non producitur ab intellectu. Antecedens manifestum est, et consequentia probatur per hoc qui intellectus nunquam occurrit ad productionem alicuius notitie, nisi mediante ea aliquid vel aliqualiter intelligat, quod vel qualiter antea non intelligebat. Sed intellectus quaecumque quae antea intelligebat et qualitercumque nunc intelligit; ergo intellectus non concurrit ad productionem illius novae notitiae. /9.1b/
 
 <!-- Important text here -->
 ### Forte responderet quod intellectus aliqualiter intelligit hominem-esse-animal qualiter antea non intelligebat quia incomplexe,
 
-et ideo non inconveniens est quod intellectus non perfectius rem intelligat quam antea, nec aliquo alio modo quam antea concurrat, aliquando, ad productionem notitie diversae idem et eodem modo significantis. Sed hoc est fallsum quia tunc sequitur quod habita una notitia incomplexa et absoluta rei, intellectus cum eadem advertentia deberet producere complexam connotativam et synonymam notitiam illi, quia quamis intellectus cognoscat illam rem, tamen non concurrit ad hoc per novam notitiam, ut cognoscat, et iterum habita illa notitia, deberet concurrere ad habendum unam aliam nouam notitiam.
+et ideo non inconveniens est quod intellectus non perfectius rem intelligat quam antea, nec aliquo alio modo quam antea concurrat, aliquando, ad productionem notitie diversae idem et eodem modo significantis. Sed hoc est falsum quia tunc sequitur quod habita una notitia incomplexa et absoluta rei, intellectus cum eadem advertentia deberet producere complexam connotativam et synonymam notitiam illi, quia quamvis intellectus cognoscat illam rem, tamen non concurrit ad hoc per novam notitiam, ut cognoscat, et iterum habita illa notitia, deberet concurrere ad habendum unam aliam nouam notitiam.
 
-### Preterea quero, post huius propositionis mentalis compositiae "Homo est animal" productionem, qualiter intellectus se habet ad productionem illius qualitatis simplicis.
+### Praeterea quaero, post huius propositionis mentalis compositae "Homo est animal" productionem, qualiter intellectus se habet ad productionem illius qualitatis simplicis.
 
 Vel advertit amplius vel producit illam ex imperio voluntatis, vel statim, habita propositione mentali composita, producitur naturaliter illa qualitas incomplexa, quidquid dicatur inconveniens quantumcumque vel semidoctus, intelligere valebit.
 
-### Quare credo intellectum solum per propositionem compositam apprehendere prospositionaliter.
+### Quare credo intellectum solum per propositionem compositam apprehendere propositionaliter.
 
-Et ad argumentum respondeo negando illam maiorem. Sed verum est nulli naturae negandam esse perfectionem, nisi ratione secundum materiam subiectam manifesta, constet opositum, id est, nisi sint rationes magnam fidem facientes. Modo dico quod sunt magnae rationes et fortes, sine secundum materiam subiectam satis clare, ad probandum intellectum non apprehendere propositionaliter per simplicem qualitatem, et sunt aliquae rationes, quae contra opinionem Gregorii, superius factae sunt.
+Et ad argumentum respondeo negando illam maiorem. Sed verum est nulli naturae negandam esse perfectionem, nisi ratione secundum materiam subiectam manifesta, constet oppositum, id est, nisi sint rationes magnam fidem facientes. Modo dico quod sunt magnae rationes et fortes, sine secundum materiam subiectam satis clare, ad probandum intellectum non apprehendere propositionaliter per simplicem qualitatem, et sunt aliquae rationes, quae contra opinionem Gregorii, superius factae sunt.
 
 ### Ad confirmationem facile esset respondere secundum opinionem Holkot,
 
-tenentis volitionem et nolitionem esse orationes optatiui modi. Sed, quia relicta est haec via, respondeo non esse simile de voluntate et de intellectu, quoniam voluntas non apprehendit, sed postquam intellectus apprehendit ipsa, quemadmodum ac si /9.2a/ iudicaret vult. Volo dicere volitiones et... 
+tenentis volitionem et nolitionem esse orationes optatiui modi. Sed, quia relicta est haec via, respondeo non esse simile de voluntate et de intellectu, quoniam voluntas non apprehendit, sed postquam intellectus apprehendit ipsa, quemadmodum ac si /9.2a/ iudicaret vult. Volo dicere volitiones et nolitiones in voluntate se habent sicut assensus et dissensus in intellectu, ita voluntas qualitate simplici vult, vel vult sicut intellectus iudicat.
+
+### Potest etiam aliter solvi argumentum per hoc quod arguitur a simili.
+
+Et argumentum (ut aiunt) a simili claudicat uno pede, id est, non valet argumentum a simili, nisi sit inter omnino similia, qualia non sunt intellectus et voluntas.
+
+### Ad sub confirmationem respondeo concedendo quod infertur in prima consequentia,
+
+et quando ultra arguitur nego minorem. Maior enim ratio est de dissensu quam de propositione apprehensiva, ut ex rationibus quivis dignoscit. Sunt tamen nonnulli qui aliter respondent, negando minorem primae consequentiae, videlicet quod assensus sit propositio. Sed sto in prius dictis, quia non video cur non sit propositio.
+
+## Circa igitur opinionem hanc ponentem syncategorema in anima nihil significare.
+
+Sed aliqualiter multe possunt difficultates adduci, ut tamen omnia disiunctis videantur eo ordine quo eas tractabimus. Monebo per dubia omnia quae inter arguendos discutiemus, ut facilius et inveniantur, et memoriae commendent.
+
+### Difficultas prima ergo erit: Utrum actu syncategorematici dicantur immutare intellectum et esse notitie et utrum habeant obiecta.
+
+Ibique fortiores rationes quas Hieronymus Pardo contra hanc opinionem adducit, soluam. Secundum dubium et quid sit significare aliqualiter.
+
+### Circa quod tertium erit: Qualiter significent signa particularia.
+
+### Atque circa idem quarta difficultas erit: De pronominibus demonstratiuis qualiter significent, et an significet aliquid.
+
+### Quintum erit: Qualiter copulae significent tempus, et an copulae de praesenti et praeterito sint synonymae.
+
+### Sexta difficultas erit principalis huius materiae de fundamentis huius opinionis (quibus reliquae difficultates dependent), videlicet: In quos terminos propositionis, in qua ponitur syncategorema, agat, et in quos non. Et utrum ab eis producatur, ab eisque conservari dependeat.
+
+### Circa quod cognoscetur septimo: Quae /9.2b/ pars propositionis sit propositio.
+
+### Et circa idem octavo disputabitur: Utrum verba adiectiva sint complexa vel incomplexa.
+
+### Et nono: Quae signa sint partes extremorum et quae non.
+
+### Et decimo: Utrum ad remissionem notitiae categorematicae sequatur remissio syncategorematica. Et quid est notiam categorematicam concurrere effectine ad syncategorematicam productionem.
+
+### Et undecimo: Utrum libere an naturaliter syncategorematici actus producantur.
+
+### Et duodecimo: Utrum potentia sensitiva syncategoremata producat.
+
+### Et tredecimo: Utrum ly 'futurus' et alii consimiles termini syncategoremata sint et a notitiis categorematicis producantur.
+
+### Quartodecimo: Cur potius huius mentalis "Homo est animal" notitia hominum sit subiectum quam notitia animalium.
+
+Seu quod idem est: Cur potius in hac mentali "Ominis albedo est qualitas" (cum ly 'omnis' tam immediatum sit subiecto sicut praedicato) distribuatur subiectum quam praedicatum.
+
+### Et quintodecimo: Quid requiratur et sufficiat ad hoc quod syncategoremata sint eiusdem speciei.
+
+Circa quod difficultatem communem inquiram: Utrum istae "Omnis homo est homo" et "Omnis homo omnis homo est" eidem mentali subordinentur.
+
+### Sextodecimo inquiretur: Utrum syncategoremata a sua significatione cadere possint. Et utrum extra propositionem reperiri possint.
+
+### Et decimo septimo: Utrum syncategoremata in mente, uniuoce vel aequiuoce, significent. Et utrum aequivocata ultimata inueniantur.
+
+### Et decimo octavo: Utrum duae negationes in mente, sicut in voce, se impedientes inveniantur.
+
+### Et decimonono: De significatione copulae de imaginario et ampliatione appellationeque verborum secundae intentionis.
+
+### Et vicesimo: De copulatis diuisine sumptis et conditionatis, copulaeque disiuncta et copulata, et ablatiuis absolutis, utrum ne in mente reperiantur.
+
+### Et primo et vicesimo: De accidentibus grammaticalibus utrum ne in mente sint. Et de obliquis, utrum ne inueniantur in mente, et an sint categoremata vel syncategoremata.

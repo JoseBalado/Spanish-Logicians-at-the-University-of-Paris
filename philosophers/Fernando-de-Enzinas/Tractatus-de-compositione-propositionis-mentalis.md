@@ -1,5 +1,4 @@
 ---
-layout: source
 title: "Tractatus de compositione propositionis mentalis"
 author: "Fernando de Enzinas"
 year: 1528

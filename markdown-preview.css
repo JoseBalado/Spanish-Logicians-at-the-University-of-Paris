@@ -1,0 +1,8 @@
+/* Markdown Preview CSS — Latin Transcription Project */
+
+/* Large type: approximately 1.7x the body font, matching the original print ratio */
+.textus {
+    font-size: 1.7em;
+    line-height: 1.6;
+    font-family: Georgia, serif;
+}

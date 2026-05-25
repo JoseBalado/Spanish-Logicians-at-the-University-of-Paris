@@ -152,7 +152,7 @@ FILES = [
 
 
 def build_front_matter(f):
-    lines = ["---", "layout: source"]
+    lines = ["---"]
     lines.append(f'title: "{f["title"]}"')
     lines.append(f'author: "{f["author"]}"')
     lines.append(f'year: {f["year"]}')

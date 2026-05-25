@@ -1,5 +1,4 @@
 ---
-layout: source
 title: "Tractatus Summularum"
 author: "Gaspar Lax"
 year: 1521

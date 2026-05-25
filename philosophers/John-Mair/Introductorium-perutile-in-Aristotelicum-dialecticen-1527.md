@@ -1,5 +1,4 @@
 ---
-layout: source
 title: "Introductorium perutile in Aristotelicum dialecticen (1527)"
 author: "John Mair"
 year: 1527

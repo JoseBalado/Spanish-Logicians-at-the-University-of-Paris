@@ -1,5 +1,4 @@
 ---
-layout: source
 title: "Summulae"
 author: "Domingo de Soto"
 year: 1529

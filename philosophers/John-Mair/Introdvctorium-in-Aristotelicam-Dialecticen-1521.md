@@ -1,5 +1,4 @@
 ---
-layout: source
 title: "Introdvctorium in Aristotelicam Dialecticen (Paris 1521)"
 author: "John Mair"
 year: 1521
@@ -43,15 +42,15 @@ Duodecimus et ultimus de Obligationibus
 
 Sequitur libelli primi tractatus prior, qui est de terminis in eundemque praefatio.
 
-/4/
-
+<div class="textus">
 Apud sapientem proverbiorum vigesimosecundo legimus: "Ne transgrediaris terminos antiquos, quos posuerunt patres tui". Quod impraesentiarum dupliciter exponere libet.
-
+<br /><br />
 Uno modo sic: Ne tu Summulista future logicam ab limine salutaveris donec terminos (quos patres tui dialectici tradidere) praelibaveris.
-
+<br /><br />
 Secundo modo sic: Novas terminorum sectiones cum sententiosis argutiolis, tanquam novercam logices, fugito. Quia illae temporis curriculo in summulis et logica examussim colligentur. Sed terminorum definitiones et partitiones antiquas, quas patres tui posuerunt, non transgrediaris.
-
+<br /><br />
 Propterea non demirabere si succincte et lucide sine rationum nexibus procedam. Rem igitur aggredientes dicamus.
+</div>
 
 Sicut *Primo Elenchorum* Aristoteles dicit qui terminorum significantias non capiunt, facile paralogizantur. Eam ob rem, aliqua communia et introductoria in terminos, sive nodosos vortices, tradenda veniunt.
 

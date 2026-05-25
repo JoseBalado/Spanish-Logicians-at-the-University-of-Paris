@@ -63,8 +63,8 @@ As a teacher, Mair attracted students from all over Europe. His logical and theo
 
 The following texts by John Mair are available in this site:
 
-- [Introdvctorium in Aristotelicam Dialecticen (Paris, 1521)](Introdvctorium-in-Aristotelicam-Dialecticen-1521.md)
-- [Introductorium perutile in Aristotelicum dialecticen (1527)](Introductorium-perutile-in-Aristotelicum-dialecticen-1527.md)
+- [Introdvctorium in Aristotelicam Dialecticen (Paris, 1521)](Introdvctorium-in-Aristotelicam-Dialecticen-1521.html)
+- [Introductorium perutile in Aristotelicum dialecticen (1527)](Introductorium-perutile-in-Aristotelicum-dialecticen-1527.html)
 
 ---
 

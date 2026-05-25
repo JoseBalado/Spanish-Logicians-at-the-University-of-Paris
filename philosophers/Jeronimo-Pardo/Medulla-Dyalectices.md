@@ -1,4 +1,5 @@
 ---
+layout: medieval
 title: "Medulla Dyalectices"
 author: "Jerónimo Pardo"
 year: 1505

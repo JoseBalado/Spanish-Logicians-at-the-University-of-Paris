@@ -444,4 +444,4 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 
 The following texts by Gaspar Lax are available in this site:
 
-- [Tractatus Summularum (Zaragoza, 1521)](Tractatus-Summularum.md)
+- [Tractatus Summularum (Zaragoza, 1521)](Tractatus-Summularum.html)

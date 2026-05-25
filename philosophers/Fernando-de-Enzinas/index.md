@@ -41,4 +41,4 @@ In Salamanca, around 1530, we have testimony that Cristóbal de Medina read Summ
 
 The following texts by Fernando de Enzinas are available in this site:
 
-- [Tractatus de compositione propositionis mentalis (Lyon, 1528)](Tractatus-de-compositione-propositionis-mentalis.md)
+- [Tractatus de compositione propositionis mentalis (Lyon, 1528)](Tractatus-de-compositione-propositionis-mentalis.html)

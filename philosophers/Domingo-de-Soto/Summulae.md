@@ -1,4 +1,5 @@
 ---
+layout: medieval
 title: "Summulae"
 author: "Domingo de Soto"
 year: 1529

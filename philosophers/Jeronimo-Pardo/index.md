@@ -64,4 +64,4 @@ This is the index of the Medulla Dyalectices:
 
 The following texts by Jerónimo Pardo are available in this site:
 
-- [Medulla Dyalectices (Paris, 1505)](Medulla-Dyalectices.md)
+- [Medulla Dyalectices (Paris, 1505)](Medulla-Dyalectices.html)

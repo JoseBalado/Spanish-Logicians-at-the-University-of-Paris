@@ -107,7 +107,7 @@ Exercises and comments following **[Theorem Proving in Lean 4](https://leanprove
 
 - [3. Propositions and Proofs](lean-tutorial/3-propositions-and-proofs.txt)
 - [3. Propositions and Proofs Tactics](lean-tutorial/3-propositions-and-proofs-tactics.txt)
-- [4. Quantifiers and Equality](lean-tutorial/4-quantifiers-and-equality.md)
+- [4. Quantifiers and Equality](lean-tutorial/4-quantifiers-and-equality.html)
 - [4. Quantifiers and Equality Tactics](lean-tutorial/4-quantifiers-and-equality-tactics.txt)
 - [5. Tactics](lean-tutorial/5-tactics.txt)
 - [6. Interacting with Lean](lean-tutorial/6-interacting-with-lean.txt)

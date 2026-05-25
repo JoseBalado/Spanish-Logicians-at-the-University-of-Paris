@@ -1,4 +1,5 @@
 ---
+layout: medieval
 title: "Introdvctorium in Aristotelicam Dialecticen (Paris 1521)"
 author: "John Mair"
 year: 1521

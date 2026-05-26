@@ -147,11 +147,7 @@
       margin: 0;
       padding: 0;
     }
-    .toc-sidebar > ul > li > ul {
-      overflow: hidden;
-      transition: max-height 0.3s ease-out, opacity 0.2s ease-out;
-    }
-    .toc-sidebar > ul > li > ul > li > ul {
+    .toc-sidebar ul ul {
       overflow: hidden;
       transition: max-height 0.3s ease-out, opacity 0.2s ease-out;
     }
@@ -163,6 +159,7 @@
     .toc-sidebar li.toc-h1 { font-weight: bold; margin-top: 0.6rem; }
     .toc-sidebar li.toc-h2 { padding-left: 0.6rem; margin-top: 0.4rem; font-weight: 600; }
     .toc-sidebar li.toc-h3 { padding-left: 1.2rem; }
+    .toc-sidebar li.toc-h4 { padding-left: 1.8rem; font-size: 0.78rem; }
     .toc-sidebar .toc-toggle-arrow {
       display: inline-block;
       width: 0.9em;
@@ -547,90 +544,55 @@
       var content = document.getElementById('content');
       var toc = document.getElementById('toc');
       var tocList = document.getElementById('toc-list');
-      var headings = content.querySelectorAll('h1, h2, h3');
+      var headings = content.querySelectorAll('h1, h2, h3, h4');
 
       if (headings.length < 3) return;
 
-      // Build a nested tree: h1 > h2 > h3
-      var currentH1Li = null, currentH1Ul = null;
-      var currentH2Li = null, currentH2Ul = null;
+      // Build a nested tree: h1 > h2 > h3 > h4
+      // Track current sub-list at each level (indices 1-4)
+      var currentUl = [null, null, null, null, null];
 
       headings.forEach(function(h, i) {
         if (!h.id) h.id = 'section-' + i;
-        var tag = h.tagName;
+        var level = parseInt(h.tagName[1]); // 1, 2, 3, or 4
 
         var li = document.createElement('li');
-        li.className = 'toc-' + tag.toLowerCase();
+        li.className = 'toc-' + h.tagName.toLowerCase();
+
+        var arrow = document.createElement('span');
+        arrow.className = 'toc-toggle-arrow';
+        arrow.textContent = '▾';
+        li.appendChild(arrow);
+
         var a = document.createElement('a');
         a.href = '#' + h.id;
         a.textContent = h.textContent;
+        li.appendChild(a);
 
-        if (tag === 'H1') {
-          // Arrow + link
-          var arrow = document.createElement('span');
-          arrow.className = 'toc-toggle-arrow';
-          arrow.textContent = '▾';
-          li.appendChild(arrow);
-          li.appendChild(a);
-          tocList.appendChild(li);
+        // Find parent UL: walk up from level-1 to 1, fall back to tocList
+        var parentUl = tocList;
+        for (var l = level - 1; l >= 1; l--) {
+          if (currentUl[l]) { parentUl = currentUl[l]; break; }
+        }
+        parentUl.appendChild(li);
 
-          // Sub-list for h2 children
-          currentH1Ul = document.createElement('ul');
-          li.appendChild(currentH1Ul);
-          currentH1Li = li;
-          currentH2Li = null;
-          currentH2Ul = null;
+        // Create sub-list for potential children
+        var subUl = document.createElement('ul');
+        li.appendChild(subUl);
+        currentUl[level] = subUl;
 
-          // Toggle children on arrow click
-          arrow.addEventListener('click', function(e) {
+        // Clear deeper levels
+        for (var l = level + 1; l <= 4; l++) { currentUl[l] = null; }
+
+        // Toggle children on arrow click
+        (function(arr, ul) {
+          arr.addEventListener('click', function(e) {
             e.preventDefault();
             e.stopPropagation();
-            arrow.classList.toggle('collapsed');
-            currentH1Ul.classList.toggle('toc-collapsed');
+            arr.classList.toggle('collapsed');
+            ul.classList.toggle('toc-collapsed');
           });
-
-        } else if (tag === 'H2') {
-          var arrow = document.createElement('span');
-          arrow.className = 'toc-toggle-arrow';
-          arrow.textContent = '▾';
-          li.appendChild(arrow);
-          li.appendChild(a);
-
-          var parentUl = currentH1Ul || tocList;
-          parentUl.appendChild(li);
-
-          // Sub-list for h3 children
-          currentH2Ul = document.createElement('ul');
-          li.appendChild(currentH2Ul);
-          currentH2Li = li;
-
-          // Toggle children on arrow click
-          (function(arr, ul) {
-            arr.addEventListener('click', function(e) {
-              e.preventDefault();
-              e.stopPropagation();
-              arr.classList.toggle('collapsed');
-              ul.classList.toggle('toc-collapsed');
-            });
-          })(arrow, currentH2Ul);
-
-        } else { // H3
-          li.appendChild(a);
-          var parentUl = currentH2Ul || currentH1Ul || tocList;
-          parentUl.appendChild(li);
-        }
-      });
-
-      // Hide empty sub-lists
-      tocList.querySelectorAll('ul').forEach(function(ul) {
-        if (ul.children.length === 0) ul.style.display = 'none';
-        // Also hide the arrow if no children
-        var arrow = ul.previousElementSibling;
-        if (arrow && arrow.previousElementSibling &&
-            arrow.previousElementSibling.classList.contains('toc-toggle-arrow') &&
-            ul.children.length === 0) {
-          arrow.previousElementSibling.style.visibility = 'hidden';
-        }
+        })(arrow, subUl);
       });
 
       // Hide arrows for items with no children
@@ -641,6 +603,27 @@
           arrow.style.visibility = 'hidden';
         }
       });
+
+      // Collapse sub-lists where all children are leaf nodes
+      // (adapts automatically to whatever heading depth each file uses)
+      var allUls = Array.from(tocList.querySelectorAll('ul'));
+      for (var i = 0; i < allUls.length; i++) {
+        var ul = allUls[i];
+        if (ul.children.length === 0) continue;
+        var allLeaves = true;
+        for (var j = 0; j < ul.children.length; j++) {
+          var childSubUl = ul.children[j].querySelector('ul');
+          if (childSubUl && childSubUl.children.length > 0) {
+            allLeaves = false;
+            break;
+          }
+        }
+        if (allLeaves) {
+          ul.classList.add('toc-collapsed');
+          var arrow = ul.parentElement.querySelector('.toc-toggle-arrow');
+          if (arrow) arrow.classList.add('collapsed');
+        }
+      }
 
       toc.classList.add('active');
 

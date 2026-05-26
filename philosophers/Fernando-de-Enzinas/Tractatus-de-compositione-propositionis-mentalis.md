@@ -519,3 +519,29 @@ Circa quod difficultatem communem inquiram: Utrum istae "Omnis homo est homo" et
 ### Et vicesimo: De copulatis diuisine sumptis et conditionatis, copulaeque disiuncta et copulata, et ablatiuis absolutis, utrum ne in mente reperiantur.
 
 ### Et primo et vicesimo: De accidentibus grammaticalibus utrum ne in mente sint. Et de obliquis, utrum ne inueniantur in mente, et an sint categoremata vel syncategoremata.
+
+### Et secundo et vicesimo: Utrum numerus pluralis inveniatur et termini pluralis numeri includant ly 'et', hoc est, an sint complexi.
+
+### Et tertio et vicesimo: De significatione totali propositionis. Et subiectum huius "Homo est animal", est propositio an sit completum vel incompletum.
+
+### Et quarto et vicesimo: De significatione relativorum. Utrumne syncategoremata sint aliqualiter vel significant. Circa quod de hac particula 'et sic de singulis' sive 'et sic de aliis' dicetur.
+
+### Et quinto et vicesimo: De significatione signorum exponibilium. Et utrum propositiones exponibiles sint categoricae et hypotheticae.
+
+### Et sexto et vicesimo: Utrum signa incompletae distribuentia inveniantur in mente, sicut ly 'omne' pro generibus singulorum qualislibet et alia id generis.
+
+### Septimo et vicesimo: De conceptibus non-ultimatis syncategorematicum, et quomodo voces et quodque per voces significatum est repraesentent, et an subiectum huius "'Homo est animal' est propositio" sit complexum.
+
+### Octavo et vicesimo: Utrum aliquis terminus, in mente, ultimata materialiter supponere potest. Et cui hec particula 'ly' subordinatur.
+
+### Et ultimo inquiretur quomodo recordemur significationis syncategoremata vocalia producant habitus aut species.
+
+Circa ista multa alia implicabuntur inter disputandum.
+
+## Ad primum igitur deveniendum contra illam opinionem ponentem syncategoremata puta aliqualiter significare.
+
+Arguit Pardo: Si ly 'omnis' esset in anima purum syncategorema, sequeretur ipsum vitaliter immutare potentiam cognitivam. Sed hoc est falsum; ergo ly 'omnis' non invenitur in anima.
+
+Sequela videtur nota, postquam in anima ponitur, et probatur minor. Per illud signum 'omnis' nihil cognoscit anima. Ergo illud signum 'omnis' non immutat potentiam cognitivam.
+
+Consequentia patet, quoniam vitaliter immutare potentiam cognitivam non est aliud quam posse esse cognitionem mediante quam potentia cognitiva aliquid /10.1b/ cognoscit.

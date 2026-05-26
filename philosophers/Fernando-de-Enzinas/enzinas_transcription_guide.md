@@ -71,7 +71,26 @@ These specific expansions were confirmed or corrected:
 
 | Original form | Correct expansion |
 |---|---|
+| `volitatis` | `volitatis` — check carefully against context |
+| `fallumanic` | `falsum` (misread) |
+| `nouam` | normalize to `novam` |
+| `opositum` | `oppositum` |
+| `prospositionaliter` | `propositionaliter` |
+| `Holect` | `Holkot` (proper name: Robert Holcot) |
+| `optratui` | `optativi` |
+| `solui` | `solvi` (normalize to classical spelling) |
+| `quinis` | `quivis` (misread — "whoever" not "five each") |
+| `isto in primo die` | `sto in prius dictis` (significant misread) |
+| `dissensione` | `dissensu` (wrong case) |
+| `impendientes` / `impendentes` | `impedientes` (from *impedio*, "mutually cancelling") |
+| `eliq3` / `eiiq3` / `eisq3` | `eisque` (ablative + *que* suffix) |
+| `notiam categorematicam concurrere et fectine` | `notiam categorematicam concurrere effective` |
 | `vnica` | `unica` |
+| `ois` | `omnis` |
+| `sincathegoreuumata` | `syncategoremata` |
+| `sincathegoreumaticum` | `syncategorematicum` |
+| `cathegoreice` | `categoricae` |
+| `ypothetice` | `hypotheticae` |
 | `qp` | `quod` |
 | `7` | `et` |
 | `9` suffix | `us` (e.g., `corp9` → `corpus`) |
@@ -79,6 +98,7 @@ These specific expansions were confirmed or corrected:
 | `atq3` | `atque` |
 | `neq3` | `neque` |
 | `q3` suffix | `que` (e.g., `eliq3` → `eisque`, `eiiq3` → `eisque`) |
+| `q̄3` | `quam` |
 | `postq¨3` | `postquam` |
 | `vtrique` | `utrique` |
 | `vnam` | `unam` |
@@ -157,29 +177,6 @@ Seu quod idem est...
 
 ---
 
-## Word Corrections — Common Misreadings
-
-These words were misread and corrected:
-
-| Misread | Correct |
-|---|---|
-| `volitatis` | `volitatis` — check carefully against context |
-| `fallumanic` | `falsum` (misread) |
-| `nouam` | normalize to `novam` |
-| `opositum` | `oppositum` |
-| `prospositionaliter` | `propositionaliter` |
-| `Holect` | `Holkot` (proper name: Robert Holcot) |
-| `optratui` | `optativi` |
-| `solui` | `solvi` (normalize to classical spelling) |
-| `quinis` | `quivis` (misread — "whoever" not "five each") |
-| `isto in primo die` | `sto in prius dictis` (significant misread) |
-| `dissensione` | `dissensu` (wrong case) |
-| `impendientes` / `impendentes` | `impedientes` (from *impedio*, "mutually cancelling") |
-| `eliq3` / `eiiq3` / `eisq3` | `eisque` (ablative + *que* suffix) |
-| `notiam categorematicam concurrere et fectine` | `notiam categorematicam concurrere effectine` |
-
----
-
 ## Proper Names
 
 - **Hieronymus Hangest** — always two words, capital H on both
@@ -203,11 +200,10 @@ These are invisible on the rendered GitHub Pages site.
 ---
 
 ## General Accuracy Reminders
-
+- **Almost always replace colons (:) with commas** Unless there is a good reason to replace them with a dot (.) or to keep the colon (:).
 - **Read slowly** — many errors come from reading too fast and pattern-matching to common words
 - **Check word endings** — Latin inflections are critical for meaning; `-am`, `-um`, `-em` are not interchangeable; `ab` always governs the ablative (never accusative)
 - **No inventions** — if a word is illegible, use `<!-- illegible -->` rather than guessing
 - **Diphthongs** — always restore `ae` where the original has `e` in classical Latin words (`synonymae`, `primae`, `consequentiae`, etc.)
 - **Paragraph count** — verify the same number of paragraphs appear in transcription as in the source column
-- **`q3` suffix reads as letters** — in degraded print, `eisque` can appear as `eliq3`, `eiiq3`, or `eisq3`; always check the image and the grammar before expanding
 - **`ab` governs ablative** — if an expansion after `ab` yields an accusative form, the reading is wrong; re-examine the image

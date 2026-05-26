@@ -1570,44 +1570,51 @@ Quarta regula solet communius poni quod: Dictiones importantes actum intellectus
 Ut 'cognosco', 'apprehendo', 'intelligo', 'volo', 'nolo', 'aveo', 'cupio' et huiusmodi in communi usu. Apud neotericos ⟨a⟩ confundit confuse tantum, et terminum determinate stare facit. An sit alia suppositio ultra hanc de ⟨c⟩ et ⟨d⟩ in libro Perihermeneias dicemus, ut "⟨a⟩ Homo non est animal", "Omnis homo est ⟨b⟩ animal".
 
 #### Regula pro suppositione confusa tantum copulatim
-
+<div class="textus">
 Ponitur una regula pro suppositione confusa tantum copulatim.
-
+</div>
+<div class="textus">
 Terminus sequens signum collectivum stat confuse tantum copulatim.
-
+</div>
 Ut "Omnes apostoli Dei sunt duodecim".
 
 #### Quidquid mobilitat immobilitat
-
+<div class="textus">
 Quidquid mobilitat immobilitat.
+</div>
 
-Hoc est: Quidquid mobilitat immobilitatum, immobilitat mobilitatum. Hoc clare dicas quando super unum terminum cadunt duo signa, quorum quodlibet est natum terminum illum distribuere, tunc illa duo signa se a distributione praepediunt, ita quod terminus ab illis duobus manet indistributus.
+Hoc est: Quidquid mobilitat immobilitatum, immobilitat mobilitatum.
+
+Hoc clare dicas, quando super unum terminum cadunt duo signa quorum quodlibet est natum terminum illum distribuere, tunc illa duo signa se a distributione praepediunt, ita quod terminus ab illis duobus manet indistributus.
 
 Si distribuitur a parte non est vis, determinatio accepta unica ad partem suam legem habet. Sed an talis terminus determinate an confuse stet, varia est artistarum positio, quas omnes alias fusius refellere nisus sum.
 
 Hanc tamen regulam in hac parte non spernendam servabis, pedamen in contradictoriis fundando super hoc dictum commune "Non est verius contradicere quam toti propositioni negationem anteferre".
 
-Et si in fronte propositionis sit eam e medio tollere et videre qualiter termini supponunt ubi est paucitas signorum, ut in hac "Homo non est animal" subiectum stat determinate, et praedicatum distribuitur. Propterea in ista "Non-homo non est animal", praedicatum stat confuse tantum, a nulla negatione sed ab aggregato earum.
+Et si in fronte propositionis sit eam, e medio tollere, et videre qualiter termini supponunt ubi est paucitas signorum; ut in hac "Homo non est animal" subiectum stat determinate et praedicatum distribuitur. Propterea in ista "Non-homo non est animal" praedicatum stat confuse tantum, a nulla negatione, sed ab aggregato earum.
 
-Et in ista "Non ⟨a⟩ homo non est animal" praedicatum stat determinate ab illa trinitate "non ⟨a⟩ non", quia in eius contradictoria distribuebatur praedicatum in ordine ad subiectum stans confuse tantum.
+Et in ista "Non ⟨a⟩ homo non est animal", praedicatum stat determinate ab illa trinitate "non ⟨a⟩ non", quia in eius contradictoria distribuebatur praedicatum in ordine ad subiectum stans confuse tantum.
 
 "Non-hominis ⟨a⟩ asinus quodlibet rudibile est", rudibile non supponit pure determinate nec pure confuse tantum, ut patet per modum contradictionis, sed de hoc alibi.
 
-Sed quando dubitas de suppositione alicuius termini, an supponit determinate vel confuse, ut praedicato huius "Omnis homo non omnis homo est", cape clarissimam contradictoriam quam habet secundum regulam quae data est in aequipollentiis. Sua contradictoria est haec "Homo omnis homo est", ut patet de hac "Nullus homo omnis homo est", quae aequivalet huic "Omnis homo non omnis homo est" (absolvendo 'nullus' a genere"), non vadas ad hanc contradictoriam "Non omnis homo non omnis homo /72/ est, quia tunc gratis te ipsum involvis.
+Sed quando dubitas de suppositione alicuius termini an supponit determinate vel confuse, ut praedicato huius "Omnis homo non omnis homo est", cape clarissimam contradictoriam quam habet secundum regulam quae data est in aequipollentiis. Sua contradictoria est haec "Homo omnis homo est", ut patet de hac "Nullus homo omnis homo est", quae aequivalet huic "Omnis homo non omnis homo est" (absolvendo 'nullus' a genere"). Non vadas ad hanc contradictoriam "Non omnis homo non omnis homo /72/ est, quia tunc gratis te ipsum involvis.
 
 ##### Arguitur
 
-Sed contra istud arguitur: Praedicatum istius "Non ⟨a⟩ homo non est animal", stat determinate per te et per theoricam. Sed probo quod non, sublato hoc signo ⟨a⟩ praedicatum stat confuse tantum; ergo addito signo ⟨a⟩ praedicatum non stat determinate contra eius impositionem, cum eo utamur ad confundendum terminum immediate sequentem nisi impediatur.
+Sed contra istud arguitur: Praedicatum istius "Non ⟨a⟩ homo non est animal" stat determinate per te et per theoricam. Sed probo quod non, sublato hoc signo ⟨a⟩, praedicatum stat confuse tantum; ergo addito signo ⟨a⟩ praedicatum non stat determinate contra eius impositionem, cum eo utamur ad confundendum terminum immediate sequentem nisi impediatur.
 
-Eodem homo si dicas quod 'homo' stat confuse in ista "Non omnis homo est ⟨b⟩ animal", tunc sequitur quod haec signa causant suppositionem ante se, contra communem logicam.
+Eodem modo, si dicas quod 'homo' stat confuse in ista "Non omnis homo est ⟨b⟩ animal", tunc sequitur quod haec signa causant suppositionem ante se, contra communem logicam.
 
 ##### Respondetur
 
-Respondetur: Ly ⟨a⟩ non causa suppositionem determinatam, sed hoc totum 'non ⟨a⟩', et ⟨a⟩ partialiter, quia oportet videre suppositionem sufficientem ad contradicendum, quia utrobique tenemus regulam communem "Non est verius contradicere tam in hypotheticis quam in categoricis", quia ea negata in procella fluctuabimus, sicut naves in aequore sine clavo.
+Respondetur: Ly '⟨a⟩' non causa suppositionem determinatam, sed hoc totum 'non ⟨a⟩', et ⟨a⟩ partialiter, quia oportet videre suppositionem sufficientem ad contradicendum, quia utrobique tenemus regulam communem:
+> Non est verius contradicere tam in hypotheticis quam in categoricis
 
-Necessarium ergo est in ista "Non ⟨a⟩ homo non est animal", dicere quod 'animal' stat determinate et non sequitur propterea quod aliquis terminus faciat suppositionem de per se ante se, sed quia ipse est signum ostendens nobis quomodo debemus capere terminos in contradictorio. Et si imponamus ⟨a⟩ ad confundendum confuse tantum, oportet quod ex consequenti imponatur esse nota saltem partialis suppositionis determinate in suo contradictorio, vel negare regulam necessariam.
+quia ea negata, in procella fluctuabimus, sicut naves in aequore sine clavo.
 
-Non est verius contradicere et in conditionalibus consequentiis et multis aliis sine hac regula contradicere nequimus. Fateor tamen quod possumus dicere quod regula patiatur instantias in categoricis, et duas in proposito, sed tunc tenebrosa aqua in nubibus aeris erit nobis in exponibilibus et alias, propterea regulam utrobique teneo.
+Necessarium ergo est in ista "Non ⟨a⟩ homo non est animal" dicere quod 'animal' stat determinate, et non sequitur propterea quod aliquis terminus faciat suppositionem de per se ante se, sed quia ipse est signum ostendens nobis quomodo debemus capere terminos in contradictorio. Et si imponamus ⟨a⟩ ad confundendum confuse tantum, oportet quod ex consequenti imponatur esse nota, saltem partialis suppositionis determinate in suo contradictorio, vel negare regulam necessariam.
+
+Non est verius contradicere et in conditionalibus, consequentiis et multis aliis, sine hac regula contradicere nequimus. Fateor tamen quod possumus dicere quod regula patiatur instantias in categoricis, et duas in proposito, sed tunc tenebrosa aqua in nubibus aeris erit nobis in exponibilibus et alias, propterea regulam utrobique teneo.
 
 ## Sequitur De Descensu et Ascensu
 

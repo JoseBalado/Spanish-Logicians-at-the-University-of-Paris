@@ -107,7 +107,7 @@ Definitio enim logice accepta dicitur ad similitudinem definitionis realis, modo
 
 ### Ex hac conditione sequitur definitionem et definitum termino esse convertibiles
 
-Id est, de quocumque dicitur /4a/ definitio, dici et definitum et ediverso, et ab altero ad alterum valere argumentum affirmative et negative. Ut "Si Petrus est homo, Petrus est animal rationale" et caetera.
+Id est, de quocumque dicitur /4a/ definitio, dici et definitum et ediverso, et ab altero ad alterum valere argumentum affirmative et negative. Ut "Si Petrus est homo, Petrus est animal rationale" etc.
 
 ### Per hoc demum solvitur illa quaestio. An videlicet de quocumque dicitur definitum cum aliqua determinatione, dicatur et definitio cum eadem et ediverso
 
@@ -121,10 +121,10 @@ Ad hoc quod aliqua oratio sit definitio, non requiritur quod actualiter explicet
 
 -   Illa oratio "Animal rationale" quae cras proferetur non est nunc definitio, dato quod nunc verum sit dicere quod potest explicare naturam hominis, quia hoc erit per hoc quod producatur, ac proinde per hoc quod acquiratur novam potentiam significandi.
 -   Secundo. Atramentum quod nunc est, ex quo similis oratio cras lineabitur, non est nunc definitio, esto nunc verum sit dicere quod potest explicare naturam hominis quia hoc erit acquirendo novam lineationem per quam sequenter acquiretur nova potentia significandi.
--   Tertio: Si illa definitio "Animal rationale" quae nunc est in intellectu meo poneretur in lapide (ut solet admitti) ibi non esset definitio, esto verum esset dicere quod potest explicare naturam et caetera, quia hoc erit mutando subiectum, id est, per hoc quod iterum ponatur in intellectu, per quam mutationem acquiret novam potentiam significandi. Forte ad nomen est an haec potentia propinqua remotave dicatur.
--   Quarto: Haec duae littera 'a', 'b' quae cras imponentur ad significandum sicut "Animal rationale" non sunt nunc definitio, licet nunc verum sit dicere quod possunt explicare naturam et caetera, quia hoc erit facta nova impositione per quam acquiret novam potentia significandi.
+-   Tertio: Si illa definitio "Animal rationale" quae nunc est in intellectu meo poneretur in lapide (ut solet admitti) ibi non esset definitio, esto verum esset dicere quod potest explicare naturam etc, quia hoc erit mutando subiectum, id est, per hoc quod iterum ponatur in intellectu, per quam mutationem acquiret novam potentiam significandi. Forte ad nomen est an haec potentia propinqua remotave dicatur.
+-   Quarto: Haec duae littera 'a', 'b' quae cras imponentur ad significandum sicut "Animal rationale" non sunt nunc definitio, licet nunc verum sit dicere quod possunt explicare naturam etc, quia hoc erit facta nova impositione per quam acquiret novam potentia significandi.
 
-Et hi quattuor modi potentiarum dicuntur potentiae remotae. Sed illa oratio "Animal rationale" quae scripta est in libro clauso, rite est definitio, quamquam non actualiter explicet naturam et caetera, quia id potest facere nulla mutatione facta ex parte ipsius per quam acquiratur nova potentia significandi, quod est potentia propinqua.
+Et hi quattuor modi potentiarum dicuntur potentiae remotae. Sed illa oratio "Animal rationale" quae scripta est in libro clauso, rite est definitio, quamquam non actualiter explicet naturam etc, quia id potest facere nulla mutatione facta ex parte ipsius per quam acquiratur nova potentia significandi, quod est potentia propinqua.
 
 Dixerim ex parte ipsius quia non potest adhuc explicare naturam hominis nisi fiat mutatio ex parte potentiae cognitivae, quae acquiratur nova notitia. Et tamen propterea non tollitur potentia propinqua. Et per proportionabiliter exponuntur plures definitiones quae infra assignabuntur.
 
@@ -146,7 +146,7 @@ Solet dicit quod definitio metaphysica sit quae datur per essentialia in recto, 
 Definitio descriptiva est definitio rei per eius accidentia. Et sicut accidentium alia sunt propria, intrinseca et intransmutabilia, et alia communia, extrinseca, et transmutabilia. Ita descriptio /4b/ potest fieri, aut:
 
 1.  Per accidentia primi generis ut si diceres "Homo est animal risibile, politicum, disciplinabile"
-2.  Et per accidentia secundi generis, ut si diceres "Homo est animal magni, cerebri, pilosus, singulis manibus et pedibus quinque habens digitos et caetera".
+2.  Et per accidentia secundi generis, ut si diceres "Homo est animal magni, cerebri, pilosus, singulis manibus et pedibus quinque habens digitos etc".
 
 Et prima dicitur proprie descriptiva, nam secunda congruentius diceretur accidentalis aut per additamentum.
 
@@ -176,7 +176,7 @@ Dicitur formale quia neque ly risibile dicitur eius definitum remotum, licet eiu
 
 Ex quo sequitur quod definitum propinquum et remotum non dicuntur omnino relative, nam licet non possit esse definitum remotum nisi per respectum ad propinquum, a quo habet esse definitum, potest tamen esse propinquum sive remoto, cum ab illo non habeat esse definitum, ut patet in definitionibus 'quid nominis', illis maxime quae nullo modo sunt quid rei.
 
-Ex quo secundo sequitur idem esse definitum remotum et propinquum, ut patet de ly 'definitum remotum' quod est remotum et propinquum respectu suae definitionis. Sed tamen diversis rationibus. Et enim remotum quia est terminus cuius significatum et caetera exprimitur per dictam definitionem, et propinquum, quia est res cuius natura explicatur per eandem, quod quidem corollarium frequenter verificabitur in sequentibus.
+Ex quo secundo sequitur idem esse definitum remotum et propinquum, ut patet de ly 'definitum remotum' quod est remotum et propinquum respectu suae definitionis. Sed tamen diversis rationibus. Et enim remotum quia est terminus cuius significatum etc exprimitur per dictam definitionem, et propinquum, quia est res cuius natura explicatur per eandem, quod quidem corollarium frequenter verificabitur in sequentibus.
 
 ## Capitis primi. Lectio secunda
 
@@ -194,11 +194,11 @@ Igitur definitio 'quid rei' in rigore est illa quae explicat quidditatem rei, et
 
 Sed iam usus (etiam apud viros doctos) paulo latius extendit hoc nomen definitio 'quid rei', ut scilicet quaecumque definitio explicans aut modum aliquem rei, sive per essentialia sive per accidentalia, quantumcumque extrinseca, dictatur definitio 'quid rei', id est, explicans quodammodo rem.
 
-Rursus, quia quidditas nominis inquantum nomen est eius significatio, illa est definitio quid nominis quae explicat significationem nominis. Quod sic intelligebant antiqui, ut videlicet quaecumque oratio per quam manifestaretur quid per nomen significatur, diceretur definitio quid nominis, ut si diceres "Elephans est animal quadrupes, proceri corporis, proboscide longa e naribus pendente, pro manu utens et caetera".
+Rursus, quia quidditas nominis inquantum nomen est eius significatio, illa est definitio quid nominis quae explicat significationem nominis. Quod sic intelligebant antiqui, ut videlicet quaecumque oratio per quam manifestaretur quid per nomen significatur, diceretur definitio quid nominis, ut si diceres "Elephans est animal quadrupes, proceri corporis, proboscide longa e naribus pendente, pro manu utens etc".
 
 Itaque definitio quam supra diximus accidentalem dicitur apud eos quid nominis, ut definitio quid nominis distinguatur contra definitionem quid rei stricte accepta. Et sic dicunt solos terminos 'absolutos', 'incomplexos' veras res significantes definiri definitione quid rei.
 
-Sed definitione quid nominis et ipsos et omnes connotativos / complexos et quibus nullum significatum correspondet, ut ly 'album' / ly 'obiectum adaequatum potentiae' / ly 'Chimaera' et caetera.
+Sed definitione quid nominis et ipsos et omnes connotativos / complexos et quibus nullum significatum correspondet, ut ly 'album' / ly 'obiectum adaequatum potentiae' / ly 'Chimaera' etc.
 
 Quinetiam etiam et syncategoremata, ut si dicas "Cras significat sicut haec oratio 'In die proximo sequenti'". Iuniores autem solummodo vocant definitionem quid nominis orationem qua exprimitur aliquis modus obscurus significandi termini, sicut orationes explicant significatum formale et consignatum terminorum connotativorum, sicut est illa "Corpus habens albedinem respectu alibi", et quibus exprimuntur modi significandi quorundam syncategorematum.
 
@@ -216,13 +216,13 @@ Item etiam dicta oratio non explicat modum concretivum significandi de ly 'lapis
 
     Verum tamen definitionis in quid rei et quid nominis terminorum non habentium verum et reale significatum, sicut est definitio de ly 'vacuum' et similium non sunt dicendae absolutae definitiones quid rei, sed quid rei imaginabiles.
 
-    Definitiones vero syncategorematum, utputa horum terminorum 'cras', 'hodie' et caetera, nullo modo sunt quid rei, quia tales termini non significant aliquo modo rem. Haec quae dicta sunt de definitione de ly 'album' intelliguntur quando definitur in concreto, nam in abstracto potest definire definitione quid rei, eo modo quo accidens dicitur ens, quod alterius est disputare negotii.
+    Definitiones vero syncategorematum, utputa horum terminorum 'cras', 'hodie' etc, nullo modo sunt quid rei, quia tales termini non significant aliquo modo rem. Haec quae dicta sunt de definitione de ly 'album' intelliguntur quando definitur in concreto, nam in abstracto potest definire definitione quid rei, eo modo quo accidens dicitur ens, quod alterius est disputare negotii.
 
 -   Ad tertium argumentum negatur maior, videlicet, quod dicta oratio sit definitio quid nominis de ly 'lapis', sed est etymologia (ut visum est) quam etiam vocant notationem.
 
 ### Ex his sequitur secundum utramque opinionem non omnem definitionem quid nominis praedicari de suo definito personaliter sumpto
 
-Ut patet in definitionibus de ly 'vacuum', de ly 'Chimaera' et caetera. Omnis tamen definitio quid nominis praedicatur de suo definito materialiter sumpto in propositione de actu signato.
+Ut patet in definitionibus de ly 'vacuum', de ly 'Chimaera' etc. Omnis tamen definitio quid nominis praedicatur de suo definito materialiter sumpto in propositione de actu signato.
 
 -   Propositio de actu signato est propositio cuius verbum est secundae intentionis, aut accipitur loco talis.
 -   Propositio de actu exercito est propositio cuius verbum est primae intentionis.
@@ -231,14 +231,14 @@ Verbi gratia propositiones "Homo significat animal", "Animal praedicatur de homi
 
 Volumus ergo dicere omnes has esse veras:
 
--   'Chimaera' significat eodem modo, id est, eadem connotatione, sicut haec oratio "Ens compositum ex capite et pectore leaenae et caetera".
--   'Vacuum' significat eodem modo, sicut haec oratio "Locus non repletus corpore et caetera".
+-   'Chimaera' significat eodem modo, id est, eadem connotatione, sicut haec oratio "Ens compositum ex capite et pectore leaenae etc".
+-   'Vacuum' significat eodem modo, sicut haec oratio "Locus non repletus corpore etc".
 
 Et secundum modernos hoc est evidens signum ad cognoscendum quae est definitio quid nominis alicuius terminus, utputa, si significet eodem modo sicut suum definitum, dempto quod definitio potest significare complexe, definito significante incomplexe. Sed secundum antiquos non opus est quod definitum et definitio quid nominis significent eodem modo, quia definitio quid nominis termini absoluti significat connotative, definitio significante absolute. Sufficit enim quod significent idem.
 
 ### Ultimo tandem notanda sunt interrogativa definitionum, cum enim quaeritur
 
-Quae definitio est haec? Respondendum est quid nominis aut quid rei, quidditativa aut descriptiva et caetera.
+Quae definitio est haec? Respondendum est quid nominis aut quid rei, quidditativa aut descriptiva etc.
 
 Sed cum quaeritur qualis est, respondendum est bona vel mala. Unde definitio, quia non est propositio, non est vera vel falsa, sed bona vel mala.
 
@@ -265,7 +265,7 @@ Ut is quaeratur:
 
 ### Divisio: est oratio rem per suas partes, aut terminum per suas significationes distribuens
 
-Ut haec oratio "Animalium aliud rationale aliud irrationale", distinguens multiplicitatem animalium. Et haec 'canis' alio conceptu significat: sidus, alio, picem et caetera. Distinguens aequivocationem de ly 'canis'. Nam sicut in cumulo ex tritico et ordeo separantur ab invicem dictae partes, ut manifestetur eius confusio, sic 'animal' secatur in rationale et irrationale, ut eius communitas explicetur.
+Ut haec oratio "Animalium aliud rationale aliud irrationale", distinguens multiplicitatem animalium. Et haec 'canis' alio conceptu significat: sidus, alio, picem etc. Distinguens aequivocationem de ly 'canis'. Nam sicut in cumulo ex tritico et ordeo separantur ab invicem dictae partes, ut manifestetur eius confusio, sic 'animal' secatur in rationale et irrationale, ut eius communitas explicetur.
 
 Dixerim rem per suas partes distribuens, non quod sit divisio realis, sicut incisio panis in frusta. Sed quod in hac divisione, animalium aliud rationale aliud irrationale, res ipsa logicaliter dividatur /6a/ aut terminus acceptus quod idem est (ut diximus de definitione quid rei) unde res potest dici divisum propinquum, et terminus remotum.
 
@@ -281,7 +281,7 @@ Sunt enim membra dividentia partes distinctivae divisi. Quare ad similitudinem p
 -   Secunda: Membra simul sumpta adaequate exhauriunt totam confusionem divisi, id est, disiunctum ex membris dividentibus convertitur cum divisio, quod est membra dividentia adaequate divisum.
 -   Tertia: Membra dividentia sunt inter se opposita, id est, oppositas rationes formales habentia. Et ratio huius est nam alias talis membra non proprie dicerentur distinctiva divisi cum inter se esset permixta. Et possunt esse opposita realiter vel solum formaliter. Realiter quidem, aut contrarie, aut privative, aut contradictorie, aut forsan relative. Quos terminos infra, capitulo ultimo, habes expositos lectio secunda. Et in diversis generibus divisionis (ut infra videbitur) membra dividentia, sicut diversimode sunt inferiora, it diversimode sunt opposita.
 
-At vero illi termini dicuntur solum formaliter opponi, qui licet possint de eodem verificari, eorum tamen rationes formales sunt omnino diverse, id est, quarum una potest cuicumque suo supposito convenire sine hoc quod alia eidem conveniat, ut membra huius usitate divisionis "Bonorum alius honestum, aliud utile, et aliud delectabile", quae quidem non sunt realiter opposita cum in eodem possint reperiri, sed eorum rationes sunt omnino diversae quia nulla earum includit aliquid alterius, sed potest dici honestum quod nullo modo sit utile vel delectabile, et utile quod nullo modo sit delectabile vel honestum et caetera.
+At vero illi termini dicuntur solum formaliter opponi, qui licet possint de eodem verificari, eorum tamen rationes formales sunt omnino diverse, id est, quarum una potest cuicumque suo supposito convenire sine hoc quod alia eidem conveniat, ut membra huius usitate divisionis "Bonorum alius honestum, aliud utile, et aliud delectabile", quae quidem non sunt realiter opposita cum in eodem possint reperiri, sed eorum rationes sunt omnino diversae quia nulla earum includit aliquid alterius, sed potest dici honestum quod nullo modo sit utile vel delectabile, et utile quod nullo modo sit delectabile vel honestum etc.
 
 Non tamen sufficere membra esse aliquo modo formaliter diversa. Haec enim non est bona divisio (ut inquit Boethius) "Animalium, aliud rationale, aliud bipes", quia cuicumque convenit ratio prima convenit secunda, nec potest oppositum contingere, et tunc certe illa membra non habent ut sint distinctiva divisi.
 
@@ -321,7 +321,7 @@ Ad hoc genus divisionis reducitur divisio analogi in sua analogata, ut "Hominum,
 
 Divisione autem rei dividitur quidquid habet rationem totius:
 
--   Unde prima divisio rei est generis in suas species, ut "Animalium, aliud homo, aliud aequus et caetera". Et haec propriissime dicitur divisio per partes quidditative inferiores et contrarie oppositas, qui termini supra expositi sunt. Ad hanc divisionem potest reduci divisio speciei in individua. Ut "Hominum, alius Petrus, alius Paulus". Sed quia haec ad nullam unquam scientiam ad aliquid conducit, relinquitur tamquam inutilis.
+-   Unde prima divisio rei est generis in suas species, ut "Animalium, aliud homo, aliud aequus etc". Et haec propriissime dicitur divisio per partes quidditative inferiores et contrarie oppositas, qui termini supra expositi sunt. Ad hanc divisionem potest reduci divisio speciei in individua. Ut "Hominum, alius Petrus, alius Paulus". Sed quia haec ad nullam unquam scientiam ad aliquid conducit, relinquitur tamquam inutilis.
 
 -   Secunda diviso est generis per suas differentias divisivas, ut "Animalium, aliud rationale, aliud irrationale". Est haec per partes oppositas contrariae (opinor namque ly 'rationale' quamquam videtur privativum, accipi loco termini positivi communiter significantis omnes differentias brutorum) et solum essentialiter inferiores, quia scilicet significant connotative partem essentialem specie divisi. Et haec maxime conducit ad construendas definitiones, ut infra videbitur.
 
@@ -330,10 +330,10 @@ Divisione autem rei dividitur quidquid habet rationem totius:
 -   Tertia divisio est accidentalis, quae potest tripliciter contingere.
 
     -   Primo, quando dividitur subiectum in sua accidentia, ut "Animalium, aliud album, aliud nigrum, aliud medium".
-    -   Secundo, quando dividitur accidens in sua subiecta, ut "Alborum, aliud nix, aliud lac et caetera".
+    -   Secundo, quando dividitur accidens in sua subiecta, ut "Alborum, aliud nix, aliud lac etc".
     -   Tertio, quando dividitur accidens in accidentia ei impertinentia, ut "Alborum, aliud dulce, aliud amarum", "Dulcium, aliud album, aliud nigrum".
 
-Potest etiam dividi totum integrale in suas partes, ut "Hominis, aliud caput, aliud manus et caetera", aut in suas vires, ut "Animae, aliud vegetativum, aliud sensitivum et caetera". Sed huiusmodi divisiones non sunt admodum in usu, sunt tamen reducendae ad aliquod genus divisionis supra nominatum, ut prima ad hanc "Partium hominum, alia caput et caetera", et secunda ad hanc "Virium animae, aliae vegetativa et caetera", quae sunt generis in suas species. Et in huiusmodi divisionibus membra dividentia sunt accidentaliter inferiora, id est, aut accidentaliter praedicantur de diviso, aut divisu de ipsis.
+Potest etiam dividi totum integrale in suas partes, ut "Hominis, aliud caput, aliud manus etc", aut in suas vires, ut "Animae, aliud vegetativum, aliud sensitivum etc". Sed huiusmodi divisiones non sunt admodum in usu, sunt tamen reducendae ad aliquod genus divisionis supra nominatum, ut prima ad hanc "Partium hominum, alia caput etc", et secunda ad hanc "Virium animae, aliae vegetativa etc", quae sunt generis in suas species. Et in huiusmodi divisionibus membra dividentia sunt accidentaliter inferiora, id est, aut accidentaliter praedicantur de diviso, aut divisu de ipsis.
 
 ## Capitis secundi. Lectio secunda
 
@@ -341,9 +341,9 @@ Potest etiam dividi totum integrale in suas partes, ut "Hominis, aliud caput, al
 
 Maior est Aristotelis in Praedicamento, et minor probatur. Ly 'quantitas discreta' significat omne illud quod habet partes separatas, sed omnis quantitas, etiam continua, potest partes separatas habere; ergo ly 'quantitas discreta' tam commune est in significando quam ly 'quantitas', et ideo non est terminus inferior.
 
-Contra secunda arguitur: Haec est bona divisio "Animalium, alium album, aliud nigrum, aliud medium", et tamen disiunctum ex membris dividentibus verificatur de lapide de quo non verificatur divisum; ergo et caetera.
+Contra secunda arguitur: Haec est bona divisio "Animalium, alium album, aliud nigrum, aliud medium", et tamen disiunctum ex membris dividentibus verificatur de lapide de quo non verificatur divisum; ergo etc.
 
-Contra tertiam arguitur sic: Haec est bona divisio, etiam divisio rei, scilicet "Actionum, ali bona, lia mala, alia indifferens (si sit aliqua actio indifferens)" et tamen membra dividentia non sunt opposita; ergo illa conditio non requiritur. Maior est nota advertenti singulas conditiones bonae divisionis, et minor patet, nam coenare in die vetito ab Ecclesia est bonum respectu appetitus et malum respectu rationis et caetera.
+Contra tertiam arguitur sic: Haec est bona divisio, etiam divisio rei, scilicet "Actionum, ali bona, lia mala, alia indifferens (si sit aliqua actio indifferens)" et tamen membra dividentia non sunt opposita; ergo illa conditio non requiritur. Maior est nota advertenti singulas conditiones bonae divisionis, et minor patet, nam coenare in die vetito ab Ecclesia est bonum respectu appetitus et malum respectu rationis etc.
 
 ### Ad primum argumentum nonnulli Nominalium opinantium quantitate non distingui a re quanta concedunt totum antecedens et negant consequentiam
 
@@ -374,14 +374,14 @@ Ad tertium principale, negatur quod sit divisio, nam cum bonum et malum dicantur
 ### Ex secunda conditione, quae praecipua est in hac materia (et murum quod tam facile a Modernis negetur) sequuntur loci arguendi dialectici
 
 -   Primus: A convertibilibus, scilicet, a diviso ad divisionem et ediverso, affirmative et negative.
--   Secundus: A toto diviso, cum negatione unius membri ad positionem alterius si divisio sit bimembris, vel cum negationem duorum ad positionem tertium si divisio sit trimembris et caetera.
+-   Secundus: A toto diviso, cum negatione unius membri ad positionem alterius si divisio sit bimembris, vel cum negationem duorum ad positionem tertium si divisio sit trimembris etc.
 -   Tertius: Sequitur ex tertia conditione. A positione unius membri ad negationem alterius in his membris quae realiter opponuntur. Quod addiderim, quia non sequitur "Hoc est honestum; ergo non est delectabile".
 
 1.  Exemplum primi: Bene sequitur "Homo est animal; ergo rationale vel irrationale" et ediverso, et utroque modo etiam sequitur negative.
 2.  Exemplum secundi: "Hoc est animal et non est rationale; ergo est irrationale". Pariter "Hoc est coloratum, et non est album nec nigrum; ergo est medium".
 3.  Item tertio modo sequitur: "Hoc est rationale; ergo non est irrationale". Item hoc est album vel nigrum; ergo non est medium".
 
-Et si arguas contra priores duos modos arguendi "Scutum pro mediate album et pro mediante nigrum est coloratum; et tamen nec est album neque nigrum neque medium et caetera".
+Et si arguas contra priores duos modos arguendi "Scutum pro mediate album et pro mediante nigrum est coloratum; et tamen nec est album neque nigrum neque medium etc".
 
 Item contra tertium "Scutum miraculose positum in duobus locis, in quorum alter sit album et in altero nigrum, est album", et tamen falsum est dicere quod non est nigrum, ergo.
 
@@ -494,11 +494,11 @@ Quae omnes regulae demonstrabuntur in loco iam citato, ubi haec materia late tra
 
 Haec propositio "In hac propositione denotatur alterum ex altero", sequi (pronomine demonstrante eandem ipsam propositionem) est propositio in qua denotatur alterum ex altero sequi, et tamen non est consequentia; ergo definitio non est bona.
 
-Minor est nota et maior etiam probatur. In ea significatur quod in ipsa denotatur alterum sequi, et caetera; ergo in ea denotatur alterum sequi et caetera, liquet consequentia, quia idem est denotatur et significatur.
+Minor est nota et maior etiam probatur. In ea significatur quod in ipsa denotatur alterum sequi, etc; ergo in ea denotatur alterum sequi etc, liquet consequentia, quia idem est denotatur et significatur.
 
-Idem argumentum potest fieri de hac "Ex hac propositione denotatur alterum sequi", quae videtur esse propositio ex qua laterum et caetera, et tamen non est antecedens.
+Idem argumentum potest fieri de hac "Ex hac propositione denotatur alterum sequi", quae videtur esse propositio ex qua laterum etc, et tamen non est antecedens.
 
-Ad hoc argumentum negatur maior, scilicet, quod in dicta propositione denotatur alterum ex altero sequitur, et negatur illa consequentia "In hac propositione significatur alterum sequi" sed sequitur; ergo in ea denotatur quod denotetur alterum sequi et caetera, et propterea ipsa est falsa, quia significat quod in ea denotetur alterum sequi et caetera. Tamen in illa non denotatur nisi quod denotetur alterum sequit et caetera. Et per hoc patet responsio ad secundum de illa "Ex hac propositione denotatur aliud sequit", quae videlicet bene significat quod ex illa denotatur et caetera, tamen non denotatur.
+Ad hoc argumentum negatur maior, scilicet, quod in dicta propositione denotatur alterum ex altero sequitur, et negatur illa consequentia "In hac propositione significatur alterum sequi" sed sequitur; ergo in ea denotatur quod denotetur alterum sequi etc, et propterea ipsa est falsa, quia significat quod in ea denotetur alterum sequi etc. Tamen in illa non denotatur nisi quod denotetur alterum sequit etc. Et per hoc patet responsio ad secundum de illa "Ex hac propositione denotatur aliud sequit", quae videlicet bene significat quod ex illa denotatur etc, tamen non denotatur.
 
 Sed contra, haec propositio "Alterum sequitur ex altero" est propositio in qua denotatur alterum sequi ex altero, et tamen non est consequentia; ergo definitio est mala.
 
@@ -506,7 +506,7 @@ Minor est nota et probatur maior. In ipsa significatur quod alterum sequitur ex 
 
 ### Pro solutione argumenti est notatum
 
-Quo ly 'denotatur' in definitionibus consequentiae, antecedentis et caetera, non dicitur actum signatum, sed actum exercitum, id est, dicit quod in ea significetur alterum sequi ex altero, sed quod in ipsa hoc exerceatur vel apparetur exerceri.
+Quo ly 'denotatur' in definitionibus consequentiae, antecedentis etc, non dicitur actum signatum, sed actum exercitum, id est, dicit quod in ea significetur alterum sequi ex altero, sed quod in ipsa hoc exerceatur vel apparetur exerceri.
 
 Clarum enim est quod haec propositio "Si Petrus disputat; Petrus est doctus" non denotat in actu signato, id est, non significat quod consequens sequitur ex antecedente. Nam haec significatio est significatio propositionis categoricae. Nec illa nota illationis illud denotat, propter eandem rationem (significaret enim tunc) sicut haec categorica "Petrus est doctus" sequitur ex hoc quod Petrus disputat. Nec illa propositio "Petrus disputat" denotat, id est significat quod ex illa aliud sequitur, sed significat quod Petrus disputat.
 
@@ -516,7 +516,7 @@ Ex quod sequitur quod notam illationis significare illative non est significare 
 
 Hanc distinctionem maxime notato, utpote ex cuius inadvertentia mille argutiae, et in hac et in pluribus aliis materiis pullulant, quae cum multa ingenia male vexaverint, adhuc permanent insolutae.
 
-Igitur ad argumentum distinguitur maior, scilicet quod in dicta propositione denotetur et caetera, vel quod denotetur in actu signato id quod significetur in ea quod alterum sequatur ex altero, et sic conceditur. Conceditur etiam quod non sit consequentia nec propterea sequitur definitionem consequentiae non esse bonam, nam ly 'denotatur' in tali definitione dicit actum exercitum, vel quod in tali propositione denotetur alterum sequi et caetera in actu exercito, et sic negatur quia in illa nec sequitur unum ex altero, nec est forma illationis.
+Igitur ad argumentum distinguitur maior, scilicet quod in dicta propositione denotetur etc, vel quod denotetur in actu signato id quod significetur in ea quod alterum sequatur ex altero, et sic conceditur. Conceditur etiam quod non sit consequentia nec propterea sequitur definitionem consequentiae non esse bonam, nam ly 'denotatur' in tali definitione dicit actum exercitum, vel quod in tali propositione denotetur alterum sequi etc in actu exercito, et sic negatur quia in illa nec sequitur unum ex altero, nec est forma illationis.
 
 Simile est de hac propositione "In hac propositione negatur praedicatum de subiecto", in qua denotatur praedicatum negari de subiecto in actu signato, non tamen in actu exercito, quia non habet formam negative, sed in hac "Petrus non disputat" denotatur in actu exercito, et non in actu signato.
 
@@ -526,7 +526,7 @@ Videtur enim ridiculum quod antecedens scriptum Salmantice et consequens Parisiu
 
 ### Addunt nonnulli quartam speciem modi scienti, id est, manifestandi aliquod ignotum
 
-Quae dicitur exempli positio, ut si dicas "Consequentia est propositio et caetera", ut "Si Petrus disputat; Petrus loquitur", totum illud ut "Si Petrus disputat et caetera" est exempli positio, ac proinde modus sciendi, cum per ipsam orationem manifestentur aliquo modo definitio consequentiae. Sed certe talis modus sciendi reducitur ad genus argumentationis, ad minus secundum quod argumentatio est species modi sciendi accipitur enim ibi (ut ipsi fatentur) pro quocumque medio productivo assensus. Nam is acciperetur in suo rigore pro consequentia, cum propositio apprehensiva propositionis per se notae, auctoritas, et multa alia quae producunt assensum, sint modi sciendi, quae tamen non includerentur sub illis quattuor speciebus nisi argumentatio acciperetur sic large. Hae tamen (quas vocant largas acceptiones) parum conducunt ad disputationem.
+Quae dicitur exempli positio, ut si dicas "Consequentia est propositio etc", ut "Si Petrus disputat; Petrus loquitur", totum illud ut "Si Petrus disputat etc" est exempli positio, ac proinde modus sciendi, cum per ipsam orationem manifestentur aliquo modo definitio consequentiae. Sed certe talis modus sciendi reducitur ad genus argumentationis, ad minus secundum quod argumentatio est species modi sciendi accipitur enim ibi (ut ipsi fatentur) pro quocumque medio productivo assensus. Nam is acciperetur in suo rigore pro consequentia, cum propositio apprehensiva propositionis per se notae, auctoritas, et multa alia quae producunt assensum, sint modi sciendi, quae tamen non includerentur sub illis quattuor speciebus nisi argumentatio acciperetur sic large. Hae tamen (quas vocant largas acceptiones) parum conducunt ad disputationem.
 
 Sufficiant ergo dixisse quid sit definitio, quid divisio, quid argumentatio secundum proprias nominum significantias. Si autem sint alii sciendi modi parum refert.
 
@@ -604,7 +604,7 @@ Quod adhuc accidit dupliciter, naturaliter proprie, et tanquam instrumentum natu
 
 At revera differt inter fumum et geminum, nam fumus non est a natura institutus ut repraesentet ignem, sed quia est effectus ignis repraesentat ipsum. Sed gemitus etsi repraesentet infirmitatem tamquam effectus suam causam, peculiari tamen modo, quia adhoc sollum institutus est ut sit signum infirmitatis, quaesi invito infirmo, expostulet medicinam. Quare significare ex instinctu naturae est praeexistente cognitione sui, aliud a se ex naturali quadam destinatione repraesentare. Et hoc sonat ex instinctu naturae, id est, instigante natura.
 
-Dicitur ex naturali destinatione, id est ordinatione, ad differentiam fumi, vestigii et caetera.
+Dicitur ex naturali destinatione, id est ordinatione, ad differentiam fumi, vestigii etc.
 
 Dicitur praeexistente sui cognitione ad differentiam notitiae quae etiam, ex naturali destinatione, significat sed non praeexistente sui cognitione.
 
@@ -673,7 +673,7 @@ Mario est nota, quia repraesentat lapides et res alias quae non sunt signa, et p
 
 Ubi dictum est ly 'aliud' includere et alia et aliter, sed formatum est ut explanemus quid sit significare aliquid, et quid significare aliqua, et quid significare aliqualiter.
 
-Ad quod respondent nonnulli: Significare aliqua esse significare aliquas res mediante uno disiuncto composito ex infinitis copulatis quorum primum habeat duas partes, secundum tres, et sic quovis copulato una parte supra praecedens crescente. Verbi gratia. Ly 'homines' (inquiunt) subordinatur huic disiuncto "Homo et homo", vel "Homo et homo et homo" et caetera" ita quod non stet illum terminum 'homines' supponere pro aliquo numero hominum quin detur aliquod copulatum illius disiuncti supponens pro illis.
+Ad quod respondent nonnulli: Significare aliqua esse significare aliquas res mediante uno disiuncto composito ex infinitis copulatis quorum primum habeat duas partes, secundum tres, et sic quovis copulato una parte supra praecedens crescente. Verbi gratia. Ly 'homines' (inquiunt) subordinatur huic disiuncto "Homo et homo", vel "Homo et homo et homo" etc" ita quod non stet illum terminum 'homines' supponere pro aliquo numero hominum quin detur aliquod copulatum illius disiuncti supponens pro illis.
 
 Et mirum est hanc opinionem subtilem et veram a quibusdam praedicari, ex qua tamen infertur:
 
@@ -697,7 +697,7 @@ Nec video quid magistros huius temporis submovit, ut post definitionem de signif
 
 Verum est tamen ab effectu et tamquam a signo posse cognosci terminum aliquem significare aliquid, per hoc quod ex modo suae significationis non repugnet supponere pro aliquo. Et significare aliqua per hoc quod ex modo suae significationis non repugnet ei supponere pro aliquibus simum sumptis. Et significare aliqualiter per hoc quod ex modo suae significationis repugnet ei supponere pro aliquo vel aliquibus, adminus in terminis finitis et quavis reflexione seclusa.
 
-Alicui termino non repugnare et caetera est, quod si significatum eius esset talis terminus supponeret pro illo (pro terminis absolutis) vel (pro connotativis) quod si eius formale materiali adiaceret, talis terminus supponeret pro illo.
+Alicui termino non repugnare etc est, quod si significatum eius esset talis terminus supponeret pro illo (pro terminis absolutis) vel (pro connotativis) quod si eius formale materiali adiaceret, talis terminus supponeret pro illo.
 
 Ex quod sequitur ly 'Chimaera' sicut ly 'homo' significare aliquid, et ly 'Chimaera' sicut ly 'homines' significare aliqua.
 
@@ -757,7 +757,7 @@ Hoc argumentum petit modum ampliandi de ly 'significat', quem expositum invenies
 
 ### Pro solutione tertii notandum illam scripturam 'homo' repraesentare sibi similes scripturas / voces / conceptum non-ultimatum et ultimatum diversimode tamen
 
-Nam scripturas non quidem significat, sed obiective repraesentat, quia simile repraesentare suum simile stat dupliciter, obiective scilicet et instrumentaliter, ut imago imperatoris (ut visum est) potest repraesentare se obiective vel adaequate, id est, per conceptum distinctum ipsius, vel inadaequate, id est, per unum conceptum quo se et sibi similes imagines repraesentat, qui exprimitur per hanc discretionem "Habens hanc lineationem et caetera", quod quidem non appellavimus significare sed repraesentare se obiective inadaequate. Et per hunc modum haec scriptura 'homo' repraesentat sibi similes.
+Nam scripturas non quidem significat, sed obiective repraesentat, quia simile repraesentare suum simile stat dupliciter, obiective scilicet et instrumentaliter, ut imago imperatoris (ut visum est) potest repraesentare se obiective vel adaequate, id est, per conceptum distinctum ipsius, vel inadaequate, id est, per unum conceptum quo se et sibi similes imagines repraesentat, qui exprimitur per hanc discretionem "Habens hanc lineationem etc", quod quidem non appellavimus significare sed repraesentare se obiective inadaequate. Et per hunc modum haec scriptura 'homo' repraesentat sibi similes.
 
 Repraesentat etiam dicta imago imperatorem, producendo notitiam memorativam imperatoris absolutam, et respectu illius dicitur vere significare, quia tamquam instrumentum. Rursus scriptura 'homo' dicitur significare voces, et quidem dupliciter secundum aequivocationem superius expositam de ly 'significare'. Nam significat vocem, id est' exprimi ipsam sicut vox significat conceptum, et haec est propria significatio ad placitum. Ad placitum namque fuit ut haec vox 'homo' illis caracteribus exprimeretur. Et illo modo dicit Aristoteles quod scripturae sunt signa eorum quae sunt in voce. Sed si accipiatur significare pro hoc quod est facere cognoscere dictam scripturam, non significat vocem proprie, quippe quae non fuit imposita ad significandum vocem, sed certe hominem, sicut vos ipsa.
 
@@ -806,7 +806,7 @@ Negatur pariter consequentia, nam immediate post depositionem non est amplius ly
 
 Item an ly 'ego', 'tu', 'ultra', 'citra' et simila solum dependenter significarent, videbitur super Primum Tractatum Petri Hispani. Hic veruntamen notato unum pro modo loquendi in hac materia, quod secunda parte exactius declarabitur, videlicet ly 'significat appellare proprium conceptum quem determinat, nisi aliunde talis appellatio impediatur. Verbi gratia, cum dicitur "'Homo' significat hominem" denotatur ly 'homo' significare hominem mediante illo conceptu 'homo'.
 
-Dixerim nisi aliunde impediatur, quia cum dicitur "'Homo' significat Petrum inadaequate" non denotatur quod mediante conceptu proprio Petri. Igitur non concedas "'Petrus' significat materiam Petri", sed 'Petrus' significat materiam Petri de per accidens et caetera. Nec concedas 'Album' significat corpus, aut significat albedinem, sed significat corpus de materiali et albedinem de formali. Et proportionabiliter in aliis.
+Dixerim nisi aliunde impediatur, quia cum dicitur "'Homo' significat Petrum inadaequate" non denotatur quod mediante conceptu proprio Petri. Igitur non concedas "'Petrus' significat materiam Petri", sed 'Petrus' significat materiam Petri de per accidens etc. Nec concedas 'Album' significat corpus, aut significat albedinem, sed significat corpus de materiali et albedinem de formali. Et proportionabiliter in aliis.
 
 Multa alia missa fecimus quae a neotericis in hac parte disputari solent, partim quae commodius alibi tradentur, partim quae non tam rei dialecticae conducunt quam ipsam obnubilant.
 
@@ -849,9 +849,9 @@ Addunt nonnulli dictae definitioni, tamquam pars propinqua, ut secludant syllaba
 
 ### Ad primum: Distinguitur antecedens   
 
-Quia vel illae tres dictiones accipiuntur materialiter, ut sit sensus quod nec definitur ly 'terminus' mentalis et caetera tamquam definitum remotum et sic conceditur, quia non definitur nisi haec scriptura 'terminus' (si definitio detur in scripto) aut hac vox 'terminus' (si detur in voce) quae quidem dictio est communis omnibus terminis mentalis, vocalibus et scriptis. Sed tunc negatur consequentia cum infertur; ergo non definitur terminus.
+Quia vel illae tres dictiones accipiuntur materialiter, ut sit sensus quod nec definitur ly 'terminus' mentalis etc tamquam definitum remotum et sic conceditur, quia non definitur nisi haec scriptura 'terminus' (si definitio detur in scripto) aut hac vox 'terminus' (si detur in voce) quae quidem dictio est communis omnibus terminis mentalis, vocalibus et scriptis. Sed tunc negatur consequentia cum infertur; ergo non definitur terminus.
 
-Neque arguitur a sufficienti divisione, cum termini teneantur materialiter, ut non sequitur per hanc definitionem 'corpus sensibile' non definitur ly 'homo' neque ly 'equus' et caetera; ergo non definitur ly 'animal'. Vel dictae tres dictiones, accipiuntur personaliter, ut sit sensus quod non definiuntur res quae sunt termini mentales, aut res quae sunt termini vocales, singulae tamquam definita propinqua inadaequata et sic negatur antecedens. Nam cum ibi adaequate definitur res quae est terminus, inadaequate definitur res quae est terminus mentalis, et res quae est terminus vocalis et caetera, unde si dicti termini adhuc accipiantur materialiter, definiuntur tamquam definita propinqua inadaequata, sicut per hanc definitionem (animal rationale) inadaequate definitur res quae est Petrus.
+Neque arguitur a sufficienti divisione, cum termini teneantur materialiter, ut non sequitur per hanc definitionem 'corpus sensibile' non definitur ly 'homo' neque ly 'equus' etc; ergo non definitur ly 'animal'. Vel dictae tres dictiones, accipiuntur personaliter, ut sit sensus quod non definiuntur res quae sunt termini mentales, aut res quae sunt termini vocales, singulae tamquam definita propinqua inadaequata et sic negatur antecedens. Nam cum ibi adaequate definitur res quae est terminus, inadaequate definitur res quae est terminus mentalis, et res quae est terminus vocalis etc, unde si dicti termini adhuc accipiantur materialiter, definiuntur tamquam definita propinqua inadaequata, sicut per hanc definitionem (animal rationale) inadaequate definitur res quae est Petrus.
 
 Est ergo in dicta definitione definitum remotum, ly 'terminus' et definitum propinquum res quae est terminus. Ex quod sequitur idem esse definitum propinquum et remotum dictae definitionis, utputa ly 'terminus'.
 
@@ -867,13 +867,13 @@ Ad tertium concessa utraque parte antecedentis, negatur consequentia. Subintelli
 
 Dixerim significative sumpta quia materialiter bene potest esse extremum in hac "Homo est animal" est propositio, quod non sufficit ut dicatur terminus. Ex quod sequitur quod haec oratio "Utrum Petrus disputat", "Petre scribe" et similes non sunt termini, quia non possunt significative sumpte esse totalia extrema propositionis, licet prima sit pars extremi in hac "Quaero utrum Petrus disputat".
 
-Obliqui autem nominum, ut 'Petri', 'Petre' et caetera rite sunt termini, quia secundum suos essentialiter synonymos, utputa secundum rectos, possunt esse propositionis extrema.
+Obliqui autem nominum, ut 'Petri', 'Petre' etc rite sunt termini, quia secundum suos essentialiter synonymos, utputa secundum rectos, possunt esse propositionis extrema.
 
 Et si dubites ergo ly 'et' copulative sumptum non est terminus, quia secundum talem significationem non potest dicto modo constituere propositionem categoricam, negatur consequentia, nam sufficit quod potest esse determinativum, hoc est, unitivum propositionis categorice.
 
 Propter quartum argumentum dicunt multi quod ly 'signum' in definitione termini accipitur large, ut videlicet includit res sese significantes. At re vera, ut ex supradictis constat, nullo modo potest ly 'buf' dici signum sui ipsius. Non enim secundum acceptionem dialecticorum, nam hoc modo solummodo voces expressivae conceptuum dicuntur signa. Et quomodocumque accipiatur, ad minus debet aliud a se repraesentare, ut ex Augustino quinetiam ex ipso nomine constat.
 
-Quis enim dicat aliquam rem signum sui? Igitur simpliciter ly 'buf' non est terminus, sed dicitur quodammodo terminus, no quia sit quodammodo signum, sed quia habet aliquam proprietatem termini, utputa posse constituere propositionem supponere et caetera, quod infra exactius disputabitur, capitulo duodecimo, lectio prima.
+Quis enim dicat aliquam rem signum sui? Igitur simpliciter ly 'buf' non est terminus, sed dicitur quodammodo terminus, no quia sit quodammodo signum, sed quia habet aliquam proprietatem termini, utputa posse constituere propositionem supponere etc, quod infra exactius disputabitur, capitulo duodecimo, lectio prima.
 
 Quare ad argumentum negatur maior, nec rationes illae probant nisi quod ly 'buf' habet aliquas convenientias cum termino. Et ideo, ne idem saepe repetamus ubicumque loquamur absolute de termino, intelligemus de termino significativo.
 
@@ -883,7 +883,7 @@ Item etiam hoc complexum 'signum quod non est propositionis constitutivum' est t
 
 Haec tamen et similia, ex eis quae diximus circa ly 'non-significans' et hic et in aliis quibus suis materiis facile formantur ac dissolvuntur, quare numquam amplius repetentur.
 
-Fiunt etiam nescio quae impositiones, utpote si ly 'a' imponatur ad significandum homines quando ponatur extra propositionem, et quod in propositione nihil significet, tunc ly 'a' videtur terminus, et tamen non est signum et caetera, quia significative sumptum non potest poni in propositione. Ad quod negatur minor quia ly 'a' in tali casu, secundum suum synonymum, videlicet secundum conceptum cui subordinatur, potest propositionem constituere. Nec potest per aliquam impositionem fieri quod talis conceptus, per hoc quod constituat propositionem, desinat significare cum id habeat a natura. At de his, quippe quae inutilia sunt, satis et caetera.
+Fiunt etiam nescio quae impositiones, utpote si ly 'a' imponatur ad significandum homines quando ponatur extra propositionem, et quod in propositione nihil significet, tunc ly 'a' videtur terminus, et tamen non est signum etc, quia significative sumptum non potest poni in propositione. Ad quod negatur minor quia ly 'a' in tali casu, secundum suum synonymum, videlicet secundum conceptum cui subordinatur, potest propositionem constituere. Nec potest per aliquam impositionem fieri quod talis conceptus, per hoc quod constituat propositionem, desinat significare cum id habeat a natura. At de his, quippe quae inutilia sunt, satis etc.
 
 ## Capitis sexti. Lectio prima
 
@@ -965,7 +965,7 @@ Secundo: Ex parte subiecti, nam notitia intuitiva potest esse in intellectu et s
 
 Tertio: Ex parte significationis, notitia enim intuitiva clare et distincte repraesentat, abstractiva vero non. Ad minus nostra a quod addiderim propter notitiam divinam simplicis intelligentiae. Ex qua sequitur quarta differentia, quod videlicet virtute notitiae intuitivae possumus certificari de existentia caeterisque exterioribus rei accidentibus de praesenti, de quibus non possumus per notitiam abstractivam, licet possimus per eam scire existentiam necessariorum et contingentium de praeterito.
 
-Quod si arguas contra, astrologus tempore eclipsis Lunae, licet ipsam non videat, est certus ipsam esse, et in tanta quantitate Lunam occultari et caetera; ergo notitia abstractiva est sufficiens producere scientiam eius modi accidentum de praesenti.
+Quod si arguas contra, astrologus tempore eclipsis Lunae, licet ipsam non videat, est certus ipsam esse, et in tanta quantitate Lunam occultari etc; ergo notitia abstractiva est sufficiens producere scientiam eius modi accidentum de praesenti.
 
 Ad hoc negatus consequentia. Notia namque abstractiva non producit eiusmodi certitudinem, sed certe scientia principiorum astrologiae.
 
@@ -1065,7 +1065,7 @@ Congruit hic adnotare quid sit terminum vocalem aut scriptum mentali in signific
 
 Ubi notato nomina univocum / aequivocum bifariam accipi. Aut videlicet pro terminis qui dicuntur univoca univocantia, aut pro rebus per terminos ipsos significatis, quae dicuntur univoca univocata, aut aequivoca aequivocata. Unde univoca univocata sunt res secundum quod per unum nomen eadem ratione significantur, ut terrestris canis et marinus inquantum per ly 'animal' significantur. Et aequivoca aequivocata dicuntur res secundum quod per unum nomen diversis conceptibus significantur, ut dicta animalia secundum quod significantur per ly canis. Ex quo sequitur abusive dici in singulari univocum univocatum aut aequivocum aequivocatum.
 
-Sequitur secundo, res non esse univocatus aut aequivocatas ex natura, sed per comparationem ad rationes quibus per nomina significantius. Est enim univocari quasi plures res, uno nimine, eademque ratione vocari, et aequivocari, uno nomine, diversis rationibus vocari. Quae quidem duo innuit in praedicamentis Aristoteles dicens "Univoca dicuntur" et caetera.
+Sequitur secundo, res non esse univocatus aut aequivocatas ex natura, sed per comparationem ad rationes quibus per nomina significantius. Est enim univocari quasi plures res, uno nimine, eademque ratione vocari, et aequivocari, uno nomine, diversis rationibus vocari. Quae quidem duo innuit in praedicamentis Aristoteles dicens "Univoca dicuntur" etc.
 
 Univoca pluraliter, quasi una res non dicatur univoca. Dicuntur quasi non sint ex natura, sed per respectum ad nomina, quibus dicuntur seu significantur.
 
@@ -1100,7 +1100,7 @@ Quare analogiae gradus quidam sunt, partim ad univocationem, partim ad aequivoca
 
     Et certe, hoc secundum apparet verum, nam cum haedus dicitur sanus aut agnus infirmus, videtur dubium an dicatur sanus quia in se habens, an potius quia nobis efficiens sanitatem, quod est signum aequivocationis de ly 'sanum'. Et idem intelligitur de ly 'militare'.
 
-    Veruntamen id quod significat ens, scilicet esse vel entitas, formaliter est, sicut in substantia ita in qualitate et quantitate et caetera. Sed dicuntur dicta accidentia habere esse per attributionem ad substantiam, quia qualitas nullum habet aliud esse quam esse dispositionem substantiae. Non quod non possit esse sine substantia, immo est, ut in sacramento altaris, sed quod si abstraheres per intellectum a qualitate, quod non esset aptitudine dispositio substantiae, totus esse eius auferres, sicut si tolleres ab urina quod non esset signum sanitatis, tolleres esse sanam.
+    Veruntamen id quod significat ens, scilicet esse vel entitas, formaliter est, sicut in substantia ita in qualitate et quantitate etc. Sed dicuntur dicta accidentia habere esse per attributionem ad substantiam, quia qualitas nullum habet aliud esse quam esse dispositionem substantiae. Non quod non possit esse sine substantia, immo est, ut in sacramento altaris, sed quod si abstraheres per intellectum a qualitate, quod non esset aptitudine dispositio substantiae, totus esse eius auferres, sicut si tolleres ab urina quod non esset signum sanitatis, tolleres esse sanam.
 
     Igitur, quia alia praedicamenta per hunc modum in suis definitionibus participant substantiam, faciunt unitatem quandam analogiae, et ideo significantur per conceptum unum formalem, cui subordinatur ly 'ens', qui quidem conceptus significat substantiam per prius, et accidens per posterius, cui subinde, diversae definitiones respondent. Unde Sanctus Thomas, in prologo Primi articulo secundo, dicit quod omnia praedicamenta participant unam rationem entis. Et Primo, quaestio nonagesima, articulo quinto, quod non parificantur in eadem intentionem. Haec dixerim, fortasse terminos terminorum egressus, ut tamen scirent Terministae, non repugnare in mente.
 
@@ -1128,7 +1128,7 @@ Scito hic, terminum aequivocum non terminum sed terminos pluraliter appellari, q
 
 Unum autem non tacitus praeteribo quod quamquam omnes Moderni Summulistae, immo nos quandoque quia iam abivit in usum, accipiant hunc terminum canis tamquam aequivocum a casu, nihilominus existimo esse univocum, adminus in significando sidus et canem domesticum, nam quia fabulatur inter poetas quendam canem fuisse in canem transformatum hoc nomen, secundum quod, significat illum canem accipitur pro sidere.
 
-Si autem desideras terminos vere aequivocos a casu, accipe singulares, scilicet Petrus, Paulus et caetera.
+Si autem desideras terminos vere aequivocos a casu, accipe singulares, scilicet Petrus, Paulus etc.
 
 ### Notandae sunt tandem duae regulae quae de analogis constitui solent
 
@@ -1142,7 +1142,7 @@ Si autem desideras terminos vere aequivocos a casu, accipe singulares, scilicet 
 
     Non enim praedicatum restringit subiectum ad pauciora supposita, sed solum alienat ad impropria (ut capitulo quinto, secundae partis videbitur), quare dicta propositio falsa est.
 
-Hae regulae non aliter quam communi usu et hominum sensu firmantur. Etenim absolute conceditur quod omnis homo intelligit, ambulat et caetera, et negatur quod pictus homo est homo. Quod non contingeret nisi prima regula veritatem haberet. Nam si subiectum primae aut praedicatum secundae distribueretur pro vivis et pictis, falsificarentur dictae propositiones pro singularibus, in quibus sub dictis terminis demonstrarentur homines picti.
+Hae regulae non aliter quam communi usu et hominum sensu firmantur. Etenim absolute conceditur quod omnis homo intelligit, ambulat etc, et negatur quod pictus homo est homo. Quod non contingeret nisi prima regula veritatem haberet. Nam si subiectum primae aut praedicatum secundae distribueretur pro vivis et pictis, falsificarentur dictae propositiones pro singularibus, in quibus sub dictis terminis demonstrarentur homines picti.
 
 Item, demonstrata effigie hominis, concedimus hic homo est pulchre pictus, quod non contingeret nisi secunda regula esset vera. Nam si subiectum supponeret pro homine vivo, extrema non supponerent pro eodem.
 
@@ -1166,7 +1166,7 @@ Nec sequitur:
 
 > Nullus homo est homo vivus
 
-Quia in prima consequentia arguitur in quattuor terminis, et in secunda non fit de subiecto praedicatum, et in tertia non concluditur maior extremitas de minori. Quare praemissae primae consequentiae sunt inhabiles, et in secunda concludendum est "ergo Homo pictus est homo pictus", et in tertia "ergo Nullus homo pictus est homo vivus" et caetera.
+Quia in prima consequentia arguitur in quattuor terminis, et in secunda non fit de subiecto praedicatum, et in tertia non concluditur maior extremitas de minori. Quare praemissae primae consequentiae sunt inhabiles, et in secunda concludendum est "ergo Homo pictus est homo pictus", et in tertia "ergo Nullus homo pictus est homo vivus" etc.
 
 Sed per hac regula secunda maxime notato quod, quando analogum subordinatur pluribus conceptibus cum unum signum non possit cadere, nisi in unum illorum fit ut non distribuatur pro omnibus analogatis, sed pro illo pro quo tenetur sine tali signo. Et ideo hae conceditur vera "Omnis homo est pictus", sed quando dicta analogata significantur mediante eodem conceptu, potest quidem pro omnibus talis conceptibus distribuit. Quare haec est falsa "Omne ens est qualitas" ut plane constat.
 
@@ -1218,7 +1218,7 @@ Non enim habemus pro hoc statu conceptum absolutum angeli sed connotativum, sign
 
 Et praecipua huius quaestiunculae difficultas est exponere, quid sit dictum aequivocatio in mente ultimata, quandoquidem ex eius explanatione continuo apparet impossibilis.
 
-Igitur est dicere an sit possibilis conceptus quispiam ultimatus qui ultimate et formaliter significet plura aeque primo per modum plurium, id est, ut conveniunt in aliqua eadem ratione, verbi gratia, an sicut conceptus entis secundum viam Sanctus Dominus significat substantiam et accidens, unum per prius et aliud per posterius inquantum sunt analogice unum. Ita possit dari unus conceptus qui significaret hominem et lapidem aeque principaliter, et non ut sunt substantiae, vel ut sunt alba et caetera.
+Igitur est dicere an sit possibilis conceptus quispiam ultimatus qui ultimate et formaliter significet plura aeque primo per modum plurium, id est, ut conveniunt in aliqua eadem ratione, verbi gratia, an sicut conceptus entis secundum viam Sanctus Dominus significat substantiam et accidens, unum per prius et aliud per posterius inquantum sunt analogice unum. Ita possit dari unus conceptus qui significaret hominem et lapidem aeque principaliter, et non ut sunt substantiae, vel ut sunt alba etc.
 
 Sed quod significaret homines sicut ille conceptus 'homo' et 'lapides' sicut ille conceptus lapis, itaque uterque terminus subordinaretur illi, et dictus conceptus explicaretur per eosdem inconiunctim sumptos et non ut faciunt unum. Ad quod respondetur quod est impossibilis talis conceptus, quod potissimum probatur quaecumque sunt similia uni tertio sunt inter se similia, sed res significatae per unum conceptum sunt eidem similes, id est, eidem conceptui; ergo et inter se ob idque vel non significantur per unum conceptum, vel significantur sub aliqua ratione qua conveniunt.
 
@@ -1255,7 +1255,7 @@ Terminus denique pure syncategorematicus est terminus qui cum solum aliqualiter 
 
 At nescio an haec distinctio veritati usquam quaquam consonet. Et enim obliqui cum mediantibus eorum essentialiter synonymis, utpote mediantibus suis rectis, possint esse totali extrema propositionis, sunt quidem pure categoremata.
 
-Item adverbia illa 'cras', 'ubi' et caetera, cum taliter significent ut ex modo suae significationis repugnet eis supponere, certe non aliquid, sed solum aliqualiter significant, quamquam eorum significationes per categoremata exponantur (quia enim sane diceret ly 'cras' quod exponit, id est, in die proxime sequenti, significet tantum sicut ly 'dies', ly 'sequens' et caetera) quare sunt pure syncategoremata significantia aliqualiter obiective.
+Item adverbia illa 'cras', 'ubi' etc, cum taliter significent ut ex modo suae significationis repugnet eis supponere, certe non aliquid, sed solum aliqualiter significant, quamquam eorum significationes per categoremata exponantur (quia enim sane diceret ly 'cras' quod exponit, id est, in die proxime sequenti, significet tantum sicut ly 'dies', ly 'sequens' etc) quare sunt pure syncategoremata significantia aliqualiter obiective.
 
 Item etiam relativum, licet alicubi non sit totale extremum, ut hic homo "Homo qui currit movetur" quod a fortiori caeteris relativorum generibus continget. Et ideo sunt mere categoremata.
 
@@ -1275,11 +1275,11 @@ Non enim immutat intellectum sicut notitia ad cognoscendum obiectum, sed ad acci
 
 Quaeritur tamen exactius quid sit hoc universaliter significare. Et arguitur sic: Vel significare de ly 'omnis', verbi gratia in hac propositione "Omnis homo est animal" est facere quod intellectus cognoscat homines per illum terminum 'homo' aliter quam cognosceret sine ly 'omnis', vel facere quod accipiat dictum terminum 'homo' aliter quam acciperet sine ipso.
 
-Non primum (ut quidam imaginantur) quando quidem perspicuum sit eodem modo nos cognoscere homines per illum terminum 'homo' in dicta propositione, sicut in hac "Homo est animal", utputa communiter indistincte et confuse. Nam si aliter maxime copulative (ut dicunt) sed si intelligant per ly 'copulative' quod formemus per adventum de ly 'omnis' distinctum conceptum huius hominis et distinctum illius et caetera, illud quidem est contra experientiam, sed si intelligunt quod cognoscamus hunc hominem et illum per eundem conceptum communem, re vera eodem modo cognoscimus sine ly 'omnis'.
+Non primum (ut quidam imaginantur) quando quidem perspicuum sit eodem modo nos cognoscere homines per illum terminum 'homo' in dicta propositione, sicut in hac "Homo est animal", utputa communiter indistincte et confuse. Nam si aliter maxime copulative (ut dicunt) sed si intelligant per ly 'copulative' quod formemus per adventum de ly 'omnis' distinctum conceptum huius hominis et distinctum illius etc, illud quidem est contra experientiam, sed si intelligunt quod cognoscamus hunc hominem et illum per eundem conceptum communem, re vera eodem modo cognoscimus sine ly 'omnis'.
 
 Si detur secundum ergo facit quod intellectus cognoscat terminos, unde sequitur et quod significet aliquid, et quod per adventum eius intellectus se reflectat supra categoremata, ipsa cognoscendo.
 
-Huic quaestioni datur secundum membrum propter argumentum, sed negatur illa consequentia, ly 'omnis' facit quod intellectus accipiat terminum et caetera; ergo facit quod ipsum cognoscat.
+Huic quaestioni datur secundum membrum propter argumentum, sed negatur illa consequentia, ly 'omnis' facit quod intellectus accipiat terminum etc; ergo facit quod ipsum cognoscat.
 
 Etenim intellectum terminum quempiam accipere, non est ipsum concipere, sive concipere accipiatur pro hoc quod est cognoscere, ut res ad extra concipiuntur in ratione significati, sive pro hoc quod est formare ut notitiae dicuntur concipi in ratione signi, sed est ipsum cum altero per verbum componere. Et ideo intellectus dicitur mediante ly 'omnis' accipere ly 'homo' pro suis significatis copulative, quia per adventum de ly 'omnis' concipit per totam compositionem praedicatum cuicumque supposito subiecti convenire.
 
@@ -1297,7 +1297,7 @@ Non enim intelligit per illud, Aristoteles, syncategorema non significare sine e
 
 Inferunt exinde numquam ly 'omnis' formari ab intellectu, nisi ab aliquo praevio categoremate, vel a re significata categoremate mediante, verbi gratia, quantumcumque (aiunt) successive, et quidem valde morose audiamus "Omnis homo est animal" numquam formamus actum ultimatum 'omnis' quoad usque formaverimus conceptum homo, immo quoad usque formaverimus praedicatum (est enim pariter eius obiectum quod confunditur ad eo).
 
-Rursus asserunt quodcumque syncategorema, sic terminum a quod producitur modificare, ut aliud non synonymum modificare non possit, quinimmo sic ab illo dependere ut categoremate corrupto syncategorema continuo corrumpatur. Sed hoc etiam videtur communi omnium sensui contraire. Etenim cum audio successive "Omni homo est animal" re vera successive concipio primo 'omnis' secundo 'homo' et caetera. Quare si concepto ly 'omnis' loco de ly 'homo' poneretur aequus, certe ab eodem actu distribueretur.
+Rursus asserunt quodcumque syncategorema, sic terminum a quod producitur modificare, ut aliud non synonymum modificare non possit, quinimmo sic ab illo dependere ut categoremate corrupto syncategorema continuo corrumpatur. Sed hoc etiam videtur communi omnium sensui contraire. Etenim cum audio successive "Omni homo est animal" re vera successive concipio primo 'omnis' secundo 'homo' etc. Quare si concepto ly 'omnis' loco de ly 'homo' poneretur aequus, certe ab eodem actu distribueretur.
 
 Igitur dicendum quod sicut notitia intuitiva fit ab obiecto, ita primus actus syncategorematicus producitur a rebus mediantibus categorematibus, verbi gratia, cognito per experientiam quod ignis est calefactivus et quod illud huic et illi igni contingit, effingimus actum quendam quo addito dictae propositioni, concipimus illud praedicatum cuicumque supposito subiecti convenire.
 
@@ -1315,11 +1315,11 @@ Quae de ly 'omnis' exempli gratia diximus de caeteris /22a/ syncategorematum gen
 
 ### Subdividitur terminus categorematicus in terminum collectivum et divisivum
 
-Terminus collectivus est terminus aliqua in singulari copulatim significans, ut ly 'populus', 'exercitus', 'numerus' et caetera.
+Terminus collectivus est terminus aliqua in singulari copulatim significans, ut ly 'populus', 'exercitus', 'numerus' etc.
 
 Terminus divisivus est terminus aliquid in singulari significans, ut ly 'homo'. Copulatim, id est, taliter quod non repugnet ei pro pluribus, licet non faciant unum supponere.
 
-In singulari, quia licet fortasse sit de nomine disputatio, non est tamen admodum in usu ly 'homines' et similes terminos pluralis numeris collectivos appellare, nisi fortasse cum plurale accipitur loco singularis, ut ly 'Parisii', 'Burgi' et caetera.
+In singulari, quia licet fortasse sit de nomine disputatio, non est tamen admodum in usu ly 'homines' et similes terminos pluralis numeris collectivos appellare, nisi fortasse cum plurale accipitur loco singularis, ut ly 'Parisii', 'Burgi' etc.
 
 Addunt tertium membrum, scilicet quod alius sit terminus partim collectivus et partim divisivus, qui scilicet aliquid et aliqua significat, ut ly 'ens' cum absolvitur a numero.
 
@@ -1358,11 +1358,11 @@ Definitio termini singularis accipitur in sensu opposito ad definitionem termini
 
 /22b/
 
-### Distinguunt moderni terminum communem in communem in significando, quae descriptione superius assignata definitur, et communem in supponendo, qui est videlicet ille ille cui ex modo suae significationis non repugnat supponere pro pluribus divisim et caetera
+### Distinguunt moderni terminum communem in communem in significando, quae descriptione superius assignata definitur, et communem in supponendo, qui est videlicet ille ille cui ex modo suae significationis non repugnat supponere pro pluribus divisim etc
 
 Sed certe, licet tali distinctione diverse proprietates eiusdem termini demonstrentur, nullus tamen (vel fallor) est terminus communis in significando quin sit communis in supponendo et ediverso. Quin etiam communitas termini in significando universaliter, est causa communitas in supponendo communitasque in supponendo certum signum communitatis in significando. Unde Petrus Hispanus suppositio (inquit) communis est quae fit per terminum communem, et discreta quae fit per terminum discretum. Et constat accipere communem et discretum in significando, nam alias idem per idem definiretur.
 
-### Ex his omnibus sequitur quod ly '**D**eus', ly 'sol', ly 'mundus' et caetera sunt termini communes
+### Ex his omnibus sequitur quod ly '**D**eus', ly 'sol', ly 'mundus' etc sunt termini communes
 
 Et enim ly 'sol' non fuit impositus ad significandum singulariter unum solem sed communiter, virtute cuius significationis si esset plures soles supponere pro illis. Et si dubites, etiam ly 'Petrus', si esset plures Petri supponere pro illis (loquimur univoce).
 
@@ -1370,7 +1370,7 @@ Et enim ly 'sol' non fuit impositus ad significandum singulariter unum solem sed
 
 Sequitur secundo: Ly 'omnis homo' esse terminum communem, quia successive potest supponere pro pluribus. Pariter ly 'omnis homo futurus' (quod nonnulli male negant) nam si sit nunc solus Petrus qui etiam erit, et cras sit solus Paulus qui etiam post erit, verum est nunc dicere quod Petrus est omnis homo futurus, et cras quod Paulus est omnis homo futurus. Nam ly 'homo' non supponit nisi pro homine qui nunc est et erit.
 
-Et si dubites de hoc complexo 'homo qui erit omnis homo' (data falsitate huius "Adam fuit omnis homo" quam tamen veram opinor) pariter est terminus communis, licet non possit postquam supponit pro uno, postea supponere pro alio in sensu composito. Sufficit enim quod in sensu diviso potest supponere pro Petro, et potest supponere pro Paulo et caetera. Et idem dicitur de ly 'homo' qui potest esse omnis homo, quia ex modo suae significationis non repugnat supponere pro pluribus.
+Et si dubites de hoc complexo 'homo qui erit omnis homo' (data falsitate huius "Adam fuit omnis homo" quam tamen veram opinor) pariter est terminus communis, licet non possit postquam supponit pro uno, postea supponere pro alio in sensu composito. Sufficit enim quod in sensu diviso potest supponere pro Petro, et potest supponere pro Paulo etc. Et idem dicitur de ly 'homo' qui potest esse omnis homo, quia ex modo suae significationis non repugnat supponere pro pluribus.
 
 ## Capitis noni. Lectio secunda
 
@@ -1397,7 +1397,7 @@ Aliter arguitur hic et quidem urgentius, ly 'Petrus' supponit pro Petro iuvenem 
 -   Singulare determinatum est quod grammatici dicunt nomen proprium, ut ly 'Petrus'.
 -   Singulare vagum est nomen commune cum signo demonstrativo, ut 'hic homo'.
 
-Fortasse tamen in mente tam hoc quam illud potest esse simplex notitia, sed differunt, quia per notitiam quae est singulare determinatum possumus certificari de omnibus accidentibus et praedicatis rei, quae notitia exprimitur per ly 'Petrus', quam forsan in via numquam habemus, sed per notitiam quae est singulare vagum non de omnibus, ut cum viso obiecto a remotis, concipimus notitiam eius singularem, quae exprimitur per ly 'hoc ens', 'hoc animal' et caetera.
+Fortasse tamen in mente tam hoc quam illud potest esse simplex notitia, sed differunt, quia per notitiam quae est singulare determinatum possumus certificari de omnibus accidentibus et praedicatis rei, quae notitia exprimitur per ly 'Petrus', quam forsan in via numquam habemus, sed per notitiam quae est singulare vagum non de omnibus, ut cum viso obiecto a remotis, concipimus notitiam eius singularem, quae exprimitur per ly 'hoc ens', 'hoc animal' etc.
 
 Additur a Porphyrii singulare ex suppositione, ut Sophronisci filius (si solus Socrates sit ei filius). Sed hoc non est simpliciter dicendum singulare, qui nec tantum unum significat nec pro solo uno potest supponere.
 
@@ -1423,7 +1423,7 @@ Dividunt terminum transcendentem in transcendentem in significando et supponendo
 
 Opinantes ly 'Chimaera' omne ens, etiam verum de materiali significare, pro quo tamen repugnat ei supponere. Sed iamiam probabitur nullo modo ly 'Chimaera' significare vera entia, quare omen transcendens in significando est etiam in supponendo iuxta mutuam connexionem significationis et suppositionis in omnibus observandam.
 
-Praeter hos sunt etiam termini supra transcendentes, utputa qui non solum pro veris, sed pro possibilis aut imaginabilibus entibus supponunt, ut ly 'possibile', 'intelligibile' et caetera.
+Praeter hos sunt etiam termini supra transcendentes, utputa qui non solum pro veris, sed pro possibilis aut imaginabilibus entibus supponunt, ut ly 'possibile', 'intelligibile' etc.
 
 ## Capitis decimi. Lectio prima
 
@@ -1438,9 +1438,9 @@ Praeter suum materiale. Scito terminum connotativum duo significare, alterum sec
 
 Aliud, id est, aliam rem vel aliqualem modum se habendi ipsius materialis, quandoquidem ly 'idem' et fortasse ly 'vigilas' / 'dormiens', caeteraque id genus, non significat de formali res a suis suppositis disiunctas.
 
-Adiacere vel quomodolibet proportionabiliter circa ipsum materiale se habere, ut et ly 'creator' significat creaturam, et ly 'pater' filium et caetera, quo fit ut ly 'homo' (supposito etiam 'humanitas' a supposito 'humano' distinguatur) non sit terminus terminus connotativus, quia licet significet naturam in supposito, non tamen per modum adiacentis.
+Adiacere vel quomodolibet proportionabiliter circa ipsum materiale se habere, ut et ly 'creator' significat creaturam, et ly 'pater' filium etc, quo fit ut ly 'homo' (supposito etiam 'humanitas' a supposito 'humano' distinguatur) non sit terminus terminus connotativus, quia licet significet naturam in supposito, non tamen per modum adiacentis.
 
-Nec convertuntur 'connotativum' et 'concretum', nam ly 'notitia', 'scientia' et caetera, abstrahentes a subiecto, termini sunt connotativi de materiali qualitates, et de formali immutationem significantes. Quare terminus connotativus non tam proprie dicitur praeter subiectum significare accidens quam praeter materiale, quod est dicere praeter id pro quo supponit. Notato tamen pro modo loquendi (quod quarto capitulo secundae partis plene habes expositum) non esse absolute concedendum ly 'album' significat corpus aut omne illud quod imaginatur esse album, sed album quod imaginatur esse, id est, illud cuius si esset, hic conceptus album esset naturalis similitudo.
+Nec convertuntur 'connotativum' et 'concretum', nam ly 'notitia', 'scientia' etc, abstrahentes a subiecto, termini sunt connotativi de materiali qualitates, et de formali immutationem significantes. Quare terminus connotativus non tam proprie dicitur praeter subiectum significare accidens quam praeter materiale, quod est dicere praeter id pro quo supponit. Notato tamen pro modo loquendi (quod quarto capitulo secundae partis plene habes expositum) non esse absolute concedendum ly 'album' significat corpus aut omne illud quod imaginatur esse album, sed album quod imaginatur esse, id est, illud cuius si esset, hic conceptus album esset naturalis similitudo.
 
 Ita enim habet exprimi ampliatio de ly 'significat', ut tamen servetur eius appellatio.
 
@@ -1457,21 +1457,21 @@ Secunda certa forsan est, sed particularis pro terminis accidentaliter transmuta
 
 ### Terminorum connotativorum, alius essentialiter et alius connotat accidentaliter
 
--   Essentialiter: qui tamen partem aliquam aut perfectionem essentialem suo materiali adiacere significat, ut ly 'rationale' / 'spirituale' et caetera.
--   Accidentaliter: qui accidens aliquod suo materiali adicere vel non adiacere significat. Accidens inquam aut modum accidentalem, ut ly 'album' / 'vigilans' et caetera.
+-   Essentialiter: qui tamen partem aliquam aut perfectionem essentialem suo materiali adiacere significat, ut ly 'rationale' / 'spirituale' etc.
+-   Accidentaliter: qui accidens aliquod suo materiali adicere vel non adiacere significat. Accidens inquam aut modum accidentalem, ut ly 'album' / 'vigilans' etc.
 
 Dixerim in prima definitione tamen, quia hoc complexum rationale 'album' et similia non quidem essentialiter sed accidentaliter dicuntur de significatione totali connotare.
 
 Et potest terminus accidentaliter connotare vel intrinsece vel extrinsece.
 
--   Intrinsece: cum accidens proprium et intransmutabile suo materiali adiacere significat, ut ly 'risibile' / 'hinnibile' et caetera.
+-   Intrinsece: cum accidens proprium et intransmutabile suo materiali adiacere significat, ut ly 'risibile' / 'hinnibile' etc.
 -   Extrinsece: cum aliquod accidens commune et transmutabile suo materiali adiacere significat, ut ly 'album'.
 
 Rursus terminorum connotativorum, alius positivus, alius negativus et alius privativus.
 
 -   Positivus: qui rem aliquam aut modum aliquem se habendi circa suum materiale significat, ut ly 'illuminatum' / ly 'videns'.
 -   Negativus: qui alicuius negationem circa suum materiale significat, ut ly 'non illuminatum' / 'non videns'.
--   Privativus: qui carentiam formae in subiecto apto nato significat, ut ly 'tenebrosum', 'caecus' et caetera.
+-   Privativus: qui carentiam formae in subiecto apto nato significat, ut ly 'tenebrosum', 'caecus' etc.
 
 ## Capitis decimi. Lectio secunda
 
@@ -1499,7 +1499,7 @@ Antecedens patet. Mortibus hominibus, partibus remanentibus, et consequentia, qu
 
 Hoc argumentum cum multis difficultatem faciat, nullam tamen videtur secum afferre. Igitur distinguitur antecedens vel res significatas de per accidens, transeat et negatur consequentia, vel de per se negatur.
 
-Res significatae de per se sunt homines, id est, homo et homo et caetera, et de per accidens materiae et formae, scilicet, materia et forma et materia et forma.
+Res significatae de per se sunt homines, id est, homo et homo etc, et de per accidens materiae et formae, scilicet, materia et forma et materia et forma.
 
 Intelligitur ergo signum superius positum quod quando re aut rebus de per se significantis per terminum existentibus, talis terminus potest supponere et non supponere, cognoscitur terminus esse connotativus.
 
@@ -1549,11 +1549,11 @@ Aliud enim est quod ly 'Chimaera' significet aliquid impossibile (ut declarat pr
 
 Dicunt deinde nonnulli, dictum nomen de materiali quodlibet ens mundi significare cum illa connotatione repugnante. Sed etiam hoc videtur cum communi modo concipiendi pugnare.
 
-Mirum enim est dicere quod ly 'Chimaera', Deum, hominem, lapidem et caetera significet. Et probatur etiam repugnare rationi. Terminus connotativus solum significat de materiali illud cui formale non repugnat convenire, sed conpositioni importatae per ly 'Chimaera' intrinsece repugnat convenire homini, aut cuivis vero enti (si enim esset Chimaera nec esset Deus nec creatura nec substantia nec accidens); ergo ly 'Chimaera' de materiali non significat vera entia, sed solum ens ficticium et imaginabile. Ponitur tamen ly 'ens' in eius definitione quia non habemus aliud nomen communis impositum ad significandum illud ens ficticium.
+Mirum enim est dicere quod ly 'Chimaera', Deum, hominem, lapidem etc significet. Et probatur etiam repugnare rationi. Terminus connotativus solum significat de materiali illud cui formale non repugnat convenire, sed conpositioni importatae per ly 'Chimaera' intrinsece repugnat convenire homini, aut cuivis vero enti (si enim esset Chimaera nec esset Deus nec creatura nec substantia nec accidens); ergo ly 'Chimaera' de materiali non significat vera entia, sed solum ens ficticium et imaginabile. Ponitur tamen ly 'ens' in eius definitione quia non habemus aliud nomen communis impositum ad significandum illud ens ficticium.
 
 Igitur ad argumentum negatur minor, et ad probationem negatur consequentia. Arguitur enim a non amplo ad amplum negative ex parte illius termini 'ens' inclusi in ly 'nihil', nam ly 'significat' / 'ampliat' terminum rectum ab illo usque ad imaginabilia iuxta modum secunda parte, capitulo quarto, exponendum.
 
-Dubitant plurimi de conceptu cui subordinatur ly 'Chimaera', partim opinantibus subordinari conceptui complexo suae definitionis, partim asserentibus ad minus illum conceptum semper supponere. Videtur tamen contra experientiam dicere quod audita haec voce 'Chimaera' tot conceptus formet intellectus. Quare (ut opinor) dicendum est, primum conceptum quem quis habet Chimaera conflari ex conceptibus capitis leonis et conceptum caudae draconis et caetera, effingitis unum simplicem connotativum significantem monstrum illud, postquam tamen pluries effingeretis. Re vera non opus est tot conceptus formare, sed quam primum audita voce 'Chimaera' producitur conceptus ille simplex ab speciebus ipsius. Et idem dicendum de quocumque conceptu rei quam non vidimus.
+Dubitant plurimi de conceptu cui subordinatur ly 'Chimaera', partim opinantibus subordinari conceptui complexo suae definitionis, partim asserentibus ad minus illum conceptum semper supponere. Videtur tamen contra experientiam dicere quod audita haec voce 'Chimaera' tot conceptus formet intellectus. Quare (ut opinor) dicendum est, primum conceptum quem quis habet Chimaera conflari ex conceptibus capitis leonis et conceptum caudae draconis etc, effingitis unum simplicem connotativum significantem monstrum illud, postquam tamen pluries effingeretis. Re vera non opus est tot conceptus formare, sed quam primum audita voce 'Chimaera' producitur conceptus ille simplex ab speciebus ipsius. Et idem dicendum de quocumque conceptu rei quam non vidimus.
 
 Ly 'homo irrationalis', 'angelus albus' et similes eodem modo significant entia fictitia, sicut ly 'Chimaera', nam quamquam albedo possit poni in angelo miraculose fortasse non cum denominabit. Ly 'non-intelligibile' significat negationem intelligibilis.
 
@@ -1570,25 +1570,25 @@ Sed quaeris an possit supponere in ordine ad aliquam copulam. Certe (ut credo) n
 
 Definitiones istae quae ex Sancto Thoma, opusculum 42, capitulo 12, habentur pro sui, exacta expositione multa praesupponunt, quae tractatum praesentem exuperant, ut tamen in superficie Terministis appareant.
 
-Notandum primo aliqua esse quae conveniunt rei in se, quod est dicere quamvis intellectus operatione /26a/ seclusa, ut "Homini esse hominem / esse album" et caetera. Alia sunt quae conveniunt rei ex sola intellectus operatione, ut "Homini esse speciem", "Scripturae esse nomen" et caetera.
+Notandum primo aliqua esse quae conveniunt rei in se, quod est dicere quamvis intellectus operatione /26a/ seclusa, ut "Homini esse hominem / esse album" etc. Alia sunt quae conveniunt rei ex sola intellectus operatione, ut "Homini esse speciem", "Scripturae esse nomen" etc.
 
 Cum enim dicimus "Homo est species" non est sensus (ut secunda parte huius manifestabitur) quod hic terminus 'homo' est species, se quod res ipsa homo est species. Verumtamen proprietas illa non convenit ei nisi in ordine ad intellectum, ut videlicet cognoscitur per hunc conceptum 'homo' abstrahente ab individuis, nam inquantum cognita per talem conceptum est praedicabilis de pluribus differentibus numero quae est proprietas, a qua res ipsa dicitur species.
 
-Item etiam huic scripturae 'homo' a parte rei convenit quod sit scriptura quod sit atramentum et caetera, sed quod sit nomen non convenit ei nisi in ordine ad intellectum, id est, quia exprimit conceptum significantem aliquid sine tempore.
+Item etiam huic scripturae 'homo' a parte rei convenit quod sit scriptura quod sit atramentum etc, sed quod sit nomen non convenit ei nisi in ordine ad intellectum, id est, quia exprimit conceptum significantem aliquid sine tempore.
 
-### Secundo notandum quod intentio iuxta nominis etymologiam est intellectus attentio, id est, cognitio ipsa qua intellectus tendit in rem, et cognitiones significantes proprietates primi generis, ut conceptus 'homo', 'album' et caetera
+### Secundo notandum quod intentio iuxta nominis etymologiam est intellectus attentio, id est, cognitio ipsa qua intellectus tendit in rem, et cognitiones significantes proprietates primi generis, ut conceptus 'homo', 'album' etc
 
 Dicuntur primae intentionis, id est, cognitiones non praesupponentes alias priores, et cognitiones connotantes proprietates secundi generis, ut species 'nomen' dicuntur secundae intentionis. Nam cum significent proprietates, quae solum sunt in re per comparationem ad conceptus, praesupponunt conceptus ipso priores.
 
-Est verumtamen is usu appellare intentiones proprietates ipsas significatas, quae sunt velut obiecta conceptum. Itaque primae intentiones dicantur res ipsae quae sunt 'homo', 'album' et caetera, et secundae intentiones relationes illae, quae sunt praedicabilitas de pluribus, aut (sicut loquuntur) specieitas / nomineitas et caetera, quamquam primae non dicantur tam proprie intentiones quam secundae.
+Est verumtamen is usu appellare intentiones proprietates ipsas significatas, quae sunt velut obiecta conceptum. Itaque primae intentiones dicantur res ipsae quae sunt 'homo', 'album' etc, et secundae intentiones relationes illae, quae sunt praedicabilitas de pluribus, aut (sicut loquuntur) specieitas / nomineitas etc, quamquam primae non dicantur tam proprie intentiones quam secundae.
 
-Cum tamen dixerim, intentiones secundas esse relationes, non asserui esse res aliqua a suis fundamentis realiter distinctas, non enim possum imaginari, ex hoc quod res cognoscantur per hunc conceptum 'homo', aut per alium quemquam, entitatem aliquam pullulare in recognita, sed volui sentire (quod credo Sanctus Thomas et antiquos philosophos sensisse) quod sicut res dicitur alba per accidens quoddam illi inhaerens, ita dicitur species per hoc quod refertur ad talem conceptum, id est, inquantum cognita per conceptum 'homo' vel per conceptum 'equus' et caetera, quae quidem relatio, non est nisi quidam modus qui habet in re solum esse intelligibile.
+Cum tamen dixerim, intentiones secundas esse relationes, non asserui esse res aliqua a suis fundamentis realiter distinctas, non enim possum imaginari, ex hoc quod res cognoscantur per hunc conceptum 'homo', aut per alium quemquam, entitatem aliquam pullulare in recognita, sed volui sentire (quod credo Sanctus Thomas et antiquos philosophos sensisse) quod sicut res dicitur alba per accidens quoddam illi inhaerens, ita dicitur species per hoc quod refertur ad talem conceptum, id est, inquantum cognita per conceptum 'homo' vel per conceptum 'equus' etc, quae quidem relatio, non est nisi quidam modus qui habet in re solum esse intelligibile.
 
 Cum igitur audias secundas intentiones pullulare / fundari in re ceterasque id genus transitivas locutiones, sentito novos esse modos qui tantum intelliguntur esse in re.
 
 ### Ex dictis sequitur ad hoc quod res dicatur species (quod alii dicunt ad hoc quod pullulet intentio speciei) non requiri quod cognoscatur per notitiam comparativam
 
-Id est, quod cognoscatur esse praedicabilis de Petro, de Paulo et caetera, sed sufficit quod cognoscatur, verbi gratia, per illum conceptum 'homo' abstrahentem ab individuis. Et enim intellectum facere universalitatem in rebus (quod ait Avicenna) non est aliud quam abstrahere rem ab individuis, quod certe est cognoscere ipsam per conceptum communem.
+Id est, quod cognoscatur esse praedicabilis de Petro, de Paulo etc, sed sufficit quod cognoscatur, verbi gratia, per illum conceptum 'homo' abstrahentem ab individuis. Et enim intellectum facere universalitatem in rebus (quod ait Avicenna) non est aliud quam abstrahere rem ab individuis, quod certe est cognoscere ipsam per conceptum communem.
 
 Igitur res ut sic cognita, est iam praedicabilis de pluribus, licet numquam cognosceretur sub illa comparatione ad plura, quare cum cognoscitur cum tali comparatione non fit species, sed cognoscitur esse species. Quinetiam ut in re aliqua fundetur secunda intentio, non requiritur quod cognoscatur, nam haec scriptura 'homo' non quidem quia cognoscitur aut quia est cognoscibilis ab intellectu, sed quia exprimens eius conceptum fundat intentionem nominis, et dicitur esse nomen (quod in praesentiarum maxime notato).
 
@@ -1610,13 +1610,13 @@ Si tamen accipiatur intentio formaliter pro ipsa cognitione, tunc sensus, huiusm
 
 Primus sensus est frequentior in usu apud multos Reales modernos, sed secundum opinor fuisse Sanctus Thomas opusculo 42 et 86.
 
-Caveto tamen licet teneas hunc secundum modum, ne concedas terminum secundae intentionis connotare dictum ordinem ad conceptum. Nam ly 'species' non significat rem connotando quod cognoscatur per ly 'homo', sed certe connotando quod sit praedicabilis et caetera, quod convenit rei inquantum sic cognitae.
+Caveto tamen licet teneas hunc secundum modum, ne concedas terminum secundae intentionis connotare dictum ordinem ad conceptum. Nam ly 'species' non significat rem connotando quod cognoscatur per ly 'homo', sed certe connotando quod sit praedicabilis etc, quod convenit rei inquantum sic cognitae.
 
 Sequitur tandem hoc terminos 'definitum propinquum', 'aequivocata' caeteroque id genus esse secundae intentionis, nam significant rest ut subiiciuntur intentioni quomodocumque accipiatur intentio.
 
 ### Sunt qui terminum secundae intentionis aliter definiant ut puta, quod sit ille qui significat aliqua ea ratione quae est signum vel significatum
 
-Quae tamen definitio neque est iuxta nominis etymologiam neque omnino cum definitio convertitur. Nam ly 'praedicabile', ly 'genus', ly 'species' et caetera, termini sunt secundae intentionis et tamen non significant aliquid ea ratione quae est signum vel significatum, tum quia significat res ipsas quae non sunt signa (ut secunda parte huius videbitur) et non connotando quod sint significata, tum maxime, quia licet significent terminos ipsos (ut ipsi opinantur) non tamen connotant quod sint signa, aut quod significent, sed quod sint praedicabiles. Modo neque praedicari neque supponere est inferius ad significare, et adhuc non universaliter, nam termini non significativi dicuntur praedicari et supponere (ut supra visum est).
+Quae tamen definitio neque est iuxta nominis etymologiam neque omnino cum definitio convertitur. Nam ly 'praedicabile', ly 'genus', ly 'species' etc, termini sunt secundae intentionis et tamen non significant aliquid ea ratione quae est signum vel significatum, tum quia significat res ipsas quae non sunt signa (ut secunda parte huius videbitur) et non connotando quod sint significata, tum maxime, quia licet significent terminos ipsos (ut ipsi opinantur) non tamen connotant quod sint signa, aut quod significent, sed quod sint praedicabiles. Modo neque praedicari neque supponere est inferius ad significare, et adhuc non universaliter, nam termini non significativi dicuntur praedicari et supponere (ut supra visum est).
 
 Verum est tamen quod omnis terminus significans aliquid cum connotatione signi vel significati, aut connotatione inferiori, est terminus secundae intentionis, ut ly 'nomen', ly 'definitum' licet non ediverso.
 
@@ -1655,11 +1655,11 @@ Haud dubito aliqua me hic dixisse terminis difficilia, sed qui de terminis secun
 
 Terminus aliquam habere plures partes significantes iuxta significationem totius est quod eius significatio ex /27b/ significationibus partium constet. Quid quidem duobus signis cognoscitur, videlicet, exprimendo significationem totius, exprimantur significationes partium, et quod si aliqua pars deponeretur a sua significatione aliis omnibus invariatis, tunc totalis terminus desineret significare ut prius.
 
-Verbi gratia, significatio illius copulati 'Petrus et Paulus' cognoscitur constare ex significationibus partium. Nam si exprimatur significatio totius, dicendo 'Petrus et Paulus' significat Petrum et Paulum, ibi exprimuntur significationes partium, scilicet, quod Petrus significat Petrum et caetera. Et si aliqua pars, utputa si ly 'Petrus' non significare Petrum, totum non significaret Petrum et Paulum.
+Verbi gratia, significatio illius copulati 'Petrus et Paulus' cognoscitur constare ex significationibus partium. Nam si exprimatur significatio totius, dicendo 'Petrus et Paulus' significat Petrum et Paulum, ibi exprimuntur significationes partium, scilicet, quod Petrus significat Petrum etc. Et si aliqua pars, utputa si ly 'Petrus' non significare Petrum, totum non significaret Petrum et Paulum.
 
 Sed significatio de ly 'dominus' (quae est significare possidentem servum) non consta ex significationibus illarum partium, esto ly 'do' significat dare et ly 'minus' significet nimus, nam cum dicitur ly 'dominus' significat dominum ibi non exprimitur quod ly 'do' significet dare et ly 'minus' minus significet minus. Item, licet utraque illarum partium deponeretur a sua significatione, nihilominus tota significaret sicut et nunc significat (et hoc secundum signum est securius) et ideo ly 'dominus' est terminus incomplexus. Idem dicas de ly 'equiferus' et similibus.
 
-Dixerim in definitione "habens plures partes et caetera" quod intelligatur formaliter vel virtualiter. Si enim ly 'a' imponatur ad significandum sicut ly 'Petrus et Paulus', esset tunc terminus complexus apud dialecticum, qui speculatur significantias terminorum, nam subordinaretur termino complexo, licet apud grammaticum qui solam vocum habitudines considerat, esset incomplexus, sicut ediverso ly 'Marcus Tullius' fortasse apud grammaticos esset complexus, et apud dialecticos incomplexus.
+Dixerim in definitione "habens plures partes etc" quod intelligatur formaliter vel virtualiter. Si enim ly 'a' imponatur ad significandum sicut ly 'Petrus et Paulus', esset tunc terminus complexus apud dialecticum, qui speculatur significantias terminorum, nam subordinaretur termino complexo, licet apud grammaticum qui solam vocum habitudines considerat, esset incomplexus, sicut ediverso ly 'Marcus Tullius' fortasse apud grammaticos esset complexus, et apud dialecticos incomplexus.
 
 Nec est idem quod aliquis terminus virtualiter habeat plures partes et quod aequivalenter habeat illa. Nam primum est quod subordinetur in significando conceptui habenti formaliter plures partes, quod sufficit ad terminum esse complexum. Et secundum est quod convertatur cum termino habente plures partes, quod non sufficit ad terminum esse complexum. Etenim ly 'album' licet convertatur cum ly 'habens albedinem', non tamen est terminus complexus.
 
@@ -1667,9 +1667,9 @@ Omnis terminus complexus solet apud dialecticos appellari oratio, licet fortasse
 
 ### Complexorum aliud est complexum distans, aliud indistans
 
-Complexum distans est cuius partes principales aliqua coniunctione coniunguntur, ut ly 'Petrus et Paulus', 'Petrus si est Paulus', 'Petrus qui est iustus' et caetera. Cuius partes principales, quia hoc complexum 'Petrus amans Deum et proximum', cuius partes minus principales uniuntur per ly 'et' non est complexum complexione distanti, sed potius indistanti.
+Complexum distans est cuius partes principales aliqua coniunctione coniunguntur, ut ly 'Petrus et Paulus', 'Petrus si est Paulus', 'Petrus qui est iustus' etc. Cuius partes principales, quia hoc complexum 'Petrus amans Deum et proximum', cuius partes minus principales uniuntur per ly 'et' non est complexum complexione distanti, sed potius indistanti.
 
-Terminus complexus indistans (per oppositum) est terminus cuius partes principales non coniunguntur per aliquod coniungibile, ut 'animal homo', 'Petrus doctus', 'Filius hominis' et caetera. Neque inde sequitur propositionem esse terminum complexum quia non est terminus, licet sit signum complexum. Quare si hanc divisionem libet usque ad propositionem extendere, dicito, signorum localium, aliud complexum et aliud incomplexum.
+Terminus complexus indistans (per oppositum) est terminus cuius partes principales non coniunguntur per aliquod coniungibile, ut 'animal homo', 'Petrus doctus', 'Filius hominis' etc. Neque inde sequitur propositionem esse terminum complexum quia non est terminus, licet sit signum complexum. Quare si hanc divisionem libet usque ad propositionem extendere, dicito, signorum localium, aliud complexum et aliud incomplexum.
 
 Contra hoc tamen arguitur hoc aggregatum "'b' est 'b'" est signum logicale complexum et tamen non habet plures partes significantes iuxta significationem totius; ergo definitio non valet.
 
@@ -1681,7 +1681,7 @@ Pro solutione huius argumenti notato quod aliud est conficere propositiones ex n
 
 Verum /28a/ est tamen quod interest inter res quae non sunt litterae et litteras seu voces. Nam illae neque sunt termini neque habent aliquam proprietatem termini, neque possunt propositiones consuetas conficere.
 
-Litterae autem sicut caeteri termini non significativi, licet non sint termini, habent tamen aliquas terminorum proprietates, utputa conficere propositiones, supponere pro se et caetera, unde "Hae scripturae 'b' est littera", "'buf' non est terminus" iam is usu accipiuntur loco harum "'be' est littera", "Haec scriptura 'buf' non est terminus".
+Litterae autem sicut caeteri termini non significativi, licet non sint termini, habent tamen aliquas terminorum proprietates, utputa conficere propositiones, supponere pro se etc, unde "Hae scripturae 'b' est littera", "'buf' non est terminus" iam is usu accipiuntur loco harum "'be' est littera", "Haec scriptura 'buf' non est terminus".
 
 Igitur ad argumentum concessa maiori, distinguitur minor, vel quod formaliter non habeat plures partes significantes conceditur, vel virtualiter sic negatur. Nam subordinatur naturalibus similitudinibus illarum litterarum et actui verbali, quae omnes parte proprie significant.
 
@@ -1763,13 +1763,13 @@ Arguitur enim sic: Admisso (ut solet admitti) quod ex materiis et formis Petri e
 
 Arguitur sic: Hoc scutum est hoc album, et hoc album (primo pronomine demonstrante medietatem album cum medietate medietatis nigrae secundum latitudinem divise, et secundo demonstrante eandem medietatem album, cum altera medietate eiusdem medietatis nigrae); ergo hoc scutum est alba. Parique ratione probabitur esse nigra.
 
-### Pro horum solutione notandum: Terminum pluralis numeri resolvi in copulatum complexive sumptum vel in disiunctum ex huiusmodi copulatis, quorum aliud ex duabus, aliud ex tribus, et caetera, partibus constat
+### Pro horum solutione notandum: Terminum pluralis numeri resolvi in copulatum complexive sumptum vel in disiunctum ex huiusmodi copulatis, quorum aliud ex duabus, aliud ex tribus, etc, partibus constat
 
 Non quod illi subordinetur in significando (quod supra reprobatum est capitulo 4, lectio 2) sed quod ei aequivaleat in consequendo, per quod veritas propositionis de termino pluralis numeri manifestatur. Unde quando est aliqua determinatio determinans terminum pluralis numeri, quia ipsum, utpote unicum terminum unica acceptione respicit, fit ut copulam in quod talis terminus resolvitur, unica etiam determinatione modificet, ita quod ly 'non-videns' non valet, sicut ly 'non-videns' et 'non-videns'. Sed sicut ly 'non-videns' et 'videns' ut termini contradictorii per contradictoria copulata resolvantur. Quae quidem regula etiam determinationibus affirmativis est communis, discendisque valde utilis. Sed ly 'caeci', qui est unicus terminus non determinatus ab aliqua determinatione, videtur resolvendum esse in ly 'caecus' et caecus. Quare negatio inclusa cadit pluribus acceptionibus in illa partes, quamquam hoc 17 capitulo, primo tractatus examinabitur.
 
 Igitur ad argumentum primum negatur illa consequentia "Petrus et Paulus sunt non-videns et non-videns; ergo sunt non-videns". Conceditur tamen illa "Sunt caecus et caucus; ergo sunt caeci", unde licet duo termini contradictorii nec in singulari nec in plurali possint quoquo /29b/ modo de eodem verificari sine ampliatione, termini tamen privativi possunt quidem in plurali verificari de eisdem supernaturaliter.
 
-Ad secundum conceditur: Illos terminos 'alba', 'nigra' verificari copulative de eodem naturaliter. Quare a multis negantur esse contrarii, licet in singulari numero sint contrarii, sed quia nomen in omnibus casibus et numeris reputatur unum et idem, malem dicere dictos terminos esse contrarios, maxime secundum nostram definitionem, nam connotant incompatibiles qualitates, asserereque subinde, terminis contrariis in plurali nuero non repugnare verificari de eodem, quin etiam potest dari corpus quod sit alba, nigra, rubea, viridia et caetera. Quae omnia exercitio iuvenum limanda commendamus.
+Ad secundum conceditur: Illos terminos 'alba', 'nigra' verificari copulative de eodem naturaliter. Quare a multis negantur esse contrarii, licet in singulari numero sint contrarii, sed quia nomen in omnibus casibus et numeris reputatur unum et idem, malem dicere dictos terminos esse contrarios, maxime secundum nostram definitionem, nam connotant incompatibiles qualitates, asserereque subinde, terminis contrariis in plurali nuero non repugnare verificari de eodem, quin etiam potest dari corpus quod sit alba, nigra, rubea, viridia etc. Quae omnia exercitio iuvenum limanda commendamus.
 
 ### Igitur ut summa eorum quae diffuse diximus prae oculis habeatur
 

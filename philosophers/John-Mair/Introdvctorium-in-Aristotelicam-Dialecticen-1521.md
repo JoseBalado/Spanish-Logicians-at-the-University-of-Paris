@@ -97,7 +97,7 @@ Dicat opponens "Illa aequivalet uni verae; ergo ipsa est vera".
 
 Respondente antecedens negante, probet sic: Aequivalet huic "Omnis homo est animal", haec autem est vera; ergo aequivalet uni verae, quo erat probandum.
 
-Et rursus maiore negata sic probet: Nam istae duae propositiones ex extremis synonymis sunt compositae, sunt eiusdem qualitatis, manet eadem suppositio et caeterae proprietates logicales;ergo aequivalent, quod erat probandum, et sic in abyssum quo ad leporem invenerit, hoc est, propositum habuerit. Doceatur inferre quod erat probandum et cum exercitatus fuerit temporum curriculo, non opus est passim ita inferre.
+Et rursus maiore negata sic probet: Nam istae duae propositiones ex extremis synonymis sunt compositae, sunt eiusdem qualitatis, manet eadem suppositio etce proprietates logicales;ergo aequivalent, quod erat probandum, et sic in abyssum quo ad leporem invenerit, hoc est, propositum habuerit. Doceatur inferre quod erat probandum et cum exercitatus fuerit temporum curriculo, non opus est passim ita inferre.
 
 #### Respondens aiat, neget, aut distinguat
 
@@ -937,7 +937,7 @@ Sermo est de 'vel' complexe capto. "Sortes vel Chimaera non est Sortes" in sensu
 
 "Iste homo vel asinus est homo" singularizando subiectum pro Brunello est falsa.
 
-Etiam haec est vera "Sortes iuvenis disputat, disputabit vel disputavit in Sorbona" in sensu disiuncto, posito quod nunc sit senex nec disputet nunc in Sorbona, nec unquam in ea disputavit, sed posthac in ea disputabit. Eius veritas patet per eius resolventes, et falsitas disiunctivae est liquida, et caetera.
+Etiam haec est vera "Sortes iuvenis disputat, disputabit vel disputavit in Sorbona" in sensu disiuncto, posito quod nunc sit senex nec disputet nunc in Sorbona, nec unquam in ea disputavit, sed posthac in ea disputabit. Eius veritas patet per eius resolventes, et falsitas disiunctivae est liquida, etc.
 
 /57/
 
@@ -1039,7 +1039,7 @@ Demum quoniam locales et temporales categoricas reor circa hypotheticarum specie
 
 "Adamus non fuit ubi Abrahamus fuit in vita" si esset hypothetica haberet pro prima categorica hanc "Adam non fuit in aliquo loco" quae est falsa; ergo et tota illa copulativa, quae tamen vera reputatur. Similiter haec "David non fuit quando Moyses fuit", habebit pro priore categorica hanc "David non fuit", quae est falsa, altera tamen concedi solet. Ponendo autem eas categoricas optime earum veritates salvantur, quia sunt duae negativae quarum extrema non supponunt pro eodem; ergo sunt verae.
 
-Similiter istae sunt categoricae "Sortes non est talis qualis est Plato", "Golias non est tantus quantus Og rex Basan" et caetera.
+Similiter istae sunt categoricae "Sortes non est talis qualis est Plato", "Golias non est tantus quantus Og rex Basan" etc.
 
 Finitur Tractatus Secundus Libelli Primi.
 
@@ -1061,7 +1061,7 @@ Item a copula quae solum est in propositione, suppositio ortum habet, quare term
 
 Dicitur "in potentia propinqua", hoc est, nulla mutatione in re facta, quare subiectum huius "Antichristus est homo" non supponit. Si tamen Antichristus produceretur, supponeret, sed tunc aliquod produceretur de novo, et non esset in potentia propinqua.
 
-"De pronomine et caetera": Quando dubitas an aliquis terminus supponat, accipe significatum eius et demonstra per pronomen sic quod terminus de quo dubitatur an supponit, praedicetur. Et si propositio affirmativa sit vera, extra exponibilia, terminus supponit. Si non, non supponit.
+"De pronomine etc": Quando dubitas an aliquis terminus supponat, accipe significatum eius et demonstra per pronomen sic quod terminus de quo dubitatur an supponit, praedicetur. Et si propositio affirmativa sit vera, extra exponibilia, terminus supponit. Si non, non supponit.
 
 Exemplis declaro: Demonstrato Sorte, haec est vera "Hoc est homo"; ergo subiectum huius "Homo est asinus", supponit. Et quia demonstrato Brunello, haec est vera "Hoc est asinus", etiam praedicatum supponit. Et licet haec sit vera, non tantum "Chimaera non est Chimaera", neutrum extremum supponit; nec 'Chimaera' in hac affirmativa "Chimaera est vel Non est", quia in verificatione oportet negationem tollere.
 
@@ -1651,7 +1651,7 @@ Nec est vis sive terminus superior supponat sive non. Si primum, datur aliqua co
 
 Sufficit per descensum propositionem falsitates cribrare, sicut per earum ascensum veritatem indagare.
 
-Constantia pro subiecto pronomen demonstrativum cum termino sub quo descenditur, et eundem terminum cum signo collectivo pro praedicato sibi vendicabit, ut "Omne animal currit" et "Ista animalia (demonstrando omnia pro quibus animal distribuitur) sunt omnia animalia; ergo et caetera".
+Constantia pro subiecto pronomen demonstrativum cum termino sub quo descenditur, et eundem terminum cum signo collectivo pro praedicato sibi vendicabit, ut "Omne animal currit" et "Ista animalia (demonstrando omnia pro quibus animal distribuitur) sunt omnia animalia; ergo etc".
 
 Descensa et descendentes sunt partes descensus: Ista particula 'et sic de singulis', in descensu copulativo tantum valet sicut copulativa ex singularibus non enumeratis conflata. Et sic in ascensu disiunctivo tantum sicut disiunctiva ex singularibus conflata.
 
@@ -2274,7 +2274,7 @@ Respondetur:
 
 #### Replica
 
-Contra ista arguitur: Qualitercumque referat relativum in disiunctiva dabuntur contradictoria falsa. Haec enim est falsa: "Animal est homo et Illud est equus", et haec ei contradicit "Nullum animal est homo vel Non illud animal est equus", non ponendo relativum relatum. Quod patet prior categorica disiunctive priori categoricae copulativae contradicit, et posterior pars disiunctivae posteriori categoricae copulativae contradicit, patet non est verius contradicere et caetera.
+Contra ista arguitur: Qualitercumque referat relativum in disiunctiva dabuntur contradictoria falsa. Haec enim est falsa: "Animal est homo et Illud est equus", et haec ei contradicit "Nullum animal est homo vel Non illud animal est equus", non ponendo relativum relatum. Quod patet prior categorica disiunctive priori categoricae copulativae contradicit, et posterior pars disiunctivae posteriori categoricae copulativae contradicit, patet non est verius contradicere etc.
 
 #### Responsio
 
@@ -3082,7 +3082,7 @@ Ultima regulae pars patet quia "Sortes est mortuus Parisii" denotat quod Sortes 
 
 Appellatio rationis passiva est terminus secundum propriam rationem secundum quam significat acceptus.
 
-Appellatio rationis et caetera: In ista "Cognosco hoc verbum" 'cognosco' in generali omen cognitionem sub disiunctione mihi adiacere connotat.
+Appellatio rationis etc: In ista "Cognosco hoc verbum" 'cognosco' in generali omen cognitionem sub disiunctione mihi adiacere connotat.
 
 Addatur venientem dicendo "Cognosco venientem", tunc restringitur ad appellationem formalis significati. Illic 'cognosco' cognitionem appellat de materiali, pro cognoscenti supponit. Sed appellatio in ordine ad terminum sequentem appellatio rationis dicitur, et appellatio ad ly 'cognosco' formalis significati appellatio dicitur.
 

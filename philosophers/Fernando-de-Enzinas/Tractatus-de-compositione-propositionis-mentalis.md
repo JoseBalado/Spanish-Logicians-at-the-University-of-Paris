@@ -152,7 +152,7 @@ quanvis isti tres termini 'homo', 'est, 'animal' unum componunt. Nam quamvis ly 
 
 ### Solutio est aliorum qui dicunt, et fortasse rectius, quod ly \'est\' capitur significative in subiecto illius propositionis.
 
-Nec propterea sequitur subiectum illius propositionis esse propositionem, nam aiunt partes significativae sumi, et totum materialiter, quemadmodum contingit de subiecto harum "Sortes et Plato est copulatum", "Omnis homo est totum in quantitate" et caetera.
+Nec propterea sequitur subiectum illius propositionis esse propositionem, nam aiunt partes significativae sumi, et totum materialiter, quemadmodum contingit de subiecto harum "Sortes et Plato est copulatum", "Omnis homo est totum in quantitate" etc.
 
 ## Ex dictis igitur patet subiectum illius propositionis esse terminum complexum.
 
@@ -320,7 +320,7 @@ in quo solet quaeri quare habita hac propositione "Homo est animal", intellectus
 
 et tamen nihil valent, quarum prior iam soluta est ex dictis in confirmatione.
 
-Dicunt enim sequeretur nullam propositionem esse terminum complexum. Sed hoc est impossibile, igitur et caetera. Ad hoc dictum est in confirmatione primi argumenti.
+Dicunt enim sequeretur nullam propositionem esse terminum complexum. Sed hoc est impossibile, igitur etc. Ad hoc dictum est in confirmatione primi argumenti.
 
 ## Secundo arguunt: Sequitur quod nullus erit syllogismus in mente,
 
@@ -336,7 +336,7 @@ Sequela probatur: Ad hoc quod aliqua consequentia sit ascensus, oportet quod arg
 
 ## Ad primum horum iam dictum est, et ad secundum distinguo de connotatione huius termini 'syllogismus',
 
-quia vel connotat quod sit consequentia bona et formalis composita ex tribus terminis, et quod virtute unionis extremitatum cum medio, sequatur conclusio composita ex extremitatibus. Et hoc modo concedo quod nullus inveniatur syllogismus in mente vel connotat hic terminus 'syllogismus', quod consequentia talis significet synonyme cum una in qua, virtute medii uniti cum extremitatibus, sequatur conclusio. Et eo modo inveniuntur syllogismi mentales; aut si connotet quod sit virtualiter compositus, id est, praesupponens tres propositiones et tres terminos et caetera, et in hoc sensu etiam inveniuntur syllogismi mentales /7.2b/.
+quia vel connotat quod sit consequentia bona et formalis composita ex tribus terminis, et quod virtute unionis extremitatum cum medio, sequatur conclusio composita ex extremitatibus. Et hoc modo concedo quod nullus inveniatur syllogismus in mente vel connotat hic terminus 'syllogismus', quod consequentia talis significet synonyme cum una in qua, virtute medii uniti cum extremitatibus, sequatur conclusio. Et eo modo inveniuntur syllogismi mentales; aut si connotet quod sit virtualiter compositus, id est, praesupponens tres propositiones et tres terminos etc, et in hoc sensu etiam inveniuntur syllogismi mentales /7.2b/.
 
 Et simili modo respondebis ad id quod tangitur de praedicatione atque pariformiter ad id quod de ascensu et conversione dicitur. Et sic patet de hac opinione quae, quemadmodum dictum est, satis probabilis est, nec mirum, quia teste philosopho, multa falsa sunt probabiliora quibusdam veris, et Gregorius conformiter ad dicta sua, licet falsa, loquitur, postquam enim defendebat omnem propositionem mentalem ultimatam esse ascensum. Necessum erat quod postquam quilibet ascensus est simplex qualitas, vt probabitur quod etiam quaelibet propositio mentalis ultimata sit simplex qualitas. Et si haec opinio falsa sit, nec mirum, quoniam vno inconvenienti dato, multa accidunt.
 
@@ -545,3 +545,67 @@ Arguit Pardo: Si ly 'omnis' esset in anima purum syncategorema, sequeretur ipsum
 Sequela videtur nota, postquam in anima ponitur, et probatur minor. Per illud signum 'omnis' nihil cognoscit anima. Ergo illud signum 'omnis' non immutat potentiam cognitivam.
 
 Consequentia patet, quoniam vitaliter immutare potentiam cognitivam non est aliud quam posse esse cognitionem mediante quam potentia cognitiva aliquid /10.1b/ cognoscit.
+
+### Ad hoc argumentum respondeo quaestionem esse de nomine.
+
+Si enim per vitaliter immutare intelligas quod in argumento dictum est, oportet quod ly 'omnis' immutet potentiam cognitivam. Si vero per ly 'vitaliter' immutare intelligas cognitionem esse qua intellectus aliquid vel aliqualiter cognoscit.
+
+### Dico quod ille actus immutat potentiam cognitivam.
+
+Similis conclusio est, quae tamen in nomine consistit, utrum actus syncategorematici sint vocandi notitiae vel utrum habeant obiecta.
+
+Si enim ad hoc quod aliquis terminus mentalis sit notitia requiritur esse qualitatem aliquid vel aliqualiter intellectui dantem intelligere, tunc nullus terminus syncategorematicus dicitur notitia. Si vero ad hoc quod dicatur notitia sufficit esse terminum aliqualiter repraesentantem, tunc actus syncategorematici dicuntur esse notitie. Ac simili modo dices de obiecto.
+
+Si enim obiectum vocetur res, quae significatur per notitiam eodem modo, actus syncategorematici non habent obiecta. Si autem vocaveris res obiectum rem concurrentem ad productionem notitiae, eodem modo actuum termini categorematici, quos actus determinant, dicentur obiecta, quamvis nonnulli vocauerunt rem significatam per notitiam quam determinat obiectum, non quia per syncategorema significetur, sed quia syncategorema immutat intellectum ad intelligendum aliter res significatas quam prius. Sed haec quaestio est de nomine, vocabimus tamen deinceps terminos obiecta actus, ut cum communioribus conveniamus.
+
+### Contra hanc solutionem arguitur: Sequeretur quod experiremur illum actum 'omnis' esse in anima.
+
+Sed hoc est manifeste falsum; ergo illud ex quo sequitur. Sequela patet quia vitaliter immutat potentiam cognitivam. Falsitas consequentis probatur, quia si experiremur non essent opiniones circa hoc, quod illud signum 'omnis' esset in anima.
+
+### Respondeo ad hoc concessa sequela negando falsitate consequentis.
+
+Et ad probationem dico quod ex eo sunt opiniones, quia esto quod experiremur non est nobis manifestum nos experiri. Aliter posset /10.2a/ dici dici nos experiri illum actum esse, quia quandoque cognoscimus hominem-esse-animal, et deinde cognoscimus omnem-hominem-esse-animal, quare inferimus aliquid aliud advenisse potentiae cognitivae quod antea non erat. Quare sic experimur actum esse, sed non experimur illum solum significare aliqualiter aut esse distinctum a notitiis aut distinctum ab anima.
+
+### Contra hanc solutionem arguitur: Ly 'omnis' significat aliquid; ergo solutio nulla.
+
+Antecedens probatur: Ly 'omnis' denotat rem significatam termini, cui additur universaliter, accipi pro suis significatis copulative, sed denotare est significare; ergo ly 'omnis' significat terminum cui additur, et per consequens aliquid significat.
+
+### Confirmat: Sequeretur quod ly 'omnis' nunquam possit advenire potentiae cognitivae quin intellectus reflecteret se supra talem terminum quem determinat.  Sed hoc est falsum et contra experientiam; ergo et opinio.
+
+Sequela probatur: Ly 'omnis' per opinantem denotat terminum, cui additur, accipi ab intellectu pro suis significatis copulative; ergo intellectus accipit terminum cui additur, et ultra accipit terminum cui additur; ergo cognoscit seu considerat terminum cui additur, et per consequens, intellectus considerat et reflectit se super terminum cui tale syncategorema additur.
+
+### Ad ista duo argumenta facillimum est respondere, et si Hieronymus Pardo dicat istud concludere.
+
+Unde dico quod denotare terminum accipi pro suis significatis copulative, non est illud signum significare talem terminum, nec est intellectum cognoscere talem terminum, sed illud signum 'omnis' denotare terminum, cui additur, accipi pro suis significatis copulative. Est intelligere res significatas per terminos quibus additur qualiter sine tali signo intellectus non intelligeret. Ut capta hac propositione "Mula est sterilis", intellectus intelligit mulam-esse-sterilem; sed adveniente illo signo 'omnis', iam intellectus intelligit res significatas per illos terminos aliter quam antea.
+
+### Contra hoc arguitur: Sequere quod ly 'omnis' in voce et ly 'omnis' in mente non essent synonymi. Consequens est falsum; ergo et antecedens.
+
+Falsitas consequentis manifesta est quia terminus vocalis et mentalis, cui talis vocalis subordinatur, /10.2.b/ sunt synonymi. Sed probatur sequela: Ly 'omnis' in voce denotat istam vocem 'homo' accipi pro suis significatis copulative, et istud signum 'omnis' in mente denotat istum conceptum 'homo' accipi pro suis significatis copulative; et per consequens sequitur quod non idem adaequate significant, et inde sequitur quod non sunt synonymi.
+
+### Ad hanc replicam respondeo negando sequelam, et ad probationem nego antecedens in sensu in quo de rigore capitur.
+
+Sed dico quod significatio de ly 'omnis' in voce et in mente est eadem. Unde significatio de ly 'omnis' non est alia nisi immutare seu movere intellectum ad hoc quod cognoscat aliqualiter, videlicet copulative res significatas per terminos categorematicos qualiter per ipsos terminos categorematicos intellectus non cognoscit.
+
+### Et ex hoc patet quid requiritur et sufficit ad hoc, quod aliqua syncategoremata sint synonyma, requiritur namque et sufficit quod eadem vel consimilia officia praecise adaequate sint nata exercere supra eosdem terminos, quavis non exerceant.
+
+Primum additur propter dictionem exclusivam quae, quamvis eadem officia  quae signa universalia exercere apta nata. Fit non tamen supra eosdem terminos; et secundum videlicet quod additur.
+
+Quavis non exerceat patet, nam istarum duarum propositionum "Omnis homo etc.", "Omnis asinus etc." signa universalia eadem officia exercent, non tamen supra consimilis terminos. Ac resolutorie, ad hoc quod sint synonyma categorica, oportet quod pars definitionis terminorum synonymum illis competat, videlicet quod significent aliqualiter omnino et eodem modo praecise et adaequate.
+
+### Contra hoc arguitur: Bene sequitur ly 'omnis' significat; ergo significatum significat.
+
+Ad hoc respondeo negando consequentiam.
+
+### Sed contra hoc arguitur. Bene sequitur ly 'omnis' significat qualiter; ergo aliqualiter significatur per ly 'omnis'.
+
+Patet consequentia ab activa ad passivam; sed falsitas consequentis patet quia subiectum non supponit.
+
+### Ad hoc respondeo negando consequentiam: Argumentum enim ab activa ad passivam non valet quando terminus supra quem cadit, virtus verbi activi, non potest esse totale extremum.
+
+Ut non sequitur:
+> Obiectum facit intellectum advertere; ergo intellectum advertere fit ab obiecto. /11.1a/
+
+
+
+
+

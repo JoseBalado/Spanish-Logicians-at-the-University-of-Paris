@@ -152,7 +152,7 @@ quanvis isti tres termini 'homo', 'est, 'animal' unum componunt. Nam quamvis ly 
 
 ### Solutio est aliorum qui dicunt, et fortasse rectius, quod ly \'est\' capitur significative in subiecto illius propositionis.
 
-Nec propterea sequitur subiectum illius propositionis esse propositionem, nam aiunt partes significativae sumi, et totum materialiter, quemadmodum contingit de subiecto harum "Sortes et Plato est copulatum", "Omnis homo est totum in quantitate" etc.
+Nec propterea sequitur subiectum illius propositionis esse propositionem, nam aiunt partes significativae sumi, et totum materialiter, quemadmodum contingit de subiecto harum "Sortes et Plato est copulatum", "Omnis homo est totum in quantitate" et cetera.
 
 ## Ex dictis igitur patet subiectum illius propositionis esse terminum complexum.
 
@@ -320,7 +320,7 @@ in quo solet quaeri quare habita hac propositione "Homo est animal", intellectus
 
 et tamen nihil valent, quarum prior iam soluta est ex dictis in confirmatione.
 
-Dicunt enim sequeretur nullam propositionem esse terminum complexum. Sed hoc est impossibile, igitur etc. Ad hoc dictum est in confirmatione primi argumenti.
+Dicunt enim sequeretur nullam propositionem esse terminum complexum. Sed hoc est impossibile, igitur et cetera. Ad hoc dictum est in confirmatione primi argumenti.
 
 ## Secundo arguunt: Sequitur quod nullus erit syllogismus in mente,
 
@@ -336,7 +336,7 @@ Sequela probatur: Ad hoc quod aliqua consequentia sit ascensus, oportet quod arg
 
 ## Ad primum horum iam dictum est, et ad secundum distinguo de connotatione huius termini 'syllogismus',
 
-quia vel connotat quod sit consequentia bona et formalis composita ex tribus terminis, et quod virtute unionis extremitatum cum medio, sequatur conclusio composita ex extremitatibus. Et hoc modo concedo quod nullus inveniatur syllogismus in mente vel connotat hic terminus 'syllogismus', quod consequentia talis significet synonyme cum una in qua, virtute medii uniti cum extremitatibus, sequatur conclusio. Et eo modo inveniuntur syllogismi mentales; aut si connotet quod sit virtualiter compositus, id est, praesupponens tres propositiones et tres terminos etc, et in hoc sensu etiam inveniuntur syllogismi mentales /7.2b/.
+quia vel connotat quod sit consequentia bona et formalis composita ex tribus terminis, et quod virtute unionis extremitatum cum medio, sequatur conclusio composita ex extremitatibus. Et hoc modo concedo quod nullus inveniatur syllogismus in mente vel connotat hic terminus 'syllogismus', quod consequentia talis significet synonyme cum una in qua, virtute medii uniti cum extremitatibus, sequatur conclusio. Et eo modo inveniuntur syllogismi mentales; aut si connotet quod sit virtualiter compositus, id est, praesupponens tres propositiones et tres terminos et cetera, et in hoc sensu etiam inveniuntur syllogismi mentales /7.2b/.
 
 Et simili modo respondebis ad id quod tangitur de praedicatione atque pariformiter ad id quod de ascensu et conversione dicitur. Et sic patet de hac opinione quae, quemadmodum dictum est, satis probabilis est, nec mirum, quia teste philosopho, multa falsa sunt probabiliora quibusdam veris, et Gregorius conformiter ad dicta sua, licet falsa, loquitur, postquam enim defendebat omnem propositionem mentalem ultimatam esse ascensum. Necessum erat quod postquam quilibet ascensus est simplex qualitas, vt probabitur quod etiam quaelibet propositio mentalis ultimata sit simplex qualitas. Et si haec opinio falsa sit, nec mirum, quoniam vno inconvenienti dato, multa accidunt.
 
@@ -538,6 +538,8 @@ Circa quod difficultatem communem inquiram: Utrum istae "Omnis homo est homo" et
 
 Circa ista multa alia implicabuntur inter disputandum.
 
+# De obiecto actus syncategorematici
+
 ## Ad primum igitur deveniendum contra illam opinionem ponentem syncategoremata puta aliqualiter significare.
 
 Arguit Pardo: Si ly 'omnis' esset in anima purum syncategorema, sequeretur ipsum vitaliter immutare potentiam cognitivam. Sed hoc est falsum; ergo ly 'omnis' non invenitur in anima.
@@ -590,7 +592,7 @@ Sed dico quod significatio de ly 'omnis' in voce et in mente est eadem. Unde sig
 
 Primum additur propter dictionem exclusivam quae, quamvis eadem officia  quae signa universalia exercere apta nata. Fit non tamen supra eosdem terminos; et secundum videlicet quod additur.
 
-Quavis non exerceat patet, nam istarum duarum propositionum "Omnis homo etc.", "Omnis asinus etc." signa universalia eadem officia exercent, non tamen supra consimilis terminos. Ac resolutorie, ad hoc quod sint synonyma categorica, oportet quod pars definitionis terminorum synonymum illis competat, videlicet quod significent aliqualiter omnino et eodem modo praecise et adaequate.
+Quavis non exerceat patet, nam istarum duarum propositionum "Omnis homo et cetera.", "Omnis asinus et cetera." signa universalia eadem officia exercent, non tamen supra consimilis terminos. Ac resolutorie, ad hoc quod sint synonyma categorica, oportet quod pars definitionis terminorum synonymum illis competat, videlicet quod significent aliqualiter omnino et eodem modo praecise et adaequate.
 
 ### Contra hoc arguitur: Bene sequitur ly 'omnis' significat; ergo significatum significat.
 
@@ -605,7 +607,83 @@ Patet consequentia ab activa ad passivam; sed falsitas consequentis patet quia s
 Ut non sequitur:
 > Obiectum facit intellectum advertere; ergo intellectum advertere fit ab obiecto. /11.1a/
 
+### Contra hanc solutionem arguitur: Haec est falsa "Ly 'omnis' significat aliqualiter"; ergo male dicis.
 
+Probatur antecedens: Illa est una propositio pure affirmativa, cuius praedicatum non supponit; ergo illa est falsa. Probatur antecedens quia ly 'significans aliqualiter' non supponit, quia determinatio haec 'aliqualiter' non supponit.
 
+### Ad hanc replicationem respondeo negando antecedens, et ad probationem nego iterum antecedens.
 
+Unde quamvis determinatio non supponat, totum bene potest supponere, quando determinatio est syncategorematica. Sed non oportet quod si ipsa non supponit, totum extremum non supponat, ut patet in hac "Sortes est omnis homo", in qua hoc totum 'omnis homo' potest supponere, et ly 'omnis' non potest supponere.
 
+## Circa dubium secundum motum iam fuit controversia inter multos.
+
+Aliqui namque dicerent significare aliqualiter omnem eum terminum, qui non potest esse extremum in propositione; sed hi non explicant quis sit modus significandi aliqualiter.
+
+Alii dicunt quod significare aliqualiter est exercere officium supra aliquem terminum in propositione, utputa confundendo, distribuendo, ampliando, restringendo, et cetera. Quae definitio de modo significandi aliqualiter simplici et non complexo intelligenda est. Et hoc modo non procedit ratio cuiusdam impugnantis definitionem illam de propositione, quae significat aliqualiter, propter quod dat hanc diffinitionem:
+> significare aliqualiter est significare rem taliter se habere vel esse, vel non taliter se habere.
+
+Sed haec diffinitio minus valet quam impugnata ab eo, quia modus hic significandi qualis in definitione explicatur, solum propositioni comperit. Praeterea sequitur ly 'omnis' non significare aliqualiter, nam non significat rem taliter se habere vel rem non taliter se habere, cum non significet rem.
+
+### Item videtur quod quicumque terminus categorematicus absolutus significaret aliqualiter:
+
+Nam quicumque terminus categorematicus absolutus significat rem, nec importat eam aliquo modo se habere, quare non significat rem non taliter se habere, nam termini absoluti eam absolute significant.
+
+### Si dicas quod non arguo ad rem, quia oportet ad hoc aliquis terminus significaret aliqualiter quod in significatione sua includatur modus ille significandi rei aliqualiter /11.1b/ se habentis vel non se habentis:
+
+Hoc nihil est, nam manifestum est ex hoc sequi solam propositionem eo modo rem aliqualiter se habere vel non se habere importare.
+
+Item ly 'currens' significat aliqualiter, nam significat rem aliqualiter se habere. Similiter ly 'sedens' et 'agens' et cetera.
+
+Aliter ergo definies hunc terminum 'significare aliqualiter' pro diffinitionem illam superius data.
+
+### Significare aliqualiter est exercere officium supra aliquem terminum, vel includere terminum tale officium potes exercere:
+
+Secundam hanc particula pono propter propositionem, de cuius significatione dicetur dubio tertio et vicesimo, et propter terminos includentes huiusmodi syncategoremata, ut ly 'omnis homo', 'homo vel asinus' et similes. Ly 'exercere' in definitione oportet ut dicat aptitudinem, sicut termini in definitionibus dicunt.
+
+## Contra quam diffinitionem est bona difficultas de signis particularibus, unde arguitur sic:
+
+In hac propositione "Aliquod animal currit" seu "Aliquis dormit", ly 'aliquod' syncategorema est, quare significat aliqualiter; et tamen non exercet officium supra aliquem terminum, nam maxime esset restringendo illum aut dando ei aliquam suppositionem. Sed ille terminus eodem modo et pro tot staret, syncategoremate illo ablato, sicut prius; ergo nec restringit nec novam ei praebet suppositionem.
+
+### Si forte dicas quod nisi ly 'aliquod' non faceret illum terminum 'animal' supponere determinate, tamen si aliunde non supponeret determinate faceret ipsum supponere determinate.
+
+### Hoc falsum est nam communis est modus dicendi signa particularia eodem modo permittere terminos quoad suppositionem:
+
+Sicut inveniunt, hoc est, nullam novam praebent suppositionem; ut patet quia in hac "Omnis homo est animal", ly 'animal' confuse supponit, et quando addideris ei aliquod sic dicendo "Omnis homo est aliquod animal", ly 'animal' confuse supponit; et propositio haec "Omnis homo est unus homo", "Omnis homo est aliquis homo", conceditur.
+
+### Dicet aliquis ad haec, ly 'aliquod' non exercere officium supra ly 'animal', sed super totam propositionem eam quantificando:
+
+Nam ablato ly 'aliquod', indefinita esset propositio remanens, et ratione eius tota fit particularis.
+
+### Hoc modo evitat difficultatem:
+
+Nam tunc summam hanc "Homo est aliquod animal /1.1b/ de qua nihil tale dicere poteris.
+
+--- I am here
+
+Apparenter credes dicere ly 'aliquod' officium determinationis habere, ideo exercet officium quod determinare vocamus.
+
+Contra hoc arguitur primo: nullus terminus habet alium determinare nisi eum restringat. Sed quidquid sit de hoc arguitur, sequitur quemcumque terminum categorematicum significare aliqualiter, sed hoc est falsum, ergo, et cetera. Sequela probatur: ly 'homo' significat aliqualiter, ergo etiam quicumque alius, cum non sit maior ratio de uno quam de alio. Antecedens probatur: in hac propositione "Animal homo currit", ly 'homo' rem, scilicet animal, determinat, ergo significat aliqualiter. Praeterea arguitur: terminus ille dicitur significare aliqualiter ratione cuius intellectus aliqualiter rem significatam per aliquam notitiam intelligit, qualiter illo secluso non intelligeret; sed hoc non convenit huic termino 'aliquis', ergo propositum.
+
+Ad hoc argumentum, stando in diffinitione data, difficile est dicere, quia non explicatur quis sit modus significandi signorum particularium, et qualiter intellectus per illos intelligat; quavis enim aliter diffinitio data, tota difficultas posset evitari supposita communi distinctione terminorum, quoniam syncategorematum quoddam est syncategorema officio, quoddam syncategorema significatione. Et supposito quod ly 'significare aliqualiter' potest capi dupliciter: uno modo large, et hoc modo diffinitum est, et secundum illam diffinitionem probatum est ly 'rexistens asinus' et similes significare aliqualiter; alio modo stricte, et hoc modo sic diffinitio.
+
+### Terminus significans aliqualiter est terminus syncategorematicus officio, potens exercere officium supra aliquem terminum, vel denotare rem aliqualiter se habere propositionaliter.
+
+Hoc ultimum addo propter propositionem, si enim significare aliqualiter concedamus; et secundum hoc solutum est argumentum, sed non plene, nam quavis dicamus terminos alios determinare, non tamen explicamus qualiter intellectus intellectus intelligit per ipsum.
+
+Pro cuius explanatione notandum est, quemadmodum intellectus non potest accipere termini categorematici aliquem in propositione copulative, nec confuse, nec copulatim, sine aliquo syncategoremate faciente intellectum taliter accipere. Simili modo non potest intelligere disiunctive fine syncategoremate. Et haec est significatio signi particularis in mente. Unde particulariter significare non est nisi facere intellectum rem significatam per notitiam, cuius terminus talis particularizans determinat, disiunctive intelligere; si neque tali signo vel sibi equivalenti intellectus non disiunctive intelligere res significatas per talem notitiam.
+
+Et si dicas: quomodo intellectus, quando accipit terminum communem sine signo, intelligit rem significatam per talem terminum, velut in hac "Homo est animal"?
+
+Ad hoc poteris dicere intellectum numquam sumere terminum in propositione sine signo, ut haec "Equus est album", huic subordinatur "Aliquis equus est aliquod album"; sed quia hoc est nimis durum.
+
+Dico sicut quidam, quod quando intellectus accipit sine signo notitiam aliquam, non intelligit res significatas per illum terminum copulative, nec disiunctive, nec disiunctim, nec copulatim, sed inconiunctim.
+
+Arguendo ex his, facilis potest elici diffinitio huius termini 'significare aliqualiter' hoc modo:
+
+### Terminus significans aliqualiter est syncategorematicus, cuius intellectus res significatas per notitiam, quam talis terminus determinat, aliquo modo intelligit, quomodo sine ipso non intelligeret; et in hoc consistit modus significandi aliqualiter.
+
+Si propositionem lubet addere, adiice particulam ad ipsam includendum. Quidam dicunt significare particulariter esse denotare terminum accipi quodammodo discrete pro aliquo determinado suo supposito, sed quis sit ille modus discretus non declarat, nam clarum est non esse singularizare particulariter, quia particularis reddit ut propositionem particularem, nam haec "Sortes est aliquod animal" non redditur ratione illius signi particularis; quare in solutione et diffinitione iam ultimo data huius termini 'significare aliqualiter' sto.
+
+## Sed contra diffinitionem positam huius termini 'significare aliqualiter' arguitur, tangendo difficultatem de pronominibus demonstrativis.
+
+Ex diffinitione sequeretur pronomen demonstrativum, ut 'hoc', esse syncategorematicum pure, et significare aliqualiter; hoc est falsum, ergo, et cetera. Sequela magis...

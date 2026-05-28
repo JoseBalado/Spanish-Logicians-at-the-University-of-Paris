@@ -5,7 +5,7 @@
 
 Insert page markers **inline within the sentence**, exactly where the column break occurs in the original — not at the start of a new paragraph.
 
-The text flows continuously. When a new column begins (/9.1b/, /9.2a/ etc.):
+The text flows continuously. When a new column begins (/9.1b/, /9.2a/ et cetera.):
 - Insert the folio marker inline
 - Continue the sentence without a paragraph break
 - Do NOT treat the column break as a new paragraph
@@ -71,6 +71,7 @@ These specific expansions were confirmed or corrected:
 
 | Original form | Correct expansion |
 |---|---|
+| `eā` | `eam` |
 | `volitatis` | `volitatis` — check carefully against context |
 | `fallumanic` | `falsum` (misread) |
 | `nouam` | normalize to `novam` |
@@ -90,9 +91,12 @@ These specific expansions were confirmed or corrected:
 | `sincathegoreuumata` | `syncategoremata` |
 | `sincathegoreumaticum` | `syncategorematicum` |
 | `cathegoreice` | `categoricae` |
+| `diffinitio` | `definitio` |
+| `diffinitione` | `definitione` |
 | `ypothetice` | `hypotheticae` |
 | `qp` | `quod` |
 | `7` | `et` |
+| `7c` | `et cetera` |
 | `9` suffix | `us` (e.g., `corp9` → `corpus`) |
 | `ergo` | `ergo` (do not alter) |
 | `atq3` | `atque` |
@@ -159,7 +163,26 @@ The text uses two distinct sizes of ¶ that signal different structural levels:
 - **Small ¶** — marks individual subordinate items within a section, such as numbered *difficultates*. Each small ¶ renders as a `###` heading containing the full question, followed by any continuation prose as a plain paragraph.
   - Example: `### Difficultas prima ergo erit: Utrum actu syncategorematici dicantur immutare intellectum.`
 
-**Important:** The `###` heading contains the full statement of the *difficultas* as a question. Continuation prose (e.g., further elaboration or the answer) follows as a plain paragraph beneath it, not as part of the heading.
+## Pilcrow (¶) Size Hierarchy & Heading Layout
+
+Do NOT force a long historical sentence entirely into a heading if it compromises readability. However, you must remain flexible: if a sentence is easy to split, isolate the core thesis as a short title line. If splitting feels forced or clunky, leave the entire sentence inside the heading. 
+
+- **Large ¶ (`##` Heading):** 
+  Marks a major section opener or a new argumentative block. Render as a `##` heading, shortening the text to a punchy title line that captures the main theme. End with a period or no punctuation.
+  - **Example:** `## Circa igitur opinionem hanc ponentem syncategorema in anima nihil significare.`
+
+- **Small ¶ (`###` Heading):** 
+  Marks individual subordinate items, objections, or localized *difficultates*. 
+  - **Action:** Render as a `###` heading containing the core question or logical claim.
+  - **The Trailing Colon Anchor:** Always end the `###` line with a trailing colon (`:`). Drop down a line, and begin the main explanatory body as a new, capitalized paragraph.
+  - **Example:**
+    ### Item videtur quod quicumque terminus categorematicus absolutus significaret aliqualiter:
+    
+    Nam quicumque terminus categorematicus absolutus significat rem, nec importat eam aliquo modo se habere...
+
+- **Strict Philological Preservation Rule:** 
+  **NEVER alter the original words, inflections, or word order to force a text segment into a heading style.** Do not swap words around to sound like a modern title, and do not omit inline particles. Every word from the original source must be preserved in its exact historical sequence, whether kept fully inline or split across a paragraph line break.
+
 
 **Correct:**
 ```markdown
@@ -204,6 +227,6 @@ These are invisible on the rendered GitHub Pages site.
 - **Read slowly** — many errors come from reading too fast and pattern-matching to common words
 - **Check word endings** — Latin inflections are critical for meaning; `-am`, `-um`, `-em` are not interchangeable; `ab` always governs the ablative (never accusative)
 - **No inventions** — if a word is illegible, use `<!-- illegible -->` rather than guessing
-- **Diphthongs** — always restore `ae` where the original has `e` in classical Latin words (`synonymae`, `primae`, `consequentiae`, etc.)
+- **Diphthongs** — always restore `ae` where the original has `e` in classical Latin words (`synonymae`, `primae`, `consequentiae`, et cetera.)
 - **Paragraph count** — verify the same number of paragraphs appear in transcription as in the source column
 - **`ab` governs ablative** — if an expansion after `ab` yields an accusative form, the reading is wrong; re-examine the image

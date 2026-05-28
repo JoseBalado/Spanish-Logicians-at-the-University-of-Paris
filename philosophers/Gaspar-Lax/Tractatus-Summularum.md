@@ -55,7 +55,7 @@ Ad bonam definitionem requiritur quod aliquid ponatur communius definito quod su
 
 Ex ipsa sequitur quod nullus terminus qui non habet genus supra se seu terminum communiorem ipso potest definiri, sed hoc est falsum; igitur quod sequatur notum est et falsitas consequentis probatur, quia Philosophus definit illum terminum 'qualitas' in praedicamentis qui non habet genus supra se, nec terminum communiorem, saltem tenendo quod ly 'ens' non univoce dicatur de substantia et qualitate.
 
-Item sequitur quod ly quantitas discreta non bene definietur sic: "Est quantitas cuius partes non copulantur" etc. Sed hoc est contra communem modum loquendi; igitur quod tamen sequatur patet quia in illa definitione non ponitur terminus magis communis quam illud definitum.
+Item sequitur quod ly quantitas discreta non bene definietur sic: "Est quantitas cuius partes non copulantur" et cetera. Sed hoc est contra communem modum loquendi; igitur quod tamen sequatur patet quia in illa definitione non ponitur terminus magis communis quam illud definitum.
 
 ### Forte dices quod
 
@@ -105,7 +105,7 @@ Contra hoc arguitur: Ly 'homo' significatur proprie per definitum propinquum de 
 
 Item: Contra solutionem quia terminus praecise improprie significans aliqua significata, potest definiri secundum talem significationem impropriam quemadmodum contingit de isto termino vocali 'homo' secundum significationem secundum quam significat seipsum et omnia naturaliter similia ipsi et aliquod erit definitum remotum respectu illius definitiones, et tamen non significabitur proprie per definitum propinquum; ergo solutio nulla.
 
-Forte dices aliter propter istas duas replicas, ut puta, quod nec ad definitum remotum requiritur quod proprie significetur per definitum propinquum /13b/ nec illud sufficit, sed requiritur et sufficit quod significetur per definitum propinquum secundum significationem secundum quam est definitum propinquum etc.
+Forte dices aliter propter istas duas replicas, ut puta, quod nec ad definitum remotum requiritur quod proprie significetur per definitum propinquum /13b/ nec illud sufficit, sed requiritur et sufficit quod significetur per definitum propinquum secundum significationem secundum quam est definitum propinquum et cetera.
 
 Contra istam solutionem arguitur primo: Probando quod ad definitum remotum alicuius definitionis requiratur quod proprie significetur per definitum propinquum illius definitionis, quia si oppositum contingeret maxime contingeret definiendo ly 'homo' secundum significationem impropriam secundum quam significat se et omnia naturaliter sibi similia sed hoc non; igitur consequentia tenet cum maiori et minor. Probatur quia tunc quodlibet definitum remotum illius definitiones proprie significabitur per definitum propinquum ipsius; igitur antecedens patet quia tunc proprie significabitur per conceptum cui subordinatur ly 'homo' secundum illam significationem secundum quam definitur, et ille conceptus est definitum propinquum illius definitionis secundum talem significationem ex quod est synonymus, secundum illam cum ly 'homo' igitur.
 
@@ -115,11 +115,11 @@ Contra istam solutionem arguitur: Quia quando nullus talis conceptus est, nullum
 
 Forte dices concedendo quod nihil significabitur actu per definitum propinquum illius definitionis, sed aliquid significabitur in potentia propinqua per definitum propinquum illius quod sufficit ad hoc, ut sit definitum remotum. Unde licet tunc non esset aliquis conceptus cui ly 'homo' subordinetur in significando, tamen adhuc esset concedendum quod in potenti propinqua significa illo modo.
 
-Contra solutionem arguitur: Ex ipsa sequitur quod in illo casu conceptus qui non est significat in potentia propinqua, et per consequens aliquid significabitur in potentia propinqua proprie per definitum propinquum illius definitionis, quod repugnat dictis. Quod sequatur illud patet quia tunc ly 'homo' in potentia propinqua significat illo modo etc; ergo in potentia propinqua significat illo modo mediate aliquo conceptu. Ex consequenti sequitur quod ly 'homo' in potentia propinqua est synonymum alicui conceptui secundum illam significationem, et ex hoc sequitur quod aliquis conceptus in potentia propinqua, secundum talem significationem, est synonymus cum ly 'homo', ex quo iterum sequitur quod aliquis conceptus in potentia propinqua significat illo modo, igitur.
+Contra solutionem arguitur: Ex ipsa sequitur quod in illo casu conceptus qui non est significat in potentia propinqua, et per consequens aliquid significabitur in potentia propinqua proprie per definitum propinquum illius definitionis, quod repugnat dictis. Quod sequatur illud patet quia tunc ly 'homo' in potentia propinqua significat illo modo et cetera; ergo in potentia propinqua significat illo modo mediate aliquo conceptu. Ex consequenti sequitur quod ly 'homo' in potentia propinqua est synonymum alicui conceptui secundum illam significationem, et ex hoc sequitur quod aliquis conceptus in potentia propinqua, secundum talem significationem, est synonymus cum ly 'homo', ex quo iterum sequitur quod aliquis conceptus in potentia propinqua significat illo modo, igitur.
 
 Item: Contra eandem solutionem ex ipsa sequitur insufficientia tertia definitionis. Hoc patet quia positio quod ly 'animal rationale' sit et significet et non sit aliquod definitum propinquum illius definitionis, tunc quilibet homo erit definitum de ly 'animal rationale' et tamen nullus homo tunc significabitur per definitum propinquum illius definitionis in potentia propinqua, quia dato opposito huius aliquid significaretur in potentia propinqua per conceptum cui potest subordinari ly 'homo' in casu praecedentis replicae.
 
-Praeterea arguitur probando quod ad definitum remotum non requiratur et sufficiat quod significetur per definitum propinquum secundum illam significationem, etc. Quia dato huius opposito sequitur quod albedo est definitum remotum definitionis de ly 'album' qui est ly 'res habens albedinem'. Sed hoc est falsum, igitur falsitas consequentis est manifesta, quod sequatur patet quia albedo proprie significatur per ly 'album' secundum significationem secundum quam est definitum propinquum illius definitionis.
+Praeterea arguitur probando quod ad definitum remotum non requiratur et sufficiat quod significetur per definitum propinquum secundum illam significationem, et cetera. Quia dato huius opposito sequitur quod albedo est definitum remotum definitionis de ly 'album' qui est ly 'res habens albedinem'. Sed hoc est falsum, igitur falsitas consequentis est manifesta, quod sequatur patet quia albedo proprie significatur per ly 'album' secundum significationem secundum quam est definitum propinquum illius definitionis.
 
 Pro his difficultatibus pono propositiones:
 
@@ -129,9 +129,9 @@ Secunda: Possibile est quod aliquid significetur in potentia propinqua per defin
 
 Tertia: Licet ly 'animal rationale' possit esse et significare suo modo absque hoc quod sit aliquod definitum propinquum ipsius secundum suam significationem, et ly 'homo' possit esse et significare suo modo absque hoc quod sit aliqua definitio eius, tamen non poterit ly 'animal rationale' esse definitio absque hoc quod eius definitum propinquum sit, nec poterit ly 'homo' esse definitum propinquum aut remotum nisi actualiter sit definitio respectu cuius dicatur definitum propinquum vel remotum. Et per hoc apparet solutio ad illam replicam in qua niteris probare insufficientiam tertiae definitionis, unde negandum est quod dato illo casu quod, quilibet homo sit definitum remotum de ly 'animal rationale', quia tunc ly 'animal rationale' non es definitio ex quod nullum est tunc definitum propinquum ipsius. Verum est tamen quod bene posset esse ly 'animal rationale' definitio absque hoc quod esset aliquod definitum remotum illius.
 
-Quarta: Ad hoc quod aliquod sit definitum remotum alicuius definitionis non sufficit quod significetur per definitum propinquum secundum illam significationem etc. Sed requiritur et sufficit quod de significato materiali significetur per definitum propinquum illius definitionis secundum significationem etc. Prima pars patet de albedine respectu definitionis de ly 'album', et secunda patet ex communi usu. Et per hoc patet solutio ad ultimam replicam. Ex his igitur patet plenaria intellectio tertiae definitionis, sic enim intelligenda est in toto rigore: Definitum remotum alicuius definitionis est res significata, de significato materiali, per definitum propinquum illius definitionis, secundum significationem secundum quam est definitum propinquum illius definitionis.
+Quarta: Ad hoc quod aliquod sit definitum remotum alicuius definitionis non sufficit quod significetur per definitum propinquum secundum illam significationem et cetera. Sed requiritur et sufficit quod de significato materiali significetur per definitum propinquum illius definitionis secundum significationem et cetera. Prima pars patet de albedine respectu definitionis de ly 'album', et secunda patet ex communi usu. Et per hoc patet solutio ad ultimam replicam. Ex his igitur patet plenaria intellectio tertiae definitionis, sic enim intelligenda est in toto rigore: Definitum remotum alicuius definitionis est res significata, de significato materiali, per definitum propinquum illius definitionis, secundum significationem secundum quam est definitum propinquum illius definitionis.
 
-Ex his patet solutio ad omnia quae tacta sunt inter arguendum, dempta illa replica per quam niteris probare quod ad hoc quod aliquod sit definitum remotum alicuius definitionis requiratur quod significetur proprie per definitum propinquum. Ad quam patet illic solutio usque ad replicam ultimam, ad quam nego antecedens, et ad probationem nego penultimam consequentiam in qua infers quod aliquis conceptus in potentia propinqua secundum talem significationem sit synonymus cum ly 'homo' etc.
+Ex his patet solutio ad omnia quae tacta sunt inter arguendum, dempta illa replica per quam niteris probare quod ad hoc quod aliquod sit definitum remotum alicuius definitionis requiratur quod significetur proprie per definitum propinquum. Ad quam patet illic solutio usque ad replicam ultimam, ad quam nego antecedens, et ad probationem nego penultimam consequentiam in qua infers quod aliquis conceptus in potentia propinqua secundum talem significationem sit synonymus cum ly 'homo' et cetera.
 
 ### Praeterea arguitur contra ultimam definitionem
 
@@ -139,11 +139,11 @@ Ex ipsa sequitur quod alicuius definitionis aliquod est definitum remotum et ill
 
 Tunc sic: Huius definitionis aliquod est definitum remotum et illud idem non est definitum remotum illius; igitur prima pars antecedentis patet, quia dato eius apposito, tunc definitum propinquum illius definitionis non significaret aliquid vel aliqua, quod est falsum, quia quando nullum est definitum propinquum nec est aliqua definitio de quolibet, verum est dicere quod est non definitum remotum alicuius definitionis.
 
-Secunda pars antecedentis probatur quia sit 'a' quodcumque definitum remotum illius, tunc sequitur quod 'a' significatur per definitum propinquum eius secundum significationem etc. Sed definitum propinquum eius est ly 'non definitum remotum', quod praecise significat non definitum remotum illius seu aliquid quod non est definitum remotum illius; ergo 'a' est non definitum remotum illius.
+Secunda pars antecedentis probatur quia sit 'a' quodcumque definitum remotum illius, tunc sequitur quod 'a' significatur per definitum propinquum eius secundum significationem et cetera. Sed definitum propinquum eius est ly 'non definitum remotum', quod praecise significat non definitum remotum illius seu aliquid quod non est definitum remotum illius; ergo 'a' est non definitum remotum illius.
 
 ### Pro solutione huius argumenti pono propositiones
 
-Prima: Data definitione de ly 'non definitum remotum', quaelibet res est definitum remotum illius. Propositio /14b/ patet quia quaelibet res significatur de significato materiali per definitum propinquum illius secundum significationem etc, quia si non sit definitio aut definitum propinquum de qualibet rem, verum est dicere quod est non definitum remotum.
+Prima: Data definitione de ly 'non definitum remotum', quaelibet res est definitum remotum illius. Propositio /14b/ patet quia quaelibet res significatur de significato materiali per definitum propinquum illius secundum significationem et cetera, quia si non sit definitio aut definitum propinquum de qualibet rem, verum est dicere quod est non definitum remotum.
 
 Secunda: Definitum propinquum illius definitionis non praecise significat non definitum remotum eius, aut aliquid quod non est definitum remotum eius, immo quidquid significat illud definitum propinquum, est definitum remotum illius definitionis, utraque pars ex praecedenti apparet.
 
@@ -173,7 +173,7 @@ Ex praedictis patet quod licet interdum definitio convertatur cum suo definito r
 
 Hic dubitatur an terminus qui non potest alicui convenire secundum talem significationem, possit definiri. Et ratio dubitationis est quia videtur ex una parte quod sic natura ly 'Chimaera', ly 'vacuum' et et ly 'hircocervus' solent definiri, et illi /15a/ sunt huiusmodi saltem procedendo naturaliter. Ly 'vacuum' est huiusmodi et alii qualitercumque procedatur.
 
-Ex altera autem parte videtur quod non, quia sic tunc indifferenter definitio de ly 'Chimaera' posset esse definitio de ly 'vacuum', et definitio de ly 'hircocervus' etc.
+Ex altera autem parte videtur quod non, quia sic tunc indifferenter definitio de ly 'Chimaera' posset esse definitio de ly 'vacuum', et definitio de ly 'hircocervus' et cetera.
 
 Ad hanc dubitationem posset uno modo responderi negative. Et ad communem modum qui definit huiusmodi terminos, diceretur quod ille non sunt distinctiones, sed sunt quaedam orationes per quas notificantur significatione et connotationes talium terminorum, et communis modus non intendit per illud definire tales terminos, sed assignare tales orationes.
 
@@ -249,9 +249,9 @@ Ex quo patet quod esto quod non sit aliquod animal nisi homo vel asinus, ista di
 
 Et tamen ly 'animal' convenit alicui cui nullum membrorum dividentium convenit; igitur consequentia tenet cum maiori. Minor patet quia de pronomine demonstrantem unum hominem et unum asinum, verum est dicere quod sunt animalia, quare illis animalibus convenit divisum et tamen nullum membrorum dividentium convenit illis, igitur.
 
-Forte dices negando minorem, et ad probationem dices quod verum est quod terminus pluralis numeri illius divisi convenit alicui cui nullum membrorum dividentium convenit, non tamen divisum convenit alicui etc, quia refert loqui de illo diviso et de plurali eius.
+Forte dices negando minorem, et ad probationem dices quod verum est quod terminus pluralis numeri illius divisi convenit alicui cui nullum membrorum dividentium convenit, non tamen divisum convenit alicui et cetera, quia refert loqui de illo diviso et de plurali eius.
 
-Alii aliter dicunt ad hoc et in idem redit si eorum intentio sane intelligatur, videlicet, quod non inconvenit quod divisum in plurali numero convenit alicui cui nullum membrorum dividentium convenit, sed inconvenit quod in singulari numero conveniat divisum alicui etc.
+Alii aliter dicunt ad hoc et in idem redit si eorum intentio sane intelligatur, videlicet, quod non inconvenit quod divisum in plurali numero convenit alicui cui nullum membrorum dividentium convenit, sed inconvenit quod in singulari numero conveniat divisum alicui et cetera.
 
 Et si contra hoc arguas ponendo quod ad bonam divisionem requiratur quod non sit possibile quod divisum in singulari vel plurali conveniat alicui quin aliquod membrorum dividentium conveniat eidem, tunc redibit difficultas.
 
@@ -281,7 +281,7 @@ Item de isto termino 'homo vel asinus' distributive capto verificatur illud divi
 
 Si forte dicas propter ista quod non est universaliter servanda ista conditio, sed loco istius et loco primae potest poni una quae istas duas comprehendet et erit haec quod disiunctum ex membris dividentibus convertatur cum diviso. Sed contra hoc potest argui de divisione aequivoci in sua aequivocata, ubi non servatur illa conditio.
 
-Quidquid ergo sit de ista conditione contra quam haec ultima replica procedit inferius videbitur tenendo tamen secundam conditionem pro illis duabus replicis penultimis potest dici quod quum dicitur in secunda conditione, quod non sit possibile etc.
+Quidquid ergo sit de ista conditione contra quam haec ultima replica procedit inferius videbitur tenendo tamen secundam conditionem pro illis duabus replicis penultimis potest dici quod quum dicitur in secunda conditione, quod non sit possibile et cetera.
 
 Intelligendum est per conveniere supponere et tunc nihil habebitur ex his contra conditionem, quia ex ipsis non sequitur quod pro aliquo supponat divisum pro quo nullum membrorum dividentium supponit. Si tamen per convenire intelligatur verificari de aliquo termino, prima istarum replicarum concluderet intentum. Puta quod non oportet universaliter illam conditionem servare et esset instantia in proposito. Sed secunda replica adhuc non concluderet, quia licet per illam probetur quod de aliquo termino aliquo modo se habente verificetur divisum, et nullum membrorum dividentium verificetur de illo taliter se habente, non tamen ex illo sequitur quod de aliquo verificetur divisum de quo nullum membrorum dividentium verificatur.
 
@@ -391,7 +391,7 @@ Definitur illic terminus mentalis, et tamquam definitum propinquum definitur ill
 
 Sed ad hunc sensum quod tamquam definitum propinquum definitur illic aliquis terminus qui est terminus mentalis, et tamquam definitum propinquum definitur aliquis qui est vocalis et ita de aliis membris, et illae partes verificabuntur pro quattuor terminis quorum quilibet est synonymus cum ly 'terminus' et primus est mentalis, secundus vocalis, tertius scriptus et quartus mixtus.
 
-Utrum tamen aliquis synonymus cum ly 'terminus' aut aliquis alius incomplexus possit esse mixtus ex mentali, vocali et scripto, aut ex quibuscumque duobus illorum videbitur inferius, ubi tangetur prima divisio termini. Et ad illud quod tangis quod non definiatur ibi terminus scriptus, quia dato eius opposito etc.
+Utrum tamen aliquis synonymus cum ly 'terminus' aut aliquis alius incomplexus possit esse mixtus ex mentali, vocali et scripto, aut ex quibuscumque duobus illorum videbitur inferius, ubi tangetur prima divisio termini. Et ad illud quod tangis quod non definiatur ibi terminus scriptus, quia dato eius opposito et cetera.
 
 Nego illam sequelam, et ad probationem nego antecedens, et ad probationem, concessa maiore, nego minorem. Et ad probationem, concessa maiore, distinguo minorem, quia vel capis illam in illo sensu videt quod definitum est talis terminus 'terminus scriptus', et tunc bene valebit consequentia et minor est neganda.
 
@@ -443,7 +443,7 @@ Et ita dicendo etiam, potest concedi quod aliquis terminus potest esse in aliquo
 
 Unde ad primam replicam dico quod verum est quod illa esset concedenda copula uniente pro tempore, nisi in ipsa subintelligeretur ly 'adaequate".
 
-Ad secundam replicam dico quod si capiatur illa in sensu in quo concedi debet replica, non procedit contra dicta. Si autem capiatur alio modo probatio non procedit et nego quod in illa ipsius aliqua pars non potest proferri ly 'aliqua pars', supponat pro aliqua parte etc, quantumcunque copula uniat illic pro tempore, unde ad hoc, ut supponat illic pro illa copula uniente pro tempore, requiritur quod possit esse pars illius in aliquo tempore adaequate, prout ex processu apparet.
+Ad secundam replicam dico quod si capiatur illa in sensu in quo concedi debet replica, non procedit contra dicta. Si autem capiatur alio modo probatio non procedit et nego quod in illa ipsius aliqua pars non potest proferri ly 'aliqua pars', supponat pro aliqua parte et cetera, quantumcunque copula uniat illic pro tempore, unde ad hoc, ut supponat illic pro illa copula uniente pro tempore, requiritur quod possit esse pars illius in aliquo tempore adaequate, prout ex processu apparet.
 
 ### Tertio arguitur: Iste terminus 'homo' scriptus in libro clauso ad quem nullus advertit, est terminus, tamen non est signum ponibile in propositione
 
@@ -538,7 +538,7 @@ Ad hoc dicendum est quod tunc non significaret virtute talis impositionis, sed v
 
 Si autem non requiratur illud ad veritatem illius, sed satis sit quod secundum illam impositionem et significationem significet aliquod modo, et possit poni in propositione, significando mediante eodem termino mentali mediante quo significat sive hoc sit secundum impositionem, sive secundum aliam, et tunc concedenda est.
 
-Et etiam potest potest distingui ista, ly 'a' est signum ponibile in propositione secundum illam impositionem et significationem, ita ut in uno sensu ponatur falsa, et in alio vera. Verum est tamen esto quod nullus sensus verus poneretur in illa, nihil haberetur prout apparebit ex processu, et ideo posset bene concedi maior et minor argumenti. Capiendo maiorem in secundo sensu et tunc consequentia non valeret, et ad probationem dicendum est quod non inconvenit quod definitum cum aliquo addito verificetur de aliquo, et definitio cum eodem addito non verificetur de eodem quando illud additum, cum tali definitione, causat aliquam appellationem, ratione cuius illud definitum non verificatur cum tali addito de illo supposito, et cum definito non causat talem appellationem etc. Et ex hoc non sequitur quod definitio non convertatur cum definitio. Si tamen capias maiorem in primo sensu debet negari.
+Et etiam potest potest distingui ista, ly 'a' est signum ponibile in propositione secundum illam impositionem et significationem, ita ut in uno sensu ponatur falsa, et in alio vera. Verum est tamen esto quod nullus sensus verus poneretur in illa, nihil haberetur prout apparebit ex processu, et ideo posset bene concedi maior et minor argumenti. Capiendo maiorem in secundo sensu et tunc consequentia non valeret, et ad probationem dicendum est quod non inconvenit quod definitum cum aliquo addito verificetur de aliquo, et definitio cum eodem addito non verificetur de eodem quando illud additum, cum tali definitione, causat aliquam appellationem, ratione cuius illud definitum non verificatur cum tali addito de illo supposito, et cum definito non causat talem appellationem et cetera. Et ex hoc non sequitur quod definitio non convertatur cum definitio. Si tamen capias maiorem in primo sensu debet negari.
 
 Ex his patet quod quantumcumque nullus sensus verus ponatur in illa minori, adhuc argumentum non procederet.
 
@@ -570,7 +570,7 @@ Quia vel capitur in hoc sensu aliquid quod non est terminus est signum ponibile 
 
 Sub aliis verbis possent poni distinctiones maioris et minoris, ut puta distinguendo quamlibet illarum penes suppositionem materialem subiecti, et penes personalem. Sed in idem redit et iste non essent adeo faciles inchoantibus summulistis, sicut ille propter illa quae in his praesupponuntur de suppositione materiali et personali, proportionabiliter dicendum est ad alia duo quae tangis.
 
-Ad confirmationem argumenti distinguenda est illa maior, quae vel capis ly 'a' in illa secundum significationem ad quam imponitur ita quod sensus sit quod "aliquid quod non est signum ponibile in propositione" etc, sic illa est falsa nec in illo sensu probabitur in confirmatione. Vel capis ly 'a' in illo secundum significationem secundum quam significat tales litteras 'a', ita quod sensus sit quod talis littera 'a' est signum ponibile in propositione, et sic est concedenda et tunc consequentia non valet. Vel secundum secundam, et sic est neganda nec in illo sensu probatur.
+Ad confirmationem argumenti distinguenda est illa maior, quae vel capis ly 'a' in illa secundum significationem ad quam imponitur ita quod sensus sit quod "aliquid quod non est signum ponibile in propositione" et cetera, sic illa est falsa nec in illo sensu probabitur in confirmatione. Vel capis ly 'a' in illo secundum significationem secundum quam significat tales litteras 'a', ita quod sensus sit quod talis littera 'a' est signum ponibile in propositione, et sic est concedenda et tunc consequentia non valet. Vel secundum secundam, et sic est neganda nec in illo sensu probatur.
 
 Etiam posset distingui illa maior et illa minor, et penes suppositiones materiales et personales illorum terminorum.
 
@@ -634,7 +634,7 @@ Contra hanc solutionem potest arguit omnino sicut statim et rectius duceretur ar
 
 Et ideo sicut tactum, est rectius ducerentur argumentum, et confirmatio contra definitionem termini proprie aut eo modo quo in relica argumenti deducitur ipsius. Igitur decutis illo modo aut contra definitionem termini proprii.
 
-Et tota difficultas argumenti in hoc consistit, videlicet, an ly 'utrum' possit poni in propositione secundum illam significationem etc.
+Et tota difficultas argumenti in hoc consistit, videlicet, an ly 'utrum' possit poni in propositione secundum illam significationem et cetera.
 
 Tota autem difficultas confirmationis in hoc an illa oratio imperativi modi, secundum illam significationem, possit poni in propositione. Et ad istas dubitationes respondeo affirmative, et primo de ly 'utrum' patet in hac propositione "Ego sum quaerens utrum Sortes currit", in quae ly 'utrum' est pars praedicati et capitur significative de oratione.
 
@@ -753,7 +753,7 @@ Primo de significare proprie et secundario de significare naturaliter communiter
 
 Et si petas quid sit repraesentare, videtur enim ly 'repraesentare' esse terminus ad eo ignotus sicut ly 'significare'. Ad hoc solet dici quod repraesentare est facere cognoscere aliquid vel aliqua vel aliqualiter. Et si fiat argumentum quia tunc quilibet qui docet aliquem repraesentaret illi illud quod doceret, quod videtur falsum, et eodem modo posset fieri argumentum si dicatur quod repraesentare est movere potentiam cognitivam ad cognoscendum aliquid vel aliqua vel aliqualiter, quid idem videtur sequi ex illo.
 
-Pro ista difficultate est advertendum quod ad hoc quod aliquid repraesentet loquendo eo modo quo in proposito requiritur quod mediante seipso solo faciat potentiam cognitivam cognoscere aliquid vel aliqua vel aliqualiter, vel quod immediate mediante aliquo termino qui mediante se solo facit potentiam cognitivam etc, faciat ipsam potentiam cognitivam cognoscere aliquid vel aliqua vel aliqualiter.
+Pro ista difficultate est advertendum quod ad hoc quod aliquid repraesentet loquendo eo modo quo in proposito requiritur quod mediante seipso solo faciat potentiam cognitivam cognoscere aliquid vel aliqua vel aliqualiter, vel quod immediate mediante aliquo termino qui mediante se solo facit potentiam cognitivam et cetera, faciat ipsam potentiam cognitivam cognoscere aliquid vel aliqua vel aliqualiter.
 
 Primum dicitur propter terminos mentales qui naturaliter proprie mediantibus seipsis repraesentant.
 
@@ -827,7 +827,7 @@ Similiter potest arguit de termino quem audis cuius significationem es oblitus c
 
 ### Ad argumentum responsum est usque ad replicam quam nego antecedens, et ad probationem, dato illo termino nego minorem, et ad probationem nego antecedens
 
-Et ad probationem dato eius opposito et signato 'a' supposito, dico quod 'a' est aliquid quod repraesentatur per illum terminum, et ad reprobationem huius nego sequelam /25b/, et ad probationem nego quod solum significet illud quod non repraesentatur etc.
+Et ad probationem dato eius opposito et signato 'a' supposito, dico quod 'a' est aliquid quod repraesentatur per illum terminum, et ad reprobationem huius nego sequelam /25b/, et ad probationem nego quod solum significet illud quod non repraesentatur et cetera.
 
 Immo solum significat id quod repraesentatur potentiae cognitivae per ipsum, licet significet quidquid significat, connotando quod iam non repraesentatur potentiae cognitivae per illum terminum.
 
@@ -1016,7 +1016,7 @@ Cum sola ampliatione ad quattuor bene est concedendum, et ad proportionabiles se
 
 Et si arguas ad huc contra dicta, quia ex ipsis sequitur quod possimus habere conceptum Chimaera, sed hoc est falsum, quia non videtur quomodo et a quo possumus causare illum conceptum.
 
-Ad hoc dico quod potest causari hoc modo: Primo habemus conceptum draconis, secundo conceptum ventris mulieris, tertio conceptum caudae bovis, etc, quibus habitis imaginamur res significatas per illos conceptus, unum compositu facere, et sic imaginando formamus unum conceptum distinctum ab illis praehabitis qui illud compositum imaginatum, et quidquid imaginarie est illud significat, connotando quod ex rebus significatis per illos conceptus praehabitos componatur.
+Ad hoc dico quod potest causari hoc modo: Primo habemus conceptum draconis, secundo conceptum ventris mulieris, tertio conceptum caudae bovis, et cetera, quibus habitis imaginamur res significatas per illos conceptus, unum compositu facere, et sic imaginando formamus unum conceptum distinctum ab illis praehabitis qui illud compositum imaginatum, et quidquid imaginarie est illud significat, connotando quod ex rebus significatis per illos conceptus praehabitos componatur.
 
 Ex quo patet primo quod non omen conceptum Chimaera esse complexum.
 
@@ -1038,7 +1038,7 @@ Antecedens patet quia iste terminus scriptus 'homo' significat se et \'omnes hom
 
 Forte dices distinguendo antecedens, quia vel intelligis quod aliquis terminus secundum unam significationem significet aliqua, et non naturaliter nec ad placitum, et tunc nego illud. Nec illa probatio quam tangis probat ipsum in hoc sensu.
 
-Si autem intelligas quod aliquis terminus secundum unam vel diversas significationes significet aliqua etc, concedo illud. Sed ex illo non sequitur malitia divisionis, quia divisio procedit de significare secundum unam significationem.
+Si autem intelligas quod aliquis terminus secundum unam vel diversas significationes significet aliqua et cetera, concedo illud. Sed ex illo non sequitur malitia divisionis, quia divisio procedit de significare secundum unam significationem.
 
 Contra solutionem arguitur: Aliquis terminus significat aliquid secundum unam significationem, et non significat illud naturaliter nec ad placitum, igitur.
 
@@ -1210,9 +1210,9 @@ Primo modo: Ad hunc sensum quod talis terminus desinat actualiter significare il
 
 Secundo modo: Ad hunc sensum quod talis terminus desinat significare in potentia propinqua illo modo, vel sit possibile quod desinat in potentia propinqua significare illo modo.
 
-Tertio modo: Ad hunc sensum quod maneat et desinat significare in potentia propinqua illo modo vel sit possibile quod maneat et desinat significare, etc.
+Tertio modo: Ad hunc sensum quod maneat et desinat significare in potentia propinqua illo modo vel sit possibile quod maneat et desinat significare, et cetera.
 
-Quarto modo: Ad hunc sentum quod maneat et apprehendatur a tali potentia cui potest significatur illo modo, simili modo sicut apprehenditur ab illa quando significat sibi illo modo, et non significet in potentia propinqua vel sit illud possibile, etc.
+Quarto modo: Ad hunc sentum quod maneat et apprehendatur a tali potentia cui potest significatur illo modo, simili modo sicut apprehenditur ab illa quando significat sibi illo modo, et non significet in potentia propinqua vel sit illud possibile, et cetera.
 
 Tunc pono propositiones:
 
@@ -1222,7 +1222,7 @@ Tunc pono propositiones:
 
 Sed si petas de veritate istius: "aliquis terminus potest cadere a significatione naturali", potest dici quod ex quo in illa ly 'significatione naturali' quodam modo distribuitur, licet posset proportionabiliter concedi ad primos duos sensus, tamen non debet concedi in proportionabili sensu ad tertium vel quartum. De quarto non est quaestio et de tertio patet quia non est possibile quod aliquid sit quin in potentia propinqua significet se naturaliter communiter.
 
-Et si instes contra secundam propositionem quia notitia quam iste habet de Sorte, per hoc quod ponatur in lapide, non cadit a significatione naturali secundum quam significat Sortem; ergo secunda propositio est falsa. Consequentia tenet quia non posset illa verificari nisi in illo casu, et antecedens patet, quia ipsa existente in lapide et non manente in anima, adhuc potentia propinqua significat Sortem naturaliter proprie; igitur antecedens patet, qua potest significare Sortem naturaliter proprie absque mutationem per quam fiet impositio, et est ergo in potentia propinqua, etc.
+Et si instes contra secundam propositionem quia notitia quam iste habet de Sorte, per hoc quod ponatur in lapide, non cadit a significatione naturali secundum quam significat Sortem; ergo secunda propositio est falsa. Consequentia tenet quia non posset illa verificari nisi in illo casu, et antecedens patet, quia ipsa existente in lapide et non manente in anima, adhuc potentia propinqua significat Sortem naturaliter proprie; igitur antecedens patet, qua potest significare Sortem naturaliter proprie absque mutationem per quam fiet impositio, et est ergo in potentia propinqua, et cetera.
 
 Haec replica petis hanc difficultatem, scilicet, qualiter in proposito deberet exponi illa particula in potentia propinqua. Ad quam potest dici quod non debet exponi sicut tactu est, scilicet, sic hoc est nulla mutatione facta per quam de non existens in tali subiecto, et ita debet exponi in similibus propositionibus prout ex multis quae solent in similibus propositis concedi, quae alias non deberent concedi apparere potest.
 
@@ -1236,7 +1236,7 @@ Sed si alia corollaria ab illo ultimo negentur, hoc erit intelligendum, capiendo
 
 Ad hoc qui sit dicendum apparebit ex dicendis inferius.
 
-Quarto arguitur: Contra definitione de ly 'significare naturaliter communiter', iste terminus 'homo' quodlibet ens significat naturaliter communiter, adhuc loquendo stricte de ly 'significare naturaliter communiter' et non ponendo ampliationem in ly 'significat' ad quinque, et tamen non potest concurrere in ratione obiecti totalis ad causandum etc; ergo definitio mala. Consequentia tenet cum minori et maior patet.
+Quarto arguitur: Contra definitione de ly 'significare naturaliter communiter', iste terminus 'homo' quodlibet ens significat naturaliter communiter, adhuc loquendo stricte de ly 'significare naturaliter communiter' et non ponendo ampliationem in ly 'significat' ad quinque, et tamen non potest concurrere in ratione obiecti totalis ad causandum et cetera; ergo definitio mala. Consequentia tenet cum minori et maior patet.
 
 Iste terminus 'homo' naturaliter communiter significat conceptum omnium entium; ergo per istum terminum 'homo' venio in notitiam illius conceptus, et apprehendo illum conceptum.
 
@@ -1284,7 +1284,7 @@ Ex quo patet quod aliquando audito illo termino 'homo' vel viso tali termino in 
 
 Praeterea est advertendum quod in termino significante ex consuetudine hoc modo provenit significatio. Primo enim ille terminus cum aliquibus circumstantiis quae non essent necessariae ad hoc, ut ille terminus significaret illo modo ex impositione directe ad illud facta, significat illo modo et aliquotiens ita contingit, et postea ille terminus seclusis talibus circumstantiis significat illo modo tunc quamprimum seclusis illis significat. Tali modo dicetur ex consuetudine significare.
 
-Tunc ergo dico quod si intelligas illud quod tangis, scilicet, quando ille terminus primo significabit etc, sic scilicet quando primo significabit cum talibus circumstantiis, dico quod tunc non significabat ille terminus, licet possit concedi quod tunc cum illis circumstantiis significabat ad hunc sensum quod aggregatum ex illo termino, et illis circumstantiis significabat illo modo quo ille terminus in posterum significabit.
+Tunc ergo dico quod si intelligas illud quod tangis, scilicet, quando ille terminus primo significabit et cetera, sic scilicet quando primo significabit cum talibus circumstantiis, dico quod tunc non significabat ille terminus, licet possit concedi quod tunc cum illis circumstantiis significabat ad hunc sensum quod aggregatum ex illo termino, et illis circumstantiis significabat illo modo quo ille terminus in posterum significabit.
 
 Ad hoc dicendum est quod secundum exigentiam circumstantiarum quae occurrunt, significabat tale aggregatum unde poterant tales circumstantiae concurrere, quod naturaliter significabat, et poterant tales concurrere quod ad placitum significabat.
 
@@ -1316,7 +1316,7 @@ Pro solutione huius difficultatis, adverte quod communiter dici /33a/ solet quod
 
 Si autem velles tenere alium modum dicendi, facile esse solvere primum quod tangis contra ipsum. Sed pro secundo diceretur quod ille modus dicendi procedit de termino vocali, cuius nulla pars significat eodem modo sicut ipse. Si autem aliqua pars significet eodem modo sicut ipse posset haberi recursus ad primum modum dicendi, et propterea etiam dicendo primo modo ubi aliquis talis terminus significaret aliquo modo, et nulla pars eius significaret taliter, habendus esset recursus ad istum secundum modum dicendi.
 
-Sed his non obstantibus, tangam alium modum dicendi, pro quo est advertendum quod ex quo repraesentare est facere cognoscere etc, sicut superius tangebatur, et propter ampliationem quam facit ly 'facio' in termino supra quem actus illius verbi denotatur ferri, concedenda est illa copulativa in casu Sortes facit hanc domum, et haec domus non est, ita etiam poterimus concedere istam copulativam.
+Sed his non obstantibus, tangam alium modum dicendi, pro quo est advertendum quod ex quo repraesentare est facere cognoscere et cetera, sicut superius tangebatur, et propter ampliationem quam facit ly 'facio' in termino supra quem actus illius verbi denotatur ferri, concedenda est illa copulativa in casu Sortes facit hanc domum, et haec domus non est, ita etiam poterimus concedere istam copulativam.
 
 Iste terminus facit cognoscere mediante 'a' conceptu et tamen 'a' conceptus non est, et ex consequenti poterit concedi in casu quod aliquis terminus actualiter repraesentat, et ex consequenti significat mediante conceptu qui non est, et hoc contingeret in similibus casibus illi qui tangitur in hac difficultate nec oportet istam consequentiam valere.
 
@@ -1342,7 +1342,7 @@ Posset ibi replicari de verbis et aliis terminis syncategorematicis connotativus
 
 ### Secundo arguitur: Iste terminus vocalis 'homo' significat \'omnes homines\' ad placitum, et non ex impositione
 
-Igitur minor patet, quia ille non imponitur, nec fuit impositus ad significandum \'omnes homines\'; igitur prima pars antecedentis est manifesta, et secunda patet ille non fuit; ergo ille non fuit impositus etc.
+Igitur minor patet, quia ille non imponitur, nec fuit impositus ad significandum \'omnes homines\'; igitur prima pars antecedentis est manifesta, et secunda patet ille non fuit; ergo ille non fuit impositus et cetera.
 
 Dices forte ad hoc negando istam ultimam consequentiam, et ratio est nam stat bene quod aliquis terminus qui non est imponatur ad significandum quemadmodum si ego haberem auctoritatem imponendi, et dicerem volo quod ille terminus 'homo' quem tu proferes cras significabit omnes asinos, tunc per hoc ille imponeretur et tamen non est. Dico igitur quod ille terminus 'homo' fuit impositus esto quod non fuerit.
 
@@ -1362,7 +1362,7 @@ Tum primo quia omnis depositio alicuius significationis alicuius termini praesup
 
 Tum secundo, si sit possibile quod aliquis terminus deponatur a significatione quam non habet, nec habuit, nec habebit sequeretur quod ly 'buf' posset deponi a qualibet significatione, non facta impositione.
 
-Si forte dicas quod in illo casu ille terminus quem tu proferes cras non imponebatur ad significandum \'omnes homines\' etc, quia ille solum imponebat terminos similes illi in posterum proferendos, qui non debebant in posterum deponi, haec solutio est ridiculosa, quia si tu dicas quod ille terminus 'homo' quem tu proferes cras, non deponatur ab isto, ex solutione tua sequatur quod imponebatur. Et si dicas quod deponitur ab isto, sequitur quod fuit impositus, quia depositio praesupponit impositionem.
+Si forte dicas quod in illo casu ille terminus quem tu proferes cras non imponebatur ad significandum \'omnes homines\' et cetera, quia ille solum imponebat terminos similes illi in posterum proferendos, qui non debebant in posterum deponi, haec solutio est ridiculosa, quia si tu dicas quod ille terminus 'homo' quem tu proferes cras, non deponatur ab isto, ex solutione tua sequatur quod imponebatur. Et si dicas quod deponitur ab isto, sequitur quod fuit impositus, quia depositio praesupponit impositionem.
 
 ### Aliter ergo dicendum est, unde dato tali casu, dico quod ille deponitur a significatione quam non habet, nec habuit, nec habebit, et ad primam reprobationem consessa, maiore nego
 
@@ -1478,7 +1478,7 @@ Dixi in definitione "vel audiri potest de per se", quia aliquis terminus scriptu
 
 ### Ly 'terminus scriptus' sic potest definire: "Est terminus qui oculo corporali videtur vel videri potest"
 
-Et haec definitio erit sufficiens quocumque illorum duorum modorum capiatur divisum, /36a/ nec est necessarium in ipsa addere ly 'ad placitum significans' etc, licet posset addi capiendo divisum stricte.
+Et haec definitio erit sufficiens quocumque illorum duorum modorum capiatur divisum, /36a/ nec est necessarium in ipsa addere ly 'ad placitum significans' et cetera, licet posset addi capiendo divisum stricte.
 
 Sed ly 'terminus mixtus' sic potest definire: "Est terminus compositus ex termino mentali et termino vocali et termino scripto, vel ex aliquibus istorum, et haec definitio erit sufficiens quocumque illorum modorum capiatur divisum, dummodo ly 'terminus' quod capitur loco generis capiatur eodem modo quod etiam in definitionibus datis servari debet.
 
@@ -1571,7 +1571,7 @@ Quod sequatur patet: /37b/ illud atramentum ex quo lineatur ly 'asinus' signific
 
 Volo quod ex illo atramento non amplius fiat talis terminus 'asinus', sed disponatur eius partes taliter quod ex illo fiat ille terminus 'homo', nihil addendo vel removendo. Hoc facto illud atramentum significabit 'omnes homines', ut constat, et per illud non facta est impositio nova; igitur minor patet, quia illud atramentum ante fuit impositum ad significandum 'omnes homines'; ergo iam non imponitur de novo ad illud.
 
-Antecedens patet quia ille qui imposuit talem terminum scriptum 'homo' ad significandum, imposuit ex consequenti omnes terminos scriptos sicut dos similes illi, nam aliqui virtute talis impositionis in posterum significabunt 'omnes homines', et per consequens aliqui tales per illud imponebantur ad significandum 'omnes homines', sed non est maior ratio de aliquibus talibus quam de aliis; ergo omnes indifferenter per illud imponebantur ad significandum 'omnes homines', et per consequens illud atramentum fuit impositum etc.
+Antecedens patet quia ille qui imposuit talem terminum scriptum 'homo' ad significandum, imposuit ex consequenti omnes terminos scriptos sicut dos similes illi, nam aliqui virtute talis impositionis in posterum significabunt 'omnes homines', et per consequens aliqui tales per illud imponebantur ad significandum 'omnes homines', sed non est maior ratio de aliquibus talibus quam de aliis; ergo omnes indifferenter per illud imponebantur ad significandum 'omnes homines', et per consequens illud atramentum fuit impositum et cetera.
 
 ### Pro solutione argumenti suppono quod dupliciter aliquis terminus potest dici impositus ad significandum aliquo modo
 
@@ -1583,11 +1583,11 @@ Alio modo potest aliquis terminus dici impositus ad significandum aliquo modo ex
 
 Potest enim exponi isto modo nulla mutatione facta per quam fiat nova impositio vel ponatur inesse aliquid ex quod dependet actualis significatio, talis termini ad quam virtute alicuius impositionis est impositus.
 
-Verum est tamen quod posset dici quod illa particula in potentia propinqua potest sic exponi, hoc est, nulla mutatione facta per quam fiat impositio de novo formaliter vel aequivalenter, et tunc dicetur quod per positionem inesse illius a quo dependet actualis significatio etc.
+Verum est tamen quod posset dici quod illa particula in potentia propinqua potest sic exponi, hoc est, nulla mutatione facta per quam fiat impositio de novo formaliter vel aequivalenter, et tunc dicetur quod per positionem inesse illius a quo dependet actualis significatio et cetera.
 
 Fit nova impositio secundo modo aequivalenter, sed melius est dicere primo modo statim tacto. Tunc facile est respondere ad totum processum argumenti, unde concesso quod illud atramentum fuit impositum ad significandum 'omnes homines', primo modo ex quo actualis significatio quae debet provenire a tali impositione, dependet ex hoc quod illud atramentum lineetur sicut ly 'homo'.
 
-Negandum est quod propterea in potentia propinqua illud atramentum significet 'omnes homines', et ad probationem neganda est illa consequentia, scilicet, in aliquo casu non faciendo novam impositionem illud atramentum significabit 'omnes homines'; ergo iam in potentia propinqua etc. Et ad probationem quam tangis per /38a/ expositionem illius particulae in potentia propinqua, dico quod exponendo illam sicut dictum est, illam debere exponi. In proposito non sequitur ex illo bonitas illius consequentiae.
+Negandum est quod propterea in potentia propinqua illud atramentum significet 'omnes homines', et ad probationem neganda est illa consequentia, scilicet, in aliquo casu non faciendo novam impositionem illud atramentum significabit 'omnes homines'; ergo iam in potentia propinqua et cetera. Et ad probationem quam tangis per /38a/ expositionem illius particulae in potentia propinqua, dico quod exponendo illam sicut dictum est, illam debere exponi. In proposito non sequitur ex illo bonitas illius consequentiae.
 
 ### Circa praedicta monentur aliquae dubitationes
 
@@ -1766,7 +1766,7 @@ Patet secundo quod si ego habeam conceptum singularem illius terminis scripti 'h
 
 Et simile contingeret quod impositione unde esto quod habeam conceptum singularem illius litterae scriptae 'a', et illa littera scripta 'a' imponatur ad significandum omnes homines, non propterea consurget impositio in illo conceptu qua mediante significabit omnes homines, nisi sciam illam impositionem de ly 'a', ita quod in effectu, significatio ad placitum in termino mentali non ultimato dependet ex hoc quod sciam vel credam quod ille terminus, quem ille terminus mentalis ultimatus naturaliter repraesentat, significet illo modo ad placitum. Et ad impositionem vel depositionem, talis termini quem ille conceptus taliter repraesentat, sequitur impositio vel depositio illius conceptus, dummodo sciatur talis impositio vel depositio talis termini, et non oportet alias.
 
-Et per hoc quod sciretur talis impositio vel depositio variaretur potentia propinqua in tali conceptu, dicendo ergo isto modo, sequitur corollarie quod si quid habeat conceptum non-ultimatum alicuius termini proprie qui significat ad placitum, proprie aliterque ille conceptus naturaliter proprie significet, et sciat illum terminum cuius est ille conceptus significare ad placitum proprie, ille conceptus non /41a/ ultimatus significabit ipsi ad placitum proprie eo modo quo ille terminus etc et non oportet alias. Et propterea stat quod aliquis sit terminus mentalis non-ultimatus alicuius termini significantis ad placitum proprie, et tamen ille non significet ad placitum proprie.
+Et per hoc quod sciretur talis impositio vel depositio variaretur potentia propinqua in tali conceptu, dicendo ergo isto modo, sequitur corollarie quod si quid habeat conceptum non-ultimatum alicuius termini proprie qui significat ad placitum, proprie aliterque ille conceptus naturaliter proprie significet, et sciat illum terminum cuius est ille conceptus significare ad placitum proprie, ille conceptus non /41a/ ultimatus significabit ipsi ad placitum proprie eo modo quo ille terminus et cetera et non oportet alias. Et propterea stat quod aliquis sit terminus mentalis non-ultimatus alicuius termini significantis ad placitum proprie, et tamen ille non significet ad placitum proprie.
 
 Patet secundo, quod si habeam conceptum non-ultimatum huius termini mentalis ultimati 'homo' quem ego habe in anima mea, potest teneri quod ille naturaliter repraesentet omnes homines, non tamen naturaliter proprie repraesentare illos sicut ly 'homo'. Sed qualis modus significandi naturaliter esset ille, satis potest apparere ex dictis.
 
@@ -1878,9 +1878,9 @@ Posset forte negari casus dato, tamen illo potest dici quod illud intelligitur e
 
 Contra hoc arguitur: Extra tales casus contingit assumptum; igitur antecedens patet "Volo quod quia habeat naturalem similitudinem distinctam de ly 'homo', non habito adhuc conceptu ultimatus eius". Hoc frequenter contingit, tunc contingit assumptum de illo conceptu ex quo non significat omnes homines, quia nec mediate se nec mediante aliquo alio igitur.
 
-Forte dices quod tunc bene contingit quod ille conceptus non significat eo modo quo ille terminus 'homo' significat actu, sed bene significat eo modo in potentia propinqua, et hoc sufficit quia illud corollarium non praesupponit quod actualiter significet illo modo etc.
+Forte dices quod tunc bene contingit quod ille conceptus non significat eo modo quo ille terminus 'homo' significat actu, sed bene significat eo modo in potentia propinqua, et hoc sufficit quia illud corollarium non praesupponit quod actualiter significet illo modo et cetera.
 
-Contra hoc arguitur: Adhuc datur conceptus non-ultimatus termini significantis proprie, qui non significat eo modo in potentia propinqua etc. Antecedens patet, sint ibi Sortes et Plato, quorum Sortes sciat quod ly 'homo' significat proprie, et quid significat Plato vero non, et proferatur ille terminus 'homo', et quilibet illorum formet conceptum distincte repraesentantem illam vocem. Tunc ille quem format Plato est non-ultimatus illius vocis 'homo' significantis proprie, et non significat in potentia propinqua eo modo etc.
+Contra hoc arguitur: Adhuc datur conceptus non-ultimatus termini significantis proprie, qui non significat eo modo in potentia propinqua et cetera. Antecedens patet, sint ibi Sortes et Plato, quorum Sortes sciat quod ly 'homo' significat proprie, et quid significat Plato vero non, et proferatur ille terminus 'homo', et quilibet illorum formet conceptum distincte repraesentantem illam vocem. Tunc ille quem format Plato est non-ultimatus illius vocis 'homo' significantis proprie, et non significat in potentia propinqua eo modo et cetera.
 
 Igitur maior patet ex terminis, et minor patet quia illa vox non significat in potentia propinqua proprie ipsi Platoni, nam alias iste terminus 'homo' in potentia propinqua significaret omnes homines Graecis, quod falsum est, et per consequens ille conceptus non significabit Platoni eo modo proprie quo illa vox, nec etiam conceptus significat in potentia propinqua alicui alteri eo modo quo illa vox, quia alias si conceptus quem tu habes de Sorte et poneretur solum in lapide, significaret in potentia propinqua naturaliter proprie.
 
@@ -1968,9 +1968,9 @@ Dicitur in definitione significantes iuxta significationem totalem illius propte
 1.  Primo. Ad secludendum terminum qui habet partes significantes, sed non iuxta significationem totalem illius, quemadmodum contingit de ly 'dominus'.
 2.  Secundo. Dicitur illud ad denotandum quod ad hoc quod aliquis terminus sit complexus non sufficit quod habeat partes significantes iuxta significationem partialem illius, sed requiritur quod habet partes significantes iuxta significationem totalem illius, unde si istud aggregatum "homo est animal" et 'b' sit unum ens, et non habeat aliquam significationem totalem complexam, quantumcumque illa pars "homo est animal" significet complexe, et illud totum habeat partes significantes iuxta talem significationem illius partis complexam, quae potest dici significatio partialis illius totius, non propterea illud totum debet dici terminus complexus.
 
-Dicitur in definitione formaliter propter terminos qui expresse habent partes etc, cuiusmodi est iste terminus "Homo albus" et similes.
+Dicitur in definitione formaliter propter terminos qui expresse habent partes et cetera, cuiusmodi est iste terminus "Homo albus" et similes.
 
-Dicitur aequivalenter propter terminos complexos qui non expresse habent tales partes etc, quemadmodum contingit de ista littera 'a', posito quod significet eodem modo sicut ista propositio "Homo est albus" et de similibus.
+Dicitur aequivalenter propter terminos complexos qui non expresse habent tales partes et cetera, quemadmodum contingit de ista littera 'a', posito quod significet eodem modo sicut ista propositio "Homo est albus" et de similibus.
 
 Sed hic occurrit difficultas quare aliquis terminus dicatur formaliter habere partes significantes iuxta significationem totalem ipsius, et quare aliquid dicatur habere aequivalenter:
 
@@ -2001,48 +2001,48 @@ Patet tertio quod quaecumque res sive possit constituere unum sive non, possunt 
 
 Patet quarto quod quantumcumque divisum huius divisionis caperetur stricte vel non, eo modo quo capitur in capitulo de termino, et proportionabiliter caperetur membra consimiliter, etiam deberent definiri sicut definita, capiendo in quacumque illarum, illum terminum 'terminus' loco generis eo modo quo capitur pro diviso.
 
-Sed hic occurrit difficultas. Si divisum capiatur stricte, et proportionabiliter capiantur membra dividentia, quia videntur quod ista oratio "'a' est 'b'" sit terminus complexus, capiendo ly 'terminus complexus' sicut tunc caperetur, et tamen non videtur habere partes significantes iuxta significationem etc, quia ad terminum complexum, isto modo requiretur quod habeat partes proprie significantes etc, et illa oratio non sic se habet etc, quia quantumcumque una pars eius proprie significet tamen non aliae.
+Sed hic occurrit difficultas. Si divisum capiatur stricte, et proportionabiliter capiantur membra dividentia, quia videntur quod ista oratio "'a' est 'b'" sit terminus complexus, capiendo ly 'terminus complexus' sicut tunc caperetur, et tamen non videtur habere partes significantes iuxta significationem et cetera, quia ad terminum complexum, isto modo requiretur quod habeat partes proprie significantes et cetera, et illa oratio non sic se habet et cetera, quia quantumcumque una pars eius proprie significet tamen non aliae.
 
 Pro solutione huius, pono propositiones:
 
--   Prima. Ad terminum complexum proprie non requiritur quod formaliter habet partes proprie significantes iuxta significationem totalem illius etc, sed satis est quod aequivalenter /45a/ habeat propositio pro utraque partes est clara.
+-   Prima. Ad terminum complexum proprie non requiritur quod formaliter habet partes proprie significantes iuxta significationem totalem illius et cetera, sed satis est quod aequivalenter /45a/ habeat propositio pro utraque partes est clara.
 -   Secunda. Capiendo ly 'terminus complexus' isto modo, in definitione eius debet capi ly 'terminus proprie', et ly 'significans' aliquo modo de significatione totali debet etiam capi proprie. Propositio de se est clara.
 -   Tertia. Cum in illa definitione dicitur habens partes significantes indifferenter, ly 'significantes' poterit capi proprie, et poterit capi improprie, et utroque modo definitio erit sufficiens postquam in ipsa ponitur ly 'formaliter' vel 'aequivalenter'.
--   Quarta. Aliquis est terminus complexus isto modo, qui formaliter habet partes significantes etc, large capiendo ly 'significantes', et non habet partes formaliter significantes etc. Stricte propositio patet de ista propositione "'a' est 'b'".
+-   Quarta. Aliquis est terminus complexus isto modo, qui formaliter habet partes significantes et cetera, large capiendo ly 'significantes', et non habet partes formaliter significantes et cetera. Stricte propositio patet de ista propositione "'a' est 'b'".
 
-Ex his igitur patet solutio difficultatis quantumcumque enim diceretur quod ad terminum complexum isto modo requiritur, quod habeat partes proprie significantes etc, postquam ponitur ly 'formaliter' vel 'aequivalenter' adhuc stabit id quod dictum est.
+Ex his igitur patet solutio difficultatis quantumcumque enim diceretur quod ad terminum complexum isto modo requiritur, quod habeat partes proprie significantes et cetera, postquam ponitur ly 'formaliter' vel 'aequivalenter' adhuc stabit id quod dictum est.
 
 ### Contra definitionem termini complexi arguitur ly 'omnis homo' est terminus complexus extra propositionem, et tamen non habet plures partes significantes extra propositionem igitur       
 
 AD hoc posset forte dici quod ly 'omnis' significat adhuc extra propositionem, sicut superius tangebatur, et ita dicendo argumentum esset nullum, sed tenendo quod non possit significare extra propositionem aliter esse dicendum, et pro illo modo dicendi suppono quod ly 'omnis homo' non poterit etiam significare extra propositionem tenendo illud.
 
-Tunc dico quod ista propositio ly "'omnis homo' est terminus complexus extra propositionem" potest distingui, quia potest capi in hoc sensu ly 'omnis homo' extra propositionem est aliquid quod est terminus significans aliquo modo de significatione totali, qui habet plures partes etc. Et in hoc sensu illa est vera, quia ly 'significans' et ly 'significantes' dicuntur aptitudinem in potentia propinqua et non actu.
+Tunc dico quod ista propositio ly "'omnis homo' est terminus complexus extra propositionem" potest distingui, quia potest capi in hoc sensu ly 'omnis homo' extra propositionem est aliquid quod est terminus significans aliquo modo de significatione totali, qui habet plures partes et cetera. Et in hoc sensu illa est vera, quia ly 'significans' et ly 'significantes' dicuntur aptitudinem in potentia propinqua et non actu.
 
-Alio modo potest capi in tali sensu, scilicet, quod ly 'extra propositionem' appellet supra ly 'significans' aliquod modo de significatione totali, vel supra ly 'partes significantes' etc, et sic nego illam propositionem.
+Alio modo potest capi in tali sensu, scilicet, quod ly 'extra propositionem' appellet supra ly 'significans' aliquod modo de significatione totali, vel supra ly 'partes significantes' et cetera, et sic nego illam propositionem.
 
 Minor etiam argumenti posset distingui iuxta proportionabiles sensus, et in sensu in quo illa determinatio appellaret supra ly 'significantes' concedenda esset, et in alio neganda.
 
 Si igitur capias maiorem et minorem in sensibus in quibus debent concedi, neganda est consequentia.
 
-Si autem capias alteram illarum in sensu in quo est neganda, argumentum non procedit, et simile argumentum potest fieri demonstrato uno termino complexo qui non significet actu de significatione totali, nec habet partes actu significantes iuxta significationem etc,arguendo sic iste est terminus complexus actu, tamen non habet plures partes significantes actu etc, et proportionabiliter omnino dicendum est.
+Si autem capias alteram illarum in sensu in quo est neganda, argumentum non procedit, et simile argumentum potest fieri demonstrato uno termino complexo qui non significet actu de significatione totali, nec habet partes actu significantes iuxta significationem et cetera,arguendo sic iste est terminus complexus actu, tamen non habet plures partes significantes actu et cetera, et proportionabiliter omnino dicendum est.
 
-Secundo arguitur: Iste terminus 'homo albus' est terminus complexus, tamen non habet plures partes etc; igitur minor patet, nulla partes eius significant iuxta significationem totalem illius, formaliter vel aequivalenter; ergo non habet plures partes etc. Consequentia tenet et antecedens patet, quia dato eius opposito, si aliquae partes eius significent iuxta significationem totalem illius, illud continget de his duabus partibus eius 'homo' 'albus', sed hoc est falsum; igitur consequentia tenet cum maiori, et minor patet "Istae quattuor syllabae" demonstrando illas quattuor syllabas ex quibus illi termini resultant, non significat iuxta significationem totalem illius termini formaliter vel aequivalenter, et illae quattuor syllabae sunt illi duo termini 'homo' 'albus'; ergo illi duo termini non significant etc.
+Secundo arguitur: Iste terminus 'homo albus' est terminus complexus, tamen non habet plures partes et cetera; igitur minor patet, nulla partes eius significant iuxta significationem totalem illius, formaliter vel aequivalenter; ergo non habet plures partes et cetera. Consequentia tenet et antecedens patet, quia dato eius opposito, si aliquae partes eius significent iuxta significationem totalem illius, illud continget de his duabus partibus eius 'homo' 'albus', sed hoc est falsum; igitur consequentia tenet cum maiori, et minor patet "Istae quattuor syllabae" demonstrando illas quattuor syllabas ex quibus illi termini resultant, non significat iuxta significationem totalem illius termini formaliter vel aequivalenter, et illae quattuor syllabae sunt illi duo termini 'homo' 'albus'; ergo illi duo termini non significant et cetera.
 
 Consequentia tenet expositorie et maior et minor sunt manifestae.
 
 ### Ad argumentum respondentur concessa maiori, negando minorem, et ad probationem nego antecedens
 
-Et ad probationem concessa maiore nego minorem, et ad eius probationem distinguo illam maiorem, quia vel capis illam in isto sensu, scilicet: "istae quattuor syllabae non sunt illae quattuor syllabae significantes iuxta significationem totalem etc". Et sic concedo illam, similiter et minorem, et nego consequentiam.
+Et ad probationem concessa maiore nego minorem, et ad eius probationem distinguo illam maiorem, quia vel capis illam in isto sensu, scilicet: "istae quattuor syllabae non sunt illae quattuor syllabae significantes iuxta significationem totalem et cetera". Et sic concedo illam, similiter et minorem, et nego consequentiam.
 
-Si autem capias illam in isto sensu: "illae quattuor syllabae non sunt significantia vel aliqui termini significantes etc" et sic nego illam.
+Si autem capias illam in isto sensu: "illae quattuor syllabae non sunt significantia vel aliqui termini significantes et cetera" et sic nego illam.
 
-### Tertio arguitur: Posito quod ista littera 'a' sit imposita ad significandum eo modo quo ly 'homo albus', tunc ly 'a' est terminus complexus et non habet plures partes /45b/ significantes etc
+### Tertio arguitur: Posito quod ista littera 'a' sit imposita ad significandum eo modo quo ly 'homo albus', tunc ly 'a' est terminus complexus et non habet plures partes /45b/ significantes et cetera
 
-Igitur consequentia tenet cum maiori, et minor patet quia quibuscumque partibus demonstratis falsum est quod habeat istas partes significantes etc.
+Igitur consequentia tenet cum maiori, et minor patet quia quibuscumque partibus demonstratis falsum est quod habeat istas partes significantes et cetera.
 
-Fortes dices quod demonstratis partibus termini mentales cui subordinatur in significando secundum illam impositionem, verum est dicere quod ille terminus habet illas partes significantes etc. Tunc supponam quod non sit actualiter aliquis terminus synonymus illi in sic significando qui habeat expresse partes etc, tunc procedet argumentum.
+Fortes dices quod demonstratis partibus termini mentales cui subordinatur in significando secundum illam impositionem, verum est dicere quod ille terminus habet illas partes significantes et cetera. Tunc supponam quod non sit actualiter aliquis terminus synonymus illi in sic significando qui habeat expresse partes et cetera, tunc procedet argumentum.
 
-### Et confirmatur ratio, retento illo casu nullae partes illius litterae 'a' significant iuxta significationem etc; ergo illa littera 'a' non habet partes formaliter etc
+### Et confirmatur ratio, retento illo casu nullae partes illius litterae 'a' significant iuxta significationem et cetera; ergo illa littera 'a' non habet partes formaliter et cetera
 
 Consequentia videtur manifesta, et antecedens patet propter non suppositionem sibi.
 
@@ -2050,17 +2050,17 @@ Consequentia videtur manifesta, et antecedens patet propter non suppositionem si
 
 Difficultas est haec, quid requiratur ad hoc quod iste terminus, scilicet habens partes significantes iuxta significationem totalem illius, formaliter vel aequivalenter supponat pro aliquo, an requiratur ad illud quod aliquid habet partes quae significent in potentia propinqua, iuxta significationem synonymam significationi totali illius.
 
-Pro solutione huius difficultatis solum tangam unum modum dicendi per quem facillime et clarissime illa difficultas, et ex consequenti difficultates argumenti et confirmationis poterunt dissolvi pro illo; igitur pono istam propositionem: "In definitione termini complexi illa particula, scilicet habens plures partes significantes etc, non capitur secundum significationem quam videtur habere ab illis partibus, sed capitur loco huius disiuncti, scilicet habens plures partes significantes iuxta significationem totalem illius, vel aequivalens in significando alicui habenti plures partes significantes iuxta significationem synonymam illi significationi totali illius. Et ibi ly 'aequivalens' dicit aptitudinem in potentia propinqua, ita quod in effectu, definitio termini complexi in toto rigore, procedendo debet hoc modo dari vel intelligi".
+Pro solutione huius difficultatis solum tangam unum modum dicendi per quem facillime et clarissime illa difficultas, et ex consequenti difficultates argumenti et confirmationis poterunt dissolvi pro illo; igitur pono istam propositionem: "In definitione termini complexi illa particula, scilicet habens plures partes significantes et cetera, non capitur secundum significationem quam videtur habere ab illis partibus, sed capitur loco huius disiuncti, scilicet habens plures partes significantes iuxta significationem totalem illius, vel aequivalens in significando alicui habenti plures partes significantes iuxta significationem synonymam illi significationi totali illius. Et ibi ly 'aequivalens' dicit aptitudinem in potentia propinqua, ita quod in effectu, definitio termini complexi in toto rigore, procedendo debet hoc modo dari vel intelligi".
 
 > Terminus complexus est terminus significans aliquo modo de significatione totali qui formaliter habet plures partes significantes iuxta illam significationem totalem illius, vel aequivalet in significando alicui habenti plures partes significantes iuxta significationem synonymam ili significationi totali illius, capiendo ibi ly 'aequivalet' ut dictum est, et proportionabiliter debet dari vel intelligi definitio termini incomplexi.
 
 Tunc respondeo ad argumentum datis illis quae supponis, concesso quod quibuscumque partibus demonstratis illa sit falsa.
 
-Concedo ex consequenti quod illa est falsa, ly 'a' habet plures partes significantes etc, capiendo illam in sensu quem videtur facere iuxta illa significationes partium. Sed ex hoc non sequitur aliquid contra definitionem, quia non sic debet capi illa particula in definitione, scilicet habens plures partes, sed debet capi sicut dictum est.
+Concedo ex consequenti quod illa est falsa, ly 'a' habet plures partes significantes et cetera, capiendo illam in sensu quem videtur facere iuxta illa significationes partium. Sed ex hoc non sequitur aliquid contra definitionem, quia non sic debet capi illa particula in definitione, scilicet habens plures partes, sed debet capi sicut dictum est.
 
-Et si arguas contra hoc, quia adhuc videtur esse falsum, in illo casu, quod ly 'a' habet plures partes significantes etc, quia si illa sit vera hoc erit ex eo, quia in illo casu, verum est quod ly 'a' in potentia propinqua aequivalet in significando alicui formaliter, habenti plures partes etc. Sed hoc non, quia videtur etiam quod ly 'partes significantes' non supponat in illo casu.
+Et si arguas contra hoc, quia adhuc videtur esse falsum, in illo casu, quod ly 'a' habet plures partes significantes et cetera, quia si illa sit vera hoc erit ex eo, quia in illo casu, verum est quod ly 'a' in potentia propinqua aequivalet in significando alicui formaliter, habenti plures partes et cetera. Sed hoc non, quia videtur etiam quod ly 'partes significantes' non supponat in illo casu.
 
-Ad hanc replicam nego quod non supponat ille terminus, quia ratione de ly 'in potentia propinqua' ampliatur ly 'habenti plures partes etc'. Ex consequenti ly 'partes ampliatur' et hoc ad quattuor differentias temporum, nec ad veritatem illius requiritur quod aliquid in potentia propinqua, habeat partes etc, nec quod aliquae partes alicuius in potentia propinqua significant iuxta significationem etc. Et inde est quod ista consequentia non valet: Ly 'a' in potentia propinqua aequivalet in significando alicui habenti plures partes etc; ergo aliquid habens plures partes etc in potentia propinqua aequivalet in significando illi termino 'a' etc.
+Ad hanc replicam nego quod non supponat ille terminus, quia ratione de ly 'in potentia propinqua' ampliatur ly 'habenti plures partes et cetera'. Ex consequenti ly 'partes ampliatur' et hoc ad quattuor differentias temporum, nec ad veritatem illius requiritur quod aliquid in potentia propinqua, habeat partes et cetera, nec quod aliquae partes alicuius in potentia propinqua significant iuxta significationem et cetera. Et inde est quod ista consequentia non valet: Ly 'a' in potentia propinqua aequivalet in significando alicui habenti plures partes et cetera; ergo aliquid habens plures partes et cetera in potentia propinqua aequivalet in significando illi termino 'a' et cetera.
 
 Ad confirmationem argumenti nego illam consequentiam, et dico breviter quod si ly 'habens plures partes significantes' caperetur in definitione secundum significationem quam videtur habere iuxta significationes illarum partium, bene valet illa consequentia. Sed capiendo sicut dictum est non valet.
 
@@ -2070,7 +2070,7 @@ Tunc sic ex definitione termini incomplexi sequitur quod illo facto, illud aggre
 
 Ad hoc argumentum datis his quae supponis, dico quod tunc ille terminus non habet illas partes significantes iuxta illam significationem totalem illius formaliter, quia illa significatio totalis illius non resultat ex illis significationibus illarum partium, ex quo ex illis sic conceptus secundum illas significationes quacumque alia impositione seclusa non resultaret de significatione totali illo modo, et ex consequenti, ita dicendo non habebit partes significantes iuxta illam significationem totalem illius formaliter, habebit tamen aequivalenter.
 
-Hoc supposito respondeo ad argumentum negando sequelam, et ad probationem nego assumptum, et ad probationem nego iterum assumptum utrum tamen posset concedi quod aequivalenter habeat illas etc. Ad hoc dico quod si illud capitur in hoc sensu, scilicet secundum illam significationem totalem aequivalenter in significando aggregato ex illis significantibus iuxta significationem, illius aggregati synonymam illi totali, dico quod debet concedi. Si autem in alio oporteret videre quis esset ille et secundum exigentiam illius ita oportebit dicere.
+Hoc supposito respondeo ad argumentum negando sequelam, et ad probationem nego assumptum, et ad probationem nego iterum assumptum utrum tamen posset concedi quod aequivalenter habeat illas et cetera. Ad hoc dico quod si illud capitur in hoc sensu, scilicet secundum illam significationem totalem aequivalenter in significando aggregato ex illis significantibus iuxta significationem, illius aggregati synonymam illi totali, dico quod debet concedi. Si autem in alio oporteret videre quis esset ille et secundum exigentiam illius ita oportebit dicere.
 
 ## Duplex est terminus complexus. Quidam est complexus complexionem distanti et quidam est complexus complexione indistanti
 
@@ -2078,7 +2078,7 @@ Hoc supposito respondeo ad argumentum negando sequelam, et ad probationem nego a
 
 Est terminus significans aliquo modo de significatione totali qui formaliter vel aequivalenter habet praecise tres partes principales significantes iuxta illam significationem totalem illius quarum duae per reliquam illarum coniunguntur.
 
-Exemplum patet de ista propositione "Homo est animal" et de ly "Sortes et Plato". Et si teneatur quod verba adiectiva sunt incomplexa, ubi dicitur formaliter vel aequivalenter habet praecise etc, adde vel praecise duas significantes etc, quarum una seipsam cum altera coniungit, et hoc additur ut comprehendatur ista "Sortes currit" et similes.
+Exemplum patet de ista propositione "Homo est animal" et de ly "Sortes et Plato". Et si teneatur quod verba adiectiva sunt incomplexa, ubi dicitur formaliter vel aequivalenter habet praecise et cetera, adde vel praecise duas significantes et cetera, quarum una seipsam cum altera coniungit, et hoc additur ut comprehendatur ista "Sortes currit" et similes.
 
 Sed hic occurrit difficultas quid in proposito per partem principalem alicuius termini intelligi debet. Huius dubitationis solutio difficilior est quam appareat prima facie, quia secundum communem modum loquendi, ista propositio "Homo est animal album" habet praecise tres partes principales, et tamen qualitercumque fiat assignatio illius quod requiritur et sufficit ad partem principalem. Videtur quod illa "Homo est animal" sit pars principalis illius, et ex consequenti ly 'homo' non esset pars principalis illius.
 
@@ -2102,13 +2102,13 @@ Et circa istas denominationes istorum terminorum secundae intentionis qualiter s
 
 Quorum utrumque potest definiri secundum significationem secundum quam capitur in illo aggregato, si velis definire tale aggregatum secundum significationem quam habet iuxta illas significationes illarum partium, cape aggregatum ex illo determinabili et definitione illius determinationis pro determinatione illius determinabilis.
 
-Consimiliter determinante illud determinabile, sicut illa determinatio determinat aut aggregatum ex definitione determinabilis pro determinabili et determinatione determinante ipsum etc, aut aggregatum ex definitionibus illorum quarum definitionum definitio determinationis, determinet alteram etc, cavendo a variatione appellationis et nugatione et quodlibet, tale aggregatum erit definitio illius termini complexi secundum illam significationem etc.
+Consimiliter determinante illud determinabile, sicut illa determinatio determinat aut aggregatum ex definitione determinabilis pro determinabili et determinatione determinante ipsum et cetera, aut aggregatum ex definitionibus illorum quarum definitionum definitio determinationis, determinet alteram et cetera, cavendo a variatione appellationis et nugatione et quodlibet, tale aggregatum erit definitio illius termini complexi secundum illam significationem et cetera.
 
 ### Secunda regula. Quocumque termino secundae intentionis proposito
 
 Si vis videre an alicui convenit ille vel non, vide an universaliter ex hoc quod ille terminus conveniat alicui termino, utputa 'a' secundum aliquam certam significationem utputa 'b', et alicui utputa 'c' secundum aliquam certam significationem utputa 'd', non conveniat possit inferri quod 'a' non est synonymus secundum 'b' significationem, ipsius 'c' secundum 'd' significationem.
 
-Vel non possit inferri et si sic, dicendum est quod quocumque termino dato significare aliquo modo, si ille terminus propositus conveniat mentali cui subordinatur, aut alicui termino synonymo illi secundum significationem synonymam illi modo significandi illius, tunc ille terminus propositus conveniet illi dato. Et si aliquis terminus sit synonymus illi secundum significationem etc, et illi non conveniat ille terminus propositus, tunc ille propositus non convenit illi dato.
+Vel non possit inferri et si sic, dicendum est quod quocumque termino dato significare aliquo modo, si ille terminus propositus conveniat mentali cui subordinatur, aut alicui termino synonymo illi secundum significationem synonymam illi modo significandi illius, tunc ille terminus propositus conveniet illi dato. Et si aliquis terminus sit synonymus illi secundum significationem et cetera, et illi non conveniat ille terminus propositus, tunc ille propositus non convenit illi dato.
 
 Si autem non possit universaliter concludi illud ex illis, tunc non habebunt ista verum. Sed qualiter debeat cognosci, tunc an ille terminus propositus conveniat illi dato vel non, oportebit respicere ad connotationem illius illius termini propositi, et secundum exigentiam illius, ita oportebit iudicare exempla pro his omnibus, quia facillime possunt haberi reliquam.
 
@@ -2136,7 +2136,7 @@ Terminus categorematicus significatione tantum est terminus significans aliquo m
 
 Exemplum patet de quolibet obliquo, obliqua tento, significante aliquid vel aliqua.
 
-### Terminus categorematicus utroque modo est terminus significans aliquo modo secundum quem significat aliquid vel aliqua, et potest exercere officium etc
+### Terminus categorematicus utroque modo est terminus significans aliquo modo secundum quem significat aliquid vel aliqua, et potest exercere officium et cetera
 
 Exemplum patet de ly 'homo'.
 
@@ -2146,7 +2146,7 @@ Sed ly 'terminus syncategorematicus' dividitur etiam in 'terminum syncategoremat
 
 Quia illi duo termini sunt synonymi vel convertuntur, et propter consimilem causam ly 'terminus syncategorematicus significatione tantum' omnino eodem modo definitur sicut ly 'terminus syncategorematicus officio'.
 
-### Ly 'terminus syncategorematicus' utroque modo sic definitur. Est terminus significans aliquo modo sed quem non significat aliquid vel aliqua, et non potest exercere officium etc  
+### Ly 'terminus syncategorematicus' utroque modo sic definitur. Est terminus significans aliquo modo sed quem non significat aliquid vel aliqua, et non potest exercere officium et cetera  
 
 ### Ex his definitionibus sequuntur aliqua corollaria
 
@@ -2168,12 +2168,12 @@ Si tamen aequivoce analogice diceretur de suis membris, et primo de termino cate
 
 Sed supposito quod univoce dicatur isti termini brevissime et clarissime, poterunt definiri sicut statim tanget. Et si aliter ab aliis definiatur in idem, redibunt ille definitionis cum his quae statim tangentur, saltem si ille sint sufficientes.
 
-### Terminus ergo categorematicus est terminus significans aliqui modo secundum quem significat aliquid vel aliqua vel potest exercere officium sibi etc
+### Terminus ergo categorematicus est terminus significans aliqui modo secundum quem significat aliquid vel aliqua vel potest exercere officium sibi et cetera
 
--   Terminus categorematicus officio est terminus significans aliquo modo secundum quem potest exercere officium etc.
+-   Terminus categorematicus officio est terminus significans aliquo modo secundum quem potest exercere officium et cetera.
 -   Terminus categorematicus significatione est terminus significans aliquo modo secundum quem significat aliquid vel aliqua.
--   Terminus syncategorematicus est terminus significans aliquo modo secundum quem non significat aliquid vel aliqua aut non potest exercere officium etc.
--   Terminus syncategorematicus officio est terminus significans aliquo modo secundum quem non potest exercere officium etc.
+-   Terminus syncategorematicus est terminus significans aliquo modo secundum quem non significat aliquid vel aliqua aut non potest exercere officium et cetera.
+-   Terminus syncategorematicus officio est terminus significans aliquo modo secundum quem non potest exercere officium et cetera.
 -   Terminus syncategorematicus significatione est terminus significans aliquo modo sed quem non significat aliquid vel aliqua.
 
 Ex quibus definitionibus patet quod tres primi termini primo definiri ibi, bene possunt eidem termino convenire ratione eiusdem significationes. Similiter et ultimi tres, sed nec primi tres cum liqua trium ulteriorum, nec ultimi tres cum aliquo trium primorum, nec duo ultimi trium primorum cum aliquo trium ultimorum, nec duo ultimi trium ultimorum cum aliquo trium primorum possunt eidem ratione eiusdem significationis convenire.
@@ -2192,9 +2192,9 @@ Haec omnia ex definitionibus sunt manifesta.
 
 Sed de hoc videbitur in capitulo de verbo.
 
-Posset etiam fieri difficultas circa definitionem termini categorematici utroque modo posito quod ly 'a' imponatur ad significandum sicut significat ly 'homo', taliter quod numquam virtute illius impositionis debet significare propositione sed solum extra propositionem, quia tunc ly 'a' erit terminus categorematicus et non poterit exercere officium etc, secundum illam impositionem et significationem. Sed huius solutio patet ex solutione /48a/ similis difficultatis tactae in capitulo de termino.
+Posset etiam fieri difficultas circa definitionem termini categorematici utroque modo posito quod ly 'a' imponatur ad significandum sicut significat ly 'homo', taliter quod numquam virtute illius impositionis debet significare propositione sed solum extra propositionem, quia tunc ly 'a' erit terminus categorematicus et non poterit exercere officium et cetera, secundum illam impositionem et significationem. Sed huius solutio patet ex solutione /48a/ similis difficultatis tactae in capitulo de termino.
 
-Contra definitionem termini categorematici significatione tantum, arguitur sic: Ly 'albus' est terminus categorematicus significatione tantum, secundum significationem secundum qua capitur adiective, et potest exercere officium etc secundum. Secundum illam igitur maior patet, ex communi modo loquendi minor patet. Ille terminus significat eodem modo secundum significationem secundum quam capitur substantive, sicut significat secundum illam secundum quam capitur adiective; igitur consequentia, licet et antecedens patet, quia dato eius opposito nunc solam albedinem significaret secundum illam significationem secundum quam capitur adiective.
+Contra definitionem termini categorematici significatione tantum, arguitur sic: Ly 'albus' est terminus categorematicus significatione tantum, secundum significationem secundum qua capitur adiective, et potest exercere officium et cetera secundum. Secundum illam igitur maior patet, ex communi modo loquendi minor patet. Ille terminus significat eodem modo secundum significationem secundum quam capitur substantive, sicut significat secundum illam secundum quam capitur adiective; igitur consequentia, licet et antecedens patet, quia dato eius opposito nunc solam albedinem significaret secundum illam significationem secundum quam capitur adiective.
 
 Sed hoc est falsum. Igitur quod sequatur patet quia non videtur quid aliud significet, et etiam illi qui concedunt maiorem tenent hoc.
 
@@ -2208,7 +2208,7 @@ Si forte dicas quod connotative significat albedinem, simile deduceretur ex hoc,
 
 Et propterea exemplificatum est pro illa distinctione de obliquo obliquo tento, unde dico quod synonymo modo et mediante eodem termino mentali capitur ly 'album' quando capitur substantive et quando capitur adiective.
 
-Nec obstat quod secundum grammaticos in neutro genere substantivetur, et non in masculino vel feminino, quia illud non tollit synonymitatem inter ipsum captum substantive et ipsum captum adiective. Verum est tamen quod numquam exercet officium subiecti etc in propositione in qua capitur adiective, saltem secundum quod capitur adiective, nec est illud possibile quia si in aliqua capiatur adiective est extremum ipsa et non extremum secundum quod capitur adiective. Et si propter hoc, adhuc sensum, velles concedere quod ille terminus est categorematicus significatione tantum captus adiective, non contradicam tibi in hoc. Sed extraneus esset iste sentus, et etiam ipsi non praetendunt hoc in illo quod dicunt in hoc proposito.
+Nec obstat quod secundum grammaticos in neutro genere substantivetur, et non in masculino vel feminino, quia illud non tollit synonymitatem inter ipsum captum substantive et ipsum captum adiective. Verum est tamen quod numquam exercet officium subiecti et cetera in propositione in qua capitur adiective, saltem secundum quod capitur adiective, nec est illud possibile quia si in aliqua capiatur adiective est extremum ipsa et non extremum secundum quod capitur adiective. Et si propter hoc, adhuc sensum, velles concedere quod ille terminus est categorematicus significatione tantum captus adiective, non contradicam tibi in hoc. Sed extraneus esset iste sentus, et etiam ipsi non praetendunt hoc in illo quod dicunt in hoc proposito.
 
 ### Et si arguas contra dicta, probando quod ly 'albus' secundum quod capitur adiective sit extremum in aliqua propositione
 
@@ -2258,7 +2258,7 @@ Secundo, suppono quod in sequentibus non ponemus differentiam inter tales propos
 
 > Est terminus significans aliquid, ea ratione quae est signum vel significatum, et capitur ly 'aliquid' transcendentaliter prout valet tantum sicut ly 'aliquid' vel 'aliqua'. Et proportionabiliter capiuntur ly 'signum' et ly 'significatum', et hoc ut comprehendantur ly 'nomina' et ly 'genera' et alii termini secundae intentionis pluralis numeri et collectivi.
 
-Dicitur in definitione ea ratione qua est signum propter istos terminos et similes 'nomen', 'verbum' etc.
+Dicitur in definitione ea ratione qua est signum propter istos terminos et similes 'nomen', 'verbum' et cetera.
 
 Dicitur vel ea ratione qua est significatum propter istos terminos et similes 'aequivocatum', 'univocatum' quorum quilibet significat aliquid ea ratione qua est significatum, et non ea ratione qua est signum qualiter debeant capi ly 'signum', et ly 'significatum' patebit ex processu.
 
@@ -2292,7 +2292,7 @@ Contra, antecedens est falsum, nam significat in potentia propinqua, et antecede
 
 Similiter potest dari instantia de illo termino similitudo Sortis, nam ista consequentia est bona "Hoc non significat; ergo non est similitudo Sortis", demonstrata naturali similitudine Sortis mentali, et in talibus instantiis demonstratur supposita talium terminorum de quibus est quaestio eo modo quo oportet.
 
-Et si dicas quod sensus antecedentis debet esse hoc, non significat hoc non est signum propositionale, adhuc illae consequentiae essent bonae sive capiatur signum propositionale large sive stricte, sed quod illi termini non sunt secundate intentionis reliquo tamquam clarum. Tunc arguitur contra modum exponendi illius particulae "Iste terminus nomen est secundae intentionis", tamen non significat aliquid ea ratione qua est signum exponendo illo modo; igitur maior est nota. Minor probatur quia si sic, maxime significaret istum terminum 'homo' illo modo, sed hoc est falsum; igitur maior est nota. Minor probatur dato quod ille terminus 'homo' deponatur a sua significatione, adhuc significabit illum. Igitur antecedens probatur ista est vera, in illo casu "Hoc fuit nomen" demonstrando illum terminum 'homo', et est affirmativa extra omnes instantias etc; ergo subiectum et praedicatum supponunt pro eodem; ergo praedicatum supponit pro illo, demonstrato, et per consequens significant illud, demonstratum ab inferiori ad superius.
+Et si dicas quod sensus antecedentis debet esse hoc, non significat hoc non est signum propositionale, adhuc illae consequentiae essent bonae sive capiatur signum propositionale large sive stricte, sed quod illi termini non sunt secundate intentionis reliquo tamquam clarum. Tunc arguitur contra modum exponendi illius particulae "Iste terminus nomen est secundae intentionis", tamen non significat aliquid ea ratione qua est signum exponendo illo modo; igitur maior est nota. Minor probatur quia si sic, maxime significaret istum terminum 'homo' illo modo, sed hoc est falsum; igitur maior est nota. Minor probatur dato quod ille terminus 'homo' deponatur a sua significatione, adhuc significabit illum. Igitur antecedens probatur ista est vera, in illo casu "Hoc fuit nomen" demonstrando illum terminum 'homo', et est affirmativa extra omnes instantias et cetera; ergo subiectum et praedicatum supponunt pro eodem; ergo praedicatum supponit pro illo, demonstrato, et per consequens significant illud, demonstratum ab inferiori ad superius.
 
 ### Confirmatur ista ratio. Primo, capto illo termino mentali cui subordinatur ly 'nomen', ille significat illum terminum 'homo' non ea ratione qua est signum; ergo nec ille vocalis antecedens
 
@@ -2318,7 +2318,7 @@ Et valet tamen dicere non significaret illud, hoc est, non supponeret pro illo m
 
 ### Ad primam confirmationem dicitur quod in illo casu non significabit, capiendo ut nos capimus ibi
 
-Nec inconvenit quod cadat a sua significatione, capiendo significationem isto modo, quia idem est dictu, id est, cadit a sua suppositione in ordine ad copulam de praesenti etc, et hoc solum probat argumentum. Inconveniret tamen quod caderet a sua significatione, capiendo ut in capitulo de significare neque hoc probat argumentum.
+Nec inconvenit quod cadat a sua significatione, capiendo significationem isto modo, quia idem est dictu, id est, cadit a sua suppositione in ordine ad copulam de praesenti et cetera, et hoc solum probat argumentum. Inconveniret tamen quod caderet a sua significatione, capiendo ut in capitulo de significare neque hoc probat argumentum.
 
 ### Ad secundam confirmationem, nego quod illa esset impossibilis, et ad probationem distinguo quod non possit ita esse, manente eadem significatione adaequata terminorum
 
@@ -2384,7 +2384,7 @@ Sed contra solutionem argumenti arguitur sic: Sequeretur quod iste terminus univ
 
 Quod sequatur patet, non significat Sortem illo modo nec aliquid aliud, igitur antecedens probatur, dato quod Sortes non significetur univoce per alium terminum ab isto termino univocatum, adhuc significabitur per istum terminum, eo modo quo capitur in expositione; igitur antecedens probatur "Volo quod non sit alius terminus nisi ly 'univocatum'", tunc probo illam veram "Sortes est univocatus", et sic habeo intentum et suppono quod ly 'univocatum' tantum valeat sicut hoc totum aliquid significatum univoce per aliquem terminum, et capiendo ly 'significare' eo modo quo capitur in capitulo de significare. Et si neges quod significet illud, impono ad significandum tantum sicut illud, vel procedo de illo termino in mente ultimata, adhuc erit terminus secundae intentionis, et tunc argumentum curret.
 
-Tunc probo propositum, et arguo sic: Ista est vera "Sortes potest esse univocatus". In illo casu et cum sit affirmativa etc, sequitur quod praedicatum significat Sortem, nam supponit pro eo, et ultra significat Sortem. Quocumque modo capiatur non est cura, et non significat aequivoce; ergo univoce. Ergo Sortes univoce significatur per illum terminum, capiendo ly 'significatur' sicut in capitulo de significare, nam pro illo supponit ille terminus, ex quibus sequitur ultra quod Sortes est univocatus patet, hoc ex terminis.
+Tunc probo propositum, et arguo sic: Ista est vera "Sortes potest esse univocatus". In illo casu et cum sit affirmativa et cetera, sequitur quod praedicatum significat Sortem, nam supponit pro eo, et ultra significat Sortem. Quocumque modo capiatur non est cura, et non significat aequivoce; ergo univoce. Ergo Sortes univoce significatur per illum terminum, capiendo ly 'significatur' sicut in capitulo de significare, nam pro illo supponit ille terminus, ex quibus sequitur ultra quod Sortes est univocatus patet, hoc ex terminis.
 
 Potest confirmari ista ratio similiter sicut arguebatur contra expositionem alterius particulae, nam quilibet terminus videtur significatur res, ea ratione qua sunt significatae naturaliter communiter per aliquem terminum, large loquendo de termino et de significare, nam non potest esse aliqua res quin significetur per aliquam terminum illo modo, et illud videtur sufficere ut patet.
 
@@ -2409,7 +2409,7 @@ Dicitur specialiter quia ad hoc quod aliquis terminus sit secundae intentionis, 
 -   Ex ista expositione sequitur primo quod quilibet terminus secundae intentionis est terminus connotativus.
 -   Sequitur secundo quod non oportet in definitione termini secundae intentionis addere ly 'propositionale' ad ly 'signum'.
 
-Hoc patet partim ex dicitis et partim patebit ex solutionibus argumentorum. Et si petas quomodo cognoscetur quando aliquis terminus habet connotationem specialem seu inferiorem ad connotationem de ly 'signum' vel ly 'signa' etc, dico quod hoc debet cognosci ex libris Praedicabilium et Praedicamentorum et illis in quibus de illo termino consideratur. Quare si aliquis proponat tibi aliquem terminum tibi ignotum, ita ut non videris librum ubi in quo de ipso consideratur, et petat at te an sit primae vel secundae intentionis, non teneris respondere aliter quam conditionaliter sic, scilicet, quod si significet aliquid ea ratione qua est signum vel significatum, est terminus secundae intentionis, sin autem non.
+Hoc patet partim ex dicitis et partim patebit ex solutionibus argumentorum. Et si petas quomodo cognoscetur quando aliquis terminus habet connotationem specialem seu inferiorem ad connotationem de ly 'signum' vel ly 'signa' et cetera, dico quod hoc debet cognosci ex libris Praedicabilium et Praedicamentorum et illis in quibus de illo termino consideratur. Quare si aliquis proponat tibi aliquem terminum tibi ignotum, ita ut non videris librum ubi in quo de ipso consideratur, et petat at te an sit primae vel secundae intentionis, non teneris respondere aliter quam conditionaliter sic, scilicet, quod si significet aliquid ea ratione qua est signum vel significatum, est terminus secundae intentionis, sin autem non.
 
 -   Sequitur tertio quod omnes termini de quibus in hac materia terminorum consideratur principaliter similiter, et in tota logica sunt secundae intentionis.
 
@@ -2575,7 +2575,7 @@ Ista propositio non eget probatione dummodo solvantur argumenta quae contra ipsa
 
 -   Primum: Aliquod copulatum, cuius una pars principalis est terminus primae intentionis et alia secundae, est terminus primae intentionis, et non secundae. Patet de sito copulato "Sortes et Terminus mentalis", capiendo ly 'Sortes' personaliter secundum significationem secundum quam significat Sortem.
 -   Secundum: Aliquod tale copulatum est terminus secundae intentionis et non primae. Patet de isto "Hoc ens et Hoc nomen", eodem termino scripto /54a/ utrobique demonstrato.
--   Tertium: Aliquod tale copulatum est primae intentionis et etiam secundae copulative, et secundum eandem significationem. Hoc patet de isto copulato "Substantia indivisibilis et Significatum" per istum terminum 'angelus' secundum istam definitionem, demonstrando significationem de ly 'angelus', unde illud copulatum "Quemlibet angelum" significat de significatione totali, connotando quod sit significatus etc.
+-   Tertium: Aliquod tale copulatum est primae intentionis et etiam secundae copulative, et secundum eandem significationem. Hoc patet de isto copulato "Substantia indivisibilis et Significatum" per istum terminum 'angelus' secundum istam definitionem, demonstrando significationem de ly 'angelus', unde illud copulatum "Quemlibet angelum" significat de significatione totali, connotando quod sit significatus et cetera.
 
 Prout ex propositione apparet, et quemlibet binarium ex uno angelo et una anima intellectiva, significat de significatione totali, non connotando quod sit signum vel signa vel significatum vel significata, prout etiam ex propositione apparere potest, et per consequens ex definitionibus, ille terminus erit simul primae intentionis et secundae copulative secundum illam significationem.
 
@@ -2780,7 +2780,7 @@ Per "caetera servari paria in propositio" intelligo quod taliter serventur quod 
 
 Quarto arguitur: Iste terminus 'iste homo' est terminus singularis et sibi non repugnat verificari de pluribus pro pluribus univoce; ergo definitio mala.
 
-Minor patet, non repugnat illi pronomini demonstrativo demonstrare plures homines univoce; ergo non repugnat illi termino 'iste homo' verificari etc.
+Minor patet, non repugnat illi pronomini demonstrativo demonstrare plures homines univoce; ergo non repugnat illi termino 'iste homo' verificari et cetera.
 
 Consequentia tenet, quia si illud repugnaret illi termino 'homo', illa repugnantia proveniret ex parte illius pronominis demonstrativi.
 
@@ -2812,21 +2812,21 @@ Et si contra dicta arguas: "Ex ipsis sequitur quod ly 'iste homo' in ordine ad c
 
 Ad hoc concedo sequelam et nego falsitatem consequentis, et ad probationem quae potest fieri proportionabiliter, sicut superius fiebat de illo pronomine, dicendum est quod corrupta illa determinatione imaginarie adhuc significat plura in ordine ad copulam de imaginario. Esto quod actualiter non ponatur cum tali, nec sit talis copula, quia non requiritur aliquod istorum, adhoc quod in potentia propinqua dicatur significare in ordine ad talem copulam, licet bene requiretur si actualiter deberet significare, modo ex his non potest concludi quod ille terminus, per corruptionem illius determinationis, cadat a sua significatione, procedendo in sensu in quo debet negari. Neque etiam poterit ex his inferri quod significatio illius termini, secundum quam in ordine ad copulam de imaginario significat plura, proveniat ab illa copula vel determinatione, licet actualis significatio eius, in ordine ad illam, praesupponat illam esse, unde ex sui natura provenit illa significatio.
 
-### Quinto arguitur: Ille terminus 'Sortes' est singularis et non repugnat ipsi, ex modo suae significationis, verificari de pluribus etc
+### Quinto arguitur: Ille terminus 'Sortes' est singularis et non repugnat ipsi, ex modo suae significationis, verificari de pluribus et cetera
 
-Igitur, minor patet quando imponebatur ad significandum Sortem, imponebatur per illam impositionem ad significandum quemlibet hominem pictum similem Sorti; ergo non repugnat ei secundum significationem provenientem ex illa impositione verificari de pluribus etc.
+Igitur, minor patet quando imponebatur ad significandum Sortem, imponebatur per illam impositionem ad significandum quemlibet hominem pictum similem Sorti; ergo non repugnat ei secundum significationem provenientem ex illa impositione verificari de pluribus et cetera.
 
 Antecedens patet ex impositione. Significat omnes illos homines pictos, et non ex alia, quod ex illa per quam imponebatur ad significandum Sortem igitur.
 
 ### Et confirmatur ratio ly 'hominis' et ly 'albus' adiective non sunt singulares 
 
-Et cuilibet illorum ex modo suae significationis repugnat etc, qui nullus potest esse extremum propositionis secundum talem significationem.
+Et cuilibet illorum ex modo suae significationis repugnat et cetera, qui nullus potest esse extremum propositionis secundum talem significationem.
 
 ### Ad argumentum nego minorem, et ad probationem dico quod licet per illam impositionem imponebantur ad significandum quaelibet hominem pictum similem Sorti, non tamen mediante conceptu mediante quo significat Sortem verum, sed mediante alio communi
 
-Propterea concedendum est illud quod infers ex illo antecedente. Sed ex illo non sequitur intentum cum ex illo non sequatur quod secundum illam significationem, secundum quam significat Sortem singulariter, non repugnet sibi etc.
+Propterea concedendum est illud quod infers ex illo antecedente. Sed ex illo non sequitur intentum cum ex illo non sequatur quod secundum illam significationem, secundum quam significat Sortem singulariter, non repugnet sibi et cetera.
 
-Contra hoc arguitur: Conceptus mediante quo significat Sortem singulariter, significat omnes illos homines pictos; ergo mediante illo conceptu ly 'Sortes' significat plura, et ex consequenti, secundum significationem secundum quam significat mediante illo conceptu, non repugnabit sibi etc.
+Contra hoc arguitur: Conceptus mediante quo significat Sortem singulariter, significat omnes illos homines pictos; ergo mediante illo conceptu ly 'Sortes' significat plura, et ex consequenti, secundum significationem secundum quam significat mediante illo conceptu, non repugnabit sibi et cetera.
 
 Antecedens patet. Tum primo, quia illa vox ideo significat quemlibet hominem pictum similem Sorti, quia quilibet illorum est similis Sorti, quem principaliter significat; ergo simile continget de illo conceptu.
 
@@ -2836,9 +2836,9 @@ Ad hanc replicam, concesso antecedente, nego consequentiam. Ratio est quia quamv
 
 ### Ad confirmationem: Propter tales terminos potest dici quo oportet subintelligere in definitione ly 'vel' significare plura de significatione totali et materiali
 
-Quod additur propter ly 'hoc album', et ideo breviter et sufficienter possent dari illae definitiones, ponendo ly 'supponere' loco de ly 'verificari', caeteris servatis paribus et intellectis, sicut dictum est. Modo licet nullus illorum terminorum possit esse extremum in aliqua propositione, tamen ex hoc etc, non sequitur quod eis repugnet supponere pro pluribus, sicut apparebit in suppositionibus.
+Quod additur propter ly 'hoc album', et ideo breviter et sufficienter possent dari illae definitiones, ponendo ly 'supponere' loco de ly 'verificari', caeteris servatis paribus et intellectis, sicut dictum est. Modo licet nullus illorum terminorum possit esse extremum in aliqua propositione, tamen ex hoc et cetera, non sequitur quod eis repugnet supponere pro pluribus, sicut apparebit in suppositionibus.
 
-### Sexto arguitur: Iste terminus Sortes est terminus singularis et sibi non repugnat etc
+### Sexto arguitur: Iste terminus Sortes est terminus singularis et sibi non repugnat et cetera
 
 Minor patet mediante illo conceptu mediante quo significat Sortem, significat plura; igitur antecedens patet. Mediante illo significat Sortem, qui nunc est et Sortem qui fuit puer, prout ex communi modo loquendi apparet et Sortes, qui nunc est, non potest esse Sorte qui fuit puer; igitur minor patet quia dato illius opposito cum Sortes, qui nunc est, habeat aliquas partes quarum nullam habuit Sortes, qui fuit puer. Concedendum est quod aliquod totum potest esse sua pars, hoc patet quod Sortes, qui fuit puer, secundum se, et quodlibet fui, sit iam, et totus Sortes qui est iam ultra illum, addat aliquid.
 
@@ -2851,7 +2851,7 @@ Quis succincte tangam ut clarius intelligantur dicenda.
 -   Dicitur enim primo modo aliquid idem alicui quando sic est idem illi quod nulla est pars ipsius, quin illa sit pars illius, et ediverso. Et hoc modo 'Iber' qui iam est, non est idem illi qui fuit heri, nec Sortes qui iam est esset idem illi qui fuit heri, supposito quod Sortes habeat aliquas partes quarum nullam ille qui fuit heri habuisset quantumcumque totus Sorte qui fuit heri sit iam.
 -   Secundo modo dicitur aliquid idem alicui quando aliqua pars principalis unius est eadem primo modo, cum aliqua parte principali alterius, et isto modo Sortes, qui est, iam est idem illi qui fuit heri, in casu statim tacto propter identitatem animae in utroque, et sic, assignando istum secundum modum in casu aliquis homo est idem alicui asino. Hoc patet si communicent in tota materia unus homo et unus asinus. Si tamen diceretur quod illa pars principalis debet esse forma secus esset.
 -   Tertio modo dicitur aliquid idem alicui, quia maior pars quam medietas ipsius est eadem primo modo cum maiori parte quam mediante illius, et hoc modo, in casu aliquis homo est idem alicui asino. Et similiter in aliquo casu 'a' est idem ipsi 'b', et 'b' est idem 'c', et tamen 'a' non est idem 'c', posito enim quod 'a' componatur ex 'd', 'e' et 'f', tribus partibus aequalibus non communicantibus, et 'b' ex 'e', 'f' et 'g', tribus aequalibus /59a/ et non communicantibus, quarum 'g' non sit 'd' nec communicet cum 'd', et 'c' componatur ex 'f', 'g', 'b' tribus aequalibus non communicantibus, quarum 'b' non sit 'd' vel 'e' vel communicans cum 'd' vel 'e'. Tunc enim continget illud. Immo posset contingere quod 'a' sit idem 'b' isto modo, et 'b' idem 'c', et 'c' idem 'd', et tamen 'd' non sit idem 'a' vel communicans cum 'a', et hoc facile potest verificari. Similia possunt contingere de secundo modo identitatis, non tenendo quod illa pars principalis debet esse forma, sed non contingerent similia de primo modo.
--   Quarto modo dicitur aliquid idem alicui quia partes eius succedunt partibus illius in simili situ et consimili figura esto quod non omnino, et hoc modo Iber, qui iam non sit. Ex quo patet quod nihil dicitur esse idem alicui primo modo, nisi illud sit, nec aliquid fuit idem alicui nisi illud fuerit etc. Nec aliquid sit idem alicui nisi illud erit etc. Tamen aliquid est idem 'a' quarto modo, esto quod 'a' non sit, et aliquid fuit aut erit idem 'a' quarto modo absque hoc quod fuerit aut erit 'a'.
+-   Quarto modo dicitur aliquid idem alicui quia partes eius succedunt partibus illius in simili situ et consimili figura esto quod non omnino, et hoc modo Iber, qui iam non sit. Ex quo patet quod nihil dicitur esse idem alicui primo modo, nisi illud sit, nec aliquid fuit idem alicui nisi illud fuerit et cetera. Nec aliquid sit idem alicui nisi illud erit et cetera. Tamen aliquid est idem 'a' quarto modo, esto quod 'a' non sit, et aliquid fuit aut erit idem 'a' quarto modo absque hoc quod fuerit aut erit 'a'.
 
 Sed an de secundo et tertio modo idem contingat sicut de quarto vel an simile sicut de primo, haec difficultas magis est ad nomen quam ad rem. Possent enim assignari illi duo primi modi, taliter quod simile contingeret de ipsis, quantum ad illud sicut de quarto, et possent taliter assignari quod non contingeret simile quantum ad illud de ipsis sicut de quarto.
 
@@ -2891,16 +2891,16 @@ Ad hanc replicam concessa sequela, nego falsitatem consequentis, et ad illa quat
 
 Ad hoc potest dici affirmative et etiam negative, et non est difficultas nisi ad nomen.
 
-Si dicatur affirmative dicetur quod ad illud sufficit quod sit idem secundo modo cum illo etc.
+Si dicatur affirmative dicetur quod ad illud sufficit quod sit idem secundo modo cum illo et cetera.
 
 Si dicatur secundo modo, dicetur quod illud non sufficit, sed requiretur quod succedat illi vel successisset per augmentationem vel diminutionem naturalem, per conversionem alimenti in substantiam aliti. Aliquando esset tota materia quam informaret illa forma, tunc rediret idem Plato omni modo identitatis, et quando sic rediret esset filius illius mulieris, et ex consequenti, si Sortes iam deberet tibi centum scuta plata, antequam illo modo succederet non teneretur, solveretur /60a/ tibi, sed postquam successerit tenebitur, et isto modo dicendo patent duo corollaria quae videntur satis mirabilia:
 
 -   Primum. Plato est et Berta, et Plato non est filius Bertae, et cras erit filius Bertae, et tamen nulla mulier parit vel pariet, et nullus homo nascitur nec nascetur.
 -   Secundum. Sortes non est dignus suspendio et est, et cras erit dignus suspendio, et nihil mali facit, vel in posterum faciet, nec faciet aliquis homo aliquid mali, et multo plura posset inferri dicendo illo secundo modo, respiciendo ad ea quae statim tacta sunt.
 
-Ad secundum corollarium quod infers, nego illud, et dico quod ad illud non requiritur quod ille fuerit natus in tali patria, sed satis est quod succedat illi etc. Et si interdum concedatur ista "Iste est natus in tali patria" sic debet intelligi "Hoc est iste, succedit illi etc", vel est idem secundo modo cum illo etc.
+Ad secundum corollarium quod infers, nego illud, et dico quod ad illud non requiritur quod ille fuerit natus in tali patria, sed satis est quod succedat illi et cetera. Et si interdum concedatur ista "Iste est natus in tali patria" sic debet intelligi "Hoc est iste, succedit illi et cetera", vel est idem secundo modo cum illo et cetera.
 
-Consimiliter dicatur ad tertium corollarium negando ipsum, et ratio assignetur sicut statim ad quartum correlarium. Concedatur in rigore si tamen quis vellet capere illud in hoc sensu "Hoc est iste, succedit illi etc", vel est idem secundo modo cum illo etc, esset concedendum, et propterea in his materiis oportet videre, in quibus sensibus capiantur propositiones, et iuxta sensus illarum facile apparebit quid sit dicendum de veritate illarum, et qualiter debeat salvari communis modus loquendi.
+Consimiliter dicatur ad tertium corollarium negando ipsum, et ratio assignetur sicut statim ad quartum correlarium. Concedatur in rigore si tamen quis vellet capere illud in hoc sensu "Hoc est iste, succedit illi et cetera", vel est idem secundo modo cum illo et cetera, esset concedendum, et propterea in his materiis oportet videre, in quibus sensibus capiantur propositiones, et iuxta sensus illarum facile apparebit quid sit dicendum de veritate illarum, et qualiter debeat salvari communis modus loquendi.
 
 ### Septimo arguitur: Iste terminus 'homo' est communis secundum acceptionem quam habet ibi "Iste homo currit" capiendo ly 'iste" pro non parte subiecti, et tamen repugnat illi ex modo suae significationis verificari de pluribus secundum illam; ergo illa definitio mala
 
@@ -2932,9 +2932,9 @@ Forte dices quod verum est quod non possunt esse plures soles nec plures lunae n
 
 Si forte dicas quod licet naturaliter non possint esse plures soles aut plures lunae totales, tamen bene possunt esse plures partiales, quod sufficit ad illos terminos esse communes, postquam nullus connotat totalitem. Hoc mihi faceret ad difficultatem, quia ducam ipsam de istis terminis 'Sol totalis', 'Luna totalis', et propterea in sequentibus procedam de ly 'Sol' et de ly 'Luna' loco istorum terminorum. Ideo forte dices aliter ad argumentum, negando minorem, et ad probationem dices quod licet non possunt esse plures soles aut lunae, tamen non repugnat ilis ex modis suarum significationum verificari de pluribus, quia si per possibile vel impossibile essent plures soles, ly 'sol' verificaretur de pluribus, et ita de ly 'luna', et hoc sufficit ad hoc quod ipsis non repugnet ex modis suarum significationum verificari de pluribus.
 
-Contra hoc arguitur: Sequitur ex ipso quod ille terminus 'Sortes' est communis, quod est falsum quod sequatur. Patet quia ex modo suae significationis non repugnat verificari de pluribus; ergo est communis. Antecedens patet, quia si per possibile vel impossibile essent plures distincti quorum quilibet esset Sortes, ille terminus 'Sortes' verificaretur de illis; ergo ex modo suae significationis etc modus arguendi est similis cum illo quem facis de ly 'Sol', et illa conditionalis tenet. Tunc propter impossibilitatem antecedentis tum etiam, hoc relicto, tenet eodem modo, sicut teneret illa quam facis de ly 'Sol' ex eo, quia ly 'Sortes' significat quidquid potest esse Sortes mediante conceptu mediate qui est singularis, sicut ly 'Sol' significat quidquid postes esse Sol mediante suo conceptu.
+Contra hoc arguitur: Sequitur ex ipso quod ille terminus 'Sortes' est communis, quod est falsum quod sequatur. Patet quia ex modo suae significationis non repugnat verificari de pluribus; ergo est communis. Antecedens patet, quia si per possibile vel impossibile essent plures distincti quorum quilibet esset Sortes, ille terminus 'Sortes' verificaretur de illis; ergo ex modo suae significationis et cetera modus arguendi est similis cum illo quem facis de ly 'Sol', et illa conditionalis tenet. Tunc propter impossibilitatem antecedentis tum etiam, hoc relicto, tenet eodem modo, sicut teneret illa quam facis de ly 'Sol' ex eo, quia ly 'Sortes' significat quidquid potest esse Sortes mediante conceptu mediate qui est singularis, sicut ly 'Sol' significat quidquid postes esse Sol mediante suo conceptu.
 
-### Et confirmatur ratio: Iste terminus 'Deus' est communis et sibi repugnat etc; igitur maior est nota et minor probatur quia non possunt esse plures dei
+### Et confirmatur ratio: Iste terminus 'Deus' est communis et sibi repugnat et cetera; igitur maior est nota et minor probatur quia non possunt esse plures dei
 
 Forte dices quod licet non possunt esse plures dei tamen verificatur de tribus personis in divinis, quae realiter distinguuntur, et hoc sufficit ad ipsum esse communem.
 
@@ -2948,9 +2948,9 @@ Forte dices quod potest verificari de pluribus in ordine ad copulam de imaginari
 
 Contra: Ex hoc sequitur quod ly 'Sortes' est eodem modo communis sicut ly 'Chimaera', quod est falsum, quia ly 'Chimaera' in ordine ad quamlibet copulam est communis et non ly 'Sortes'. Et quod sequatur patet quia verificatur de pluribus in ordine ad copulam de imaginario eodem modo sicut ly 'Chimaera'.
 
-### Ad argumentum respondetur concessa maiore. Sive loquamur naturaliter sive supernaturaliter nego minorem, et a probationem dico quod licet non possunt esse plures soles aut lunae, non tamen propterea illis repugnat ex modis suarum significationum etc
+### Ad argumentum respondetur concessa maiore. Sive loquamur naturaliter sive supernaturaliter nego minorem, et a probationem dico quod licet non possunt esse plures soles aut lunae, non tamen propterea illis repugnat ex modis suarum significationum et cetera
 
-Causam huius assignant aliqui, quia si per possibile vel impossibile etc, sed propter replicam tactam nihil vale illa assignatio.
+Causam huius assignant aliqui, quia si per possibile vel impossibile et cetera, sed propter replicam tactam nihil vale illa assignatio.
 
 Et si petas quomodo ergo cognoscetur quando alicui ex modo suae significationis repugnat verificari de pluribus, multi sunt qui non possunt verificari quibus non repugnat illud et multi sunt quibus repugnat.
 
@@ -3034,7 +3034,7 @@ Sed pro conditionatis, tenendo ipsa non ampliativa pono hanc conclusionem:
 
 Propositio intelligatur quando ly 'est' in conditionato non negatur et, seclusus terminus ampliativus in quibus forte non haberet illud, verum. Sed tenendo conditionata ampliativa, difficile esse dare aliquod conditionatum quod esset terminus singularis, nisi dicatur quod aliquod istorum est huiusmodi "Hoc risibile est intelligibile", capiendo ly 'hoc risibile' ampliative. Hic "Deus si est intelligibile" hic 'Deus' si est Sortes dummodo teneatur \<quod pro duobus ultimis\>, quod ly 'hic Deus' sit terminus singularis.
 
-Sed quid parva est in his difficultas, similiter et in disiunctis non ampliorem mentionem faciam pro nunc de ipsis, sed solum inquiram de veritate tertiae propositionis positae pro copulatis. Contra quam arguitur primo sic: Ly 'Sortes' et omnis homo est copulatum cuius una pars principalis etc, et non est terminus communis; igitur maior est nota et minor patet quia repugnat ei, ex modo suae definitionis, verificari de alio quam de Sorte, et de solo Sorte potest verificari.
+Sed quid parva est in his difficultas, similiter et in disiunctis non ampliorem mentionem faciam pro nunc de ipsis, sed solum inquiram de veritate tertiae propositionis positae pro copulatis. Contra quam arguitur primo sic: Ly 'Sortes' et omnis homo est copulatum cuius una pars principalis et cetera, et non est terminus communis; igitur maior est nota et minor patet quia repugnat ei, ex modo suae definitionis, verificari de alio quam de Sorte, et de solo Sorte potest verificari.
 
 Dices forte quod illud copulatum non potest verificari de aliquo, quia ly 'omnis homo' non potest supponere, ex quo non est possibile quod praecise sit unus homo, nam pars hominis est homo. Hoc non tolleret ipsum esse terminum communem, sed quidquid sit, tunc capiam argumentum de isto toto Sortes et omnis homo non partialis.
 
@@ -3044,7 +3044,7 @@ Sed contra hoc arguitur: Posito quod iam sit unus homo totalis, cuius Sortes sit
 
 Forte dices propter hoc quod illa propositio non patitur instantiam in his, sed bene in similibus in quibus termini important res simplices, sicut ibi Michael et omnis angelus.
 
-Contra hoc arguitur: Huic termino non repugnat ex modo suae significationis verificari de pluribus etc; igitur antecedens patet, quia de significatione totali significat plura divisim. Ergo ex superius dicitis non repugnat illi etc.
+Contra hoc arguitur: Huic termino non repugnat ex modo suae significationis verificari de pluribus et cetera; igitur antecedens patet, quia de significatione totali significat plura divisim. Ergo ex superius dicitis non repugnat illi et cetera.
 
 Antecedens patet quia ex una parte de significatione totali significat Michaelem et Gabrielem, ex altera autem parte significat Michaelem et Raphaelem de significatione totali. Hoc potest probari supposito quod secunda pars principalis illius, quemlibet angelum de significatione totali significat, quia ly 'Sortes' et omnis asinus, ex una parte Sortem et Brunellum de significatione totali significat, et ex /63a/ altera Sortem et Favellum, et hoc est propterea quia una pars principalis eius significat Sortem et altera quemlibet asinum de significatione totali significat. Ergo per idem, in proposito continget illus assumptum.
 
@@ -3052,7 +3052,7 @@ Forte dices aliter ad argumentum, ducendo ipsum de illo copulato Michael et omni
 
 Sed haec solutio peteret principium ex quod per hoc quod illa duo copulata sint eiusdem formae vult concludere quod primum copulatum sit terminus communis, quia ex conditionibus requisitis ad similitudinem formae, postquam secundum est terminus communis. Ad hoc quod illa sint eiusdem formae requiretur quod primum sit terminus communis, unde manifeste apparet quod illud quod assumit ad concludendum intentum, praesupponit illud quod per illud assumptum vult concludere, et ex consequenti, qualitercumque intelligeretur definitio termini communis, in ipsa peteretur principium. Et etiam posse argui de isto "Hic angelus et omnis angelus" de quo rediret difficultas quia non videtur quod aliquis similis formae cum illo possit verificari de pluribus.
 
-Reliqueris igitur, his modis dicendi, aliter dicam pro difficultate argumenti, unde dico quod quodlibet illorum copulatorum, quae in processu argumenti tacta sunt, est terminus communis, et licet aliquod illorum non possit verificari de pluribus, tamen nulli illorum repugnat, ex modo suae significationis, verificari de pluribus etc, quia quodlibet illorum de significatione totali significat plura divisim, prout ex processu potest apparere.
+Reliqueris igitur, his modis dicendi, aliter dicam pro difficultate argumenti, unde dico quod quodlibet illorum copulatorum, quae in processu argumenti tacta sunt, est terminus communis, et licet aliquod illorum non possit verificari de pluribus, tamen nulli illorum repugnat, ex modo suae significationis, verificari de pluribus et cetera, quia quodlibet illorum de significatione totali significat plura divisim, prout ex processu potest apparere.
 
 Secundo arguitur: Volo quod ly 'Plato' ultra significationem quam habet, imponatur ad significandum tantum sicut ly 'homo', non tamen propterea istud copulatum Sortes et Plato significet aliter quam prius. Hoc dato una pars principalis illius copulati 'Sortes et Plato' est terminus communis, et altera singularis, et illud copulatum non est terminus communis.
 
@@ -3126,7 +3126,7 @@ De quibus principaliter spectat considerare in aliis partibus logices. Ideo pro 
 
 Terminorum quidam est absolutus et quidam connotativus. Divisum huius divisionis est ly 'terminus' significans aliquid vel aliqua.
 
--   Terminus connotativus est qui ultra significatum suum materiale significat aliquid vel aliqua vel aliqualiter sibi convenire. Dicitur aliquid propter istum terminum 'alba' et similes, et dicitur aliqualiter etc propter istum terminum 'ridens' et similes. Et de quolibet illorum dicimus quod ultra suum significatum materiale, significat aliquid vel aliqua vel aliqualiter sibi convenire, et hic modus loquendi servatur in definitione, quia non possumus convenientius loqui in huiusmodi terminis definiendis, nec ex isto modo loquendi potest inferri quod quilibet terminus connotativus sit complexus.
+-   Terminus connotativus est qui ultra significatum suum materiale significat aliquid vel aliqua vel aliqualiter sibi convenire. Dicitur aliquid propter istum terminum 'alba' et similes, et dicitur aliqualiter et cetera propter istum terminum 'ridens' et similes. Et de quolibet illorum dicimus quod ultra suum significatum materiale, significat aliquid vel aliqua vel aliqualiter sibi convenire, et hic modus loquendi servatur in definitione, quia non possumus convenientius loqui in huiusmodi terminis definiendis, nec ex isto modo loquendi potest inferri quod quilibet terminus connotativus sit complexus.
 
     Per significatum materiale alicuius termini intelligimus significatum eius pro quo accipitur in potentia propinqua.
 
@@ -3236,14 +3236,14 @@ Terminus transcendes est duplex: quidam in significando, et quidam in significan
 
 Hic tamen adverte, quod si teneatur quod ly 'ens' analogice dicatur de substantia et accidente, primo de substantia et secundario de accidente, et ita dicatur de aliis terminis de quibus exemplificabatur statim, et hoc non obstante dicantur transcendentes in significando et supponendo tunc definitio data non est sufficiens, sed oportebit illi addere "Hoc totum vel est terminus mediante uno conceptu significans omnes substantias". Et mediante alio secundario omnia accidentia, taliter quod disiunctum ex talibus duobus conceptibus se habet, sicut tangitur in illa definitione quae primo dabatur, et ponetur illud quod tangebatur in prima definitione propter aliqua transcendentia complexa cuius modi sunt aliqua disiuncta, quae mediante uno conceptu significant omnes substantias et omnia accidentia, et addetur ista secunda particula "Propter illos terminos de quibus statim exemplificabatur, qualitercumque dicatur de his modis" facile est loqui consequenter.
 
-Et ex hoc apparet quo modo debeat definiri ly 'terminus non transcendens' unde est terminus qui non significat etc, sicut in definitione termini transcendes.
+Et ex hoc apparet quo modo debeat definiri ly 'terminus non transcendens' unde est terminus qui non significat et cetera, sicut in definitione termini transcendes.
 
 ### Sequitur alia divisio termini, unde terminorum quidam est terminus infinitus et alius finitus
 
 Sequitur alia divisio termini, unde terminorum quidam est terminus infinitus et alius finitus. Divisum huius divisionis erit ly 'terminus in toto suo ambitu' si teneatur quod terminus syncategorematicus significatione, est terminus finitus. Sin autem erit ly 'terminus categorematicus significatione'.
 
 -   Terminus infinitus est terminus significans mediante termino mentali ultimato adaequate composito ex aliquo termino tamquam ex una parte principali et ex negatione infinitantem illum tamquam ex alia.
--   Terminus autem finitus est terminus non significans mediante aliquo termino mentali ultimato etc.
+-   Terminus autem finitus est terminus non significans mediante aliquo termino mentali ultimato et cetera.
 
 Sicut in praedicta definitione, exemplum primum patet de ly 'non-homo', exemplum secundi patet de ly 'homo'.
 
@@ -3311,7 +3311,7 @@ Sed ly 'termini synonymi in toto suo ambitu' prout comprehendit tam terminos syn
 
 Aliqui dicunt quod ad synonymitatem in voce requiritur diversitas vocum et ita de scriptura, propterea isti duo termini 'homo', 'homo' in voce non erunt synonymi nec in scripto sed identici. Hoc tamen ad nomen consistit.
 
-> Termini non-disparati convertibiles et non-synonymi sunt termini non disparati convertibiles qui non significant etc.
+> Termini non-disparati convertibiles et non-synonymi sunt termini non disparati convertibiles qui non significant et cetera.
 
 Sicut in praecedenti definitione.
 

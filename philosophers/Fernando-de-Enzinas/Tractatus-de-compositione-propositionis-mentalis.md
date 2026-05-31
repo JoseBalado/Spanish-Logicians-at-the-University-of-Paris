@@ -620,7 +620,7 @@ Unde quamvis determinatio non supponat, totum bene potest supponere, quando dete
 Aliqui namque dicerent significare aliqualiter omnem eum terminum, qui non potest esse extremum in propositione; sed hi non explicant quis sit modus significandi aliqualiter.
 
 Alii dicunt quod significare aliqualiter est exercere officium supra aliquem terminum in propositione, utputa confundendo, distribuendo, ampliando, restringendo, et cetera. Quae definitio de modo significandi aliqualiter simplici et non complexo intelligenda est. Et hoc modo non procedit ratio cuiusdam impugnantis definitionem illam de propositione, quae significat aliqualiter, propter quod dat hanc diffinitionem:
-> significare aliqualiter est significare rem taliter se habere vel esse, vel non taliter se habere.
+> Significare aliqualiter est significare rem taliter se habere vel esse, vel non taliter se habere.
 
 Sed haec diffinitio minus valet quam impugnata ab eo, quia modus hic significandi qualis in definitione explicatur, solum propositioni comperit. Praeterea sequitur ly 'omnis' non significare aliqualiter, nam non significat rem taliter se habere vel rem non taliter se habere, cum non significet rem.
 
@@ -658,32 +658,48 @@ Nam ablato ly 'aliquod', indefinita esset propositio remanens, et ratione eius t
 
 Nam tunc summam hanc "Homo est aliquod animal /1.1b/ de qua nihil tale dicere poteris.
 
---- I am here
+### Apparenter credes dicere ly 'aliquod' officium determinationis habere, et ideo exercet officium quod determinare vocamus.
 
-Apparenter credes dicere ly 'aliquod' officium determinationis habere, ideo exercet officium quod determinare vocamus.
+### Contra hoc arguitur primo: Nullus terminus dicitur alium determinare nisi eum restringat; sed quidquid sit de hoc arguitur:
 
-Contra hoc arguitur primo: nullus terminus habet alium determinare nisi eum restringat. Sed quidquid sit de hoc arguitur, sequitur quemcumque terminum categorematicum significare aliqualiter, sed hoc est falsum, ergo, et cetera. Sequela probatur: ly 'homo' significat aliqualiter, ergo etiam quicumque alius, cum non sit maior ratio de uno quam de alio. Antecedens probatur: in hac propositione "Animal homo currit", ly 'homo' rem, scilicet animal, determinat, ergo significat aliqualiter. Praeterea arguitur: terminus ille dicitur significare aliqualiter ratione cuius intellectus aliqualiter rem significatam per aliquam notitiam intelligit, qualiter illo secluso non intelligeret; sed hoc non convenit huic termino 'aliquis', ergo propositum.
+Sequitur quemcumque terminum categorematicum significare aliqualiter, sed hoc est falsum; ergo et cetera.
 
-Ad hoc argumentum, stando in diffinitione data, difficile est dicere, quia non explicatur quis sit modus significandi signorum particularium, et qualiter intellectus per illos intelligat; quavis enim aliter diffinitio data, tota difficultas posset evitari supposita communi distinctione terminorum, quoniam syncategorematum quoddam est syncategorema officio, quoddam syncategorema significatione. Et supposito quod ly 'significare aliqualiter' potest capi dupliciter: uno modo large, et hoc modo diffinitum est, et secundum illam diffinitionem probatum est ly 'rexistens asinus' et similes significare aliqualiter; alio modo stricte, et hoc modo sic diffinitio.
+Sequela probatur: ly 'homo' significat aliqualiter; ergo etiam quicumque alius, cum non sit maior ratio de uno quam de alio. Antecedens probatur: in hac propositione "Animal homo currit", ly 'homo' restringit ly 'animal' et determinat; ergo significat aliqualiter. Praeterea arguitur: Terminus ille dicitur significare aliqualiter, ratione cuius intellectus, aliqualiter rem significatam per aliquam notitiam intelligit, qualiter illo secluso non intelligeret; sed hoc non convenit huic termino 'aliquis', ergo propositum.
 
-### Terminus significans aliqualiter est terminus syncategorematicus officio, potens exercere officium supra aliquem terminum, vel denotare rem aliqualiter se habere propositionaliter.
+### Ad hoc argumentum, stando in definitione data, difficile est dicere, quia non explicatur quis sit modus significandi signorum particularium et qualiter intellectus per eos intelligat:
 
-Hoc ultimum addo propter propositionem, si enim significare aliqualiter concedamus; et secundum hoc solutum est argumentum, sed non plene, nam quavis dicamus terminos alios determinare, non tamen explicamus qualiter intellectus intellectus intelligit per ipsum.
+Quamvis enim aliter definiendo tota difficultas posset evitari, supposita communi distinctione terminorum, quod syncategorematum quoddam est syncategorema officio, quoddam syncategorema significatione. Et supposito quod ly 'significare aliqualiter' potest capi dupliciter: uno modo large, et hoc modo definitum est, et secundum illam definitionem probatum est ly 'homo', ly 'existens' asinus et similes significare aliqualiter; alio modo stricte, et hoc modo sic definitio.
 
-Pro cuius explanatione notandum est, quemadmodum intellectus non potest accipere termini categorematici aliquem in propositione copulative, nec confuse, nec copulatim, sine aliquo syncategoremate faciente intellectum taliter accipere. Simili modo non potest intelligere disiunctive fine syncategoremate. Et haec est significatio signi particularis in mente. Unde particulariter significare non est nisi facere intellectum rem significatam per notitiam, cuius terminus talis particularizans determinat, disiunctive intelligere; si neque tali signo vel sibi equivalenti intellectus non disiunctive intelligere res significatas per talem notitiam.
+### Terminus significans aliqualiter est terminus syncategorematicus officio:
 
-Et si dicas: quomodo intellectus, quando accipit terminum communem sine signo, intelligit rem significatam per talem terminum, velut in hac "Homo est animal"?
+Potens exercere officium supra aliquem terminum, vel denotare rem aliqualiter se habere proportionaliter.
 
-Ad hoc poteris dicere intellectum numquam sumere terminum in propositione sine signo, ut haec "Equus est album", huic subordinatur "Aliquis equus est aliquod album"; sed quia hoc est nimis durum.
+Hoc ultimum addo propter propositionem: si eam significare aliqualiter concedamus; et secundum hoc solutum est argumentum, sed non plene, nam quamvis dicamus ly 'aliquod' determinare, non tamen explicamus qualiter intellectus intelligit per ipsum.
 
-Dico sicut quidam, quod quando intellectus accipit sine signo notitiam aliquam, non intelligit res significatas per illum terminum copulative, nec disiunctive, nec disiunctim, nec copulatim, sed inconiunctim.
+### Pro cuius explanatione notandum est, quod quemadmodum intellectus non potest accipere terminum categorematicum aliquem in propositione copulative, nec confuse, nec copulatim, sine aliquo syncategoremate faciente intellectum taliter accipere:
 
-Arguendo ex his, facilis potest elici diffinitio huius termini 'significare aliqualiter' hoc modo:
+Simili modo non potest intelligere disiunctive /11.2b/ fine syncategoremate. Et haec est significatio signi particularis in mente. Unde particulariter significare non est nisi facere intellectum rem significatam per notitiam, quam terminus talis particularizans determinat, disiunctive intelligere; si neque tali signo vel sibi aequivalenti intellectus non disiunctive intelligere res significatas per talem notitiam.
 
-### Terminus significans aliqualiter est syncategorematicus, cuius intellectus res significatas per notitiam, quam talis terminus determinat, aliquo modo intelligit, quomodo sine ipso non intelligeret; et in hoc consistit modus significandi aliqualiter.
+### Et si dicas: Quomodo intellectus, quando accipit terminum communem sine signo intelligit rem significatam per talem terminum, velut in hac "Homo est animal"?
 
-Si propositionem lubet addere, adiice particulam ad ipsam includendum. Quidam dicunt significare particulariter esse denotare terminum accipi quodammodo discrete pro aliquo determinado suo supposito, sed quis sit ille modus discretus non declarat, nam clarum est non esse singularizare particulariter, quia particularis reddit ut propositionem particularem, nam haec "Sortes est aliquod animal" non redditur ratione illius signi particularis; quare in solutione et diffinitione iam ultimo data huius termini 'significare aliqualiter' sto.
+### Ad hoc poteris dicere intellectum numquam sumere terminum in propositione sine signo:
 
-## Sed contra diffinitionem positam huius termini 'significare aliqualiter' arguitur, tangendo difficultatem de pronominibus demonstrativis.
+Ut haec "Equus est album" huic subordinatur "Aliquis equus est aliquod album"; sed quia hoc est nimis durum.
 
-Ex diffinitione sequeretur pronomen demonstrativum, ut 'hoc', esse syncategorematicum pure, et significare aliqualiter; hoc est falsum, ergo, et cetera. Sequela magis...
+### Dico sicut quidam quod quando intellectus accipit sine signo notitiam aliquam, non intelligit res significatas per illum terminum copulative, nec disiunctive, nec disiunctim, nec copulatim; sed inconiunctim.
+
+### Atque ex his, facilis potest elici definitio huius termini 'significare aliqualiter' hoc modo:
+
+<!-- Importat -->
+Terminus significans aliqualiter est syncategorema officio, ratione cuius, intellectus res significatas per notitiam quam talis terminus determinat, aliquo modo intelligit, quomodo sine ipso non intelligeret; et in hoc consistit modus significandi aliqualiter.
+
+Si propositionem lubet addere, adiice particulam ad ipsam includendum.
+
+Quidam dicit significare particulariter esse denotare terminum accipi quodammodo discrete pro aliquo determinato suo supposito. Sed quis sit ille modus discretus non declarat, nam clarum est non esse singularizare particulariter significate, nec est syncategorema signum particulari, quia reddit ut ipse dicit propositionem particularem, nam haec "Sortes est aliquod animal" non redditur ratione illius signi particularis; quare in solutione et definitione iam ultimo data huius termini 'significare aliqualiter' sto.
+
+
+# De significatione pronominis et verbi
+
+## Sed contra diffinitionem positam huius termini 'significare aliqualiter' arguitur, tangendo difficultatem de pronominibus demonstrativis:
+
+Ex ea definitione sequeretur pronomen demonstrativum pure syncategorematicum esse significare quam aliqualiter; sed hoc est falsum, ergo et cetera. Sequela manifesta /12.1a/ est, et probatur minor actus pure de----

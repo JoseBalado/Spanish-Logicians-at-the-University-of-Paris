@@ -29,18 +29,17 @@ The text flows continuously across folios; the marker is a reference point, not 
 
 ## Accusativus cum Infinitivo (AcI) — Hyphens
 
-Always connect AcI constructions with hyphens. This is one of the most important
-logical-structural rules.
+Always connect AcI constructions with hyphens **only when the AcI refers to the *dictum*** (the proposition treated as a substantive object or a mental proposition being analyzed). Do not hyphenate regular indirect statements or running grammatical clauses.
 
-**Correct:**
-- `hominem-esse-animal`
-- `Sortem-currere`
+### Correct (Refers to a *dictum* / proposition-as-object):
+* `hominem-esse-animal`
+* `Sortem-currere`
 
-**Incorrect:**
-- `hominem esse animal`
-- `hominem esse-animal`
+### Incorrect (Missing hyphens for a *dictum*):
+* `hominem esse animal`
 
-Apply consistently every time an AcI construction appears, even mid-sentence.
+### Correct (Regular Grammatical Flow — No Hyphens):
+* `Ex ea definitione sequeretur pronomen demonstrativum pure syncategorema esse...`
 
 ---
 
@@ -102,7 +101,7 @@ These specific expansions were confirmed or corrected:
 | `atq3` | `atque` |
 | `neq3` | `neque` |
 | `q3` suffix | `que` (e.g., `eliq3` → `eisque`, `eiiq3` → `eisque`) |
-| `q̄3` | `quam` |
+| `q̄3` alone, suffix and prefix | `quam` |
 | `postq¨3` | `postquam` |
 | `vtrique` | `utrique` |
 | `vnam` | `unam` |
@@ -154,31 +153,54 @@ Utrum ly 'futurus' et alii consimiles termini syncategoremata sint.
 
 ---
 
-## Pilcrow (¶) Size Hierarchy
+# Pilcrow (¶) Size Hierarchy & Heading Layout
 
-The text uses two distinct sizes of ¶ that signal different structural levels:
+## Distinguishing Pilcrow Sizes by Font Size
 
-- **Large ¶** — marks a major section opener, a new argumentative block. Render as `##` heading. The full title of the section follows on the same line, including subordinate clauses.
-  - Example: `## Circa igitur opinionem hanc ponentem syncategorema in anima nihil significare.`
-- **Small ¶** — marks individual subordinate items within a section, such as numbered *difficultates*. Each small ¶ renders as a `###` heading containing the full question, followed by any continuation prose as a plain paragraph.
-  - Example: `### Difficultas prima ergo erit: Utrum actu syncategorematici dicantur immutare intellectum.`
+### Large Pilcrow (##)
+The font of the text immediately following the pilcrow is visually larger than the regular paragraph text on the next line.
 
-## Pilcrow (¶) Size Hierarchy & Heading Layout
+### Small Pilcrow (###)
+The font of the text immediately following the pilcrow is the exact same size as the regular paragraph text on the next line.
 
-Do NOT force a long historical sentence entirely into a heading if it compromises readability. However, you must remain flexible: if a sentence is easy to split, isolate the core thesis as a short title line. If splitting feels forced or clunky, leave the entire sentence inside the heading. 
+## Rules for Splitting Text After the Pilcrow (Large and Small)
 
-- **Large ¶ (`##` Heading):** 
-  Marks a major section opener or a new argumentative block. Render as a `##` heading, shortening the text to a punchy title line that captures the main theme. End with a period or no punctuation.
-  - **Example:** `## Circa igitur opinionem hanc ponentem syncategorema in anima nihil significare.`
+### Isolate the Thesis
+If a long sentence is easy to split, extract the core logical claim for the `###` heading line. 
 
-- **Small ¶ (`###` Heading):** 
-  Marks individual subordinate items, objections, or localized *difficultates*. 
-  - **Action:** Render as a `###` heading containing the core question or logical claim.
-  - **The Trailing Colon Anchor:** Always end the `###` line with a trailing colon (`:`). Drop down a line, and begin the main explanatory body as a new, capitalized paragraph.
-  - **Example:**
-    ### Item videtur quod quicumque terminus categorematicus absolutus significaret aliqualiter:
-    
-    Nam quicumque terminus categorematicus absolutus significat rem, nec importat eam aliquo modo se habere...
+### Keep Examples in the Commentary
+When splitting a sentence, always aim to push concrete text examples (e.g., `"Equus est album"`) out of the heading line and down into the commentary text below it.
+
+### The Colon Anchor
+Always end the heading line with a trailing colon (`:`).
+
+### Drop and Capitalize
+Put the remaining text on a new line after a blank line. Start it with a capital letter.
+
+### Keep It Whole if Clunky (No Dangling Fragments)
+If splitting feels forced, or if it leaves a tiny grammatical fragment dangling awkwardly on its own line (such as `; sed inconiunctim.`), do not force a split. Keep the entire continuous sentence inside the heading line and terminate it with a colon. Semicolons before a contrastive `sed` are perfectly valid to preserve inside a whole heading.
+
+## Example 1: Splitting a Definitive Sentence
+
+Original:
+```text
+### Terminus significans aliqualiter est terminus syncategorematicus officio, potens exercere officium supra aliquem terminum, vel denotare rem aliqualiter se habere proportionaliter.
+```
+
+Split:
+```text
+### Terminus significans aliqualiter est terminus syncategorematicus officio:
+
+Potens exercere officium supra aliquem terminum, vel denotare rem aliqualiter se habere proportionaliter.
+```
+
+## Example 2: Keeping a Sharp Contrast Whole (No Fragmenting)
+
+Correct Continuous Heading (Ending with a period since no commentary text follows):
+```text
+### Dico sicut quidam quod quando intellectus accipit sine signo notitiam aliquam, non intelligit res significatas per illum terminum copulative, nec disiunctive, nec disiunctim, nec copulatim; sed inconiunctim.
+```
+
 
 - **Strict Philological Preservation Rule:** 
   **NEVER alter the original words, inflections, or word order to force a text segment into a heading style.** Do not swap words around to sound like a modern title, and do not omit inline particles. Every word from the original source must be preserved in its exact historical sequence, whether kept fully inline or split across a paragraph line break.

@@ -702,4 +702,65 @@ Quidam dicit significare particulariter esse denotare terminum accipi quodammodo
 
 ## Sed contra diffinitionem positam huius termini 'significare aliqualiter' arguitur, tangendo difficultatem de pronominibus demonstrativis:
 
-Ex ea definitione sequeretur pronomen demonstrativum pure syncategorematicum esse significare quam aliqualiter; sed hoc est falsum, ergo et cetera. Sequela manifesta /12.1a/ est, et probatur minor actus pure de----
+Ex ea definitione sequeretur pronomen demonstrativum pure syncategorematicum esse significare quam aliqualiter; sed hoc est falsum, ergo et cetera. Sequela manifesta /12.1a/ est, et probatur minor actus pure demonstrativi significat rem demonstratam; ergo significat aliquid.
+
+Antecedens probatur de hac propositione "Iste currit", demonstrato Sortem, datur intelligi res demonstrata, et non nisi per ly 'iste'; ergo ly 'iste' significat rem demonstratam.
+
+### Forte dices quod datur intelligi per terminum inclusum in ly 'iste'.
+
+### Contra hoc arguitur: In hac propositione "Iste homo currit", per ly 'iste', demonstrando lapide, intelligitur res demonstrata, et non per alium terminum quam per ly 'iste'; ergo per ly 'iste', quare ly 'iste' rem demonstratam significat.
+
+# De productione et dependentia actus a suo obiecto:
+
+### Pro solutione huius in quo quartum dubium inquiritur: Suppono demonstrative significare non esse aliud, quam intellectum, ratione actus demonstrativi, notitiam communem pro unico tantum supposito accipere; seu mutare intellectum ad singulariter, concipiendum rem aliquam, per notitiam communem determinatam, ipso:
+
+Ut intellectus in hac propositione "Homo est Sortes" universaliter pro quocumque homine accipit notitiam hominum; sed adveniente pronomine 'iste', assumit solum notitiam illam pro demonstrato, ita quod praedicatum denotatur competere subiecto tantum pro demonstrato. Et per hoc facile est intelligere actum demonstrantem Sortem non posse Platonem demonstrare, nec simul, nec successive, et hoc ex natura actus. Quare specie differunt actus demonstrans Sorte et demonstrans Platonem, ut postmodum dicitur, cum de diversitate specifica syncategorematum agetur, quod autem verum sit quod actus demonstrans Sortem non possit postmodum demonstrare Platonem (loquor de syncategorematis mentalis ultimatis, nam vocalia aequivoca sunt). Patet, nam tunc propositio, quae est impossibilis, fiet vera per temporis successionem; aut intellectus seu voluntatis placitum. Id patet de hac mentali "Iste homo est Sortes" pronomine demonstrante Platonem, quae impossibilis est. Quod autem illa possit esse vera patet, nam illud idem pronomen potest demonstrare Sortem, quo facto, illa vera est.
+
+### Et ex definitione demonstrative significare patet: Pronomen non posse esse sine termino categorema significante idem quod pronomen denotat:
+
+Quod etiam dubio sexto de quocumque syncategoremate, /12.1.b/ probatur non fore possibile esse sine notiis quas determinat. Atque per hoc patet quod non potest esse totale extremum, nam quanvis dicamus 'istud currit' in voce, propositio illa vocalis subordinatur huic "Istud animal currit", seu "Ens currit", secundum diversitatem terminorum quos intellectus concipit; quemadmodum haec "Aliquod currit" subordinatur huic "Aliquod ens currit", seu "Aliquod animal currit", et cetera.
+
+Et per hoc facile est dicere ad argumentum, sicut dictum usque ad replicam ad quam respondeo quod in mentali ultimata non potest actus aliquis determinans solam notitiam hominum demonstrare equum, aut lapidem; quare mentalis talis non reperitur. Sed bene potest dari pronomen singularizans notitiam lapidum pro lapide demonstrato. At vero si vocalem hanc assumpseris "Iste homo currit", demonstrando per ly 'iste' lapidem, tunc vides illam loco istius sumi "Iste lapis currit", "Homo currit" et sic duabus mentalibus subordinabitur. Aut si indicaveris eum nonnullis hoc aggregationem 'homo asinus' esse terminum dicito, illa huic subordinari "Iste lapis homo currit".
+
+# An verbum adiectivum defensabile incomplexum
+
+### Sed contra dicta arguitur: Sequitur ex hac opinione idem esse causam suae causae, quod est impossibile:
+
+Sequela probatur: Supposito fundamento huius opinionis quod omnis terminus syncategorematicus mentalis dependet in esse et conservari, ab illo quem determinat, et quod actus demonstrativus est pars extremi, quo habita, cupio hanc mentalem "Haec est falsa", quae demonstrat se.
+
+Tunc arguitur: Pronomen demonstrativum illud est causa partialis illius propositionis, nam est pars illius propositionis. Et propositio illa est causa illius pronominis; ergo propositum.
+
+Maior est manifesta et probat minor: Illud pronomen demonstrat totam propositionem; ergo producitur a tota propositione. Quare habetur propositum.
+
+### Forte ad hoc dices quod pronomen illud demonstrativum non producitur a tota propositione sed bene a toto illo quod determinat; puta, quod sequitur, videlicet propositio est falsa.
+
+### Contra hoc arguitur: Adhuc sequitur idem esse causam suae causae.
+
+Hoc probatur, nam pronomen illud causa est copulae, cum ex supposito sit pars extremi, et copula ab extremis producitur, et copula causa est pronominis, nam ex responsione a toto /12.2a/ hoc propositio est falsa producitur, et ideo partialiter a copula. Ex quo habetur quod idem est prius natura priore seipso, et cetera, nam copula causa est partialis illius pronominis; ergo prius natura est illo actu demonstrativo, et actus demonstrativus est causa partialis copulae; ergo copula posteriori est natura illo actu demonstrativo, et cetera. Praeterea sequitur non esse differentiam inter pronomina demonstrativa, quorum alterum demonstrat propositionem cuius est pars alterum vero residuum a se, nam quodcumque eorum ab eadem propositione producitur.
+
+### Ad hoc argumentum facillimum est respondere intellectis fundamentis, quae dubio sexto ponentur. Unde fundamentum ibi ponitur quod omnis actus syncategorematicus mentalis producitur a notitiis, quas determinat:
+
+Et ex hoc respondeo ad formam argumenti negando minorem, et ad probationem nego hanc consequentiam: "Ille actus demonstrat totam propositionem, ergo producitur a tota propositione".
+
+Non enim sequitur in hac propositione "Hic homo est bonus", actus demonstrat patrem meum; ergo hic actus producitur a patre meo. Sed ille actus solum producitur ab illo termino 'homo', quem determinat. Eodem modo pronomen huius "Haec est falsa" producitur a notitia ibi intellecta, puta a ly 'propositio'. Unde illum actum haec demonstrare totam illam propositionem, cuius est pars, non est nisi intellectum accipere notitiam propositionum (quam in hac "Propositio est falsa" sumebat pro quacumque propositione indifferenter) solum pro propositione cuius ly 'haec' est pars. Quod si intellectus immutaretur ad concipiendum singulariter per illum terminum 'propositio' unam aliam propositionem, ut puta hanc "Propositio est falsa", oporteret quod hoc esset per alium actum, nam dictum est, et probatum pronomina diversa demonstrantia differre.
+
+## Et per haec facile erit soluere argumenta, quibus quidam movebantur ad tenendum nullum actum demonstrativum inveniri in mente:
+
+Sed hanc vocalem "Hic homo currit", Sortem demonstrando, subordinari isti "Homo Sortes currit". Ex quo sequitur subiectum huius propositionis nullo syncategoremate posse singularizari.
+
+### Contra opinionem communem arguebat igitur sic: Sequeretur nullam notitiam semel singularizari quin infinities singularizetur, quod sic probatur:
+
+Supposito uno quod quemadmodum notitia hominum confuse significat homines, sic ut magis Sortem quam Platonem. Eodem modo intellectus per hanc propositionem "Homo est currens" non intelligit cursum potius Sorti quam Platoni convenire, sed hominem non sic limitando ad Sortem magis quam ad Platonem. Hoc itaque supposito sic arguitur: Si aliquod esset pronomen demonstrativum quod in mente inveniretur, illud deberet produci a notitia quam determinat intellectu concurrente. Sed imago illa omnium hominum non magis ex natura sua Sortem quam Platonem repraesentat. Non videtur ergo quare magis illa notitia hominum pro uno homine quam pro alio singularizetur, et ita non posset unum demonstrare, quin infinita demonstraret.
+
+### Secundo arguitur per hanc mentales "Iste homo currit", pronomine illo Sortem monstrante, clarius intelligit intellectus Sortem quam per hanc indefinitam "Homo currit":
+
+Sed illa claritas non consurgit a notitia hominum, quia non contingit ipsam clarius repraesentare sua significata uno tempore quam in alio; nec provenit ab actu illo demonstrativo, nam si ab ipso proveniret, ipsum aliquid significaret, puta Sortem.
+
+### Haec argumenta nihil probant:
+
+Nam primum idem quaerit quod dubio undecimo, quare habita notitia hominum et notitia animalium, magis producitur ab intellectu copula de praesenti quam de praeterito; et etiam quare plus hic ignis producit hunc calorem quam illum, cum tamen sit indifferens ad hunc vel illum producendum. Atque ad hoc dicetur, dubio allegato, quod potest provenire quod intellectus producat actum demonstrativum demonstrantem Sortem et non Platonem, quandoque ab extrinseco, quandoque ab imperio voluntatis seu libertate intellectus (modo talem in se applicando intellectui perfectionem tribuas), quandoque ab aspectu caeli seu prima causa, ut longius dicetur dubio allegato.
+
+### Ad secundum distinguo quod intellectus clarius intelligat per illam propositionem "Iste homo currit" Sortem quam per hanc "Homo currit":
+
+Quia vel clarius, id est per notitiam clariorem et magis distinctam Sortis, et hoc nego; vel /13.1.a/ clarius, id est quia intellectus, qui per hanc----
+

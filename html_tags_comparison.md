@@ -1,15 +1,145 @@
-# HTML Tags for Font Size in Markdown — Comparison Table
 
-| Feature | `<div>` | `<p>` | `<span>` | `<big>` |
-|---|---|---|---|---|
-| Markdown inside works | yes | no | no | yes |
-| Blank line = paragraph break | yes | no, needs `<br /><br />` | no, needs `<br /><br />` | yes |
-| Single newline = line break | no, needs `<br />` | no, needs `<br />` | no, needs `<br />` | yes |
-| Font size control | yes | yes | yes | no (but CSS-targetable) |
-| One tag per paragraph needed | no | no | no | no |
-| Clutter in raw text | medium | high | high | low |
-| Deprecated in HTML5 | no | no | no | yes |
-| **Verdict** | **best long-term** | avoid | avoid | good but deprecated |
+
+# HTML Tags for Font Size in Markdown — Comparison Table
+## All inside one tag
+
+| Feature                                 | `<div>`                                                                  | 
+|-----------------------------------------|--------------------------------------------------------------------------|
+| Markdown inside works                   | No                                                                          | 
+| New line (return). Avoid using it.      | First line needs "new line" or <br />. Following lines need <br />       |
+| One line (return plus new line)         | First line needs <br /><br />. Following lines <br /><br /> or one line. Use always  <br /><br /> |
+| Font size control                       |                                                        | 
+| One tag per paragraph needed            |                                                        | 
+| Clutter in raw text                     |                                                        | 
+| Deprecated in HTML5                     |                                                        |
+| **Verdict**                             | **best long-term**                                     | 
+
+
+
+
+
+| Feature                                 | `<p>`                                                                  | 
+|-----------------------------------------|--------------------------------------------------------------------------|
+| Markdown inside works                   | No                                                                          | 
+| New line (return). Avoid using it.      |       |
+| One line (return plus new line)         |          |
+| Font size control                       |                                                        | 
+| One tag per paragraph needed            |                                                        | 
+| Clutter in raw text                     |                                                        | 
+| Deprecated in HTML5                     |                                                        |
+
+
+
+
+
+| Feature                                 | `<span>`                                                                  | 
+|-----------------------------------------|--------------------------------------------------------------------------|
+| Markdown inside works                   | No                                                                          | 
+| New line (return). Avoid using it.      |       |
+| One line (return plus new line)         |          |
+| Font size control                       |                                                        | 
+| One tag per paragraph needed            |                                                        | 
+| Clutter in raw text                     |                                                        | 
+| Deprecated in HTML5                     |                                                        |
+
+
+
+
+
+| Feature                                 | `<big>`                                                                  | 
+|-----------------------------------------|--------------------------------------------------------------------------|
+| Markdown inside works                   | No                                                                          | 
+| New line (return). Avoid using it.      |       |
+| One line (return plus new line)         |          |
+| Font size control                       |                                                        | 
+| One tag per paragraph needed            |                                                        | 
+| Clutter in raw text                     |                                                        | 
+| Deprecated in HTML5                     |                                                        |
+
+
+
+
+
+
+
+
+# HTML Tags for Font Size in Browser — Comparison Table
+## All inside one tag
+
+| Feature                                 | `<div>`                                                          | 
+|-----------------------------------------|-----------------------------------------------------------------------------|
+| Markdown inside works                   | No                                                                | 
+| Single line (return). Avoid using it.   | Needs <br />.                                                               |
+| One line (return plus new line)         | Needs <br /><br />                                                          | 
+| Font size control                       |                                                        | 
+| One tag per paragraph needed            |                                                        | 
+| Clutter in raw text                     |                                                        | 
+| Deprecated in HTML5                     |                                                        |
+| **Verdict**                             | **best long-term**                                     | 
+
+
+
+
+
+| Feature                                 | `<p>`                                                                  | 
+|-----------------------------------------|--------------------------------------------------------------------------|
+| Markdown inside works                   | No                                                                          | 
+| New line (return). Avoid using it.      |       |
+| One line (return plus new line)         |          |
+| Font size control                       |                                                        | 
+| One tag per paragraph needed            |                                                        | 
+| Clutter in raw text                     |                                                        | 
+| Deprecated in HTML5                     |                                                        |
+
+
+
+
+
+| Feature                                 | `<span>`                                                                  | 
+|-----------------------------------------|--------------------------------------------------------------------------|
+| Markdown inside works                   | No. And layont gets completelly mangled.                                                                          | 
+| New line (return). Avoid using it.      |       |
+| One line (return plus new line)         |          |
+| Font size control                       |                                                        | 
+| One tag per paragraph needed            |                                                        | 
+| Clutter in raw text                     |                                                        | 
+| Deprecated in HTML5                     |                                                        |
+
+
+
+
+
+| Feature                                 | `<big>`                                                                  | 
+|-----------------------------------------|--------------------------------------------------------------------------|
+| Markdown inside works                   | No. And layont gets completelly mangled.                                                                          | 
+| New line (return). Avoid using it.      |       |
+| One line (return plus new line)         |          |
+| Font size control                       |                                                        | 
+| One tag per paragraph needed            |                                                        | 
+| Clutter in raw text                     |                                                        | 
+| Deprecated in HTML5                     |                                                        |
+
+
+
+
+## Example
+
+#### De Descensu et Ascensu
+<div class="textus">
+Descensus est consequentia formalis in qua a termino superiori, cum constantia, ad inferiora eius, discurritur. Ut "Omnis homo currit" et isti homines sunt omnes homines; ergo iste homo currit, et sic de singulis.
+<br /><br />
+In ascensu vero a singularibus cum constantia ad eorum superiora proceditur.
+<br /><br />
+Insuper quadruplex est descensus, scilicet, copulativus et copulatus, disiunctivus et disiunctus.
+<br /><br />
+Sub termino stante distributive descenditur primo modo.
+<br /><br />
+Sub termino stante confuse tantum copulatim, secundo modo.
+<br /><br />
+Sub termino stante determinate, tertio modo.
+<br /><br />
+Et sub termino confuse tantum disiunctim, quarto modo.
+</div>
 
 ## Notes
 

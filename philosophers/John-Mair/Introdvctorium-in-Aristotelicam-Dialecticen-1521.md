@@ -1619,25 +1619,26 @@ Necessarium ergo est in ista "Non ⟨a⟩ homo non est animal" dicere quod 'anim
 
 Non est verius contradicere et in conditionalibus, consequentiis et multis aliis; sine hac regula contradicere nequimus. Fateor tamen quod possumus dicere quod regula patiatur instantias in categoricis, et duas in proposito; sed tunc "tenebrosa aqua in nubibus aeris" erit nobis in exponibilibus et alias; propterea regulam utrobique teneo.
 
-## Sequitur De Descensu et Ascensu
+## De Descensu et Ascensu
 
 Sequitur De Descensu et Ascensu.
 
 #### De Descensu et Ascensu
-
-Descensus est consequentia formalis in qua a termino superiori cum constantia ad inferiora eius discurritur, ut: "Omnis homo currit" et isti homines sunt omnes homines; ergo iste homo currit, et sic de singulis.
-
-In ascensu vero a singularibus cum constantia ad eorum superiora proceditur.
-
-Insuper quadruplex est descensus, scilicet, copulativus et copulatus, disiunctivus et disiunctus.
-
+<div class="textus">
+Descensus est consequentia formalis in qua a termino superiori, cum constantia, ad inferiora eius discurritur. Ut "Omnis homo currit, et Isti homines sunt omnes homines; ergo iste homo currit, et sic de singulis".
+<br /><br />
+In ascensu vero a singularibus, cum constantia, ad eorum superiora proceditur.
+<br /><br />
+Insuper quadruplex est descensus, scilicet copulativus et copulatus, disiunctivus et disiunctus.
+<br /><br />
 Sub termino stante distributive descenditur primo modo.
-
+<br /><br />
 Sub termino stante confuse tantum copulatim, secundo modo.
-
+<br /><br />
 Sub termino stante determinate, tertio modo.
-
+<br /><br />
 Et sub termino confuse tantum disiunctim, quarto modo.
+</div>
 
 #### Descensa
 
@@ -1645,23 +1646,27 @@ Descensa est propositio sub cuius termino descenditur, metaphorice ad descendend
 
 #### Descendentes
 
-Singulares ad quas descenditur descendentes /73/ dicuntur. Et proportionabiliter in ascendentibus et ascensa dicatur.
+Singulares ad quas descenditur, descendentes /73/ dicuntur. Et proportionabiliter, in ascendentibus et ascensa dicatur.
 
-Nec est vis sive terminus superior supponat sive non. Si primum, datur aliqua consequentia uno tempore descensus, et alio tempore non est consequentia existente. Nec est vis, sive econtrario valet ascensus, sive non.
+Nec est vis sive terminus superior supponat sive non. Si primum, datur aliqua consequentia uno tempore descensus, et alio tempore non est consequentia existente. Nec est vis, sive econtrario valet ascensus sive non.
 
-Sufficit per descensum propositionem falsitates cribrare, sicut per earum ascensum veritatem indagare.
+Sufficit per descensum propositionum falsitates cribrare, sicut per earum ascensum veritatem indagare.
 
-Constantia pro subiecto pronomen demonstrativum cum termino sub quo descenditur, et eundem terminum cum signo collectivo pro praedicato sibi vendicabit, ut "Omne animal currit" et "Ista animalia (demonstrando omnia pro quibus animal distribuitur) sunt omnia animalia; ergo et cetera".
+Constantia pro subiecto pronomen demonstrativum cum termino sub quo descenditur, et eundem terminum cum signo collectivo pro praedicato sibi vendicabit, ut "Omne animal currit, et Ista animalia (demonstrando omnia pro quibus animal distribuitur) sunt omnia animalia; ergo et cetera".
 
-Descensa et descendentes sunt partes descensus: Ista particula 'et sic de singulis', in descensu copulativo tantum valet sicut copulativa ex singularibus non enumeratis conflata. Et sic in ascensu disiunctivo tantum sicut disiunctiva ex singularibus conflata.
+Descensa et descendentes sunt partes descensus: ista particula 'et sic de singulis', in descensu copulativo, tantum valet sicut copulativa ex singularibus non enumeratis conflata. Et sic in ascensu disiunctivo, tantum sicut disiunctiva ex singularibus conflata.
 
-Proportionabiliter in descensu copulato et disiuncto dicatur, ergo et sic de singulis aequivoce in descensu copulativo et aliis descensibus capitur.
+Proportionabiliter in descensu copulato et disiuncto dicatur; ergo 'et sic de singulis' aequivoce in descensu copulativo et aliis descensibus capitur.
 
-Secundo sequitur: Innane est illam particulam addere quando omnia singularia enumerantur, ut descendendo sub termino 'Sol', licet plura supposita non habeat est terminus aptus plura habere.
+Secundo sequitur: innane est illam particulam addere quando omnia singularia enumerantur, ut descendendo sub termino 'Sol'; licet plura supposita non habeat, est terminus aptus plura habere.
 
-Si dicatur: Ad hoc quod descendatur suo aliquo termino requiritur quod plura supposita habeat. Difficultas est verbalis, non est vis in descensu copulativo et disiunctivo hypotheticam copulativam et disiunctivam, sicut in descensu copulato et disiuncto categoricas de talibus extremis concludimus. Plerique tamen maiorum descensum illum disiunctum respuerunt et merito, quia nec ascendendo propositionum veritates, nec descendendo earum falsitates reserat.
+Si dicatur "Ad hoc quod descendatur suo aliquo termino requiritur quod plura supposita habeat": difficultas est verbalis.
 
-Quintum membrum merito addi potest, ut descendendo sub subiecto huius "Omne animal fuit in arca Noe", et sub subiecto huius "Utrumque animal currit", de quibus post hac clarius patebit.
+Non est vis in descensu copulativo et disiunctivo hypotheticam copulativam et disiunctivam, sicut in descensu copulato et disiuncto categoricas de talibus extremis concludimus.
+
+Plerique tamen maiorum descensum illum disiunctum respuerunt, et merito, quia nec ascendendo propositionum veritates, nec descendendo earum falsitates reserat.
+
+Quintum membrum merito addi potest, ut descendendo sub subiecto huius "Omne animal fuit in arca Noe", et sub subiecto huius "Utrumque animal currit", de quibus posthac clarius patebit.
 
 ### Prima regula
 

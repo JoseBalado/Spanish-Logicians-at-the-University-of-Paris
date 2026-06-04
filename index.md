@@ -34,12 +34,12 @@ Here are some of the logicians I am currently focusing on:
 
 ## Logicians
 
+### [Jerónimo Pardo (c. 1467 – 1502)](philosophers/Jeronimo-Pardo/)
+Born in the province of Burgos, Pardo studied and taught at the Collège de Montaigu, where he was a colleague or possible teacher of John Major, and later taught theology at Melun. His only published work, *Medulla Dyalectices* (Paris, 1500), is a substantial manual of logic covering consequences, modals, syllogistics and the *descensus*; it was re-edited posthumously by Major and Jacobo Ortiz in 1505.
+
 ### [John Mair (1467 – 1550)](philosophers/John-Mair/)
 
 John Mair (also *Major*; Latin *Joannes Majoris*) was a Scottish logician, theologian and teacher at the Collège de Montaigu in Paris. He is included here not as a Spanish logician, but because he was at the very centre of this circle: he was a close friend and colleague of Jerónimo Pardo — whose *Medulla Dyalectices* he co-edited and republished after Pardo's death — and the teacher of Antonio Coronel, Luis Coronel and Gaspar Lax. Through these students his nominalist, technically rigorous approach to logic was carried into the whole Spanish scholastic tradition. His own logical publications, from the collected *Terminorum exponibilium tractatus* (1501) and the *Summulae* commentary (c. 1505) to the *Quaestiones logicales* (1528), show the same concerns with supposition theory, consequences and the logic of infinity that mark the work of his Spanish students.
-
-### [Jerónimo Pardo (c. 1467 – 1502)](philosophers/Jeronimo-Pardo/)
-Born in the province of Burgos, Pardo studied and taught at the Collège de Montaigu, where he was a colleague or possible teacher of John Major, and later taught theology at Melun. His only published work, *Medulla Dyalectices* (Paris, 1500), is a substantial manual of logic covering consequences, modals, syllogistics and the *descensus*; it was re-edited posthumously by Major and Jacobo Ortiz in 1505.
 
 ### [Antonio Coronel (1480 – 1521)](philosophers/Antonio-Coronel/)
 Born in Segovia, Antonio Coronel studied at the Collège de Montaigu under John Major and Peter Crockaert of Brussels, becoming rector of the college and receiving his doctorate in 1516. A prolific author working in both the *via realium* and the *via nominalium*, he published nine works on logic at Paris between 1509 and 1517, and served as confessor to Emperor Charles V in Flanders before returning to Paris, where he died in 1521.

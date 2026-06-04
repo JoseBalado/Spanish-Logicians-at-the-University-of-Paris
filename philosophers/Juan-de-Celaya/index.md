@@ -141,6 +141,14 @@ First edition: Valencia, 1531. Copies in the Biblioteca Nacional de España (R-2
 
 ---
 
+## Original Works
+
+The following texts by Juan de Celaya are available in this site:
+
+- [Tractatus Obligationum (Paris, c. 1517)](Tractatus-de-obligationum-1517.html)
+
+---
+
 ## References
 
 [^1]: Roure, Marie Luise. "Le traité des 'propositions insolubles' de Jean de Celaya." *Archives d'histoire doctrinale et littéraire du moyen âge*, 37 (1962), p. 237: Celaya calls Lax *regentis mei*. On the reference to Mair (*Venerabilis magister noster Majoris*), García Villoslada (1938), p. 183, notes that *magister noster* was a common form of address for Doctors of Theology and does not constitute a decisive attribution of a teacher-student relationship.
@@ -185,3 +193,9 @@ First edition: Valencia, 1531. Copies in the Biblioteca Nacional de España (R-2
 - Wallace, William A. "The Concept of Motion in the Sixteenth Century." *Proceedings of the American Catholic Philosophical Association*, 41 (1967), pp. 184–195.
 - Wallace, William A. "The Enigma of Domingo de Soto." *Isis*, 59 (1968), pp. 384–401.
 - Wallace, William A. *Prelude to Galileo: Essays on Medieval and Sixteenth-Century Sources of Galileo's Thought*. Dordrecht: Springer, 1981.
+
+---
+
+## Notes and Attribution
+
+The biographical essay, index of works, references and bibliography on this page are drawn from the doctoral thesis of Amadeo Alonso Arribas, *El Tractatus Obligationum en algunos lógicos españoles del siglo XVI* (Universidad Complutense de Madrid, Facultad de Filosofía, Departamento de Lógica y Filosofía de la Ciencia, 2001; directed by José Miguel Gambra Gutiérrez; ISBN 978-84-8466-200-6).

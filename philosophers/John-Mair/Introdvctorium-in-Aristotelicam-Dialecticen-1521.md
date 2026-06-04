@@ -1669,27 +1669,31 @@ Plerique tamen maiorum descensum illum disiunctum respuerunt, et merito, quia ne
 Quintum membrum merito addi potest, ut descendendo sub subiecto huius "Omne animal fuit in arca Noe", et sub subiecto huius "Utrumque animal currit", de quibus posthac clarius patebit.
 
 ### Prima regula
+<div class="textus">
+In descensu et ascensu quinque regulas notato. Quarum prima est: Ne a pluribus determinatis respectu partium multitudinis, ad unam determinatam respectu totius, disputetur non parum curandum est.
+</div>
+Defectus cuius non sequitur:
 
-In descensu et ascensu quinque regula notato. Quarum prima est: Ne a pluribus determinatis respectum partium multitudinis, ad unam determinatam respectu totius, disputetur non parum curandum est.
 
-Defectus cuius non sequitur "Caput iste homo habet, et caput iste homo habet, et sic de singulis; ergo caput omnis homo habet". Illae enim inferunt hanc "⟨a⟩ Caput omnis homo habet", non ponendo ⟨a⟩ ly 'caput' in ante, 'crebro' stat determinate respectu termini distributi, et per consequens respectu multitudinis, et hoc nisi suppositioni confusae tantum suppositio determinata aequivaleat, ut istius"
+> Caput iste homo habet, et  
+> Caput iste homo habet, et sic de singulis;  
+> ergo  
+> Caput omnis homo habet.
 
-> Hominis asinus est Brunellus, et
+Illae enim inferunt hanc "⟨a⟩ Caput omnis homo habet", non ponendo ⟨a⟩, ly 'caput' in antecedente crebro stat determinate respectu termini distributi, et per consequens respectu multitudinis, et hoc nisi suppositioni confusae tantum,suppositio determinata, aequivaleat, ut istius:
 
-> Istius hominis asinus non est Brunellus, et sic de singulis; ergo
+> Hominis asinus non est Brunellus, et  
+> Istius hominis asinus non est Brunellus, et sic de singulis;  
+> ergo  
+> cuiuslibet hominis ⟨b⟩ asinus non est Brunellus.
 
-> cuiuslibet hominis ⟨b⟩ asinus non est Brunellus".
+Quia istae propositione inter se aequivalent "Cuiuslibet hominis ⟨b⟩ asinus non est Brunellus", et "Cuiuslibet hominis asinus non est Brunellus" patet, earum contradictoriae aequivalent. Immo una propositio utrique contradicit, scilicet "Alicuius hominis quilibet asinus est Brunellus", et idem est dictu "⟨a⟩ Hominis quilibet asinus est currens", et "Hominis quilibet asinus est currens". Utrique illarum eadem propositio contradicit. Patet ex dictis in contradictoriis. /74/
 
-Quia istae propositione inter se aequivalent:
+-- I am here
 
-> Cuiuslibet hominis ⟨b⟩ asinus non est Brunellus, et
-
-> Cuiuslibet hominis asinus non est Brunellus.
-
-Patet earum contradictoriae aequivalent, immo una propositio urique contradicit, scilicet "Alicuius hominis quilibet asinus est Brunellus", et idem est dictu "⟨a⟩ Hominis quilibet asinus est currens", et "Hominis quilibet asinus est currens". Utrique illarum eadem propositio contradicit. Patet ex dictis in contradictoriis. /74/
-
+<div class="textus">
 Caeterum quando determinatio distribuitur respectu determinabilis discreti, non refert alterum extremum supponere determinate vel confuse.
-
+</div>
 Nam istae aequivalent "⟨a⟩ Hominis Brunellus non est currens", et "Homini Brunellus non est currens".
 
 Pro regula servato, sicut nihil interest determinationem supponere confuse vel determinate in affirmativis respectu determinabilis stantis determinate, qualitercumque alterum extremum supponit, ita non refert determinationem respectu determinabilis discreti supponere confuse vel determinate tam in affirmativis quam in negativis, qualitercumque alterum extremum supponit.

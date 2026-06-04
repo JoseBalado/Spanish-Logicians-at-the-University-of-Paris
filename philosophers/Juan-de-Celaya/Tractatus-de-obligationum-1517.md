@@ -1,4 +1,23 @@
+---
+layout: medieval
+title: "Tractatus Obligationum (Paris, c. 1517)"
+author: "Juan de Celaya"
+year: 1517
+place: "Paris"
+description: >-
+  Tractatus Obligationum by Juan de Celaya, from his Insolubilia et Obligationes (Paris,
+  c. 1517). A treatise on the art of obligations — a central genre of medieval logical
+  disputation — printed by Hémon Le Fèvre. The Insolubilia section is not included here.
+keywords: >-
+  Juan de Celaya, Insolubilia, Obligationes, obligations, insolubles, logic,
+  University of Paris, medieval logic, renaissance logic, Paris 1517
+---
 
+The Latin text presented here is the *Tractatus Obligationum* section of Celaya's *Insolubilia et Obligationes* (Paris, c. 1517). It reproduces the transcription prepared by Amadeo Alonso Arribas in his doctoral thesis *El Tractatus Obligationum en algunos lógicos españoles del siglo XVI* (Universidad Complutense de Madrid, Facultad de Filosofía, Departamento de Lógica y Filosofía de la Ciencia, 2001; directed by José Miguel Gambra Gutiérrez; ISBN 978-84-8466-200-6). The transcription preserves the original line breaks, spelling and folio references.
+
+---
+
+<pre>
 [page 1]
 
 I
@@ -173,7 +192,7 @@ obligato⁴.
 obligationis sunt ista,
 scilicet: pono, impono, de-
 
-² trif[o]<a>riam
+² trif[o]&lt;a&gt;riam
 ³ aliqui[d]
 ⁴ obligat[i]o
 
@@ -283,7 +302,7 @@ equiualens.
 
 ⁷ [particulariter]
 ⁸ [adiuncto]
-⁹ aliqui[s]<d>
+⁹ aliqui[s]&lt;d&gt;
 
 ---
 
@@ -447,10 +466,10 @@ cendo¹³: pono tibi istam
 particularem: Omnis rex se-
 det, et Plato admittat, an
 
-¹⁰ aliqu[e]<a>m
-¹¹ friuolum n<e>c est
-¹² aliqu[e]<a>m
-¹³ d[e]<i>cendo
+¹⁰ aliqu[e]&lt;a&gt;m
+¹¹ friuolum n&lt;e&gt;c est
+¹² aliqu[e]&lt;a&gt;m
+¹³ d[e]&lt;i&gt;cendo
 
 [page 6]
 
@@ -503,8 +522,8 @@ aliquem, dato quod concede-
 ret et negaret unam et eam-
 dem propositionem, cuius
 
-¹⁴ positio[m]<n>em
-¹⁵ retorquend[a]<e>
+¹⁴ positio[m]&lt;n&gt;em
+¹⁵ retorquend[a]&lt;e&gt;
 
 ---
 
@@ -559,7 +578,7 @@ natur ista propositio: Iste
 homo est animal, et dicatur
 mihi quod demonstratur homo
 
-¹⁶ [t]<s>ibi
+¹⁶ [t]&lt;s&gt;ibi
 
 [page 7]
 
@@ -614,7 +633,7 @@ care.
 quod, si Sortes diceret
 Platoni: Cedat tempus obli-
 
-¹⁷ media<n>te
+¹⁷ media&lt;n&gt;te
 
 ---
 
@@ -669,7 +688,7 @@ bet tale est admittendum.
       Dicitur in regula:
 per accidens, quia si esset
 
-¹⁸ probatione<m>
+¹⁸ probatione&lt;m&gt;
 
 [page 8]
 
@@ -720,10 +739,10 @@ est concedendum.
 obligatum, quia si non es-
 set obligatum, dato quod
 
-¹⁹ s<c>it
-²⁰ obligatu<m>
-²¹ <ex>
-²² negat<i>
+¹⁹ s&lt;c&gt;it
+²⁰ obligatu&lt;m&gt;
+²¹ &lt;ex&gt;
+²² negat&lt;i&gt;
 
 ---
 
@@ -777,8 +796,8 @@ est vera et impertinens.
 Deinde proponit Sortes: Tu
 es Rome, tunc Plato tenetur
 
-²³ nesci<t>
-²⁴ illa<m>
+²³ nesci&lt;t&gt;
+²⁴ illa&lt;m&gt;
 
 [page 9]
 
@@ -833,7 +852,7 @@ est grecus, ergo Antichris-
 tus est africanus.
 
 ²⁵ [si]
-²⁶ qu[e]<a>m
+²⁶ qu[e]&lt;a&gt;m
 
 ---
 
@@ -887,7 +906,7 @@ Rome et Tu es homo.
 aliud exemplum, vt si ponam
 tibi istam: Jacobus vel Re-
 
-²⁷ col[e]<o>ratus
+²⁷ col[e]&lt;o&gt;ratus
 
 [page 10]
 
@@ -998,7 +1017,7 @@ libet²⁸ parte copulatiue
 concessa, concedenda est
 copulatiua cuius ille vel
 
-²⁸ quali[ter]<bet>
+²⁸ quali[ter]&lt;bet&gt;
 
 [page 11]
 
@@ -1108,7 +1127,7 @@ esse falsum, ergo Plato
 male respondet. Sequitur
 secundo, quod ista conse-
 
-²⁹ [r]<n>egare
+²⁹ [r]&lt;n&gt;egare
 
 [page 12]
 
@@ -1329,7 +1348,7 @@ quod admittatur quando ha-
 betur de ipso opinio fa-
 mosa, et regula intelligi-
 
-³⁰ <im>possibile
+³⁰ &lt;im&gt;possibile
 
 [page 14]
 
@@ -1612,7 +1631,7 @@ est maius sua parte, et sic
 de aliis per se notis.
       Ad hoc argumentum res-
 
-³² conditionale<m>
+³² conditionale&lt;m&gt;
 
 ---
 
@@ -1720,9 +1739,9 @@ dens. Si negas: contra:
 ista: Tu non³⁶ curris est a
 te concedenda, igitur non
 
-³⁴ tu <non> curris [non]
+³⁴ tu &lt;non&gt; curris [non]
 ³⁵ [et]
-³⁶ <non>
+³⁶ &lt;non&gt;
 
 ---
 
@@ -1833,7 +1852,7 @@ posita, igitur male respon-
 des.
       Si secundum, tu negas
 
-³⁸ propon[un]<i>tur
+³⁸ propon[un]&lt;i&gt;tur
 
 ---
 
@@ -2564,7 +2583,7 @@ pondetur admittendo positum
 et concedendo alteram que
 
 ⁴⁶    e[x]t
-⁴⁷    e[t]<x>
+⁴⁷    e[t]&lt;x&gt;
 
 ---
 
@@ -2980,7 +2999,7 @@ ei posita et admissa. Tunc
 capiatur una tertia, que
 sit /c/, scilicet: Quelibet
 istarum, que est concedenda
-Sorte e<s>t neganda a
+Sorte e&lt;s&gt;t neganda a
 Platone, et demonstretur
 .a.b.c. Tunc illa est vera
 et impertinens et tamen non
@@ -3237,7 +3256,7 @@ a est falsum. Sed a est
 ista: Tu respondes ad fal-
 sum, et solum respondes ad
 
-⁵⁰ rom[o]<e>
+⁵⁰ rom[o]&lt;e&gt;
 
 [page 31]
 
@@ -3349,7 +3368,7 @@ sequitur: hoc est primum
 impertinens quod proponitur
 tibi vel hoc non est vel
 
-⁵¹ <vel>
+⁵¹ &lt;vel&gt;
 
 
 [page 32]
@@ -3794,7 +3813,7 @@ sequitur etiam quod signi-
 ficatur sicut est et non
 habet nisi vnam significa-
 
-⁵³ <im>positione
+⁵³ &lt;im&gt;positione
 
 [page 36]
 
@@ -3907,7 +3926,7 @@ positionibus, impono ly
 significare sicut est, vt
 
 ⁵⁴ nomina[t]
-⁵⁵ [o]<a>dducitur
+⁵⁵ [o]&lt;a&gt;dducitur
 
 ---
 
@@ -4133,7 +4152,7 @@ negando quod sequitur
 illud. Et ad probationem,
 nego quod Sortes non sit
 
-⁵⁶ s<c>it
+⁵⁶ s&lt;c&gt;it
 
 [page 39]
 
@@ -4572,7 +4591,7 @@ respondes. Si neges aut du-
 bites, illa videtur esse
 
 ⁶¹ [numero] <genere>
-⁶² [homo] <leo>
+⁶² [homo] &lt;leo&gt;
 
 [page 43]
 
@@ -5074,8 +5093,8 @@ quentia, si consequens est
 negandum, antecedens est
 negandum.
 
-⁶⁸ [est]<ad>
-⁶⁹ <ad>
+⁶⁸ [est]&lt;ad&gt;
+⁶⁹ &lt;ad&gt;
 
 ---
 
@@ -5246,7 +5265,7 @@ tiuam: Omnis leo est albus
 et Iste est⁷⁰ leo, demons-
 trato uno leone nigro, qua
 
-⁷⁰ <est>
+⁷⁰ &lt;est&gt;
 
 [page 49]
 
@@ -5348,3 +5367,4 @@ III.3. SIMILIUM ET DISSIMILIUM .......... XXXIX
 III.4. PRO CONUERTILITATE ............... XLII
 III.5. DE DEPOSITIONE................... XLIV
 III.6. DE DUBIE POSITIONE ............... XLVI
+</pre>

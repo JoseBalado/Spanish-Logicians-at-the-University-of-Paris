@@ -1,20 +1,27 @@
+# <div>
 
-
-# HTML Tags for Font Size in Markdown — Comparison Table
+## HTML Tags for Font Size in VSCode Markdown — Comparison Table
 ## All inside one tag
 
-| Feature                                 | `<div>`                                                                  | 
-|-----------------------------------------|--------------------------------------------------------------------------|
-| Markdown inside works                   | No                                                                          | 
-| New line (return). Avoid using it.      | First line needs "new line" or <br />. Following lines need <br />       |
-| One line (return plus new line)         | First line needs <br /><br />. Following lines <br /><br /> or one line. Use always  <br /><br /> |
-| Font size control                       |                                                        | 
-| One tag per paragraph needed            |                                                        | 
-| Clutter in raw text                     |                                                        | 
-| Deprecated in HTML5                     |                                                        |
-| **Verdict**                             | **best long-term**                                     | 
+- Markdown inside works: Yes
+                  
+- New line (return). Avoid using it: First line needs "new line" or <br />. Following lines need <br />
+- One line (return plus new line):
+- First line needs <br /><br />. Following lines <br /><br /> or one line. Use always  <br /><br />
+- Font size control: Yes
 
 
+## HTML Tags for Font Size in Browser — Comparison Table
+## All inside one tag
+
+- Markdown inside works: No 
+- Single line (return). Avoid using it: Needs <br />
+- One line (return plus new line): Needs <br /><br />
+- Font size control: Yes
+
+
+
+------------------------------------------------------------------------------------------------------------------
 
 
 

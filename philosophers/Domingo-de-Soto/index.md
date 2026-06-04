@@ -55,7 +55,7 @@ The *Summulae* in particular connects Soto to the teaching tradition that produc
 
 The following texts by Domingo de Soto are available in this site:
 
-- [Summulae (Burgos, 1529)](Summulae.html)
+- [Summulae (Burgos, 1529)](Summulae-1529.html)
 
 ---
 

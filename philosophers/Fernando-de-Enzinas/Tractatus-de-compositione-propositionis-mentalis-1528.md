@@ -615,7 +615,7 @@ Probatur antecedens: Illa est una propositio pure affirmativa, cuius praedicatum
 
 Unde quamvis determinatio non supponat, totum bene potest supponere, quando determinatio est syncategorematica. Sed non oportet quod si ipsa non supponit, totum extremum non supponat, ut patet in hac "Sortes est omnis homo", in qua hoc totum 'omnis homo' potest supponere, et ly 'omnis' non potest supponere.
 
-## Circa dubium secundum motum iam fuit controversia inter multos.
+## Circa dubium secundum motum iam fuit controversia inter multos:
 
 Aliqui namque dicerent significare aliqualiter omnem eum terminum, qui non potest esse extremum in propositione; sed hi non explicant quis sit modus significandi aliqualiter.
 
@@ -762,5 +762,81 @@ Nam primum idem quaerit quod dubio undecimo, quare habita notitia hominum et not
 
 ### Ad secundum distinguo quod intellectus clarius intelligat per illam propositionem "Iste homo currit" Sortem quam per hanc "Homo currit":
 
-Quia vel clarius, id est per notitiam clariorem et magis distinctam Sortis, et hoc nego; vel /13.1.a/ clarius, id est quia intellectus, qui per hanc----
+Quia vel clarius, id est per notitiam clariorem et magis distinctam Sortis, et hoc nego; vel /13.1.a/ clarius, id est quia intellectus, qui per hanc propositionem "Homo currit" intelligebat cursum competere homini, non determinando se magis uni quam alteri, iam intelligat praedicatum competere subiecto pro uno determinato supposito, et non pro alio, sic quod intelligit cursum competere huic vel huiusmodi. Puta Sorti et non alteri, et ad hunc sensum concedo quod clarius intellectus per illam propositionem singularem, per illam indefinitam, Sortem intelligit.
 
+### Nec ex hoc sequitur pronomen aliud significare sed solum novam immutare intellectum ad aliter concipiendum per notitiam hominum quam prius:
+
+Et ex hoc patet quae sit maior claritas in propositione de subiecto singularizato quam in indefinita. Et sic patet de modo significandi signorum particularium et actuum demonstrativorum.
+
+## Pro dissolutione quintae difficultatis:
+
+Contra dicta arguitur sic: Aliquod syncategorema significat aliquid, et non est maior ratio de uno quam de alio; ergo quodlibet antecedens probatur. Haec copula 'est', quando est de tertio adiacente, significat quidquid importatur per extrema, ergo et cetera. Probatur antecedens: Capta hac propositione "Homo est asinus", illa copula 'est' significat compositive vel unitive homines respectu asinorum, sed impossibile est intellectum intelligere homines respectu asinorum quin etiam intelligat homines et asinos; ergo illa copula 'est' significat homines et asinos.
+
+### Ad hanc replicam respondeo quod intellectus, adveniente hac copula 'est', intelligit unitive homines in ordine ad asinos, qualiter antea non intelligebat.
+
+Sed hoc non est per copulam, sed intelligit solum homines et asinos per notitias quas habet hominum et asinorum, et intelligit unitive per copulam, et hoc est quod Aristoteles voluit quando dixit: Ly 'est' si purum dixeris nihil significat, sed significat quandam compositionem quam sine extremis non est intelligere, id est, ly 'est' solitarie positum nihil significat, sed significat quandam compositionem, id est, compositivo in ordine ad aliqua quae sine extremis non potest intelligi. Ex quo patet hanc propositionem "Ly 'est' significat compositionem seu unionem" esse de rigore falsam, nisi capiamus loco huius "ly 'est' significat unitive seu compositive". /13.1b/
+
+### Sed contra hoc arguitur: Ly 'est' in propositione assumpta significat tempus, ergo significat aliquid.
+
+Antecedens probatur per Aristotelem dicentem: Verbum 'est' quod consignificat tempus, et cetera.
+
+### Ad hanc replicam respondent omnes communes: Ly 'est' non significat tempus:
+
+Et dicunt quod consignificare tempus nihil aliud est quam significare unitive ad aliquam differentiam temporis, id est, denotare praedicatum competere subiecto pro aliqua differentia temporis; nec hinc sequitur verbum significare tempus.
+
+### Contra hoc arguitur: Ly 'est' significat tempus; ergo et caetera. Probatur:
+
+Bene sequitur: Ly 'est' significat unitive in ordine ad aliquam differentiam temporis in hac propositione "Homo est asinus"; ergo intellectus intelligit aliquam differentiam temporis; sed non intelligit aliquam differentiam temporis per ly 'homo', nec per notitiam asinorum; ergo intelligit per illum actum 'est'. Quare sequitur quod ly 'est' significat tempus.
+
+Propter hoc nonnulli dixerunt hanc propositionem "Homo est asinus" subordinari huic in tempore praesenti "Homo est asinus". Sed hoc a multis est impugnatum. Tum quia illa copula 'est' non consignificaret, in propositione illa mentali "Homo in tempore praesenti est asinus", tempus aliquo modo, quod tamen oportet ex definitione verbi; tum etiam quia significatio de ly 'est' non differret a significatione illius coniunctionis, et cetera.
+
+### Quare respondeo: Absolute ly 'est' significare tempus propter rationem tactam:
+
+Nec propterea sequitur ly 'est' esse purum categorema, quia etiam aliqualiter significat, videlicet unitive. Unde significatio totalis de ly 'est' non est nisi significare unitive in ordine ad subiectum et praedicatum, et ultra suum, aliqualiter sive unitive significare importare tempus.
+
+### Et si arguas: Contra hoc sequitur quod 'est' connotativus, postquam ultra suam principalem significationem, importat seu dat intelligere aliquid.
+
+### Ad hoc nego consequentiam, quia ad aliquid esse terminum connotativum requiritur, ultra principale significatum, id est, materiale, aliud vel aliqualiter det intelligere:
+
+Modo ly 'est' non habet principale significatum. Sed quaestio est de nomine, utrum ly 'est' sit connotativum necne; sed postquam non est terminus /13.2a/ categorematicus, dicendum est quod nec est connotativus nec absolutus.
+
+# Quod signum efficitur pars extremi
+
+### Sed contra hoc arguitur: Si haec copula 'est' importaret tempus vel instans, vel solum hoc praesens significat, vel quodlibet:
+
+Si primum, sequitur quod nulla propositio est necessaria; nam si aliqua esset, maxime esset haec "Deus est". Sed haec non potest esse vera nisi per instans hoc praesens quod illa copula 'est' importat, cum post hoc instans, seu tempus, illa erit falsa, quia sensus eius erit Deus in hoc instanti est anima; ergo propositum.
+
+### Si forte dixeris quod natura illius copulae 'est' est talis quod unit pro quolibet instanti in quo ipsa est:
+
+Ita quod quando ipsa est in instanti significat 'a' instans, et quando in'b' significat etiam 'b'.
+
+### Contra hoc arguo: Sequitur quod illa copula capitur aequivoce cum per solam mutationem temporis acquirat significationem:
+
+Praeterea sequitur quod copula quae ante hoc fuit, et copulae quae erit, quamvis utraque sit de praesenti, no erunt synonymae, quia una solum instantia praeterita importat, postquam in illis fuit et alter instantia solum futura, quia non fuit fuit in praeteritis. Contra hoc arguitur: sequitur etiam quod de praeterito et patere erunt synonymae, dum est cum ly 'est' tempus praeteritum importat, non propter aliud conceditur haec.
+
+### Si dicat nunc secundum videlicet quod copula de praesenti quodlibet temporis importat.
+
+### Contra hoc arguitur: Sequitur etiam quod copula de praeterito omen tempus importat:
+
+Et sic copula de praeterito et praesenti erunt synonymae.
+
+### Praeterea sequitur quod haec concederetur: Adam est cum ly 'est' tempus praeteritum, et non propter aliud conceditur haec "Adam fuit".
+
+### Ad hanc replicam respondeo quod haec copula 'est' in mente si uniat pro instanti, non potest unire pro tempore:
+
+Et tunc quando quaeris utrum ne importet hoc instans praesens vel quodlibet.
+
+### Respondeo quod quodlibet pro improbationis declaratione notandum est quod copula de praesenti unit solum pro instanti in quo ipsa est unione actuali:
+
+Sed pro quolibet unit unione potentiali sicut ly 'homo' supponit tantum pro homine actu existente in hac "Homo est animal". Sed suppositione potentiali pro quolibet homine qui possibiliter supponit et ly 'fuit', omne instans praeteritum actualiter importat, et pro quolibet tali unit. Sed unione potentiali pro quolibet unit et sic tam copula praesentis quam praeteriri importat omne instans. Sed in hoc differt quod una ab alia haec per modum praeteritionis significat /13.2b/ 'hoc est', connotat quodlibet instans per
+
+-- I am here
+
+per modum praeteritionis; illa connotat quodlibet instans per modum praesentialitatis (capio ly 'connotare' improprie), et ex hoc patet copulas illas non esse synonymae de significatione essentiali ut quidam dicunt, quia non significant eodem modo post aliqualiter una dat intelligere ultra suum principale aliqualiter significare, quatenus alia dat intelligere solum differentiam penes modum significandi accidentalem, viderentur eidem subordinari; quod est impossibile, et pro hoc patet ad formam argumenti.
+
+## Sed pro solutione sexti dubii:
+Quod principale est in hac materia, antequam argumenta fortiora contra hanc opinionem faciamus, duo maxime sunt notanda quae fundamenta huius opinionis sunt, quorum primum est: omnis actus syncategorematicus praerequirit ad sui productionem terminum vel terminos a quo vel quibus in conservari dependet, sic quod talis actus sine talibus terminis categorematicis non potest manere; tales terminos vocat actus syncategorematicus obiecta.
+
+Secundum fundamentum: omnis terminus syncategorematicus determinat seu agit in termino categorematico seu syncategorematico a quibus producitur, et solum in tales itaque solum in illos a quibus producitur agit. Ad probationem horum fundamentorum suppono unum quod probabile dubio decimo septimo, nullam propositionem mentalem ultimata esse aequivocam, id est, receptum est ab omnibus communia insequentibus.
+
+Tam probatur primum fundamentum, quoniam dato opposito sequeretur quod syncategorema posset manere in fine alio termino, quod est falsum, ergo et antecedens; sequela probatur, quoniam postquam per te a nullo termino dependet in conservari, sequitur poterit esse sine illo; similiter postquam a nullo termino producitur, sequitur quod a solo intellectu productura, et per consequens solus potest esse in intellectu. Propterea si a nullo producitur, etiam a nullo termino dependet in conservari, quia non datur causa conservans quin sit efficiens, et per vis sequitur dato opposito cuiusque partis illius categorematicus posse se solo conservari; sed falsitas primi fundamenti sequitur terminum finis. Probatio probatur primo per Aristotelem dicentem...

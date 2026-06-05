@@ -1,5 +1,6 @@
 # Transcription Guide: Enzinas 1528 — Learned Corrections
 
+## Give the transcription in md format.
 
 ## Folio Markers
 

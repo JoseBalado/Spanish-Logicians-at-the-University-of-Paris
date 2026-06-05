@@ -1670,7 +1670,7 @@ Quintum membrum merito addi potest, ut descendendo sub subiecto huius "Omne anim
 
 ### Prima regula
 <div class="textus">
-In descensu et ascensu quinque regulas notato. Quarum prima est: Ne a pluribus determinatis respectu partium multitudinis, ad unam determinatam respectu totius, disputetur non parum curandum est.
+In descensu et ascensu quinque regulas notato. Quarum prima est: Ne a pluribus determinatis, respectu partium multitudinis, ad unam determinatam, respectu totius, disputetur, non parum curandum est.
 </div>
 Defectus cuius non sequitur:
 
@@ -1680,14 +1680,14 @@ Defectus cuius non sequitur:
 > ergo  
 > Caput omnis homo habet.
 
-Illae enim inferunt hanc "⟨a⟩ Caput omnis homo habet", non ponendo ⟨a⟩, ly 'caput' in antecedente crebro stat determinate respectu termini distributi, et per consequens respectu multitudinis, et hoc nisi suppositioni confusae tantum,suppositio determinata, aequivaleat, ut istius:
+Illae enim inferunt hanc "⟨a⟩ Caput omnis homo habet". Non ponendo ⟨a⟩, ly 'caput' in antecedente crebro stat determinate respectu termini distributi, et per consequens respectu multitudinis; et hoc, nisi suppositioni confusae tantum, suppositio determinata, aequivaleat, ut istius:
 
 > Hominis asinus non est Brunellus, et  
 > Istius hominis asinus non est Brunellus, et sic de singulis;  
 > ergo  
-> cuiuslibet hominis ⟨b⟩ asinus non est Brunellus.
+> Cuiuslibet hominis ⟨b⟩ asinus non est Brunellus.
 
-Quia istae propositione inter se aequivalent "Cuiuslibet hominis ⟨b⟩ asinus non est Brunellus", et "Cuiuslibet hominis asinus non est Brunellus" patet, earum contradictoriae aequivalent. Immo una propositio utrique contradicit, scilicet "Alicuius hominis quilibet asinus est Brunellus", et idem est dictu "⟨a⟩ Hominis quilibet asinus est currens", et "Hominis quilibet asinus est currens". Utrique illarum eadem propositio contradicit. Patet ex dictis in contradictoriis. /74/
+Quia istae propositiones inter se aequivalent "Cuiuslibet hominis ⟨b⟩ asinus non est Brunellus", et "Cuiuslibet hominis asinus non est Brunellus" patet; earum contradictoriae aequivalent. Immo una propositio utrique contradicit, scilicet "Alicuius hominis quilibet asinus est Brunellus"; et idem est dictu "⟨a⟩ Hominis quilibet asinus est currens" et "Hominis quilibet asinus est currens". Utrique illarum eadem propositio contradicit. Patet ex dictis in contradictoriis. /74/
 
 -- I am here
 

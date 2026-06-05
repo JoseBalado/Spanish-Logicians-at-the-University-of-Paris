@@ -29,8 +29,8 @@ Here are some of the logicians I am currently focusing on:
 - **[Gaspar Lax (1487 – 1560)](philosophers/Gaspar-Lax/)**
 - **[Juan de Celaya (1490 – 1558)](philosophers/Juan-de-Celaya/)**
 - **[Juan Dolz del Castellar (c. 1490 – c. 1550)](philosophers/Juan-Dolz-del-Castellar/)**
-- **[Domingo de Soto (1494 – 1560)](philosophers/Domingo-de-Soto/)**
 - **[Fernando de Enzinas (c. 1494 – 1523)](philosophers/Fernando-de-Enzinas/)**
+- **[Domingo de Soto (1494 – 1560)](philosophers/Domingo-de-Soto/)**
 
 ## Logicians
 

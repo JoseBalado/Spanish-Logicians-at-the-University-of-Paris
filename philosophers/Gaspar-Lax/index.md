@@ -42,7 +42,7 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 
 ## Index of Works and Detailed Table of Contents
 
-### Tractatus exponibilium propositionum (Parisius 1507)
+### Tractatus exponibilium propositionum (Parisius, 1507)
 *Littera minutissima*
 - De resolutione — Page 5
 - De propositione exponibili — Page 6
@@ -68,7 +68,7 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 
 ---
 
-### Insolubilia (Parisius 1508)
+### Insolubilia (Parisius, 1508)
 *Littera minutissima*
 - Circa insolubilium propositionum difficultates...
 - Prima quaestio: An aliqua propositio possit se falsificare aut impossibilitare aut propter reflexionem significare aliter esse quam est — Page 3
@@ -78,7 +78,7 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 
 ---
 
-### Tractatus syllogismorum (Parisius 1509)
+### Tractatus syllogismorum (Parisius, 1509)
 *Littera minuta*
 - Tractatus syllogismorum feliciter incipit — Page 9
 - Prima pars — Page 9
@@ -109,7 +109,7 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 
 ---
 
-### Tractatus de materiis & de oppositionibus in generali (Parisius 1511)
+### Tractatus de materiis & de oppositionibus in generali (Parisius, 1511)
 *Littera minuta*
 - De materiis — Page 4
 - De oppositionibus in generali — Page 36
@@ -128,12 +128,12 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 
 ---
 
-### Exponibilia (Parisius 1512)
+### Exponibilia (Parisius, 1512)
 - *Add index to this book*
 
 ---
 
-### Insolubilia (Parisius 1512)
+### Insolubilia (Parisius, 1512)
 - Circa insolubilium propositionum difficultates...
 - Prima quaestio — Page 4
 - Secunda quaestio — Page 24
@@ -142,7 +142,7 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 
 ---
 
-### Obligationes (Parisius 1512)
+### Obligationes (Parisius, 1512)
 *Litterae minutae*
 - Prima pars obligationum — Page 12
 - Secunda pars principalis — Page 16
@@ -164,7 +164,7 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 
 ---
 
-### Termini. Secundo revisi (Parisiis 1512)
+### Termini. Secundo revisi (Parisiis, 1512)
 - Terminus prout ad propositum sufficit capitur dupliciter — Page 7
 - De significare — Page 10
 - De divisionibus huius termini ‘terminus’ — Page 19
@@ -175,7 +175,7 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 
 ---
 
-### Tractatus de oppositionibus propositionum categoricarum in speciali, et de earum aequipollentiis (Parisius 1512)
+### Tractatus de oppositionibus propositionum categoricarum in speciali, et de earum aequipollentiis (Parisius, 1512)
 - De contrariis — Page 6
 - Lex sive natura contrariarum — Page 15
 - Subcontrariae — Page 27
@@ -191,7 +191,7 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 
 ---
 
-### Impositiones (Parisius 1513)
+### Impositiones (Parisius, 1513)
 - Prima quaestio: Utrum quilibet terminus... possit converti et ipsi in sic significando subordinari — Page 4
 - Secunda quaestio: Utrum quilibet terminus... possit converti et ipsi in sic significando subordinari — Page 58
 - Tertia quaestio: An quilibet terminus... possit converti et ipsi in sic significando subordinari — Page 68
@@ -240,7 +240,7 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 
 ---
 
-### Arithmetica speculativa (Parisius 1515)
+### Arithmetica speculativa (Parisius, 1515)
 - Argumentorum duodecim librorum arithmetices Gasparis Lax
 - Primus: Numerorum communes proprietates ostendit — Page 7
 - Secundus: Proportionum et proportionalitatum communes passiones demonstrat
@@ -257,12 +257,12 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 
 ---
 
-### Proportiones (Parisius 1515)
+### Proportiones (Parisius, 1515)
 - Pages 52
 
 ---
 
-### Calculationes generales philosophice (Cesarauguste 1517)
+### Calculationes generales philosophice (Cesarauguste, 1517)
 - Calculationum generalium liber primus — Page 4
 - Libri primi definitiones — Page 4
 - De dimensionibus quantitatis — Page 4
@@ -291,7 +291,7 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 
 ---
 
-### Tractatus parvorum logicalium (Cesaraugustae 1521)
+### Tractatus parvorum logicalium (Cesaraugustae, 1521)
 - Suppositio est terminus qui accipitur in propositione pro suo significato — Page 12
 - De suppositionibus improprie dictis... — Page 18
 - De suppositione proprie dicta et materiali — Page 20
@@ -319,7 +319,7 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 
 ---
 
-### Tractatus summularum (Cesaraugustane 1521)
+### Tractatus summularum (Cesaraugustane, 1521)
 - De diffinitione — Page 12
 - De divisione — Page 15
 - De termino — Page 18
@@ -342,12 +342,12 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 
 ---
 
-### Summa parvorum logicalium (Cesaraugustae 1525)
+### Summa parvorum logicalium (Cesaraugustae, 1525)
 - *(I don’t have this book)*
 
 ---
 
-### Questiones phisicales (Cesarauguste 1527)
+### Questiones phisicales (Cesarauguste, 1527)
 - Quaestiones physicales magistri Gasparis Lax feliciter incipiunt
 - De quantitate — Page 7
 - De quantitate discreta — Page 35
@@ -389,7 +389,7 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 
 ---
 
-### Summa parvorum logicalium (Cesaraugustae 1532)
+### Summa parvorum logicalium (Cesaraugustae, 1532)
 - De suppositionibus — Page 3c
 - De suppositionem improprie dictam et proprie dictam — Page 7d
 - De suppositione proprie dicta et materiali — Page 8c

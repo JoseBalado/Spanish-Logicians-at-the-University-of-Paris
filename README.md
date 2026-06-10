@@ -1,1 +1,1 @@
-# Spanish-Logicians-at-the-University-of-Paris
+# Medieval Logic commentary and formalization in Lean 4

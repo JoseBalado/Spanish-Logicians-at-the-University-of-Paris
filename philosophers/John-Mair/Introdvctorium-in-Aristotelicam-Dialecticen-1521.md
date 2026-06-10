@@ -1687,7 +1687,7 @@ Illae enim inferunt hanc "⟨a⟩ Caput omnis homo habet". Non ponendo ⟨a⟩, 
 > ergo  
 > Cuiuslibet hominis ⟨b⟩ asinus non est Brunellus.
 
-Quia istae propositiones inter se aequivalent "Cuiuslibet hominis ⟨b⟩ asinus non est Brunellus", et "Cuiuslibet hominis asinus non est Brunellus" patet; earum contradictoriae aequivalent. Immo una propositio utrique contradicit, scilicet "Alicuius hominis quilibet asinus est Brunellus"; et idem est dictu "⟨a⟩ Hominis quilibet asinus est currens" et "Hominis quilibet asinus est currens". Utrique illarum eadem propositio contradicit. Patet ex dictis in contradictoriis. /74/
+Quia istae propositiones inter se aequivalent "Cuiuslibet hominis ⟨b⟩ asinus non est Brunellus" et "Cuiuslibet hominis asinus non est Brunellus", patet; earum contradictoriae aequivalent. Immo una propositio utrique contradicit, scilicet "Alicuius hominis quilibet asinus est Brunellus"; et idem est dictu "⟨a⟩ Hominis quilibet asinus est currens" et "Hominis quilibet asinus est currens". Utrique illarum eadem propositio contradicit. Patet ex dictis in contradictoriis. /74/
 
 -- I am here
 
@@ -2044,7 +2044,7 @@ Ad quintum. Negetur minor, error est trabeus arguendo a non distributo ad distri
 
 #### Ad sextum
 
-Ad sextum respondeo: Nihil mali est, immo expediret non descendere sub termino stante confuse tantum disiunctim. Descensus et ascensus sunt pro propositionum veritatibus aut falsitatibus cribrandis, quae per disiuncta minime indagantur sed delitescunt. Sed pro inoportuno descendatur disiunctim quousque habeatur unum disiunctum expressum et illic sit quies, quod si otiosus quintum pedem in ariete venetur in abyssum descendat.
+Ad sextum respondeo: Nihil mali est, immo expediret non descendere sub termino stante confuse tantum disiunctim. Descensus et ascensus sunt pro propositionum veritatibus aut falsitatibus cribrandis, quae per disiuncta minime indagantur sed delitescunt. Sed pro importuno descendatur disiunctim quousque habeatur unum disiunctum expressum et illic sit quies, quod si otiosus quintum pedem in ariete venetur in abyssum descendat.
 
 Quando disiunctim tamen stat determinate vel distributive, facile per descensum et ascensum propositionum veritate deprehendere potes.
 
@@ -3909,3 +3909,17 @@ Contra quartum corollarium arguitur: Ante mundi creationem, Abel non erat; ergo 
 Consequentia nihil valet. Ex negativa non praegnante non impossibili, non sequitur affirmativa necessaria, ut est consequens.
 
 Et haec de complexe significabilibus.
+
+<!--
+## Apparatus Criticus Reference
+* emend.  (emendatio)  : Corrected a flat-out printing mistake.
+* leg.    (legitur)    : Standardized spelling (like modernizing u/v or i/j).
+* om.     (omissio)    : Printer left a word out; supplied missing text.
+* sic                  : Error left exactly as printed in the original.
+* conj.   (coniectura) : Text is unreadable; this is an educated guess.
+* transp. (transposito): Printer accidentally swapped word or letter order.
+* del.    (deletio)    : Printer repeated a word; deleted the extra one.
+
+## Log
+Page 80: inoportuno ] emend. importuno
+-->

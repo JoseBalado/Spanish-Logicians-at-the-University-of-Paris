@@ -51,7 +51,7 @@ FILES = [
     {
         "src": "John-Mair/Introdvctorium in Aristotelica[m] Dialecticen, tota[m]q[ue] Logice[n] [999%Philos.2276](Paris 1521).odt",
         "dst": "John-Mair/Introdvctorium-in-Aristotelicam-Dialecticen-1521.md",
-        "title": "Introdvctorium in Aristotelicam Dialecticen (Paris 1521)",
+        "title": "Introdvctorium in Aristotelicam Dialecticen (Paris, 1521)",
         "author": "John Mair",
         "year": 1521,
         "place": "Paris",
@@ -125,6 +125,26 @@ FILES = [
             "Domingo de Soto, Summulae, logic, Burgos 1529, Dominican, "
             "medieval logic, renaissance logic, School of Salamanca, "
             "Juan de Celaya, University of Paris"
+        ),
+    },
+    {
+        "src": "Domingo-de-Soto/In Dialecticam Aristotelis Commentarij [2 Ph.sp. 47 m#Beibd.1](Salmanticae 1554).odt",
+        "dst": "Domingo-de-Soto/In-Dialecticam-Aristotelis-Commentarii-1554.md",
+        "title": "In Dialecticam Aristotelis Commentarii",
+        "author": "Domingo de Soto",
+        "year": 1554,
+        "place": "Salmanticae (Salamanca)",
+        "signature": "2 Ph.sp. 47 m#Beibd.1",
+        "library": "Bayerische Staatsbibliothek, München",
+        "description": (
+            "In Dialecticam Aristotelis Commentarii by Domingo de Soto, Salamanca 1554. "
+            "A commentary on Aristotle's logical works (the Organon), continuing the "
+            "Parisian dialectical tradition Soto learned under Juan de Celaya."
+        ),
+        "keywords": (
+            "Domingo de Soto, In Dialecticam Aristotelis Commentarii, commentary, "
+            "Aristotle, Organon, dialectic, logic, Salamanca 1554, Dominican, "
+            "medieval logic, renaissance logic, School of Salamanca, University of Paris"
         ),
     },
     # ── Fernando de Enzinas ───────────────────────────────────────────────────

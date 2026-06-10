@@ -38,7 +38,7 @@ Once back in Spain, Soto turned against the *via moderna* and pressed for a retu
 Soto's main logical publication belongs directly to the Parisian summulae tradition:
 
 - *Summulae* (Burgos, 1529) — a manual of logic in the tradition of Peter of Spain's *Summulae logicales*, revised and reprinted several times. This is his principal contribution to formal logic.
-- *In dialecticam Aristotelis commentarii* (Salamanca, 1544) — a commentary on Aristotle's logical works.
+- *In dialecticam Aristotelis commentarii* (Salamanca, 1554) — a commentary on Aristotle's logical works.
 
 The *Summulae* in particular connects Soto to the teaching tradition that produced the logic manuals of [Fernando de Enzinas](../Fernando-de-Enzinas/) and the works of Gaspar Lax and Juan de Celaya.
 
@@ -56,6 +56,7 @@ The *Summulae* in particular connects Soto to the teaching tradition that produc
 The following texts by Domingo de Soto are available in this site:
 
 - [Summulae (Burgos, 1529)](Summulae-1529.html)
+- [In Dialecticam Aristotelis Commentarii (Salamanca, 1554)](In-Dialecticam-Aristotelis-Commentarii-1554.html)
 
 ---
 

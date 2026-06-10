@@ -41,8 +41,8 @@ This is the index of the Medulla Dyalectices:
 
 ## Works
 
-- *Medulla Dyalectices* (Paris 1500)
-- *Medulla Dyalectices* (Paris 1505, re-edited by John Mair and Jacobo Ortiz)
+- *Medulla Dyalectices* (Paris, 1500)
+- *Medulla Dyalectices* (Paris, 1505), re-edited by John Mair and Jacobo Ortiz
 
 ## Notes
 
@@ -50,7 +50,7 @@ This is the index of the Medulla Dyalectices:
 
 [^2]: On the life and work of Jerónimo Pardo see García Villoslada 1938, pp. 379-380; Muñoz Deldado 1970, pp. 213-227.
 
-[^3]: Most secondary sources assume a teacher-student relationship with Mair: cf. Beuchot 1976, pp. 213-230; Elie 1950-1951, p. 205; Guerlac 1979, p. 20; Prantl 1955, p. 247; Torrance 1969, pp. 531-576. The primary source, however, tells against this. In *Inclytarum artium ac sacre patine doctoris* (Lugduni 1508, fol. CXCII; Lugduni 1516, fol. CLV), Propositum de Infinito, Mair writes: "Rursus meus amicus Hieronymus Pardo, cuius animam exaudiat Deus, dicit tales terminos 'Sortes', 'Plato' esse connotativos, et non improbabiliter." Mair calls Pardo *amicus*, not *magister* — which, had Pardo been his teacher, would have been the natural form of address. The phrase *cuius animam exaudiat Deus* further confirms that Pardo was already dead when Mair wrote this. Cf. García Villoslada 1938, p. 131, n. 7.
+[^3]: Most secondary sources assume a teacher-student relationship with Mair: cf. Beuchot 1976, pp. 213-230; Elie 1950-1951, p. 205; Guerlac 1979, p. 20; Prantl 1955, p. 247; Torrance 1969, pp. 531-576. The primary source, however, tells against this. In *Inclytarum artium ac sacre patine doctoris* (Lugduni, 1508, fol. CXCII; Lugduni, 1516, fol. CLV), Propositum de Infinito, Mair writes: "Rursus meus amicus Hieronymus Pardo, cuius animam exaudiat Deus, dicit tales terminos 'Sortes', 'Plato' esse connotativos, et non improbabiliter." Mair calls Pardo *amicus*, not *magister* — which, had Pardo been his teacher, would have been the natural form of address. The phrase *cuius animam exaudiat Deus* further confirms that Pardo was already dead when Mair wrote this. Cf. García Villoslada 1938, p. 131, n. 7.
 
 [^4]: Cf. Muñoz Delgado 1970, p. 213; Garcia Villoslada 1938, p. 380; Elie 1950-1951, p. 206; Fraile 1971, p. 322.
 

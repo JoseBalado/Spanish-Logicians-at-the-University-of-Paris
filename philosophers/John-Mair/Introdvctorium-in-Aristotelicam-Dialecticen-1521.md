@@ -13,29 +13,18 @@ keywords: >-
 
 /3/
 
-Primus Libellus erit de Terminis et Enuntiatione
-
-Secundus de Suppositionibus et de Parvis Logicalibus
-
-Tertius de Consequentiis in Communi
-
-Quartus de Consequentia Syllogistica in Communi
-
-Quintus de Syllogismo Dialectico
-
-Sextus de Syllogismo Sophistico
-
-Septimus de Syllogismo Demonstrativo
-
-Octavus de Exponibilibus
-
-Nonus Praedicabilium seu de Praedicabilibus
-
-Decimus Praedicamentorum, seu de Praedicamentis
-
-Undecimus de Complexis Significabilibus
-
-Duodecimus et ultimus de Obligationibus
+* **Primus libellus erit** *De terminis et enuntiatione*
+* **Secundus** *De suppositionibus et de parvis logicalibus*
+* **Tertius** *De consequentiis in communi*
+* **Quartus** *De consequentia syllogistica in communi*
+* **Quintus** *De syllogismo dialectico*
+* **Sextus** *De syllogismo sophistico*
+* **Septimus** *De syllogismo demonstrativo*
+* **Octavus** *De exponibilibus*
+* **Nonus** *Praedicabilium*, seu *De praedicabilibus*
+* **Decimus** *Praedicamentorum*, seu *De praedicamentis*
+* **Undecimus** *De complexis significabilibus*
+* **Duodecimus et ultimus** *De obligationibus*
 
 # Primus Libellus erit de Terminis et Enuntiatione
 
@@ -1689,30 +1678,24 @@ Illae enim inferunt hanc "⟨a⟩ Caput omnis homo habet". Non ponendo ⟨a⟩, 
 
 Quia istae propositiones inter se aequivalent "Cuiuslibet hominis ⟨b⟩ asinus non est Brunellus" et "Cuiuslibet hominis asinus non est Brunellus", patet; earum contradictoriae aequivalent. Immo una propositio utrique contradicit, scilicet "Alicuius hominis quilibet asinus est Brunellus"; et idem est dictu "⟨a⟩ Hominis quilibet asinus est currens" et "Hominis quilibet asinus est currens". Utrique illarum eadem propositio contradicit. Patet ex dictis in contradictoriis. /74/
 
--- I am here
-
 <div class="textus">
 Caeterum quando determinatio distribuitur respectu determinabilis discreti, non refert alterum extremum supponere determinate vel confuse.
 </div>
-Nam istae aequivalent "⟨a⟩ Hominis Brunellus non est currens", et "Homini Brunellus non est currens".
+Nam istae aequivalent "⟨a⟩ Hominis Brunellus non est currens" et "Hominis Brunellus non est currens".
 
-Pro regula servato, sicut nihil interest determinationem supponere confuse vel determinate in affirmativis respectu determinabilis stantis determinate, qualitercumque alterum extremum supponit, ita non refert determinationem respectu determinabilis discreti supponere confuse vel determinate tam in affirmativis quam in negativis, qualitercumque alterum extremum supponit.
+Pro regula servato: sicut nihil interest determinationem supponere confuse vel determinate in affirmativis, respectu determinabilis stantis determinate, qualitercumque alterum extremum supponit; ita non refert determinationem, respectu determinabilis discreti, supponere confuse vel determinate, tam in affirmativis quam in negativis, qualitercumque alterum extremum supponit.
 
-At tunc dicis licitum est ergo ratiocinari a confusa ad determinatam, respectu multitudinis formaliter, extra formalem necessitatem consequentis, aut antecedentis impossibilitatem formalem, contra quinta regulam sequentem.
+At tunc dicis: Licitum est ergo ratiocinari a confusa ad determinatam, respectu multitudinis formaliter, extra formalem necessitatem consequentis aut antecedentis impossibilitatem formalem, contra quinta regulam sequentem.
 
 Conceditur: Patet hic "⟨a⟩ Homo contingenter non currit; ergo Homo contingenter currit". Sed quia idem est dicere "⟨a⟩ Homo contingenter currit et contingenter non currit", et esset certamen de suppositione termini 'currens'. Patet aliter: "⟨a⟩ Homo differt ab homine; ergo Homo differt ab homine".
 
-Sed quia dicis totale praedicatum non distribuitur et in illis hoc non inconvenit, ut "⟨a⟩ Homo est omne currens" formaliter sequitur "Homo est omen currens".
+Sed quia dicis: Totale praedicatum non distribuitur, et in illis hoc non inconvenit, ut "⟨a⟩ Homo est omne currens", formaliter sequitur "Homo est omne currens".
 
-Similiter in terminis collectivis, sequitur enim "⟨a⟩ Omnes apostoli omnia currentia sunt; ergo Aliqui omnes apostoli omnia currentia sunt". Et patet in exemplo prius dato "⟨a⟩ Hominis quilibet asinus currit; ergo Hominis quilibet asinus currit".
+Similiter in terminis collectivis: Sequitur enim "⟨a⟩ Omnes apostoli omnia currentia sunt; ergo Aliqui omnes apostoli omnia currentia sunt". Et patet in exemplo prius dato "⟨a⟩ Hominis quilibet asinus currit; ergo Hominis quilibet asinus currit".
 
-Sed bifariam hic descendere solent. Uno modo in omnibus singularibus, ponendo relativum identitatis dempta prima, ut "Caput iste homo habet (illa verificatur pro capite Sortis) et, Idem caput iste homo habet, et sic de singulis".
+-- I am here
 
-Modo tunc antecedens est falsum pro qualibet alis singulari a prima, sicut et consequens, et sic dicetur hic "Homo non est hoc animal, et Idem homo non est hoc animal, et sic de singulis", dabitur singularis falsa, pro qua prima propositio verificabatur, ut is sint tres homines in mundo solum: 'a', 'b' et 'c'. Sortes, Plato et Cicero, "Homo non est hoc animal", queritur pro quo illam verificabis.
-
-Pro 'a' tunc in una descendente demonstrando 'a', illa erit falsa, contra casu tuo stante qualibet singularis ascendentis est vera. Prima enim verificatur pro quolibet homine alio a Sorte, vel 'a'. Immo, pro quolibet homine quocumque demonstrato haec est vera "Homo non est hoc animal". Patet per suae contradictoriae falsitatem; ergo illa verificatur pro quolibet illorum trium hominum. Et quacumque singulari data, "Idem homo non est hoc animal", illa est vera, cum subiectum est terminus communis et supponit pro omni illo pro quo propositio antecedentis verificatur. Modo propositio antecedentis pro pluribus verificatur, ergo haec negativa est vera de praedicato discreto.
-
-Si essent praecise duo homines Sortes et Plato, haec est vera "Homo non est hoc animal", demonstrando Sortem, sed sic est hic; /75/ igitur.
+Sed bifariam hic descendere solent. Uno modo in omnibus singularibus, ponendo relativum identitatis dempta prima, ut "Caput iste homo habet (illa verificatur pro capite Sortis) et, Idem caput iste homo habet, et sic de singulis". Modo tunc antecedens est falsum pro qualibet alia singulari a prima, sicut et consequens, et sic dicetur hic "Homo non est hoc animal, et Idem homo non est hoc animal". Et sic dicetur hic "Homo non est hoc animal, et Idem homo non est hoc animal, et sic de singulis", dabitur singularis falsa, pro qua prima propositio verificabatur, ut is sint tres homines in mundo solum: 'a', 'b' et 'c'. Sortes, Plato et Cicero, "Homo non est hoc animal", queritur pro quo illam verificabis. Pro 'a' tunc in una descendente demonstrando 'a', illa erit falsa. Contra casu tuo stante qualibet singularis ascendentis est vera. Prima enim verificatur pro quolibet homine alio a Sorte, vel 'a', immo pro quolibet homine, quocumque demonstrato, haec est vera "Homo non est hoc animal". Patet per suae contradictoriae falsitatem; ergo illa verificatur pro quolibet illorum trium hominum et quacumque singulari data. "Idem homo non est hoc animal", illa est vera cum subiectum est terminus communis et supponit pro omni illo pro quo propositio antecedentis verificatur. Modo propositio antecedentis pro pluribus verificatur, ergo haec negativa est vera de praedicato discreto. Si essent praecise duo homines Sortes et Plato, haec est vera "Homo non est hoc animal", demonstrando Sortem, sed sic est hic; /75/ igitur.
 
 Praeterea aliter arguitur:
 

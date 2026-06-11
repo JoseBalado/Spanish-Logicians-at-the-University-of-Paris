@@ -79,6 +79,7 @@ These specific expansions were confirmed or corrected:
 | `prospositionaliter` | `propositionaliter` |
 | `Holect` | `Holkot` (proper name: Robert Holcot) |
 | `optratui` | `optativi` |
+| `qm̄` | `quoniam` |
 | `solui` | `solvi` (normalize to classical spelling) |
 | `quinis` | `quivis` (misread — "whoever" not "five each") |
 | `isto in primo die` | `sto in prius dictis` (significant misread) |
@@ -93,6 +94,7 @@ These specific expansions were confirmed or corrected:
 | `cathegoreice` | `categoricae` |
 | `diffinitio` | `definitio` |
 | `diffinitione` | `definitione` |
+| `hec` | `haec` |
 | `ypothetice` | `hypotheticae` |
 | `qp` | `quod` |
 | `7` | `et` |
@@ -220,15 +222,6 @@ tam immediatum sit subiecto sicut praedicato) distribuatur subiectum quam praedi
 ### Quartodecimo cur potius huius mentalis...
 Seu quod idem est...
 ```
-
----
-
-## Proper Names
-
-- **Hieronymus Hangest** — always two words, capital H on both
-- **Hieronymus Pardo** — always two words, capital H and P (scholastic author cited in the *difficultates*)
-- **Holkot** — not "Holect" or "Holket" (refers to Robert Holcot, scholastic theologian)
-- **Gregorii** — genitive of Gregorius (refers to Gregory of Rimini)
 
 ---
 

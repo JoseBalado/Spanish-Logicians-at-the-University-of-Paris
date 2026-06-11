@@ -828,15 +828,53 @@ Et tunc quando quaeris utrum ne importet hoc instans praesens vel quodlibet.
 
 ### Respondeo quod quodlibet pro improbationis declaratione notandum est quod copula de praesenti unit solum pro instanti in quo ipsa est unione actuali:
 
-Sed pro quolibet unit unione potentiali sicut ly 'homo' supponit tantum pro homine actu existente in hac "Homo est animal". Sed suppositione potentiali pro quolibet homine qui possibiliter supponit et ly 'fuit', omne instans praeteritum actualiter importat, et pro quolibet tali unit. Sed unione potentiali pro quolibet unit et sic tam copula praesentis quam praeteriri importat omne instans. Sed in hoc differt quod una ab alia haec per modum praeteritionis significat /13.2b/ 'hoc est', connotat quodlibet instans per
+Sed pro quolibet unit unione potentiali sicut ly 'homo' supponit tantum pro homine actu existente in hac "Homo est animal". Sed suppositione potentiali pro quolibet homine qui possibiliter supponit et ly 'fuit', omne instans praeteritum actualiter importat, et pro quolibet tali unit. Sed unione potentiali pro quolibet unit et sic tam copula praesentis quam praeteriri importat omne instans. Sed in hoc differt quod una ab alia haec per modum praeteritionis significat /13.2b/ 'hoc est', connotat quodlibet instans per modum praeteritionis, et illa connotat quodlibet instans per modum praesentialitatis (capio ly 'connotare' improprie), et ex hoc patet copulas illas non esse synonymas de significatione essentiali, ut quidam dicit, quia non significant eodem modo, postquam aliqualiter una dat intelligere ultra suum principale aliqualiter significare qualiter alia non dat intelligere. Si enim solus differrent penes modum significandi accidentalem viderentur eidem subordinari, quod est impossibile. Et pro hec patet ad formam argumentum.
+
+## Sed pro solutione serti dubii:
+
+Quod principale est in hac materia, antequam argumenta fortiora contra hanc opinionem faciamus, duo maxime sunt notanda, quae fundamenta huius opinionis sunt, quorum primum est:
+> Omnis actus syncategorematicus praerequirit, ad sui productionem, terminum vel terminos a quo vel quibus in conservari dependet, sic quod talis actus sine talibus terminis categorematicis non potest manere, et tales termini vocantur actus syncategorematici obiecta.
+
+
+## Secundum fundamentum:
+
+> Omnis terminus syncategorematicus determinat seu agit in termino categorematico, seu syncategorematico, a quibus producitur, et solum in tales. Itaque solum in illos a quibus producitur agit.
+
+Ad probationem horum fundamentorum suppono unum quod probabitur dubio decimo septimo: "Nullam propositionem mentalem ultimatam esse aequivocam". Idque receptum est ab omnibus communia.
+
+In sequentibus iam probatur primum fundamentum, quoniam dato opposito sequeretur quod syncategorema posset manere in anima sine aliquo alio termino, consequens est falsum; ergo et antecedente.
+
+Sequela probatur, quoniam postquam per te a nullo termino dependet in conservari, sequitur quod poterit esse sine illo. Similiter postquam a nullo termino producitur, sequitur quod a solo intellectu producitur, et per consequens solus potest esse in intellectu. Propterea, si a nullo producitur etiam a nullo termino dependet in conservari, quia non datur causa conservans quin sit efficiens, et per consequens sequitur quod, dato opposito cuiusque partis illius primi fundamenti, sequitur terminum syncategorematicus posse se solo conservari. 
+
+Sed falsitas propositionis probatur primo per Aristotelem dicentem /14.1a/ ly 'est' si puerum dixeris nihil significat, sed significat quandam compositionem quam, sine extremis, non est intelligere, per quod Aristoteles nihil aliud voluit habere nisi quod ly 'est', solitarie positam, nullam habet significationem. Praeterea sequitur eandem propositionem esse veram et falsam. Consequens est falsum loquendo de mentali ultimata; ergo et antecedens. Sequela probatur quoniam ista copula 'erit' existente sola in anima.
+
+Potest primo unire ly 'animal' cum ly 'album', ita quod resultet haec propositio "Animal erit album". Poterit etiam unire ly 'album' cum ly 'animal', sic quod resultet haec propositio "Album erit animal". Ponamus igitur quod animalia nunc ultimo sint alba, ita quod post hoc erunt alba, tunc arguitur sic: hec propositio "Album erit animal" est vera, et haec propositio "Album erit animal" est falsa; ergo propositum. Minorem probo: haec propositio "Animal erit album" est falsa, et haec propositio "Animal erit album" est haec propositio "Album erit animal"; ergo haec propositio "Album erit animal" est falsa. Consequentia est expositoria, et minorem probabis facile expositorie arguendo, postquam termini unius sunt termini alterius.
+
+# De parte propositionis an sit propositio, et de verbo adiectivo:
+
+### Fortassis dices ad hanc rationem, quemadmodum nunc communiter loquentes dicunt, ly 'erit' non posse taliter unire quod possit simul et semel resultare: haec propositio "Animal erit album" et haec "Album erit animal".
+
+Contra hoc arguitur: Sequitur ad minus quod successive potest unire, sed hoc est falsum; ergo antecedens. Sequela probatur, quoniam secundum eos, ly 'erit' invenitur sola in anima; ergo potest aliquos terminos unire. Uniat ergo ly 'animal' et ly 'album', sic quod resultet haec propositio "Animal erit album", et postquam ly 'erit' non dependet etiam ab illis terminis, sequitur quod potest manere sine illis, et postmodum unire nunc hos, nunc illos pro libito intellectus, et per consequens, poterit unire ly 'album' cum ly 'animal', sic quod resultet haec propositio "Album erit animal".
+
+Simili modo probabitur, si ly 'omnis' solitarie inveniatur, posse nunc distribuere ly 'homo' in hac propositione "Omnis homo possibiliter est substantia", ac deinde distribuere unum alium terminum pro libito intellectus, videlicet ly 'substantia' in hac propositione "Omnis substantia possibiliter est homo". Sed quod hoc sit falsum et impossibile. Sic probo: sequitur propositionem aliquam nunc esse veram, rebus omnibus se habentibus. Sicut antea, illam propositionem fore falsam, quod impossibile est, hoc sic patet, quoniam haec propositio "Animal erit /14.1b/ album" est vera casu posito, et deinde haec "Animal erit album" erit falsa, et iste duae "Animal erit album" et "Album erit animal" erunt eadem, quoniam erunt iidem termini; ergo propositum.
 
 -- I am here
 
-per modum praeteritionis; illa connotat quodlibet instans per modum praesentialitatis (capio ly 'connotare' improprie), et ex hoc patet copulas illas non esse synonymae de significatione essentiali ut quidam dicunt, quia non significant eodem modo post aliqualiter una dat intelligere ultra suum principale aliqualiter significare, quatenus alia dat intelligere solum differentiam penes modum significandi accidentalem, viderentur eidem subordinari; quod est impossibile, et pro hoc patet ad formam argumenti.
+Praeterea sequitur aliquam propositionem nunc fore necessariam et per solum placitum intellectus fieri impossibilem:
+Hoc sic patet: quam hec propositio "omnis homo possibiliter est substantia" est necessaria, ubi 'omnis' determinative <!-- "determinative ly homo" — reading of the verb governing this clause is uncertain --> ly 'homo'; et hec impossibilis fieret, si intellectui libuerit, videlicet si fecerit illud syncategorema 'omnis' determinate ly 'substantia', seu distribuere illud, quod idem esset, iste erunt eaedem postquam isdem erunt termini, ut patet argumentanti expositorie. Si enim Sortis caput ponatur ubi sunt pedes, et pedes ubi est caput, nullo alio addito nec remoto, idem erit Sortes, sic eadem propositio erit, ubi ly 'omnis' determinaverit subiectum et distribuerit predicatum, et hac deductione facile patet illos plane errasse qui defendebant actus syncategorematicos modo hos modo illos terminos determinare posse ad libitum intellectus, et non ex natura unire, sed determinare, sed ex advertentia intellectus.
+Secundum fundamentum facile potest probari ex dictis:
+Si enim actus syncategorematicus producitur ab aliquibus terminis, ut probatum est, in illos ergo aget, postquam non videtur habere dependentias ab aliis, et postquam in aliquos agit, et non est maior ratio quod in unos quam in alios agat, sequitur quod in omnes talis terminus aget, sed quod solum in illos a quibus producitur agat, seu illos determinet, sic patet, quoniam si alios posset determinare, omnes etiam terminos posse determinare, et tunc non daretur ratio quare, quando ista propositio est in anima "homo est animal", ly 'est' non coniungit istum terminum 'equus' et istum terminum 'asinus', quod si aliquis concederet sequeretur quod omnes terminos existentes in anima coniungeret, postquam non est maior ratio de uno quam de alio, et ista ly 'omnes' omnes terminos distribueret, cuius falsitas manifestissima est, nec potest dici quanquam<!-- abbreviation "qñqs/qñqp" expanded as "quanquam"; uncertain --> agat in aliquos terminos, et quanquam alios hoc provenire ex parte intellectus, quia hoc improbatum est, et ex hac probatione patet, capta hac propositione "homo est animal album", semper tolle 'album', totum residuum "homo est animal" corrum<!-- word continues into the next column, cut off at the column divider -->
 
-## Sed pro solutione sexti dubii:
-Quod principale est in hac materia, antequam argumenta fortiora contra hanc opinionem faciamus, duo maxime sunt notanda quae fundamenta huius opinionis sunt, quorum primum est: omnis actus syncategorematicus praerequirit ad sui productionem terminum vel terminos a quo vel quibus in conservari dependet, sic quod talis actus sine talibus terminis categorematicis non potest manere; tales terminos vocat actus syncategorematicus obiecta.
+<!--
+## Apparatus Criticus Reference
+* emend.  (emendatio)  : Corrected a flat-out printing mistake.
+* leg.    (legitur)    : Standardized spelling (like modernizing u/v or i/j).
+* om.     (omissio)    : Printer left a word out; supplied missing text.
+* sic                  : Error left exactly as printed in the original.
+* conj.   (coniectura) : Text is unreadable; this is an educated guess.
+* transp. (transposito): Printer accidentally swapped word or letter order.
+* del.    (deletio)    : Printer repeated a word; deleted the extra one.
 
-Secundum fundamentum: omnis terminus syncategorematicus determinat seu agit in termino categorematico seu syncategorematico a quibus producitur, et solum in tales itaque solum in illos a quibus producitur agit. Ad probationem horum fundamentorum suppono unum quod probabile dubio decimo septimo, nullam propositionem mentalem ultimata esse aequivocam, id est, receptum est ab omnibus communia insequentibus.
-
-Tam probatur primum fundamentum, quoniam dato opposito sequeretur quod syncategorema posset manere in fine alio termino, quod est falsum, ergo et antecedens; sequela probatur, quoniam postquam per te a nullo termino dependet in conservari, sequitur poterit esse sine illo; similiter postquam a nullo termino producitur, sequitur quod a solo intellectu productura, et per consequens solus potest esse in intellectu. Propterea si a nullo producitur, etiam a nullo termino dependet in conservari, quia non datur causa conservans quin sit efficiens, et per vis sequitur dato opposito cuiusque partis illius categorematicus posse se solo conservari; sed falsitas primi fundamenti sequitur terminum finis. Probatio probatur primo per Aristotelem dicentem...
+## Log
+Page 14.1a: puerum ] emend. purum
+-->

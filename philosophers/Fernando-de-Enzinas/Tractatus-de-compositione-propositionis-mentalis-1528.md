@@ -894,11 +894,58 @@ Quia hoc totum 'est currens', postquam includit hunc terminum 'ens', non signifi
 
 Praeterea omne complexum distans est propositio vel denominatum a propositione hypothetica, hoc totum 'est currens' non est denominatum ab aliqua propositione hypothetica, quia non est conditionatum nec rationatum nec copulatum, reliquum est; ergo ut non sit complexum distans, nec etiam illud aggregatum 'est currens', est terminus complexus complexione indistanti, quia tunc sequeretur quod se habebunt sicut determinatio et determinabile, et tunc copula esset determinatio praedicati, scilicet illius termini 'currens', quod est impossibile, quia eadem ratione copula esset determinatio subiecti, et sic hoc totum "Homo est" esset terminus complexus complexione indistanti, quod est falsum. Tum quia daretur propositio quae esset terminus complexus complexione indistanti, puta hec pars "Homo est". Similiter daretur propositio de est secundo adiacente in mente.
 
-Sed quod haec pars "homo est" sit propositio, hoc sic patet, quia cum sit unus terminus, necessarium est unicam habere significationem, et significatio erit necessario propositionalis. Relinquitur ergo verba adiectiva non subordinari termino complero.
+Sed quod haec pars "Homo est" sit propositio, hoc sic patet, quia cum sit unus terminus, necessarium est unicam habere significationem, et significatio erit necessario propositionalis. Relinquitur ergo verba adiectiva non subordinari termino complero.
 
 ### Sed si sustentaremus verba adiectiva subordinari actui et conceptui, quod probabilius existimo:
 
-Tunc dicendum est hoc totum 'est currens', cui ly 'currit' subordinatur, non esse terminum unicum, /15.1a/ sed esse duos termino non constituentes unum. ---
+Tunc dicendum est hoc totum 'est currens', cui ly 'currit' subordinatur, non esse terminum unicum, /15.1a/ sed esse duos termino non constituentes unum. Et si contra hoc arguas, quia tunc terminus subordinaretur non termino, id concedam, sicut secundum tenentes coniunctionem hanc 'ne' subordinari huic aggregato 'et non'. Ly 'nec' est coniunctio, et terminus tamen subordinatur non terminum, sufficit namque quod terminus subordinetur 'nec'.
+
+Contra hanc solutionem possunt fieri argumenta apparentia. Et si allegaveris proposita opinione Aristotelis, qui in Antepraedicamentis videtur sentire ly 'currit' esse terminum incomplexum, postquam exemplum ponit termini complexi in ly 'currit'.
+
+Respondebis: Aristoteles alterius opinione fuisse, et Aristoteles multa dicere, quorum opposita sunt probabilia, et quamvis id dicat non vult negare per hoc, oppositum esse probabile, vel dic praedicamenta illa fuisse Architae, aut ad commune refugium, quod exemplorum non sequitur veritas.
+
+# De significatione verbi et an significet aliquid
+
+### Occasione tamen huius dubitatur utrum sit probabile verba adiectiva inveniri in anima esseque incomplexa.
+
+### Ad quod communiter respondetur quod sic. Contra quod tamen sic arguo:
+
+<!-- Important text here -->
+Sequeretur quod idem esset praedicatum et copula, consequens est impossibile; ergo et antecedens. Sequela manifesta est, quia in hac mentali "Homo currit", ille terminus 'currit' est praedicatum et copula. Sed falsitas consequentis probatur, quia tunc idem produceretur a seipso, quod est impossibile, quod sic patet, quia copula ab extremis producitur postquam est syncategorema. Sed ly 'currit' est copula; ergo a praedicato producitur et ly 'currit' est praedicatum; ergo a seipso producitur.
+
+### Secundo sic sequeretur quod haec propositio "Homo currit" esset complexum complexione indistanti:
+
+Postquam partes eius non coniunguntur per aliquod coniungibile. Si dicas quod ly 'curritur' coniungitur cum ly 'homo'.
+
+### Contra hoc arguitur: Nihil potest unire seipsum; ergo ly 'currit' non potest seipsum unire, quod est contra responsionem.
+
+### Tertio sic arguitur: Sequeretur quod posset inveniri ly 'canis' in mente.
+
+Consequens est falsum, quia tunc esset aequivocatio in mente. Consequens est falsum; ergo et responsio. Sequela patet quia si aliqua esset causa quare ly 'canis' non inveniretur in mente, esset quia cum est conceptus categorematicus absolute repraesentans, oporteret quod inveniatur aliqua convenientia /15.1b/ accidentalis inter sua significata, quae non invenitur inter illa quae non significat, ut patet per regulam communem Nominalium.
+
+Sed hoc non impedit quin ille terminus 'canis' inveniatur in mente; ergo propositum. Minor probatur, quia invenitur ly 'currit' in mente, quod significat currentia et aliqualiter et tempus, et nulla invenitur convenientia essentialis nec accidentalis inter sua significata, sicut nec inter significata illius termini 'canis'; ergo si ly 'canis' propter dictum non invenitur, etiam nec ly 'currit'.
+
+Praeterea cum ly 'currit' habeat duas significationes inter se, nullo pacto convenientes, sequitur quod non invenitur in mente.
+
+### Ad duo prima facile est respondere, quia ad primum respondebitur concedendo sequelam et negando falsitatem consequentis.
+
+Et ad probationem nego sequelam, et ad probationem nego maiorem, videlicet quod oporteat copulam ab utroque extremorum produci. Sed requiritur quod ipsa praesupponit, videlicet a quocumque quod non est ipsamet.
+
+### Ads secundam rationem respondeo sicut responsum est usque ad replicam ad quam distinguo antecedens:
+
+Quia vel intelligis quod nihil uniat se cum alio, et hoc falsum est, quia liga una potest ligare se cum alio, vel intelligis quod nihil idem uniat se, et sic concedo in quo sensu non procedit ratio.
+
+### Tertium argumentum apparet mihi difficile, ad quod respondeo negando sequelam.
+
+Et ad probationem nego minorem, et ad probationem dico quod licet nulla sit convenientia inter significationes de ly 'currit', non propterea oportet quod sit aequivocus, aut quod propter illam etiam ly 'canis' inveniatur in mente. Et discrimen est, quia ly 'currit' est syncategorema aliquo modo, et non oportet quod, inter significationem unitivam et currentia, inveniatur convenientia, quia illa significatio unitiva est nihil est.
+
+Sed oportet quod convenientia inveniatur inter significata huius termini 'canis' postquam absolutus simpliciter est, et nullam includit significationem syncategorematicam. Et si dicas non maior convenientia invenitur inter currentia et tempus quod significari per ly 'currit', concessum est quam inter significationes de ly 'canis', ergo et caetera.
+
+Sed ly currit importat tempus de /15.2a/ formali aut de significatione syncategorematica, quia inquantum copula ipsum importat et currentia de materiali.
+
+
+
+
 
 
 <!--

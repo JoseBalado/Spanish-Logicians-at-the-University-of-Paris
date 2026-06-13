@@ -1,6 +1,6 @@
 # Transcription Guide: Enzinas 1528 — Learned Corrections
 
-## Give the transcription in md format.
+## Give the transcription in markdown format.
 
 ## Folio Markers
 
@@ -134,7 +134,7 @@ These specific expansions were confirmed or corrected:
 
 ## Quotes Around Propositions
 
-Use double quotes for complete propositions being analyzed:
+Use double quotes for complete propositions being analyzed and make the first letter uppercase:
 
 ```markdown
 post formationem huius propositionis "Homo est animal" compositae

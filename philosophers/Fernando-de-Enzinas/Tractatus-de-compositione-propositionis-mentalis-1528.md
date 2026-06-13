@@ -860,10 +860,46 @@ Simili modo probabitur, si ly 'omnis' solitarie inveniatur, posse nunc distribue
 
 -- I am here
 
-Praeterea sequitur aliquam propositionem nunc fore necessariam et per solum placitum intellectus fieri impossibilem:
-Hoc sic patet: quam hec propositio "omnis homo possibiliter est substantia" est necessaria, ubi 'omnis' determinative <!-- "determinative ly homo" — reading of the verb governing this clause is uncertain --> ly 'homo'; et hec impossibilis fieret, si intellectui libuerit, videlicet si fecerit illud syncategorema 'omnis' determinate ly 'substantia', seu distribuere illud, quod idem esset, iste erunt eaedem postquam isdem erunt termini, ut patet argumentanti expositorie. Si enim Sortis caput ponatur ubi sunt pedes, et pedes ubi est caput, nullo alio addito nec remoto, idem erit Sortes, sic eadem propositio erit, ubi ly 'omnis' determinaverit subiectum et distribuerit predicatum, et hac deductione facile patet illos plane errasse qui defendebant actus syncategorematicos modo hos modo illos terminos determinare posse ad libitum intellectus, et non ex natura unire, sed determinare, sed ex advertentia intellectus.
-Secundum fundamentum facile potest probari ex dictis:
-Si enim actus syncategorematicus producitur ab aliquibus terminis, ut probatum est, in illos ergo aget, postquam non videtur habere dependentias ab aliis, et postquam in aliquos agit, et non est maior ratio quod in unos quam in alios agat, sequitur quod in omnes talis terminus aget, sed quod solum in illos a quibus producitur agat, seu illos determinet, sic patet, quoniam si alios posset determinare, omnes etiam terminos posse determinare, et tunc non daretur ratio quare, quando ista propositio est in anima "homo est animal", ly 'est' non coniungit istum terminum 'equus' et istum terminum 'asinus', quod si aliquis concederet sequeretur quod omnes terminos existentes in anima coniungeret, postquam non est maior ratio de uno quam de alio, et ista ly 'omnes' omnes terminos distribueret, cuius falsitas manifestissima est, nec potest dici quanquam<!-- abbreviation "qñqs/qñqp" expanded as "quanquam"; uncertain --> agat in aliquos terminos, et quanquam alios hoc provenire ex parte intellectus, quia hoc improbatum est, et ex hac probatione patet, capta hac propositione "homo est animal album", semper tolle 'album', totum residuum "homo est animal" corrum<!-- word continues into the next column, cut off at the column divider -->
+### Praeterea sequitur: Aliquam propositionem nunc fore necessariam et per solum placitum intellectus fieri impossibilem.
+
+Hoc sic patet quoniam haec propositio "Omnis homo possibiliter est substantia" est necessaria, ubi 'omnis' determinative ly 'homo', et haec impossibilis fiet si intellectui libuerit, videlicet si fecerit illud syncategorema 'omnis' determinate, ly 'substantia', seu distribuere illud quod idem est, et istae erunt eaedem postquam iidem erunt termini, ut patet argumentanti expositorie.
+
+Si enim Sortis caput ponatur ubi sunt pedes, et pedes ubi est caput, nullo alio addito nec remoto, idem erit Sortes; sic eadem propositio erit ubi ly 'omnis' determinaverit subiectum et distribuerit praedicatum. Ex hac deductione facile patet illos plane errasse qui defendebant actus syncategorematicos, modo hos, modo illos, terminos determinare posse ad libitum intellectus, et non ex natura unire sed determinare, sed ex advertentia intellectus.
+
+### Secundum fundamentum facile potest probari ex dictis:
+
+Si enim actus syncategorematicus producitur ab aliquibus terminis, ut probatum est in illos, ergo aget postquam non videtur habere dependentiam ab aliis, et postquam in aliquos agit, et non est maior ratio quod in unos quam in alios agat, sequitur quod in omnes talis terminus aget. Sed quod solum in illos a quibus producitur agat, seu illos determinet.
+
+Sic patet, quoniam si alios posset determinare, omnes etiam terminos posse determinare, et tunc non daretur ratio quare, quando ista propositio est in anima "Homo est animal", ly 'est' non coniungit istum terminum 'equus' et istum terminum 'asinus', quod si aliquis concederet, sequeretur quod omnes terminos existentes in anima coniungeret, postquam non est maior ratio de uno quam de alio. Et similiter ly 'omnis' omnes terminos distribueret, cuius falsitas manifestissima est, nec potest dici quod quandoque agat in aliquos terminos et quandoque alios, hoc provenire ex parte intellectiva, quia hoc improbatum est, et ex hac probatione patet, capta hac propositione "Homo est animal album", semoto ly 'album', totum residuum "Homo est animal" corrumpi, /14.2a/ et hoc quia ly 'est' non unit illum terminum 'homo' cum ly 'animal', sed ly 'homo' cum ly 'animal album'. 
+
+# Quod signum efficitur pars extremi
+
+## Ex his facile videre est id quod dubio septimo quaerebatur, autem quae pars propositionis est propositio et que non:
+
+Unde omnis pars propositionis quae potest esse propositio totalis per se est propositio, et solum talis. Quare hoc totum "Homo est animal", quod est pars huius "Homo est animal album", non est propositio, immo nec terminus, quod sic patet, quoniam non complexus, nam postquam illum terminum 'homo' et illum terminum 'animal album' unit non uniet alium, ut probatum est. Quare non uniet illum terminum 'homo' cum illo termino 'animal', et sic non erit terminus complexus nec incomplexus, ut liquet; ergo non est terminus. Sed hoc totum "Homo est animal" quod est pars huius "Omnis homo est animal" est propositio.
+
+Potest enim esse totalis propositio, ut patet semota 'omnis', non enim propter hoc quod semoveatur corrumpetur, quia non dependet illa copula 'est' ab illo signo 'omnis', quare si semel est propositio, propter hoc quod aliquod signum advenerit, non desinit esse propositio, et significare vere vel false sicut antea.
+
+## Et ex hoc manifeste potest patere non esse sustentabile verba adiectiua esse complexa:
+
+Quod sic manifeste, iuxta fundamenta, deducitur, et maxime secundum hos qui tenent nullam propositionem mentalem esse de termino adiacente, atque nullum verbum adiectiuum inueniri in mente. Sed quodlibet tale subordinari aggregato ex actu et conceptu, quia haec "Sortes est", secundum hos, huic subordinatur "Sortes est ens", nam capta hac propositione "Homo currit", illa subordinatur huic "Homo est currens", et illa pars 'currit' huic toti 'est currens', quod dicunt esse terminum completum, quod tamen falsum est, quia vel hoc totum 'est currens', quod est pars huius mentalis "Homo est currens", est terminus completus complexione distanti vel indistanti, non est complexus complexione distanti, postquam pars huius aggregati 'est currens' non distant per aliquod coniungibile, nec formaliter quia sunt solum duae praeter, nec virtualiter quia maxime esset, quia illa copula 'est' includit illum /14.2b/ terminum 'ens', et quia virtualiter coniungit illum terminum 'ens' cum illo termino 'currens' illa copula. Sed hoc non, quia tunc verba adiectiua invenirentur in mente, videlicet illa copula 'est', et sic daretur propositio de secundo adiacente in mente, videlicet haec pars "Homo est" quae est pars huius "Homo est currens", quia postquam hoc totum 'est currens' est terminus.
+
+Etiam hoc totum 'homo' est" est terminus complexus, et non nisi propositio, quia propositionaliter repraesentat.
+
+Sed hoc est contra dicta, nam dictum est iam partem hanc "homo est" quae pars est huius "Homo est currens", non posse per se existere, quare cum sola ea pars quae per se manens, propositionaliter repraesentaret, vocatur propositio. Sequitur illam partem non esse propositionem.
+
+### Similiter sequitur: Quodlibet verbum adiectiuum esse propositionem cum subordinat propositioni.
+
+Quia hoc totum 'est currens', postquam includit hunc terminum 'ens', non significat aliud quam ens-esse-currens, sed hoc est propositionaliter repraesentare; ergo propositionaliter repraesentat, et per consequens est propositio. Quodcumque horum est absurdum et contra dicta.
+
+Praeterea omne complexum distans est propositio vel denominatum a propositione hypothetica, hoc totum 'est currens' non est denominatum ab aliqua propositione hypothetica, quia non est conditionatum nec rationatum nec copulatum, reliquum est; ergo ut non sit complexum distans, nec etiam illud aggregatum 'est currens', est terminus complexus complexione indistanti, quia tunc sequeretur quod se habebunt sicut determinatio et determinabile, et tunc copula esset determinatio praedicati, scilicet illius termini 'currens', quod est impossibile, quia eadem ratione copula esset determinatio subiecti, et sic hoc totum "Homo est" esset terminus complexus complexione indistanti, quod est falsum. Tum quia daretur propositio quae esset terminus complexus complexione indistanti, puta hec pars "Homo est". Similiter daretur propositio de est secundo adiacente in mente.
+
+Sed quod haec pars "homo est" sit propositio, hoc sic patet, quia cum sit unus terminus, necessarium est unicam habere significationem, et significatio erit necessario propositionalis. Relinquitur ergo verba adiectiva non subordinari termino complero.
+
+### Sed si sustentaremus verba adiectiva subordinari actui et conceptui, quod probabilius existimo:
+
+Tunc dicendum est hoc totum 'est currens', cui ly 'currit' subordinatur, non esse terminum unicum, /15.1a/ sed esse duos termino non constituentes unum. ---
+
 
 <!--
 ## Apparatus Criticus Reference
@@ -877,4 +913,5 @@ Si enim actus syncategorematicus producitur ab aliquibus terminis, ut probatum e
 
 ## Log
 Page 14.1a: puerum ] emend. purum
+
 -->

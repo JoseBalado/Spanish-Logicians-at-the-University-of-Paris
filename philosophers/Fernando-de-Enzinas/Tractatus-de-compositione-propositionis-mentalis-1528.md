@@ -943,9 +943,134 @@ Sed oportet quod convenientia inveniatur inter significata huius termini 'canis'
 
 Sed ly currit importat tempus de /15.2a/ formali aut de significatione syncategorematica, quia inquantum copula ipsum importat et currentia de materiali.
 
+# De significare naturaliter
+
+### Sed contra hoc arguitur, sequeretur quod:
+
+Sicut in mente invenitur una notitia significans currentia et aliqualiter videlicet unitive, etiam inveniretur una incomplexa significans homines et unitive, et una significans alba unitive. Sed hoc videtur falsum, quia nemo concederet; ergo et antecedens. Sequela videtur manifesta, non enim video maiorem rationem de uno quam de alio.
+
+### Sed falsitas consequentis probatur, quia tunc sequitur quod poterit dari una notitia incomplexa significans unitive copulatim et currentia, et alia disiunctim et homines:
+
+Sicut concessum est dari unam significantem unitive et verbaliter currentia.
+
+### Praeterea sequitur quod posset dari unica incomplexa notitia repraesentans homines et currentia et aliqualiter:
+
+Consequens est falsum, quia tunc propositio esset simplex notitia; ergo et antecedens.
+
+Sequela enim videtur mihi manifesta, quia postquam potest dari unica repraesentans homines et aliqualiter, quare non dabitur una repraesentans homines et animalia et aliqualiter. Haec videntur concedenda ab illo qui positionem observat, quae mihi apparent falsa, quare teneo probabilius esse defendere verba adiectiva non inveniri in mente, sed loco illorum inveniri aggregatum ex actu et conceptu  quod quidem non est terminus, sicut aim probatum est, sed aggregatum ex duobus terminis.
+
+### Circa fundamenta posita dubio sexto, manifeste patet difficultas nona:
+
+Videlicet quod signa sint partes extremorum, solet namque poni haec regula ab omnibus, non tamen ab eisdem ratio seu fundamentum, omne syncategorema cuius virtus, ultra terminum seu extremum cui immediate additur, non transit efficitur pars extremi, et ex opposito, signum cuius vis ultra terminum, cui immediate additur, non transit, non efficitur pars extremi.
+
+### Atque hinc subsequuntur aliae, quod omne signum sequens copulam efficitur pars extremi:
+
+Huic adde copulam implicationis et quae secum implicantur syncategoremata partes fore extremi signaque.
+
+Etiam quae determinationi acceptae unicae adduntur volunt etiam partes fieri extremorum, quamvis hoc ultimum magis voluntarium apparet. Causa tamen huius est, quia aggregatum ex determinatione accepta unica et determinabili reliquisque quae determinationi adduntur, immediate reputatur unicus terminus; ideo vis talis signi non agit ultra terminum sibi immediatum.
+
+Reliqua autem signa, ab his quae dicta sunt, non reputantur partes extremorum.
+
+### Sed quia omnia haec a priore regula dependent, tentandum est relative ratione quaerere ea:
+
+Autem ex fundamentis patet, nam cum dictum est syncategorema a terminis, in quos virtus eius fertur produci (de mentalibus est sermo, nam ex his vocalium diversitate intelliges), et solum ab illis si vis; ergo syncategorematis transit ultra extremum cui additur/agit in copulam. Quare ex fundamento producitur a copula prius; ergo [magis] natura est copula quam syncategorema illud.
+
+Copula autem solum ab his quae coniungit seu ab extremis producitur prius; ergo sunt extrema saltem natura quam syncategorema illud, nam prius sunt quam copula, et copula prius quam illud syncategorema; ergo extrema prius sunt quam syncategorema illud. Non ergo pars est extremorum syncategorema illud, nam si pars esset, prius esset quam totalia extrema aut simul relinquitur; ergo quod signum cuius vis transit ultra terminum immediatum, cui additur, seu in copulam quantum est ex parte sui, non esse partem extremi.
+
+### Addo quantum est ex parte sui, quia stat bene quod impediatur signum quo minus in terminum immediatum agat.
+
+### Et ex opposito priorem regulae partem ostendens:
+
+Nam si syncategorematis additi uni extremo vis in copulam non transeat, copula non producit ipsum, ut patet ex fundamento cumque pars sit propositionis tale syncategorema, nec producitur a copula, sed ab uno extremo tantum. Oportet ipsum ad copulae productionem concurrere ipsamque efficere, cum ipsa enim determinet coniungendo partialiter. Si namque copula illud aliquo pacto non determinaret cum ipsum, in copulam non agat. Non esset totum aggregatum terminus complexus, nec signum illud pars propositionis relinquitur. Ergo ipsum ad copulae productionem partialiter concurrere cum extremo a quo producitur, copulamque ipsum determinare, partialiterque unire (non enim aliter quam uniendo copula determinat), quare pars extremi erit tale syncategorema.
+
+Omne enim illud quod copula partialiter unit, pars /16.1a/ extremi vocatur, quod vero totaliter totalis extremitas appellationem sortitur, atque ex hoc patet in voce signum, quod copulam sequitur, efficitur pars extremi, nam in copulam non potest agere. Ideo in mentali, cui propositio, illa in qua illud signum subordinatur, non aget in copulam, quare pars extremi erit ut deductum est.
+
+Cum autem in voce, signum syncategorematicum copulam praecedit, quantum est ex parte eius in copulam agere, potest id signum, quare in mentali cui, vocalis propositio subordinatur, signum in copulam aget et ideo pars extremi non efficitur.
+
+Quaeres quomodo syncategoremata in copulam agere possunt: respondeo quod aliquando confundendo tempus per ipsam importatum, sicut signa universalia affirmativa, alia negando copulam, et sic de aliis.
+
+### Pro solutione dubii decimi et eius discussione et ut facilius quae circa quartum dubium dicta sunt intelligantur:
+
+Arguitur sic, et maxime contra illud fundamentum in quo dicebatur syncategoremata dependere in conservari a categorematicis terminis quibus producuntur, sequeretur quod ad remissionem notitiae quae est obiectum talis termini syncategorematici corrumperetur actus syncategorematicus. Sed hoc est falsum nam tunc subito corrumperetur et infiniti actus syncategorematici producerentur; ergo propositum.
+
+Sequela probatur: quando remittitur notitia categorematica, corrumpit obiectum actus syncategorematici; ergo corrumpitur actus.
+
+### Et confirmatur contra idem fundamentum:
+
+Si copula ab extremis in fieri et conservari dependeret, sequeretur quod daretur aliquis terminus incomplexus qui non posset poni in propositione. Sed hoc est falsum; ergo et fundamentum. Minor manifesta est ex diffinitione termini et probatur sequela.
+
+Capio notitiam auditivam a sono, qui sonus per horam continuetur successive secundum suas partes, tunc notitia illa auditiva non potest poni in propositione, nam copula illa esset ens pure successivum in illa hora et repugnaret partibus eius esse simul. Nam dato opposito, signetur illa copula et sequitur quod diversas notitias coniungit in prima medietate horae et in secunda, nam non est eadem notitia in prima medietate et in secunda.
+
+Item sequitur non /16.1b/ posse talem copulam manere eandem, nisi per instans, nam in quocumque instanti alia et alia notitia auditiva est; ergo in quocumque instanti alia et alia copula est.
+
+### Confirmatur secundo contra eadem fundamenta argumento cuiusdam, quo vult probare ad productionem actus syncategorematici non concurrere effective terminos categorematicos:
+
+Si concurreret effective terminus categorematicus ad productionem syncategorematis maxime esset, quia termini syncategorematici determinantur a categorematicis. Sed illa ratio non est sufficiens argumentum quia sequeretur quod in hac propositione "Brunellus hominis currit" notitia brunelli concurreret ad notitiam hominum, postquam determinatur ab ipsa, quod tamen est falsum.
+
+### Ad argumentum quidam in Posterioribus suis respondet, concedendo quod ad remissionem notitiae categorematicae sequitur actus corruptio totalis:
+
+Ita quod instans in quo subiectum totale vel partiale notitiae categorematicae incipit remitti, est ultimum esse completum talis syncategorematis.
+
+Immo pro quocumque instanti temporis in quo illa notitia remittitur ad non gradum, erit aliqua notitia syncategorematica, et durabit praecise per instans. Idemque imaginatur de illa notitia quod Marsilius de Inghen *De Quantitate*, videlicet quod in quocumque instanti in quo aliquod corpus rarefit, est nova quantitas, cuius illud instans est primum et ultimum.
+
+### Sed ista imaginatio falsa apparet, nam sequitur intellectum in quocumque praevio tempore, infinitos actus syncategorematicos posse producere et corrumpere.
+
+### Quod probo esse impossibile. Nam ad actus syncategorematici productionem requiritur advertentia, et non videtur intellectum infinitas posse advertere, et infinities posse dimittere advertentiam:
+
+Quod autem ad cuiusque actus syncategorematici productionem requiratur advertentia, vel ex eo patet quod ex diversitate conatu tum diversi producuntur actus. Etiam si non requireretur advertentia, non posset causa reddi cur magis intellectus produceret unum actum syncategorematicum quam alium. Quicquid etiam intellectus producit, advertendo producit. /16.2a/
+
+-- I am here
+
+# De intensione et remissione actus syncategorematici
+
+### Quod si fortasse non in convenire credas intellectum, infinities advertere et infinities deponere advertentiam, id ad minus in sensu credes inconvenire, quod tamen sequitur:
+
+Puta sensum infinities advertere, et infinities deponere advertentiam in remissione notitiae syncategorematicae quae ab aliquo syncategoremate determinatur.
+
+Item intellectus potest infinita syncategoremata successive producere; ergo etiam simul.
+
+## Praeterea sequitur quod infinitas notitias categorematicas posset producere, quum non videatur discrimen.
+
+## Item poterit intellectus remittere advertentiam quam habet circa rem significatam per notitiam categorematicam, non remittendo advertentiam quam habet circa actum syncategorematicum:
+
+Ergo remitti poterit notitia categorematica non corrupta syncategorematica.
+
+## Forte ad haec omnia diceretur quod notitia syncategorematica non dependet solum ab advertentia quam habet intellectus circa eam:
+
+Sed etiam ab advertentia quam habet intellectus circa notitiam categorematicam quam determinat.
+
+### Contra hoc arguitur non magis dependet notitia syncategorematica ab advertentia quam habet intellectus circa notitiam categorematicam quam ipsamet notitia categorematica.
+
+Sed ad remissionem illius advertentiae non sequitur corruptio totalis notitiae categorematicae; ergo a fortiori non sequitur corruptio totalis actus syncategorematici.
+
+### Aliter ergo ad argumentum respondeo quod dupliciter potest remitti actus syncategorematicus:
+
+Uno modo ex remissione propriae advertentiae, quia intellectus et producit et conservat illum actum.
+
+Alio modo per remissionem advertentiae, qua intellectus conservat notitias categorematicas determinatas a tali actu. Et tunc facile est respondere ad argumentum: quod, remissa notitia categorematica, remittitur actus eo modo quo remittitur ipsa notitia categorematica. Itaque in instanti in quo ad non gradum notitia devenit, actus syncategorematicus ad non gradum venit; quod fit ut notitia syncategorematica producta ab aliqua categorematica non differt in specie ab illa quae medietatem determinat. /16.2b/
+
+-- I am here
 
 
+### Probabile fortasse esset syncategorema non posse remitti nisi primo modo iam dicto:
 
+Puta per remissionem propriae advertentiae. Ex qua solutione sequeretur quod eundem actum numero qui determinat totam notitiam posse determinare partem. Et nisi haec essent vera sequeretur actum syncategorematicum non posse intendi nec remitti proprie: nam non videtur mihi apparenter ad intentionem notitiae semper sequi intentionem syncategorematici.
+
+### Sequitur secundo ex hac solutione dandum ultimum esse completum actus syncategorematici:
+
+In instanti namque in quo notitia categorematica remissa est ad non gradum tunc secundum se et quodlibet sui propter absentiam conservantis definit notitia syncategorematica.
+
+### Quidam tenet actus syncategorematicos non posse intendi, nec remitti:
+
+Argumento quodam non multum apparenti de negationis medietatibus se impedirent: formabitur cum inquiretur utrum duae negationes in mente inveniri possunt. Idem argumentum hac ratione confirmat, si actus negativus partes haberet secundum intentionem, tunc actus ille esset intensibilis et remissibilis: ubi intensior esset negatio propositio esset magis negativa: quia sicut per intensiorem notitiam aliquid intensius cognoscitur: ita per intensiorem negationem aliquid fortius negatur: et sic propositio una esset magis negativa quam alia. Et consimili ratione oportebit dicere unam esse magis universalem quam aliam quod videtur impossibile.
+
+### Ad hoc respondeo concedendo actum syncategorematicum intensibilem et remissibilem:
+
+Cum arguis: ergo cum negatio erit intensior propositio erit magis negativa, et cum signum universale intensius erit propositio erit magis universalis.
+
+### Ad hoc respondeo negando consequentiam:
+
+Quia secundum qualitatem intensiorem aliquid magis tale dicatur: magis denominat qualitas intensior quam remissior non tamen quodcumque magis denominat qualitas intensior: sed solum suum subiectum: unde subiectum negationis, id est id cui actus negativus inhaeret non est propositio negativa nec subiectum signi universalis est propositio universalis: sed intellectus.
 
 
 <!--
@@ -960,5 +1085,6 @@ Sed ly currit importat tempus de /15.2a/ formali aut de significatione syncatego
 
 ## Log
 Page 14.1a: puerum ] emend. purum
-
+Page 16.1a: signā ] emend. signum
+Page 16.2a: in ] conj. (textus laesus)
 -->

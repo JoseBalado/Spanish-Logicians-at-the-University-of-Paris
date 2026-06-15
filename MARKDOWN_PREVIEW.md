@@ -26,7 +26,7 @@ Add this to your VS Code **settings.json** (workspace or user level):
 }
 ```
 
-The path is relative to the workspace root.
+The path is relative to the workspace root. To ensure compatibility across repositories or when sharing, link to the original file in the Spanish-Logicians-at-the-University-of-Paris repository.
 
 ## Why it exists
 

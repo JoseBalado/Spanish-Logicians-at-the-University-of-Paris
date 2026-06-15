@@ -1693,37 +1693,47 @@ Sed quia dicis: Totale praedicatum non distribuitur, et in illis hoc non inconve
 
 Similiter in terminis collectivis: Sequitur enim "⟨a⟩ Omnes apostoli omnia currentia sunt; ergo Aliqui omnes apostoli omnia currentia sunt". Et patet in exemplo prius dato "⟨a⟩ Hominis quilibet asinus currit; ergo Hominis quilibet asinus currit".
 
--- I am here
+Sed bifariam hic descendere solent: Uno modo in omnibus singularibus, ponendo relativum identitatis dempta prima, ut "Caput iste homo habet" (illa verificatur pro capite Sortis) "et Idem caput iste homo habet, et sic de singulis". Modo tunc antecedens est falsum pro qualibet alia singulari a prima, sicut et consequens.
 
-Sed bifariam hic descendere solent. Uno modo in omnibus singularibus, ponendo relativum identitatis dempta prima, ut "Caput iste homo habet (illa verificatur pro capite Sortis) et, Idem caput iste homo habet, et sic de singulis". Modo tunc antecedens est falsum pro qualibet alia singulari a prima, sicut et consequens, et sic dicetur hic "Homo non est hoc animal, et Idem homo non est hoc animal". Et sic dicetur hic "Homo non est hoc animal, et Idem homo non est hoc animal, et sic de singulis", dabitur singularis falsa, pro qua prima propositio verificabatur, ut is sint tres homines in mundo solum: 'a', 'b' et 'c'. Sortes, Plato et Cicero, "Homo non est hoc animal", queritur pro quo illam verificabis. Pro 'a' tunc in una descendente demonstrando 'a', illa erit falsa. Contra casu tuo stante qualibet singularis ascendentis est vera. Prima enim verificatur pro quolibet homine alio a Sorte, vel 'a', immo pro quolibet homine, quocumque demonstrato, haec est vera "Homo non est hoc animal". Patet per suae contradictoriae falsitatem; ergo illa verificatur pro quolibet illorum trium hominum et quacumque singulari data. "Idem homo non est hoc animal", illa est vera cum subiectum est terminus communis et supponit pro omni illo pro quo propositio antecedentis verificatur. Modo propositio antecedentis pro pluribus verificatur, ergo haec negativa est vera de praedicato discreto. Si essent praecise duo homines Sortes et Plato, haec est vera "Homo non est hoc animal", demonstrando Sortem, sed sic est hic; /75/ igitur.
+Et sic dicetur hic "Homo non est hoc animal, et Idem homo non est hoc animal, et sic de singulis"; dabitur singularis falsa, pro qua prima propositio verificabatur, ut si sint tres homines in mundo solum: 'a', 'b' et 'c', Sortes, Plato et Cicero. "Homo non est hoc animal", quaeritur pro quo illam verificabis. Pro 'a' tunc, in una descendente demonstrando 'a', illa erit falsa.
+
+Contra: casu tuo stante, qualibet singularis ascendentis est vera. Prima enim verificatur pro quolibet homine alio a Sorte, vel 'a'; immo pro quolibet homine, quocumque demonstrato, haec est vera "Homo non est hoc animal". Patet per suae contradictoriae falsitatem; ergo illa verificatur pro quolibet illorum trium hominum et quacumque singulari data.
+
+"Idem homo non est hoc animal", illa est vera, cum subiectum est terminus communis et supponit pro omni illo pro quo propositio antecedentis verificatur. Modo propositio antecedentis pro pluribus verificatur; ergo haec negativa est vera de praedicato discreto. Si essent praecise duo homines, Sortes et Plato, haec est vera "Homo non est hoc animal", demonstrando Sortem; sed sic est hic; /75/ igitur.
 
 Praeterea aliter arguitur:
 
 > Aliqua pars continui non est haec pars, et
-
-> Eadem pars continui non est hace pars, et sic de singulis; ergo
-
+>
+> Eadem pars continui non est haec pars, et sic de singulis;
+>
+> ergo
+>
 > Aliqua pars continui non est pars.
 
 Etiam affirmative arguitur:
 
 > Aliquem asinum iste homo videt, et
-
-> Eundem asinum iste homo videt, et sic de singulis; ergo
-
+>
+> Eundem asinum iste homo videt, et sic de singulis;
+>
+> ergo
+>
 > Aliquem asinum quilibet homo videt.
 
-quia ponendo infinitos asinos ordinate, ita quod Sortes quemlibet illorum videat, et Plato quemlibet primo asino dempto videat, et Cicero quemlibet alium demptis aliis duobus primis, et Guilhelmus quemlibet demptis tribus primis videat. Et sic consequenter dabitur antecedentes verum, consequente existente falso.
+Quia ponendo infinitos asinos ordinate, ita quod Sortes quemlibet illorum videat, et Plato quemlibet, primo asino dempto, videat, et Cicero quemlibet alium, demptis aliis duobus primis, et Guilhelmus quemlibet asinum, demptis tribus primis videat. Et sic consequenter dabitur antecedentes verum, consequente existente falso.
 
-Et patet aliter: Sint infiniti asini et infiniti homines, quorum quilibet habet praecise unum asinum, et quilibet homo quemlibet asinum videat dempto suo, haec est falsa "Asinum quilibet homo videt", et ascendentes verae. Nam "Asinum iste homo videt, et Eundem asinum iste homo videt" sensus est "Eundem asinum quem primus homo videt secundus videt", et ista redditur vera pro asino a tertio homine possesso, et tertia descendens est vera, quia sensus eius est eundem asinum quam primus et secundus vident, tertius videt, et hoc est verum pro asino a quarto homine possesso, et proportionabiliter cuiuslibet alterius ascendentis veritas ostenditur per horum argumentorum solutiones.
+Et patet aliter: sint infiniti asini et infiniti homines, quorum quilibet habet praecise unum asinum, et quilibet homo quemlibet asinum videat dempto suo. Haec est falsa "Asinum quilibet homo videt", et ascendentes verae. Nam "Asinum iste homo videt, et eundem asinum iste homo videt", sensus est "Eundem asinum quem primus homo videt secundus videt", et ista redditur vera pro asino a tertio homine possesso; et tertia descendens est vera, quia sensus eius est "Eundem asinum quem primus et secundus vident tertius videt", et hoc est verum pro asino a quarto homine possesso. Et proportionabiliter cuiuslibet alterius ascendentis veritas ostenditur per horum argumentorum solutiones.
 
-Dicitur: Oportet verificare primam propositionem pro uno discreto supposito, et contra hoc non currunt replicae. "Homo non est hoc animal" verificabitur pro Sorte demonstrando Platonem, cum demonstras Sortem una singularis erit falsa.
+Dicitur: Oportet verificare primam propositionem pro uno discreto supposito, et contra hoc non currunt replicae. "Homo non est hoc animal" verificabitur pro Sorte demonstrando Platonem; cum demonstras Sortem una singularis erit falsa.
 
-Similiter hic "Aliqua pars continui non est haec pars", demonstrando unam tertiam quae verificabitur pro altera parte continui "Haec erit falsa", et eadem pars non est haec pars (demonstrando medietatem continui) quia per illam significatur quod medietas continui non est alter pars eiusdem.
+Similiter hic: "Aliqua pars continui non est haec pars", demonstrando unam tertiam quae verificabitur pro altera parte continui, haec erit falsa "et, Eadem pars non est haec pars" (demonstrando medietatem continui), quia per illam significatur quod medietas continui non est alter pars eiusdem.
 
-Similiter "Aliquem equum quilibet homo videt", in ultimo casu est falsa, et sic una singularium "Aliquem equum iste homo videt" demonstrando sortem, quaeritur pro quo discreto equo illam verificas, et quocumque demonstrato demonstrando dominum illius equi, dabitur singularis falsa, et sic non expugnatur ille antiquus modus ascendendi et descendendi.
+Similiter: "Aliquem equum quilibet homo videt", in ultimo casu est falsa. Et sic una singularium "Aliquem equum iste homo videt", demonstrando sortem, quaeritur pro quo discreto equo illam verificas; et quocumque demonstrato, demonstrando dominum illius equi, dabitur singularis falsa; et sic non expugnatur ille antiquus modus ascendendi et descendendi.
 
 Poteris tamen clarius et fortasse tutius a termino stante determinate primo ascendere aut descendere.
+
+-- I am here
 
 ### Secunda regula
 

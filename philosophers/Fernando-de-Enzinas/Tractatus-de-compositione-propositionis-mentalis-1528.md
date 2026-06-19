@@ -858,8 +858,6 @@ Contra hoc arguitur: Sequitur ad minus quod successive potest unire, sed hoc est
 
 Simili modo probabitur, si ly 'omnis' solitarie inveniatur, posse nunc distribuere ly 'homo' in hac propositione "Omnis homo possibiliter est substantia", ac deinde distribuere unum alium terminum pro libito intellectus, videlicet ly 'substantia' in hac propositione "Omnis substantia possibiliter est homo". Sed quod hoc sit falsum et impossibile. Sic probo: sequitur propositionem aliquam nunc esse veram, rebus omnibus se habentibus. Sicut antea, illam propositionem fore falsam, quod impossibile est, hoc sic patet, quoniam haec propositio "Animal erit /14.1b/ album" est vera casu posito, et deinde haec "Animal erit album" erit falsa, et iste duae "Animal erit album" et "Album erit animal" erunt eadem, quoniam erunt iidem termini; ergo propositum.
 
--- I am here
-
 ### Praeterea sequitur: Aliquam propositionem nunc fore necessariam et per solum placitum intellectus fieri impossibilem.
 
 Hoc sic patet quoniam haec propositio "Omnis homo possibiliter est substantia" est necessaria, ubi 'omnis' determinative ly 'homo', et haec impossibilis fiet si intellectui libuerit, videlicet si fecerit illud syncategorema 'omnis' determinate, ly 'substantia', seu distribuere illud quod idem est, et istae erunt eaedem postquam iidem erunt termini, ut patet argumentanti expositorie.
@@ -1019,8 +1017,6 @@ Immo pro quocumque instanti temporis in quo illa notitia remittitur ad non gradu
 
 Quod autem ad cuiusque actus syncategorematici productionem requiratur advertentia, vel ex eo patet quod ex diversitate conatu tum diversi producuntur actus. Etiam si non requireretur advertentia, non posset causa reddi cur magis intellectus produceret unum actum syncategorematicum quam alium. Quicquid etiam intellectus producit, advertendo producit. /16.2a/
 
--- I am here
-
 # De intensione et remissione actus syncategorematici
 
 ### Quod si fortasse non in convenire credas intellectum, infinities advertere et infinities deponere advertentiam, id ad minus in sensu credes inconvenire, quod tamen sequitur:
@@ -1049,28 +1045,30 @@ Uno modo ex remissione propriae advertentiae, quia intellectus et producit et co
 
 Alio modo per remissionem advertentiae, qua intellectus conservat notitias categorematicas determinatas a tali actu. Et tunc facile est respondere ad argumentum: quod, remissa notitia categorematica, remittitur actus eo modo quo remittitur ipsa notitia categorematica. Itaque in instanti in quo ad non gradum notitia devenit, actus syncategorematicus ad non gradum venit; quod fit ut notitia syncategorematica producta ab aliqua categorematica non differt in specie ab illa quae medietatem determinat. /16.2b/
 
--- I am here
-
-
 ### Probabile fortasse esset syncategorema non posse remitti nisi primo modo iam dicto:
 
-Puta per remissionem propriae advertentiae. Ex qua solutione sequeretur quod eundem actum numero qui determinat totam notitiam posse determinare partem. Et nisi haec essent vera sequeretur actum syncategorematicum non posse intendi nec remitti proprie: nam non videtur mihi apparenter ad intentionem notitiae semper sequi intentionem syncategorematici.
+Puta per remissionem propriae advertentiae. Ex qua solutione, sequeretur eundem actum numero, qui determinat totam notitiam posse determinare partem. Et nisi haec essent vera, sequeretur actum syncategorematicum non posse intendi nec remitti proprie, nam non videtur mihi apparens, ad intentionem notitiae, semper sequi intentionem syncategorematici.
 
-### Sequitur secundo ex hac solutione dandum ultimum esse completum actus syncategorematici:
+### Sequitur secundo ex hac solutione dari ultimum esse completum actus syncategorematici:
 
-In instanti namque in quo notitia categorematica remissa est ad non gradum tunc secundum se et quodlibet sui propter absentiam conservantis definit notitia syncategorematica.
+In instanti namque, in quo notitia categorematica remissa est ad non gradum, tunc secundum se et quodlibet sui, propter absentiam conservantis, desinit notitia syncategorematica.
 
-### Quidam tenet actus syncategorematicos non posse intendi, nec remitti:
+## Quidam tenet actus syncategorematicos non posse intendi, nec remitti:
 
-Argumento quodam non multum apparenti de negationis medietatibus se impedirent: formabitur cum inquiretur utrum duae negationes in mente inveniri possunt. Idem argumentum hac ratione confirmat, si actus negativus partes haberet secundum intentionem, tunc actus ille esset intensibilis et remissibilis: ubi intensior esset negatio propositio esset magis negativa: quia sicut per intensiorem notitiam aliquid intensius cognoscitur: ita per intensiorem negationem aliquid fortius negatur: et sic propositio una esset magis negativa quam alia. Et consimili ratione oportebit dicere unam esse magis universalem quam aliam quod videtur impossibile.
+Argumento quodam non multum apparenti de negationis medietatibus, quae se impedirent, quod formabitur cum inquiretur utrum duae negationes in mente inveniri possunt. Idemque argumentum hac ratione confirmat: si actus negativus partes haberet secundum intensionem, tunc actus ille esset intensibilis et remissibilis; et ubi intensior esset negatio, propositio esset magis negativa. Quia sicut per intensiorem notitiam aliquid intentius cognoscitur, ita per intensiorem negationem aliquid fortius negatur, et sic propositio una esset magis negativa quam alia.
+
+### Et consimili ratione oportebit dicere unam esse magis universalem quam aliam, quod videtur impossibile.
 
 ### Ad hoc respondeo concedendo actum syncategorematicum intensibilem et remissibilem:
 
-Cum arguis: ergo cum negatio erit intensior propositio erit magis negativa, et cum signum universale intensius erit propositio erit magis universalis.
+Et cum arguis: ergo cum negatio erit intensior, propositio erit magis negativa, et cum signum universale intensius erit, propositio erit magis universalis.
 
 ### Ad hoc respondeo negando consequentiam:
 
-Quia secundum qualitatem intensiorem aliquid magis tale dicatur: magis denominat qualitas intensior quam remissior non tamen quodcumque magis denominat qualitas intensior: sed solum suum subiectum: unde subiectum negationis, id est id cui actus negativus inhaeret non est propositio negativa nec subiectum signi universalis est propositio universalis: sed intellectus.
+Quamvis secundum qualitatem intensiorem aliquid magis tale dicitur, et magis denominat qualitas intensior quam remissior. Non tamen quodcumque magis denominat qualitas intensior, sed solum suum subiectum, unde subiectum negationis, id est, id cui actus negativus inhaeret, non est propositio negativa, nec subiectum signi universalis est propositio universalis, sed intellectus et /17.1a/ ideo ratione negationis signique universalis, intellectus magis denominari debet
+
+--- I am here
+
 
 
 <!--
@@ -1084,7 +1082,8 @@ Quia secundum qualitatem intensiorem aliquid magis tale dicatur: magis denominat
 * del.    (deletio)    : Printer repeated a word; deleted the extra one.
 
 ## Log
-Page 14.1a: puerum ] emend. purum
-Page 16.1a: signā ] emend. signum
+Page 14.1a: purum ] emend. puerum
+Page 16.1a: signum ] emend. signā
 Page 16.2a: in ] conj. (textus laesus)
+Page 16.2b: intensionem ] emend. intentionem
 -->

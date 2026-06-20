@@ -1065,11 +1065,103 @@ Et cum arguis: ergo cum negatio erit intensior, propositio erit magis negativa, 
 
 ### Ad hoc respondeo negando consequentiam:
 
-Quamvis secundum qualitatem intensiorem aliquid magis tale dicitur, et magis denominat qualitas intensior quam remissior. Non tamen quodcumque magis denominat qualitas intensior, sed solum suum subiectum, unde subiectum negationis, id est, id cui actus negativus inhaeret, non est propositio negativa, nec subiectum signi universalis est propositio universalis, sed intellectus et /17.1a/ ideo ratione negationis signique universalis, intellectus magis denominari debet
+Quamvis secundum qualitatem intensiorem aliquid magis tale dicitur, et magis denominat qualitas intensior quam remissior, non tamen quodcumque magis denominat qualitas intensior, sed solum suum subiectum.
 
---- I am here
+Unde subiectum negationis, id est, id cui actus negativus inhaeret, non est propositio negativa, nec subiectum signi universalis est propositio universalis, sed intellectus. Et /17.1a/ ideo, ratione negationis signique universalis, intellectus magis denominari debet talis; non autem propositio negativa aut universalis.
 
+Unde concedo quod, intensiori signo universali, intellectus perfectius distributive intelliget quam remissiori. Unde, cum signi universalis repraesentandi modus sit intellectum immutare ad rem significatam per terminum quem determinat copulative, intelligere intensiori signo universali, intellectus perfectius et magis immutabitur ad sic concipiendum.
 
+# Penes obiectum
+
+### Nec valet hoc argumentum:
+
+Ratione signi universalis propositio dicitur universalis; ergo ratione signi universalis intensioris dicitur propositio magis universalis, nam ille modus arguendi valeret si propositioni universali inhaereret signum universale. Non enim sequitur ratione subiecti et praedicati propositio dicitur categorica; ergo ratione intensioris subiecti propositio dicitur magis categorica.
+
+Similiter non sequitur ratione albedinis Sortis, Plato est similis Sorti; ergo ratione intensioris albedinis Sortis, Plato est similior Sorti.
+
+Sed hoc non est simile sicut primum. Patet igitur rationem nihil valere, et opinio non est apparens. Tum quia cum intellectus ratione conatus syncategoremata producat, intensiore conatu intensiorem producet.
+
+Item concedit aliquam esse qualitatem non intensibilem et remissibilem, quoddam contra Aristotelem dicentem: "Omnem qualitatem suscipere magis et minus". Illudque proprium quarto modo est qualitati. Id etiam contra omnes est, quamvis namque calculatores concedant qualitatem dari nullius intensionis, non tamen negant illam non posse intendi, et post intensionem iterum remitti.
+
+### Ad primam confirmationem:
+
+Qui copulam similem notitiae auditivae, sic successivam imaginaretur darique descenderet sine inconvenienti. Defenderet ipsam poni in propositione, sed melius est dicere ipsam non posse poni in propositione secundum se, sed bene secundum suam synonymam. Puta secundum abstractivam idque sufficere ad hoc quod illa notitia terminus vocetur.
+
+### Ad secundam confirmationem facile est respondere:
+
+Non enim causa totalis quare termini categorematici concurrant effective ad productionem actus syncategorematici est, quia termini categorematici determinantur a syncategorematicis. /17.1b/ Nec ex eo quod syncategoremata dependent a categorematicis, sed est quia termini categorematici, intellectu movente, apti nati sunt producere syncategorema.
+
+Et nescio quare propter hoc argumentum, doctus quidam, tenet nullum actum concurrere effective ad productionem actus syncategorematici. Nam evidenter probatum est. Et ipse non concedit actus syncategorematicos produci a terminis categorematicis instrumentaliter, taliter quod instrumentaliter concurrunt termini categorematici.
+
+Sed hoc idem est, quia omnis causa instrumentalis effectiva est similiter quando non ita esset idem argumentum quod facit, militat contra ipsum, quia statim quaereretur ab illo, quare termini categorematici instrumentaliter concurrunt ad productionem actuum syncategorematicorum. Et contra ipsum, quidquid responderit, deducetur argumentum, nisi assignet causam quam dedimus.
+
+## Sed pro discussione dubii undecimi arguitur:
+
+Termini categorematici non concurrunt effective ad productionem actus syncategorematici; ergo male dictum est. Consequentia est nota, et patet antecedens, quia positis his terminis 'homo', 'animal' in intellectu, nullus potest terminus syncategorematicus ab illis produci; igitur propositum.
+
+Probatur antecedens: illi termini sunt causae naturales et intellectus etiam, et quum non sit maior ratio quod producant copulam 'est' quam copulam 'erit', aut unum actum quam alium, sequitur quod vel nullum producent aut quamlibet actum producent.
+
+### Nec valet recurrere ad voluntatem dicendo:
+
+Quod intellectus et illi termini determinantur a voluntate, ad hoc quod producant actum distributivum et non copulam. Quia voluntas non fertur in incognitum, teste Augustino. Si ergo ille actus numquam fuit habitus in intellectu. Sequitur quod voluntas non imperabit intellectui quod producat actum distributivum et non alium.
+
+Procedo hic de primo actu qui habitus est ab homine.
+
+### Nec videlicet recurrere ad causas caelestes:
+
+Videlicet quod ex aspectu caeli vel quia Deus concurrebat ad illum producendum, quia causae supercaelestes universales appellantur et indeterminate, et ideo per causas secundas, consensus omnium est, ipsas determinari. Ut quia caelum est indifferens /17.2a/ ad producendum calorem vel frigus, mediante igne determinatur ut producat calorem; et mediante aqua ut producat frigiditatem.
+
+# De productione actus syncategorematici a categorematicis
+
+### Consimile argumentum factum fuit contra opinionem Gregorii et hoc in loco promisimus nos soluturos:
+
+Pro cuius argumenti solutione notandum est quod si procedamus de actibus qui nunc formantur a nobis argumentum non est multum difficile. Posset enim dici, habitis his terminis, 'homo', 'animal' in intellectu, intellectum magis producere copulam de praesenti quam de futuro de futuro. Quandoque ab extrinseco, ut audita hac voce "Homo est animal" intellectus movetur ad formandum copulam respondentem illi voci 'est', quia vox instrumentaliter concurrit. Quandoque etiam accidit quod voluntate concurrente, ex voto voluntatis, formantur actus. Et quandoque etiam ex aspectu caeli, seu ut rectius loquar, ex voluntate primae causae quae non determinatur a nobis, sed potius nos ab ipsa.
+
+### Sed pro declaratione, sequentes ponuntur propositiones, quarum prima est:
+
+> Omnis actus syncategorematicus, secundum se vel suum synonymum, potest naturaliter produci.
+
+Haec propositio patet, quoniam audita hac propositione "Omnis homo est animal" non est in potestate intellectus si non sit impeditus, quin actum respondentem illi actui 'omnis' formet. Similiter audita illa copula 'est', non est in eius potestate non formare illam copulam 'est', et per consequens sequitur quod mere naturaliter producitur.
+
+### Secunda propositio:
+
+> Quilibet actus syncategorematicus intellectivus, cuius synonymus potest produci a sensu mere naturaliter, potest produci ab intellectu.
+
+Haec propositio sic patet, quoniam talis est ordo potentiarum quod, mota exteriore, movetur interior, et mota interiore movetur intellectus. Postquam ergo prius producitur actus huiusmodi a potentia sensitiva quam ab intellectiva, et postquam cognoscit intellectiva, sequitur ergo quod actus tales, producti in sensu interiori mere naturaliter, producuntur ab intellectu.
+
+### Tertia propositio:
+
+> Quilibet actus syncategorematicus, cuius synonymum non potest producere potentia sensitiva, si sit primus, qui intellectui advenit libere producitur.
+
+### Haec propositio sic patet:
+
+Quia talis primus /17.2b/ actus syncategorematicus non producitur mediantibus vocibus vel scripturis naturaliter, quia prius est quam voces vel scripturas significare intellectum intelligere.
+
+Si ergo intellectus adhuc non taliter intellexit sequitur tales voces et scripturas non significare ipsi intellectui. Nec causa naturalis illius erit termini quos determinat, quoniam si sic positis talibus terminis, semper consurgeret tale syncategorema.
+
+Nec valet dicere causam naturalem fore advertentiam intellectus cum talibus terminis. Quia quaereretur de illa advertentia utrum libere vel naturaliter producitur. Et non potest dici a qua naturaliter producatur. Quia simili modo impugnabitur. Relinquitur ergo libere talem terminum produci.
+
+### Circa has propositiones arguitur:
+
+> Nihil est volitum quin prius sit cognitum.
+
+Sed vult voluntas illum actum produci ab intellectu; ergo prius intellectus cognoscit, et per consequens antequam voluntas intellectui imperat, sequitur quod ille actus est productus. Quare non libere producetur. Consequentia nota est cum minore; et maior est Beati Augustini recepta iam ab omnibus.
+
+### Ad hoc argumentum nonnulli respondent:
+
+> Non oportere omne volitum esse cognitum cognitione distincta, sed sufficere esse cognitum cognitione confusa.
+
+Immo, quod magis est, non oportet, ut ipsi dicunt, ad hoc, quod si aliquid sit volitum quod sit cognitum; quia dicunt voluntatem efficaciter velit finem, efficaciter velle media ad finem, quamvis non cognoscat ipsa media.
+
+Solet communiter dici voluntatem dupliciter posse velle: uno modo formaliter, alio modo interpretative.
+
+Et velle formaliter nihil aliud est quam habere volitionem distinctam alicuius rei, ad quam quidem volitionem cognitio illius rei requiritur. Sed velle interpretative aliquid, est velle aliquid esse in sua causa.
+
+Quemadmodum qui tenent facta in ebrietate imputari, dicunt ebrium velle talia facta non formaliter sed interpretative; quia voluit causam talium peccatorum, voluit enim inebriari, quae erat causa ad quam sequebantur talia.
+
+Secundum hos igitur respondetur quod quando voluntas imperat intellectu ut formet istum actum syncategorematicum 'omnis', non vult hoc formaliter; quia sic intellectus cognosceret /18.1a/ taliter qualiter per ly 'omnis' repraesentatur.
+
+# Quae notitiae habentur in potentia sensitiva
 
 <!--
 ## Apparatus Criticus Reference

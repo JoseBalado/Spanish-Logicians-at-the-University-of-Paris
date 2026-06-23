@@ -18,7 +18,7 @@ material because the model actually *knows* scholastic Latin.
 2. Copy the prompt block from [PROMPT.md](PROMPT.md) and paste it.
 3. Attach one or more page images.
 4. Send. You get back Markdown.
-5. Proofread: the model is excellent but will occasionally normalise or
+5. Proofread: the model is excellent but will occasionally normalize or
    hallucinate. You always review punctuation, headings, and inflections yourself.
 
 ## Few-shot priming — provide 3 example pages per new book

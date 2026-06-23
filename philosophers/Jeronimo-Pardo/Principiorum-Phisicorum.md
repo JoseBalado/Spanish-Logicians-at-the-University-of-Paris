@@ -117,8 +117,33 @@ Ex quo solvitur unum quodlibetum: Quare est quod si aliquis esset in profundo ma
 
 ## Nunc restat videre de mutationibus per quas adquirit res naturalis eius quantitatem et qualitatem et relationem:
 
-Pro cuius declaratione notandum est quod differunt motus et mutatio, quia se habent sicut superius et /7a/
+Pro cuius declaratione notandum est quod differunt motus et mutatio, quia se habent sicut superius et /7a/ inferius. Unde omnis motus est mutatio, sed non econtra. Et si dicas quid intelligis per mutationem, dico quod mutari est "Aliter se habere nunc quam prius". Id est, quando aliquid recipit aliquam formam quam prius non habebat, tunc dicitur mutari, sive illa forma sit substantialis sive accidentalis, sive sit qualitas sive relatio. Verbi gratia, ut ego nunc sum albus, et postea efficior niger, tunc dicor mutari, quia habeo nigredinem quam prius non habebam.
 
+Contra istam definitionem facio duo media. Et primo sic: si definitio esset bona, sequeretur quod quando Sortes producitur, mutaretur. Sed hoc est falsum; igitur. Probatur antecedens: Sortes habet aliquam formam quam prius non habebat, quia Sortes habet albedinem quam prius non habebat, quod patet quia Sortes prius non erat; igitur.
+
+Pro solutione est notandum quod ad hoc quod aliquid dicatur mutari, duae conditiones requiruntur:
+
+* Prima est quod recipiat aliquam formam quam prius non habebat. Ex quo sequitur quod nihil dicitur mutari nisi subiectum; id est, illud quod recipit aliquam formam per inhaerentiam vel per informationem.
+
+* Secunda conditio quod illud quod recipit illam formam fuerit immediate ante receptionem illius formae. Ex quo sequitur quod, licet in instanti in quo aliquid producitur sit in loco, tamen non dicitur mutari quia prius non fuit.
+
+Ex quo sequitur quod bene dicitur in definitione mutationis:
+
+> Mutari est aliter se habere nunc quam prius. /7b/
+
+Modo bene sequitur: hoc se habet nunc aliter quam prius, ergo prius fuit quod negatur de Sorte. Et sic patet solutio ad argumentum. Ex quo sequitur quod per illam particulam, scilicet 'aliter se habere nunc quam prius', solvuntur omnia argumenta.
+
+Ex quo sequitur quod multa producuntur quae producuntur sine aliqua mutatione. Ut in illo instanti in quo ignis producitur, producit suam caliditatem in seipso. Dico quod ignis non dicitur mutari recipiendo suam caliditatem, et ratio est quia non aliter se habet nunc quam prius, quia prius non erat.
+
+Ex quo sequitur quod in omni mutatione debet esse aliquod subiectum commune quod manet sub utroque termino transmutationis, id est, debet esse aliquod subiectum quod habebat aliquam formam quam prius non habebat, et ideo manet aliquid idem subhaere formam et non habere formam.
+
+Ex quo sequitur resolutorie quod mutari sic definitur:
+
+> Mutari est aliquod aliter se habere nunc quam prius quo adhaere, vel non habere aliquam formam.
+
+Ex quo sequitur quod in praedicta definitione tangitur duplex mutatio, seu mutari, unde aliquid mutatur duobus modis: uno mode acquisitive seu acquirendo; alio modo deperditive seu deperdendo.
+
+Exemplum primi: ut si habeam caliditatem quam ego prius existens non habebam, dicor mutari acquisitive. Sed si ego perdam caliditatem /8a/
 
 
 <!--
@@ -136,4 +161,5 @@ Page 3b: intrinsece ] emend. m̄trin̄cisse
 Page 3b: extrinsece ] emend. extrincisse
 Page 3b: circa idem ] emend. cu//caid8
 Page 5a: conveniunt quatuor ] del. conveniunt sibi quatuor
+Page 7a: formam quam ] del. formam rem quam
 -->

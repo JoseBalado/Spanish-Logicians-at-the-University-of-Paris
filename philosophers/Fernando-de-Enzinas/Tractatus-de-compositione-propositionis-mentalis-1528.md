@@ -1159,9 +1159,118 @@ Et velle formaliter nihil aliud est quam habere volitionem distinctam alicuius r
 
 Quemadmodum qui tenent facta in ebrietate imputari, dicunt ebrium velle talia facta non formaliter sed interpretative; quia voluit causam talium peccatorum, voluit enim inebriari, quae erat causa ad quam sequebantur talia.
 
-Secundum hos igitur respondetur quod quando voluntas imperat intellectu ut formet istum actum syncategorematicum 'omnis', non vult hoc formaliter; quia sic intellectus cognosceret /18.1a/ taliter qualiter per ly 'omnis' repraesentatur.
+Secundum hos igitur respondetur quod quando voluntas imperat intellectu ut formet istum actum syncategorematicum 'omnis', non vult hoc formaliter; quia sic intellectus cognosceret /18.1a/ taliter qualiter per ly 'omnis' repraesentatur. Sed interpretative hoc vult, et ita intelligit causam talium actuum intellectus, videlicet, notitiam hominum et notitiam animalium, vel aliquas alias quae talem actum sunt productivae.
+
+Sed haec solutio quodammodo est non intelligibilis, quia viso quod intellectus non cognoscat nisi id quod per terminos categorematicos repraesentatur, et postquam voluntas non imperat ipsi distincte formare hunc actum vel illum nescirem, dicere quare intellectus propter imperium voluntatis producit magis hunc actum quam illum, postquam intellectus non se determinat per voluntatem ad hunc vel ad illum.  Quare aliter est dicendum, videlicet voluntatem libere imperare intellectui quod producat hunc vel illum actum sine volitione. Unde haec consequentia non valet: "voluntas imperat potentiis suis; ergo vult". Et quod hoc possibile sit, videlicet quod voluntas libere concurrat ad aliquem actum sine volitione id sic patet, quoniam voluntas libere producit actum suum sine volitione qua velit producere actum suum, datur enim prima volitio quae a voluntate libere producitur sine hoc quod voluntas velit illam volitionem producere.
+
+### Aliter nonnulli dicerent ad argumentum quod intellectus est liber in se applicando:
+
+Et ponunt illam libertatem esse quandam perfectionem intellectus. Quare dicerent intellectum hunc actum producere, et non illum, ex libertate sua. Sed hoc non credo esse omnino verum, quare sto in prima solutione.  
 
 # Quae notitiae habentur in potentia sensitiva
+
+## Circa secundam propositionem sic arguitur:
+
+Sensus interior non potest formare syncategoremata; ergo nulla potentia sensitiva potest formare syncategoremata. Consequentia patet, quia sensus exterior nullum syncategorema potest producere, quia omnes notitiae ab ipso productae sunt intuitivae, sed patet antecedens, quoniam si posset formare syncategoremata posset formare propositiones, et per consequens syllogismos, et sic posset syllogizare et discurrere. Quare non differet sensus interior ab intellectu.
+
+### Praeterea reddit argumentum in dubio praecedenti factum:
+
+Quia cum illa syncategoremata debeant produci a notitiis terminorum categorematicorum, et illi termini categorematici naturaliter concurrant.
+
+Similiter potentia sensitiva interior naturaliter concurrant, sequitur postquam non /18.1b/ est maior ratio quod unus actus producatur quam alius, quod omnis producetur vel nullus producetur. Nec valet recurrere ad voluntatem, quia bruta non habent voluntatem.
+
+### Ad primum istorum solet communiter responderi:
+
+Concedendo bruta formare propositiones et syllogismos, ut experimento compertum est de cane et elephanto et similia. Sed in hoc differt brutum ab homine quoad cognitionem, quia brutum non potest formare terminos communes nec propositiones ex illis compositas, sed intellectus, omnibus cognoscendi, potest modis cognoscere.  
+
+### Sed contra solutionem hanc arguitur:
+
+Si sensus potest producere syncategoremata, potest formare terminos communes; ergo male datum est discrimen. Probatur consequentia: quia sensus potest formare ly 'vel', potest etiam formare ly 'si', quia potest formare disiunctum ex terminis singularibus synonymis; ergo quum potest formare syncategorema potens determinare terminum communem, poterit formare terminum communem.
+
+Hoc sic patet: quia potest formare istum terminum 'Sortes' et istum terminum 'Plato', deinde hoc syncategorema 'vel'; ergo poterit formare totum disiunctum, quod est terminus communis. Patet consequentia: quia postquam potest formare partes, poterit formare totum.
+
+### Ad hoc argumentum duplex est modus respondendi:
+
+Quidam tenent non esse inconveniens bruta formare terminum communem complexum. Sed reputarent inconveniens ipsa formare conceptus communes incomplexos.
+
+Alii tenent nullum conceptum communem, sive ille sit complexus sive incomplexus, a bruto posse formari. Et isti negant hanc consequentiam quam fecimus in argumento:
+
+> Sensus potest formare partes huius disiuncti; ergo potest formare totum disiunctum.
+
+Sed illa consequentia manifesta est, quoniam si potest formare ly 'vel', et ly 'vel', non potest produci sine isto termino 'Sortes' et isto termino 'Plato'; ergo producitur totum disiunctum si ly 'vel' producatur.  
+
+### Sed tenendo illam ultimam positionem aliter esset respondendum:
+
+Negando quod ly 'vel' posset produci a sensu mediantibus istis terminis 'Sortes', 'Plato'. Sed bene posset produci unum sibi synonymum. /18.2a/ Sed hoc non erit mediantibus terminis non synonymis, quia in isto potest produci "Sortes vel Sortes". Sed ut dictum est, hoc ly 'vel' non potest unire istum terminum 'Plato'. Et illud dicetis esse ex natura sensus, qui non potest formare aliquos terminos communes.
+
+### Sed contra hoc arguitur:
+
+Sensus aliquem actum syncategorematicum potest producere, et quum non sit maior ratio de uno quam de alio, sequitur quod quemlibet actum potest producere, et per consequens potest producere ly 'omnis', et quum 'omnis' non posset agere nisi in terminum communem, sequitur quod sensus poterit producere terminum communem.  
+
+### Ad hoc facile respondetur negando minorem:
+
+Et si quaeras quem actum potest producere et quem non, respondeo omne actum accommodum termino singulari potest; sed nullum actum solum accommodum termino communi potest producere. Et hoc dicas fore ex natura sensus.
+
+### Contra hoc arguitur:
+
+Haec conceditur "Sensus videt albedinem", et illa esset falsa, nisi sensus formaret terminum communem; ergo sensus format terminum communem. Probatur minor: quia sensus illius propositionis est sensus videt albedinem mediante communi notitia albedinis, postquam ly 'video' appellat.
+
+### Arguitur praeterea:
+
+Ad idem sensus potest formare hunc terminum "Sortem esse Sortem"; ergo potest formare quemlibet terminum sibi synonymum. Sed hoc totum "Sortes existens Sortes" est terminus sibi synonymus; ergo illum terminum potest formare sensus. Sed ille terminus est communis; ergo terminum communem potest formare.
+
+### Ad primum istorum respondeo negando minorem:
+
+Et nego quod ly 'video' appellat propriam rationem, quoniam soli actus animae interiores importantes terminos appellant propriam rationem.
+
+### Ex quo patet hanc de rigore esse falsam "sensus cognoscit albedinem":
+
+Nec valet ista consequentia "Brunellus videt albedinem"; ergo "Brunellus cognoscit albedinem". Sed bene sequitur "Brunellus videt albedinem; ergo Brunellus albedinem cognoscit".
+
+### Ad secundum nego:
+
+Illos duos terminos "Sortem esse Sortem" et "Sortes existens Sortes" esse synonymos. Secundus enim omnia entia significat, et primus non.
+
+### Sed diceres:
+
+Postquam sensus potest Sortem et Platonem cognoscere copulatim per hoc copulatum "Sortes et Plato". Quare non poterit /18.2b/ Sortem et Platonem cognoscere disiunctim?
+
+### Ad hoc responsum est:
+
+Id fore ex natura sensus qui non potest formare terminum communem.
+
+### Alia opinio fuit circa hoc iam dicta:
+
+Videlicet quod sensus potest formare terminos communes complexos, sed nullum terminum communem incomplexum.
+
+### Contra quam sic arguitur:
+
+Sequeretur quod sensus posset adaequate tantum cognoscere quantum intellectus intelligeret, sed hoc est falsum; ergo et opinio.
+
+Falsitas consequentis patet manifeste, sed probatur sequela. Sensus potest cognoscere per terminum communem complexum quidquid intellectus cognoscit per terminum communem incomplexum; ergo propositum.
+
+Probatur antecedens, quia sensus potest formare hoc conditionatum "Sortes si est Sortes", et hoc conditionatum repraesentat omnia entia quae possunt ab intellectu intelligi; ergo quidquid ab intellectu potest intelligi, sensus potest cognoscere.
+
+### Ad hoc respondebis concedendo sequelam, videlicet quod quidquid intellectus potest intelligere, sensus potest intelligere confuse:
+
+Sed negabis illam si intelligat aeque distincte.
+
+### Contra hoc arguitur:
+
+Sensus aeque distincte potest cognoscere sicut intellectus; ergo male dictum est.
+
+Antecedens patet, quia signato illo quod ab intellectu cognoscitur per aliquem terminum communem incomplexum, distincte significantem illud sensus, potest formare unam notitiam complexam illi termino communi synonymam aut convertibilem, et per consequens mediante illa aeque distincte cognoscet sicut intellectus.
+
+Antecedens probatur: quia sensus aliquem terminum communem complexum potest formare, et cum non sit maior ratio de uno quam de alio, sequitur quod quemlibet.
+
+### Et confirmatur haec ratio, supposita opinione Gregorii, de productione terminorum communium incomplexorum:
+
+Videlicet quod, habitis duorum individuorum notitiis, et habendo notitiam comparativam, intellectus comparantis illa duo individua in aliqua convenientia essentiali. Ex tali comparatione resultat in intellectu notitia quaedam communis absoluta, repraesentans omnia illa, inter quae talis convenientia /19.1a/ potest reperiri.
+
+-- I am here
+
+
+
 
 <!--
 ## Apparatus Criticus Reference

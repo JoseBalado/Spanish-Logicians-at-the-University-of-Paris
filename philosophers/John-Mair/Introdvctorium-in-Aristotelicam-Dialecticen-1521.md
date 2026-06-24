@@ -1740,8 +1740,6 @@ Quando est determinatio accepta unica acceptione formaliter, aut eam redolet, no
 
 Hoc est, quando est determinatio accepta unica, expresse vel eam redolet, sub determinatione non ascendatur vel descendatur, sed sub toto, si communiter supponat.
 
--- I am here
-
 Hoc declaro quoniam non sequitur:
 
 > Differens ab isto ente est ens, et
@@ -1756,13 +1754,13 @@ Hic autem suppositio totius aggregati variatur.
 
 Identidem non sequitur:
 
-> Homo est non iste homo, et
+> Homo est non-iste-homo, et
 >
-> Homo est non iste homo, et sic de singulis;
+> Homo est non-iste-homo, et sic de singulis;
 >
 > ergo
 >
-> Homo est non homo.
+> Homo est non-homo.
 
 Etiam, dato quod signum confusivum praeponatur, cavendo ne primae regulae contraveniatur, 'non-homo' redolet istud, in consequendo ens quod non est homo, et sic determinationem acceptam unica sapit.
 

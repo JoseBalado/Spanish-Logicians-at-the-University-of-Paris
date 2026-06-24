@@ -143,8 +143,41 @@ Ex quo sequitur resolutorie quod mutari sic definitur:
 
 Ex quo sequitur quod in praedicta definitione tangitur duplex mutatio, seu mutari, unde aliquid mutatur duobus modis: uno mode acquisitive seu acquirendo; alio modo deperditive seu deperdendo.
 
-Exemplum primi: ut si habeam caliditatem quam ego prius existens non habebam, dicor mutari acquisitive. Sed si ego perdam caliditatem /8a/
+Exemplum primi: ut si habeam caliditatem quam ego prius existens non habebam, dicor mutari acquisitive. Sed si ego perdam caliditatem /8a/ quam prius non habebam, dicor mutari deperditive.
 
+Contra: Si illa definitio esset bona, sequeretur quod Deus mutaretur. Sed hoc est falsum; igitur. Antecedens patet. Et pono per casum quod Deus creet unum novum mundum, quo facto, Deus mutatur ad illud mundum, quod sic probatur, quia tunc est Deus in illo mundo, et prius non erat in illo mundo; ergo tunc mutatur.
+
+Respondetur quod ad hoc quod aliquid mutetur, quod recipiat in se aliquam formam de novo, substantialem vel accidentalem, et quia ipse Deus nihil potest recipere in se, ideo non dicitur mutari. Ex quo sequitur quod si Deus efficiat de novo praesens alicui loco, non tamen in se reciperet aliquem respectum vel aliquam entitatem, et ideo nulla praesentia est in Deo nec relativo, ideo non dicitur mutari.
+
+Ex quo sequitur corollarium, quod impossibile est hoc argumentum contra nominales, quia ad hoc quod aliquid mutetur, secundum nominales, non oportet quod recipiat aliquid in se.
+
+Sed pro ampliori declaratione quaerunt aliquae quaestiones, quarum prima est: Utrum quando forma ignis generatur, quae prius erat sub forma ligni, dicatur mutari?
+
+Dico quod non. Contra: "Illa forma generatur, ergo mutatur". Nego consequentiam, et ratio est quia ille terminus 'mutari' solum supponit et dat intelligere subiectum, et iste terminus 'generare' dat intelligere formam, et ideo per illas diversas connotationes non /8b/ sequitur: "Hoc generatur, ergo hoc mutatur". Ex quo sequitur quod sola illa materia dicitur mutari.
+
+Secunda quaestio: Utrum totum compositum, puta ignis, dicatur mutari?
+
+Dico quod non, quia prius non fuit.
+
+Nunc animadvertendum est quid intelligamus per motum, pro cuius declaratione notandum est quod duplex est mutatio: quaedam est successiva, alia instantanea seu in instanti. Unde aliquid dicitur mutari in instanti quando forma quae acquiritur tota simul acquiritur, et non pars post partem. Ut dicunt philosophi quod Sol in instanti illuminat medium bene dispositum et sibi debitae praesens. Itaque sic est imaginandum quod illud lumen quod sic producitur a sole non producitur partibiliter, sed totum simul.
+
+Deest mutatione instantanea. Ponitur talis propositio:
+
+> Quaecumque forma indivisibilis, id est quae non habet partes, producitur in instanti.
+
+Volo dicere quod ista consequentia est bona:
+
+> Hoc non habet partes et producitur, ergo producitur in instanti totum simul.
+
+De qua mutatione item ponitur alia propositio:
+
+> Nulla mutatio instantanea vocatur motus.
+
+Sed mutatio successiva est acquirere aliqua forma successive, seu pars post partem, seu partibiliter. Et de ista mutatione successiva ponitur alia propositio:
+
+> Sola mutatio successiva vocatur motus.
+
+Apud philosophos itaque de ratione motus est. /9a/ Successio itaque implicat quod Deus faciat motum sine mut---
 
 <!--
 ## Apparatus Criticus Reference

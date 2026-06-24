@@ -1733,47 +1733,52 @@ Similiter: "Aliquem equum quilibet homo videt", in ultimo casu est falsa. Et sic
 
 Poteris tamen clarius et fortasse tutius a termino stante determinate primo ascendere aut descendere.
 
+### Secunda regula
+<div class="textus">
+Quando est determinatio accepta unica acceptione formaliter, aut eam redolet, non tangatur determinatio ascendendo vel descendendo, sed sub toto procedatur.
+</div>
+
+Hoc est, quando est determinatio accepta unica, expresse vel eam redolet, sub determinatione non ascendatur vel descendatur, sed sub toto, si communiter supponat.
+
 -- I am here
 
-### Secunda regula
-
-Secunda regula.
-
-Quanto est determinatio accepta unica acceptione formaliter aut eam redolet, non tangatur determinatio ascendendo vel descendendo, sed sub toto procedatur.
-
-Hoc est, quando est determinatio accepta unica expresse, vel eam redolet, sub determinatione non ascendatur vel descendatur, sed sub toto si communiter supponat.
-
-> Hoc declaro quoniam non sequitur:
+Hoc declaro quoniam non sequitur:
 
 > Differens ab isto ente est ens, et
-
-> Differens ab isto ente est ens, et sic de singulis; ergo
-
+>
+> Differens ab isto ente est ens, et sic de singulis;
+>
+> ergo
+>
 > Differens /76/ ab ente est ens.
 
-Hic autem suppositio totius aggregati variantur.
+Hic autem suppositio totius aggregati variatur.
 
-Identidem non sequitur
+Identidem non sequitur:
 
 > Homo est non iste homo, et
-
-> Homo est non iste homo, et sic de singulis; ergo
-
+>
+> Homo est non iste homo, et sic de singulis;
+>
+> ergo
+>
 > Homo est non homo.
 
 Etiam, dato quod signum confusivum praeponatur, cavendo ne primae regulae contraveniatur, 'non-homo' redolet istud, in consequendo ens quod non est homo, et sic determinationem acceptam unica sapit.
 
 Similiter non sequitur:
 
-> ⟨a⟩ Iste homo est iste homo, et
-
-> ⟨a⟩ Homo est iste homo, et sic de singulis; ergo
-
+> ⟨a⟩ Homo est iste homo, et
+>
+> ⟨a⟩ Homo est iste homo, et sic de singulis;
+>
+> ergo
+>
 > ⟨a⟩ Homo est omnis homo.
 
 Hoc complexum 'omnis homo' tantum redolet sicut ens quod est omnis homo.
 
-Illae singulares formaliter hanc inferunt "⟨a⟩ Homo omnis homo est". Et licet formaliter sequatur cum comparativo 'differt' et similibus, descensus et ascensus copulativus sub determinatione, hoc est de per accidens, cum tales formaliter aequivaleant "Sortes differt ab homine" et "Sortes ab omni homine differt", "Sortes est fortior homine" "Sortes quolibet homine fortior est".
+Illae singulares formaliter hanc inferunt "⟨a⟩ Homo omnis homo est". Et licet formaliter sequatur cum comparativo 'differt' et similibus, descensus et ascensus copulativus sub determinatione, hoc est de per accidens, cum tales formaliter aequivaleant "Sortes differt ab homine" et "Sortes ab omni homine differt", "Sortes est fortior homine", "Sortes quolibet homine fortior est".
 
 Item, in negativis istis contradicentibus, ubi determinatio distribuitur non licet sic ascendere et descendere copulative, sed solum disiunctive proportionabiliter ad copulativam oppositam. Ergo satius est in regula stare quam regulas varias, vix solidas, pro tali descensu ponere, cum propositionum veritates aliter deprehendi possunt. Et licet istae aequivalent "Asinus hominis currit" et "Hominis asinus currit", et per consequens earum contradictoriae aequivalebunt.
 

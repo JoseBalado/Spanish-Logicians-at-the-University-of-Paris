@@ -177,7 +177,22 @@ Sed mutatio successiva est acquirere aliqua forma successive, seu pars post part
 
 > Sola mutatio successiva vocatur motus.
 
-Apud philosophos itaque de ratione motus est. /9a/ Successio itaque implicat quod Deus faciat motum sine mut---
+Apud philosophos itaque de ratione motus est. /9a/ Successio, itaque, implicat quod Deus faciat motum sine mutatione successiva. Ex quo sequitur quod si quis ponat casum quod Deus faciat motum sine mutatione successiva, id est in instanti, non est admittendum, et ratio est quia motus non est nisi quaedam successio, implicat successionem esse totam simul. Et sicut dictum est de acquisitive, ita dicatur de deperditione, itaque duplex est deperditio, scilicet successiva et instantanea.
+
+De mutatione successiva ponitur talis regula post:
+> Omne mutari successive est mutari instantaneae
+
+Itaque si sit acquisitio successiva, post quodlibet acquiri est acquisitum, esse instantaneum. Et de deperditione successiva, post quodlibet deperdi successive est deperditum, esse instantaneum. Et adverte quod in qualibet forma successive acquisita sunt infinitae partes, et si sunt infinitae partes sunt infinita fieri, et tot quot sunt fieri tot sunt facta esse, et post quodlibet destrui est destructum esse.
+
+Exemplum: ponamus quod una caliditas decem partium acquiratur successive. Dico quod de qualibet parte verum est dicere quod successive seu in tempore fuit, et in instanti
+facta esse. Et breviter resolvendo dico quod quaelibet forma quae habet
+fieri successive habet factum esse in instanti. Similiter applicare habet /9b/ hoc ad destructionem successivam, nam post quodlibet destrui successive est, destructum est, ut declarabatur de acquisitione.
+
+## Nunc videndum est de speciebus mutationis et similiter de speciebus motus:
+
+Unde sex solent poni species mutationis, scilicet: generatio et corruptio, augmentatio, diminutio, alteratio et loci mutatio. Et primo ostendendum est de generatione. Unde dico quod generatio est duplex: quaedam simpliciter, quaedam secundum quid. Unde generatio simpliciter vocatur, a philosophis, generatio qua generatur substantia. Sed generatio secundum quid vocatur generatio per quam producitur aliquod accidens, sive illud sit quantitas sive qualitas. Notandum quod in philosophia quando dicitur generatio, intelligitur de generatione simpliciter dicta. Ex quo sequitur quod non proprie dicitur quod albedo generatur.
+
+Similiter corruptio capitur duobus modis: uno modo pro corruptione simpliciter, alio modo pro corruptione secundum quid. Corruptio simpliciter vocatur corruptio substantiae, et secundum quid accidentis. Et dico quod in tota philosophia, quando loquimur de corruptione, intelligitur de corruptione substantiae. Ex quo sequitur quod si inveniatur alicubi quod accidentia corrumpuntur, debet intelligi secundum quid. Unde corruptio aliquando capitur large pro omni destructione /10a/ alicuius, sive sit substantia sive accidens, et pro declaratione quaero aliquas quaestiones, quarum prima est: Utrum anima intellectiva proprie dicatur creari.
 
 <!--
 ## Apparatus Criticus Reference
@@ -195,4 +210,5 @@ Page 3b: extrinsece ] emend. extrincisse
 Page 3b: circa idem ] emend. cu//caid8
 Page 5a: conveniunt quatuor ] del. conveniunt sibi quatuor
 Page 7a: formam quam ] del. formam rem quam
+Page 9a: habet ] emmed. hēg
 -->

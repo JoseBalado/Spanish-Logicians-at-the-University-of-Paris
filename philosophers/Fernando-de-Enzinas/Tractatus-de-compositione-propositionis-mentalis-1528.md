@@ -135,8 +135,8 @@ de cuius subiecto potest defendi recte quod est terminus complexus secundum sign
 
 Quaerunt enim utrum ly 'est' in subiecto huius "'Homo est animal' est propositio" capiatur significative vel non significative, puta materialiter tantum pro illa voce?
 
--   Si ultimum: Sequitur quod tantum valebit illa propositio, sicut hoc "'Homo buf:animal' est propositio".
--   Si primum: Sequitur totum subiectum significative capi, et sic propositio secundum quod propositio est extremum.
+- Si ultimum: Sequitur quod tantum valebit illa propositio, sicut hoc "'Homo buf:animal' est propositio".
+- Si primum: Sequitur totum subiectum significative capi, et sic propositio secundum quod propositio est extremum.
 
 ## Ad hoc aliqui darent secundum, videlicet, quod ly \'est\' non capitur significative,
 
@@ -216,9 +216,9 @@ Sed minor probatur: Intellectus non habet aliquam notitiam significantem distrib
 
 Antecedens probatur ex dictis, quoniam dictum est in mente, non inveniri actum taliter significantem qualiter ly 'omnis'; si enim inveniretur, subordinaretur illi, quod est contra rationem.
 
-### Ad hoc argumentum respondetur negando minorem,
+### Ad hoc argumentum respondetur negando minorem.
 
-et ad probationes distinguo quod in mente non inveniatur aliquis terminus significans distributive. Si enim intelligatur quod in mente non invenitur aliquis terminus significans adaequate distributive, id conceditur. Si autem intelligatur quod non inveniatur terminus significans inadaequate distributive, id negatur. Immo qualitas simplex, quae est propositio repraesentans omnem-hominem-esse-animal significat distributive inadaequate.
+Et ad probationes distinguo quod in mente non inveniatur aliquis terminus significans distributive. Si enim intelligatur quod in mente non invenitur aliquis terminus significans adaequate distributive, id conceditur. Si autem intelligatur quod non inveniatur terminus significans inadaequate distributive, id negatur. Immo qualitas simplex, quae est propositio repraesentans omnem-hominem-esse-animal significat distributive inadaequate.
 
 Dico iam quod, ad hoc quod intellectus intelligat distributive, sufficit quod habeat notitiam inadaequate repraesentantem distributive. Nec ideo sequitur quod talis terminus syncategorematicus in voce tali notitiae inadaequate repraesentanti subordinetur, quoniam subordinari est sua significata seu significationes repraesentare mediante aliquo sibi synonymo.
 
@@ -1267,9 +1267,46 @@ Antecedens probatur: quia sensus aliquem terminum communem complexum potest form
 
 Videlicet quod, habitis duorum individuorum notitiis, et habendo notitiam comparativam, intellectus comparantis illa duo individua in aliqua convenientia essentiali. Ex tali comparatione resultat in intellectu notitia quaedam communis absoluta, repraesentans omnia illa, inter quae talis convenientia /19.1a/ potest reperiri.
 
--- I am here
+# Et an formet notitiam communem
 
+### Iam arguitur sic. Sensus potest formare notitiam communem incomplexam; ergo dicta nulla:
 
+Antecedens probatur. Sensus potest primo formare notitias duas singulares duorum individuorum, et potest etiam formare notitiam comparativam quae dicta est; ergo sensus poterit formare terminum communem. Consequentia patet, quia agens potens producere causas potest etiam producere effectum illarum causarum.
+
+### Et antecedens probatur, quia si aliquid obstaret, maxime esset quia non potest formare notitiam comparativam, sed potest bene formare; igitur propositum:
+
+Probatur minor, quia vel non posset eam formare, quia est propositio vel quia componitur
+ex terminis communibus, vel quia est iudicium sine notitia iudicativa.
+
+### Sed nulla istarum causarum impedit:
+
+Non prima, quia propositiones sensus potest formare, ut dictum est, nec recte dicetur quod propterea quod talis notitia comparativa sit iudicium non producetur a sensu, quia sensus potest iudicare, ut patet experientia somnus et de multis animalibus. Nec etiam recte dicetur quod propterea quia illa notitia comparativa praesupponit terminos communes, a sensu non potest produci, quia si sic intellectus eam non posset formare quando concurrit ad productionem primi termini communis. Nihil igitur obstat sensui quin
+optime possit formare terminum communem incomplexum.
+
+### At primum istorum posset responderi negando quod sensus interior poterit quemcumque terminum complexum convertibilem cum termino communi producere:
+
+Unde terminum convertibilem cum isto termino 'homo' non posset formare, quia vix
+potest dari terminus complexus communis compositus ex terminis singularibus convertibilis cum illo termino 'homo', et sensus solum potest formare notitias complexas communes, compositas ex singularibus, et non alias communes.
+
+### Ad confirmationem quae difficile est, et maxime contra illos qui tenent naturaliter intellectum producere terminum communem:
+
+Non alter credo respondendum fore nisi dicendo quod intellectus non potest producere
+terminum communem nisi per imperium voluntatis, et /19.1b/ quod vltra notitiam comparativam requirit adhuc ad formationem notitie communis imperium voluntatis.
+
+Possent circa haec multae questiones moueri de productione termini communis, sed sunt propositiones impertinentes.
+
+Relinquitur tamen in hoc argumento utramque opinionem fore probabilem, tam eam quae defendit sensum posse formare terminum communem complexum quam eam quae defendit nullum terminum communem posse producere.
+
+Restat tamen respondere ad id quod in principio petebantur, quare sensus habitis his duabus notitiis Sortes/Plato producit istum actum est, et non istum fuit de intellectu namque iam causa fuit assignata, nec in sensu longe diversa est quaerenda. Unde in sensu ab extrinseco procedere potest aliquando. Quandoque vero ex aspectu caeli (ut aiunt plurimi). Si discas caelum de se est indifferens ad productionem huius vel illius actus; ergo ab aliquo determinatur, et non videtur a quo nisi eam particulari; ergo a sensu determinatur vel ab aliquo alio. Non ergo videtur sufficiens causa esse caelum hoc. Probat caelum non esse causam immediatam ad hoc quod sensus hunc vel illum actum producat, sed immediata causa est voluntas prime causae ad id, ex sua libertate se determinantis. unde hoc argumentum est fortissimum ad probandum, in lumine naturali, primam causam esse liberam, reliquasque causas determinare.
+
+Ignis de se est indifferens ad productionem huius vel illius caloris; ergo quod producat hunc et non illum ab aliqua causa determinatur, et non potest dici quod a causa naturali. Nam ea etiam in determinata est ad hunc vel illum effectum producendum; ergo ad liberam est recurrendum quae propria virtute agat, et non determinetur ab alia, nam non est processus in infinitum.
+
+## Pro defensione dubii tredecimi contra secundum et tertium fundamentum arguitur.
+
+## Primo: si verum esset quod terminus syncategorematicus solum ageret in notitias a quibus producitur, sequeretur in hac propositione mentali "Antichristus est futurus" illum terminum Antichristus non ampliari.
+
+Sed consequens est falsum; ergo et fundamentum. Minor patet, quia sic propositio
+illa esset falsa postquam subiectum non supponit, sed probatur sequela. Ille terminus futurus /19.2a/ non producitur ab illo termino Antichristus ...
 
 
 <!--

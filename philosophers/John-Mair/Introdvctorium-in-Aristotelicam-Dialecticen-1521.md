@@ -1776,9 +1776,9 @@ Similiter non sequitur:
 
 Hoc complexum 'omnis homo' tantum redolet sicut ens quod est omnis homo.
 
-Illae singulares formaliter hanc inferunt "⟨a⟩ Homo omnis homo est". Et licet formaliter sequatur cum comparativo 'differt' et similibus, descensus et ascensus copulativus sub determinatione, hoc est de per accidens, cum tales formaliter aequivaleant "Sortes differt ab homine" et "Sortes ab omni homine differt", "Sortes est fortior homine", "Sortes quolibet homine fortior est".
+Illae singulares formaliter hanc inferunt "⟨a⟩ Homo omnis homo est". Et licet formaliter sequatur cum comparativo 'differt' et similibus descensus et ascensus copulativus sub determinatione, hoc est de per accidens, cum tales formaliter aequivaleant "Sortes differt ab homine" et "Sortes ab omni homine differt", "Sortes est fortior homine", "Sortes quolibet homine fortior est".
 
-Item, in negativis istis contradicentibus, ubi determinatio distribuitur non licet sic ascendere et descendere copulative, sed solum disiunctive proportionabiliter ad copulativam oppositam. Ergo satius est in regula stare quam regulas varias, vix solidas, pro tali descensu ponere, cum propositionum veritates aliter deprehendi possunt. Et licet istae aequivalent "Asinus hominis currit" et "Hominis asinus currit", et per consequens earum contradictoriae aequivalebunt.
+Item, in negativis istis contradicentibus, ubi determinatio distribuitur, non licet sic ascendere et descendere copulative, sed solum disiunctive proportionabiliter ad copulativam oppositam. Ergo satius est in regula stare quam regulas varias, vix solidas, pro tali descensu ponere, cum propositionum veritates aliter deprehendi possunt. Et licet istae aequivalent "Asinus hominis currit" et "Hominis asinus currit", et per consequens earum contradictoriae aequivalebunt.
 
 Adhuc, ob universalitatem, in regula dormiendum est, nec etiam descensus disiunctus opacus inibi tangetur.
 
@@ -2232,9 +2232,9 @@ Circa hanc regulam dubitatur an relativum referat in copulativa affirmativa rest
 
 Respondetur per tres propositiones:
 
--   Quarum prima est: Relativum refert cum signo negativo posito inter partes extremi, hoc patet in ista "Animal non est homo, et Ipsum movetur". Sensus est "Ipsum animal quod non est homo movetur". Similiter ascendendo sub praedicato huius "Homo non est hoc animal, et Idem homo non est hoc animal, et sic consequenter".
--   Secunda propositio: Relativum refert restricte cum signo universali non cadente in copulam, hoc patet hic "Iohannes Baptista omnes in austeritate exuperans, fuit Zachariae filius, et Ipse Christum Baptizavit".
--   Tertia propositio: Quando ponitur signum universale in propositionis fronte, tale omnes distingues, an relativum referat restricte cum signo vel sine signo. Secundum illud haec copulativa est vera "Omni parte magnitudinis dabilis est aliqua pars minor, et Illa est divisibilis". Sensus secundae partis est: "et Illa pars quae est parte magnitudinis minor est divisibilis, et hoc est verum", et sic hac est vera "Omnis homo est animal, et Risibile est illud".
+- Quarum prima est: Relativum refert cum signo negativo posito inter partes extremi, hoc patet in ista "Animal non est homo, et Ipsum movetur". Sensus est "Ipsum animal quod non est homo movetur". Similiter ascendendo sub praedicato huius "Homo non est hoc animal, et Idem homo non est hoc animal, et sic consequenter".
+- Secunda propositio: Relativum refert restricte cum signo universali non cadente in copulam, hoc patet hic "Iohannes Baptista omnes in austeritate exuperans, fuit Zachariae filius, et Ipse Christum Baptizavit".
+- Tertia propositio: Quando ponitur signum universale in propositionis fronte, tale omnes distingues, an relativum referat restricte cum signo vel sine signo. Secundum illud haec copulativa est vera "Omni parte magnitudinis dabilis est aliqua pars minor, et Illa est divisibilis". Sensus secundae partis est: "et Illa pars quae est parte magnitudinis minor est divisibilis, et hoc est verum", et sic hac est vera "Omnis homo est animal, et Risibile est illud".
 
 Ex hoc sequitur quod relativum nonnumquam supponit quando propositio antecedentis non verificatur, ut "Omne animal est homo, et Risibile est illud".
 
@@ -2272,10 +2272,10 @@ Contra illud arguitur: Habendo copulativam affirmativam in mente relativo, utpot
 
 Respondetur:
 
--   Forte intellectus id facere nequit, quia tunc variatur virtualiter antecedens.
--   Secundo dicitur: Non inconvenit terminum mentalem relativum a sua significatione cadere.
--   Tertio dicitur: /87/ Si in mente ille includit relativum relatum, tunc ipsum ponitur expresse.
--   Quarto dicitur: Licet intellectus ex sua fecunditate potest sic terminum capere non sequitur, quod sic communiter capiatur.
+- Forte intellectus id facere nequit, quia tunc variatur virtualiter antecedens.
+- Secundo dicitur: Non inconvenit terminum mentalem relativum a sua significatione cadere.
+- Tertio dicitur: /87/ Si in mente ille includit relativum relatum, tunc ipsum ponitur expresse.
+- Quarto dicitur: Licet intellectus ex sua fecunditate potest sic terminum capere non sequitur, quod sic communiter capiatur.
 
 #### Replica
 
@@ -2427,8 +2427,8 @@ Similiter in hac "Homo currit et alius ab eo disputat", hic alius stat determina
 
 In duobus casibus relativum diversitatis non supponit:
 
--   Primo: Quando propositio antecedentis est falsa, ut "Antichristus currit et alius ab eo disputat". Quo fit quod relativum diversitatis cum suo antecedenti est inferius ad nomen infinitum, ut "Aliud ab Antichristo est inferius ad non antichristum", "Omne aliud ab Antichristo et Non Antichristus", et non econverso, et per consequens non verum dicunt qui eos esse convertibiles aiunt.
--   Secundus casus: Quando antecedens est transcendens, ut "Ens currit et Aliud ab ente disputat", subiectum secundae categoricae non supponit quia nec 'ens non enti', aut 'non ens enti' est idem vel diversum.
+- Primo: Quando propositio antecedentis est falsa, ut "Antichristus currit et alius ab eo disputat". Quo fit quod relativum diversitatis cum suo antecedenti est inferius ad nomen infinitum, ut "Aliud ab Antichristo est inferius ad non antichristum", "Omne aliud ab Antichristo et Non Antichristus", et non econverso, et per consequens non verum dicunt qui eos esse convertibiles aiunt.
+- Secundus casus: Quando antecedens est transcendens, ut "Ens currit et Aliud ab ente disputat", subiectum secundae categoricae non supponit quia nec 'ens non enti', aut 'non ens enti' est idem vel diversum.
 
 #### Arguitur primo
 
@@ -2560,33 +2560,33 @@ Dicitur in recto: Sortes non ampliatur in hac "Sortes habet equum mortuum", 'hom
 
 Virtute huius regulae tales propositiones concedantur:
 
--   "Puer unius mensis quattuor annos vixit".
--   "Parvus in utero matris vixit quattuor annos".
--   "Candela lucens est extincta".
--   "Vivum est mortuum".
--   "Aliquis homo praecessit Adam" patet de Christo.
--   "Pater vivus est sepultus".
--   "Pater meus comedens est positus in terra".
--   "Manus actualiter clausa est aperta".
--   "Manus amplissime aperta est clausa".
--   "Sortes in curis est clausus in domo".
--   "Homo mortuus est visus a me".
+- "Puer unius mensis quattuor annos vixit".
+- "Parvus in utero matris vixit quattuor annos".
+- "Candela lucens est extincta".
+- "Vivum est mortuum".
+- "Aliquis homo praecessit Adam" patet de Christo.
+- "Pater vivus est sepultus".
+- "Pater meus comedens est positus in terra".
+- "Manus actualiter clausa est aperta".
+- "Manus amplissime aperta est clausa".
+- "Sortes in curis est clausus in domo".
+- "Homo mortuus est visus a me".
 
 Etiam per earum resolventes hae et omnes propositiones sequentes clarius patefiunt, ut:
 
--   "Hoc est fractum".
+- "Hoc est fractum".
 
--   "Hoc est vel fuit lancea integra", vel
+- "Hoc est vel fuit lancea integra", vel
 
--   "Hic binarius est lancea fracta et
+- "Hic binarius est lancea fracta et
 
-    Hic binarius est vel fuit lancea integra; ergo
+  Hic binarius est vel fuit lancea integra; ergo
 
-    Lancea integra est fracta".
+  Lancea integra est fracta".
 
--   "Carnes super dorsum bovis sunt assatae".
+- "Carnes super dorsum bovis sunt assatae".
 
--   "Lebes positus super ignem est remotus ab igne".
+- "Lebes positus super ignem est remotus ab igne".
 
 Et ita de talibus.
 

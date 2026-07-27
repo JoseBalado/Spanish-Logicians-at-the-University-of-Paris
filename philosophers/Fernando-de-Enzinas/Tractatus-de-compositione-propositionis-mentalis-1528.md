@@ -1306,8 +1306,50 @@ Ignis de se est indifferens ad productionem huius vel illius caloris; ergo quod 
 ## Primo: si verum esset quod terminus syncategorematicus solum ageret in notitias a quibus producitur, sequeretur in hac propositione mentali "Antichristus est futurus" illum terminum Antichristus non ampliari.
 
 Sed consequens est falsum; ergo et fundamentum. Minor patet, quia sic propositio
-illa esset falsa postquam subiectum non supponit, sed probatur sequela. Ille terminus futurus /19.2a/ non producitur ab illo termino Antichristus ...
+illa esset falsa postquam subiectum non supponit, sed probatur sequela. Ille terminus futurus /19.2a/ non producitur ab illo termino Antichristus; ergo sequitur quod non ampliat illum terminum Antichristus. Antecedens patet, quia intellectus potest habere notitiam omnium entium futurorum, videlicet notitiam cui ly 'futurum' subordinatur sine hoc quod habeat notitiam distinctam Antichristi.
 
+# De ampliatione participiorum
+
+### Si fortassis responderes negando sequelam et ad probationem negares antecedens:
+
+Et ad probationem negares illud, videlicet quod intellectus posset habere notitiam omnium entium futurorum, quinetiam haberet notitiam Antichristi distinctam.
+
+## Contra hoc arguitur: Sequeretur intellectum non posse habere notitiam confusam omnium entium futurorum.
+
+Quinetiam haberet notitiam distinctam eorundem, sed hoc est falsum, igitur male responsum
+est.
+
+Sequela probatur, quoniam dictum est non fore possibile habere notitiam confusam omnium entium futurorum quin haberetur notitia Antichristi, et cum non sit maior ratio
+quod intellectus nunc formet notitiam distinctam Antichristi quam notitiam aliorum, sequitur quod notitiam aliorum distinctam producet quod impossibile est. Minor patet, quia ante magis dependet notitia confusa omnium entium futurorum a notitia Antichristi quam a notitia aliorum.
+
+## Confirmatur contra idem fundamentum:
+
+Sequeretur quod in ista propositione mentali "Homo immediate post hoc erit
+animal" ille terminus 'homo' confunderetur ab isto signo immediate post hoc, sed
+hoc est falsum; ergo et fundamentum.
+
+Sequela patet, ille terminus immediate post hoc producitur ab illa notitia 'homo', igitur
+agit in illam, sed non potest agere nisi confundendo; ergo confundit illam. Antecedens patet, ly 'immediate' post hoc producitur ab illa copula 'erit', et illa copula 'erit' producitur ab illo termino 'homo'; ergo ly 'immediate' post hoc producitur ab illo termino 'homo'. Consequentia hec patet per istam maximam "Quidquid est causa causae, est causa causati.
+
+### Simile argumentum poteris facere ad probandum quod in hac propositione "Rationale et nullus homo sunt animalia" ille terminus 'rationale' distribuatur ab illa negatione 'nullus':
+
+Quia illa negatio 'nullus' producitur a ly 'rationale'; ergo agit in illum terminum et non nisi distribuendo, ergo distribuit. Antecedens patet, quia illa negatio 'nullus' producitur /19.2b/ a copula, quia negat copulam, et copula producitur partialiter a ly 'rationale', quia ly 'rationale' est pars subiecti; ergo illa negatio nullus producitur a ly 'rationale'. Consequentia patet per eandem maximam "Quidquid est causa causae, est causa causati."
+
+### Ad argumentum possunt dari nonnullae fractiones:
+
+Posset em aliquis dicere fundamentum illud debere intelligi de terminis syncategorematicis qui non sunt notitiae, et ideo non oportet quod ly 'futurum' producatur a ly 'Antichristus' esto quod ampliet illud, sed hoc est falsum, quoniam ratio qua illud fundamentum probatur omnino. Idem probat de termino categorematico qui est notitia significans aliquid, sicut de syncategorematico qui solum aliqualiter significat. Cum em ly 'futurum' agit in aliquem terminum a quo non producitur, et non est maior ratio quod agat in unum quam agat in alium, sequitur quod in quemlibet ageret, neque hoc potest determinari ab intellectu, quoniam (ut probatum est) sequeretur eandem propositionem esse veram et falsam. Deduc reliquiam sicut ibi.
+
+### Quare aliter est respondendum et fortasse apparentius dicendo quod illa propositio "Antichristus est futurum" subordinatur uni pro positioni mentali:
+
+Quia ly 'futurum' non ampliat, sed additur copulae unum signum syncategorematicum habens virtutem ampliandi subiectum ad illa quae sunt vel erunt, et restringendum praedicatum, ut videlicet stet pro illo quod est futurum.
+
+### Aliter etiam posset dici: et forte non minus apparenter ly 'futurus' in anima subordinari notitie omnium entium futurorum:
+
+Et virtutem habet ampliandi suum substantivum, et non aliquem alium, qui non dependet ab alio nisi a suo substantivo, et uni actui amplianti subiectum. Et si arguas de hac vocali "Antichristus est futurum", capiendo ly 'futurum' substantive, respondeo quod illa non subordinatur uni propositioni, in qua ly 'futurum' capiatur substantive, sed subordinabitur uni in qua ly 'futurum' capietur adiective, aut si velis aliter dicere, dicas hanc propositionem "Antichristus est futurum" capiendo ly 'futurum' substantive esse falsam.
+
+## Contra has duas solutiones arguitur sic:
+
+Bene sequitur: Ly 'futurum' solum ampliat suum substantivum; ergo non ampliat tempus importatum per copulam, sed hoc est falsum; ergo et antecedens. Consequentia /20.1a/ nota est, sed patet falsitas consequentis, quoniam se---
 
 <!--
 ## Apparatus Criticus Reference

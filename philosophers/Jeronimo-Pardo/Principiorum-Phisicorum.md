@@ -194,6 +194,24 @@ Unde sex solent poni species mutationis, scilicet: generatio et corruptio, augme
 
 Similiter corruptio capitur duobus modis: uno modo pro corruptione simpliciter, alio modo pro corruptione secundum quid. Corruptio simpliciter vocatur corruptio substantiae, et secundum quid accidentis. Et dico quod in tota philosophia, quando loquimur de corruptione, intelligitur de corruptione substantiae. Ex quo sequitur quod si inveniatur alicubi quod accidentia corrumpuntur, debet intelligi secundum quid. Unde corruptio aliquando capitur large pro omni destructione /10a/ alicuius, sive sit substantia sive accidens, et pro declaratione quaero aliquas quaestiones, quarum prima est: Utrum anima intellectiva proprie dicatur creari.
 
+Dico quod sic, et non proprie dicitur generari, quia ad hoc quod aliquid dicatur generari oportet quod agens praesupponat aliquid in quo producatur talis forma. Sed Deus non praesupponit aliquod subiectum, et per oppositum dico quod omnis illa forma dicitur creari ab illo agente quod non necessario requirit subiectum in quo recipiatur illa forma, ex quo sequitur quod Deus omnem formam substantialem creat. Ex quo sequitur quod eadem forma potest generari ab agente naturali et creari ab agente supernaturali, ut ignis producat ignem. Dico quod forma ignis producta generatur ab agente naturali et creatur ab agente supernaturali, scilicet a Deo.
+
+Secunda quaestio: Utrum forma substantialis dicatur praecise generari vel totum compositum. Et respondeo ponendo talem conclusionem: "Non solum forma substantialis dicitur generari sed etiam totum compositum", ut ignis generat ignem. Dico quod duo sunt quae dicuntur ibi generari, videlicet forma substantialis ignis et totum compositum ex materia et forma, puta ignis, ex quo sequitur quod bene dicunt aliqui philosophi quod in generatione duplex est terminus ad quem, et hoc quando generatur forma, scilicet terminus partialis et terminus totalis. Partialis est terminus, totalis vero totum compositum.
+
+Contra: Totum compositum non dicitur generari, igitur. Antecedens patet quia omne generans praesupponit materiam in qua recipiatur /10b/ genitum. Sed sic est quod totum compositum non recipitur in materia, ergo non dicitur generari.
+
+Pro solutione nota quod generans praesupponit materiam vel tanquam partem vel tanquam subiectum, nam duplex est quod generatur:
+
+- Quoddam est quod potest recipi in aliquo subiecto sicut forma substantialis, et de isto dico quod necessario praesupponit materiam in qua recipiatur, quoniam regula generalis est quod "Omne agens naturale, producens aliquod quod potest esse in subiecto, necessario producit in subiecto", ita quod ista consequentia est bona: "Hoc potest recipi in subiecto et producitur ab agente naturali, ergo producitur in subiecto necessario".
+
+- Aliud est quod generatur quod non recipitur in aliquo tanquam in subiecto, sed componitur intrinsece ex duabus partibus, quarum una est subiectum et alia forma, ut omnia composita ex materia et forma, ut ignis non habet subiectum, tamen componitur, puta ex materia et ex forma, et de isto ponitur talis propositio: "Ista composita necessario simpliciter praesupponunt materiam, ita quod ipse Deus non posset producere compositum quoniam praesupponat materiam", ex quo sequitur quod aliquid dicatur generari requiritur quod praesupponat materiam vel tanquam subiectum vel tanquam partem.
+
+Tertia quaestio: Utrum homo dicatur generari vel creari.
+
+Respondeo per talem propositionem de mente Occam: "Nullum compositum ex materia et forma dicitur creari, sed omne tale dicitur generari et ab ipso Deo". Et ratio est /11a/ quia semper producens praesupponit materiam tamquam partem.
+
+Quarta quaestio: Utrum...
+
 <!--
 ## Apparatus Criticus Reference
 * emend.  (emendatio)  : Corrected a flat-out printing mistake.

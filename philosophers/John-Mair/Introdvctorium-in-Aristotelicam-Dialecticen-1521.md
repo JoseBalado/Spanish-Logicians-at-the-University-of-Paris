@@ -1790,29 +1790,37 @@ Quando est determinatio accepta non unica distributione stipata, non descendatur
 
 Tertia regula patet, quia non sequitur:
 
-> Alicuius speciei quodlibet individuum est asinus; ergo
-
+> Alicuius speciei quodlibet individuum est asinus
+>
+> ergo
+>
 > Alicuius speciei hoc individuum est asinus, et
-
+>
 > Hoc individuum est asinus, et sic de singulis.
 
 Etiam ponendo signum ⟨a⟩ ante ly 'hominis'.
 
 Nec sequitur:
 
-> ⟨a⟩ Quodlibet ente quodlibet differens est ens; ergo
-
-> ⟨a⟩ Quodlibet ente hoc differens est ens.
+> A quolibet ente quodlibet differens est ens
+>
+> ergo
+>
+> A quolibet ente hoc differens est ens.
 
 Nec sequitur:
 
-> Cuiuslibet hominis quilibet asinus est asinus; ergo
-
+> Cuiuslibet hominis quilibet asinus est asinus
+>
+> ergo
+>
 > Cuiuslibet hominis iste asinus est asinus.
 
-Ponendo constantiam, quam ob breviloquium crebrius suppono. Prius sub determinatione descendendum est, postea sub determinabili descendes. Et licet ascendendo et descendendo sub determinatione determinabile non pro tot accipitur in ascendenti et descendenti, sicut in descensa et ascensa nihil impedimenti est, pro tot accipitur in omnibus singularibus iunctis.
+Ponendo constantiam, quam ob breviloquium crebrius suppono.
 
-Dictum est distributione stipata si non fuerit distributio ut "Hominis asinus currit" a termino 'asinus' sicut a termino 'hominis' exordiri potes.
+Prius sub determinatione descendendum est, postea sub determinabili descendes. Et licet ascendendo et descendendo, sub determinatione determinabile, non pro tot accipitur in ascendenti et descendenti, sicut in descensa et ascensa, nihil impedimenti est pro tot accipitur in omnibus singularibus iunctis.
+
+Dictum est distributione stipata si non fuerit distributio, ut "Hominis asinus currit" a termino 'asinus' sicut a termino 'hominis', exordiri potes.
 
 #### Arguitur
 

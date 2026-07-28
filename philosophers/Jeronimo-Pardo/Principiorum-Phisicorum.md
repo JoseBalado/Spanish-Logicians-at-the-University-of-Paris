@@ -210,7 +210,25 @@ Tertia quaestio: Utrum homo dicatur generari vel creari.
 
 Respondeo per talem propositionem de mente Occam: "Nullum compositum ex materia et forma dicitur creari, sed omne tale dicitur generari et ab ipso Deo". Et ratio est /11a/ quia semper producens praesupponit materiam tamquam partem.
 
-Quarta quaestio: Utrum...
+Quarta quaestio: Utrum omnis generatio sit mutatio.
+
+Dico quod sic.
+
+Contra: Et pro argumento pono casum quod Deus in isto instanti creet unam materiam primam, et in eodem instanti, ignis producat formam in illa materia, quo facto sic arguo: ibi est generatio et tamen non est mutatio; ergo male dicitur.
+
+Pro solutione est notandum quod secundum communem modum loquendi non diceretur quod ibi est generatio, et ratio est quia ibi non est mutatio, quia illa materia non mutatur, quia prius non erat, et ideo apud philosophos non diceretur ibi generatio quia oportet quod materia praeexistet.
+
+Dico tamen quod possumus dicere quod est generatio, pro quo nota quod generatio est duplex, quaedam cum mutatione materiae, alia sine mutatione materiae. Hoc supposito dico quod praedicta est generatio sine mutatione materiae. Resolutio tamen est apud philosophos quod numquam vocatur generatio quando et sit ibi mutatio. Sed et proportionaliter sicut dictum est degeneratione dicatur et de corruptione.
+
+Ex istis sequitur quod res naturalis, ut est res naturalis, indiget duabus mutationibus, scilicet generationis ut producatur, vel secundum formam vel secundum totum compositum, et corruptionis ad hoc quod corrumpatur. Unde res naturalis dupliciter corrumpitur: uno corrumpitur per corruptionem formae, alio corrumpitur per separationem formae a materia, ut homo corrumpitur isto modo, scilicet per hoc quod anima desinit informare corpus, licet de hoc sit problema, /11b/ nam illi qui dicunt quod homo non est aliud quam corpus et anima, dicerent quod homo non proprie corrumpitur.
+
+Notandum est quod duplex est terminus in generatione, scilicet terminus a quo et terminus ad quem. Terminus a quo in homine est non esse compositum, et terminus ad quem est esse compositi, et generaliter terminus ad quem est res quae generatur, sive sit forma sive sit compositum.
+
+Similiter in corruptione sunt duo termini, scilicet a quo et ad quem. Unde terminus a quo est esse rei quae corrumpitur, sed terminus ad quem est non esse illius rei. Et adverte quod generalis regula est talis, scilicet quod in omni productione sive sit generatio sive sit creatio, et in omni destructione sive sit corruptio sive sit annihilatio, oportet dare terminum a quo et terminum ad quem. Immo etiam in transmutatione panis in corpus Christi est terminus a quo et terminus ad quem, quia panis est terminus a quo et corpus Christi est terminus ad quem.
+
+Sequitur de augmentatione, unde augmentatio est mutatio per quam acquiritur quantitas. Sed diminutio est mutatio per quam deperditur quantitas.
+
+Alteratio est duplex: quaedam est acquisitiva et quaedam deperditiva. Acquisitiva est mutatio per quam acquiritur qualitas, sed diminutio est mutatio per quam deperditur qualitas. Sed loci mutatio est duplex, scilicet acquisitiva et deperditiva. Acquisitiva est mutatio qua res naturalis acquirit sibi /12a/ locum sive ubi. Sed deperditiva est mutatio qua res naturalis deperdit locum sive ubi. 
 
 <!--
 ## Apparatus Criticus Reference

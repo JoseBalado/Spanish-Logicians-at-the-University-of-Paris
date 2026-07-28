@@ -1308,7 +1308,7 @@ Ignis de se est indifferens ad productionem huius vel illius caloris; ergo quod 
 Sed consequens est falsum; ergo et fundamentum. Minor patet, quia sic propositio
 illa esset falsa postquam subiectum non supponit, sed probatur sequela. Ille terminus futurus /19.2a/ non producitur ab illo termino Antichristus; ergo sequitur quod non ampliat illum terminum Antichristus. Antecedens patet, quia intellectus potest habere notitiam omnium entium futurorum, videlicet notitiam cui ly 'futurum' subordinatur sine hoc quod habeat notitiam distinctam Antichristi.
 
-# De ampliatione participiorum
+# De ampliatione participiorum et distinctione specifica actuum syncategorematicorum
 
 ### Si fortassis responderes negando sequelam et ad probationem negares antecedens:
 
@@ -1349,7 +1349,136 @@ Et virtutem habet ampliandi suum substantivum, et non aliquem alium, qui non dep
 
 ## Contra has duas solutiones arguitur sic:
 
-Bene sequitur: Ly 'futurum' solum ampliat suum substantivum; ergo non ampliat tempus importatum per copulam, sed hoc est falsum; ergo et antecedens. Consequentia /20.1a/ nota est, sed patet falsitas consequentis, quoniam se---
+Bene sequitur: Ly 'futurum' solum ampliat suum substantivum; ergo non ampliat tempus importatum per copulam, sed hoc est falsum; ergo et antecedens. Consequentia /20.1a/ nota est, sed patet falsitas consequentis, quoniam sequitur illam propositionem esse falsam, quod sic patet, bene sequitur "Antichristus est futurus; ergo Antichristus in tempore praesenti quod est futurus", consequens est manifeste falsum, quia subiectum non supponit; ergo propositum.
+
+## Ad hoc non potest dici quod illa copula 'est' ampliatur a ly 'futurum':
+
+Quia si sic esset idem esset causa sui ipsius, quoniam ly 'futurum' ab illa copula 'est' produceretur, postquam in ipsam agit, et illa copula 'est' produceretur a ly 'futurum', postquam determinat et unit ly 'futurum'. Quare idem erit causa suae causae. Ex quo facile patet idem esse causam sui ipsius, quare ad argumentum.
+
+## Respondeo concedendo solum substantivum de ly 'futurum' ampliari:
+
+Nec propterea sequitur illam propositionem "Antichristus est futurum" esse falsam, et quando probatur illam esse falsam nego quod hoc consequens sit falsum "Antichristus in tempore praesenti quod est est futurus". Immo illa vera est manifeste, quoniam hoc praedicatum in hoc tempore praesenti competit subiecto. Ita est enim in hoc tempore quod Antichristus est futurus, et quod hoc sit verum patet, quia in hac propositione "Adam est mortuus" tempus importatum per illam copulam 'est' non ampliatur. Non enim sensus eius est Adam in instanti praeterito est mortuus, quoniam illa falsa est.
+
+Similimodo nec sensus huius "Antichristus est futurus" est iste: "Antichristus in tempore futuro est futurus", quia illa falsa est. Sed sensus eius est iste: "Antichristus in tempore praesenti est futurus", in qua illa determinatio in tempore praesenti sola est determinatio copulae, aut si velis postquam est terminus syncategorematicus, quod a parte alicuius extremi applicetur erit pars praedicati. Et sic patet de duobus modis respondendi ad argumentum et quomodo in hac propositione "Antichristus est futurus tempus" importatum per copulam, non ampliatur. Si enim ampliaretur praedicatum, non staret pro illo quod est futurum, sed pro illo quod est vel erit futurum. Ex his patet hunc terminum 'futurus' categorematice significare, nam omnia entia futura significat
+et aliqualiter etiam seu syncategorematice, nam exercet officium supra aliquem terminum
+ipsum ampliando.
+
+## Ad confirmationem respondeo negando sequelam et ad probationem nego primam consequentiam.
+
+Regula enim illa posita intelligitur de /20.1b/ eam immediata, ita quod sic intelligenda est: "Omne syncategorema agit in terminos a quibus immediate producitur". Et non oportet
+quod agat in illos a quibus mediate producitur, ut capta hac propositione "Homo non
+est animal" negatio illa immediate producitur a copula et a praedicato, quare copulam negat et praedicatum distribuit. Sed ille terminus 'homo' non immediate concurrit ad productionem illius copulae, sed solum mediate, quia est causa copulae, et si quaeras quare est quod copula et praedicatum concurrunt ad productionem illius negationis et non subiectum, responsum est iam ad hoc in quodam argumento, et dictum est hoc posse provenire vel ex imperio voluntatis vel ab extrinseco, vel ex voluntate vel aliis multis causis quae determinant intellectum. Similimodo respondendum est ad tertium.
+
+## Pro discussione dubii arguitur eandem opinionem et eius fundamenta:
+
+Sequeretur quod in hac mentali "Homo est animal", nullum esset subiectum nec praedicatum. Consequens est falsum; ergo et antecedens. Sequela probatur cum non est maior ratio quod ly 'homo' sit subiectum quam ly 'animal'; ergo neutrum erit subiectum aut utrumque erit, quod est falsum.
+
+Simile argumentum poteris efficere de hac propositione "Omnis albedo est qualitas" ad probandum illam esse veram aut falsam. Illa namque primo vera est, et falsitas eius probari potest, quoniam ille terminus 'qualitas' distribuitur; ergo illa propositio est falsa.
+
+Antecedens patet, quia postquam illud signum 'omnis' a notitia qualitatum, et notitia albedinum producatur non est maior ratio, quare distribuatur notitia albedinum quam notitia qualitatum; ergo distribuit notitiam qualitatum.
+
+## Pro disputatione decimiquarti dubii arguitur sic:
+
+Ex dictis sequeretur has duas vocales "Omnis homo est homo", et "Omnis homo est omnis homo" eidem mentali subordinari. Consequens est falsum et opinio sequela probatur, quia ista propositio mentalis "Omnis homo omnis homo est" haec eadem "omnis homo est homo", quia illa duo signa sunt eiusdem speciei synonyma; ergo se intendent et facient una in qualitatem, et per consequens huic aequivalebit "Omnis homo est homo". Antecedens patet, illa syncategoremata producuntur ab eadem potentia et producuntur /20.2a/ ab eisdem obiectis; ergo sunt eiusdem spe---
+
+--- I am here
+
+tiei, non enim videtur penes quid aliud
+attendituit identitas ipecifica syncategorematica. Et probetur consequentia per
+dictum illud conimune Aristot. Omnes
+qualitates solum numero differentes, et
+eisdem subiectis adaequate inherentes se
+intenduntur.
+## Ad argumentum respondere ex
+fundamentis positis est. dieendum nanqm
+est in hac propositione mentali homo est
+animal, ly 'homo' esse iubiectum, et non ly
+animal er natura actus. Est enim talis
+naturae illa copula est in illa propositione
+ut per totam propositionem denotetur anni
+mal convenire huiusmodi, et non hominem
+animali, et talis naturae est in hac propositione animal est homo, ut ratione eitis de
+notetur hominem convenire anim ali, et
+non animal homini. Similimodo dices in
+hac propositiotie omnis albedo est quali
+tas, illud signum omnis talis esse naturae
+ut illum terminum albedo distribuere pos
+sit, et illum terminum qualitas confunde
+te, et non opposito modo sic quod actus, qui
+semel distribuit istrim terminum albedo
+et confundit illum terminum qualitas non
+potest illum termintim distribuere.
+## Si autem inquiratur quare est quod illi
+tres termini albedo est qualitas, produxerunt unum actum distribuentem illum ter
+minum albedo, et non illum terminum qualitas.
+## Ad hoc responsum est quod ex natura actus
+atqm ex fundamento solutio clara est. Sed
+ideo hic apposuimus, ut nonnullorum solutiones audiamus. Dicunt enim aliqui
+in quacunqm propositione, illum terminum
+qui prius concipitur, esse subiectum, et ter
+minum qui posterius producitur, esse prae
+dicatum. Sed hec solutio non euacuat dif
+ficultatem, quoniam si tam ly 'homo' quam ly
+animal aeque cito prodacatur, redit e
+diffictiltas quod si non admittas illos duos
+terminos, aeque cito ab intellectu produci,
+tapiam proponnes in angelis, qui in instanti
+cognoscunt plura, in quibus redit eadem
+difficultas, aut quanvis fuccessine producantur redit difficultas si ponamus aeque
+tito illos terminos prodtici.
+## Alii dixissent id ex acceptione intellectus
+provenire capientes illum terminum hono pro subiecto, et illum terminum animal
+
+### /20.2b/
+
+l actun syncategorema. Fo. xix.
+pro praedicato. Sed hec solutino minime valet, nisi glossetur taliter, ut ad nostram re
+deat, quia dictum est in fundamentis noa
+esse in potestate intellectus nunc unum
+terminum accipere pro subiecto, et nunen
+alium, quia est illo sequeretur proposstio
+nem veram esse falsam, quod facile dedta
+ces ibi ex dictis.
+## Propterea prius natura est notitias et
+actua esse in mente, quam intellectum sic velle
+concipere, ergo quod intellectus intelligat ta
+liter vel taliter, hoc hmta notitiis et actibus
+et non a se, quare non ex eo quod accipit illum
+terminum hamo pro subiecto, ille termia
+nus hon erit sbm, sed ex natura copulae.
+## Alii vero dicunt solutionem primam ream
+fellentes in hac propositione homo est anin
+mal, illum terminum homo esse subiectum
+et illum terminum antmal praedicatum,
+quia illa propon mentalis correspondet uni
+vocalt, in qua ly 'homo' est subiectum, et ly
+animal praedicatum. Sed isti significatio
+nem rerminnorum mentalium per voces et
+scriptitras cognosci volunt, quod. nequaquam
+fieri potest, quoniam quod in propositione vo
+cali ly 'homo' sit suibiectum, habet hoc ex
+proponne mentali sibi correspondenti.
+## Preteres: sic argumentor capta prims
+propositione mentali, quam anima formanit non mediantibus vocibus, neque scripturis. sit gratia exempli hec hon est animal. Peto quare ly 'homo' est subiectum
+et non ly 'animal'. Et non poterit dicere quod
+ly 'homo' est subiectum, quia illi correspon
+det vocalis, in qua ly 'homo' sit subiectum,
+sed quia potest respondere uni vocali. Et
+tunc quaero, quare illa propositio menta
+lis potest respondere huic homo est ainalm
+et non huic animal est homo, et non pote
+rit dicere, nisi quia signineat spnonime cum
+hac hon est ainal, et si quaeratur quare signifi
+cat synonime cum hac, et non cum alia, noni
+poterit alind dicere, nisi quod est natura talis propositionis, que taliter naturaliter
+singnificat ex natura terminorum, et sic ne
+cessario veniendum est ad primam solutionem.
+## In confirmatione tangitur bona difficuiltas: quod videlicet requiratur ad hoc quod
+actus sincatheg. sint eiusdem speciei omit
+tendo que ab aliis dicuntur, que omnia fere
+sunt falsa. Dico ad identitatem specifincam
+actuum syncategoremata. requiri, et fufficere quod
+E ii
 
 <!--
 ## Apparatus Criticus Reference

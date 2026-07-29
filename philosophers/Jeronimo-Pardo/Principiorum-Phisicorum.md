@@ -228,7 +228,34 @@ Similiter in corruptione sunt duo termini, scilicet a quo et ad quem. Unde termi
 
 Sequitur de augmentatione, unde augmentatio est mutatio per quam acquiritur quantitas. Sed diminutio est mutatio per quam deperditur quantitas.
 
-Alteratio est duplex: quaedam est acquisitiva et quaedam deperditiva. Acquisitiva est mutatio per quam acquiritur qualitas, sed diminutio est mutatio per quam deperditur qualitas. Sed loci mutatio est duplex, scilicet acquisitiva et deperditiva. Acquisitiva est mutatio qua res naturalis acquirit sibi /12a/ locum sive ubi. Sed deperditiva est mutatio qua res naturalis deperdit locum sive ubi. 
+Alteratio est duplex: quaedam est acquisitiva et quaedam deperditiva. Acquisitiva est mutatio per quam acquiritur qualitas, sed diminutio est mutatio per quam deperditur qualitas. Sed loci mutatio est duplex, scilicet acquisitiva et deperditiva. Acquisitiva est mutatio qua res naturalis acquirit sibi /12a/ locum sive ubi. Sed deperditiva est mutatio qua res naturalis deperdit locum sive ubi. Notandum quod in generatione sive mutatione naturali, de qua loquitur Philosophus, debet esse subiectum commune sub utroque termino transmutationis quia in generatione est materia prima. Nam eadem materia in numero quae prius fuit sub privatione formae postea est sub forma quae generatur. Sed in augmentatione subiectum commune est totum compositum secundum doctrinam Scoti, et ratio est quia, secundum Scotum, quantitas non recipitur in materia prima, sed in composito, ut dictum est, et ponitur talis regula:
+> Tam in augmentatione quam in diminutione et alteratione et loci mutatione subiectum commune est res naturalis sive totum compositum.
+
+Ex quo sequitur quod bene dicit Aristoteles, Primo de Generatione, quod differentia est inter generationem et corruptionem et alias mutationes, quia subiectum in generatione et corruptione est ens in potentia, puta materia prima, sed subiectum in aliis mutationibus quatuor est hoc aliquid, id est, res naturalis. Et ideo habemus quod istae quatuor sunt rei naturalis et illa requirit duas mutationes, scilicet generationem et corruptionem.
+
+Secundo: Res naturalis habet quantitatem per augmentationem.
+
+Tertio: Habet qualitatem per alterationem.
+
+Quarto: Habet locum per loci mutationem.
+
+## Nunc restat ostendere quot sunt species motus
+
+Unde dicit Aristoteles, Quinto Physicorum, quod "ad tria praedicamenta est motus per se, scilicet ad quantitatem et /12b/ qualitatem et ubi", vult dicere quod "ad quantitatem est motus", id est quantitas acquiritur per motum, id est successive, et pars post partem. Qualitas et successive acquiritur per motum, id est acquiritur pars post partem, et hoc vult dicere Aristoteles "Ad quantitatem est motus, et ad ubi est motus", id est motus sive ubi successive acquiritur.
+
+## Circa praedicta quaero aliquas quaestiones
+
+Prima est utrum sit de intentione Aristotelis quod quaelibet quantitas acquiratur per motum necessario, et quaelibet qualitas et quodlibet ubi.
+
+Dico non vult habere hoc, sed vult habere quod quantitas potest successive acquiri, et qualitas et ubi.
+
+Secunda quaestio: Utrum concederet Aristoteles quod forma substantialis posset acquiri per motum.
+
+Dico quod dubium est, et hoc videbitur in materia de intensione formarum. Dico tamen quod si acquiratur successive ad eam, scilicet substantialem, est vere motus.
+
+### Notandum ulterius quod mutatio consideratur ex parte formae quae per ipsam acquiritur, et tunc dicunt philosophi quod est triplex, scilicet naturalis et violenta et neutralis:
+
+Unde mutatio naturalis, illa quae est conveniens rei naturali. Exemplum ut si aqua deperdat caliditatem, illa deperditio est sibi conveniens, ideo est naturalis. Sed mutatio violenta est illa quae est disconveniens rei naturali. Exemplum ut si aqua fiat calida, illa mutatio est disconveniens quia inclinatur ad oppositum. Sed mutatio neutralis est seu indifferens, et illa /13a/ quae non est disconveniens magis quam conveniens, et aliquae
 
 <!--
 ## Apparatus Criticus Reference

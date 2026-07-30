@@ -255,7 +255,43 @@ Dico quod dubium est, et hoc videbitur in materia de intensione formarum. Dico t
 
 ### Notandum ulterius quod mutatio consideratur ex parte formae quae per ipsam acquiritur, et tunc dicunt philosophi quod est triplex, scilicet naturalis et violenta et neutralis:
 
-Unde mutatio naturalis, illa quae est conveniens rei naturali. Exemplum ut si aqua deperdat caliditatem, illa deperditio est sibi conveniens, ideo est naturalis. Sed mutatio violenta est illa quae est disconveniens rei naturali. Exemplum ut si aqua fiat calida, illa mutatio est disconveniens quia inclinatur ad oppositum. Sed mutatio neutralis est seu indifferens, et illa /13a/ quae non est disconveniens magis quam conveniens, et aliquae
+Unde mutatio naturalis, illa quae est conveniens rei naturali. Exemplum ut si aqua deperdat caliditatem, illa deperditio est sibi conveniens, ideo est naturalis. Sed mutatio violenta est illa quae est disconveniens rei naturali. Exemplum ut si aqua fiat calida, illa mutatio est disconveniens quia inclinatur ad oppositum. Sed mutatio neutralis est seu indifferens, et illa /13a/ quae non est disconveniens magis quam conveniens. Et aliquae species mutationum possunt dividi, ut motuum localium: alius naturalis, alius violenti, alius neutralis.
+
+Similiter de alteratione, et quia de hoc est difficultas, videndum est per ordinem de istis motibus. Unde motus naturalis localis rei est motus per quem res naturalis tendit ad suum bonum locum, et sibi convenientem et naturalem, quantum potest. Unde locus naturalis ei est in quo res naturalis nata est conservari, de quo ponitur talis propositio:
+
+> Omnis motus localis naturalis velocior est in fine quam in principio.
+
+Ut si lapis descendat deorsum, quanto magis descendit ad suum locum, tanto velocius movetur.
+
+Secunda regula de motu naturali:
+
+> Quando aliquid movetur naturaliter ad aliquam formam quam habet, in illa quiescit.
+
+Et ista regula potest intelligi de omni motu. Sed motus violentus localis est ille per quem mobile movetur ad suum locum violentum, ut si lapis ascendat sursum, de quo ponitur talis propositio:
+
+> Omnis motus localis violentus tardior est in fine quam in principio, nisi velocitetur per aliquod extrinsecum.
+
+> Sed motus localis neutralis est ille per quem res movetur ad quem non magis inclinatur quam ad alium.
+
+Sed quaeritur talis propositio, videlicet quae corpora moventur naturaliter et quae violenter et quae neutraliter.
+
+Distinguo quia vel illud quod movetur est animatum vel inanimatum. Si inanimatum distinguo aut /13b/ illud corpus est grave aut leve. Si sit grave, movetur naturaliter deorsum et violenter sursum. Sed si sit leve, naturaliter ascendit et violenter descendit. Aut tale corpus nec est grave nec leve, sicut Caeli, et sic ponitur talis propositio:
+
+> Caelum non movetur naturaliter nec violenter sed neutraliter. Quia caelum non magis inclinatur ad motum sursum quam ad motum deorsum.
+
+Sed diceret aliquis quod Caelum movetur naturaliter circulariter, quia motus circularis est sibi naturalis. Contra quos talia dicentes arguitur sic, et ponitur talis propositio:
+
+> Impossibile est quod aliquis motus circularis sit naturalis.
+
+Probatur quia numquam daretur qui deberet quiescere, quia omnis motus naturalis est propter quietem naturalem. Sed sic est quod illud quod movetur naturaliter circulariter movetur propter quietem naturalem; ergo patet, quia numquam daretur, ut dictum est, quando deberet quiescere, ex quo sequitur unum corollarium quod necesse est dicere quod Caeli moventur primo a Deo vel ab aliquo angelo. Aut illud corpus est animatum, et tunc distinguo quia vel est animatum anima vegetativa, et sic distinguo quod si sit grave, descendet naturaliter. Aut illud est animatum anima sensitiva vel intellectiva, et tunc distinguo, quia dupliciter potest considerari:
+
+- Uno modo, in quantum est animal, est motus naturalis suus progressivus.
+
+- Alio modo consideratur aliquod animatum secundum naturam elementi, quod in eo praedominatur, et tunc dico quod generaliter animalia moventur secundum naturam elementi praedominantis, movetur naturaliter.
+
+Et si dicat aliquis quomodo /14a/ cognosceretur quod animalia moventur secundum quod sunt animalia, aut secundum naturam elementi praedominantis.
+
+Respondetur quod generaliter animal potest impedire motum quem facit, convenit aliter ut animal est, sed generaliter non potest impedire talem motum, tunc signum est quod non est anima hominis ut animal est. Sed est secundum naturam elementi praedominantis et caetera.
 
 <!--
 ## Apparatus Criticus Reference

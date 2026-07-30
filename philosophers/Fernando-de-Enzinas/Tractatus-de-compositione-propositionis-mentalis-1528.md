@@ -443,12 +443,12 @@ Maior probata est. Minor probatur: quia vere repraesentat assensus, tunc ultra a
 Propter argumentum tenet Hieronymus Hangest, tenens opinionem communem. Non esse nobis, pro isto statu caliginoso, manifestum intellectum non formare unam simplicem qualitatem repraesentantem hominem-esse-animal, et ideo asserit intellectum, post formationem huius propositionis "Homo est animal" compositae, posse formare unam simplicem qualitatem apprehensivam significantem hominem-esse-animal, quae quidem qualitas non est eadem cum notitia hominum, nec cum illa copula 'est', nec cum notitia animalium. Et dicit quod illa qualitas dependet in esse, conservari a propositioni mentali composite, et solum ratio huius doctoris est, quia significanda est natura quantum potest.
 
 <!-- Important text here -->
-Sed videre meo, qualitas illa ultima propositionalis superflua est, nec ab intellectu producibilis, post alius productionem, qui intellectus, postquam intelligit hominem-esse-animal, non intelligit amplius quam antea intelligebat, nec aliqualiter qualiter antea non intelligebat per adventum illius novae notitie; ergo illa notitia non producitur ab intellectu. Antecedens manifestum est, et consequentia probatur per hoc qui intellectus nunquam occurrit ad productionem alicuius notitie, nisi mediante ea aliquid vel aliqualiter intelligat, quod vel qualiter antea non intelligebat. Sed intellectus quaecumque quae antea intelligebat et qualitercumque nunc intelligit; ergo intellectus non concurrit ad productionem illius novae notitiae. /9.1b/
+Sed videre meo, qualitas illa ultima propositionalis superflua est, nec ab intellectu producibilis, post alius productionem, qui intellectus, postquam intelligit hominem-esse-animal, non intelligit amplius quam antea intelligebat, nec aliqualiter qualiter antea non intelligebat per adventum illius novae notitiae; ergo illa notitia non producitur ab intellectu. Antecedens manifestum est, et consequentia probatur per hoc qui intellectus nunquam occurrit ad productionem alicuius notitiae, nisi mediante ea aliquid vel aliqualiter intelligat, quod vel qualiter antea non intelligebat. Sed intellectus quaecumque quae antea intelligebat et qualitercumque nunc intelligit; ergo intellectus non concurrit ad productionem illius novae notitiae. /9.1b/
 
 <!-- Important text here -->
 ### Forte responderet quod intellectus aliqualiter intelligit hominem-esse-animal qualiter antea non intelligebat quia incomplexe,
 
-et ideo non inconveniens est quod intellectus non perfectius rem intelligat quam antea, nec aliquo alio modo quam antea concurrat, aliquando, ad productionem notitie diversae idem et eodem modo significantis. Sed hoc est falsum quia tunc sequitur quod habita una notitia incomplexa et absoluta rei, intellectus cum eadem advertentia deberet producere complexam connotativam et synonymam notitiam illi, quia quamvis intellectus cognoscat illam rem, tamen non concurrit ad hoc per novam notitiam, ut cognoscat, et iterum habita illa notitia, deberet concurrere ad habendum unam aliam nouam notitiam.
+et ideo non inconveniens est quod intellectus non perfectius rem intelligat quam antea, nec aliquo alio modo quam antea concurrat, aliquando, ad productionem notitiae diversae idem et eodem modo significantis. Sed hoc est falsum quia tunc sequitur quod habita una notitia incomplexa et absoluta rei, intellectus cum eadem advertentia deberet producere complexam connotativam et synonymam notitiam illi, quia quamvis intellectus cognoscat illam rem, tamen non concurrit ad hoc per novam notitiam, ut cognoscat, et iterum habita illa notitia, deberet concurrere ad habendum unam aliam nouam notitiam.
 
 ### Praeterea quaero, post huius propositionis mentalis compositae "Homo est animal" productionem, qualiter intellectus se habet ad productionem illius qualitatis simplicis.
 
@@ -474,7 +474,7 @@ et quando ultra arguitur nego minorem. Maior enim ratio est de dissensu quam de 
 
 Sed aliqualiter multe possunt difficultates adduci, ut tamen omnia disiunctis videantur eo ordine quo eas tractabimus. Monebo per dubia omnia quae inter arguendos discutiemus, ut facilius et inveniantur, et memoriae commendent.
 
-### Difficultas prima ergo erit: Utrum actu syncategorematici dicantur immutare intellectum et esse notitie et utrum habeant obiecta.
+### Difficultas prima ergo erit: Utrum actu syncategorematici dicantur immutare intellectum et esse notitiae et utrum habeant obiecta.
 
 Ibique fortiores rationes quas Hieronymus Pardo contra hanc opinionem adducit, soluam. Secundum dubium et quid sit significare aliqualiter.
 
@@ -532,7 +532,7 @@ Circa quod difficultatem communem inquiram: Utrum istae "Omnis homo est homo" et
 
 ### Septimo et vicesimo: De conceptibus non-ultimatis syncategorematicum, et quomodo voces et quodque per voces significatum est repraesentent, et an subiectum huius "'Homo est animal' est propositio" sit complexum.
 
-### Octavo et vicesimo: Utrum aliquis terminus, in mente, ultimata materialiter supponere potest. Et cui hec particula 'ly' subordinatur.
+### Octavo et vicesimo: Utrum aliquis terminus, in mente, ultimata materialiter supponere potest. Et cui haec particula 'ly' subordinatur.
 
 ### Et ultimo inquiretur quomodo recordemur significationis syncategoremata vocalia producant habitus aut species.
 
@@ -556,7 +556,7 @@ Si enim per vitaliter immutare intelligas quod in argumento dictum est, oportet 
 
 Similis conclusio est, quae tamen in nomine consistit, utrum actus syncategorematici sint vocandi notitiae vel utrum habeant obiecta.
 
-Si enim ad hoc quod aliquis terminus mentalis sit notitia requiritur esse qualitatem aliquid vel aliqualiter intellectui dantem intelligere, tunc nullus terminus syncategorematicus dicitur notitia. Si vero ad hoc quod dicatur notitia sufficit esse terminum aliqualiter repraesentantem, tunc actus syncategorematici dicuntur esse notitie. Ac simili modo dices de obiecto.
+Si enim ad hoc quod aliquis terminus mentalis sit notitia requiritur esse qualitatem aliquid vel aliqualiter intellectui dantem intelligere, tunc nullus terminus syncategorematicus dicitur notitia. Si vero ad hoc quod dicatur notitia sufficit esse terminum aliqualiter repraesentantem, tunc actus syncategorematici dicuntur esse notitiae. Ac simili modo dices de obiecto.
 
 Si enim obiectum vocetur res, quae significatur per notitiam eodem modo, actus syncategorematici non habent obiecta. Si autem vocaveris res obiectum rem concurrentem ad productionem notitiae, eodem modo actuum termini categorematici, quos actus determinant, dicentur obiecta, quamvis nonnulli vocauerunt rem significatam per notitiam quam determinat obiectum, non quia per syncategorema significetur, sed quia syncategorema immutat intellectum ad intelligendum aliter res significatas quam prius. Sed haec quaestio est de nomine, vocabimus tamen deinceps terminos obiecta actus, ut cum communioribus conveniamus.
 
@@ -828,7 +828,7 @@ Et tunc quando quaeris utrum ne importet hoc instans praesens vel quodlibet.
 
 ### Respondeo quod quodlibet pro improbationis declaratione notandum est quod copula de praesenti unit solum pro instanti in quo ipsa est unione actuali:
 
-Sed pro quolibet unit unione potentiali sicut ly 'homo' supponit tantum pro homine actu existente in hac "Homo est animal". Sed suppositione potentiali pro quolibet homine qui possibiliter supponit et ly 'fuit', omne instans praeteritum actualiter importat, et pro quolibet tali unit. Sed unione potentiali pro quolibet unit et sic tam copula praesentis quam praeteriri importat omne instans. Sed in hoc differt quod una ab alia haec per modum praeteritionis significat /13.2b/ 'hoc est', connotat quodlibet instans per modum praeteritionis, et illa connotat quodlibet instans per modum praesentialitatis (capio ly 'connotare' improprie), et ex hoc patet copulas illas non esse synonymas de significatione essentiali, ut quidam dicit, quia non significant eodem modo, postquam aliqualiter una dat intelligere ultra suum principale aliqualiter significare qualiter alia non dat intelligere. Si enim solus differrent penes modum significandi accidentalem viderentur eidem subordinari, quod est impossibile. Et pro hec patet ad formam argumentum.
+Sed pro quolibet unit unione potentiali sicut ly 'homo' supponit tantum pro homine actu existente in hac "Homo est animal". Sed suppositione potentiali pro quolibet homine qui possibiliter supponit et ly 'fuit', omne instans praeteritum actualiter importat, et pro quolibet tali unit. Sed unione potentiali pro quolibet unit et sic tam copula praesentis quam praeteriri importat omne instans. Sed in hoc differt quod una ab alia haec per modum praeteritionis significat /13.2b/ 'hoc est', connotat quodlibet instans per modum praeteritionis, et illa connotat quodlibet instans per modum praesentialitatis (capio ly 'connotare' improprie), et ex hoc patet copulas illas non esse synonymas de significatione essentiali, ut quidam dicit, quia non significant eodem modo, postquam aliqualiter una dat intelligere ultra suum principale aliqualiter significare qualiter alia non dat intelligere. Si enim solus differrent penes modum significandi accidentalem viderentur eidem subordinari, quod est impossibile. Et per haec patet ad formam argumentum.
 
 ## Sed pro solutione serti dubii:
 
@@ -848,7 +848,7 @@ Sequela probatur, quoniam postquam per te a nullo termino dependet in conservari
 
 Sed falsitas propositionis probatur primo per Aristotelem dicentem /14.1a/ ly 'est' si puerum dixeris nihil significat, sed significat quandam compositionem quam, sine extremis, non est intelligere, per quod Aristoteles nihil aliud voluit habere nisi quod ly 'est', solitarie positam, nullam habet significationem. Praeterea sequitur eandem propositionem esse veram et falsam. Consequens est falsum loquendo de mentali ultimata; ergo et antecedens. Sequela probatur quoniam ista copula 'erit' existente sola in anima.
 
-Potest primo unire ly 'animal' cum ly 'album', ita quod resultet haec propositio "Animal erit album". Poterit etiam unire ly 'album' cum ly 'animal', sic quod resultet haec propositio "Album erit animal". Ponamus igitur quod animalia nunc ultimo sint alba, ita quod post hoc erunt alba, tunc arguitur sic: hec propositio "Album erit animal" est vera, et haec propositio "Album erit animal" est falsa; ergo propositum. Minorem probo: haec propositio "Animal erit album" est falsa, et haec propositio "Animal erit album" est haec propositio "Album erit animal"; ergo haec propositio "Album erit animal" est falsa. Consequentia est expositoria, et minorem probabis facile expositorie arguendo, postquam termini unius sunt termini alterius.
+Potest primo unire ly 'animal' cum ly 'album', ita quod resultet haec propositio "Animal erit album". Poterit etiam unire ly 'album' cum ly 'animal', sic quod resultet haec propositio "Album erit animal". Ponamus igitur quod animalia nunc ultimo sint alba, ita quod post hoc erunt alba, tunc arguitur sic: haec propositio "Album erit animal" est vera, et haec propositio "Album erit animal" est falsa; ergo propositum. Minorem probo: haec propositio "Animal erit album" est falsa, et haec propositio "Animal erit album" est haec propositio "Album erit animal"; ergo haec propositio "Album erit animal" est falsa. Consequentia est expositoria, et minorem probabis facile expositorie arguendo, postquam termini unius sunt termini alterius.
 
 # De parte propositionis an sit propositio, et de verbo adiectivo:
 
@@ -890,7 +890,7 @@ Sed hoc est contra dicta, nam dictum est iam partem hanc "homo est" quae pars es
 
 Quia hoc totum 'est currens', postquam includit hunc terminum 'ens', non significat aliud quam ens-esse-currens, sed hoc est propositionaliter repraesentare; ergo propositionaliter repraesentat, et per consequens est propositio. Quodcumque horum est absurdum et contra dicta.
 
-Praeterea omne complexum distans est propositio vel denominatum a propositione hypothetica, hoc totum 'est currens' non est denominatum ab aliqua propositione hypothetica, quia non est conditionatum nec rationatum nec copulatum, reliquum est; ergo ut non sit complexum distans, nec etiam illud aggregatum 'est currens', est terminus complexus complexione indistanti, quia tunc sequeretur quod se habebunt sicut determinatio et determinabile, et tunc copula esset determinatio praedicati, scilicet illius termini 'currens', quod est impossibile, quia eadem ratione copula esset determinatio subiecti, et sic hoc totum "Homo est" esset terminus complexus complexione indistanti, quod est falsum. Tum quia daretur propositio quae esset terminus complexus complexione indistanti, puta hec pars "Homo est". Similiter daretur propositio de est secundo adiacente in mente.
+Praeterea omne complexum distans est propositio vel denominatum a propositione hypothetica, hoc totum 'est currens' non est denominatum ab aliqua propositione hypothetica, quia non est conditionatum nec rationatum nec copulatum, reliquum est; ergo ut non sit complexum distans, nec etiam illud aggregatum 'est currens', est terminus complexus complexione indistanti, quia tunc sequeretur quod se habebunt sicut determinatio et determinabile, et tunc copula esset determinatio praedicati, scilicet illius termini 'currens', quod est impossibile, quia eadem ratione copula esset determinatio subiecti, et sic hoc totum "Homo est" esset terminus complexus complexione indistanti, quod est falsum. Tum quia daretur propositio quae esset terminus complexus complexione indistanti, puta haec pars "Homo est". Similiter daretur propositio de est secundo adiacente in mente.
 
 Sed quod haec pars "Homo est" sit propositio, hoc sic patet, quia cum sit unus terminus, necessarium est unicam habere significationem, et significatio erit necessario propositionalis. Relinquitur ergo verba adiectiva non subordinari termino complero.
 
@@ -1015,7 +1015,7 @@ Immo pro quocumque instanti temporis in quo illa notitia remittitur ad non gradu
 
 ### Quod probo esse impossibile. Nam ad actus syncategorematici productionem requiritur advertentia, et non videtur intellectum infinitas posse advertere, et infinities posse dimittere advertentiam:
 
-Quod autem ad cuiusque actus syncategorematici productionem requiratur advertentia, vel ex eo patet quod ex diversitate conatu tum diversi producuntur actus. Etiam si non requireretur advertentia, non posset causa reddi cur magis intellectus produceret unum actum syncategorematicum quam alium. Quicquid etiam intellectus producit, advertendo producit. /16.2a/
+Quod autem ad cuiusque actus syncategorematici productionem requiratur advertentia, vel ex eo patet quod ex diversitate conatu tum diversi producuntur actus. Etiam si non requireretur advertentia, non posset causa reddi cur magis intellectus produceret unum actum syncategorematicum quam alium. Quidquid etiam intellectus producit, advertendo producit. /16.2a/
 
 # De intensione et remissione actus syncategorematici
 
@@ -1291,7 +1291,7 @@ potest dari terminus complexus communis compositus ex terminis singularibus conv
 ### Ad confirmationem quae difficile est, et maxime contra illos qui tenent naturaliter intellectum producere terminum communem:
 
 Non alter credo respondendum fore nisi dicendo quod intellectus non potest producere
-terminum communem nisi per imperium voluntatis, et /19.1b/ quod vltra notitiam comparativam requirit adhuc ad formationem notitie communis imperium voluntatis.
+terminum communem nisi per imperium voluntatis, et /19.1b/ quod ultra notitiam comparativam requirit adhuc ad formationem notitiae communis imperium voluntatis.
 
 Possent circa haec multae questiones moueri de productione termini communis, sed sunt propositiones impertinentes.
 
@@ -1329,7 +1329,7 @@ animal" ille terminus 'homo' confunderetur ab isto signo immediate post hoc, sed
 hoc est falsum; ergo et fundamentum.
 
 Sequela patet, ille terminus immediate post hoc producitur ab illa notitia 'homo', igitur
-agit in illam, sed non potest agere nisi confundendo; ergo confundit illam. Antecedens patet, ly 'immediate' post hoc producitur ab illa copula 'erit', et illa copula 'erit' producitur ab illo termino 'homo'; ergo ly 'immediate' post hoc producitur ab illo termino 'homo'. Consequentia hec patet per istam maximam "Quidquid est causa causae, est causa causati.
+agit in illam, sed non potest agere nisi confundendo; ergo confundit illam. Antecedens patet, ly 'immediate' post hoc producitur ab illa copula 'erit', et illa copula 'erit' producitur ab illo termino 'homo'; ergo ly 'immediate' post hoc producitur ab illo termino 'homo'. Consequentia haec patet per istam maximam "Quidquid est causa causae, est causa causati.
 
 ### Simile argumentum poteris facere ad probandum quod in hac propositione "Rationale et nullus homo sunt animalia" ille terminus 'rationale' distribuatur ab illa negatione 'nullus':
 
@@ -1343,7 +1343,7 @@ Posset em aliquis dicere fundamentum illud debere intelligi de terminis syncateg
 
 Quia ly 'futurum' non ampliat, sed additur copulae unum signum syncategorematicum habens virtutem ampliandi subiectum ad illa quae sunt vel erunt, et restringendum praedicatum, ut videlicet stet pro illo quod est futurum.
 
-### Aliter etiam posset dici: et forte non minus apparenter ly 'futurus' in anima subordinari notitie omnium entium futurorum:
+### Aliter etiam posset dici: et forte non minus apparenter ly 'futurus' in anima subordinari notitiae omnium entium futurorum:
 
 Et virtutem habet ampliandi suum substantivum, et non aliquem alium, qui non dependet ab alio nisi a suo substantivo, et uni actui amplianti subiectum. Et si arguas de hac vocali "Antichristus est futurum", capiendo ly 'futurum' substantive, respondeo quod illa non subordinatur uni propositioni, in qua ly 'futurum' capiatur substantive, sed subordinabitur uni in qua ly 'futurum' capietur adiective, aut si velis aliter dicere, dicas hanc propositionem "Antichristus est futurum" capiendo ly 'futurum' substantive esse falsam.
 
@@ -1418,7 +1418,58 @@ sed quia potest respondere uni vocali. Et tunc quaero, quare illa propositio men
 
 ## In confirmatione tangitur bona difficultas: quod videlicet requiratur ad hoc quod actus syncategorematici sint eiusdem speciei:
 
-Omittendo quae ab aliis dicuntur, quae omnia fere sunt falsa. Dico ad identitatem specificam actuum syncategorematicorum requiri, et sufficere quod /21.1a/ syncategoremata sint synonyma. Idemque et eo----
+Omittendo quae ab aliis dicuntur, quae omnia fere sunt falsa. Dico ad identitatem specificam actuum syncategorematicorum requiri, et sufficere quod /21.1a/ syncategoremata sint synonyma. Idemque et eo idemque, et eodem modo adaequate denotantia supra terminos eiusdem speciei consimilia officia exercentibus, et a potentiis eiusdem speciei propter primum syncategoremata non synonyma, non sunt eiusdem speciei, sicut ly 'omnis', et nullus propter secundum copulae harum duarum "Homo est animal" et "Animal est homo" non sunt eiusdem speciei, nam altera 'animal' de homine enuntiat, et altera 'hominem' de animali.
+
+Propter tertium actu distributiui harum duarum "Omnis albedo est qualitas" et "Omnis qualitas est albedo", non sunt eiusdem speciei, nam non exercent supra notitias eiusdem speciei eadem officio.
+
+Propter ultimum etiam illa duo signa universalia non sunt eiusdem speciei, et propter idem iste duae negationes huius propositionis "Nonnullus homo est animal" non sunt eiusdem speciei, nam prima partialiter a secunda producitur, nam prima a toto hoc "Nullus homo est animal", et secunda ab hoc "Solum homo est animal". Et omnia haec addimus, quia
+nolumus tenere propositionum eiusdem rationis alteram posse esse veram sine altera. Ex quo patet facile ista duo syncategoremata universalia "Omnis homo est homo" et "Homo
+omnis homo est" non esse eiusdem speciei. Si enim essent, se intenderent, et eidem aequivalerent.
+
+Non enim sunt produci illi actus ab eisdem notitiis categorematicis, eadem officia
+habentibus producitur namque primus a notitia subiecti et copulae et notitia praedicati,
+et secundus producitur a notitia praedicati, et copulae.
+
+
+# Qualiter subiectum praedicato in propositione mentali distinguatur
+
+### Et si contra hoc arguas ad hoc quod aliquae notitiae categorematice sint eiusdem speciei:
+
+Sufficit quod producatur ab obiectis eiusdem speciei, et a potentiis eiusdem speciei;
+ergo ad hoc quod aliqui actus syncategorematici sint eiusdem speciei, sufficit quod producantur a terminis categorematicis eiusdem speciei, et a potentiis eiusdem speciei, quod est contra dictum.
+
+### Ad hanc replicam respondeo negando consequentiam, nec est simile de notitia categorematica et syncategorematica:
+
+Unde discrimen nobis constet non possumus aliunde scire, nec bene respondere aliter quam dicendo id fieri ex natura actuum syncategorematicorum et ex natura notitiarum. A posteriori autem cognoscimus non penes idem /21.1b/ debere attendi diversitatem specificam actuum et diversitatem specificam notitiarum, quia dato opposito sequitur eandem propositionem mentalem ultimatam esse veram et falsam, quod refugimus. Semper deduc sicut superius dubio sexto.
+
+### Et si contra haec arguatur: copulae harum duarum "Homo est animal" et "Animal est homo" sunt eiusdem speciei; ergo male dictum est.
+
+Antecedens probatur. Causae a quibus producuntur sunt eaedem numero; ergo effectus sunt ad
+minus eiusdem speciei. Antecedens probatur, nam causae sunt intellectus et notitia hominum
+et notitia animalium.
+
+### Ad hoc respondeo negando antecedens:
+
+Et ad probationem negatur consequentia, nam calor lumen differunt specie, et producuntur a Sole. Etiam intellectus, quando unum actum producit, non conatur eodem modo aut eodem
+modo se habet, sicut quando producit alium discrimen potest provenire ex parte voluntatis imperantis diversimode, aut ab extrinseco aut alia causa et caetera.
+
+## Nunc igitur respondetur ad formam argumenti negando istas aequivalere atque eidem subordinari: "Omnis homo est homo" et "Omnis homo omnis homo est":
+
+Et ratio est quia illi duo actus in ista "Omnis homo omnis homo est" non subordinantur uni et eidem actui, sed diversis in specie, causa assignata est.
+
+## Sed contra hanc solutionem arguitur:
+
+Illae duae propositiones subordinantur eidem; ergo male dictum est. Consequentia est nota et patet antecedens quoniam quaelibet illarum subordinatur uni propositioni in qua subiectum est notitia hominum et distribuitur, et in qua nullum praedicatum ponitur huic, videlicet "Omnis homo est"; ergo propositum. Antecedens probatur quoniam subiectum et praedicatum subordinatur notitiae hominum; ergo sequitur intentum.
+
+## Si forte respondeas subiectum subordinari notitiae hominum et praedicatum subordinari alteri notitiae hominum.
+
+## Contra hoc arguitur:
+
+Illae duae qualitates in anima sunt eiusdem speciei; ergo se intendunt et faciunt eandem qualitatem, et per consequens idem erit subiectum et praedicatum. Et sic propositiones propositae subordinabuntur eidem.
+
+## Aliae ad hoc argumentum fuerunt multae responsiones:
+
+Quidam enim negant omnes qualitates eiusdem speciei penetratine et unitive existentes eidem subiecto inhaerentes se intendere. /21.2a/ Sed hoc falsum est, quia aliquae qualita//
 
 <!--
 ## Apparatus Criticus Reference
@@ -1431,9 +1482,10 @@ Omittendo quae ab aliis dicuntur, quae omnia fere sunt falsa. Dico ad identitate
 * del.    (deletio)    : Printer repeated a word; deleted the extra one.
 
 ## Log
+Page 13.2b: per ] emend. pro
 Page 14.1a: purum ] emend. puerum
 Page 16.1a: signum ] emend. signā
 Page 16.2a: in ] conj. (textus laesus)
 Page 16.2b: intensionem ] emend. intentionem
-Page 20.2b: est ] emend. ex
+Page 20.2b: ex ] emend. est
 -->

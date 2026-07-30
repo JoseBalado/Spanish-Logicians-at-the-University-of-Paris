@@ -1813,7 +1813,7 @@ Item notandum syllogismum expositorium, eo in sola tertia figura apte constitui 
 
 #### Ad syllogismum expositorium omnes
 
-quattuor conditiones essentiales syllogismi de medio communi aeque requiruntur. Quare non sequitur "quicquid tu amas est virtus, quidquid tu odis est vitium; ergo vitium est virtus", quia medium, scilicet, 'tu' in neutra praemissarum est totale extremum. Ceterarum exempla instar syllogismi de medio communi inquirito.
+quattuor conditiones essentiales syllogismi de medio communi aeque requiruntur. Quare non sequitur "quidquid tu amas est virtus, quidquid tu odis est vitium; ergo vitium est virtus", quia medium, scilicet, 'tu' in neutra praemissarum est totale extremum. Ceterarum exempla instar syllogismi de medio communi inquirito.
 
 Item cum syllogismus expositorius possit ex terminis communibus pro extremitatibus confici, omni errore extrinseco quo syllogismus de medio communi, deficere potest, ut facile per omnes discurrens experiri potes.
 

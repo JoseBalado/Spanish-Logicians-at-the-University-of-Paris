@@ -1379,106 +1379,46 @@ Antecedens patet, quia postquam illud signum 'omnis' a notitia qualitatum, et no
 
 ## Pro disputatione decimiquarti dubii arguitur sic:
 
-Ex dictis sequeretur has duas vocales "Omnis homo est homo", et "Omnis homo est omnis homo" eidem mentali subordinari. Consequens est falsum et opinio sequela probatur, quia ista propositio mentalis "Omnis homo omnis homo est" haec eadem "omnis homo est homo", quia illa duo signa sunt eiusdem speciei synonyma; ergo se intendent et facient una in qualitatem, et per consequens huic aequivalebit "Omnis homo est homo". Antecedens patet, illa syncategoremata producuntur ab eadem potentia et producuntur /20.2a/ ab eisdem obiectis; ergo sunt eiusdem spe---
+Ex dictis sequeretur has duas vocales "Omnis homo est homo", et "Omnis homo est omnis homo" eidem mentali subordinari. Consequens est falsum et opinio sequela probatur, quia ista propositio mentalis "Omnis homo omnis homo est" haec eadem "omnis homo est homo", quia illa duo signa sunt eiusdem speciei synonyma; ergo se intendent et facient una in qualitatem, et per consequens huic aequivalebit "Omnis homo est homo". Antecedens patet, illa syncategoremata producuntur ab eadem potentia et producuntur /20.2a/ ab eisdem obiectis; ergo sunt eiusdem speciei, non enim videtur penes quid aliud attenditur identitas specifica syncategorematica. Et probetur consequentia per dictum illud commune Aristotelis: "omnes qualitates solum numero differentes, et eisdem subiectis adaequate inhaerentes se intendunt."
 
---- I am here
+## Ad argumentum respondere ex fundamentis positis est:
 
-tiei, non enim videtur penes quid aliud
-attendituit identitas ipecifica syncategorematica. Et probetur consequentia per
-dictum illud conimune Aristot. Omnes
-qualitates solum numero differentes, et
-eisdem subiectis adaequate inherentes se
-intenduntur.
-## Ad argumentum respondere ex
-fundamentis positis est. dieendum nanqm
-est in hac propositione mentali homo est
-animal, ly 'homo' esse iubiectum, et non ly
-animal er natura actus. Est enim talis
-naturae illa copula est in illa propositione
-ut per totam propositionem denotetur anni
-mal convenire huiusmodi, et non hominem
-animali, et talis naturae est in hac propositione animal est homo, ut ratione eitis de
-notetur hominem convenire anim ali, et
-non animal homini. Similimodo dices in
-hac propositiotie omnis albedo est quali
-tas, illud signum omnis talis esse naturae
-ut illum terminum albedo distribuere pos
-sit, et illum terminum qualitas confunde
-te, et non opposito modo sic quod actus, qui
-semel distribuit istrim terminum albedo
-et confundit illum terminum qualitas non
-potest illum termintim distribuere.
-## Si autem inquiratur quare est quod illi
-tres termini albedo est qualitas, produxerunt unum actum distribuentem illum ter
-minum albedo, et non illum terminum qualitas.
-## Ad hoc responsum est quod ex natura actus
-atqm ex fundamento solutio clara est. Sed
-ideo hic apposuimus, ut nonnullorum solutiones audiamus. Dicunt enim aliqui
-in quacunqm propositione, illum terminum
-qui prius concipitur, esse subiectum, et ter
-minum qui posterius producitur, esse prae
-dicatum. Sed hec solutio non euacuat dif
-ficultatem, quoniam si tam ly 'homo' quam ly
-animal aeque cito prodacatur, redit e
-diffictiltas quod si non admittas illos duos
-terminos, aeque cito ab intellectu produci,
-tapiam proponnes in angelis, qui in instanti
-cognoscunt plura, in quibus redit eadem
-difficultas, aut quanvis fuccessine producantur redit difficultas si ponamus aeque
-tito illos terminos prodtici.
-## Alii dixissent id ex acceptione intellectus
-provenire capientes illum terminum hono pro subiecto, et illum terminum animal
+Dicendum namque est in hac propositione mentali "Homo est animal, ly 'homo' esse subiectum et non ly 'animal', ex natura actus.
 
-### /20.2b/
+Est enim talis naturae illa copula 'est' in illa propositione ut per totam propositionem denotetur 'animal' convenire huiusmodi, et non hominem animali. Et talis naturae est in hac propositione "Animal est homo", ut ratione eius denotetur hominem convenire animali, et non animal homini.
 
-l actun syncategorema. Fo. xix.
-pro praedicato. Sed hec solutino minime valet, nisi glossetur taliter, ut ad nostram re
-deat, quia dictum est in fundamentis noa
-esse in potestate intellectus nunc unum
-terminum accipere pro subiecto, et nunen
-alium, quia est illo sequeretur proposstio
-nem veram esse falsam, quod facile dedta
-ces ibi ex dictis.
-## Propterea prius natura est notitias et
-actua esse in mente, quam intellectum sic velle
-concipere, ergo quod intellectus intelligat ta
-liter vel taliter, hoc hmta notitiis et actibus
-et non a se, quare non ex eo quod accipit illum
-terminum hamo pro subiecto, ille termia
-nus hon erit sbm, sed ex natura copulae.
-## Alii vero dicunt solutionem primam ream
-fellentes in hac propositione homo est anin
-mal, illum terminum homo esse subiectum
-et illum terminum antmal praedicatum,
-quia illa propon mentalis correspondet uni
-vocalt, in qua ly 'homo' est subiectum, et ly
-animal praedicatum. Sed isti significatio
-nem rerminnorum mentalium per voces et
-scriptitras cognosci volunt, quod. nequaquam
-fieri potest, quoniam quod in propositione vo
-cali ly 'homo' sit suibiectum, habet hoc ex
-proponne mentali sibi correspondenti.
-## Preteres: sic argumentor capta prims
-propositione mentali, quam anima formanit non mediantibus vocibus, neque scripturis. sit gratia exempli hec hon est animal. Peto quare ly 'homo' est subiectum
-et non ly 'animal'. Et non poterit dicere quod
-ly 'homo' est subiectum, quia illi correspon
-det vocalis, in qua ly 'homo' sit subiectum,
-sed quia potest respondere uni vocali. Et
-tunc quaero, quare illa propositio menta
-lis potest respondere huic homo est ainalm
-et non huic animal est homo, et non pote
-rit dicere, nisi quia signineat spnonime cum
-hac hon est ainal, et si quaeratur quare signifi
-cat synonime cum hac, et non cum alia, noni
-poterit alind dicere, nisi quod est natura talis propositionis, que taliter naturaliter
-singnificat ex natura terminorum, et sic ne
-cessario veniendum est ad primam solutionem.
-## In confirmatione tangitur bona difficuiltas: quod videlicet requiratur ad hoc quod
-actus sincatheg. sint eiusdem speciei omit
-tendo que ab aliis dicuntur, que omnia fere
-sunt falsa. Dico ad identitatem specifincam
-actuum syncategoremata. requiri, et fufficere quod
-E ii
+Similimodo dices in hac propositione "Omnis albedo est qualitas", illud signum 'omnis' talis esse naturae ut illum terminum 'albedo' distribuere possit, et illum terminum 'qualitas' confundere, et non opposito modo, sic quod actus, qui semel distribuit istum terminum 'albedo' et confundit illum terminum 'qualitas', non potest illum terminum distribuere.
+
+### Si autem inquiratur:
+
+Quare est quod illi tres termini "Albedo est qualitas", produxerunt unum actum distribuentem illum terminum 'albedo', et non illum terminum 'qualitas':
+
+### Ad hoc responsum est quod ex natura actus atque ex fundamento solutio clara est:
+
+Sed ideo hic apposuimus, ut nonnullorum solutiones audiamus. Dicunt enim aliqui in quacumque propositione, illum terminum qui prius concipitur esse subiectum, et ter
+minum qui posterius producitur, esse praedicatum. Sed haec solutio non evacuat difficultatem, quoniam si tam ly 'homo' quam ly 'animal' aeque cito producatur, redit eadem difficultas quod si non admittas illos duos terminos aeque cito, ab intellectu, produci. Capiam propositiones in angelis, qui in instanti cognoscunt plura, in quibus redit eadem difficultas, aut quamvis successine producantur, redit difficultas si ponamus aeque cito illos terminos produci.
+
+### Alii dixissent id, ex acceptione intellectus, provenire, capientes illum terminum 'homo' pro subiecto, et illum terminum animal /20.2b/ pro praedicato:
+
+Sed haec solutio minime valet, nisi glossetur taliter, ut ad nostram redeat, quia dictum est, in fundamentis non esse in potestate intellectus nunc unum terminum accipere pro subiecto, et nunc alium, quia ex illo sequeretur propositionem veram esse falsam, quod facile deduces ibi ex dictis.
+
+### Propterea, prius natura est, notitias et actus esse in mente, quam intellectum sic velle concipere:
+
+Ergo quod intellectus intelligat taliter vel taliter, hoc habet a notitiis et actibus, et non a se; quare non ex eo quod accipit illum
+terminum 'homo' pro subiecto, ille terminus 'homo' erit subiectum, sed ex natura copulae.
+
+## Alii vero dicunt solutionem primam refellentes in hac propositione "Homo est animal", illum terminum 'homo' esse subiectum et illum terminum 'animal' praedicatum:
+
+Quia illa propositio mentalis correspondet uni vocali, in qua ly 'homo' est subiectum, et ly 'animal' praedicatum. Sed isti significationem terminorum mentalium per voces et scripturas cognosci volunt, quod nequaquam fieri potest, quoniam quod in propositione vocali ly 'homo' sit subiectum, habet hoc ex propositione mentali sibi correspondenti.
+
+## Praeterea sic argumentor capta prima propositione mentali, quam anima formavit non mediantibus vocibus, neque scripturis:
+
+Sit gratia, exempli haec "Homo est animal". Peto quare ly 'homo' est subiectum et non ly 'animal'. Et non poterit dicere quod ly 'homo' est subiectum, quia illi correspondet vocalis in qua ly 'homo' sit subiectum,
+sed quia potest respondere uni vocali. Et tunc quaero, quare illa propositio mentalis potest respondere huic "Homo est animal", et non huic "Animal est homo", et non poterit dicere, nisi quia significat synonyme cum hac "homo est animal". Et si quaeratur quare significat synonyme cum hac et non cum alia non poterit aliud dicere, nisi quod est natura talis propositionis, quae taliter naturaliter significat ex natura terminorum. Et sic necessario veniendum est ad primam solutionem.
+
+## In confirmatione tangitur bona difficultas: quod videlicet requiratur ad hoc quod actus syncategorematici sint eiusdem speciei:
+
+Omittendo quae ab aliis dicuntur, quae omnia fere sunt falsa. Dico ad identitatem specificam actuum syncategorematicorum requiri, et sufficere quod /21.1a/ syncategoremata sint synonyma. Idemque et eo----
 
 <!--
 ## Apparatus Criticus Reference
@@ -1495,4 +1435,5 @@ Page 14.1a: purum ] emend. puerum
 Page 16.1a: signum ] emend. signā
 Page 16.2a: in ] conj. (textus laesus)
 Page 16.2b: intensionem ] emend. intentionem
+Page 20.2b: est ] emend. ex
 -->

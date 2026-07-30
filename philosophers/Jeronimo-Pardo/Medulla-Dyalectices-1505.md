@@ -748,7 +748,7 @@ Respondetur quod potest, sic enim debet diffiniri: "propositio impossibilis est 
 
 Propositio falsa est quae qualiter significat taliter false, est quemadmodum propositio impossibilis sic diffinitur: "Propositio impossibilis est quae taliter significat qualiter impossibile est esse". De illa autem propositione: "Deus non est", quae in argumento proponitur, dico quod ipsa significat Deum qui Deus est impossibilis impossibilitate relativa, ut relatus negative ad seipsum.
 
-Ad rationem quae probat quod non potest salvari diffinitio propositionis contingentis, potest aliquis respondere ad id quod argumentum praetendit. Dico enim quod ipse Deus relatus affirmative ad seipsum relatum ad creaturam quae connotatur per ly 'creans', dicitur contingens relative. Ideo concederem quod Deum creare est necessarium, hoc est, ipse Deus creans est necessarius et etiam est contingens, contingentia relativa, taliter qualiter significatur per istam: "Deus crea", neque aliud argumentum probat, verumtamen est difficultas: qualiter debeat diffiniri propositio contingens, nam ista est contingens: "omne ens est Deus", et tamen clarum est quod quicquid per eam significatur taliter qualiter per eam significatur necessario aut impossibiliter se habet, quod ostenditur, nam vel significatur Deus ut relative se habens ad creaturam et affirmative, et tunc est impossibilis impossibilitate relativa. Non ergo a suo significato illa propositio suam contingentiam habet.
+Ad rationem quae probat quod non potest salvari diffinitio propositionis contingentis, potest aliquis respondere ad id quod argumentum praetendit. Dico enim quod ipse Deus relatus affirmative ad seipsum relatum ad creaturam quae connotatur per ly 'creans', dicitur contingens relative. Ideo concederem quod Deum creare est necessarium, hoc est, ipse Deus creans est necessarius et etiam est contingens, contingentia relativa, taliter qualiter significatur per istam: "Deus crea", neque aliud argumentum probat, verumtamen est difficultas: qualiter debeat diffiniri propositio contingens, nam ista est contingens: "omne ens est Deus", et tamen clarum est quod quidquid per eam significatur taliter qualiter per eam significatur necessario aut impossibiliter se habet, quod ostenditur, nam vel significatur Deus ut relative se habens ad creaturam et affirmative, et tunc est impossibilis impossibilitate relativa. Non ergo a suo significato illa propositio suam contingentiam habet.
 
 ### Propositio duplici de causa potest contingens nominari
 
@@ -932,7 +932,7 @@ Prima est quod subiectum vel praedicatum pro nullo supponat, quod debet intellig
 
 Secunda causa sufficiens ad veritatem negativae est quod subiectum et praedicatum pro omnino diversis supponant, et ideo ista consequentia est bona: "ista propositio est negativa, et subiectum vel praedicatum pro nullo supponit; ergo est vera". Etiam illa consequentia est bona: "ista propositio est negativa, et subiectum et praedicatu pro diversis supponunt; ergo est vera", et hoc semper loquendo de pure negativa.
 
-Ex dictis satis patet quod quicquid requiritur ad veritatem affirmativae, illud requiritur ad falsitatem negativae. Illud sufficit ad veritatem negativae contradictoriae. Et certe, ad cognoscendum veritatem vel falsitatem negativae, multum confert aspicere ad veritatem vel falsitatem suae contradictoriae.
+Ex dictis satis patet quod quidquid requiritur ad veritatem affirmativae, illud requiritur ad falsitatem negativae. Illud sufficit ad veritatem negativae contradictoriae. Et certe, ad cognoscendum veritatem vel falsitatem negativae, multum confert aspicere ad veritatem vel falsitatem suae contradictoriae.
 
 Affirmativae de possibilitate ponuntur aliquae propositiones:
 
@@ -942,7 +942,7 @@ Prima propositio: non dicitur possibilis eo quod possit esse vera, similiter, no
 
 ### Omne existens est Deus
 
-Secunda propositio: ideo dicitur possibilis, quia qualitercumque per ipsam significatur significationi totali et propositionali ita potest esse, manente significatione terminorum, ut ista est possibilis: "omne existens est Deus", quia possibile est ita esse quod omne existens sit Deus, unde si solus Deus esset omne existens esset Deus.
+Secunda propositio: ideo dicitur possibilis, quia qualitercumque per ipsam significatur significationi totali et propositionali ita potest esse, manente significatione terminorum, ut ista est possibilis: "Omne existens est Deus", quia possibile est ita esse quod omne existens sit Deus, unde si solus Deus esset omne existens esset Deus.
 
 Et notanter ponitur in diffinitione totali significatione, quia ad videndum possibilitatem propositionis non sufficit aspicere ad significationem partialem inadaequatam seu secundariam. Sed oportet aspicere ad significationem totalem adaequatam seu primariam.
 
@@ -952,7 +952,7 @@ Ad hoc argumentum responderi posset quod licet significet 'Sorte esse Deum', non
 
 Additur tamen communiter in diffinitione qualitercumque significat vel significare potest, quia licet non possibile sit ita esse sicut per eam significatur, tamen possibile est ita esse sicut per eam potest significari significatione accepta ex acceptione terminorum, de qua statim dicetur, ut positio quod Deus solus esset praecise significaret 'hoc ens esse Deum', et ita esset. Sed animadvertere debes quod si in hac materia fueris argumentatione coactus dicere veritatem, recurre ad iam dicta de ista: "omne existens est Deus", et de modo descendendi in materia de descensu agitur.
 
-Tertia instantia est probando idem quod prius quod ista non sit possibilis: "omne existens est Deus", quia qualitercumque ipsa significat vel significare potest, non est possibile ita esse. Patet quia ipsa significat omne existens, quod est et quod fuit et quod erit, et quod potest esse, esse Deum. Sed hoc non est possibile; igitur patet quia propositio significat quicquid termini significant, sed iste terminus 'existens' significat omne existens quod est, et quod fuit, et quod erit, et quod potest esse. Cum iste terminus 'significat' ampliet ad illud quod est, et quod fuit, et quod erit, et quod potest esse; ergo ista propositio: "omne existens quod est, et quod fuit, et quod erit, et quod potest esse", 'esse Deum' significat.
+Tertia instantia est probando idem quod prius quod ista non sit possibilis: "omne existens est Deus", quia qualitercumque ipsa significat vel significare potest, non est possibile ita esse. Patet quia ipsa significat omne existens, quod est et quod fuit et quod erit, et quod potest esse, esse Deum. Sed hoc non est possibile; igitur patet quia propositio significat quidquid termini significant, sed iste terminus 'existens' significat omne existens quod est, et quod fuit, et quod erit, et quod potest esse. Cum iste terminus 'significat' ampliet ad illud quod est, et quod fuit, et quod erit, et quod potest esse; ergo ista propositio: "omne existens quod est, et quod fuit, et quod erit, et quod potest esse", 'esse Deum' significat.
 
 \[viii.vb 37b\]
 

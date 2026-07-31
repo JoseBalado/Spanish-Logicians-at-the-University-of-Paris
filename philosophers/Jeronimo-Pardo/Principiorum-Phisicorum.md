@@ -287,11 +287,23 @@ Probatur quia numquam daretur qui deberet quiescere, quia omnis motus naturalis 
 
 - Uno modo, in quantum est animal, est motus naturalis suus progressivus.
 
-- Alio modo consideratur aliquod animatum secundum naturam elementi, quod in eo praedominatur, et tunc dico quod generaliter animalia moventur secundum naturam elementi praedominantis, movetur naturaliter.
+- Alio modo consideratur aliquod animatum secundum naturam elementi, quod in eo praedominatur, et tunc dico quod quando animalia moventur secundum naturam elementi praedominantis, movetur naturaliter.
 
-Et si dicat aliquis quomodo /14a/ cognosceretur quod animalia moventur secundum quod sunt animalia, aut secundum naturam elementi praedominantis.
+Et si dicat aliquis /14a/ quomodo cognosceretur quod animalia moventur secundum quod sunt animalia aut secundum naturam elementi praedominantis.
 
-Respondetur quod generaliter animal potest impedire motum quem facit, convenit aliter ut animal est, sed generaliter non potest impedire talem motum, tunc signum est quod non est anima hominis ut animal est. Sed est secundum naturam elementi praedominantis et caetera.
+Respondetur quod quando animal potest impedire motum quem facit, convenit aliter ut animal est, sed quando non potest impedire talem motum, tunc signum est quod non est anima hominis ut animal est. Sed est secundum naturam elementi praedominantis et caetera. Ut si homo cadit de fenestra, tunc clarum est quod movetur motu naturali, quia movetur ut in eo praedominatur, terra.
+
+Notandum quod philosophus utitur duobus terminis, scilicet quod aliquid dicitur mutari duobus modis: uno 'subiective', alio 'terminative'. Unde illud vocatur 'mutari subiective' quod est subiectum commune in transmutatione, ut quando aqua recipit caliditatem, et prius habebat frigiditatem, et dico quod talis aqua dicitur mutari subiective. Sed illud mutatur 'terminative' seu 'obiective' quod deperditur vel acquiritur. Et breviter terminus ad quem, vel illud quod est terminus ad quem, dicitur mutari terminative. Unde aliquid dicitur generari duobus modis: uno subiective, alio terminative. Subiective dicitur generari materia quae recipit formam quam prius non habebat, sed illud dicitur generari terminative quod est terminus ad quem generationis, sive illud sit forma sive compositum.
+
+## Postquam visum est de motibus qui conveniunt rei naturali, oportet /14b/ videre de duratione mutationis:
+
+Unde istae mutationes dicuntur mensurari tempore vel in instanti. Unde tempus est mensura motuum successivorum. Ex quo sequitur quod motum fieri in tempore, et motum mensurari tempore, et motum esse in tempore, idem sunt.
+
+Sed quaereret aliquis quid intelligitur per mensurari tempore. Dico quod aliquid
+alio mensurari est quantitatem unius cognoscere per quantitatem alterius. Sicut ulna mensurat pannum, id est per quantitatem ulnae cognoscis quantitatem panni, ex quo sequitur corollarium, quod motum mensurari tempore non est aliud quam quantitatem motus cognoscere per quantitatem temporis. Exemplum ut dictus communiter quod motus quo vado usque ad Sanctum Dionisium mensuratur una hora, id est cognosco quantitatem illius motus per quantitatem unius horae.
+
+Sed si quaeratur quae res sit tempus, dico quod de hoc sunt multae opiniones. Aliqui dicunt, ut multi nominales, quod tempus non est nisi ipsum Caelum. Alii dicunt, ut Sanctus Augustinus, quod tempus est motus primi mobilis. Et alii dicunt quod omne illud est tempus
+alicui per quod denotatur ad quantitatem operationis. Et ideo, secundum diversitatem horum, sic sunt diversa tempora. Nam /15a/ sunt aliqui homines rustici qui, per motum Solis, veniunt--- 
 
 <!--
 ## Apparatus Criticus Reference

@@ -1469,7 +1469,71 @@ Illae duae qualitates in anima sunt eiusdem speciei; ergo se intendunt et faciun
 
 ## Aliae ad hoc argumentum fuerunt multae responsiones:
 
-Quidam enim negant omnes qualitates eiusdem speciei penetratine et unitive existentes eidem subiecto inhaerentes se intendere. /21.2a/ Sed hoc falsum est, quia aliquae qualita//
+Quidam enim negant omnes qualitates eiusdem speciei penetratine et unitive existentes eidem subiecto inhaerentes se intendere. /21.2a/ Sed hoc falsum est, quia aliquae qualitates eidem subiecto inhaerentes se intendunt, ut patet de duabus partibus notitiae hominum, et non est maior ratio de uno quam de alio; ergo omnes se intendunt.
+
+# De differentia actuum
+
+### Ad hoc dixerunt eandem notitiam esse subiectum et praedicatum:
+
+Eandemque posse distribui, et confundi simul et semel, sed hoc est falsum, quia tunc haberemus quod intendimus, videlicet illas duas vocales eidem subordinari, et eandem propositionem veram et falsam esse.
+
+### Alii vero dixerunt existente notitia hominum in anima, advenientem actu, videlicet copula duas medietates distrahi:
+
+Ita quod tunc separatur una pars notitiae ab alia, et una pars est subiectum et alia est praedicatum.
+
+Sed hoc falsum est. Tum primo quia ille duae medietates ex natura sua uniuntur; ergo propter adventum actus syncategorematici non debent separari.
+
+### Praeterea sequitur quod si ego haberem notitiam hominum intensam ut quattuor, manente eadem advertentia, solum propter adventum alicuius syncategorematis, remissius intelligere intellectum homines:
+
+Consequens est falsum; ergo et opinio.
+
+Sequela patet, quia adveniente syncategoremate, notitia hominum quae erat ut quattuor, distrahitur in duas partes, quarum quaelibet est ut duo; ergo intellectus remissius intelligit.
+
+### Si forte dicas quod bene intelligit remissius, id est per remissionem notitiam:
+
+Sed non remissius, id est per notitias pauciorum gradum, hoc nihil est, quoniam intensio non attenditur penes multitudine gradum, sed attenditur penes multitudinem gradum penetratiue et unitive se habentium.
+
+### Tum praeterea illae duae partes notitiarum sunt in eodem subiecto adaequato, et sunt eisdem speciei ergo se intendunt:
+
+Nec valet dicere esse impedimentum ex parte copulae, quia quaerenda est activitas copulae quomodo agat et quomodo impedire posset.
+
+### Praeterea non est maius inconveniens quod copula adueniens disiungat duas medietates notitiae quam duas quartas:
+
+Ergo si separat duas partes, separabit omnes.
+
+Praeterea quis unquam vidit duas notitias hominum eiusdem speciei non facientes unam, cum namque intellectus unam producit, quo conatu alteram producet, nonne eodem quo aliam conservat quove intendet, nonne illo conatu praecedente cur non producet novam. /21.2b/
+
+## Alius qui hunc impugnat:
+
+Respondet aliter dicens, possibile fore duas qualitates eiusdem speciei esse in anima, et non constituere unum, hoc est non se intendere. Sed hoc dicit posse fieri ex parte intellectus, et non parte copulae, nec alicuius actus. Unde dicit quod quemadmodum Deus duabus albedinibus existentibus penetrative in eodem subiecto, potest impedire earundem unionem. Sic intellectus duabus notitiis eiusdem speciei existentibus in ipso, potest impedire eandem unionem, vel concurrere ad eandem unionem. Sed hoc videtur magis impossibile, quam quod praecedens dixit.
+
+Quaeritur enim ab eo quid requiritur ad hoc quod intellectus concurrat ad unionem duarum partium nominatarum.
+
+Si dicas quod partes notitiae uniri provenit ex parte voluntatis videlicet quod oportet quod voluntas velit.
+
+## Contra hoc arguitur. Sequeretur intellectum nunquam posse producere notitiam quin haberet multas volitiones:
+
+Consequens est contra experientiam, ergo antecedens non est verum.
+
+Sequela probatur. Intellectus non potest producere unam notitiam quin producat multas partes illius se intendentes, quia quaelibet notitia est alicuius intentionis. Et ex dictis illae partes non possunt se intendere nisi per imperium voluntatis; ergo necessum
+est ad productionem cuiusque notitiae imperium voluntatis adesse, et per consequens
+volitionem esse.
+
+Praeterea, in brutis, notitiae partes se intendunt, et non concurrit imperium voluntatis, ergo et caetera.
+
+## Fortasse respondebis ad hoc quod duae partes notitiae se intendant non requiri imperium voluntatis positiuum, sed imperium voluntatis privativum, sive permissivum:
+
+Ita quod hoc quod aliquae duae partes se intendant sufficit voluntatem non velle illas distrahi et non uniri. Sed ad hoc quod duae partes non uniantur requiritur voluntatem velle illas duas partes non uniri.
+
+## Contra hanc solutionem arguitur. Sequeretur intellectum nunquam posse producere hanc propositionem "Homo est homo", quin haberet actualem volitionem:
+
+Sed hoc est contra experientiam; ergo solutio nulla.
+
+Sequela patet. Non potest haberi haec propositio "Homo est homo" partibus notitiae hominum, videlicet subiecto et praedicato unitis. Sed ad hoc quod illae duae partes non uniantur, requiritur volitio; ergo non potest haberi /22.1a/ illa propositio sine volitione, quod impossibile est.
+
+
+
+
 
 <!--
 ## Apparatus Criticus Reference
@@ -1488,4 +1552,5 @@ Page 16.1a: signum ] emend. signā
 Page 16.2a: in ] conj. (textus laesus)
 Page 16.2b: intensionem ] emend. intentionem
 Page 20.2b: ex ] emend. est
+Page 21.2a: quaelibet ] emend. queliaꝫ
 -->

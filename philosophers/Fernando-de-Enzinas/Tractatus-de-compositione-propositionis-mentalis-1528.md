@@ -1531,9 +1531,95 @@ Sed hoc est contra experientiam; ergo solutio nulla.
 
 Sequela patet. Non potest haberi haec propositio "Homo est homo" partibus notitiae hominum, videlicet subiecto et praedicato unitis. Sed ad hoc quod illae duae partes non uniantur, requiritur volitio; ergo non potest haberi /22.1a/ illa propositio sine volitione, quod impossibile est.
 
+### Quare, his opinionibus dimissis longe aliter dicendum esse puto:
 
+Videlicet huius propositionis "Homo est homo", subiectum et praedicatum se intendere, et unam notitiam facere, videlicet notitiam totalem hominum. Nec inde inferre valebis intellectum intensius cognoscere homines quando habet hanc propositionem "Homo est homo" quam quando habet notitiam solam hominum, quia imaginor partem unam notitiae hominum. Gratia exempli, medietatem fore subiectum et alteram partem fore praedicatum notitia totali, eandem intensionem habente
+quam ante qua adueniret copula habebat.
 
+### Et si contra hoc arguas sequitur hanc propositionem "Homo est homo" huic subordinari "Homo est":
 
+Sed hoc est falsum; igitur sequela patet, quia tam subiectum quam praedicatum subordinatur notitiae hominum, sed falsitas consequentis patet, quia tunc duae propositiones non synonyme eidem subordinarentur, quod est impossibile. Hoc declarat de his "homo est" et "Homo est homo".
+
+### Ad hoc respondetur distinguendo quod haec propositio "Homo est homo" subordinatur huic mentali "Homo est":
+
+Quia vel in hac mentali "Homo est" notitia totalis hominum est subiectum, et praedicatum est ly 'ens' sive illa copula 'est', et sic negandum est. Sed haec mentalis respondet huic vocali "Homo est".
+
+Si autem in ista mentali "Homo est", notitia totalis hominum non sit subiectum, sed una medietas sit subiectum et alia praedicatum, tunc concedo quod illi subordinatur haec vocalis "Homo est homo", nec syncategoremata in propositionibus quibus istae duae vocales "Homo est" et "Homo est homo" subordinantur sunt eiusdem speciei.
+
+### Simili modo solves argumentum quoddam quod posset fieri ad probandum istas duas vocales: "Non homo est homo", et "Non homo est" eidem subordinari.
+
+### Dicendum namque est hanc propositionem "Non homo est homo" subordinari huic "Non homo est":
+
+In qua negatio illa non infinitat totam notitiam hominum, sed solum medietatem notitiae et aggregatum ex illa medietate, cum negatione est subiectum et altera medietas est praedicatum. Et sic clare constat falsam esse in illo sensu.
+
+Et simili modo respondendum est ad formam argumenti, sicut responsum est. /22.1b/
+
+### Et ad replicam:
+
+Nego has duas propositiones: "Homo omnis homo est" et "Omnis homo est homo" eidem subordinari. Et quando id probas, quia termini categorematici sun idem, et syncategorematici eadem propositionum, quibus ille subordinantur ergo eidem subordinantur.
+
+### Respondeo negando quod syncategoremata sint eadem:
+
+Et ad probationem qua sic probas, quia illa syncategoremata ab eisdem notitiis numero producuntur, id nego, quamvis ex illo (ut patet ex dictis) non sequitur quod infers. Et quando id probas, quia illae notitiae se intendunt; ergo faciunt unam, et per consequens syncategorema agens in unam, aget in aliam.
+
+### Ad hoc respondeo concedendo quod notitia subiecti et praedicati utriusque se intendunt:
+
+Immo notitia composita est subiecto et praedicato unius est eadem cum notitia composita ex subiecto et praedicato alterius. Sed nullum illorum signorum agit in totam notitiam. Sed in propositione mentali cui haec subordinantur "Homo omnis homo est", medietas notitiae hominum est subiectum, et in eam medietatem illud signum 'omnis' non agit.
+
+Sed secundam medietatem quae est praedicatum, illud signum 'omnis' distribuit, sed in propositione mentali cui subordinatur, haec "Omnis homo est homo" prima medietas notitiae quae est subiectum distribuitur, et secunda quae est praedicatum confunditur ab eodem signo distributivo. Et sic patet in illis duabus mentalibus actus non est esse eiusdem speciei, postquam actus distributivus unius in solum praedicatum agit, et actus distributivus alterius in subiectum et praedicatum.
+
+### Et si quaeras quare est quod ista copula, [quae] est in mentali cui haec "Homo est homo" subordinatur, unit primam medietatem cum secundam medietatem, et illud signum omnis distribuit unam medietatem et non duas tertias illius notitiae:
+
+Responsio est in promptu, dicendo quod est ex natura actus.
+
+### Et si inferas adhuc illas duas "Homo omnis homo est" et "omnis homo est homo", huic subordinari "Omnis homo est":
+
+Distingue ut supra, et per hoc facile dices cui subordinatur hoc copulatum "Homo et homo", et hoc disiunctum "Homo vel homo", nam copulatum subordinatur subordinatur copulato cuius prima medietas notitiae hominum coniungitur cum secunda medietate notitiae hominum per coniunctionem /22.2a/illam. Et proportionabiliter ad similia argumenta dices, ad quae credo, non tenendo aequivocationem in anima, reperiri non posse rectius responderi.
+
+# Et an in propositione mentali extrema synonyma se intendant
+
+### Sed contra hoc arguitur:
+
+Sequitur ex his quod copulatum hoc "Sortes et Plato" non subordinatur uni copulato cuius una pars est notitia Sortis et altera notitia Platonis.
+
+Sed hoc est falsum; ergo propositum.
+
+Sequela probatur, nam illud copulatum non subordinatur secundum dicta, nisi uni cuius medietas notitiae Sortis et Platonis connectitur alteri, nam ille duae notitiae Sortis et Platonis unam componunt notitiam ex eodem fundamento, quo probas duas medietates notitiae hominis unam facere, nam cum notitia Sortis et notitia Platonis sint eiusdem speciei et eidem subiecto adaequato inhaerentes sequitur illas notitias unam componere.
+
+### Ad hoc argumentum opinio fere omnium est notitiam Sortis et Platonis facere unum ens sive unam qualitatem, non tamen unam notitiam:
+
+Et hoc propter argumentum secundum quos nescio quomodo respondendum esset ad argumentum. Unde volo
+ostendere opinionem hanc falsam esse, tenentem Sortis et Platonis notitiam se intendere in genere qualitatis.
+
+Argumentor sic: sequitur me non posse illis notitiis existentibus remissius advertere circa Sortem aut remissius intelligere Sortem, quin remissius cognoscam Platonem, quod est impossibile.
+
+Sequela probatur: Nam si remissius cognoscam sortem, tunc aliqua pars notitiae Sortis corrumpitur; ergo aliqua pars illius qualitatis, quae est notitia Sortis et Platonis corrumpitur, ad ea est conpositum ex parte notitiae Sortis et Platonis, quia aliter non se intenderet pars notitiae Sortis cum parte notitiae Platonis; ergo remissius cognoscitur Plato.
+
+### Item quis unquam vidit qualitates se intendentes aeque intensas:
+
+Unquam ab uno dependere et alteram ab alio, plures rationes ad haec adducerem, nisi quia haec sufficiunt, et materia non est pertinens, quare ergo ad argumentum respondeo negando sequelam, [et] ad probationem nego quod notitiae Sortis et Platonis, quamvis sint eiusdem speciei, oportet quod se intendant. Unde ad hoc quod duae qualitates spirituales se intendant non sufficit quod sint eiusdem speciei, sed oportet adhuc quod sint synonymae.
+
+### Et si arguas prius natura est duas notitias se intendere quam quod sint synonymae:
+
+Nam inquantum qualitates se intendunt; ergo notitiae non se intendunt, quia sunt synonymae.
+
+### Ad hoc concedo quod infertur:
+
+Non enim volo dicere quod causa quare duae notitiae se intendunt est quia sunt synonymae, sed dico quod omnes synonymae et eiusdem speciei se intendunt. Et si quaeras unde id cognosco, ad hoc respondeo quod sicut in aliis qualitatibus cognoscimus quod omnes qualitates quae eiusdem speciei sunt, atque ab eadem causa, sunt aptae natae produci se intendunt. Ita cognoscimus quod notitiae quae sunt eiusdem speciei et ab eisdem causis, numero sint apte natae produci ab eisdem, sunt apte natae conservari, se intendunt. Ita quod ab eadem causa dependere, seu ad idem obiectum terminari, est causa quare aliquae qualitates spiritales se intendunt.
+
+## Sed occasione dubii decimisexti arguitur contra dicta:
+
+Nullum signum significat aliqualiter; ergo dicta hactenus nulla.
+
+Antecedens probatur: Si aliquod significaret aliqualiter maxime esset ly 'omnis', sed ly 'omnis' significat aliqualiter; ergo etc.
+
+Minor probatur: Si significaret aliqualiter, ut puta distributive, maxime esset, ideo quia faceret illum terminum 'homo' aliter teneri quam antea accipiebatur. Sed hoc non facit; ergo non significat aliqualiter.
+
+Probatur minor: Reliqua nota sunt, si aliter faceret, illum terminum 'homo' in hac propositione "Omnis homo est animal" teneri, vel hoc esset quo ad significationem vel suppositionem vel acceptionem, non quo ad primum, ut patet, nec quo ad secundum, quia potest ille terminus 'homo' non supponere, nec quo ad acceptionem, nam id esset quia facit illum terminum accipi copulative quomodo antea non accipiebatur. Sed hoc non, nam ille terminus 'animal' hoc in hac "Homo est animal" pro quolibet suo supposito accipiebatur, et non est maior ratio quod pro uno quam pro alio; ergo pro quolibet.
+
+## Ad hoc argumentum dices, sicut dicendum est, negando antecedens:
+
+Et ad probationem negabis minorem. Et ad probationem nego minorem. Et quando probas quia vel hoc esset quo ad significatum et caetera,  Dico quod quo ad ultimum, puta quo ad /23.1a/
 
 <!--
 ## Apparatus Criticus Reference

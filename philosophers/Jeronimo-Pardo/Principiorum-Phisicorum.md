@@ -302,8 +302,45 @@ Unde istae mutationes dicuntur mensurari tempore vel in instanti. Unde tempus es
 Sed quaereret aliquis quid intelligitur per mensurari tempore. Dico quod aliquid
 alio mensurari est quantitatem unius cognoscere per quantitatem alterius. Sicut ulna mensurat pannum, id est per quantitatem ulnae cognoscis quantitatem panni, ex quo sequitur corollarium, quod motum mensurari tempore non est aliud quam quantitatem motus cognoscere per quantitatem temporis. Exemplum ut dictus communiter quod motus quo vado usque ad Sanctum Dionisium mensuratur una hora, id est cognosco quantitatem illius motus per quantitatem unius horae.
 
-Sed si quaeratur quae res sit tempus, dico quod de hoc sunt multae opiniones. Aliqui dicunt, ut multi nominales, quod tempus non est nisi ipsum Caelum. Alii dicunt, ut Sanctus Augustinus, quod tempus est motus primi mobilis. Et alii dicunt quod omne illud est tempus
-alicui per quod denotatur ad quantitatem operationis. Et ideo, secundum diversitatem horum, sic sunt diversa tempora. Nam /15a/ sunt aliqui homines rustici qui, per motum Solis, veniunt--- 
+Sed si quaeratur quae res sit tempus, dico quod de hoc sunt multae opiniones:
+
+- Aliqui dicunt, ut multi nominales, quod tempus non est nisi ipsum Caelum.
+- Alii dicunt, ut Sanctus Augustinus, quod tempus est motus primi mobilis.
+- Et alii dicunt quod omne illud est tempus alicui per quod denotatur ad quantitatem operationis. Et ideo, secundum diversitatem horum, sic sunt diversa tempora. Nam /15a/ sunt aliqui homines sicut rustici qui, per motum Solis, veniunt in quantitatem operationis, et illis rusticis tempus est motus Solis.
+- Sunt alii, in civitatibus, qui per motum horologii deveniunt in quantitatem operationis, et illis motus horologii est tempus.
+
+Alia est mutatio instantanea quae fit tota simul in instanti, et ista mensuratur instanti. Unde instans est mensura indivisibilis, et de istis in *Tractatu de Intensione Formarum*, unde sic est imaginandum quod postquam illuminatio est indivisibilis, id est, tota simul debet sibi correspondere mensura indivisibilis. Si non sit illa mensura indivisibilis, per imaginationem debet mensurare, sed si sit indivisibilis, per
+eam mensurabitur mutatio indivisibilis.
+
+# Sequitur de causis
+
+## Nunc de causis rerum naturalium videndum est
+
+Unde causa est ad cuius esse sequitur aliud, scilicet effectus. Sed quaero quid est ad causam sequi effectum. Dico quod ad causam sequi effectum est ex ea, aut per eam, aut ab ea, aut gratia eius aliquid fieri et esse in hoc quod dictum est tangitur quadruplex causa, scilicet materialis, formalis, efficiens, et finalis.
+
+Primo, cum dicitur, ex ea tangitur causa materialis, unde causa materialis subiectum /15b/ materia communiter sumpta idem penitus sunt. Unde causa materialis sic definitur ab Aristotele:
+
+> Causa materialis est ex qua tanquam ex receptio fit aliquod compositum, sive per se sive per accidens.
+
+- Ex quo sequitur quod numquam aliquid dicitur habere materiam sive causam materialem nisi componatur ex ipsa. Ex quo sequitur quod nulla accidentia habent causam materialem proprie loquendo, et ratio est quia nulla accidentia habent causam materialem proprie loquendo quia non componuntur ex materia et forma, ideo non dicuntur habere causam materialem.
+
+- Sequitur secundo quod nullae formae substantiales dicuntur habere materiam sive causam
+materialem.
+
+- Sequitur tertio quod materia prima non habet materiam proprie. Sed arguitur sic:
+
+> Forma substantialis ignis recipitur in materia; ergo habet materiam.
+
+Negatur consequentia, quia non sequitur: "Hoc recipitur in materia; ergo habet causam materialem", quia habere causam materialem est componi in materia et non recipi in materia."
+
+De ista igitur causa ponuntur aliquae proprietates:
+
+Prima est: causa materialis habet aliquam causalitatem, quia necessarium est dicere quod omnis causa habet aliquam causalitatem.
+
+Contra: superius dictum est quod materia prima nullam actionem habet; ergo causa materialis non habet aliquam actionem.
+
+Pro solutione istius videndum est in quo consistit causalitas causae materialis. Respondet ad hoc Scotus in *Quarto* et dicit quod causalitas materialis causae consistit in recipiendo formam, id est quod causa materialis causat in genere suo, scilicet in genere causae materialis, quod est recipere formam. Ideo ad argumentum responde /16a/ distinguendo 
+
 
 <!--
 ## Apparatus Criticus Reference

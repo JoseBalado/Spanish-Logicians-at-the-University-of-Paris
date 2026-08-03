@@ -1620,7 +1620,111 @@ Probatur minor: Reliqua nota sunt, si aliter faceret, illum terminum 'homo' in h
 ## Ad hoc argumentum dices, sicut dicendum est, negando antecedens:
 
 Et ad probationem negabis minorem. Et ad probationem nego minorem. Et quando probas quia vel hoc esset quo ad significatum et caetera,  Dico quod quo ad ultimum, puta quo ad /23.1a/
+acceptionem, videlicet quia antea non tenebatur, unde accipi copulative, terminum non est ipsum accipi pro quolibet suo supposito, nam eo modo quilibet acciperetur copulative. Sed accipi copulatiue terminum est ipsum sic accipi, ut ratione talis acceptionis ad veritatem propositionis in qua ponitur, requiritur cuiusque ascendentis, veritas aut ratione alicuius termini denotatur quod propositio non potest reddi vera, nisi pro quolibet suo supposito. Gratia exempli, in hac propositione "Homo est albus", denotatur praedicatum conpetere subiecto pro aliquo supposito, ita quod ad veritatem illius sufficit. Sed aduertente ly 'omnis' denotatur cuilibet supposito subiecti aliquid praedicari competere, idque ad veritatem illius propositionis requiritur hoc significare distributive huius signi 'omnis'.
 
+# An in propositione mentali synonyma se intendant
+
+### Sed contra hoc arguitur:
+
+Si significatio de ly 'omnis' esset distribuere seu denotare terminum cui additur, accipi pro suis significatis copulative, sequitur quod haec essent falsa "Omnis homo est animal", nam pro Antichristo praedicatum denotatur competere subiecto, quia significatum est huius termini 'homo'.
+
+### Ad hoc tamen dabis quod non distribuitur ille terminus 'homo' pro omnibus suis significatis:
+
+Sed folum pro correspondentibus copulae propositionis in qua ponitur.
+
+### Contra hoc arguitur:
+
+Significatio quia ly 'omnis' significat aliqualiter non est distribuere; ergo propositum.
+
+Antecedens probatur. Stat illum terminum 'omnis' esse in mente, et non distribuere; ergo significatio naturalis eius non est distribuere. Antecedens patet in hac propositione "Non omnis homo est animal" ly 'omnis', non distribuit.
+
+### Forte respondebis sicut vulgo respondetur:
+
+Significatum de ly 'omnis' non forte distribuere, sed quandoque distribuere, quandoque confundere et quandoque impedire.
+
+### Sed contra arguitur:
+
+Sequeretur quod aliquis terminus mentalis caderet a sua significatione, sed hoc est falsum; ergo et responsio.
+
+Sequela patet de hoc signo 'omnis', quod in hac propositione "Homo est animal" distribuit, et in hac propositione "Non omnis homo est animal" non amplius distribuit.
+
+### Respondebis fortasse sicut communiter respondetur:
+
+Negando quod aliquis terminus posset cadere a sua significatione distribuatur; sed concedes terminos mentales ab aliqua sua significatione cadere. /23.1b/
+
+### Contra hanc solutionem arguitur:
+
+Sequeretur quod ly 'omnis' non possit esse in mente et habere omnes suas significationes simul. Hoc sic patet in hac propositione "Omnis homo est animal", ly 'omnis' no impedit. Et in hac propositione "Non omnis homo est animal", illud signum 'omnis' non distribuit nec confundit; ergo nunquam potest habere suas significationes simul.
+
+### Praeterea sic arguitur:
+
+Quaelibet significatio eius tam distributiva quam confusiva est naturalis illi signo 'omnis' et illud quod est naturale alicui non potest ab ipso toli; ergo illud signum non potest esse sine
+hoc quod distribuat.
+
+### Ad hoc responderi potest:
+
+Negando quod in hac propositione "Non omnis homo est animal", ly 'omnis' non distribuat, et quamvis ille terminus 'homo' non distribuatur in ordine ad totam propositionem, distribuitur tamen in ordine ad partem, videlicet in ordine ad istam "Omnis homo est animal". Ex quo corollarie poteris inferre eundem terminum, et distribui posse et confundi simul et semel, similiter et distribui et supponere determinate, sed hoc est respectu diversarum propositionum.
+
+### Contra hoc adhuc arguas:
+
+Sequeretur quod terminus mentalis ab aliqua sua significatione naturali posset cadere. Hoc sic patet, nam in hac propositione "Non omnis homo est animal", ly 'omnis' significat impeditive sive impedit, et in hac "Omnis homo est animal", non amplius impedit, nec in ordine ad totam nec in ordine ad partem; ergo propositum.
+
+### Ad hoc poterit responderi quod duplex es significatio termini mentalis:
+
+Quaedam est significatio respectiva et quaedam absoluta.
+
+- Significationem respectivam vocant, communiter loquentes, significationem non consurgentem, nisi ratione alicuiuis alterius termini. Sic quod posito illo termino tali significatio consurgit, et non posito tollitur, sicut postmodum dicetur de ista propositione "Homo imaginarie est asinus", in qua communiter loquentes concederent illum terminum 'homo' omnes asinos significare respectiue.
+
+- Alia est significatio termini mentali absoluta, estque illa quam terminus ex se habet.
+
+Modo responderent: Terminum mentalem a sua significatione respectiva bene posse cadere, et sic non est inconveniens concedere quod ly 'omnis' a sua significatione, quae impedit, cadere, quia /23.2a/
+
+ulis respectiva est, quian illam habet respe
+tu alterius termini videlicet negationls posita enim negatione ly 'omnis' imnedit at ipsa deposita non amplius impelit, ergo respectiva est ea significatio a qua
+tonceditur terminos mentales posse ca
+dete.
+
+# De significatione signi universalis affirmativi
+
+### Sed contra hanc soltitionem arguitur
+s dlcta essent vera, sequeretur quod non pos
+let dari aliquis terminus complexus ex
+actu distributivo et termino cathego. sicut
+bomnis homo, sed hoc est falsum, ergo pro
+positum, falsitas consequentis patet, quia
+potest esse totale extremum huius propostionis Sortes est omnis homo, ergo
+potest esse sine copula postquam coptila ipm
+praesupponit, et per consequens talis terminus potest per se existere, sed sequela
+piobatur. si tale complexum videlicet om
+this homo daretur per se existens et extra
+upositionem, sequeretur quod ly 'omnis' cadetet ab omni sua significatione, quoniam
+non amplius distribuit nec confundit, nec
+impedit postquam est extra propositionem.
+ipet consequens potest cadere a totali ss
+gnificatione quod erat probandum.
+### Ad hoc argumentum aliqui respondent
+syncategorema. omnis non posse inveniri extra
+positionem quamadmodum nec ly 'non' homo,
+seddicunt hoc tottim omis homo subordinari uni termino. incamplexo significanti
+de materiali omnem hominem connotan
+do quod sit unus tantum at proportionaliter
+dicerent de ly 'non' homo culus ratio est,
+quia non potest siricathe. inveniri extra
+conponnem, quia sigatio syncategoremata. est signifi
+tate aliqualiter at. significare aliqualiter
+non est nisi denotare terminum cui addi
+tur aliqualiter accipi qualiter ante non
+accipiebatur, sed hoc non potest fleri extra propositionem quum nihil possit extra
+propositionem accipi, ergo nullum sinea
+the. invenitur extra propositionem et per
+oonsequens, nec hoc totum omnis homo,
+nec ly 'non' homo, sed haec ratio prior non
+est magne apparentie, quis manifestum
+ist multa significata inveniri extra propositionem quemadmodum istud copulatum
+sottes et Plato et hoc disiunctum Sortes vel
+pla. et conditionata ẜm communes et copula impli
+tationis, et hoc totum iste non et hoc totum aliiis homo de quibus omnibus concedendum est includi
+aliquod sincathegorenma. Qnare igitu¬
 <!--
 ## Apparatus Criticus Reference
 * emend.  (emendatio)  : Corrected a flat-out printing mistake.

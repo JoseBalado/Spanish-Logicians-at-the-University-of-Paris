@@ -339,8 +339,29 @@ Prima est: causa materialis habet aliquam causalitatem, quia necessarium est dic
 
 Contra: superius dictum est quod materia prima nullam actionem habet; ergo causa materialis non habet aliquam actionem.
 
-Pro solutione istius videndum est in quo consistit causalitas causae materialis. Respondet ad hoc Scotus in *Quarto* et dicit quod causalitas materialis causae consistit in recipiendo formam, id est quod causa materialis causat in genere suo, scilicet in genere causae materialis, quod est recipere formam. Ideo ad argumentum responde /16a/ distinguendo 
+Pro solutione istius videndum est in quo consistit causalitas causae materialis. Respondet ad hoc Scotus in *Quarto* et dicit quod causalitas materialis causae consistit in recipiendo formam, id est quod causa materialis causat in genere suo, scilicet in genere causae materialis, quod est recipere formam. Ideo ad argumentum responde /16a/ distinguendo aut quod nullam actionem habeat in genere causae materialis, et sic nego. Aut in genere causae efficientis, et sic concedo.
+Unde dico quod causam materialem habere actionem in suo genere est ipsam recipere formam.
 
+Contra: Materia nihil causat; ergo male dicitur. Antecedens patet quia detur illud, dico quod causat totum compositum in genere suo, quod nihil aliud est dicere nisi quod ipsa recipit formam ex qua se ipsa fit compositum. Ex quo sequitur quod causare non solum dici de causa efficiente sed etiam de causa materiali.
+
+Secunda proprietas causae materialis est quod ipsa habet causalitatem quod Deus non posset supplere causalitatem eius. Patet quia causalitas causae materialis non est nisi recipere formam, sed sic est quod Deus non potest recipere aliquam formam; ergo non potest supplere causam materialem.
+
+Contra: Dicunt doctores quod quando Deus separat accidentia a subiecto tunc ipse supplet vicem subiecti; igitur potest supplere causalitatem causae materialis.
+
+Respondetur quod quando dicunt doctores quod Deus supplet vicem subiecti, hoc debet intelligi improprie. Ad istum sensum, id est conservat illa accidentia ac si essent in subiecto, in hoc non est supplere proprie vicem subiecti, sed supplere vicem subiecti est quod ipsemet Deus reciperet accidentia sicut subiectum recipit, quod est impossibile. Ex quo sequitur quod Deus non potest supplere vicem subiecti nisi improprie, et cetera.
+
+Tertia proprietas causae materialis est quod causa materialis est tam intrinseca in composito naturali, ut Deus non posset facere compositum sine tali /16b/ causa, quia implicat quod Deus faciat compositum sine corpore.
+
+Dicebatur in definitione per eam in qua particulam tangitur causa formalis. Unde causa formalis est per quam res habet esse, et conservari per hoc quod recipitur in materia. Pro quo est notandum quod causa formalis et forma pro eodem reputantur et capiuntur, et capitur forma large sicut
+se extendit ad substantialem et accidentalem.
+
+Declaratur definitio ut forma ignis vocatur causa formalis, quia per hoc quod forma ignis recipitur in materia, ignis habet esse. Unde quodcumque compositum intrinsece habet esse per formam. Et notandum est quod quando quaeritur de aliquo per quod habet esse, non debemus respondere 'per formam', nisi quando quaeri tur de composito ex materia et forma.
+
+- Prima proprietas formae est quod forma habet suam causalitatem in suo genere, et eius causalitas est recipi in materia, propter qua receptionem ex ipsa fit compositum, ita quod forma caure compositum in genere causae formalis nihil aliud est quam informare materiam taliter quod ex ipsa et materia fit unum compositum.
+
+- Secunda proprietas causae formalis est quod Deus non potest supplere vicem causae formalis. Volo dicere quod Deus non potest informare materiam taliter quod ex ipso et Deo fiat unum ens naturale.
+
+- Tertia proprietas causae formalis est quod causa formalis est tam intrinseca ipsi composito, ut Deus non posset facere compositum sine causa formali. Ex quo sequitur quod bene dicunt philosophi quod causa formalis et materialis sunt intrinsece /17a/ rei naturali
 
 <!--
 ## Apparatus Criticus Reference

@@ -361,7 +361,57 @@ Declaratur definitio ut forma ignis vocatur causa formalis, quia per hoc quod fo
 
 - Secunda proprietas causae formalis est quod Deus non potest supplere vicem causae formalis. Volo dicere quod Deus non potest informare materiam taliter quod ex ipso et Deo fiat unum ens naturale.
 
-- Tertia proprietas causae formalis est quod causa formalis est tam intrinseca ipsi composito, ut Deus non posset facere compositum sine causa formali. Ex quo sequitur quod bene dicunt philosophi quod causa formalis et materialis sunt intrinsece /17a/ rei naturali
+- Tertia proprietas causae formalis est quod causa formalis est tam intrinseca ipsi composito, ut Deus non posset facere compositum sine causa formali. Ex quo sequitur quod bene dicunt philosophi quod causa formalis et materialis sunt intrinsece /17a/ rei naturali, ita quod implicat res naturales fieri sine causa formali et materiali.
+
+Contra:
+
+Omnes theologi conveniunt in hoc quod quidquid Deus potest cum causa secunda, potest se solo. Sed Deus potest facere cum causa secunda compositum naturale; ergo se solo, et per consequens male dicis.
+
+Respondetur distinguendo maiorem:
+
+Aut in genere causae efficientis et finalis et sic concedo illam. Aut in genere causae materialis vel formalis et sic nego illam.
+
+Deinde dicebatur notanter in definitione causae:
+
+Vel ab ea per quod tangitur ibi causa efficiens. Unde causa efficiens est a qua tanquam ab extrinseco aliqua res efficitur, conservatur, vel corrumpitur:
+
+Declaro hoc non triplex est ut tangitur in hac definitione causa efficiens:
+
+- Primo dicitur causa efficiens eo quod producit rem, ut per patrem intelligo respectu filii. 
+
+- Secundo est causa efficiens conservans rem, et est illa per quam causam efficientem, id est, continuatur in suo, esse ita quod si illa causa absit effectus, non permanebit in suo esse ut Deus gloriosus. Dicitur causa efficiens meae et conservans me, quia ipse deus continuat in instanti meum esse.
+
+Secundum exemplum:
+
+Ut Sol igitur servat lumen quod producitur in aere, quia abeunte Sole desinit esse illud lumen. Et ponitur talis regula:
+
+> Quandocumque aliquis effectus dependet a causa conservante, absentia illius causae sufficit ad hoc quod effectus desinat esse, et absque contrario, ut lumen dependet a sole conservante.
+
+Et ad hoc quod desinat /17b/ esse non requiritur nisi absentia Solis.
+
+Contra: Omne quod corrumpitur ab alio corrumpitur. Sed lumen non corrumpitur ab aliquo; ergo lumen non corrumpitur.
+
+Sed si dicas quod corrumpitur a Sole.
+
+Contra: Sol magis natus est producere lumen quam corrumpere; igitur Sol non corrumpit.
+
+
+Respondetur quod ab illo corrumpitur lumen effective quod facit solem abeuntem:
+
+Et quando aliquis habet lucernam in manu, quae est causa luminis, dico quod ab illo qui removet vel destruit lucernam, corrumpitur lumen effective.
+
+Alia est causa efficiens quae ideo dicitur efficiens quia corrumpit effectum:
+
+Ita quod facit effective effectum desinere esse, ut calor corrumpit frigiditatem. Dico quod calor est causa efficiens corruptionis.
+
+Contra: Si Deus faciat Antichristum non esse, dicitur causa efficiens faciendo quod dictum est, sed non est causa efficiens corrumpendo vel producendo vel conservando; igitur est dabilis alia causa.
+
+Pro solutione huius notanda est una distinctio quam ponit Gregorius et Dominus de Aliaco quae sumpta fuit ab Anselmo:
+
+Videlicet quod aliquid dicitur causa efficiens duobus modis. Uno modo positive, et hoc tribus
+modis: vel in producendo, vel in conservando, vel in corrumpendo.
+
+Alio modo dicitur causa efficiens privative seu negative, quia non conservat, nec producit, nec corrumpit posset, tamen vel producere, vel conservare, /18a/ vel corrumpere.
 
 <!--
 ## Apparatus Criticus Reference

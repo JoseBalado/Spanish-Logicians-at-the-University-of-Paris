@@ -411,7 +411,28 @@ Pro solutione huius notanda est una distinctio quam ponit Gregorius et Dominus d
 Videlicet quod aliquid dicitur causa efficiens duobus modis. Uno modo positive, et hoc tribus
 modis: vel in producendo, vel in conservando, vel in corrumpendo.
 
-Alio modo dicitur causa efficiens privative seu negative, quia non conservat, nec producit, nec corrumpit posset, tamen vel producere, vel conservare, /18a/ vel corrumpere.
+Alio modo dicitur causa efficiens privative seu negative, quia non conservat, nec producit, nec corrumpit posset, tamen vel producere, vel conservare, /18a/ vel corrumpere. Et hoc declaro per aliqua exempla, ut Deus dicitur facere Antichristum non esse, quia non dat sibi esse cum possit
+ei dare esse, ut facio quod Sortes non habeat pecunias quia sibi non do pecunias possum tamen ei dare, et per hoc solvitur argumentum. Nam dico quod Deus dicitur facere Antichristum non esse negative, quia non dat sibi esse et tamen posset sibi esse.
+
+Nunc sequuntur proprietates causae efficientis, quarum prima est: Causa efficiens habet suam causalitatem in suo genere, et eius causalitas consistit in producendo, conservando, vel corrumpendo, namque causam efficientem causare est ipsam producere, conservare, vel corrumpere.
+
+Secunda proprietas: Causae efficientis est quod nunquam potest esse eadem cum suo effectu.
+
+Volo dicere quod non est concedendum quod idem sit causa et effectus respectu eiusdem, ex quo sequitur corollarium quod impossibile est idem efficere seipsum, sed bene potest idem conservare seipsum, quia bene sequitur: "Hoc corrumpit seipsum; igitur est", et ultra, "Hoc corrumpitur; igitur non est"; ergo impossibile est quod idem sit et non sit, ac per consequens idem non potest corrumpere seipsum.
+
+Tertia proprietas: Causa efficiens numquam convenit alicui, nisi sit ens reale et existens in rerum natura.
+
+Volo dicere quod inconveniens est dicere quod aliquid sit causa efficiens et quod non sit, et haec proprietas convenit etiam causae materiali et formali.
+
+Quarta proprietas est quod: Causa efficiens est extrinseca suo /18b/ effectui, et per hoc differt a causa materiali et formali, scilicet qui est dicitur intrinsece.
+
+Quinta proprietas illius causae est quod: Deus potest supplere vicem et causalitatem istius causae efficientis, licet plures non concessi sunt. Unde ponitur talis regula de mente omnium fidelium doctorum, quod Deus potest facere cum causa secunda in genere causae efficientis, potest facere se solo. Ex quo sequitur corollarium quod si secunda causa potest producere aliquem effectum vel corrumpere, Deus gloriosus potest facere se solo, et si causa secunda potest conservare, Deus gloriosus potest conservare.
+
+Sed contra arguitur sic: Deus potest producere paternitatem cum fundamento et termino, id est cum Sorte et Platone filio suo quam non potest producere se solo; ergo regula falsa.
+
+Respondeo concedendo antecedens. Dico tamen quod Deus potest producere paternitatem se solo, id est non concurrente effective suo fundamento et termino, unde dico quod fundamentum et terminus requiruntur, non tamen in ratione causae efficientis. Et ideo si quaeratur an Deus possit producere relationem se solo, distinguo aut se solo effective concurrente, et sic dico quod sic. Aut se solo, id est nullo alio primo requisito, et sic dico quod non, quia requirit fundamentum et terminus quamvis non sint causae efficientes.
+
+Dicebatur notanter in definitione aut gratia cuius aliquid fit in quibus /19a/ verbis tangitur causa finalis. Unde causa finalis est gratia cuius---
 
 <!--
 ## Apparatus Criticus Reference

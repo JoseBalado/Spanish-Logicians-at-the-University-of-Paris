@@ -1677,54 +1677,48 @@ Quaedam est significatio respectiva et quaedam absoluta.
 
 - Alia est significatio termini mentali absoluta, estque illa quam terminus ex se habet.
 
-Modo responderent: Terminum mentalem a sua significatione respectiva bene posse cadere, et sic non est inconveniens concedere quod ly 'omnis' a sua significatione, quae impedit, cadere, quia /23.2a/
-
-ulis respectiva est, quian illam habet respe
-tu alterius termini videlicet negationls posita enim negatione ly 'omnis' imnedit at ipsa deposita non amplius impelit, ergo respectiva est ea significatio a qua
-tonceditur terminos mentales posse ca
-dete.
+Modo responderent: Terminum mentalem a sua significatione respectiva bene posse cadere, et sic non est inconveniens concedere quod ly 'omnis' a sua significatione, quae impedit, cadere, quia /23.2a/ talis respectiva est, quia illam habet respectu alterius termini, videlicet negationis posita, enim negatione ly 'omnis' impedit at ipsa deposita non amplius impedit, ergo respectiva est ea significatio a qua conceditur terminos mentales posse cadere.
 
 # De significatione signi universalis affirmativi
 
-### Sed contra hanc soltitionem arguitur
-s dlcta essent vera, sequeretur quod non pos
-let dari aliquis terminus complexus ex
-actu distributivo et termino cathego. sicut
-bomnis homo, sed hoc est falsum, ergo pro
-positum, falsitas consequentis patet, quia
-potest esse totale extremum huius propostionis Sortes est omnis homo, ergo
-potest esse sine copula postquam coptila ipm
-praesupponit, et per consequens talis terminus potest per se existere, sed sequela
-piobatur. si tale complexum videlicet om
-this homo daretur per se existens et extra
-upositionem, sequeretur quod ly 'omnis' cadetet ab omni sua significatione, quoniam
-non amplius distribuit nec confundit, nec
-impedit postquam est extra propositionem.
-ipet consequens potest cadere a totali ss
-gnificatione quod erat probandum.
-### Ad hoc argumentum aliqui respondent
-syncategorema. omnis non posse inveniri extra
-positionem quamadmodum nec ly 'non' homo,
-seddicunt hoc tottim omis homo subordinari uni termino. incamplexo significanti
-de materiali omnem hominem connotan
-do quod sit unus tantum at proportionaliter
-dicerent de ly 'non' homo culus ratio est,
-quia non potest siricathe. inveniri extra
-conponnem, quia sigatio syncategoremata. est signifi
-tate aliqualiter at. significare aliqualiter
-non est nisi denotare terminum cui addi
-tur aliqualiter accipi qualiter ante non
-accipiebatur, sed hoc non potest fleri extra propositionem quum nihil possit extra
-propositionem accipi, ergo nullum sinea
-the. invenitur extra propositionem et per
-oonsequens, nec hoc totum omnis homo,
-nec ly 'non' homo, sed haec ratio prior non
-est magne apparentie, quis manifestum
-ist multa significata inveniri extra propositionem quemadmodum istud copulatum
-sottes et Plato et hoc disiunctum Sortes vel
-pla. et conditionata ẜm communes et copula impli
-tationis, et hoc totum iste non et hoc totum aliiis homo de quibus omnibus concedendum est includi
-aliquod sincathegorenma. Qnare igitu¬
+### Sed contra hanc solutionem arguitur:
+
+Si dicta essent vera, sequeretur quod non posset dari aliquis terminus complexus ex actu distributivo et termino categorematico sicut ly 'omnis homo', sed hoc est falsum; ergo propositum. Falsitas consequentis patet, quia potest esse totale extremum huius propositionis "Sortes est omnis homo", ergo potest esse sine copula, postquam copula ipsum praesupponit, et per consequens talis terminus potest per se existere.
+
+Sed sequela probatur. Si tale complexum, videlicet 'omnis homo' daretur per se existens et extra propositionem, sequeretur quod ly 'omnis' caderet ab omni sua significatione, quoniam non amplius distribuit nec confundit nec impedit, postquam est extra propositionem, et per consequens potest cadere a totali significatione quod erat probandum.
+
+### Ad hoc argumentum aliqui respondent:
+
+Syncategorema 'omnis' non posse inveniri extra positionem, quemadmodum nec ly 'non homo', sed dicunt hoc totum 'omnis homo' subordinari uni termino incomplexo significanti de materiali 'omnem hominem', connotando quod sit unus tantum. At proportionaliter dicerent de ly 'non homo', cuius ratio est quia non potest syncategorema inveniri extra propositionem, quia significatio syncategorematis est significare aliqualiter, at significare aliqualiter non est nisi denotare terminum cui additur aliqualiter accipi qualiter ante non accipiebatur. Sed hoc non potest fieri extra propositionem quum, nihil possit extra propositionem accipi; ergo nullum syncategorema invenitur extra propositionem et per consequens nec hoc totum 'omnis homo', nec ly 'non homo'.
+
+Sed haec ratio prior non est magnae apparentiae, quia manifestum est multa significata inveniri extra propositionem, quemadmodum istud copulatum "Sortes et Plato", et hoc disiunctum "Sortes vel Plato", et conditionata secundum communes, et copula implicationis, et hoc totum istae 'non' et hoc totum 'aliquis homo', de quibus omnibus concedendum est includi aliquod syncategorema.
+
+Quare igitur /23.2b/ respondeo hoc totum 'omnis homo' inveniri extra propositionem. Et ad argumentum quo probatur esse falsum, respondet quidam dicens quod ly 'homo' distribuitur adhuc extra propositionem et non supponit distributiue, nec propterea sequitur sub illo termino licere ascendere vel descendere, quia non ponitur in propositione. Et ex definitione ascensus patet sub nullo termino esse ascendendum, nisi sub termino posito in propositione.
+
+### Et si contra hoc arguas:
+
+Bene sequitur ille terminus 'homo' distribuitur; ergo intellectus denotat accipi illum terminum 'homo' pro suis significatis copulatiue, sed hoc est impossibile, quia non accipitur; ergo propositum.
+
+### Ad hoc uno modo potest responderi negando consequentiam:
+
+Unde signum  distribuere non est id quod dictum est, sed est signum esse aptum natum ad faciendum intellectum terminum accipere pro suis significatis copulatiue, et hoc fiet quando ponetur in propositione.
+
+### Aliter posset responderi ad argumentum in principio factum:
+
+Dicendo significationem illius signi 'omnis' non esse distribuere, sed esse significare distributive.
+
+Similiter non esse impedire, sed significare impeditive, et isto modo nullus terminus mentalis syncategorematicus ab aliqua sua significatione potest cadere, sive ea fuerit absoluta sive respectiva. Et si quaeras quid est significare distributive, non est aliud quam signum aliquod additum alicui termino esse aptum natum, sive immutare intellectum, ad aliqualiter intelligendum, videlicet copulatiue significata per talem terminum cui additur qualiter intellectus
+antea non intelligebat.
+
+### Posset etiam aliter dicere ly 'omis' semper distribuere:
+
+Et in hac "Non omnis homo est animal", nam in ordine ad partem distribuit, et quanvis ly 'omnis' non exerceat officium in ordine ad totam, non est propterea dicendum cadere a sua significatione aut impedive significare, sed solum a suo actuali officio suspendi, quemadmodum de agentibus naturalibus habentibus impedimentum diceres.
+
+## Sed contra hoc arguitur:
+
+Si ly 'omnis' significaret distributive et confuse et impeditive /24.1a/ sequeretur
+
+
 <!--
 ## Apparatus Criticus Reference
 * emend.  (emendatio)  : Corrected a flat-out printing mistake.

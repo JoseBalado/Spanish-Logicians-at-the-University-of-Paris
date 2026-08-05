@@ -1568,7 +1568,7 @@ Immo notitia composita est subiecto et praedicato unius est eadem cum notitia co
 
 Sed secundam medietatem quae est praedicatum, illud signum 'omnis' distribuit, sed in propositione mentali cui subordinatur, haec "Omnis homo est homo" prima medietas notitiae quae est subiectum distribuitur, et secunda quae est praedicatum confunditur ab eodem signo distributivo. Et sic patet in illis duabus mentalibus actus non est esse eiusdem speciei, postquam actus distributivus unius in solum praedicatum agit, et actus distributivus alterius in subiectum et praedicatum.
 
-### Et si quaeras quare est quod ista copula, [quae] est in mentali cui haec "Homo est homo" subordinatur, unit primam medietatem cum secundam medietatem, et illud signum omnis distribuit unam medietatem et non duas tertias illius notitiae:
+### Et si quaeras quare est quod ista copula, est in mentali cui haec "Homo est homo" subordinatur, unit primam medietatem cum secundam medietatem, et illud signum omnis distribuit unam medietatem et non duas tertias illius notitiae:
 
 Responsio est in promptu, dicendo quod est ex natura actus.
 
@@ -1716,7 +1716,109 @@ Et in hac "Non omnis homo est animal", nam in ordine ad partem distribuit, et qu
 
 ## Sed contra hoc arguitur:
 
-Si ly 'omnis' significaret distributive et confuse et impeditive /24.1a/ sequeretur
+Si ly 'omnis' significaret distributive et confuse et impeditive /24.1a/ sequeretur ly 'omnis' esse terminum aequivocum, sed hoc est falsum, nam in mente ultimata non reperitur aequivocatio; ergo dicta nulla.
+
+Sequela probatur nam ly 'omnis' habet tres significationes nullo pacto inter se convenientes, magis quam sidus caeleste et canis latrabilis.
+
+# Et an sit aequivocatio in mente
+
+### Hic inquiritur decimaseptima difficultas quae erat utrum aequivocatio in mente ultimata reperiatur:
+
+Et hactenus semper supposuimus non inveniri, ideo primo videndum est de quaestio et deinde de syncategorematis an sit aequivoca vel univoca dicetur.
+
+### Fuit posito quandoque communis aliquorum ponentium in mente ultimata aequivocationem:
+
+Non solum ex parte categorematis notitiarum, verum ex parte syncategorematis quae posito quo ad notitias categorematicas, falsa est. Unde sic arguo non potest dari unus terminus mentalis synonymus cum hoc termino vocali 'canis'; ergo non potest dari notitia categorematica aequivoca.
+
+Consequentia patet, quia non est maior ratio de uno quam de alio.
+
+Antecedens probatur, ly 'canis' significat canem latrabilem et piscem marinum non connotatiue, sed absolute. Sed non potest dari notitia absoluta idem praecise repraesentans, aut connotativa habens eandem connotationem quam ly 'canis'; ergo propositum.
+
+Minor probatur quoad primum commune est principium nominalium omnem conceptum absolutum abstractum esse ab aliqua convenientia essentiali, talemque conceptum repraesentare omnia illa inter quae talis convenientia reperiri potest et solum illa. Sed non potest dari aliqua essentialis convenientia reperta inter canem latrabilem et sidus caeleste quin illa inter omnia corpora aut saltem, inter omnia animalia, reperiatur; ergo non potest dari conceptus absolutus solum repraesentans canem latrabilem et sidus caeleste non repraesentans alia. Et consimili ratione probabis non posse dari conceptum connotativum solum illa repraesentantem eodem modo connotantem, sicut ly 'canis', nam non poterit reperiri inter illa duo convenientia accidentalis a qua fuerit abstracta talis notitia quin inter alia consimilis reperiri posset.
+
+### Notanter addidi non posse reperiri conceptum solum illa repraesentantem eodem modo connotantem:
+
+Quia in syllogismis tenui posse dari conceptum repraesentantem canem latrabilem et sidus caeleste, et /24.1b/ aliud connotantem conceptum, puta significantem de materiali, illa connotando quod repraesententur per disiunctum mentale compositum ex duabus notitiis, quarum altera solum significet canes latrabiles et altera solum sidera caelestia sed hic terminus canis in voce.
+
+Si placet eum connotativum ponere, non habet illam connotationem, nam si illam haberet, non poneretur aequivocus, nam unus conceptus potest dari illa repraesentans consimili modo connotans. Ex hoc igitur relinquo non posse terminum aequivocum categorematicum inveniri.
+
+### Sed nonnulli syncategorema aequivocum in mente posuerunt:
+
+Nescientes solvere rationem illam, Gregorii qua nitebatur probare hanc "Omnis albedo est qualitas" fore hanc "Omnis qualitas est albedo", cum enim ponerent hanc "Omnis albedo est qualitas compositam". Et argumento Gregorii ad partem affirmativam questionis, in principio facto, apparebat illis probari illam propositionem esse veram et falsam, concedebant illam esse veram et falsam, quare aequivocam (secundum namque eandem significationem non potest aliqua propositio esse vera et falsa) et non erat aequivoca ratione illius termini albedo, nec ratione praedicati nec ratione copulae inferebant (ut reor), ex hoc aequivocationem provenire ratione illius significationis.
+
+Quare syncategorema illud aequivocum est ratio haec decipiebat eos, qua soluta est dubio quartodecimo. Patet igitur ex falso fundamento opinionem hanc ortum habuisse.
+
+### Contra quam (et si multi valde probabilem existiment) apparet mihi hoc argumentum fore bonum:
+
+Arguo ergo sic: Sequitur ex hac opinioni, eundem ascensum errorem et euidentiam esse, quod est impossibile. Sequela probatur: Assensus quo quis huic mentali adhaeret "Omnis albedo potest esse qualitas" quam ipsi necessariam et impossibilem astruent est euidentia.
+
+Et quod sit error probo: Intellectus taliter iudicat mediante aliquo assensu qualiter per apprehensivam cuius ille est assensus, apprehendit seu significatur. Sed per apprehensivam illam significatur et intellectus apprehendit falsum, immo impossibile. Nam concedis apprehensivam illam impossibilem fore, quia apprehendit idem quod per hanc omnis qualiter possibiliter est albedo nam sunt eaedem; ergo propositum.
+/24.2a/
+
+# Qualiter nulla aequivoca reperitur in mente
+
+### Hoc confirmatur apparentiori argumento assensum propositionis per se notae solum ab apprehensiva terminorum produci, consensus est omnium:
+
+Capio ergo hanc apprehensivam:
+
+> Si aequalibus aequalia demuntur remanentia sunt aequalia,
+
+Aut si mavis, hanc quae etiam est per se nota:
+
+> Si 'a' et 'b' sunt aequalia uni tertio, 'a' et 'b' sunt aequalia inter se.
+
+Et manifestum est.
+
+Secundum: Hactenus dicta quamcumque harum necessariam esse et etiam impossibilem, nam haec ultima est haec: "Si 'a' et 'b' sunt aequalia inter se, 'a' et 'b' sunt aequalia uni tertio", et haec non est bona consequentia, quare impossibilis est quod autem sit illa.
+
+Patet eadem ratione qua concedebatur hanc mentalem "Omnis albedo est qualitas" fore hanc "Omnis qualitas est albedo", tunc arguitur, si haec apprehensiva: "Si 'a' et 'b' sunt aequalia uni tertio, sunt aequalia inter se" est per se nota; ergo termini eius immediate producunt assensum euidentem. Est autem assensus ille productus a propositione impossibili, puta ab illis terminis
+qui etiam sunt propositio impossibilis; ergo ille assensus quo propositio per se notae assentimus est error.
+
+### Aut facilius sic sequitur:
+
+Hanc mentalem: "Si 'a' et 'c' sunt aequalia inter se, 'a' et 'c' sunt aequalia uni tertio" esse per se notam, ipsamque immediate producere assensum sui, quod impossibile est, nam taliter assentiendo possum decipi. Sequela sic probatur nam haec: "Si 'a' et 'c' sunt aequalia uni tertio, 'a' et 'c' sunt aequalia inter se" est per se nota, et termini eius producunt assensum, et concedis hanc fore illam, terminosque huius fore terminos illius; ergo illa prius assumpta per se nota eundemque assensum produci quem haec.
+
+### Et ex hoc patet non posse habere assensum evidentem illius propositionis per se notae quin illo assensu decipiat:
+
+Nec non me non posse habere illius assensum euidentem quin eiusdem habeam errorem. Haec credo sufficiunt ad hanc improbandam opinionem et maxime, quia rationes quas haec opinio pro se adducit sunt debiles.
+
+## Unde si arguunt contra opinionem communiorem datur in voce unus terminus aequivocus, ergo et in mente:
+
+Non est enim ratio quare in voce inveniatur aequivocatio et non in mente.
+
+### Item datur unus terminus mentalis significans /24.2b/ illud quod ly 'canis', puta ly 'ens', aut unus synonymus cum ly 'canis'; ergo datur aliquis aequivocus in mente:
+
+Consequentia patet, nam si ly 'canis' in voce est aequivocus, terminus sibi synonymus in mente talis aequivocus erit.
+
+### Secundo arguitur:
+
+Capta hac mentali "Homines sunt asini vel homines" et 'asini' sunt asini, in potestate intellectus est capere ly 'vel' pro coniunctione principali aut ly 'et'. Sed si capiat ly 'vel' est falsa, et ly 'et' est vera; ergo aequivoca est illa propositio.
+
+### Tertio arguo:
+
+Huius mentalis "Homo est animal" in potestate intellectus est capere materialiter extrema, et sic in uno sensu est vera et in alio est falsa; ergo illa propositio mentalis est aequivoca.
+
+### Ad haec facillimum est respondere:
+
+Ad primum data est ratio quare in mente non potest dari aequivocatio. Argumento primo contra ponentes aequivocationem, nam illa est ratio in voce autem contingit, nam cum ad placitum termini significent potest idem terminus multas habere significationes, quas non potest unus conceptus incomplexus habere.
+
+### Ad aliud distinguo vel quod detur unus terminus adaequate significans:
+
+Idem quod ly 'canis', et praecise et hoc impossibile est. Ut probatum est argumento primo aut non praecise et hoc est verum, nam ly 'substantia' et caetera.
+
+### Ad secundum nego quod in potestate intellectus sit capere ly 'vel' aut ly 'et' pro copula principali:
+
+Sed ex natura actuum, unde si ly 'vel' solum coniungat ly 'asini' cun ly 'homines' ab eisque tantum producatur, tunc ly 'et' copula est principalis producta ab illis duabus propositionibus. Nec potest iam ly 'vel' coniungere illas duas propositiones, esseque coniunctio principalis, nam est unum notum. Et superius probatum quod actus qui aliquos terminos determinat non potest alios unire.
+
+At vero si ly 'vel' esset coniunctio principalis, esset una alia propositio, et non posse ly 'vel' non esse coniungens principale.
+
+### Ad ultimum nego antecedens:
+
+Sed de hoc ultimo dubio agetur. Relinquitur ergo rationes non concludere, quare tenemus nullam
+aequivocationem inveniri in mente, nullamque ultimatam propositionem veram et falsam semper intelligo in mente ultimata, quia conceptus non ultimati voces sequuntur.
+
+### Nunc aunt redeo ad id quod assumpseram de hoc actu omnis ad probandum quod /25.1a/ esset aequivocus arguebatur:
+
 
 
 <!--

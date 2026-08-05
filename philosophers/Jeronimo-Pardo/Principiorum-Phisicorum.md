@@ -432,7 +432,30 @@ Sed contra arguitur sic: Deus potest producere paternitatem cum fundamento et te
 
 Respondeo concedendo antecedens. Dico tamen quod Deus potest producere paternitatem se solo, id est non concurrente effective suo fundamento et termino, unde dico quod fundamentum et terminus requiruntur, non tamen in ratione causae efficientis. Et ideo si quaeratur an Deus possit producere relationem se solo, distinguo aut se solo effective concurrente, et sic dico quod sic. Aut se solo, id est nullo alio primo requisito, et sic dico quod non, quia requirit fundamentum et terminus quamvis non sint causae efficientes.
 
-Dicebatur notanter in definitione aut gratia cuius aliquid fit in quibus /19a/ verbis tangitur causa finalis. Unde causa finalis est gratia cuius---
+Dicebatur notanter in definitione aut gratia cuius aliquid fit in quibus /19a/ verbis tangitur causa finalis, unde causa finalis est gratia cuius aliquid fit per efficientem, id est, per cuius amorem et dilectionem agens, id est, producens operatur. Ut domificator facit domum propter
+pecunias, pecuniae sunt illae gratia quarum, vel amore quarum, domus fit a domificatore, et in hoc consistit causalitas causae finalis. Ita quod causam finalem causare in suo genere nihil.
+
+Aliud est quam propter amorem ipsius efficientem operari, et per hoc solvitur unum argumentum et difficile, quod tale est: Pono casum quod domificator faciat domum propter pecunias quae nondum sunt, quo facto, quaero an illae pecuniae sint causa finalis domus vel domificatoris? Dico quod sic.
+
+Contra: Nihil est causa nisi sit, sed illae pecuniae non sunt, igitur.
+
+Respondetur negando quod illud quod non est non est causa, et hoc de causa finali, et notandum est quod aliquid efficere in genere causae finalis est ipsum amari vel desiderari propter cuius amorem et desiderium efficiens operatur. Modo dico quod stat bene quod illud quod non est possit amari, cognosci, et desiderari.
+
+Contra: Omnis causa aliquid causat, sed causa finalis nihil causat; ergo non est causa.
+
+Respondetur negando minorem, imo causat effectum, et ratio est quia ista est vera: "Illae pecuniae in genere causae finalis causat domum", et ideo dico quod effectus causae finalis est ille qui producitur ab agente gratia alterius.
+
+Contra: Ergo illud quod non est est causa illius. Quod est concedo in genere causae finalis.
+
+Contra: Ista est falsa /19b/: "Illae pecuniae sunt causae finales", ergo maledicitur. Tenet consequentia et antecedens patet, quia est una affirmativa cuius subiectum pro nullo supponit.
+
+Respondetur quod ly 'pecuniae' ampliatur rationem dicit de ly 'causa finalis', quia ly 'causa finalis' importat actum mentis, quia esse causam finalem nihil aliud est quam amari et desiderari, propter quod causa efficiens operatur.
+
+Ex quo sequitur quod isti termini 'amo', 'cognosco' add illud quod est vel fuit vel erit, propter esse ampliativum dicuntur. Ita iste terminus 'causa finalis', unde causa finalis est duplex: vel finis gratia cuius, seu finis primarius seu primaria intentio. Et est ille qui est ultimus intentione seu intentione agentis, ita quod si quaereretur ab agente cur operatur, respondetur propter illum fine, non ulterius procedendo.
+
+Sed alius est finis quo seu secundarius seu secundaria intentio, et est ille qui non est ultimus in intentione agentis. Sed si quaeratur de isto fine ab agente, responderet propter alium finem, et iste finis vocatur, a doctoribus, finis sub fine. Ut domificator facit domos propter pecunias, si dicatur sibi cui vult pecunias, ergo diceret quod ut habeat necessaria, tunc dico quod habere necessaria vitae est ultimus finis, et finis gratia cuius. Sed si finis sub fine seu quo est habere pecunias.
+
+De quo fine ponuntur aliquae proprietates quarum prima est: Finis seu causa finalis habet aliquam qualitatem in suo genere, quae qualitas in hoc consistit quod est eam amari et desiderari, propter cuius amorem et desiderium agens /20a/ operatur.
 
 <!--
 ## Apparatus Criticus Reference

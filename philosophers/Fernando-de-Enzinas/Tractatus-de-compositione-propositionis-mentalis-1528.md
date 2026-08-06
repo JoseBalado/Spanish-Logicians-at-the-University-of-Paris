@@ -1819,7 +1819,88 @@ aequivocationem inveniri in mente, nullamque ultimatam propositionem veram et fa
 
 ### Nunc aunt redeo ad id quod assumpseram de hoc actu omnis ad probandum quod /25.1a/ esset aequivocus arguebatur:
 
+Namque si ly 'omnis' habet tres significationes nullo pacto convenientes; ergo aequivocus est.
 
+# De aequivocatione in mente et de significatione negationis
+
+### Forte dices me nihil probare:
+
+Quia est implicatio quod sit terminus aequivocus in mente, nam probaturus sum quod subordinentur diversis conceptibus et caetera. Hoc autem non potest esse, quia terminus mentalis est.
+
+### Haec solutio non satisfacit:
+
+Unde quaero definitionem huius termini aequivocum in mente, ut ad minus uni male respondenti possem probare aliquem terminum esse aequivocum in mente, quamvis enim Chimaera non potest esse illi termino definitionem quid nominis assignamus et Aristoteles Quarto Physicorum
+Physicorum, quamvis probat vacuum non posse esse. Non solum inquirit eius definitionem verum, antiquos ipsum male definientes impugnat. Infiniti etiam definitionem acceptionesque ponit quamvis neget ipsum dari.
+
+### Et confirmatur:
+
+Suppono quod si detur aliquis terminus aequivocus in voce, et concedas aliquem terminum mentalem praecise et adaequate taliter significare, sicut ille terminus qui est in voce, quod tibi ex hoc probatum sit aequivocum, esse illum terminum mentalem haec suppositio manifesta est, nam ratione aequivocationis termini vocalis posses facere aliquam propositionem mentalem veram esse et falsam.
+
+Idemque facies ratione termini mentalis hoc supposito sic argumentor: Sit ly 'a' quod imponatur ad
+significandum distributive ab uno impositore et ab alio confusiue aequalesque sint impositiones, tunc haec propositio mentalis "Omnis homo est a animal" est vera et falsa; ergo aequivoca. Et non nisi ratione illius syncategorematis 'a'; ergo illud syncategorema 'a' est aequivocum.
+
+Tunc ultra sic arguo: Ly 'omnis' significat taliter qualiter ly 'a'; ergo ly 'omnis' est aequivocum. Consequentia patet per suppositum. Praeterea illa vocalis assumpta non subordinatur nisi uni in qua loco de ly 'a' ponatur signum distributivum; ergo et caetera.
+
+### Forte dicis quod ly 'omnis' non est aequivocum:
+
+Quia quamvis habet plures significationes inordinatas tamen copulatim et coniunctim illas habet sive significat, et ly 'a' non copulatim significat.
+
+### Contra hoc arguitur:
+
+Vel tu intelligis quod ly 'omnis' habet suas significationes /25.1b/ coniunctim, id est quod quamlibet illarum habet, et hoc modo etiam ly 'a', copulatim significat seu habet suas significationes.
+
+### Praeterea arguitur:
+
+Intellectus potest conceptum producere habentem significationes non magis convenientes quam sydus caeleste et canes latrabiles; ergo producere conceptum synonymum secundum omnem significationem, cum hoc terminus canis.
+
+Consequentia patet, quia non est maior ratio de uno quam de alio. Sed probatur antecedens, nam potest actum  distributiuum producere qui copulative et disiunctim intellectui repraesentat quae significationes non tamen conveniunt sicut canis latrabilis et sidus caeleste; ergo et caetera.
+
+## Pro solutione horum:
+
+Notandum est primo quod ideo negatur aliquem terminum categorematicum aequivocum esse in mente, quia non potest aliqua notitia incomplexa significare aliqua individua diversarum specierum, velut cane latrabilem et piscem marinum, quin etiam significet individua speciei intermediae.  Nam omnis talis notitia debet abstrahi ab aliqua convenientia essentiali vel accidentali reperta inter significata talia et caetera. Et quia non potest inter significata talia reperiri aliqua convenientia quin illa inter magis convenientia individua seu inter speciem inter mediam et unum illorum significatorum reperiri possit, semper secluso hic convenientiam illam accidentalem, quae inter quaecumque invenitur. Ut puta repraesentari per hunc vel illum conceptum de qua iam diximus. Ideo negamus talem conceptum in mente reperiri posse.
+
+### Atque hinc habes quomodo definietur hic terminus 'terminus aequivocus mentalis':
+
+Et non ut quidam dicunt qui definiunt terminum aequivocum mentalem
+sicut terminum aequivocum vocalem ideoque plane erant, nam cum concedant aequivocationem non reperiri in mente simul concedunt terminum omnino eodem modo significantem, sicut ly 'canis' in vocem, in mente ultimata reperiri, quod repugnat dictis. Nam si terminus ille ponatur in propositione veram et falsam, reperies propositionem.
+
+### Ex principio assumpto, videlicet quod 'omnis' conceptus incomplexus debet abstrahi /25.2a/ et caetera:
+
+Non infera (velut nonnulli) qui evidenter credunt. Hac ratione probare non posse dari conceptum aequivocum a consilio in mente sicut voce, nam naturalis similitudo hominum homines pictos pro
+similitudinem repraesentat velut haec vox 'homo', nec oportet quod significatio talis abstrahatur a convenientia essentiali, nam id non significatur per illam notitiam principaliter, sed mediante per similitudinem. Est enim illa quaedam significatio sequens principalem, et de significatis principalibus, et non minus principalibus aut respectivis. Intelligunt id principium nominales.
+
+### Atque hinc fit, cum nihil sit significatio seu res significata per syncategoremata:
+
+Huiusmodi actus significationem non abstrahi ab aliqua convenientia; non enim huiusmodi significationes, sicuti distribuere et confundere, aliquo pacto conveniunt aut differunt.
+
+### Nunc autem ex his restat respondere ad argumentum:
+
+Ad quod sunt quidam, modus respondendi, quorundam asserentium quodcunque syncategorema vocale exercens diversa officia aequivocum esse multisque actionibus subordinari. Itaque nullus actus mentalis distribuit et confundit.
+
+Sed datur unus actus tantum distribuens, nullo pacto confundens, et unus tantum confundens, non potens distribuere; et tunc dicerent hanc propositionem "Omis homo est animal" huic subordinari "Omnis homo est <a> animal". Itaque ille actus omnis duobus subordinatur actibus: uni subiectum distribuenti et alteri praedicatum confundenti. Et haec negatio 'non' in hac propositione "Non homo est animal" tribus actibus subordinatur: uni distribuenti subiectum, alii distribuenti praedicatum, alii vero neganti copulam.
+
+Sed hoc non est verum, nam sequitur in mentali, cui haec propositio subordinatur "Omnis homo est animal", illud signum 'omnis' efficit partem extremi; nam cum subordinetur illa mentalis huic "Omnis homo est <a> animal", in qua signum illud 'omnis' non habet illam virtutem nisi tantum subiectum distribuendi, virtus eius non transit ultra terminum cui immediate additur.
+
+Ergo per probata in difficultate nona, signum illud efficitur pars extremi clare /25.2b/ namque satis ibi probata est regula communis quam isti non possunt negare, nam fundamenta quae ponimus dubio sexto sunt concessuri, cum non ponunt aequivocationem in mente. Quare ergo aliter dicerem significationes de ly 'omnis' quamvis nullam habeant convenientiam nec differentiam, non propterea efficere illum aequivocum.
+
+Sed quando quaeris quomodo tu habebis argumentum ad probandum, male respondenti unum terminum syncategorematicum aequivocum esse in mente. Respondeo quod ad hoc quod aliquod syncategorema esse aequivocum in mente inferas, et in voce aliquod subordinati diversis actibus non synonymis et caetera. Sufficit tale syncategorema diversa officia posse exercere, taliter quod ratione significationum talis termini seu officiorum quae exercet propositio aliqua vera et falsa possit simul esse.
+
+### Ex quo sequitur quod si unum signum significaret simul distributive et ampliative quod non esset aequivocum:
+
+Sed si esset signum taliter significans sicut positum est in confirmatione, sic quod aeque immediate significaret supra unum et eundem terminum distributive et determinate aut disiunctim esset aequivocum, et sic, si vocale esset, duobus actibus deberet subordinari, mentale autem tale non potest reperiri. Non tamen esset aequivocum si supra unum significaret distributive et supra alium confuse vel determinate.
+
+## Circa dubium decimumoctavum:
+
+Utrum videlicet duae negationes inveniantur in mente fuit opinio nonnullorum, tenentium duas negationes non posse inveniri in mente se invicem impedientes, quorum rationes ponam quoniam multae earum procedunt, quia non intelligunt significationem huius termini 'negare', et eorum rationes male solvuntur a communibus propter idem.
+
+## Arguitur igitur primo sic:
+
+Si duae negationes se impedirent propositionemque affirmativam redderent, sequeretur hanc mentalem esse affirmativam "Homo non est animal". Id sic probo, quoniam sunt ibi duae medietates illius totius negationis, quarum quaecumque est negatio quae se impedient.
+
+### Forte dices quod ille duae negationes unam constituunt:
+
+Et ideo non debent exercere officium duarum sed unius tantum.
+/26.1a/
 
 <!--
 ## Apparatus Criticus Reference

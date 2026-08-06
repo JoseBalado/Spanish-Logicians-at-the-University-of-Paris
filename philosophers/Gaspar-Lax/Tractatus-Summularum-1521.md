@@ -1053,7 +1053,7 @@ Sustentabile est etiam oppositum huius, si teneatur primum non sequitur ex illo 
 
 Si dicatur secundo modo esset difficultas, ante quam praecognovissem Sortem mediante aliqua notitia discreta, illa imago repraesentabit mihi Sortem in potentia propinqua, licet haec difficultas ad nomen consistit, quia secundum quod exponatur illa particula in potentia propinqua ita dicendum erit.
 
-### Contra diffinitionem de ly 'significare naturaliter' arguitur sic: Aliquis terminus significat aliquid naturaliter qui non significat illud secunda impositione; ergo definitio mala     
+### Contra definitionem de ly 'significare naturaliter' arguitur sic: Aliquis terminus significat aliquid naturaliter qui non significat illud secunda impositione; ergo definitio mala     
 
 Antecedens patet quia ille terminus scriptus 'ens' significat se naturaliter et non significat se seclusa impositione; igitur minor patet quia significat se ex impositione. Ergo non seclusa impositione consequentia patet, quia significare seclusa impositione nihil aliud est quam significare et non cum impositione.
 

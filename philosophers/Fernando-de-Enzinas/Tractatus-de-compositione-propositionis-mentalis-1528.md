@@ -619,10 +619,10 @@ Unde quamvis determinatio non supponat, totum bene potest supponere, quando dete
 
 Aliqui namque dicerent significare aliqualiter omnem eum terminum, qui non potest esse extremum in propositione; sed hi non explicant quis sit modus significandi aliqualiter.
 
-Alii dicunt quod significare aliqualiter est exercere officium supra aliquem terminum in propositione, utputa confundendo, distribuendo, ampliando, restringendo, et cetera. Quae definitio de modo significandi aliqualiter simplici et non complexo intelligenda est. Et hoc modo non procedit ratio cuiusdam impugnantis definitionem illam de propositione, quae significat aliqualiter, propter quod dat hanc diffinitionem:
+Alii dicunt quod significare aliqualiter est exercere officium supra aliquem terminum in propositione, utputa confundendo, distribuendo, ampliando, restringendo, et cetera. Quae definitio de modo significandi aliqualiter simplici et non complexo intelligenda est. Et hoc modo non procedit ratio cuiusdam impugnantis definitionem illam de propositione, quae significat aliqualiter, propter quod dat hanc definitionem:
 > Significare aliqualiter est significare rem taliter se habere vel esse, vel non taliter se habere.
 
-Sed haec diffinitio minus valet quam impugnata ab eo, quia modus hic significandi qualis in definitione explicatur, solum propositioni comperit. Praeterea sequitur ly 'omnis' non significare aliqualiter, nam non significat rem taliter se habere vel rem non taliter se habere, cum non significet rem.
+Sed haec definitio minus valet quam impugnata ab eo, quia modus hic significandi qualis in definitione explicatur, solum propositioni comperit. Praeterea sequitur ly 'omnis' non significare aliqualiter, nam non significat rem taliter se habere vel rem non taliter se habere, cum non significet rem.
 
 ### Item videtur quod quicumque terminus categorematicus absolutus significaret aliqualiter:
 
@@ -634,13 +634,13 @@ Hoc nihil est, nam manifestum est ex hoc sequi solam propositionem eo modo rem a
 
 Item ly 'currens' significat aliqualiter, nam significat rem aliqualiter se habere. Similiter ly 'sedens' et 'agens' et cetera.
 
-Aliter ergo definies hunc terminum 'significare aliqualiter' pro diffinitionem illam superius data.
+Aliter ergo definies hunc terminum 'significare aliqualiter' pro definitionem illam superius data.
 
 ### Significare aliqualiter est exercere officium supra aliquem terminum, vel includere terminum tale officium potes exercere:
 
 Secundam hanc particula pono propter propositionem, de cuius significatione dicetur dubio tertio et vicesimo, et propter terminos includentes huiusmodi syncategoremata, ut ly 'omnis homo', 'homo vel asinus' et similes. Ly 'exercere' in definitione oportet ut dicat aptitudinem, sicut termini in definitionibus dicunt.
 
-## Contra quam diffinitionem est bona difficultas de signis particularibus, unde arguitur sic:
+## Contra quam definitionem est bona difficultas de signis particularibus, unde arguitur sic:
 
 In hac propositione "Aliquod animal currit" seu "Aliquis dormit", ly 'aliquod' syncategorema est, quare significat aliqualiter; et tamen non exercet officium supra aliquem terminum, nam maxime esset restringendo illum aut dando ei aliquam suppositionem. Sed ille terminus eodem modo et pro tot staret, syncategoremate illo ablato, sicut prius; ergo nec restringit nec novam ei praebet suppositionem.
 
@@ -700,7 +700,7 @@ Quidam dicit significare particulariter esse denotare terminum accipi quodammodo
 
 # De significatione pronominis et verbi
 
-## Sed contra diffinitionem positam huius termini 'significare aliqualiter' arguitur, tangendo difficultatem de pronominibus demonstrativis:
+## Sed contra definitionem positam huius termini 'significare aliqualiter' arguitur, tangendo difficultatem de pronominibus demonstrativis:
 
 Ex ea definitione sequeretur pronomen demonstrativum pure syncategorematicum esse significare quam aliqualiter; sed hoc est falsum, ergo et cetera. Sequela manifesta /12.1a/ est, et probatur minor actus pure demonstrativi significat rem demonstratam; ergo significat aliquid.
 
@@ -995,7 +995,7 @@ Sequela probatur: quando remittitur notitia categorematica, corrumpit obiectum a
 
 ### Et confirmatur contra idem fundamentum:
 
-Si copula ab extremis in fieri et conservari dependeret, sequeretur quod daretur aliquis terminus incomplexus qui non posset poni in propositione. Sed hoc est falsum; ergo et fundamentum. Minor manifesta est ex diffinitione termini et probatur sequela.
+Si copula ab extremis in fieri et conservari dependeret, sequeretur quod daretur aliquis terminus incomplexus qui non posset poni in propositione. Sed hoc est falsum; ergo et fundamentum. Minor manifesta est ex definitione termini et probatur sequela.
 
 Capio notitiam auditivam a sono, qui sonus per horam continuetur successive secundum suas partes, tunc notitia illa auditiva non potest poni in propositione, nam copula illa esset ens pure successivum in illa hora et repugnaret partibus eius esse simul. Nam dato opposito, signetur illa copula et sequitur quod diversas notitias coniungit in prima medietate horae et in secunda, nam non est eadem notitia in prima medietate et in secunda.
 

@@ -633,7 +633,7 @@ Distinctio vero realis est inter ea quae circumscripta operatione intellectus re
 
 Scotus vero scrutatus est distinctionem mediam, quae nec est rationis nec omnino realis, quam vocat formalem. Ut primo distinguit inter distinctionem rationis, et distinctionem ex natura rei. Et distinctionum ex natura rei apud ipsum, alia est realis, alique formalis.
 
-Distinctio realis est inter illa quae distinguuntur tanquam duae res, ut homo et lapis, sed distinctio formalis est inter ea quae sunt una res, nihilominus aliquid est de essentia et diffinitione quidditativa unius, quod non est de essentia alterius.
+Distinctio realis est inter illa quae distinguuntur tanquam duae res, ut homo et lapis, sed distinctio formalis est inter ea quae sunt una res, nihilominus aliquid est de essentia et definitione quidditativa unius, quod non est de essentia alterius.
 
 Ad propositum descendendo dicit, quod 'humanitas' et 'animalitas' non distinguuntur sicut duae res, immo 'humanitas' est res, quae est 'animalitas', sed tamen quia in definitione 'humanitatis' includitur 'rationalitas', quae non includitur in definitione 'animalitatis', propterea distinguuntur formaliter, et non solum ratione per operationem intellectus. Itaque haec est falsa: "Humanitas est animalitas", quae facit sensum formalem, sed haec est vera: "Humanitas est res quae est animalitas", quae facit sensum identicum. Et eadem ratione, haec est falsa: "Rationalitas est sensualitas", et a fortiori haec: "Rationalitas est animalitas".
 

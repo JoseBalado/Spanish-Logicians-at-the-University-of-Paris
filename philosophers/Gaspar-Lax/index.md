@@ -203,7 +203,7 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 ### Tractatus syllogismorum (1514)
 - Tractatum syllogismorum in lucem iam emissurum — Page 4a
 - De divisionem huius termini ‘syllogismus’ — Page 4a
-- Pro diffinitione syllogismi categorici — Page 4b
+- Pro definitione syllogismi categorici — Page 4b
 - Prima conditio — Page 4b
 - Secunda conditio — Page 5a
 - Tertia conditio — Page 5a
@@ -320,7 +320,7 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 ---
 
 ### Tractatus summularum (Cesaraugustane, 1521)
-- De diffinitione — Page 12
+- De definitione — Page 12
 - De divisione — Page 15
 - De termino — Page 18
 - De significare — Page 24

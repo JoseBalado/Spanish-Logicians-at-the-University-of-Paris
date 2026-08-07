@@ -1902,6 +1902,83 @@ Si duae negationes se impedirent propositionemque affirmativam redderent, sequer
 Et ideo non debent exercere officium duarum sed unius tantum.
 /26.1a/
 
+# De significatione negationis
+
+### Contra hoc sic arguitur:
+
+Sequitur quod eadem ratione, duae negationes in ista propositione mentali "Nonnullus homo est animal" non se impedient, quia constituunt unum. Sunt enim qualitates eiusdem speciei eidem subiecto adaequato inhaerentes.
+
+### Forte respondebis sicut dicendum esse:
+
+Patet ex dictis in quindecima difficultate quod illae duae negationes non sunt eiusdem speciei, quia obtecta a quibus partialiter producuntur non sunt consimilia aut saltem eadem prima, namque producitur ab hoc toto "Nullus homo est animal".
+
+### Contra hanc solutionem arguit quidam:
+
+Sequeretur hanc esse affirmativam "Homo non est animal" quod sic patet, nam actus ille negativus successive producitur aut saltem produci potest. Sit ergo tempus adaequatum illius productionis una hora, in cuius priori
+medietate producitur 'a' medietas secundum intensionem et in posteriori 'b' medietas.
+
+### Tunc sic arguitur 'a' et 'b' differunt specie:
+
+Quia a diversis obiectis producuntur 'a', enim ab ista propositione "Homo est animal" producitur, et 'b' ab aggregato ex illa et 'a'. Vel si dicas quod 'b' a solo obiecto 'a' producitur, dicam quod prima negatio huius "Homo non non est animal" a solo obiecto secundae producitur propter paritatem rationis utrobique, et hoc debilissimo argumento hic, quamvis teneat duas negationes, reperiri in mente asserit tamen illas non esse intensibiles nec remissibiles, quod iam probatum est esse falsum difficultate decima.
+
+### Quidam alius arguit ad probandum duas negationes non posse reperiri in mente:
+
+Capta hac "Nonnullus homo est animal". Illa negatio non prior nihil nec aliqualiter significat; ergo non est syncategorema in intellectu. Antecedens probatur: Si aliquo modo imitaret intellectum, hoc maxime esset significando aliqualiter, puta negative vel distributive vel utroque modo. Sed nullum istorum est dicendum; ergo
+nullo pacto significat.
+
+Minor probatur, nam negative significare est sic immutare intellectum ut intellectus apprehendat suppositum vel supposita praedicati remoueri a supposito vel suppositis subiecti.
+
+### Sed intellectus non taliter apprehendit postquam pure affirmative intelligit:
+
+Ergo non repraesentat negative, et eodem modo probabis non repraesentare distributive, /26.1b/ nam distributive repraesentare non est nisi immutare intellectum ad hoc quod intelligat supposita termini copulative. Sed nunc intellectus disiunctive intelligit supposita subiecti et praedicati; ergo illa negatio illa non significat distributive.
+
+Si forte dicas illam negationem impeditive significare hoc non est verum, nam si negatio aliqua impeditive significat illi negationi erit naturalis ea significatio, et sic nunquam poterit cadere ab ea, quod tamen communiter negatur. Nec videretur bene responderi ad argumentum, velut apparet esse respondendum ex dictis dubio decimosexto, quod negatio illa, quamvis non neget nec distribuat significat tamen distributive et negative, nam
+significare distributive est posse distribuere aut esse aptum natum distribuere. Sed illa negatio non potest distribuere, quod manifestum est, nam existente secunda non potest distribuere et non potest esse sine secunda;
+ergo non potest distribuere.
+
+### Atque ex hoc secundo sic arguit:
+
+Illa negatio 'non' nec aliqua eiusdem speciei non est reperibilis in mente, ergo communis schola errat. Antecedens probatur nam alias sequeretur naturale desiderium quod inest alicui a tota specie omnino frustrari, quod est contra mentem Aristotelis et Averrois.
+
+Sequela probatur: Illi negationi inest a tota specie, hoc est ei inest et cuilibet eiusdem speciei negare et distribuere, sed neque ipsa neque aliqua eiusdem specie potest negare aut distribuere; ergo frustratur illud individuum secundum totam suam speciem.
+
+Consequentia patet cum maiori, et minor probatur: Imprimis ipsa non poterit negare, nam si sic hoc, maxime esset ubi tertia negatio producetur. Sed tunc simpliciter est dicendum tertiam, aut omnes simul, negare; quare non ipsa sola quod autem nulla eiusdem speciei potest negare patet, quia quilibet eiusdem speciei produci debet, ab omnino similibus notitiis et terminis, quod si at nulla negabit magis quam ista; ergo propositum. Et hoc argumento communi tenet duas negationes, non posse in anima reperiri dicit quod si illud argumentum solvatur defendet opinionem communem.
+
+### Quidam alius qui eandem opinionem prius tenuit praeter has rationes adducit hanc:
+
+Supposito modo quo producitur actus negativus, nam intellectus producit actum negativum /26.2a/ ex conatu quo conatur intelligere praedicatum removeri a subiecto.
+
+# De aequiuocatione in mente
+
+### Tunc arguitur sic:
+
+In productione huius negationis "Homo non est animal" intellectus conatur intelligere praedicatum removeri a subiecto. Sed hac negatione existente, intellectus non potest producere aliam negationem, nam ad hoc quod aliam producat requiretur quod conetur intelligere praedicatum affirmari de subiecto. Sed non potest taliter conari quin prior conatus desinat esse; ergo non potest secunda negatio produci quin prima corrumpatur. Patet consequentia quoniam per desitionem conatus desinit esse actus.
+
+### Item communiter arguitur duae negationes sunt agentia naturalia eiusdem virtutis; ergo non possunt se impedire:
+
+Patet consequentia, quoniam agentia eiusdem virtutis se inuicem adiuvant.
+
+## Haec sunt argumenta quae contra opinionem communem adduci possunt, quae soluenda sunt:
+
+Quorum aliqua et si communiter solvantur non tamen recte, ut qui haec adducunt argumenta probant omniaque facillime solvunt, ut si intelligatur quid sit negationem negare, nam propter eius ignorantiam hi non secuti sunt opinionem communem, videnturque apparentia argumenta adducta. Unde dico quod negationem negare non est aliud quam negationem ponere oppositum illius in quod agit. Et hoc est quod Augustinus voluit dicere cum dicit negatio est malignantis naturae quidquid post se invenit destruit, et eius oppositum ponit. Quo sit ut negativo semper neget, nam semper ponit oppositum. Si enim inveniat propositionem in qua denotatur praedicatum competere subiecto, facit praedicatum removeri a subiecto in propositione illa cuius ipsa est pars. Et si additur propositioni in qua denotatur praedicatum removeri a subiecto facit denotari praedicatum affirmari de subiecto.
+
+Et si inveniat terminum distributum facit ipsum non distribui, et si non distributum distribuit, et hac de causa dicimus negationem distribuere, nam facit terminum supponente opposito modo, et quum non inveniat eum supponentem distributive distribuit. Sed non dicitur facere terminum stare determinate aut disiunctim, nam quamvis inveniat terminum distributum per additione talis terminus /26.2b/ particulariter supponit, quia numquam facit particulariter supponere, nisi prius inveniat terminum illum distributum, non invenit autem terminum distributum nisi ab aliquo signo; ideo quando negatio advenit et terminus tunc stat determinate, velut in hac "Non omnis homo est animal", talis suppositio non dicitur solum provenire a negatione, quia partialiter provenit a signo distributivo, sed quia distributio provenit a sola negatione; ideo dicimus negationem distribuere. Sed negationem distribuere non est nisi negationem negare, nam negare, ut dictum est, est oppositum ponere, et per hoc solvuntur facile argumenta secundum et tertium, et ideo ille nunc credo tenebit opinionem communem, nam solvuntur eius argumenta, nam in hac propositione "Nonnullus homo est animal" negatio prima negat, nam oppositum huius totius "Nullus homo est animal" in quod agit ponit et copula affirmatur, nam prius negata erat, et ideo ponitur oppositum eius.
+
+### Et si contra hoc arguas quia sequitur quod copula huius "Nonnullus homo est a animal" negatur a prima negatione, nam oppositum eius ponitur:
+
+Et ex illo sequitur quod propositio illa erit negativa, nam copula principalis eius negatur.
+
+Ad hoc respondeo negando antecedens, nam non ponitur oppositum illius copulae est aut illius propositionis "Homo est
+animal", sed istius non est, seu "Huius nullus homo est animal", nam negatio illa in totum sequens agit.
+
+Vel si non placet hoc pacto distincte antecedens vel quod negetur copula, sic ut hic capitur, quia ponitur oppositum illius, nam invenit negatam et affirmat, et hoc modo concedo quod copula negetur. Nec ex hoc sequitur
+quod sit negativa vel quod negetur capiendo ly 'negare' sicut capitur in definitione propositionis negativae, et sic nego, nam negare, ut in definitione propositionis negativae capitur, nihil aliud est quam intellectum ratione negationis intelligere praedicatum removeri a subiecto, quomodo copula huius propositionis "Nonnullus homo est animal" non negatur.
+
+### Possent etiam solvi illae rationes aliter non stando in significatione huius termini negare:
+
+Sed sequendo significationem quam communes ponunt, quod negatio illa significat negative, et significare negationem negative est negationem esse aptam natam negare, et non actu negare nec posse negare, nec sequitur /27.1a/
+M
+
 <!--
 ## Apparatus Criticus Reference
 * emend.  (emendatio)  : Corrected a flat-out printing mistake.
@@ -1920,4 +1997,6 @@ Page 16.2a: in ] conj. (textus laesus)
 Page 16.2b: intensionem ] emend. intentionem
 Page 20.2b: ex ] emend. est
 Page 21.2a: quaelibet ] emend. queliaꝫ
+Page 26.1b: distributive ] emend. distributi
+Page 26.1b: speciei ] emend. specie
 -->

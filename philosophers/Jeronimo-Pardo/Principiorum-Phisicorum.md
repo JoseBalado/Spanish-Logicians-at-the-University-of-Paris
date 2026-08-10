@@ -476,7 +476,25 @@ Sortes facit domum propter pecunias, Deus potest supplere istam causam finalem, 
 
 Secunda divisio causarum: quaedam in actu, quaedam in potentia. Unde causa in actu est quae simul existit cum suo effectu, et ista causa importatur per participium praesentis, ut 'domificans', Aristoteles comedens. Sed in potentia est quae non actualiter causat, licet bone potest causare, et ista importatur per verbale terminatum in 'or' ut 'domificator', 'amator', et sic de caeteris.
 
-Tertia divisio causarum: quaedam est per se, quaedam per accidens. Unde causa per se est illa quae ad aliquem effectum ex natura sua inclinatur, et causalitatis notione est expressa in qua definitione tanguntur duae conditiones requisitae ad hoc quod aliqua causa sit per se: prima quod sit ex natura sua ordinata ad talem effectum. Ex quo sequitur quod si lapis descendat de alto et frangat alicui caput, non vocatur causa de per se, sed de per accidens fractionis capitis, quia ex natura sua lapis non ordinatur ad frangendum capita. Sed bene ex /21a/ natura sua
+Tertia divisio causarum: quaedam est per se, quaedam per accidens. Unde causa per se est illa quae ad aliquem effectum ex natura sua inclinatur, et causalitatis notione est expressa in qua definitione tanguntur duae conditiones requisitae ad hoc quod aliqua causa sit per se: prima quod sit ex natura sua ordinata ad talem effectum. Ex quo sequitur quod si lapis descendat de alto et frangat alicui caput, non vocatur causa de per se, sed de per accidens fractionis capitis, quia ex natura sua lapis non ordinatur ad frangendum capita. Sed bene ex /21a/ natura sua ordinatur ad descendendum deorsum.
+
+Secunda conditio est quod talis causa exprimatur sub ratione qua est causa, id est, quod significetur per unum vocabulum, quia intelligam quam quod est causa. Exemplum ut cum calor, ex natura sua, ordinatur ad calefaciendum. Secundo calor significatur per hoc vocabulum 'calor' per quod datur mihi intellegi effectus, nam si quis a me quaerat quis caloris est, dicam calefacere. Et ponitur regula:
+
+> Omnes propositiones verae, in quibus effectus attribuitur suae causae vere, per se vocantur in philosophia.
+
+Ut caliditas calefacit, frigiditas frigefacit, aedificator aedificat.
+
+Sed causa per accidens est quae ex natura sua ad aliquem effectum non ordinatur. Ut fossio terrae est causa per accidens inventionis thesauri, quia ex natura sua non ordinatur ad inveniendam thesaurum. Ideo dico quod omnes propositiones verae in quibus effectus attribuitur causae per accidens dicuntur verae per accidens in philosophia, ut album aedificat, rubeus calefacit. Notandum quod in philosophia solemus vocare causas per se maxime in disputationibus quae ex natura sua producunt aliquem effectum.
+
+Quarta divisio causarum: Per sequendam dicuntur essentialiter subordinatae. Aliae sunt accidentaliter subordinatae. Unde causae essentialiter subordinatae sunt duplices: quaedam sunt quae sic se habent quod una essentialiter subordinatur alteri et /21b/ econtra, et sunt illae quae sic se habent quod una non potest causare effectum quin alia causet, et econtra, ut pater et mater sunt causae essentialiter subordinatae in producendo prolem, quia pater non potest producere quoniam producat mater, et econtra.
+
+Similiter potentia visiva et subiectum visibile sunt causae subordinatae in producendo visionem, quia potentia visiva non potest producere visionem absque obiecto visibili nec econtra. Aliae sunt causae essentialiter subordinatae, quarum una dependet ab altera, sed non econtra, ut creatura et Deus dicuntur esse tales causae, quia per creatura dependet a Deo in causando, sed non econtra.
+
+Vel habitus et potentia dicuntur huiusmodi causae respectu habitus, quia habitus dependet a potentia in producendo actum, sed non econtra. Unde cum habeo actum amandi Deum, dico quod voluntas mea concurrit effective ad illum actum. Puta diligere Deum, et ille habitus etiam producitur et concurrit ad illum effectum effective, sed ille habitus non potest agere sine potentia mea, id est, sine voluntate, sed bene voluntas sine habitu.
+
+Et de istis causis essentialiter subordinatis pono duas regulas, quarum prima est: Quandocumque ad aliquem effectum concurrunt causae essentialiter subordinatae, quaelibet attingit totum effectum, et non est imaginandum quod una pars effectus producatur ab una, et
+alia ab alia. Ut verbi gratia 'pater', 'sol', et 'Deus gloriosus' sunt /22a/ causae
+
 
 <!--
 ## Apparatus Criticus Reference

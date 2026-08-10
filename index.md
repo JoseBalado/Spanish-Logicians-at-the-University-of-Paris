@@ -102,26 +102,6 @@ Waim was a German theologian and logician born in Memmingen who died in Chartres
 | Augustinus Sbarroya                | 1495-1554       |
 
 
----
-## Appendix: Lean Tutorial
-
-Exercises and comments following **[Theorem Proving in Lean 4](https://leanprover.github.io/theorem_proving_in_lean4/)**
-
-### Lean Tutorial Files
-
-- [3. Propositions and Proofs](lean-tutorial/3-propositions-and-proofs.txt)
-- [3. Propositions and Proofs Tactics](lean-tutorial/3-propositions-and-proofs-tactics.txt)
-- [4. Quantifiers and Equality](lean-tutorial/4-quantifiers-and-equality.html)
-- [4. Quantifiers and Equality Tactics](lean-tutorial/4-quantifiers-and-equality-tactics.txt)
-- [5. Tactics](lean-tutorial/5-tactics.txt)
-- [6. Interacting with Lean](lean-tutorial/6-interacting-with-lean.txt)
-- [7. Inductive Types](lean-tutorial/7-inductive-types.txt)
-- [8. Induction and Recursion - Exercises 1](lean-tutorial/8-induction-and-recursion-exercises-1.txt)
-- [8. Induction and Recursion - Exercises 2](lean-tutorial/8-induction-and-recursion-exercises-2.txt)
-- [8. Induction and Recursion](lean-tutorial/8-induction-and-recursion.txt)
-- [9. Structures and Records](lean-tutorial/9-structures-and-records.txt)
-
----
 ## Contact me
 
 If you are interested in contributing to this project, please reach out to me using the form below. I look forward to collaborating with you!

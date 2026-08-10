@@ -457,6 +457,27 @@ Sed alius est finis quo seu secundarius seu secundaria intentio, et est ille qui
 
 De quo fine ponuntur aliquae proprietates quarum prima est: Finis seu causa finalis habet aliquam qualitatem in suo genere, quae qualitas in hoc consistit quod est eam amari et desiderari, propter cuius amorem et desiderium agens /20a/ operatur.
 
+Secunda proprietas est quod causa finalis est prima in intentione et ultima in executione, et hoc maxime intellegendo de causa finali praecipue. Dicitur primo, prima in intentione, id est, illud quod primo intendit, id est, vult et amat operans sive efficiens. Dicitur secundo quod est ultima in executione, id est, illa quae ultimo habetur et acquiritur.
+
+Circa quod quaeritur utrum inanimata et bruta, quae non habent intellectum, dicantur habere causam finalem. Dico quod sic, quia ille qui talia produxit, propter finem illa produxit.
+Unde notandum quod dicunt doctores quod Deus fecit elementa propter imperfecta, et imperfecta propter perfecta, et inanimata propter animata, et totum mundum sensibilem fecit Deus propter hominem, et hominem propter se.
+
+Quaeritur secundo utrum inanimata dicantur producere aliquid propter aliquem finem?
+
+Dico de rigore quod non. Dicitur tamen quod doctores dicunt quod non habentia intellectum et voluntatem dicuntur dirigi ab ipso Deo tamquam ab infallibili, et sic intelligo quod ipse Deus cooperatur effectibus cum illis agentibus et ordinat illa ad finem, ex quo sequi quod si inveniatur quod Deus aget propter finem aliquem sic intellegitur, id est, Deus ipse qui operatur cum illo igne ordinat illum effectum ignis ad aliquem finem.
+
+Tertia proprietas est quod causa finalis dicitur extrinseca sicut et causa efficiens.
+
+Quarta proprietas istius causae est quod /20b/ Deus potest supplere causalitatem istius causae, id est, Deus potest facere quod nihil aliud sit finis nisi ipse.
+
+Ex quo habemus talem regulam resolutorie quod quidquid potest Deus cum causa secunda, id est, creata in genere, causae efficientis et finalis potest facere se solo. Et hoc declaratur in causis finalibus.
+
+Sortes facit domum propter pecunias, Deus potest supplere istam causam finalem, et volente Deo nihil aliud quam ipse esse finem domus, suppleret causalitatem causae finalis.
+
+Secunda divisio causarum: quaedam in actu, quaedam in potentia. Unde causa in actu est quae simul existit cum suo effectu, et ista causa importatur per participium praesentis, ut 'domificans', Aristoteles comedens. Sed in potentia est quae non actualiter causat, licet bone potest causare, et ista importatur per verbale terminatum in 'or' ut 'domificator', 'amator', et sic de caeteris.
+
+Tertia divisio causarum: quaedam est per se, quaedam per accidens. Unde causa per se est illa quae ad aliquem effectum ex natura sua inclinatur, et causalitatis notione est expressa in qua definitione tanguntur duae conditiones requisitae ad hoc quod aliqua causa sit per se: prima quod sit ex natura sua ordinata ad talem effectum. Ex quo sequitur quod si lapis descendat de alto et frangat alicui caput, non vocatur causa de per se, sed de per accidens fractionis capitis, quia ex natura sua lapis non ordinatur ad frangendum capita. Sed bene ex /21a/ natura sua
+
 <!--
 ## Apparatus Criticus Reference
 * emend.  (emendatio)  : Corrected a flat-out printing mistake.

@@ -186,7 +186,7 @@ Neque est dicendum secundum: puta quod significet naturaliter communiter 'homine
 
 Neque est dicendum tertium: scilicet quod significet ad placitum, quia si significet ad placitum 'hominem esse animal' aut hoc esse secundum se totam, aut secundum suas partes non secundum se totam. Quia illud complexe significabile 'hominem esse animal' non significatur per aliquam partem istius propositiones: "homo est animal".
 
-Neque est dicendum primum: puta quod significet 'hominem esse animal' secundum se totam quia nullus imposuit ad significandum istam propositionem: "homo est animal", secundum se totam, quia infinite propositiones formarentur, quasi similes, quae numquam fuerunt formatae; ergo non imposuit aliquis ad significandum illas propositiones, vel oporte dicere quod cum quis format propositionem imponit eam ad significandum, quod est inconveniens.
+Neque est dicendum primum: puta quod significet 'hominem esse animal' secundum se totam quia nullus imposuit ad significandum istam propositionem: "homo est animal", secundum se totam, quia infinitae propositiones formarentur, quasi similes, quae numquam fuerunt formatae; ergo non imposuit aliquis ad significandum illas propositiones, vel oporte dicere quod cum quis format propositionem imponit eam ad significandum, quod est inconveniens.
 
 Ad istud argumentum respondeo quod ista propositio est vocalis: "homo est animal", ad placitum significat 'hominem esse animal'.
 

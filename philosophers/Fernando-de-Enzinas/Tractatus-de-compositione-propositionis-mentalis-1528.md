@@ -1976,8 +1976,53 @@ quod sit negativa vel quod negetur capiendo ly 'negare' sicut capitur in definit
 
 ### Possent etiam solvi illae rationes aliter non stando in significatione huius termini negare:
 
-Sed sequendo significationem quam communes ponunt, quod negatio illa significat negative, et significare negationem negative est negationem esse aptam natam negare, et non actu negare nec posse negare, nec sequitur /27.1a/
-M
+Sed sequendo significationem quam communes ponunt, quod negatio illa significat negative, et significare negationem negative est negationem esse aptam natam negare, et non actu negare nec posse negare. Nec sequitur /27.1a/ non potest negare; ergo non est apta negare. Nec propterea sequitur naturale desiderium, secundum totam speciem frustrari, nam non omnis
+aptitudo quam habet individuum, secundum se vel secundum speciem, oportet quod ad actum reducatur, sed sufficit quod aliqua, nam secundum tenentes materiam caeli differre specie a materia. Horum inferiorum, materia caeli appetit formiam, et tamen nec secundum se nec secundum aliquam eiusdem speciei habebit.
+
+Item, secundum reales, humanitas nata est communicari pluribus, et tamen impossibile est quod communicetur pluribus.
+
+Sed quidquid sit de hac solutione sto in dicta prius, videlicet quod quaelibet negatio negat, id est oppositum ponit illius, im quod agit.
+
+### Tunc respondeo ad formam argumentorum:
+
+Ad primum respondeo sicut responsum est usque ad ultimam replicam ad quam respondeo negando quod 'a' et 'b' differant in specie, et ad probationem nego quod producatur 'b' ab ista propositione "Homo est animal et 'a'", sed solum ab ista "Homo est animal" et quando infertur.
+
+Ergo dices eadem ratione quod prima: Negatio huius "Homo non non est animal", non producitur a secunda. Concedo quod poteris illud dicere, sed male, et sic patet quod hoc argumentum est multum in apparens, propter quod non erat tenendum actus syncategorematicos non esse intensibiles et remissibiles.
+
+### Ad secundum et tertium responsio patet ex dictis quod responsum est in antedictis.
+
+### Ad ultimum potest responderi negando suppositum si intelligatur de omni actu negativo:
+
+Sed concedatur suppositum de actu reddente propositionem negativam, et tunc ad argumentum, concessa maiore nego minorem. Et ad probationem nego quod non possit taliter conari, videlicet quod praedicatum affirmetur de subiecto quin corrumpatur prior conatus, nam intellectus potest conatus illos habere ad opposita, namque intellectus potest se applicare quanto magis quod illi conatus non sint contrarii, nam per hoc quod intellectus conetur hoc vel illud apprehendere, non assentit nec dissentit, et quod illae duae advertentiae simul possunt esse patet, nam has duas apprehensivas "Homo est animal" et "Nullus homo est animal" potest intellectus simul et producere et habere, quare habebit advertentias illas seu conatus.
+
+Et si arguas contra hoc, quia copula huius "Nonnullus homo est animal" producitur /27.1b/ a conatu intellectus quo conatur intelligere praedicatum subiecto competere; ergo ab eodem conatu non producitur negatio.
+
+Patet consequentia, quia ab eodem conati non procedunt diversi actus.
+
+### Ad hoc respondeo negando consequentiam:
+
+Et quando dicis ab eodem conatu non procedunt diversi actus fateor a solis conatibus. Sed copula illa affirmativa producitur ab eodem conatu, et notitia subiecti et praedicati solum, et negatio producitur ab illo conatu, et tota hac propositione "Nullus homo est animal".
+
+### Ad ultimum quando arguis quod duae negationes sint eiusdem virtutis:
+
+Verum est quod non habent eandem virtutem denotans, nam utraque earum signum negativum nuncupatur, et utraque ponit oppositum illius in quod agit. Sed non sunt eiusdem virtutis, nam una ponit oppositum alterius. Una namque ponit oppositum huius "Homo est animal", et altera oppositum huius "Nullus homo est animal", et sic patet opinionem communem probabilem esse, immo omnium probabilissimam, nam quae ponit unam negationem et non
+duas in mente vix assignare valebit contradictoriam huius mentalis tantum "Homo non est animal" et similium.
+
+### Circa haec solent inquirere multi:
+
+Quomodo se impedient infinitae negationes, et an propositio in qua infinitae negationes et an propositio in qua infinitae negationes ponuntur sit affirmativa vel negativa.
+
+Sed quid tanto negationum, acervo intellectus agat, ignoro. Quare si placet dic, cum multis doctis, talem orationem in qua negationes infinitae non esse propositionem, quia nec vere, nec false, nec affirmative aut negative significat.
+
+### Ad haec adiiciunt si 'a' sit signum tantam vim habens affirmandi quantam negatio negandi:
+
+Utrum hae propositio "Homo est animal", sit negativa vel affirmativa.
+
+### Ad hoc respondeo non admit tendo tale syncategorema posse dari:
+
+Nam cum negationis sit vis ponendi oppositum illius, in quod cadit, et non potest una propositio esse magis affirmativa quam alia, et ideo non magis erit affirmativa "Haec homo est animal" quantumcunque addas signa quam nunc est.
+
+Sed in hanc potest negatio agere, eiusque oppositum ponere; ergo in quantumcunque aliam. Quare ergo non potest dari signum faciens negationem non ponere appositum illius in quod agit. Id namque dictum /27.2a/ 
 
 <!--
 ## Apparatus Criticus Reference

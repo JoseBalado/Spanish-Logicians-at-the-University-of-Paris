@@ -1948,7 +1948,7 @@ Consequentia patet cum maiori, et minor probatur: Imprimis ipsa non poterit nega
 
 Supposito modo quo producitur actus negativus, nam intellectus producit actum negativum /26.2a/ ex conatu quo conatur intelligere praedicatum removeri a subiecto.
 
-# De aequiuocatione in mente
+# De aequiuocatione in mente et qualiter significet negatio
 
 ### Tunc arguitur sic:
 
@@ -2022,7 +2022,72 @@ Utrum hae propositio "Homo est animal", sit negativa vel affirmativa.
 
 Nam cum negationis sit vis ponendi oppositum illius, in quod cadit, et non potest una propositio esse magis affirmativa quam alia, et ideo non magis erit affirmativa "Haec homo est animal" quantumcunque addas signa quam nunc est.
 
-Sed in hanc potest negatio agere, eiusque oppositum ponere; ergo in quantumcunque aliam. Quare ergo non potest dari signum faciens negationem non ponere appositum illius in quod agit. Id namque dictum /27.2a/ 
+Sed in hanc potest negatio agere, eiusque oppositum ponere; ergo in quantumcunque aliam. Quare ergo non potest dari signum faciens negationem non ponere appositum illius in quod agit. Id namque dictum /27.2a/ est esse suam naturalem significationem, a qua non potest suspendi.
+
+### Hentisberus Primo Sophismate, quem Paulus Venetus est secutus, tenuit nullam negationem inveniri in anima:
+
+Sed huius propositionis "Non homo est animal", aggregatum ex copula et negatione subordinari actui divisivo seu negativo, qui extrema unit et distribuit.
+
+Ratio autem Hentisberi positionis, potest haec esse: Intellectus format unicum actum unitivum et affirmativum simplicem; ergo producere poterit unicum unitivum et negativum simplicem. Non enim maior est ratio de uno quam de alio.
+
+Haec opinio est satis sustentabilis, quantum ad hoc quod tenet quod inveniatur actus simplex unitivus et divisivus. Et iuxta dicta dubio praecedenti fortasse vera, nam si imponatur ly 'a' ad significandum negative et unitive, ita quod haec propositio "Homo est animal" valeat "Homo non est animal", non videtur cur illud syncategorema non subordinetur uni simplici actui, cum non sit aequivocus, quemadmodum ly "omnis" quod distributive et confusive significat, et uni simplici subordinatur. Nisi velis dicere syncategorema illud duobus et nulli subordinati, quemadmodum ly 'nec' huic aggregato et non subordinatur, et nulli illorum.
+
+### Sed aliud quod dicit negationem non reperiri non probo:
+
+Nam quamvis talis actus, ut imaginatur inveniatur, non propterea inferretur clare negationem reperiri non posse.
+
+### Sed quoniam de signis negativis sermo est:
+
+Inquiret forsan aliquis utrum negatio posita in principio copulative neget copulas categoricarum, et coniunctionem, aut coniunctionem tantum.
+
+### Ad hoc duo sunt modi respondendi:
+
+Quorum unus tenet negationem positam in principio propositionis hypotheticae negare copulas categoricarum earumque extrema distribuere, et in coniunctionem principalem agere. Quem modum insequitur Ioannes Dorp, quem modum quidam dicit non esse sustentabilem his argumentis.
+
+### Primo sic arguit:
+
+Sequitur quod aliqua propositio necessaria efficietur impossibilis in mente ultimata hoc patet, quia pars huius copulative "Homo est animal et Deus est" est necessaria, et si addatur negatio toti copulative est impossibilis. Nam si necessaria esset, non negaretur
+eius copula.
+
+### Hoc nullam habet apparentiam:
+
+Unde /27.2b/ post additionem dico quod est necessaria illa secunda pars quod quando infers; ergo non negatur eius copula.
+
+Nego consequentiam: Nonne praeiacens huius "'Nullus Deus est' est necessaria", et tamen copula eius non negatur.
+
+Scio tamen illatum concedi a Iohanne Dorp sed non curo, nam aliud est defendere Iohannem Dorp, aliud hunc modum, qui tenebatur antequam Dorp nasceretur.
+
+### Secundo arguit:
+
+Sequitur quod duae mentales dantur synonymae, et tamen in una earum ponitur aliquod syncategorema quod non ponitur in altera secundum se vel suum synonymum. Hoc patet de ista "Nullus Deus est iustus" quae est synonyma cum secunda parte huius "Non homo currit et Deus est istius".
+
+### Ad hoc respondeo negando sequelam:
+
+Et ad probationem nego quod illae duae sint synonymae. Nam quemadmodum haec "Nullus Deus est iustus" non est synonyma cum sua praeiacente. Ita nec est synonyma cum secunda parte copulativae assumptae.
+
+### Tertio arguitur:
+
+Sequitur quod secunda categorica huius "Non homo est animal et Deus est" esset ulis negativa quod, si concedas sicut, Iohannes Dorp, sequitur praeiacentem huius "Non homo est animal esse universalem negativam.
+
+Ad hoc respondeo quod dupliciter potest loqui de secunda parte huius "Non homo est animal et Deus est" nam secunda pars eius improprie (ut aliqui dicerent) esset haec "Non Deus est". Unde oportet negationem addi illis partibus in quas agit, alio modo de parte proprie nego sequelam, et quamvis id Dorp concedat, non curo.
+
+### Quarto arguitur. Sensus huius "Homo est animal et Deus est" est iste:
+
+Ita est in re quod homo est animal et Deus est; ergo sensus huius "Non homo est animal et Deus est" erit iste, "Non est ita quod homo est animal et Deus est", sed hic copulae categoricarum non negantur; ergo nec in copulativa.
+
+### Argumentum hoc etiam nihil concludit:
+
+Nam eodem probaretur quod haec non esset negativa "Nullus homo est animal", nam eius sensus non est ita quod homo est animal, in qua copula secunda non negatur.
+
+Posset dici etiam quod in ista "Non est ita quod homo est animal et Deus" est
+copulae categoricarum negantur.
+
+### Ultimo arguitur:
+
+Sequitur quod copulativa affirmativa non aequivaleret disiunctive affirmative / compositae ex partibus contradicentibus. Hoc patet, nam si aliquae aequivalerent, maxime essent istae "Homo est animal et Deus est", et "Omnis homo non est animal", /28.1a/ ut "Nullus Deus est".
+
+# De natura negationis in propositione hypothetica
+
 
 <!--
 ## Apparatus Criticus Reference
@@ -2044,4 +2109,5 @@ Page 20.2b: ex ] emend. est
 Page 21.2a: quaelibet ] emend. queliaꝫ
 Page 26.1b: distributive ] emend. distributi
 Page 26.1b: speciei ] emend. specie
+Page 27.2b: ita ] emend. ista
 -->

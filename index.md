@@ -1,7 +1,7 @@
 ---
 title: Spanish Logicians at the University of Paris (16th Century)
 description: A comprehensive resource on Spanish logicians at the University of Paris during the 16th century.
-keywords: Spanish logicians, University of Paris, 16th century, logic, history of logic, medieval logic, renaissance logic, Jerónimo Pardo, Antonio Coronel, Luis Coronel, Gaspar Lax, Juan Dolz, Juan de Celaya, Fernando de Enzinas, Fernando de Encinas, Domingo de Soto
+keywords: Spanish logicians, University of Paris, 16th century, logic, history of logic, medieval logic, renaissance logic, Jerónimo Pardo, Antonio Coronel, Luis Coronel, Gaspar Lax, Juan Dolz, Juan de Celaya, Fernando de Enzinas, Fernando de Encinas, Domingo de Soto, Gervasius Waim
 ---
 
 ## Welcome to the Spanish Logicians at the University of Paris (16th Century) Project
@@ -31,6 +31,7 @@ Here are some of the logicians I am currently focusing on:
 - **[Juan Dolz del Castellar (c. 1490 – c. 1550)](philosophers/Juan-Dolz-del-Castellar/)**
 - **[Fernando de Enzinas (c. 1494 – 1523)](philosophers/Fernando-de-Enzinas/)**
 - **[Domingo de Soto (1494 – 1560)](philosophers/Domingo-de-Soto/)**
+- **[Gervasius Waim (c. 1491 – 1554)](philosophers/Gervasius-Waim/)** — German, but connected with the Parisian circle of John Mair
 
 ## Logicians
 
@@ -61,6 +62,9 @@ Born in Valladolid, Enzinas studied at the Complutense University before moving 
 
 ### [Domingo de Soto (1494 – 1560)](philosophers/Domingo-de-Soto/)
 Born in Segovia, Soto studied at the Collège Sainte-Barbe in Paris under Juan de Celaya before entering the Dominican order. He taught at the University of Salamanca and participated in the Council of Trent; his *Quaestiones super octo libros Physicorum* (Salamanca, 1545, revised 1551) contains the first clear statement of uniform acceleration in free fall.
+
+### [Gervasius Waim (c. 1491 – 1554)](philosophers/Gervasius-Waim/)
+Waim was a German theologian and logician born in Memmingen who died in Chartres. He is included here not as a Spanish logician, but because he was active in the Parisian scholastic environment associated with John Mair; the available authority records identify him as rector of the University of Paris in 1520. His *Tractatus noticiarum* (Basel, 1519) discusses cognition, cognitive powers, and related questions in scholastic logic and psychology.
 
 ---
 ## Chronology of Renaissance Logicians.

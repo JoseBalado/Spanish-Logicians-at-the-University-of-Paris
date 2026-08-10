@@ -10,6 +10,12 @@ The 'src' path is relative to philosophers/, the 'dst' is where the .md is writt
 (also relative to philosophers/).  Images are extracted into a Pictures/ subfolder
 next to the output file.
 
+Python environment:
+    When working on this repository together with the wider Medieval Logic Project,
+    use the shared environment at ../Logic/MedievalLogicProject/.venv when available.
+    This converter itself only requires Python and Pandoc; the shared environment is
+    useful for related project scripts and keeps dependencies consistent.
+
 Naming convention for dst:
   - Resolve abbreviated letters in square brackets: Dialectice[n] → Dialecticen
   - Strip library signatures and (Place Year) from filename
@@ -166,6 +172,27 @@ FILES = [
             "Fernando de Enzinas, Tractatus de compositione propositionis mentalis, "
             "mental proposition, syncategoremata, logic, Lyon 1528, "
             "University of Paris, medieval logic, renaissance logic, Robert Wauchop"
+        ),
+    },
+    # ── Gervasius Waim ───────────────────────────────────────────────────────
+    {
+        "src": "../../Waim/Tractatus noticiarum [Rar. 1003#Beibd.1](Basilea 1519).odt",
+        "dst": "Gervasius-Waim/Tractatus-noticiarum-1519.md",
+        "title": "Tractatus noticiarum",
+        "author": "Gervasius Waim",
+        "year": 1519,
+        "place": "Basilea (Basel)",
+        "signature": "Rar. 1003#Beibd.1",
+        "library": "",
+        "description": (
+            "Tractatus noticiarum by Gervasius Waim, Basel 1519. "
+            "A work on the theory of cognition by a German theologian and logician "
+            "associated with the Parisian circle of John Mair."
+        ),
+        "keywords": (
+            "Gervasius Waim, Tractatus noticiarum, cognition, logic, theology, "
+            "John Mair, University of Paris, Basel 1519, medieval logic, "
+            "renaissance logic"
         ),
     },
 ]

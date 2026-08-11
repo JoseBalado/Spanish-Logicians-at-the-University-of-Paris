@@ -921,7 +921,7 @@ Item etiam species sensibiles aut intelligibiles cum, dicantur naturales similit
 
 At re vera non est facile intellectu, terminum ipso manente, perdere id quod naturaliter ei convenit. Igitur ad argumentum, concessa prima sequela et concessa minori, videlicet quod ly 'omnis' ante adventum negationis distribuit, et post adventum solummodo impedit, negatur consequentia cum implicite infertur; ergo cadit ab actuali significatione.
 
-Etenim eadem omnino est actualis tendentia de ly 'ominis', in terminum categorematicum quando ipsum distribuit, et quando impeditur a negatione, licet quando categorema ab altero /15b/ ipsorum determinatur, maneat distributum, et quando ab ambobus non distribuatur. Sicut apparet de Sole qui eadem omnino actione et exsiccat lutum et liquefacit ceram ob diversas eorum dispositiones. Qui etiam si desineret et distribuere et impediere non proinde caderet a sua significatione.
+Etenim eadem omnino est actualis tendentia de ly 'ominis', in terminum categorematicum quando ipsum distribuit, et quando impeditur a negatione, licet quando categorema ab altero /15b/ ipsorum determinatur, maneat distributum, et quando ab ambobus non distribuatur. Sicut apparet de sole qui eadem omnino actione et exsiccat lutum et liquefacit ceram ob diversas eorum dispositiones. Qui etiam si desineret et distribuere et impediere non proinde caderet a sua significatione.
 
 Potest enim restare ly 'omnis' in mente corrupto omni categoremate (ut capitulo octavo ad experientiam monstrabitur), et tunc licet non actualiter exerceat officium, nihilominus actualiter significat, id est, taliter immutat ut si aliquis terminus ei adiungeretur, distribueret eum.
 
@@ -965,7 +965,7 @@ Secundo: Ex parte subiecti, nam notitia intuitiva potest esse in intellectu et s
 
 Tertio: Ex parte significationis, notitia enim intuitiva clare et distincte repraesentat, abstractiva vero non. Ad minus nostra a quod addiderim propter notitiam divinam simplicis intelligentiae. Ex qua sequitur quarta differentia, quod videlicet virtute notitiae intuitivae possumus certificari de existentia caeterisque exterioribus rei accidentibus de praesenti, de quibus non possumus per notitiam abstractivam, licet possimus per eam scire existentiam necessariorum et contingentium de praeterito.
 
-Quod si arguas contra, astrologus tempore eclipsis Lunae, licet ipsam non videat, est certus ipsam esse, et in tanta quantitate Lunam occultari et cetera; ergo notitia abstractiva est sufficiens producere scientiam eius modi accidentum de praesenti.
+Quod si arguas contra, astrologus tempore eclipsis lunae, licet ipsam non videat, est certus ipsam esse, et in tanta quantitate lunam occultari et cetera; ergo notitia abstractiva est sufficiens producere scientiam eius modi accidentum de praesenti.
 
 Ad hoc negatus consequentia. Notia namque abstractiva non producit eiusmodi certitudinem, sed certe scientia principiorum astrologiae.
 
@@ -1366,7 +1366,7 @@ Sed certe, licet tali distinctione diverse proprietates eiusdem termini demonstr
 
 Et enim ly 'sol' non fuit impositus ad significandum singulariter unum solem sed communiter, virtute cuius significationis si esset plures soles supponere pro illis. Et si dubites, etiam ly 'Petrus', si esset plures Petri supponere pro illis (loquimur univoce).
 
-"Esse plures Petros", intelligitur dupliciter, vel quod sint plures quorum quilibet sit hic, vel quorum nullus sit hic (nec vetat utrumque implicare contradictionem, nam quaerimus intrinsecam consequentiae bonitatem). Modo si esset plures Petri primo modo, ly 'Petrus' supponeret pro illis, sed illud non sufficit ut sit terminus communis. Si tamen essent plures secundo modo ly 'Petrus' non supponeret pro illis, et tamen si hoc modo essent plures Soles ly 'Sol' supponeret pro illis.
+"Esse plures Petros", intelligitur dupliciter, vel quod sint plures quorum quilibet sit hic, vel quorum nullus sit hic (nec vetat utrumque implicare contradictionem, nam quaerimus intrinsecam consequentiae bonitatem). Modo si esset plures Petri primo modo, ly 'Petrus' supponeret pro illis, sed illud non sufficit ut sit terminus communis. Si tamen essent plures secundo modo ly 'Petrus' non supponeret pro illis, et tamen si hoc modo essent plures soles ly 'sol' supponeret pro illis.
 
 Sequitur secundo: Ly 'omnis homo' esse terminum communem, quia successive potest supponere pro pluribus. Pariter ly 'omnis homo futurus' (quod nonnulli male negant) nam si sit nunc solus Petrus qui etiam erit, et cras sit solus Paulus qui etiam post erit, verum est nunc dicere quod Petrus est omnis homo futurus, et cras quod Paulus est omnis homo futurus. Nam ly 'homo' non supponit nisi pro homine qui nunc est et erit.
 

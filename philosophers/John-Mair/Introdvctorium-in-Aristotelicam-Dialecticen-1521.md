@@ -202,7 +202,7 @@ Praeterea terminorum quidam communis cui ex parte significationis pro pluribus a
 
 Terminus singularis opposito modo definitur.
 
-Non est defectus ex parte impositionis quin isti termini 'Deus', 'Sol' plura significent, sed ex parte rei penuria oritur.
+Non est defectus ex parte impositionis quin isti termini 'Deus', 'sol' plura significent, sed ex parte rei penuria oritur.
 
 #### Secundae et primae intentionis
 
@@ -555,13 +555,13 @@ In rationali, notam antecedens praecedit. Ergo tria ad causalis veritatem requir
 
 > Et Homo currit.
 
-Causalis haec "Quia Sol lucet, dies" aequivalet huic:
+Causalis haec "Quia sol lucet, dies" aequivalet huic:
 
-> Si Sol lucet dies
+> Si sol lucet dies
 
-> Et Sol lucet
+> Et sol lucet
 
-> Et Lucentia Solis in tali horizonte est causa diei.
+> Et Lucentia solis in tali horizonte est causa diei.
 
 Ulterius sequitur quod causalis est subalternans secundum legem respectu rationalis conditionalis copulativae et disiunctivae, patet omnes tales infert, et ex opposito consequentis ad oppositum antecedentis negative proportionabiliter argumentari potest.
 
@@ -1647,7 +1647,7 @@ Descensa et descendentes sunt partes descensus: ista particula 'et sic de singul
 
 Proportionabiliter in descensu copulato et disiuncto dicatur; ergo 'et sic de singulis' aequivoce in descensu copulativo et aliis descensibus capitur.
 
-Secundo sequitur: innane est illam particulam addere quando omnia singularia enumerantur, ut descendendo sub termino 'Sol'; licet plura supposita non habeat, est terminus aptus plura habere.
+Secundo sequitur: innane est illam particulam addere quando omnia singularia enumerantur, ut descendendo sub termino 'sol'; licet plura supposita non habeat, est terminus aptus plura habere.
 
 Si dicatur "Ad hoc quod descendatur suo aliquo termino requiritur quod plura supposita habeat": difficultas est verbalis.
 

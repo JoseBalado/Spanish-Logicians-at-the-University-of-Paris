@@ -1450,7 +1450,7 @@ et notitia animalium.
 
 ### Ad hoc respondeo negando antecedens:
 
-Et ad probationem negatur consequentia, nam calor lumen differunt specie, et producuntur a Sole. Etiam intellectus, quando unum actum producit, non conatur eodem modo aut eodem
+Et ad probationem negatur consequentia, nam calor lumen differunt specie, et producuntur a sole. Etiam intellectus, quando unum actum producit, non conatur eodem modo aut eodem
 modo se habet, sicut quando producit alium discrimen potest provenire ex parte voluntatis imperantis diversimode, aut ab extrinseco aut alia causa et caetera.
 
 ## Nunc igitur respondetur ad formam argumenti negando istas aequivalere atque eidem subordinari: "Omnis homo est homo" et "Omnis homo omnis homo est":

@@ -2084,10 +2084,62 @@ copulae categoricarum negantur.
 
 ### Ultimo arguitur:
 
-Sequitur quod copulativa affirmativa non aequivaleret disiunctive affirmative / compositae ex partibus contradicentibus. Hoc patet, nam si aliquae aequivalerent, maxime essent istae "Homo est animal et Deus est", et "Omnis homo non est animal", /28.1a/ ut "Nullus Deus est".
+Sequitur quod copulativa affirmativa non aequivaleret disiunctive affirmative / compositae ex partibus contradicentibus. Hoc patet, nam si aliquae aequivalerent, maxime essent istae "Homo est animal et Deus est", et "Omnis homo non est animal", /28.1a/ ut "Nullus Deus est". Sed partes istius disiunctive non contradicunt partibus illius
+copulative, immo sunt synonymae, igitur et caetera.
 
 # De natura negationis in propositione hypothetica
 
+### Ad hoc respondeo sicut prius distinguendo de partibus:
+
+Nam si de partibus proprie loquamur. Clarum est quod secunda pars copulative est haec "Deus est", quae contradicit secundae parti disiunctivae. Per haec patet hanc opinionem ostentabilem esse, fundaturque in hoc quod negatio quidquid post se invenit et destruit, et eius oppositum ponit. Non folum ponet oppositum totius hypotheticae, verum
+partium et caetera.
+
+### Opinio tamen alia quae tenet solam coniunctionem negari:
+
+Dicunt multi quod probabilis est quod nisi intelligatur quod totum negat negatio, hoc est totius copulativae oppositum, ponit non sustentabilis ad rationem illam Dorp. Qui eam defenderent dicerent non oportere negationem agere in totum quod sequitur.
+
+### Sed contra hoc arguitur:
+
+Negatio est syncategorema, ostensumque est superius. Syncategorema agere in omnes notitias tam categoricas quam syncategorematicas a quibus producitur, sed quaelibet pars
+copulativae aeque bene concurrit ad productionem negationis, sicut coniunctio principalis et etiam tota copulativa concurrit; ergo agit in totam copulativam et quamlibet partem aeque bene sicut in ly 'et'.
+
+### Ignoro quoniam pacto ad hoc respondeant:
+
+Nisi dicant negationem in totam copulativam et in nullam partem agere, et quod sicut
+datur signum in totum agens et non in aliquam partem sic de negatione ddm est. Sed tunc
+quaeram quare sicut agit in coniunctionem non agit in priorem categoricam, cum ita bene concurrat ad productionem eius prior et posterior categorica, sicut ly 'et'. Quod si forte dicas ly 'et' tantum concurrere ad productionem negationis, quaeram quare non potest intellectus cum tota copulatiua concurrere ad productionem negationis, sicut ly 'et' concurrit. Et si ly 'et' tantum concurrit, quare agit in totam copulativam.
+
+### Item bene arguit Dorp:
+
+Sequitur has aequivalere: "Non homo est animal et Deus est", et "Homo est animal non et Deus est". Hoc patet, nam termini in 'amabus' copulativis eodem modo tenentur. Et id etiam patet, nam si different, maxime esset ratione negationum. Sed negatio utraque a ly 'et' producitur, et solum in /28.1b/ ly 'et' agit; ergo et caetera.
+
+### Si forte neges sequelam (sicut quidam):
+
+Et assignes pro ratione quod in priore negatio cadit in totam copulativam, in posteriore vero 'non hoc' nihil est, nam negationem cadere in totam copulativam, non est nisi cadere in ly 'et'.
+
+Si ergo cadit in posteriore copulativa, negatio in copulam coniunctionalem cadit in totam propositionem. Et propter hoc quidam concedit quod infertur, videlicet illas duas copulatiuas aequivalere, quod tamen videtur falsum, nam ex eo sequeretur has aequivalere "Brunellus est risibilis non", quia ipe est rationalis et non-Brunellus est risibilis, non quia ipse est rationalis. Quarum ultima est necessaria, et primam nullus concederet.
+
+Alias rationes quas Dorp adducit poteris contra opinionem hanc adducere, quae quamvis non sint tam validae sicut priores, tamen cum aliis aliquam apparentiam habent.
+
+Sequitur ex opinione hac, dari duas contradictorias de modo enuntiandi, et manet eadem particularitas et eadem universalitas. Patet de his: "Homo est animal, et omnis Deus est", "Non homo est animal et omnis Deus est".
+
+### Praeterea arguitur. Sequitur ex opinione quod negatio in categorica non deberet agere nisi in copulam principalem, quod tamen est falsum.
+
+Nam tunc non distribuerentur extrema huius "Non homo est animal".
+
+Patet consequentia, quia negatio in hypothetica non potest agere nisi in copulam principalem; ergo in categorica non potest agere nisi in copulam principalem.
+
+Consequentia patet a sufficienti similitudine. Propter rationes priores iudico probabiliorem fore opinionem prius dictam quae a nonnullis reiicitur, quae tamen credo non reiiceretur si intelligerent eam sicut nos defendimus.
+
+## Circa dubium sequens in quo de signis ampliantibus ad quinque differentias agendum est:
+
+Primo de ly 'imaginare'. Agetur secundo de verbis secunde intentionis, quae terminos super quos feruntur, ampliare ad quinque communis est opinio.
+
+### Arguitur igitur sic:
+
+Si ly 'imaginario' ad quinque differentias temporum ampliaret, sequeretur subiectum huius propositionis "Sortes imaginarie est Plato" omnia entia significare, sed hoc est falsum; ergo nam datur signum amplians ad quinque.
+
+Consequentia /28.2a/
 
 <!--
 ## Apparatus Criticus Reference

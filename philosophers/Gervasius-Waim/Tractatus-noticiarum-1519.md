@@ -1,4 +1,5 @@
 ---
+layout: medieval
 title: "Tractatus noticiarum"
 author: "Gervasius Waim"
 year: 1519

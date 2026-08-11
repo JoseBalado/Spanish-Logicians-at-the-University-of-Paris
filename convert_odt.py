@@ -12,7 +12,7 @@ next to the output file.
 
 Python environment:
     When working on this repository together with the wider Medieval Logic Project,
-    use the shared environment at ../Logic/MedievalLogicProject/.venv when available.
+    use the shared environment at ../../Logic/MedievalLogicProject/.venv when available.
     This converter itself only requires Python and Pandoc; the shared environment is
     useful for related project scripts and keeps dependencies consistent.
 
@@ -200,6 +200,7 @@ FILES = [
 
 def build_front_matter(f):
     lines = ["---"]
+    lines.append("layout: medieval")
     lines.append(f'title: "{f["title"]}"')
     lines.append(f'author: "{f["author"]}"')
     lines.append(f'year: {f["year"]}')

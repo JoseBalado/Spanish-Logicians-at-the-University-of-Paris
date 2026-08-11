@@ -96,6 +96,7 @@ Waim was a German theologian and logician born in Memmingen who died in Chartres
 | John Eck                           | 1486-1543       |
 | Gaspar Lax                         | 1487-1560       |
 | Juan Dolz                          | c. 1490-c. 1550 |
+| Gervasius Waim                     | c. 1491-1554    |
 | Juan de Celaya                     | 1490-1558       |
 | Fernando de Enzinas                | c. 1494-1523    |
 | Domingo de Soto                    | 1494-1560       |

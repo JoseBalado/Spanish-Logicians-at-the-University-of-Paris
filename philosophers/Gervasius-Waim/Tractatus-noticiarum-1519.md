@@ -494,7 +494,7 @@ Verbi gratia, notitiae confusae omnium hominum quilibet homo possibiles est obie
 
 Ex istis sequitur primo quod licet cuiuslibet notitiae singularis tantum sit unum obiectum, alicuius tamen notitiae communis infinita sunt obiecta, et alicuius notitiae communis tantum unum est obiectum.
 
-Clarum est corollarium usque ad ultimam partem quae facile probatur de ista notitia 'Deus', quae secundum communiter loquentes, est terminus communis, quam tamen impossibile est habere infinita obiecta, immo nec finita essentialiter distincta. Etiam pars illa est clara de isto termino 'Sol' qui est terminus communis, non potest tamen havere plura obiecta Aristotele loquendo.
+Clarum est corollarium usque ad ultimam partem quae facile probatur de ista notitia 'Deus', quae secundum communiter loquentes, est terminus communis, quam tamen impossibile est habere infinita obiecta, immo nec finita essentialiter distincta. Etiam pars illa est clara de isto termino 'sol' qui est terminus communis, non potest tamen havere plura obiecta Aristotele loquendo.
 
 Sequitur insuper quod aliqua notitia est obiectum ipsiusmet. Patet de notitia confusa cui subordinatur ly 'ens' vel ly 'notitia'.
 

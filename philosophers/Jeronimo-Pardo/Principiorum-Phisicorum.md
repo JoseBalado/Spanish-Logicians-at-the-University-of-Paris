@@ -494,17 +494,29 @@ Vel habitus et potentia dicuntur huiusmodi causae respectu habitus, quia habitus
 
 Et de istis causis essentialiter subordinatis pono duas regulas, quarum prima est: Quandocumque ad aliquem effectum concurrunt causae essentialiter subordinatae, quaelibet attingit totum effectum, et non est imaginandum quod una pars effectus producatur ab una, et alia ab alia. Ut verbi gratia 'pater', 'sol', et 'Deus gloriosus' sunt /22a/ causae essentialiter subordinatae in producendo Sortem filium, et non est imaginandum quod pater producat unam partem, et sol aliam, et Deus aliam. Immo dico quod pater producit totum, et sol totum, et similiter Deus; ita quod actus, qui causatur seu a potentia et habitu, totus causatur seu producitur a potentia, et totus producitur ab habitu.
 
-Contra: pater producit totum, igitur non requiritur sol in productione Sortis.
+Contra: Si pater producit totum; igitur non requiritur sol in generatione Sortis.
 
-Respondetur quod non sequitur, et hoc est quia subordinatur soli in causando licet producat totum effectum.
+Nego consequentiam, et ratio est quia pater subordinatur soli in causando, licet producat totum effectum.
 
-Contra: quodlibet praedictorum est causa partialis, igitur etc. Immo aut quod sit causa partialis ita quod una producat unam partem et aliam aliam, et sic nego. Aut quod sit partialis, id est quod non sola concurrit sed cum alia, et sic concedo. Ex quo sequitur quod bene dixit aliquis, scilicet quod causae essentialiter subordinatae quaelibet totum agit, sed non totaliter agit. Unde differentia est dicere 'agit' et dicere 'totaliter agit'. Nam 'agere totaliter' secludit aliam causam, ideo istae causae bene vocantur a doctoribus causae totales quia agunt totum effectum. Et si diceres quod pater est causa totalis respectu filii.
+Contra: Quodlibet praedictorum est causa partialis; ego distinguo aut quod sit causa partialis ita quod una producat unam partem et aliam aliam, et sic nego. Aut quod sit partialis, id est quod non sola concurrit sed cum alia, et sic concedo. Ex quo sequitur quod bene dixit aliqui, scilicet quod causae essentialiter subordinatae quaelibet totum agit, sed non totaliter agit. Unde differentia est dicere 'agit', et dicere 'totaliter agit'. Nam 'agere totaliter' secludit aliam causam; ideo istae causae bene vocantur a doctoribus causae totales, quia agunt totum effectum. Et si diceres quod pater est causa totalis respectu filii.
 
-Secunda regula: si sunt aliquae causae essentialiter subordinatae, una est semper principalis et alia minus principalis. Et si quaeratur quae est illa quae dicitur principalior, et si quaeratur respondetur per tales regulas de mente Scoti: illa causa quae est illimitatior, id est quae potest plures effectus producere dicitur principalior in causando, ut pater, sol et Deus con- /20r/ currunt ad producendum hominem, dicitur quod sol est principalior quam pater quia potest plures effectus et est illimitatior, et Deus gloriosus dicitur esse principalior quam sol eadem ratione. Sed quaereret aliquis quid est unam causam agere in virtute alterius. Ad quod respondent aliqui quod habere talem ordinem in agendo quod una nullo possit facere sine alia. Sed istud improbatur quia si illa declaratio esset bona sequeretur quod illa diffinitio non esset bona. Ideo aliter respondetur et melius quod unam causam agere in virtute alterius est unam causam non agere nisi aliud moveat ad agendum. Ut Deus et Sortes producunt aliquem effectum. Dico quod Deus facit quod Sors producat illum effectum, et facit quod Sortes producat illum effectum, ideo do duo de causis quare una non agit in virtute alterius, ut obiectum et intellectus. Dico quod intellectus movet obiectum ad causandam notitiam, et hoc dicit Petrus de Aliaco in 4o et optime.
+Secunda regula: Quando sunt aliquae causae essentialiter subordinatae, una est semper principalis et alia minus principalis. Et si quaeratur quae est illa quae dicitur principalior respondetur per tales regulas de mente Scoti:
 
-Ex quo sequitur glosam Scoti prius recitatam non valere, quia illa dicta communia non possunt salvari, scilicet: "Causa principalis non dependet a causa minus principali sed econtra". Ex quo sequitur quod dictum Gilberti Porretani, scilicet quod causa prima influit in causam secundam. Sic intelligitur, scilicet causa prima non solum producit effectum sed et facit causam secundam producere effectum. Et hoc est influere.
+> Illa causa quae est illimitatior, id est quae potest plures effectus producere, dicitur principalior in causando.
 
-Aliae sunt causae accidentaliter subordinatae et dicuntur sic eo quod una non dependet ab alia in causando nec econtra, immo una potest sine alia in sua virtute agere quod non indiget alia, ut duo homines por-
+Ut pater, sol et Deus concurrunt /22b/ ad producendum hominem.
+
+Dico quod sol est principalior quam pater quia potest plures effectus, et est illimitatior. Et Deus gloriosus dicitur esse principalior quam sol eadem ratione.
+
+Sed quaereret aliquis quid est unam causam agere in virtute alterius. Ad quod respondent aliqui quod habere talem ordinem in agendo quod una nullo modo possit facere sine alia. Sed istud improbatur quia si illa declaratio esset bona sequeretur quod illa definitio non esset bona. Ideo alli respondetur et melius quod unam causam agere in virtute alterius, est unam causam non agere nisi aliquid moveat ad agendum. Ut Deus et Sortes producunt aliquem effectum. Dico quod Deus duo facit: primo producitur illum effectum, secundo facit quod Sortes producat illum effectum. Ideo agit Duo De Causis qua una non agit in virtute alterius, ut obiectum et intellectus. Dico quod intellectus movet obiectum ad causandam notitiam, et hoc dicit Petrus de Aliaco in Quarto et optime.
+
+Ex quo sequitur glosam Scoti prius recitatam non valere, quia illa dicta communia non possunt salvari, scilicet:
+
+> Causa principalis non dependet a causa minus principali sed bene econtra.
+
+Ex quo sequitur quod dictum Gilberti Porretani, scilicet quod causa prima influit in causam secundam sic intelligitur, id est causa prima non solum producit effectum sed etiam facit causam secundam producere effectum, Et hoc est influere.
+
+Aliae sunt causae accidentaliter subordinatae et dicuntur sic eo quod una non dependet ab alia in causando nec econtra, immo una potest tamen augeri in sua virtute quod non indiget alia, ut duo homines portantes /23a/ lapidem
 
 <!--
 ## Apparatus Criticus Reference

@@ -516,7 +516,33 @@ Ex quo sequitur glosam Scoti prius recitatam non valere, quia illa dicta communi
 
 Ex quo sequitur quod dictum Gilberti Porretani, scilicet quod causa prima influit in causam secundam sic intelligitur, id est causa prima non solum producit effectum sed etiam facit causam secundam producere effectum, Et hoc est influere.
 
-Aliae sunt causae accidentaliter subordinatae et dicuntur sic eo quod una non dependet ab alia in causando nec econtra, immo una potest tamen augeri in sua virtute quod non indiget alia, ut duo homines portantes /23a/ lapidem
+Aliae sunt causae accidentaliter subordinatae et dicuntur sic eo quod una non dependet ab alia in causando nec econtra, immo una potest tamen augeri in sua virtute quod non indiget alia, ut duo homines portantes /23a/ lapidem lapides sunt causae per accidens, quia unus non dependet ab alio nec econtra. Immo tantum posset augeri unus in sua virtute quod posset portare solus lapidem. Et de istis pono duas regulas, quarum prima est:
+
+> Quandocumque ad aliquem effectum concurrunt aliquae causae accidentaliter subordinatae, neuter agit totum effectum, sed quaelibet agit suam partem.
+
+Ut sint duo homines portantes lapidem, dico quod quilibet portat suam partem.
+
+Circa istam regulam est unum magnum problema apud doctores, utrum sit possibile quod sint aliquae causae accidentaliter subordinatae totales, id est totaliter producentes aliquem effectum, ita quod una remota non minus effectus producatur ab illa eadem modo ac si esset cum alia, ut duo homines portantes lapidem ut dictum est.
+
+Scotus tenet quod non est possibile, Ockham vero tenet quod sic. Sed hoc tractatur in Secundo Physicorum.
+
+Secunda regula:
+
+> Causae accidentaliter subordinatae dicuntur habere qualitates eiusdem rationis.
+
+Et per hoc differunt a causis essentialiter subordinatis quae dicuntur habere causalitates alterius rationis, et dicuntur habere causalitates eiusdem rationis, quia una potest tantum augeri quod suppleat vicem alterius. Sed dicuntur alterius rationis quia una non potest augeri tantum in sua virtute ut possit agere sine alia a qua dependet in agendo, ut intellectus et obiectum sunt causae essentialiter subordinatae in producendo notitiam, tamen non potest intellectus augeri in sua virtute quod ageret sine subiecto. /23b/
+
+Causarum per accidens quaedam dicitur fortuna, quaedam vero casus, quaedam vero neutra. Unde fortuna est causa per accidens secundum propositum eorum quae raro accidunt et alicuius gratia. Causa per accidens id est quae ex natura sua ad talem effectum non ordinatur.
+
+Ideo prima conditio requisita ad fortunam est quod sit causa per accidens, ex quo est corollarium quod nulla causa quae ex natura sua ordinatur ad aliquem effectum dicitur esse fortuna respectu illius effectus. Exemplum ut quod ignis calefaciat respectu huius quod calefacere non est fortuna, quia ex natura sua ordinatur ad calefaciendum, id est, ad totum effectum dicitur notanter secundum propositum in quo tangitur.
+
+Secunda conditio fortunae, scilicet quod sit secundum propositum. Unde agens secundum propositum, agens liberum. Agens secundum intellectum et voluntatem idem sunt, et ista sunt synonyma, ex quo sequitur quod nullum agens naturale debet dici fortuna, ut si lapis descendat et frangat alicui caput, non debet dici propterea lapis fortuna.
+
+Contra: Lapis est causa illius fractionis lapidis; igitur est fortuna.
+
+Negatur consequentia, et ratio est quia non sufficit quod sit causa per accidens, sed oportet quod sit agens liberum. Dicitur notanter in definitione "eorum quae raro accidunt" ubi tangitur tertia conditio ipsius fortunae, quae est quod producit effectum qui raro accidit. Ex quo sequitur quod nullus effectus debet vocari fortuitus nisi qui raro accidat. Ex quo habemus quod solum ille effectus debet vocari fortuitus qui /24a/ raro accidit, id est, qui non multotiens accidit.
+
+Dicitur notanter in---- 
 
 <!--
 ## Apparatus Criticus Reference

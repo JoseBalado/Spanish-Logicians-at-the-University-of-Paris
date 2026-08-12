@@ -2139,7 +2139,52 @@ Primo de ly 'imaginare'. Agetur secundo de verbis secunde intentionis, quae term
 
 Si ly 'imaginario' ad quinque differentias temporum ampliaret, sequeretur subiectum huius propositionis "Sortes imaginarie est Plato" omnia entia significare, sed hoc est falsum; ergo nam datur signum amplians ad quinque.
 
-Consequentia /28.2a/
+Consequentia /28.2a/ apparet nota, et probatur sequela. Ly 'Sortes' supponit pro omni ente, nam non solum supponit pro illo quod potest esse Sortes, sed pro omni illo quod imaginatur esse Sortes; ergo significat omnia entia.
+
+Iam probatur minor, nam si ly 'Sortes' significaret omnia entia vel hoc esset naturaliter proprie, vel naturaliter communiter, vel ad placitum; non primis duobus modis, nam si sic, ille terminus non posset cadere ab ea significatione, nec ultimo modo, nam ille terminus 'solum' fuit impositus ad significandum unam rem singularem.
+
+# Et an sit ampliatio ad imaginarium
+
+### Et confirmatur:
+
+Si ly 'significat' ampliaret ad quinque hoc maxime esset, ut veritatem huius "Chimaera significat Chimaeram" et similium defendamus. Sed hoc est falsum, nam si ea concedenda esset, quia 'Chimaera' significat aliquid quod imaginatur esse Chimaera. Eadem ratione concedendum esset quod Sortes significaret Chimaeram, et quicunque terminus significaret Chimaeram.
+
+Ad dissoluendum hoc dubium tria faciemus:
+
+### Primo de ly 'imaginarie' dicemus defendendo melius quo poterimus opinionem
+communem.
+
+Secundo: Opiniones quasdam aliorum ponemus.
+
+Tertio: De ampliatione huius verbi 'significat' et similium, quorum determinatio, et si ex praecedentibus satis nota erit, tamen aliquam ingerit particularem difficultatem.
+
+### Quantum igitur ad primum et alia duo:
+
+Sciendum est dependere difficultatem hanc ex communi terminorum difficultate, utrum
+impossibile sit intelligibile, nam qui dicunt impossibile non esse intelligibile non po
+nent ampliationem ad quinque. Sed communior positio ponit impossibile intelligibile esse, et ex consequenti (quamvis dicant impossibile explicans contradictionem non
+esse intelligibile, sicut non intelligibile) dicturi sunt omne impossibile esse intelligibile, nam omne tale, sive explicans sive implicans, significatur per hunc terminum 'impossibile' et per notitiam impossibilium intelligitur. Quod autem dicunt non intelligibile non posse intelligi hoc fateor. Sed non est verum quod non intelligibile sit impossibile, nam huius subiectum non supponit.
+
+Dicunt ergo communes in hac propositione "Sortes imaginarie est Plato" quod ille terminus 'Sortes' pro omni illo quod imaginatur Sortes supponit, cunque omne ens imaginetur "Sortes pro omni ente supponit, et ideo omne ens significat. Et quando arguebatur, vel significat naturaliter proprie, vel naturaliter communiter, vel ad placitum.
+
+### Respondetur quod:
+
+In mente naturaliter proprie et in voce ad placitum, non tamen eodem modo, sicut alii termini significarent naturaliter proprie aut ad placitum. Nam alii significant simpliciter et independenter.
+
+Nomina autem 'Sortis' in hac propositione "Sortes imaginarie est Plato" significat omnia
+entia respective et dependenter, nam ablato illo actu imaginario significat solum
+Sortem, quem independenter significat. Et si arguas: "Ergo aliquis terminus a naturali significatione potest cadere"; distingunt: vel a significatione naturali independenti, et sic negant, vel a dependenti et respectiva, et sic conceditur (vocant autem respectivam significationem quam terminus, ratione alienius termini advenientis habet, quo ablato non amplius habet).
+
+Simili modo duplicem significationem ad placitum: unam independentem, aliam vero dependentem. unde dicent quod quem imposuit hunc terminum 'imaginatur' et similes, virtualiter imposuit omnes terminos quos potest unire, ut starent secundum eius exigentiam, et omnia significarent tempore quo talem terminum respicerent et caetera.
+
+### Et si contra hoc arguitur:
+
+Nomina 'Sortis' significant omnia imaginabilia in propositione iam dicta incomplexe, vel ergo ea significat absolute, vel connotative. Si primum ergo ab aliqua convenientia essentiali abstrahitur talis notitia, quod est falsum, nam non datur convenientia essentialis inter omnia imaginabilia nec connotative repraesentat. Tum quia nescies connotationem assignare nec apparet quae convenientia accidentalis possit inter omnia imaginabilia reperiri.
+
+### Ad hoc responderi potest quod significat absolute ad hunc sensum, quod nihil connotat ultra illa:
+
+Et quando arguitur: "Ergo ab aliqua convenientia essentiali abstrahitur talis conceptus", negatur consequentia. Nam principium illud Nominalium quod quicunque conceptus absolutus abstrahitur ab aliqua convenientia essentiali reperta inter significata, talis termini intelligitur de conceptus significatis, quae independenter, et non respective significantur. /29.1a/
+
 
 <!--
 ## Apparatus Criticus Reference

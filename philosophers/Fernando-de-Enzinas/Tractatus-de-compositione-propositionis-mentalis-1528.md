@@ -2185,6 +2185,65 @@ Nomina 'Sortis' significant omnia imaginabilia in propositione iam dicta incompl
 
 Et quando arguitur: "Ergo ab aliqua convenientia essentiali abstrahitur talis conceptus", negatur consequentia. Nam principium illud Nominalium quod quicunque conceptus absolutus abstrahitur ab aliqua convenientia essentiali reperta inter significata, talis termini intelligitur de conceptus significatis, quae independenter, et non respective significantur. /29.1a/
 
+# Opinio Buridani
+
+### Et si adhuc arguas:
+
+Sequitur in hac propositione "Homo imaginarie est asinus" non licere descendere sub illo termino 'homo', quia non potest bari terminus singularis mediante copula illa.
+
+### Ad hoc respondetur concedendo quod infertur si loquamur proprie de descensu:
+
+Sed fortasse inquiret aliquis utrum possit dari terminus qui pro unica tantum re mediante copula ampliativa ad quintum supponere possit.
+
+### Ad hoc respondeo quod sic:
+
+Ut patet de hoc termino 'Sortes' qui est Sortes.
+
+### Sed contra hanc communem opinionem sunt duo argumenta valde apparentia:
+
+Unde arguitur sic: si intellectus mediante notitia Sortis solum Sortem intelligit, non
+potest, adveniente aliquo actu talis notitia, aliud significare; ergo non est ponenda
+huius modi significatio respectiva.
+
+Antecedens probatur: nullum syncategorema conceptus, a quibus producitur pro alia significatione, determinat, quam pro illa quam in ipsis reperit; ergo cum ly 'imaginario' non inveniat in notitia 'Sortis et Platonis' aliam significationem quam singularem, qua Sortem videlicet et Platonem significat, determinabit non pro alia sed pro illa tantum.
+
+Antecedens probatur: nam dato opposito sequitur quod ly 'est' determinaret notitiam Sortis et Platonis pro asinis, aut alio imaginabili.
+
+### Secundo arguitur:
+
+In hac propositione "Sortes imaginarie est Plato", notitia Sortis non significat omnia imaginabilia, sed ly 'imaginarie'; ergo opinio nulla.
+
+Antecedens probatur: quidquid movet intellectum ad aliquid vel aliqua vel aliqualiter intelligendum significat illud vel illa vel taliter. Sed ille actus imaginarie adveniens movet intellectum ad cognoscendum omnia imaginabilia, quae antequam ipsum adveniret, non intelligebat; ergo ly 'imaginarie' repraesentat omnia imaginabilia et non notitia Sortis.
+
+### Ad has rationes quanvis difficile est respondere:
+
+Oportet ad primam respondendo negare antecedens, et ad probationem nego antecedens. Unde dico quod aliqua sunt syncategoremata, quae determinant terminos pro significatione quam actu habent, et sunt quae determinant terminos quo ad acceptionem, et sunt syncategoremata non ampliativa ad quinque. Alia sunt et, non solum pro alia significatione determinant /29.1b/ terminos. Verum novam eis praebent significationem, et de his syncategorematis est verum antecedens, nec probatio procedit contra hoc.
+
+### Ad secundum nego antecedens pro utraque parte:
+
+Ad probationem distinguo maiorem, quia si intelligas quod quidquid movet intellectum ad intelligendum per se aliquid vel aliqua vel aliqualiter ipsum, illud vel illa taliter significata in hoc sensu concedo, sed minor est falsa in eodem sensu. Nam ly 'imaginarie' non movet intellectum ad hoc quod ipsum omnia imaginabilia intelligat, sed solum ad hoc quod per notitiam Sortis illa intelligat.
+
+### Si vero intelligas quod:
+
+Quidquid movet intellectum ad intelligendum per alium aliquid quod id ipsum significat illud, nego antecedes. Nam species Sortis mouent intellectum ad intelligendum non per se, sed per aliud, et habitus et obiectum et similia, quae non proprie dicuntur illa significaret, sed solum effective. Quo pacto intellectus eadem significat, et si placet concedam eodem modo ly 'imaginarie' eadem significare. Et hoc modo sunt rationes hae dissoluende, si opinionem communem tutari placet.
+
+### Quantum ad secundum:
+
+Fuit opinio virorum doctorum Buridani et alliorum non esse ponendam ampliationem ad quinque differentias secundum quos oportet negare has "'Chimaera intelligitur Chimaera' significat Chimaeram et similes". Et si quaeras quid significat ly 'Chimaera' respondeo quod significat quodcunque ens cum connotatione repugnante.
+
+### Et si arguas:
+
+Haec est vera "Haec propositio 'Homo est asinus' significat hominem esse asinum" et illud est impossibile; ergo impossibile est significabili.
+
+### Ad hoc respondet:
+
+Distinguendo quod haec sit vera "'Homo est asinus' significat hominem esse asinum", quia vel capitur dictum categorematice, ut convertebatur cum hoc "Homo existens asinus", et sic negant quod sit vera. Aut capitur syncategorematice, hoc est quod capiatur propositio illa loco huius "'Homo est asinus' significat quod homo est asinus", et in hoc sensu conceditur illa, et non procedit argumentum.
+
+Similimodo dices de hac "Lucifer voluit Deo esse aequalis" esse distinguendam, veramque in hoc sensu Lucifer voluit de se quod esset aequalis Deo.
+
+### Et si arguas contra hoc:
+
+Sequitur quod haec esset falsa "Homo imaginarie est asinus", sed hoc non est verum; ergo dicta nulla sequela /29.2a/
 
 <!--
 ## Apparatus Criticus Reference

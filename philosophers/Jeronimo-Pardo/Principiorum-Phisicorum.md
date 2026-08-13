@@ -542,7 +542,30 @@ Contra: Lapis est causa illius fractionis lapidis; igitur est fortuna.
 
 Negatur consequentia, et ratio est quia non sufficit quod sit causa per accidens, sed oportet quod sit agens liberum. Dicitur notanter in definitione "eorum quae raro accidunt" ubi tangitur tertia conditio ipsius fortunae, quae est quod producit effectum qui raro accidit. Ex quo sequitur quod nullus effectus debet vocari fortuitus nisi qui raro accidat. Ex quo habemus quod solum ille effectus debet vocari fortuitus qui /24a/ raro accidit, id est, qui non multotiens accidit.
 
-Dicitur notanter in---- 
+Dicitur notanter in diffinitione 'alicuius gratia' ubi tangitur quarta conditio fortunae. Unde ad fortunam requiritur quod producat effectum qui dicatur esse gratia alicuius. Pro cuius declaratione est notandum quod duplices sunt effectus: quidam sunt effectus gratia cuius seu propter quod. Alii sunt qui non dicuntur gratia cuius seu propter quod, qui sunt tantae bonitatis vel malitiae quod si cognoscerentur vel prosequeremur vel fugeremus eos. Exemplum inventio thesauri est effectus qui dicitur causa huius seu proprii, quod quia est talis bonitatis quod si eum cognosceremus, eum prosequeremur. Aliud exemplum ut si ego vado ad cameram meam et frango mihi tibiam. Illa fractio tibiae dicitur effectus propter hoc seu gratia cuius, quia est tantae malitiae quod si eum cognovissem eum fugissem.
+
+Sed sunt alii effectus qui non dicuntur propter hoc, seu gratia cuius, qui sunt tantae bonitatis vel malitiae quod si eos cognovissemus parvam vel nullam haberemus de eo curam, unde ponitur talis propositio:
+
+> Ad fortunam requiritur quod producat effectus qui sunt gratia cuius seu propter hoc.
+
+Et per has quattuor conditiones omnia argumenta solvuntur quae possunt fieri circa materiam de fortuna. Declaro istas quattuor conditiones, et capio aliquem qui fodit terram et inveniat thesaurum; tunc /24b/ dico quod ille homo dicitur fortuna quia habet quattuor conditiones requisitas ad fortunam. Prima: quod ille homo est causa per accidens, id est ille non ordinabatur ad inveniendum thesaurum. Et ponitur talis regula: 
+
+> Quandocumque aliqua causa libera producit effectum quem non intendebat, tunc illa causa dicitur causa per accidens respectu illius effectus.
+
+Et per oppositum, quando agens liberum intendit producere effectum tunc dicitur causa per se illius effectus.
+
+Secunda conditio: sibi convenit quia est agens secundum propositum seu liberum.
+
+Tertia: quia est causa effectus qui raro accidit.
+
+Quarta: quia illud producit quod est gratia alicuius seu propter hoc. Ex quo sequitur quod falsa est opinio vulgarium qui dicunt fortunam esse unam deam. Sequitur secundo quod male dicens fortunam seipsum maledicit, quia ipsae est fortuna.
+
+## Nunc videndum est quid est casus:
+
+Ubi prius est notandum quod casus et fortuna se habent sicut superius et inferius, quia omnis fortuna est casus sed non econtra. Unde casus [est] causa per accidens eorum quae raro accidunt, et alicuius gratia cuius effectus immediate vel mediate accidit propter intentionem causae liberae.
+
+Dicitur notanter in definitione 'causa per accidens' per quod tangitur prima conditio casus, quae est quod sit causa per accidens. Et per hoc solvitur una quaestio utrum luna sit causa per accidens respectu sui eclipsis. /25a/
+
 
 <!--
 ## Apparatus Criticus Reference
@@ -560,5 +583,5 @@ Page 3b: extrinsece ] emend. extrincisse
 Page 3b: circa idem ] emend. cu//caid8
 Page 5a: conveniunt quatuor ] del. conveniunt sibi quatuor
 Page 7a: formam quam ] del. formam rem quam
-Page 9a: habet ] emmed. hēg
+Page 9a: habet ] emend. hēg
 -->

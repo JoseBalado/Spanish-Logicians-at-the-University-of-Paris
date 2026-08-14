@@ -2243,7 +2243,60 @@ Similimodo dices de hac "Lucifer voluit Deo esse aequalis" esse distinguendam, v
 
 ### Et si arguas contra hoc:
 
-Sequitur quod haec esset falsa "Homo imaginarie est asinus", sed hoc non est verum; ergo dicta nulla sequela /29.2a/
+Sequitur quod haec esset falsa "Homo imaginarie est asinus", sed hoc non est verum; ergo dicta nulla sequela /29.2a/ patet ex opinione, et probatur minor: bene sequitur "Haec est imaginabilis et intelligibilis 'Homo est asinus'; ergo homo imaginarie et intelligibiliter est asinus'. Consequentia patet a sensu composito ad divisum, et antecedentis veritas est manifesta.
+
+### Ad hoc respondet quidam negando minorem:
+
+Et ad probationem distinguit antecedens, quia vel intelligis quod haec propositio "Homo est asinus" sit res intelligibilis et sic, concesso antecedente, negatur consequentia, vel intelligis quod sit propositio intelligibilis, et sic
+dicit quod haec est falsa "Haec propositio 'Homo est asinus' est propositio intelligibilis", et definit propositionem intelligibilem sic:
+
+> Propositio intelligibilis est propositio significans taliter qualiter intelligibiliter est.
+
+Sed ex hac definitione apparet illam propositionem esse intelligibilem, nam sic arguo: "Ego intelligo taliter qualiter illa significat; ergo intelligibiliter ita est sicut illa significat".
+
+### Ad hoc negat ipse consequentiam:
+
+Et dicit quod non valet consequentia ab activa ad passivam quando vis verbi et caetera. Sed clarum est quod ibi non arguitur ab activa ad passivam. unde arguo sic:
+
+> Propositio dicitur significare taliter qualiter intellectus intelligit per eam, sed per eam intellectus intelligit hominem esse asinum; ergo intellectus intelligit taliter, videlicet hominem esse asinum. Ergo propositio significat aliquid vel aliqualiter, quod vel qualiter per intellectum intelligit; ergo propositio significat taliter qualiter intelligi potest, seu intelligibiliter est.
+
+### Ad hoc respondeo:
+
+Primo, stando in definitione data propositionis intelligibilis, negando quod propositio illa sit intelligibilis. Et ad probationem, quae adducitur concesso quod propositio illa significat taliter qualiter intellectus intelligit, nego quod significet taliter qualiter intelligibiliter seu imaginarie est.
+
+### Unde multum differunt istae:
+
+Secundum hunc modum, intellectus intelligit seu imaginatur hominem esse asinum et homo imaginarie seu intelligibiliter est asinus.
+
+### Aliter posset dici negando consequentiam illam in qua arguitur a modali composita ad divisam:
+
+Non enim oportet quod in omnibus nominibus secundae intentionis valeat ille modus arguendi, sed tantum in his quae unionem possibilem aut sibi oppositam important. Non tantum sequitur "Haec est falsa 'Homo est asinus'"; ergo homo falso est asinus, et similes.
+
+### Et si adhuc contra hoc arguas hae conceduntur:
+
+"Homo imaginatur asinus", "Homo apparet arbor" et tamen non possent concedi, nisi poneretur ampliatio ad quinque; ergo et caetera.
+
+### Ad hoc concessa maiore, negatur minor:
+
+unde istae conceduntur, quia subiectum et praedicatum supponunt pro eodem. Praedicatum namque prioris non est ly 'asinus' tantum sed hoc totum imaginatum 'asinus', et hoc totum pro quocunque ente possibili supponit; sed haec non concedetur "Homo imaginarie est asinus", nec "Haec Chimaera imaginatur ens" quia ly 'imaginarie' est modus tantum copulam determinans.
+
+### Et si dicas ly 'homo' supponit pro omni illo quod imaginatur asinus:
+
+In hac "Homo imaginarie est asinus"; ergo illa est vera cum subiectum et praedicatum supponant pro eodem.
+
+Ad hoc primo dicitur negando quod supponit pro omni illo quod imaginatur homo, sed
+solum pro homine qui imaginatur esse homo; sed melius est dicere quod supponit pro
+omni illo quod imaginarie est homo, et non pro omni illo quod imaginatur homo.
+
+### Et hoc pacto poteris hanc opinionem defendere:
+
+Contra quam invenio argumentum quod sit difficile, nisi unum hoc, videlicet quod
+defendentes hanc opinionem vix poterunt explicare quod significet ly 'Chimaera'. Nam
+dicunt significare quodlibet ens cum connotatione repugnante. Tunc quaero quae est ea connotatio repugnans, si dicas quod ly 'Chimaera' significat ens compositum ex impossibilibus, non bene respondebis, nam propositio illa per quam respondes est falsa, quia praedicati determinatio non supponit.
+
+### Si dicas: "Significat quodlibet ens":
+
+Et significat quod compositum sit ex impossibilibus et capias dictum quod sequitur ly 'significat' syncategorematice'. Non bene etiam respondebis, nam ea significatio propositionalis est. Si enim quaeratur quid significat haec propositio "Compositum est ex im possibilibus" non diceres nisi quod significat et compositum sit ex impossibilibus. Quod si dicas quod ly 'Chimaera' significat omne ens, connotando quod sit compositum ex impossibilibus, etiam non bene respondes, nam propositio illa per quam respondisti est falsa, nam eius hoc totum ens connotando quod sit compositum ex impossibilibus non supponit cum ultima pars non supponat, quod si dicas te capere ibi illam /30.1a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -2266,4 +2319,8 @@ Page 21.2a: quaelibet ] emend. queliaꝫ
 Page 26.1b: distributive ] emend. distributi
 Page 26.1b: speciei ] emend. specie
 Page 27.2b: ita ] emend. ista
+Page 29.2a: consequentiam ] emend. cōſequetiam 
+Page 29.2a: intellectum ] emend. intellectus 
 -->
+
+

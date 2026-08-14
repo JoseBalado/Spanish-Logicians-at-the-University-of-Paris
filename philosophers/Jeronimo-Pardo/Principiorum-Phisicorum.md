@@ -566,6 +566,15 @@ Ubi prius est notandum quod casus et fortuna se habent sicut superius et inferiu
 
 Dicitur notanter in definitione 'causa per accidens' per quod tangitur prima conditio casus, quae est quod sit causa per accidens. Et per hoc solvitur una quaestio utrum luna sit causa per accidens respectu sui eclipsis. /25a/
 
+Dico quod non, quia quamvis luna producat effectum qui raro accidit, tamen non dicitur casus, quia non est causa per accidens. Quia luna, ex natura sua, ordinatur ad talem effectum. Dicitur notanter in definitione eorum quae raro accidunt, ex quo sit quod nullus effectus qui saepe accidit debet dici effectus casualis. Dicitur notanter, alicuius gratia, per quod tangitur tertia conditio. Unde ad hoc quod aliquis effectus sit casualis oportet quod sit alicuius gratia, ut diximus in definitione fortunae.
+
+Quarta conditio quod ille effectus casualis mediate vel immediate accidat propter intentionem causae liberae. Pro cuius declaratione quaeratur talis quaestio: utrum si descenderet fulmen et interficeret unum leonem in patria ubi sunt leones et non sunt homines, utrum illud fulmen debeat dici casus? Dico quod non.
+
+Contra: Illud fulmen dicitur causa per accidens effectus qui raro accidit; ergo est casus. Nego consequentiam, et ratio est quia ille effectus non accidit mediate vel immediate propter intentionem causae liberae. Immo dico quod si unus homo posuisset ibi leonem ad eius conservationem et occidisset illum, tunc dico quod esset ibi casus et effectus casualis, quia ille effectus accidisset propter intentionem causae liberae, id est hominis qui posuit ibi leonem. Ex quo sequitur quod dupliciter potest fieri effectus casualis: uno modo propter intentionem /25b/ causae liberae immediate. Exemplum ut si irem per viam et descenderet lapis et frangeret mihi caput, ille effectus esset casualis, et ratio est quia ille effectus est immediate propter intentionem causae liberae.
+
+Secundo modo potest fieri effectus casualis mediate propter intentionem causae liberae. Exemplum, ponit Occam, ut pono tunicam supra equum et descendo de equo, et volo quod equus currat et frangat tunicam. Tunc dico quod ille effectus dicitur casualis quia accidit mediate propter intentionem causae liberae, puta mei.
+
+Et per hoc solvitur quaestio illa qua quaerunt multi doctores, utrum ad salvandum casum et fortunam oporteat ponere voluntatem esse liberam. Dico quod sic, quia ostensum est quod numquam est casus nec fortuna nisi talis effectus mediate vel immediate sit propter intentionem causae liberae. Et ut melius intelligatur pono aliqua exempla, et primo pono casum quod inveniat lapis de tecto et frangat caput Sortis; tunc dico quod Sortes est fortuna, et fractio capitis est effectus fortuitus, et Sortes est casus et fractio capitis est effectus casualis. Exemplum secundum: si aliquis homo ponit tunicam supra equum et equus currens disrumpat tunicam, dico quod equus vocatur casus et fractio casualis, sed non est ibi fortuna quia non est ibi aliquis cui conveniat /26a/
 
 <!--
 ## Apparatus Criticus Reference

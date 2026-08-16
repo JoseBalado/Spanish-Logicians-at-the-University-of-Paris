@@ -574,7 +574,30 @@ Contra: Illud fulmen dicitur causa per accidens effectus qui raro accidit; ergo 
 
 Secundo modo potest fieri effectus casualis mediate propter intentionem causae liberae. Exemplum, ponit Occam, ut pono tunicam supra equum et descendo de equo, et volo quod equus currat et frangat tunicam. Tunc dico quod ille effectus dicitur casualis quia accidit mediate propter intentionem causae liberae, puta mei.
 
-Et per hoc solvitur quaestio illa qua quaerunt multi doctores, utrum ad salvandum casum et fortunam oporteat ponere voluntatem esse liberam. Dico quod sic, quia ostensum est quod numquam est casus nec fortuna nisi talis effectus mediate vel immediate sit propter intentionem causae liberae. Et ut melius intelligatur pono aliqua exempla, et primo pono casum quod inveniat lapis de tecto et frangat caput Sortis; tunc dico quod Sortes est fortuna, et fractio capitis est effectus fortuitus, et Sortes est casus et fractio capitis est effectus casualis. Exemplum secundum: si aliquis homo ponit tunicam supra equum et equus currens disrumpat tunicam, dico quod equus vocatur casus et fractio casualis, sed non est ibi fortuna quia non est ibi aliquis cui conveniat /26a/
+Et per hoc solvitur quaestio illa qua quaerunt multi doctores, utrum ad salvandum casum et fortunam oporteat ponere voluntatem esse liberam. Dico quod sic, quia ostensum est quod numquam est casus nec fortuna nisi talis effectus mediate vel immediate sit propter intentionem causae liberae. Et ut melius intelligatur pono aliqua exempla, et primo pono casum quod inveniat lapis de tecto et frangat caput Sortis; tunc dico quod Sortes est fortuna, et fractio capitis est effectus fortuitus, et Sortes est casus et fractio capitis est effectus casualis. Exemplum secundum: si aliquis homo ponit tunicam supra equum et equus currens disrumpat tunicam, dico quod equus vocatur casus et fractio casualis, sed non est ibi fortuna quia non est ibi aliquis cui conveniat /26a/ definitio fortunae.
+
+Contra: Mihi qui posui tunicam supra equum convenit definitio fortunae; ergo male dicis Aristoteli. Patet quia nihil deficit ad fortunam. Nego, immo dico quod deficit prima particula, scilicet causa per accidens, unde illa non est causa per se nec per accidens fractionis tunicae.
+
+Ex quibus omnibus sequitur quod bene dixit Occam quod ad salvandum casum et fortunam necesse est esse ponere voluntatem esse liberam. Et ideo est quia nullus effectus est casualis nisi mediate vel immediate fiat propter intentionem agentis liberi. Notandum quod dato, apud Aristotelem, casus et fortuna se habeant sicut superius et inferius. Unde apud physicos non sic se habent et non vocant casum nisi agens naturales et non liberum.
+
+Aliam est causa per accidens quae vocatur neutra, id est nec fortuna nec casus, quae sic definitur:
+
+> Causa neutra est per accidens eorum quae raro accidunt non alicuius gratia.
+
+Quae sic glossatur:
+
+> Causa per accidens est quae non ordinatur secundum se ad talem effectum eorum quae raro accidunt.
+
+Id est cuius effectus non est alicuius gratia sive non est notabilis bonitatis vel malitiae, ut fuit dictum superius. Ut si eundo ad cameram offendam lapidem vel offendatur a parvo lapide. Tunc sunt causae per accidens /26b/ neutra, id est nec casus nec fortuna.
+
+Item causarum quaedam vocantur propinquae, quaedam remota. Unde causa remota est quae communi nomine nominatur vel inter quam et suum effectum multae interiacent causae. Exemplum ut domificator dicitur causae remota domus, quia communi nomine nominatur. Et etiam effectus vocatur communisque communi nomine nominatur, dicendo domus, quia domificator et domus sunt termini communes. Notandum quod causa remota vocatur causa universalis et effectus etiam vocatur universalis, de quo effectu dat Aristoteles Secundo Physicorum talem regulam:
+
+> Si aliquis quaerat per causarum universalem respondens per effectum universalem, et e contra.
+
+Ut si quaerat quis fecit domum respondendum est quod domificator, et de causa particularis datur ab ipso regula per oppositum. Querenti de effectu particularis, id est de effectu qui nominatur nomine simpliciter respondendum sibi per causam particularem, ut quaerenti quis fecit hanc domum, dico quod domificator. Notandum quod in philosophia non solum vocamus causam universalem illam quae communi nomine nominatur, sed etiam illam quae producit plures effectus differentes specie, quia si sint duae causae et una potest producere  plures effectus differentes specie quam alliam, illa vocatur universalior, ut sol et Deus dicuntur causae universales, sed Deus propter dicta est causa universalior.
+
+Sed vocamus /27a/ 
+
 
 <!--
 ## Apparatus Criticus Reference

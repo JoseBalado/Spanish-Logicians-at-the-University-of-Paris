@@ -2296,7 +2296,105 @@ dicunt significare quodlibet ens cum connotatione repugnante. Tunc quaero quae e
 
 ### Si dicas: "Significat quodlibet ens":
 
-Et significat quod compositum sit ex impossibilibus et capias dictum quod sequitur ly 'significat' syncategorematice'. Non bene etiam respondebis, nam ea significatio propositionalis est. Si enim quaeratur quid significat haec propositio "Compositum est ex im possibilibus" non diceres nisi quod significat et compositum sit ex impossibilibus. Quod si dicas quod ly 'Chimaera' significat omne ens, connotando quod sit compositum ex impossibilibus, etiam non bene respondes, nam propositio illa per quam respondisti est falsa, nam eius hoc totum ens connotando quod sit compositum ex impossibilibus non supponit cum ultima pars non supponat, quod si dicas te capere ibi illam /30.1a/
+Et significat quod compositum sit ex impossibilibus et capias dictum quod sequitur ly 'significat' syncategorematice'. Non bene etiam respondebis, nam ea significatio propositionalis est. Si enim quaeratur quid significat haec propositio "Compositum est ex im possibilibus" non diceres nisi quod significat et compositum sit ex impossibilibus. Quod si dicas quod ly 'Chimaera' significat omne ens, connotando quod sit compositum ex impossibilibus, etiam non bene respondes, nam propositio illa per quam respondisti est falsa, nam eius hoc totum ens connotando quod sit compositum ex impossibilibus non supponit cum ultima pars non supponat, quod si dicas te capere ibi illam /30.1a/ ultimam partem syncategorematice iam explicas significationem illam, sicut propositionis quod si non velis explicare connotationem illius termini Chimaera, sed dicas sufficere dicere quod habet connotationem repugnantem.
+
+Ex hoc arguam sequi omnes terminos sic se habentes connotationes repugnantes esse synonymos, nam penes connotationes non poteris illos distinguere, quod tamen est falsum, nam potest ly 'a' connotare quod sit homo irrationalis et ly 'b' idem quod ly 'Chimaera'.
+
+# Non ponentium ampliationem ad quinque
+
+### Item arguo sic:
+
+Vel ly Chimaera connotat possibile vel impossibile: non secundum nam haec est falsa "ly 'Chimaera' connotat impossibile"; nec primum nam des mihi quod possibile connotat. Quod si dicas quod connotat possibile modo impossibili, non recte respondes, nam propositio per quam respondes est falsa.
+
+### Fuit modus parum diversus a praecedenti cuiusdam non ponentis huiusmodi ampliationem ad quinque:
+
+Concedebat tamen has "Homo imaginarie est asinus" et similes. Et quando arguebatur subiectum et praedicatum non supponunt pro eodem nam ly 'homo' solum pro homine et ly 'asinus' solum pro asino, possibili supponit; ergo illa est falsa.
+
+### Ad hoc respondet negando antecedens:
+
+Et negat quod subiectum sit ly 'homo' sed ly 'imaginarie' homo, ita quod ly 'imaginarie' pars est extremi.
+
+### Et si contra arguatur:
+
+Quia tunc praedicatum huius "Chimaera imaginaria est Chimaera" non supponit, quia ly 'imaginarie' Chimaera non supponit cum una pars non supponat.
+
+Ad hoc negat quod illud totum non supponat quamvis pars nulla supponat, et dat exemplum multum dissimile de hoc aggregato 'non-Chimaera'.
+
+Haec opinio non est tam probabilis quam praecedens, tum quia in hac "Chimaera imaginarie est Chimaera" non potest ex parte utriusque extremi se applicare, sed solum ex parte unius. Si ergo et parte subiecti se applicet praedicatum non supponit, et si ex parte praedicati subiectum non supponit, quare quomodocumque illa est falsa.
+
+### Quod si dicas:
+
+Illud signum ex parte utriusque, puta ex parte subiecti et praedicati, applicari hoc falsum est. Nam nunquam in aliqua propositione contingit quod eadem determinatio sit pars subiecti et praedicati. /30.1b/
+
+### Item sic arguo:
+
+In hac propositione "Homo possibiliter est animal" ly possibiliter non est determinatio subiecti nec praedicati; ergo nec ly 'imaginarie'. Unde ex hoc sumpto argumentum: "intellectus potest formare modum aliquem", puta ly 'possibiliter' determinantem copulam sic quod nec pars sit subiecti nec praedicati; ergo etiam poterit facere quod non sit pars subiecti nec praedicati ly 'imaginarie', sed solum determinet copulam.
+
+### Item arguitur sic:
+
+Sequitur quod haec est neganda 'Chimaera' significatur per ly 'Chimaeram', nam subiectum non supponit.
+
+### Nec poteris dicere ibi:
+
+Subiecto addi aliquod signum quod ampliet illum terminum.
+
+### Propter haec igitur:
+
+(Quamvis priora argumenta possent dissolvi dicendo quod si intellectus producat signum determinans copulam, quod non est pars extremorum, quod haec est falsa "Homo imaginarie est asinus", sed vocalis haec quando conceditur capitur in hoc sensu imaginarie homo imaginarie est asinus). Non probo hanc opinionem nisi velit ad praecedentem se convertere, quod tamen non sentiet qui hanc opinionem tenet, Nam dicit hoc modo respondendo propositiones, quae secundum communem opinionem conceduntur fore concedendas.
+
+### Est positio quaedam quae probabilis valde apparet, quam multi sunt insecuti, non ponentes ampliationem ad quinque:
+
+Nec significatione ullam respectivam, et simul concedunt omnes propositiones quae communiter conceduntur secundum opinionem communiorem. Dicunt enim quod haec est vera "Homo imaginarie est asinus". Et quando arguitur "ergo subiectum et praedicatum supponunt pro eodem" negatur consequentia. unde dicunt quod haec regula.
+
+> Sola propositio affirmativa est vera cuius subiectum et praedicatum supponunt pro eodem.
+
+Intelligenda est de propositionibus affirmativis denotantibus identitatem rei significatae per subiectum cum re significata per praedicatum.
+
+### Sed aliter est investiganda veritas propositionum:
+
+In quibus nec identitas nec possibilitas rei significatae per subiectum cum re significata per praedicatum denotatur. Unde cum in propositionibus quibus denotatur identitas actualis sufficit, et requiritur quod res significata per subiectum sit eadem cum re significata per praedicatum, ita in propositionibus, in quibus non identitas actualis denotatur, sed solum imaginaria identitas rei significatae per subiectum /30.2a/ cum re significata per praedicatum requiretur et sufficiet quod res significata per subiectum possit imaginari esse res significata per praedicatum; seu quod subiectum et praedicatum imaginarie pro eodem supponant.
+
+Bona profecto in imaginarie imaginatio secundum quam dicetur non sufficere ad hoc quod terminus supponat pro aliquo, quod verificetur mediante copula propositionis in qua ponitur de illo. Sed cum hoc requiratur quod significet illud, nam suppositio est acceptio, acceptio autem significatio est.
+
+# De significatione totali propositionis
+
+### Contra hunc modum posset movere argumenta nonnulla:
+
+Quae prima fronte videntur sola verba impugnare. Nam sequitur hanc concedendam esse "Non-homo imaginarie est homo", capiendo ly 'non' infinitanter et similes, in quibus ponuntur termini qui infinitantur, nam res significata per subiectum potest imaginari esse res significata per praedicatum.
+
+Sed falsitas illius patet, maxime tenendo duos terminos contradictorios de eodem et caetera non posse verificari, nam ex ea sequitur Haec "Non tantum homo imaginarie est homo" ab una exponente ad exponibilem distinctive arguendo. Et huius falsitas manifesta est, nam haec "Tantum homo imaginarie est homo", quae est sua contradictoria est vera, ut patet per universalem eius "Omnis homo imaginarie est homo".
+
+### Ad hoc potest responderi negando sequelam:
+
+Et ad probationem respondebitur quod non sufficit ad veritatem talium propositionum quod res significata per subiectum possit imaginarie competere rei significatae per praedicatum. Sed quod res pro qua accipitur subiectum imaginarie competat rei pro qua accipitur praedicatum, modo autem subiectum pro nullo accipitur, nam accipi debet pro nullo accipitur. Nam accipi debet pro illo quod non imaginarie est homo, et nullum tale est.
+
+### Hoc argumentum etsi in principio apparebat sophisticum, difficile tamen ostendam esse:
+
+Contra hunc modum sic arguo: Accipi (ut patet ex dictis secundum hanc opinionem et secundum omnes) non esse nisi significare in propositione. Propter hoc namque dicebat qui hanc defendit. Qui hanc defendit opinionem ly 'Sortes' in hac "Sortes imaginarie est Plato" non supponere pro Plato, quamvis de eo verificari possit mediante illa copula, quia supponere /30.2b/ accipi est, accipi autem significare. Sed ly 'non-homo' significat in propositione illa omnes equos; ergo pro illis accipitur. Ergo res pro qua accipitur subiectum potest imaginarie competere rei pro qua accipitur praedicatum.
+
+### Item terminus suus contradictorius in hac "Homo imaginarie est homo" non solum illum significat:
+
+Ergo eius terminus contradictorius pro omni alio accipitur, immo  pro omni alio ab homine supponit, quare illa erit vera.
+
+### Item si ly 'non-homo' in illa pro illo quod imaginarie est homo accipi deberet:
+
+Ly 'homo', deposita negatione pro illo quod imaginarie est homo, accipit et supponere debet, quare pro equo supponit et pro illo accipitur. Et hoc argumentum est difficile contra hanc opinionem.
+
+### Secundo arguitur:
+
+Contra fundamentum huius opinionis (et hoc argumentum melius procedet contra eos: quia qui hanc sequuntur opinionem in reliquis communiter opinantur) ratio eorum est, quemadmodum ad veritatem propositionum de praesenti sufficit identitas actualis rei significatae per subiectum ad rem significatam per praedicatum. Sic in propositionibus de imaginario sufficiet identitas imaginaria; quare propter hoc non oportet ponere respectivam illam significationem et ampliationem ad quinque.
+
+Sed haec ratio non est apparens, nam eodem modo esset dicendum ad veritatem de possibili sufficere identitatem possibilem rei significatae per subiectum cum re significata per praedicatum; quare non oportet ponere ampliationem ad quattuor, nam hoc pacto communia defenderentur.
+
+
+### Item si id sufficit et requiritur ad veritatem de imaginario:
+
+Ergo eodem modo ad veritatem de praeterito sufficiet et requiretur quod res significata per praedicatum competivisset rei significatae per subiectum. Sed hoc est falsum, nam sequitur quod si Sortes numquam fuisset albus haec esset vera "Sortes fuit albus", et si nunc primo esset albus haec esset falsa "Album fuit sortes", sed utraque istorum sunt falsa ergo etc.
+
+### Item arguit non defendentur secundum hunc modum veritates harum "Chimaera significat Chimaeram", "Chimaera intelligitur a Sorte":
+
+Nam posterioris subiectum non supponit et prioris praedicatum. Nec poteris dicere quod ad veritatem harum sufficit quod res significata per subiectum /31.1a/
+
 
 <!--
 ## Apparatus Criticus Reference
@@ -2321,6 +2419,7 @@ Page 26.1b: speciei ] emend. specie
 Page 27.2b: ita ] emend. ista
 Page 29.2a: consequentiam ] emend. cōſequetiam 
 Page 29.2a: intellectum ] emend. intellectus 
+Page 30.1b: sumpto ] emend. ſunio
 -->
 
 

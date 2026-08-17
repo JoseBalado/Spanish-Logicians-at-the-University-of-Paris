@@ -2391,10 +2391,75 @@ Sed haec ratio non est apparens, nam eodem modo esset dicendum ad veritatem de p
 
 Ergo eodem modo ad veritatem de praeterito sufficiet et requiretur quod res significata per praedicatum competivisset rei significatae per subiectum. Sed hoc est falsum, nam sequitur quod si Sortes numquam fuisset albus haec esset vera "Sortes fuit albus", et si nunc primo esset albus haec esset falsa "Album fuit sortes", sed utraque istorum sunt falsa ergo etc.
 
-### Item arguit non defendentur secundum hunc modum veritates harum "Chimaera significat Chimaeram", "Chimaera intelligitur a Sorte":
+### Item arguit non defendentur secundum hunc modum veritates harum "'Chimaera' significat Chimaeram", "Chimaera intelligitur a Sorte":
 
-Nam posterioris subiectum non supponit et prioris praedicatum. Nec poteris dicere quod ad veritatem harum sufficit quod res significata per subiectum /31.1a/
+Nam posterioris subiectum non supponit et prioris praedicatum. Nec poteris dicere quod ad veritatem harum sufficit quod res significata per subiectum /31.1a/ competat imaginarie rei significatae praedicatum et caetera. Propter hoc inter omnes modos communior apparet mihi verior. Trium autem ultimorum ut probabilissimus primus, quamvis hic probabilis apparet.
 
+### Et per hoc quod secundum omnes modos dicendum sit ad confirmationem potest facile apparere:
+
+Secundum duos ultimos modos nihil dicam, quia eorum auctores in hac re subticent, quae tamen ex priore dependent et etiam quia non probavimus omnino modo modos illos. Et insequendo priora vix potest recte dici.
+
+### Sed secundum primum trium ultimorum iam dixisset hanc esse negandam et similes:
+
+"'Chimaera' significat Chimaeram", quia impossibile, nec intelligibile, nec significabile, nec imaginabile est. Et quid circa hoc sit dicendum ibi est disputatum.
+
+# Non ponentium ampliationem ad quinque
+
+### Sed redeamus ad communem modum ponentem ampliationem ad quinque secundum quam haec conceditur "'Chimaera' significat Chimaeram":
+
+Ponit namque regulam hanc:
+
+> Terminus importans actum alicuius potentiae ampliat terminum.
+
+In cuius significatum talis actus denotatur ferri ad tot differentias temporum in quo talis potentia potest transire. Ideoque verba importantia actum animae interiorem ampliant ad quinque, et causa est quia actus per tales terminos importatos non solum ad id quod est verum ad id quod non est terminatur. Et quamvis haec concedatur communiter "'Chimaera' significat Chimaeram" non tamen conceditur haec "Sortes significat Chimaeram", aut "Hic terminus 'Plato' significat Ciceronem" nam dicunt terminos importantes actum animae interiorem appellare propriam ratione super terminos sequentes in quos vis verbi denotatur ferri, hoc est, proprium conceptum. Ita quod sensus huius est Chimaera significat Chimaeram mediante conceptu Chimaerae, et 'homo' significat hominem mediante conceptu cui subordinatur ly 'homo'. Ex quo sequitur hanc fore negandam "'Homo' significat homines secundum opinionem communem". Sed secundum nostram quia tenemus singulare et plurale eidem subordinari, vera est.
+
+Sequitur ultra has fore negandas "Homo significat animal", "Homo significat Sortem" et similes. Quo fit ut non valeat modus arguendi sub illo praedicato aliquis, nisi arguatur a synonymo ad synonymum, non enim sequitur "Homo significat hominem; ergo significat animal". Sed omnes istae sunt concedendae "Homo Sortem significat" et "Brunellum significat", et "Deum et Angelum significat". Nec propterea sequitur quod omnis terminus sit transcendens, nam licet omnia significet non tamen significat mediante conceptu transcendenti, hoc est, omnium entium. Unde ad hoc quod Cicero et Tullius sint synonymi sufficit quod ambo repraesentent Tullium.
+
+### Et hoc modo oportet opinionem communem defendere:
+
+Si quandoque inter loquendum dicatur quod homo significat Sortem, capitur loco huius homo Sortem significat. Et si negetur quandoque quodque Sortes Platonem significet, hoc est capiendo ly 'significat' ut non ampliet aut quod ampliet ad quattuor, et dicendo ly 'significat' aequivoce capi, defendens veritatem propositionum communiter concessarum.
+
+### Dicunt nonnulli hanc esse veram "'Homo' significat Sortem et 'Chimaera' significat chimaeram":
+
+Sed hanc falsam "'Homo' significat asinum", et dicunt quod sensus ultimae non est quod 'homo' significat id quod imaginatur asinus, nam ly 'significat' non ampliat nisi ad quattuor differentias temporum cum ponitur cum terminis potentibus supponere mediante copula de possibili.
+
+### At vero cum ponitur cum terminis, non potentibus supponere mediante copula de possibili, ampliat ad quinque:
+
+Idque aiunt provenire ex modo communi accipiendi, unde sumuntur ampliationes. Sed hoc nihil aliud est quam dicere ly 'significat' aequivoce capi, nam capta hac hoc "'Homo' significat asinum". Si ly 'homo' deponatur a sua significatione iam erit concedenda, aut saltem si imponatur ad significandum Chimaeram et ampliatur ly 'asinum', hoc ante non potest fieri nisi aequivoce, ly 'significat' sumatur', nam aliter propositio impossibilis posset esse vera.
+
+Hoc patet de hac ly 'homo' significat chimaeram, quae si ad quattuor ampliet ly 'significat' in tali sensu impossibilem esse sic probo: Bene sequitur ly 'homo' significat chimaeram; ergo ly 'homo' significat chimaeram quae potest esse. Haec autem impossibilis est, sed quod sit possibilis patet, nam si ly 'homo' imponatur ad significandum convertibiliter cum ly 'Chimaera' est veram, nam ly 'Chimaera' ampliat ad quinque.
+
+## Ad vicesimum dubium in quo de copulatis divisive sumptis et conditionatis /31.2a/ et ablativis absolute positis inquirendum est utrum  inveniantur in anima: 
+
+Communis positio est quod sic, idque terminus in oppositionibus et aliis aut saltem supposuimus illas categoricas esse, nam loquendum est cum pluribus sentiendum vero ut pauci, et etiam in oppositionibus et aliis locis dialecticis sic vel sic, loquendo refert. Sed in hoc loco aliter sentiendum est, unde arguitur sic: Haec propositio "Sortes et Plato erit animal" non est categorica; ergo dicta nulla.
+
+Antecedens probatur, nam si aliquod esset subiectum aut esset hoc totum 'Sortes Plato' et hoc nam non est terminus illud totum, aut hoc totum 'Sortes et Plato' et hoc non nam ly 'et' in copulam praedicatum agit; ergo prius est copula saltem natura quam praedicatum et copula, et ex consequenti ly 'et' non concurrit partialiter ad productionem copulae, quare non erit pars extremi, id namque vocatur extremum aut pars extremi, quod partialiter ad copulae punctionem concurrit.
+
+# Et an propositio de ly 'et' divisive sumptis sit categorica vel hypothetica
+
+### Ad hoc dicunt multi quod totum illud 'Sortes et Plato' est extremum illius propositionis:
+
+Sed manifesta est ratio ad probandum oppositum, unde cum agat ly 'et' in omnes terminos illius propositionis, nam ly 'Sortes' et ly 'Plato' coniungit et copulam, seu tempus per copulam importatum confundit et praedicatum.
+
+Etiam oportet secundum fundamenta et principia posita sexto dubio quod hoc totum "Sortes Plato erit animal" sit prius natura quam ly 'et', et ly 'erit' ab aliquo fuit productum. Non potes dicere quod a ly 'Sortes' tantum, nam tunc hoc totum "Sortes et Plato erit animal" non est propositio, quia ly 'erit' non coniungit illum terminum 'Plato', et eadem ratione non poteris dicere quod a ly 'Plato' tantum cum praedicato. Nec poteris dicere communem insequendo opinionem quod coniungit praedicatum cum hoc toto 'Sortes Plato', et quod a praedicato cum hoc toto 'Sortes Plato' producatur, nam tum hoc totum "Sortes Plato erit animal" esset propositio.
+
+Dicendum igitur est unam copulam produci a notitiis Sortis et praedicato, et alteram produci a notitia Platonis et praedicato, ita quod ly 'et' has duas propositiones "Sortes erit animal" / "Plato erit animal" praesupponit, quarum copula unius distinguitur a copula alterius. Existentibusque his duabus propositionibus "Sortes erit animal", "Plato erit animal" et adveniens una alteri et non terminum termino annectit, nec ex hoc sequitur non /31.2b/ inveniri aliquam propositionem de copulato divisive sumpto, nam haec vocalis "Homo est Sortes et Plato" capiendo ly 'et' divisive, subordinatur uni mentali in qua praedicatum est copulatum divisive sumptum, eiusque coniunctio producitur a notitia Sortis et Platonis copulaque a toto illo copulato et notitia hominum. Et hoc necessum est dicere opinionem communem insequendo quae tenet unicum actum syncategorematicum esse ly 'et' divisive sumptum, et proportionaliter eodem argumento dices non dari propositionem de copulata copula categorica, sed omnem talem hypotheticae subordinari.
+
+### Sed quia nos non tenemus actum cui ly 'et' divisive sumptum subordinatur esse:
+
+Talem qualem communis opinio omnium imaginatur (secundum quam est necessum ut probatum est omnem talem propositionem hypotheticam esse) aliter tenendo respondere, per quo notandum est quod quandoque diximus in oppositionibus ly 'et' divisive sumptum valere tantum sicut disiunctum negatum seu distributum non unice, hoc est valere sicut disiunctum sic distributum, ut ratione distributionis ad virtutem propositionis in qua tale disiunctum ponitur, denotatur alterum extremum competere extremi copulati cuicumque parti.
+
+### Idque ratione facili suaderi potest communiter conceditur has:
+
+"Parisius et Romae venditur piper", "Parisius vel Romae non venditur piper" contradictorias esse de lege et modo enuntiandi; ergo participant in extremis et subiectum negative est Parisius vel Romae venditum. Ergo alterius extremum erit idem signum, huius etiam est quod universaliter propositio, de copulato divisive sumpto, aequivalet propositioni de disiuncto negato. Istae enim equivalent "Sortes et Plato est animal" et "Non Sortes vel Plato non est animal".
+
+### Iam ergo dico quod haec propositio "Sortes et Plato erit animal" subordinatur huic "Sortes aut Plato erit animal":
+
+Ubi ly 'a' habet ad virtutem quandam disiunctum sive ly 'vel' universalizandi et praedicatum confundendi, et etiam copulam sicut signa universalia. Rationeque cuius denotetur praedicatum cuilibet parti subiecti competere.
+
+### Et dico quod subiectum illius est hoc totum 'Sortes vel Plato' et praedicatum /32.1a/ ly animal:
+
+Et haec praecedunt copulam et produ----
 
 <!--
 ## Apparatus Criticus Reference

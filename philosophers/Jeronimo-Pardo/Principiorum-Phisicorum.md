@@ -596,8 +596,33 @@ Item causarum quaedam vocantur propinquae, quaedam remota. Unde causa remota est
 
 Ut si quaerat quis fecit domum respondendum est quod domificator, et de causa particularis datur ab ipso regula per oppositum. Querenti de effectu particularis, id est de effectu qui nominatur nomine simpliciter respondendum sibi per causam particularem, ut quaerenti quis fecit hanc domum, dico quod domificator. Notandum quod in philosophia non solum vocamus causam universalem illam quae communi nomine nominatur, sed etiam illam quae producit plures effectus differentes specie, quia si sint duae causae et una potest producere  plures effectus differentes specie quam alliam, illa vocatur universalior, ut sol et Deus dicuntur causae universales, sed Deus propter dicta est causa universalior.
 
-Sed vocamus /27a/ 
+Sed vocamus /27a/ causam particularem in philosophia illam, quae ex natura sua, solum se extendit ad effectus eiusdem speciei. Ut ignis dicitur causa particularis ignis et homo hominis, et sic de ceteris.
 
+Alio modo dicitur causa remota quoniam inter ipsam et effectum multae sunt causae. Exemplum ut patruus meus dicitur causa remota mei quia inter ipsum et me fuerunt avus, pater meus, et mater mea. Et per oppositum dicitur causa propinqua, quia causa propinqua est quae singulariter nomine nominatur, vel inter eam et effectum non interiacent multae causae. Ideo tangitur hic quod dupliciter aliqua causa potest dici propinqua.
+
+## Item causarum quaedam est causa naturalis et quaedam est causa libera:
+
+Unde causa naturalis est illa quae, quantum est de se, necessario necessitate suae, naturae agit.
+
+Dicitur notanter 'necessario' et caetera quia regula est apud theologos quod omnis causa secunda mere contingenter agit, quia Deus potest suspendere suam actionem. Ex quo sequitur quod non volo habere quod causa naturalis necessario agat, sed necessario agit quantum est ex natura sua, et hoc passo debite approximato et non impedito, quia apud philosophantes habetur ista regula:
+
+> Omne agens naturale debite, approximatum passo quod passum est in debita distantia ad patiendum et non est impediens, necessario agit quantum est de se vel ex parte /27b/ suae naturae.
+
+Dicitur notanter 'agens naturaliter' quia agens liberum potest agere et non agere quantum est de se, ut si unus daret mici centum scuta ego possem accipere et non accipere.
+
+Dicitur notanter 'debite approximatum' et caeterum per quod volo intelligere quod passum sit praesens agenti secundum quod agens requirit ad agendum in tertium.
+
+Dicitur notanter quod passum sit in debita dispositione ad patiendum, quia apud philosophantes habetur talis regula, scilicet quod agens agit ut assistit sibi passum. Si ergo perfecte sibi assistat passum, non plus agit. Ideo passum tunc non est in debita dispositione ad patiendum, ex quo sequitur quod si poneretur casus quod aliquid fuisset calidum ut decem, et produceret caliditatem ut decem, non plus ageret.
+
+Dicitur notanter 'non impeditum' quia si impediretur ab aliqua causa non plus ageret.
+
+Alia est causa libera, unde agens liberum est illud quod quantum est de se potest agere et non agere, seu quantum est de se potest producere aliquid seu non producere. Unde dico quod non est nisi unum, puta voluntas et libertas voluntatis.
+
+In hoc consulit quod potest elicere voluntatem vel non elicere, et per hoc solvuntur aliqua argumenta, et primo arguitur sic:
+
+> Non est in potestate voluntatis meae quod si amem nunc unum hominem, quod statim desinam amare illum, ergo.
+
+Nego consequentiam, et ratio est quia /28a/
 
 <!--
 ## Apparatus Criticus Reference

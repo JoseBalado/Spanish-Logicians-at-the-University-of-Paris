@@ -1,19 +1,24 @@
 ---
 layout: medieval
-title: "Principiorum Phisicorum"
+title: "Principiorum Phisicorum et Introductiones Librorum Animae"
 author: "Jerónimo Pardo"
 year: N/A
 place: "Paris"
-signature: N/A
+signature: "7-2-29"
 library: "Institución Colombina"
 description: >-
-  Introductiones Phisicales [7-2-29] by Jerónimo Pardo, manuscript.
+  Two consecutive works attributed to Jerónimo Pardo in manuscript 7-2-29:
+  Introductiones physicales (h. 1r–26v) and Introductiones librorum de anima
+  (h. 27r–93r).
 keywords: >-
-  Jerónimo Pardo, Introductiones Phisicales, physics
+  Jerónimo Pardo, Introductiones physicales, Introductiones librorum de anima,
+  natural philosophy, psychology, Institución Colombina, 7-2-29
 ---
 
 
-# Principiorum Phisicorum
+# PRINCIPIORUM PHYSICORUM
+
+## Est de ente naturali
 
 /3b/
 
@@ -312,7 +317,7 @@ Sed si quaeratur quae res sit tempus, dico quod de hoc sunt multae opiniones:
 Alia est mutatio instantanea quae fit tota simul in instanti, et ista mensuratur instanti. Unde instans est mensura indivisibilis, et de istis in *Tractatu de Intensione Formarum*, unde sic est imaginandum quod postquam illuminatio est indivisibilis, id est, tota simul debet sibi correspondere mensura indivisibilis. Si non sit illa mensura indivisibilis, per imaginationem debet mensurare, sed si sit indivisibilis, per
 eam mensurabitur mutatio indivisibilis.
 
-# Sequitur de causis
+## Sequitur de causis
 
 ## Nunc de causis rerum naturalium videndum est
 
@@ -411,8 +416,7 @@ Pro solutione huius notanda est una distinctio quam ponit Gregorius et Dominus d
 Videlicet quod aliquid dicitur causa efficiens duobus modis. Uno modo positive, et hoc tribus
 modis: vel in producendo, vel in conservando, vel in corrumpendo.
 
-Alio modo dicitur causa efficiens privative seu negative, quia non conservat, nec producit, nec corrumpit posset, tamen vel producere, vel conservare, /18a/ vel corrumpere. Et hoc declaro per aliqua exempla, ut Deus dicitur facere Antichristum non esse, quia non dat sibi esse cum possit
-ei dare esse, ut facio quod Sortes non habeat pecunias quia sibi non do pecunias possum tamen ei dare, et per hoc solvitur argumentum. Nam dico quod Deus dicitur facere Antichristum non esse negative, quia non dat sibi esse et tamen posset sibi esse.
+Alio modo dicitur causa efficiens privative seu negative, quia non conservat, nec producit, nec corrumpit posset, tamen vel producere, vel conservare, /18a/ vel corrumpere. Et hoc declaro per aliqua exempla, ut Deus dicitur facere Antichristum non esse, quia non dat sibi esse cum possit ei dare esse, ut facio quod Sortes non habeat pecunias quia sibi non do pecunias possum tamen ei dare, et per hoc solvitur argumentum. Nam dico quod Deus dicitur facere Antichristum non esse negative, quia non dat sibi esse et tamen posset sibi esse.
 
 Nunc sequuntur proprietates causae efficientis, quarum prima est: Causa efficiens habet suam causalitatem in suo genere, et eius causalitas consistit in producendo, conservando, vel corrumpendo, namque causam efficientem causare est ipsam producere, conservare, vel corrumpere.
 
@@ -628,11 +632,11 @@ Secundo: si voluntas mea esset libera, sequeretur quod si vellem tunc vel nunc v
 
 His definitionibus suppositis quaero aliquas quaestiones. Prima quaestio: quomodo intelligitur illud dictum commune quod dicitur "natura facit hoc"?
 
-Respondetur primo rigore physice quod, ut vult Aristoteles, *natura* non dicitur nisi de forma et materia; ideo quando dicitur "natura facit hoc", id est materia vel forma facit hoc, ut materia facit ignem, id est aliqua forma substantialis facit ignem.
+Respondetur primo rigore physice quod, ut vult Aristoteles, 'natura' non dicitur nisi de forma et materia; ideo quando dicitur "natura facit hoc", id est materia vel forma facit hoc, ut materia facit ignem, id est aliqua forma substantialis facit ignem.
 
-Notandum est tamen quod *natura* a communiter loquentibus capitur tribus modis: uno modo capitur *natura*, ut de facto debet capi, pro materia vel forma substantiali, et isto modo capit Aristoteles. Alio modo capitur *natura* pro ordine causarum essentialiter subordinatarum et concurrentium ad aliquem effectum. Exemplum ut in generatione Sortis concurrunt multa, ut pater, mater, sol, Deus, materia et forma, et influentiae, et omnia ista essentialiter subordinata vocatur *natura* sunt aggregatum ex omnibus istis. /28b/ Et iste ordo causarum sic dispositarum vocatur a philosophis fatum, unde fatum est ordo causarum secundarum quae quantum est ex se primo producerent aliquem effectum, nisi causa prima impediat.
+Notandum est tamen quod 'natura' a communiter loquentibus capitur tribus modis: uno modo capitur 'natura', ut de facto debet capi, pro materia vel forma substantiali, et isto modo capit Aristoteles. Alio modo capitur 'natura' pro ordine causarum essentialiter subordinatarum et concurrentium ad aliquem effectum. Exemplum ut in generatione Sortis concurrunt multa, ut pater, mater, sol, Deus, materia et forma, et influentiae, et omnia ista essentialiter subordinata vocatur 'natura' sunt aggregatum ex omnibus istis. /28b/ Et iste ordo causarum sic dispositarum vocatur a philosophis fatum, unde fatum est ordo causarum secundarum quae quantum est ex se primo producerent aliquem effectum, nisi causa prima impediat.
 
-Tertio modo capitur *natura* pro ordine omnium agentium naturalium, et hoc modo capitur cum dicitur "natura abhorret hoc", id est vacuum, et ideo est quia Deus sic disposuit ea quod omnia sunt contigua vel continua.
+Tertio modo capitur 'natura' pro ordine omnium agentium naturalium, et hoc modo capitur cum dicitur "natura abhorret hoc", id est vacuum, et ideo est quia Deus sic disposuit ea quod omnia sunt contigua vel continua.
 
 ## Secunda quaestio: qualiter est fugiendum in causis?
 
@@ -640,8 +644,33 @@ Pro solutione est notandum quod natura, scilicet Deus, sic ordinavit ut quandocu
 
 Deus ipse gloriosus fecit tale pactum cum tota natura quod ipsemet produceret talem effectum. Volo dicere quod sunt ista tria, scilicet causae particulares, caelum, et Deus gloriosus: caelum est ad supplendum in potentiam causarum secundarum seu particularium, et Deus ad supplendum in potentiam omnium agentium naturalium. Ex quo sequitur quod si quaereretur de aliquo effectu a quo producitur, si non scias causam particulares, unde sit, aut debeo dicere quod a caelo, et si non possis salvare quod sit a caelo, debeo dicere quod talis effectus producitur a Deo.
 
-Si quaeras quae /29a/ apparentia
+Si quaeras quae /29a/ apparentia est sufficere ad caelum, dico quod est stulta, quia caelum concurrit ad omnes effectus naturales, et notanter dicitur 'effectus naturales' quia effectus libere producti pro nullo modo producuntur a caelo, nec particulariter nec totaliter, immo solum a voluntate et a Deo. Et dicunt philosophi et astrologi quod non est sic minima pars caeli quae non habet mirabiles virtutes et occultas; ideo magna est apparentia recurrere ad caelum.
 
+Do duo exempla naturam: est per experientiam quod ignis generat ex ligno ignem, et ex igne postea generantur cineres. Quaero nunc utrum ab igne generentur cineres et si dicatur quod sic: contra, ignis magis est natus conservare ignem quam corrumpere ignem; ergo ignem ignis non corrumpit, et per consequens non producit cineres.
+
+Dico quod forte difficile est salvare in philosophia quod ignis generat cineres, et si non potest salvari oportet dicere quod generantur a caelo.
+
+Secundum exemplum: manus habet decem gradus frigiditatis in isto loco et approximo manum igni. Detur ratio quare magis ignis corrumpit unum gradum quam alium, cum illi gradus aequaliter approximentur igni, et aeque immediate.
+
+Respondetur quod recurrendum est ad ipsum Deum qui taliter dirigit agens naturale quod prius corrumpat unum gradum quam alium, reliqua de causis in de intensione formarum.
+
+## FINIS PRINCIPIORUM PHYSICORUM
+
+/29b/
+
+# INTRODUCTIONES LIBRORUM ANIMAE
+
+Viso de ente naturali in communi, videndum est consequenter de speciebus entis naturalis. Unde entia naturalia sunt multiplicia: quaedam inanimata, alia vero animata. De inanimatis non faciemus specialem mentionem, sed applicentur ea quae dicta sunt; de animatis vero erit praesens speculatio, quae quidem non parvae utilitatis erit pro libris De anima.
+
+## Nunc videndum est quid est anima:
+
+Quo declarato habebimus animatorum cognitionem. Unde anima est definita dupliciter ab Aristotele, et primo sic:
+
+> Anima est actus corporis physici organici potentia vitam habentis.
+
+Dicitur notanter in definitione 'actus', quod tantum valet sicut forma, ita quod est sensus: anima est actus, id est forma, et per hoc excluditur materia, quia materia non est actus.
+
+Dicitur notanter in definitione 'corporis', de quo dictum est quod sunt duae opiniones: prima est quae dixit quod corpus est materia organizata; secunda et vera est quod corpus est aliquid compositum ex materia prima et /30a/
 
 <!--
 ## Apparatus Criticus Reference

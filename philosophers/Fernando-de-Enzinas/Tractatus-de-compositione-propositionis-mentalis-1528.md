@@ -2459,7 +2459,91 @@ Ubi ly 'a' habet ad virtutem quandam disiunctum sive ly 'vel' universalizandi et
 
 ### Et dico quod subiectum illius est hoc totum 'Sortes vel Plato' et praedicatum /32.1a/ ly animal:
 
-Et haec praecedunt copulam et produ----
+Et haec praecedunt copulam et producant copulam, sed a ly 'vel' et copula praedicato producitur ly 'a', et ideo si ly 'a' non est pars extremi, quia virtus eius transit ultra terminum cui immediate additur, et hoc pacto defendi possunt huiusmodi propositiones non subordinari hypotheticis, quod non potest sustentari sequendo communem modum, nam repugnantia est ponere huiusmodi propositiones categoricas et dicere ly 'et' divisive sumptum actum simplicem esse universalem terminos potentem confundere.
+
+# An propositiones de conditionali et ablativo absolute posito sint categoricae vel hypotheticae, et de accidenti grammaticali in mente
+
+### Restat nunc adducere rationem apparentem ad probandum propositionem de conditionato non inveniri in anima sed conditionales:
+
+Nam capta hac "Sortes est homo si est animal" ly 'si' coniungit duas propositiones; ergo est hypothetica.
+
+Antecedens probatur: Ly 'si' producitur a duabus propositionibus; igitur propositum.
+
+Antecedens probatur: Ly 'si' producitur a ly 'est' et a ly 'homo' et ly 'animal', tunc quaero quid reddit suppositum illi copulae. Si dicas quod ly 'Sortes', ergo ly 'si' coniungit illam propositione "Sortes est animal" cum propositione illa "Sortes est homo", et sic propositum; aut coniungeret cum ly 'homo', sequitur nunquam inveniri conditionatum incompletum, nam hoc totum "Homo si est animal" huic subordinabitur "Homo si Sortes est animal", aut habeo hanc "Sortes est homo si est animal" huic subordinari "Sortes est homo si Sortes est animal" quae est conditionalis.
+
+Simili modo probabis quod quanvis ly 'homo' reddat suppositum verbo 'est' existenti in conditionato illam esse conditionalem, et manifestior haec ratio apparebit capiendo haec "Sortes est homo si fuit animal" nam ly 'si' praesupponit copulam 'fuit', et ex consequenti unam totam propositionem ultra hoc ly 'homo' aut totam illas "Sortes est homo".
+
+### Et haec ratio videtur satis apparens ad probandum dicta:
+
+Et ideo probabile iudicarem nullam propositionem de conditionato extremo inveniri.
+
+Sed omnem talem conditionalem fore, nam ly 'si' propositionem praesupponit, et dicere quod coniungat ly 'si' propositionem cum uno termino non videtur apparens. Forte posset defendi communior modus dicendo: ly 'si' in hoc conditionato "Homo si est animal" unire ly 'est animal' cum ly 'homo' et non suppositum copulae. Nam quamvis tota propositio praesupponatur ad productionem syncategorematum, non tamen tota /32.1b/ propositio immediate concurrit, sed solum ly 'est animal' ad productionem ly 'si'; quemadmodum non concurrit tota propositio ad productionem negationis in hac "Homo non est animal", sed solum ly 'est animal'.
+
+Id apparens videtur, sed non video quomodo aliquis actus coniungat aliquid aggregatum quod est terminus, nam id totum 'est animal' non est unus terminus et eadem ratione posset dari actus potens coniungere hoc aggregatum et 'Plato'. Sed forte diceretur quod haec est categorica "Sortes est et fuit animal", et quod ly 'et' coniungit non-terminum cum alio. Sed quidquid sit crederem verius conditionales et non quod propositiones de conditionato extremo inveniri, quanvis non omnino damno opinionem communem.
+
+### Ex opinione communi patet quod aliquod complexum significat aliquid quod nulla pars significat:
+
+Nam ly "Sortes si est Sortes" supra transcendens est, et tamen nulla pars significat aliquid a Sorte, quamvis aliqualiter significent aliquae partes. Similiter 'non-homo' significat quae nec ly 'homo' nec ly 'non' contingit, nam ex connexione duarum partium intellectum intelligere quod per nullam intelligit.
+
+### Posses argumentari contra id quod dictum est nullam propositionem esse de conditionato extremo:
+
+Nam tunc istae non essent contrariae "Omnis homo est animal si est equus" et "Omnis homo non est animal si est equus", nam in simili istae sunt verae "Omne ens est equus si est angelus" / "Omne ens non est equus si est angelus".
+
+### Ad hoc respondeo concedendo illas:
+
+Nam de his est iudicandum sicut de conditionalibus, de quibus in oppositionibus in materia hypotheticarum satis superque est visum, et errorem ex ibi dictis cognosces.
+
+
+
+### Iam de ablativis absolute positis dicamus ut tandem propositum dubium absolvamus:
+
+Causalem conditionalem et temporalem sensum facere communes omnes concedunt, nec in his tribus sensibus univoce sumi credendum est sed secundum opinionem tenentem ablativum absolute positum non inveniri. Sed loco eius conditionalis aut temporalis et caetera dicendum est hanc vocalem "Sole lucente dies est" subordinari tribus hypotheticis qui modus non placet multis, nam non vident rationem cur isti mentali 'pueri proficiunt' non posse addi hic ablativus 'magistro legente', et hi defendentes opinionem dicunt /32.2a/ quod bene potest addi ablativus ille, sed non erit absolute positus. Sed isti minus vident quod dicunt, nam manifestum est ex dictis huic propositioni 'pueri proficiunt' non posse addi aliquis terminus categorematicus nec dativus nec ablativus, nam quos semel unit copula, terminos semper unit et non alios, ut ostensum est superius.
+
+### Quare si defendere opinionem placet:
+
+Dicito non posse addi nec unum nec alium terminum categorematicum propositioni.
+
+### Et si arguas quod intellectus potest concipere hypothetice copulative per conceptum in quo non ponitur formaliter actus copulativus:
+
+Ergo potest conditionaliter concipere sine conceptu in quo ponetur formaliter actus illativus.
+
+Antecedens probatur quia in hac "Omnis homo est animal" copulave concipit significata subiecti. Item reduplicativa dictio conditionaliter significat et tamen non est formalis nota illationis; igitur intellectus potest intelligere conditionaliter per ablativum sine nota formali illationis.
+
+### Ad primum horum concedo quod potest conditionaliter concipere sine nota illationis formali:
+
+Sed non sequitur ex hoc quod taliter mediante ablativo absolute posito concipiat; pari forma ad secundum respondebis.
+
+### Opinio communior tenet ablativum inveniri in mente non tantum significare simul conditionaliter et causaliter:
+
+Nam aliter esset aequivocatio in mente, sed aliquis significat conditionaliter alius temporaliter, et qui semel conditionaliter significat non potest aliud significare.
+
+Sed ignoro quomodo tantum tribuant virtutem ablativo, unde sic arguo: ablativus absolute positus in hac mentali "Sole lucente dies est" non est nisi notitia solis et notitia lucentis, quae duae notitiae non differunt ab ablativo non absolute posito. Sed ablativus non absolute positus non significat conditionaliter nec causaliter; ergo nec absolute positus.
+
+### Item dicant quaeso penes quid differt ablativus absolute positus a non absolute posito cum eaedem sint notitiae.
+
+### Praeterea si notitiae solis et lucentis posita in ablativo sit ablativus absolute positus:
+
+Et datur ablativus aliquis significans conditionaliter et alius significans causaliter, cur magis illae notitiae significabunt causaliter quam conditionaliter. /32.2b/
+
+### Quare ponendo ablativum talem in mente:
+
+Aliter dicerem quod significare conditionaliter aut temporaliter non provenit ab ablativo sive ab illis notitiis in ablativo positis et actu aliquo taliter denotante, unde cum tali ablativo potest esse actus denotans causaliter et alius denotans temporaliter et alius denotans conditionaliter actus tantum. Qui conditionaliter denotat non denotat causaliter. Distinguunt namque huiusmodi actus varie significantes, et sic patet quomodo poterit defendi, non communiter loquendo communia dicta.
+
+## Circa dubium primum et vicesimum in quo inquirebat de obliquis: an significent aliqualiter aut sint syncategorematica.
+
+Arguitur primo probando quod habeat significationem distinctam a categorematica. Nam si non haberent aliquam aliam significationem praeter categorema idem esset dicere "Asinus hominis" et "Asinus homo", et istae duae "Brunellus est hominis" et "Brunellus homo est" idem subordinarentur.
+
+Sed in oppositum arguitur, nam si ly 'hominis' aliqualiter significaret qualiter ly 'homo' non significat, sequeretur ly 'hominis' et ly 'homo' esse terminos synonymos. Non enim propter aliud currit et currens non sunt synonymi.
+
+### In hoc dubio non solum de obliquis inquiretur:
+
+Verum etiam communis illa difficultas, utrum accidentia grammaticalia inveniantur in mente, investigabitur. Nulli tamen dubium est quin obliqui inveniantur, et ideo prius dicetur de hoc, deinde dicetur de altero.
+
+### Quamtum igitur ad primum communis est responsio ad argumentum factum quod obliqui duas habet significationes: 
+
+Alteram essentialem secundum quam synonymae significant cum suis rectis. Alteram vocant accidentalem seu grammaticalem:,et est significatio inquantum est huius vel illius casus, ut genitivus significat per modum possessionis, dativus per modum acquisitionis et sic de aliis.
+
+Itaque dicunt sufficere ad aliquos terminos esse synonymos quod sint synonymi secundum significationem essentialem. Sed hic modus respondendi, quamvis sit communis, non tamen videtur mihi verus. Nam si synonymi sint quo ad significationem essentialem quum in anima non sit nisi una notitia hominum totalis, non enim sunt plures aliter infinitae essent totales notitiae hominum. Tunc vel illa notitia totalis hominum significat ut cuius vel non: /33.1a/
 
 <!--
 ## Apparatus Criticus Reference

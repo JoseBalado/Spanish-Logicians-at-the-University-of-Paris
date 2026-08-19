@@ -622,7 +622,26 @@ In hoc consulit quod potest elicere voluntatem vel non elicere, et per hoc solvu
 
 > Non est in potestate voluntatis meae quod si amem nunc unum hominem, quod statim desinam amare illum, ergo.
 
-Nego consequentiam, et ratio est quia /28a/
+Nego consequentiam, et ratio est quia /28a/ libertas voluntatis non consistit in continuando vel non continuando amorem, sed consistit in hoc quod potest elicere vel non elicere volitiones.
+
+Secundo: si voluntas mea esset libera, sequeretur quod si vellem tunc vel nunc vos amare in mille gradibus amoris quod vos amarem, sed hoc est falsum, igitur. Nego consequentiam, et ratio est quia libertas voluntatis non consistit in amando vel non amando quantum sibi placet, sed consistit in amando vel non amando simpliciter.
+
+His definitionibus suppositis quaero aliquas quaestiones. Prima quaestio: quomodo intelligitur illud dictum commune quod dicitur "natura facit hoc"?
+
+Respondetur primo rigore physice quod, ut vult Aristoteles, *natura* non dicitur nisi de forma et materia; ideo quando dicitur "natura facit hoc", id est materia vel forma facit hoc, ut materia facit ignem, id est aliqua forma substantialis facit ignem.
+
+Notandum est tamen quod *natura* a communiter loquentibus capitur tribus modis: uno modo capitur *natura*, ut de facto debet capi, pro materia vel forma substantiali, et isto modo capit Aristoteles. Alio modo capitur *natura* pro ordine causarum essentialiter subordinatarum et concurrentium ad aliquem effectum. Exemplum ut in generatione Sortis concurrunt multa, ut pater, mater, sol, Deus, materia et forma, et influentiae, et omnia ista essentialiter subordinata vocatur *natura* sunt aggregatum ex omnibus istis. /28b/ Et iste ordo causarum sic dispositarum vocatur a philosophis fatum, unde fatum est ordo causarum secundarum quae quantum est ex se primo producerent aliquem effectum, nisi causa prima impediat.
+
+Tertio modo capitur *natura* pro ordine omnium agentium naturalium, et hoc modo capitur cum dicitur "natura abhorret hoc", id est vacuum, et ideo est quia Deus sic disposuit ea quod omnia sunt contigua vel continua.
+
+## Secunda quaestio: qualiter est fugiendum in causis?
+
+Pro solutione est notandum quod natura, scilicet Deus, sic ordinavit ut quandocumque causa particularis disponeret ad aliquem effectum conducendum, et illae causae particulares non possent illum effectum producere, causa naturalis universalis, puta caelum, tales effectum produceret, et sic caelum non posset talem effectum supplere.
+
+Deus ipse gloriosus fecit tale pactum cum tota natura quod ipsemet produceret talem effectum. Volo dicere quod sunt ista tria, scilicet causae particulares, caelum, et Deus gloriosus: caelum est ad supplendum in potentiam causarum secundarum seu particularium, et Deus ad supplendum in potentiam omnium agentium naturalium. Ex quo sequitur quod si quaereretur de aliquo effectu a quo producitur, si non scias causam particulares, unde sit, aut debeo dicere quod a caelo, et si non possis salvare quod sit a caelo, debeo dicere quod talis effectus producitur a Deo.
+
+Si quaeras quae /29a/ apparentia
+
 
 <!--
 ## Apparatus Criticus Reference

@@ -19,7 +19,7 @@ keywords: Jerónimo Pardo, Spanish logician, medieval logic, renaissance logic, 
 
 **Jerónimo Pardo** was a notable Spanish logician and theologian. He was born in the province of Burgos[^2] and is known to have arrived in Paris at the end of the fifteenth century. He studied and taught at the College of Montaigu and was Mair's friend[^3]. Pardo was a fellow of the Sorbonne but never became a Doctor of Theology. He taught theology in Melun until his death, which occurred in 1502 according to Muñoz Delgado and Villoslada, or 1505 according to Elie and Fraile[^4].
 
-Pardo wrote a manual on logic and one on natural philosophy, which he never completed. García Villoslada considers that the latter is in fact the *Introductiones phisicales artium Hieronimo Pardo ad totam naturalem philosophiam*, the manuscript of which is preserved in the Columbine Library of Seville (n. 3351)[^5].
+Pardo wrote a manual on logic and one on natural philosophy, which he never completed. García Villoslada considers that the latter is in fact the *Introductiones phisicales artium Hieronimo Pardo ad totam naturalem philosophiam*, represented in the manuscript preserved in the Institución Colombina (sign. top. 7-2-29). The manuscript contains two consecutive texts: *Introductiones phisicales* (h. 1r–26v) and *Introductiones librorum de anima* (h. 27r–93r)[^5].
 
 The only work published by Pardo was *Medulla Dyalectices*. The first edition was published by Pardo in Paris in 1500, with a foreword by his brother Miguel. The work was republished in Paris by John Mair and Jacobo Ortiz in 1505, after Jerónimo's death[^6].
 
@@ -43,6 +43,8 @@ This is the index of the Medulla Dyalectices:
 
 - *Medulla Dyalectices* (Paris, 1500)
 - *Medulla Dyalectices* (Paris, 1505), re-edited by John Mair and Jacobo Ortiz
+- *Introductiones physicales* (manuscript, Institución Colombina, sign. top. 7-2-29, h. 1r–26v)
+- *Introductiones librorum de anima* (manuscript, Institución Colombina, sign. top. 7-2-29, h. 27r–93r)
 
 ## Notes
 
@@ -65,4 +67,4 @@ This is the index of the Medulla Dyalectices:
 The following texts by Jerónimo Pardo are available in this site:
 
 - [Medulla Dyalectices (Paris, 1505)](Medulla-Dyalectices-1505.html)
-- [Principiorum Phisicorum](Principiorum-Phisicorum.html)
+- [Principiorum Phisicorum et Introductiones Librorum Animae](Principiorum-Phisicorum-et-Introductiones-Librorum-Animae.html)

@@ -2543,7 +2543,49 @@ Verum etiam communis illa difficultas, utrum accidentia grammaticalia inveniantu
 
 Alteram essentialem secundum quam synonymae significant cum suis rectis. Alteram vocant accidentalem seu grammaticalem:,et est significatio inquantum est huius vel illius casus, ut genitivus significat per modum possessionis, dativus per modum acquisitionis et sic de aliis.
 
-Itaque dicunt sufficere ad aliquos terminos esse synonymos quod sint synonymi secundum significationem essentialem. Sed hic modus respondendi, quamvis sit communis, non tamen videtur mihi verus. Nam si synonymi sint quo ad significationem essentialem quum in anima non sit nisi una notitia hominum totalis, non enim sunt plures aliter infinitae essent totales notitiae hominum. Tunc vel illa notitia totalis hominum significat ut cuius vel non: /33.1a/
+Itaque dicunt sufficere ad aliquos terminos esse synonymos quod sint synonymi secundum significationem essentialem. Sed hic modus respondendi, quamvis sit communis, non tamen videtur mihi verus. Nam si synonymi sint quo ad significationem essentialem quum in anima non sit nisi una notitia hominum totalis, non enim sunt plures aliter infinitae essent totales notitiae hominum. Tunc vel illa notitia totalis hominum significat ut cuius vel non. /33.1a/ Si ultima, cum igitur hic terminus 'hominis' non alteri subordinetur quamvis illi notitiae hominum, sequitur quod illi subordinatur; quare casus non invenitur in mente. Si primum, videlicet quod illa notitia significet per modum ut cuius, sequitur etiam quod rectus significat per modum ut cuius, nam illi notitiae subordinatur.
+
+# An propositiones de conditionale et ablativo absolute posito
+
+### Forte ad haec dices quod non est una tantum hominum notitia in anima:
+
+Sed quod sunt plures, et una significat homines absolute non aliqualiter significando. Et haec est cui rectus subordinatur. Alia vero significat omnes homines absolute, sed per modum possessionis.
+
+### Contra hoc arguitur:
+
+Illae notitiae hominum aut sunt eiusdem speciei essentialis aut non: Si primum, per communem illam propositionem cum sunt in eodem subiecto adaequato constituunt unam qualitatem, cuius quidem qualitatis omnes partes aut significabunt hominem per modum ut cuius, aut significabunt hominem absolute sicut rectus, et sic non erunt ponendae duae notitiae distinctae.
+
+### Nec esset bona responsio si diceretur ad hoc quod constituerent unam qualitatem et non unam notitiam:
+
+Aut quod una significat per modum possessionis et altera non, quia iam huiusmodi responsio est impugnata, et quia illae notitiae duae partes, ut concedis, sunt eiusdem speciei essentialis, non invenietur ratio quare magis significabit una possessive quam alia: relinquitur ergo illas duas notitias non esse eiusdem specie. Sed non differant specie sic probo: nam utraque est hominum absoluta et synonymae sunt, et non dantur duae notitiae synonymae categorematicae nisi sint eiusdem speciei.
+
+### Item illa notitia oblique significans de qua significatione importat modum significandi possessivum non de formali quia absoluta est:
+
+Nec de materiali quia tunc de materiali significaret possessive et homines, et sic naturaliter proprie significaret possessive, quare non esset accidentalis illa significatio.
+
+### Praeterea sequitur si habere notitiam hominum absolutam:
+
+Quod non possem formare mentale ultimatum huius propositionis "Asinus est hominis" quin haberem novam advertentiam circa homines, quod videtur absurdum. Sequela autem probatur: quia ad formandum illam propositionem oportet habere novam notitiam hominum distinctam specie a priori, quae sine nova advertentia non potest produci. /33.1b/
+
+### Praeterea aut potest perdere illam significationem accidentalem aut non:
+
+Si sic quaero qualiter se habet notitia illa hominum, et intellectus, quando eam acquirit, qualiter modo se habeat quando eam deperdit. Nec potest dari modus conveniens ad illud nam nihil additur ad significationem illam.
+
+Si dicas quod numquam perdet illam significationem sequitur quod dabitur aliqua determinatio sine determinabili, videlicet genitivus sine aliquo recto quod ipsi nequaquam concederent. Relinquitur ergo modum communem esse falsum. Nonnulli conantur hunc modum defendere, Sed non viderunt haec argumenta, sed solvunt alia quae nihil valent.
+
+### Multorum fuit modus communis rectum et obliquum non esse synonymos:
+
+Quorum modus in his consistit propositionibus. Prima quilibet genitivus termini absoluti est terminus connotativus significans rem, connotando quod aliqualiter se habeat in ordine ad rem significatam per suum rectum, ut ly 'hominis' significat aliquid connotando quod possideatur ab homine. Haec propositio sic probatur quicumque genitivus importat comparationem rei ad rem significatam per suum rectum; ergo significabit illa cum omnis notitia comparativa repraesentet utrunque extremum.
+
+Probatur antecedens quia hoc totum 'equus hominis' importat comparationem et non ratione recti; ergo ratione illius obliqui, et per consequens erit connotativus. Haec ratio non est manifesta, nam dicetur illud aggregatum importare comparationem et nullam partem illam importare quemadmodum haec propositio "Homo est animal" importat comparationem, et nulla pars illam importat. Posset etiam dici quod non proprie importat comparationem, nam notitia comparativa debet esse propositio.
+
+### Secunda ratio qua probant illam propositionem est:
+
+Vel ly 'hominis' significat sicut ly 'homo' vel per modum possidentis modo proprium, quia tunc ly 'homo' et ly 'hominis' essent synonymi, quod est falsum, nam tunc loco unius liceret ponere reliquum, quod est falsum; nec secundum est dicendum, quia significat hominem per modum possidentis. Ergo significat ipsum in ordine ad rem possessam, quare significat rem possessam.
+
+### Haec etiam secunda ratio non probat conclusionem:
+
+Nam ex primo nihil infertur, quia communiter conceditur illos terminos /33.2a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -2569,6 +2611,7 @@ Page 27.2b: ita ] emend. ista
 Page 29.2a: consequentiam ] emend. cōſequetiam 
 Page 29.2a: intellectum ] emend. intellectus 
 Page 30.1b: sumpto ] emend. ſunio
+Page 33.1b: modo ] emend. nō
 -->
 
 

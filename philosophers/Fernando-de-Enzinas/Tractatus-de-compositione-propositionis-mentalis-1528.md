@@ -1877,9 +1877,9 @@ Huiusmodi actus significationem non abstrahi ab aliqua convenientia; non enim hu
 
 Ad quod sunt quidam, modus respondendi, quorundam asserentium quodcunque syncategorema vocale exercens diversa officia aequivocum esse multisque actionibus subordinari. Itaque nullus actus mentalis distribuit et confundit.
 
-Sed datur unus actus tantum distribuens, nullo pacto confundens, et unus tantum confundens, non potens distribuere; et tunc dicerent hanc propositionem "Omis homo est animal" huic subordinari "Omnis homo est <a> animal". Itaque ille actus omnis duobus subordinatur actibus: uni subiectum distribuenti et alteri praedicatum confundenti. Et haec negatio 'non' in hac propositione "Non homo est animal" tribus actibus subordinatur: uni distribuenti subiectum, alii distribuenti praedicatum, alii vero neganti copulam.
+Sed datur unus actus tantum distribuens, nullo pacto confundens, et unus tantum confundens, non potens distribuere; et tunc dicerent hanc propositionem "Omis homo est animal" huic subordinari "Omnis homo est ⟨a⟩ animal". Itaque ille actus omnis duobus subordinatur actibus: uni subiectum distribuenti et alteri praedicatum confundenti. Et haec negatio 'non' in hac propositione "Non homo est animal" tribus actibus subordinatur: uni distribuenti subiectum, alii distribuenti praedicatum, alii vero neganti copulam.
 
-Sed hoc non est verum, nam sequitur in mentali, cui haec propositio subordinatur "Omnis homo est animal", illud signum 'omnis' efficit partem extremi; nam cum subordinetur illa mentalis huic "Omnis homo est <a> animal", in qua signum illud 'omnis' non habet illam virtutem nisi tantum subiectum distribuendi, virtus eius non transit ultra terminum cui immediate additur.
+Sed hoc non est verum, nam sequitur in mentali, cui haec propositio subordinatur "Omnis homo est animal", illud signum 'omnis' efficit partem extremi; nam cum subordinetur illa mentalis huic "Omnis homo est ⟨a⟩ animal", in qua signum illud 'omnis' non habet illam virtutem nisi tantum subiectum distribuendi, virtus eius non transit ultra terminum cui immediate additur.
 
 Ergo per probata in difficultate nona, signum illud efficitur pars extremi clare /25.2b/ namque satis ibi probata est regula communis quam isti non possunt negare, nam fundamenta quae ponimus dubio sexto sunt concessuri, cum non ponunt aequivocationem in mente. Quare ergo aliter dicerem significationes de ly 'omnis' quamvis nullam habeant convenientiam nec differentiam, non propterea efficere illum aequivocum.
 
@@ -2585,7 +2585,78 @@ Vel ly 'hominis' significat sicut ly 'homo' vel per modum possidentis modo propr
 
 ### Haec etiam secunda ratio non probat conclusionem:
 
-Nam ex primo nihil infertur, quia communiter conceditur illos terminos /33.2a/
+Nam ex primo nihil infertur, quia communiter conceditur illos terminos /33.2a/ esse synonymos, et tamen non oportet quod loco unius liceat ponere reliquum; nec ex secundo, quia diceretur quod significat hominem possessive, nec propterea sequitur quod significet rem possessam quemadmodum ly 'omnis' distributive significat et non significat distributionem.
+
+Similiter ly 'est' significat unitive et non unionem, et dicetur illud aliqualiter importare per syncategoremata. Aliquod ut post dicetur.
+
+# De significatione obliquorum
+
+### Secunda propositio horum est "Nullus obliquus, alius a genitivo, terminorum absolutorum est connotativus":
+
+Et ratio horum est quia nullus talis importat comparationem. Et si quandoque importetur comparatio per aggregatum ex ipso et alio termino comparatio, illa importatur per alium terminum. Ut legens librum et caetera quia non potest addi aliquis obliquus praeter genitiuum termino absoluto nisi appositione.
+
+### Haec secunda conclusio repugnat primae aut rationi secundae qua primam probant:
+
+Quod statim probabo, quam primum impugnauero primam. Arguitur sic argumento eorum: sequitur hanc consequentiam non esse syllogisticam "Cuiuslibet hominis quilibet leo currit, Sortes est homo; ergo Sortis quilibet leo currit", aut saltem in ea aliquem errorem manifeste committi, consequens est contra omnes; ergo dicta nulla.
+
+Antecedens probatur: in hoc syllogismo committitur error tertius intrinsecus, videlicet quod medium in minore, ubi non distribuitur, supponit pro aliquo pro quo non supponit in maiore, nam in minore pro homine supponit, et in maiore non supponit pro homine, nam nullus terminus supponit pro formali, nisi idem sit materiale et formale. Sed ly 'hominis' significat de formali hominem, nam de materiali significat rem possessam et de formali hominem.
+
+### Ad hoc respondent aliqui insequentes hanc opinionem dupliciter:
+
+Uno modo dicunt quod quamvis non supponat ly 'hominis' pro homine sed pro re possessa, omnia tamen quae hic dicuntur sunt intelligenda, ac si pro formali supponeret. Secundo dicunt quod ly 'hominis' supponit pro formali, et quod terminus connotativus bene potest pro suo formali supponere modo tale sibi correspondeat in 
+ordine ad copulam suae propositionis, nec requiritur quod de tali verificetur secundum /33.2b/ se, sed sufficit secundum suum rectum correspondentem illi formali.
+
+### Contra primam harum solutionum sic arguo:
+
+Si ly 'hominis' supponeret pro materiati in hac "Cuiuslibet hominis quilibet leo est animal" sequitur quod illa est falsa, casu quo quicumque homo possideret leones et quae nunc possident. Hoc patet, nam sub ly 'hominis' descendendo oportebit demonstrare illud pro quo supponit, et sic dabo multas descendentes falsas demonstrando vestes et domos quas multi possident.
+
+### Praeterea sic arguo:
+
+Sequitur in hac consequentia:
+
+> Nullius hominis asinus est animal, et
+>
+> Sortes est homo;
+>
+> ergo
+>
+> Sortis nullus asinus est animal
+
+Committi errorem intrinsecum: quartum videlicet medium posse non supponere in negativa, ipso supponente in affirmativa. Hoc patet: quia cum ly 'hominis' in maiore pro re possessa supponat, et in minore pro homine possidente continget supponere, in minore non supponente in maiore, idemque ex secunda solutione videtur sequi.
+
+### Praeterea arguitur in quartum terminis, cum medium in maiore non sit synonymum alicui termino in minori.
+
+### Secunda solutio nihil etiam valet:
+
+Nam concedit terminum supponere pro formali, et non video cur non concedat quod quicunque terminus pro formali supponat, quod est falsum.
+
+### Secundo arguitur contra propositionem secundam:
+
+Haec opinio definit hunc terminum 'hominis', sic hominis est ens possessum ab homine.
+
+Sed haec definitio non est bona, nam non licet eam ponere loco sui definiti. Nam haec est vera "Haec vestis est vestis hominis", et haec est falsa "Haec vestis est vestis entis possessi ab homine".
+
+### Forte dices sicut:
+
+Fortasse secundum hos est dicendum quod ly 'hominis', cum capitur recte, definitur eo modo definitione quid nominis quia connotativus est imaginantur, namque, ut ex communibus eorum dictis, colligere possum quod ly 'hominis' potest recte capi, et quod in ista "Hominis est ens possessum" ly 'hominis' esse to tale extremum. Sed hoc apparet manifeste falsum, nam tunc istae praemissae essent dispositae in Cesare:
+
+> Nullus asinus est hominis,
+>
+> Omne rudibile est hominis;
+>
+> ergo
+>
+> Nullum rudibile asinus.
+
+Similiter haec consequentia esset bona in quarta figura:
+
+> Omnis equus est cuius /34.1a/ hominis, et
+>
+> Hominis est leo;
+>
+> ergo
+>
+> Leo
 
 <!--
 ## Apparatus Criticus Reference

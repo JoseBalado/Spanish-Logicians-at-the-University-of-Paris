@@ -2553,7 +2553,7 @@ Sed quod sunt plures, et una significat homines absolute non aliqualiter signifi
 
 ### Contra hoc arguitur:
 
-Illae notitiae hominum aut sunt eiusdem speciei essentialis aut non: Si primum, per communem illam propositionem cum sunt in eodem subiecto adaequato constituunt unam qualitatem, cuius quidem qualitatis omnes partes aut significabunt hominem per modum ut cuius, aut significabunt hominem absolute sicut rectus, et sic non erunt ponendae duae notitiae distinctae.
+Illae notitiae hominum aut sunt eiusdem speciei essentialis aut non: Si primum, per communem illam propositionem quum sunt in eodem subiecto adaequato constituunt unam qualitatem cuius quidem qualitatis omnes partes aut significabunt hominem per modum ut cuius, aut significabunt hominem absolute sicut rectus, et sic non erunt ponendae duae notitiae distinctae.
 
 ### Nec esset bona responsio si diceretur ad hoc quod constituerent unam qualitatem et non unam notitiam:
 
@@ -2620,7 +2620,7 @@ Sequitur in hac consequentia:
 >
 > ergo
 >
-> Sortis nullus asinus est animal
+> Sortis nullus asinus est animal.
 
 Committi errorem intrinsecum: quartum videlicet medium posse non supponere in negativa, ipso supponente in affirmativa. Hoc patet: quia cum ly 'hominis' in maiore pro re possessa supponat, et in minore pro homine possidente continget supponere, in minore non supponente in maiore, idemque ex secunda solutione videtur sequi.
 
@@ -2656,7 +2656,105 @@ Similiter haec consequentia esset bona in quarta figura:
 >
 > ergo
 >
-> Leo
+> Leo est equus.
+
+Et haec in prima:
+
+> Cuiuslibet hominis est leo, et
+>
+> Brunellus est hominis;
+>
+> ergo
+>
+> Brunellus est leo.
+
+Sed quidquid est de his, quia forsitan apparenter doctus aliquis qui opinionem sustentare vellet respondere posset.
+
+### Arguo contra hanc opinionem probando secundam propositionem repugnare rationi secundae:
+
+Ad primam dicebatur illa secunda ratione, vel ly 'hominis' significat eodem modo sicut ly 'homo' aut non.
+
+Si primum daretur dicebatur: sequitur ly 'hominis' et ly 'homo' esse synonymos, quod esse falsum. Probatur: quia loco unius non licebat ponere reliquum. Arguitur sic: simili ratione sequitur ly 'homini' esse connotativum, nam si absolutus est erit synonymus illi termino 'homo'. Sed hoc est falsum, nam 
+loco dativi non licet ponere rectum, sicut nec homo nominativi.
+
+### Forsitan haec argumenta apparebunt tibi concludere contra hanc opinionem:
+
+Et insequeris propter haec unam aliam quae a multis tenetur, videlicet quod omnis obliqui connotativi sunt, et ly 'hominis' supponit de materiali pro homine, et connotat modum ut cuius, et ly 'homini' connotat ut cuius, et caetera.
+
+### Sed contra hunc modum arguo:
+
+Ex hoc sequitur omnem terminum esse connotativum, nam si genitivus connotat ut cuius, et dativus ut cui, rectus etiam connotabit ut qui.
+
+### Praeterea arguitur:
+
+Sequitur ex hoc modo in hac consequentia:
+
+> Nullius hominis leo est animal
+>
+> Sortes est homo;
+>
+> ergo
+>
+> Sortis nullus leo est animal.
+
+Committi errorem quartum, videlicet quod stat medium in maiore non supponere ipso supponente in minore; etiam sequitur non esse syllogisticam, nam medium in maiore non est synonymum medio in minore, quare in quattuor terminis arguitur.
+
+### Quare ergo aliter respondeo:
+
+Quod genitivus subordinat notitiae hominum absolute et actui cuidam significanti possessive, ita quod aggregatum ex actu illo et notitia hominum synonyme significat cum illo termino 'hominis', et ille actus syncategorematicus, qui per modum ut cuius importat, producitur a notitia hominum et a determinabili a quibus dependet inesse et conservari, quo fit ut non possit sine determinabili inveniri ille actus, et ideo genitivus non potest inveniri sine recto, et proportionaliter dices de aliis /34.1b/ obliquis, et iste modus respondendi videtur sufficiens, nam quemadmodum in voce ad denotandum terminum aliquem non differentem in recto et aliis casibus, sicut sunt dictiones indeclinabiles. Addimus aliqua pronomina aut syncategoremata quae articulos vocant, quibus etiam saepissime utuntur Graeci quibus etiam Hispani distinguunt genitivum a recto et aliis casibus, nam apud nos non differt genitivus a nominativo nisi per additionem articuli, sic etiam notitia hominum absoluta contrahitur per hunc vel illum casum ad hoc quod sit illus vel huius casus.
+
+### Contra hoc arguitur dupliciter, primo sic:
+
+Sequeretur omnem obliquum terminum esse complexum. Probatur, nam subordinatur conceptui et actui qui quidem non possunt nisi complexum producere terminum.
+
+### Secundo sic arguitur:
+
+Sequeretur rectum subordinari debere conceptui et actui, ut iste terminus 'homo' subordinaretur notitiae hominum et cuidam actui significanti, ut qui quemadmodum de obliquo dicitur, non enim alia est ratio in uno et alio.
+
+### Ad primum posset dici:
+
+Quod notitia illa hominum cum illo articulo non facit unum terminum, sed quod articulus ille est pars aggregati ex recto et obliquo, et non pars obliqui. Itaque cum dictum est obliquum non inveniri per se, dicam quod iste terminus 'hominis' solum subordinatur notitiae hominum, sed quod totum aggregatum 'asinus hominis' subordinatur notitiae asinorum et notitiae hominum, et illi articulo determinant (si vis) notitiam hominibus.
+
+Ad secundum dicendum est quod iste terminus homo subordinatur notitiam hominum absolute, sed deinde quum intellectus assumit in propositione notitiam hominis si assumat in recto addit articulum significantem, ut qui, at vero, si in obliquo addit articulum significantem modo quo obliquus. Si quis negaret huiusmodi significationem a recto nihil faciet argumentum.
+
+### Sed contra dicta arguit:
+
+sive teneatur una opinio sive illa, sequeretur illos duos terminos 'asinus hominis' et 'hominis asinus', quorum alter unice alter non unice, accipiatur subordinari eidem termino.
+
+Sed hoc est falsum; ergo dicta nulla.
+
+Sequela probatur, nam illi duo termini non nisi notitiae asinorum existenti in recto et notitiae hominum existenti in obliquo subordinatur. Ex quo sic arguo: notitia /34.2a/ asinorum cui hoc complexum 'asinus hominis' subordinatur est eadem numero cum notitia asinorum cui tamquam toti vel parti hoc complexum 'hominis asinus' subordinatur. Et notitia hominum quae est pars termini cui subordinatur hoc complexum 'asinus hominis' est eadem cum notitia hominum quae est pars complexi huius 'hominis asinus', nam non sunt ponende diverse notitie absolutae et diversae notitie asinorum, cum ergo non nisi ex notitia asinorum existente in recto et hominum existente in genitivo subordinetur quodcumque illorum complexorum.
+
+Sequitur quod eidem termino subordinantur, nam si partes eaedem sunt et tota eadem erunt. Nec valeret ad hoc responsio dicendo quod illae notitiae differunt penes transpositionem et ordinem, nam cuius ordo diversus esset propter hoc tota, non desinunt esse eadem, nam ordo diversus partium non tollit identitatem totorum.
+
+### Praeterea arguit:
+
+Probando esse impossibile ratione ordinis assignare discrimen, nam si differant in ordine, vel hoc est ordine situs vel ordine conceptionis non situs, quia non est locus in anima, nec conceptionis, nam volo quod aeque cito habeatur notitia asinorum et hominum in anima. Nec valet ire ad ordinem considerationis, nam ut probatum est in principio *Syllogismorum* ille ordo considerationis non differt ab ordine conceptionis aut ab ordine reflexionis quo reflexit se intellectus super notitiam, et manifeste constat non oportere intellectum semper reflectere ad habendum tales notitias, nam probatur falsitas sequentis, nam si illi duo termini complexi eidem notitiae subordinarentur sequeretur eandem propositionem esse veram et falsam, quod sic patet, nam mentalis cui subordinatur ista propositio "Asinus hominis non est animal" falsa est, et quod sit vera patet, nam illa mentalis est hic "Hominis asinus non est animal" (in qua totum accipiat non unice, nam omnes termini unius sunt termini alterius) quae est vera.
+
+### Pro solutione huius argumenti, quod est difficile, notandum est:
+
+Quemadmodum intellectus non potest accipere unum terminum distributive sine signo, sic non potest accipere unice aliquem terminum seu aggregatum, nisi addat aliquid signum quo fit, ut extra propositionem nullos terminos accipi unice, nec non /34.2b/ unice probabile sit. Sed in propositione accipit itaque aggregatum, ex notitia asinorum in recto et notitia hominum in obliquo, in quacumque propositione ponatur accipietur non unice, nisi addat aliquod signum denotans illud totum accipi unice. Tunc igitur intellectus qui iam commune eam regulam intelligit quod quandocumque rectus praecedit obliquum et caetera.
+
+Tunc totum accipitur unice audita ista propositione "Asinus hominis non est animal" format hanc "⟨a⟩ Asinus hominis non est animal" sive "⟨a⟩ Hominis asinus non est animal" sive "Aliquod hominis asinus non est animal", in qua ly '⟨a⟩' significat illud totum pro unico termino ab intellectu accipi, et credo non posse rectiori dari solutionem ad hoc.
+
+### Resolutorie ergo habetur obliquis correspondere:
+
+Inquantum synonyme significat cum suo recto conceptus sui recti; inquantum autem oblique significat articulus quidam ad sensum superius declaratus.
+
+Atque non posse intellectum accipere aliquod aggregatum quod non unice etiam sumi potest nisi ratione alicuius signi.
+
+### Ex quibus relinquitur accidens aliquod grammaticale in mente inveniri:
+
+Cum igitur differentia casuum non proveniat, ratione terminationis, casus in mente invenitur, non autem genus, nam esse huius vel huius generis ratione terminationis attenditur terminatio, autem nulla est distinctio in anima, essent namque hoc pacto alicuius idiomatis termini mentales. Relinquitur ergo genus nequaquam in mente reperiri. Et si quaeras quae accidentia inveniuntur grammaticalia in mente, respondeo ea tantum quae veritatem aut falsitatem propositionis variant. Qualis est numerus et casus de casibus dictum est, nam refert multum dicere "Hoc est hominis" et "Hoc est homo", "Do asino", "Do asinum", "Dono Petrum Ioanni" et "Dono Petro Iohannem".
+
+### Sed quod numerus inveniatur dubium erit neminem:
+
+Nam ista duae differunt multum "Sortes est homo" et "Sortes et homines", nec eodem modo aiunt has differre "Maria est alba" et "Maria est albus", nam quamvis secunda incongrua sit incongruitate vocis, non tamen est incongrua incongruitate mentali seu logicali, quam aiunt logicum debere considerare.
+
+### Quod si arguas:
+
+Nam tunc istae non differunt "Albus homo dixit /35.1a/ hoc" et "Alba homo dixit hoc", quia non differunt nisi per genus, sed
+
 
 <!--
 ## Apparatus Criticus Reference

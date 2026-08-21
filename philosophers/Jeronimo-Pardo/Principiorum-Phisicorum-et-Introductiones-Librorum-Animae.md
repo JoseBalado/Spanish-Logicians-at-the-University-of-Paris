@@ -670,7 +670,29 @@ Quo declarato habebimus animatorum cognitionem. Unde anima est definita duplicit
 
 Dicitur notanter in definitione 'actus', quod tantum valet sicut forma, ita quod est sensus: anima est actus, id est forma, et per hoc excluditur materia, quia materia non est actus.
 
-Dicitur notanter in definitione 'corporis', de quo dictum est quod sunt duae opiniones: prima est quae dixit quod corpus est materia organizata; secunda et vera est quod corpus est aliquid compositum ex materia prima et /30a/
+Dicitur notanter in definitione 'corporis', de quo dictum est quod sunt duae opiniones: prima est quae dixit quod corpus est materia organizata; secunda et vera est quod corpus est aliquid compositum ex materia prima et /30a/ forma substantiali, id est corporeitatis, ita quod est sensus anima. Anima est una forma substantialis immediate informans corpus.
+
+Dicitur notanter 'physici', unde corpus naturale et physicum idem penitus sunt. Sed dicitur 'physici' ad differentiam corporum artificialium.
+
+Contra: omne corpus artificiale est naturale; ergo non dixit illud ad differentiam et caetera.
+
+Pro solutione notandum est quod corpus dupliciter potest considerari: uno modo in quantum habet talem figuram per artem factam, et hoc modo dicitur artificiale; alio modo in quantum est compositum ex materia et forma et in quantum habet accidentia consequentia formam, et hoc modo illud corpus dicitur naturale; tunc vult dicere definitio quod corpus quod debet anima informari ut physicum est et non artificiosum. Unde ponitur talis regula a toto.
+
+Contra: Aegidium de Roma et ponitur talis in principio quarti quod
+
+> Nullum agens artificiale potest aliud producere nisi figuram subiectam, et quaecumque figura producit artificialiter non faciet corpus esse susceptivum animae.
+
+Dicitur notanter 'organici' quia nisi esset illud corpus organizatum non esset in potentia ad animam suscipiendam; pro quo notandum quod debita /30b/ organizatio consistit in debita proportione quattuor qualitatum primarum cum hoc in debita figura et debita quantitate. Ideo si quis quaerat utrum corpus Christi in Sacramento altaris sit organizatum, dico quod sic, quia habet illas quattuor qualitates primas debitae proportionatas in quo consistit principaliter organizatio.
+
+Dicitur notanter 'in potentia vitam habentis', et per hoc tangitur una conditio illius corporis. Nam illud corpus per hoc quod per animam informatur habet in potentia vitam, id est anima quae est in ipso est in potentia ad exercendum operationes vitales, scilicet nutritionem et augmentationem; pro quo est notandum quod vita dicitur duplex: scilicet essentialis, quae est ipsa anima; alia est vita accidentalis et vocatur actus vitalis, puta nutritio et augmentatio. Unde regula est secundum omnes theologos et philosophos quod per nihil possumus discernere viventem a non-vivente nisi per operationem vitalem. Ex quo sequitur quod ista regula est bona, scilicet:
+
+> Hoc potest exercere operationes vitales in isto; igitur est anima informans.
+
+Secunda definitio animae est ista /31a/:
+
+> Anima est qua sentimus, movemur et intelligimus primum et principale.
+
+Et dicunt doctores quod ista defi--- 
 
 <!--
 ## Apparatus Criticus Reference

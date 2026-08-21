@@ -97,10 +97,12 @@ Signanter agnitis veris. Si de propositionis veritate etiam post considerationem
 "Asini sunt sacerdotes" et sic ratiocinetur arguens:
 
 > Omnes episcopi sunt sacerdotes,
-
-> Asini sunt episcopi; ergo
-
-> Asini sunt sacerdotes".
+>
+> Asini sunt episcopi;
+>
+> ergo
+>
+> Asini sunt sacerdotes.
 
 Dicat respondens: Transeat maior, distinguat minorem, penes hoc quod 'episcopi' potest esse obliquus, aut rectus. Si primum, mox videt consequentiam negandam esto, quod nec Darii nec fallaciae ullum vigorem cognoverit.
 
@@ -331,11 +333,11 @@ Trifariam in conditionali bene argumentaberis:
 Prima consequentia erit una rationalis, cuius antecedens erit una copulativa, cuius prior pars erit conditionalis et posterior pars una categorica ponens antecedens, licet antecedens sit complexum propositionale, et consequens conditionalis erit consequens rationalis. Ut
 
 > Si Sortes curreret Sortes Moveretur, et
-
-> Sortes currit
-
+>
+> Sortes currit;
+>
 > ergo
-
+>
 > Sortes moveretur.
 
 Proportionabiliter de aliis regulis loqui potes.
@@ -343,11 +345,11 @@ Proportionabiliter de aliis regulis loqui potes.
 Et dicitur in sensu quo est conditionalis, propter tales:
 
 > Impossibile est Te currere Si tu potes currere,
-
-> Sed Tu potes currere
-
+>
+> Sed Tu potes currere;
+>
 > ergo
-
+>
 > Impossibile est Te currere.
 
 Si 'impossibile' determinat totam conditionalem, tunc illa est categorica vera, nec arguitur per regulam. Si autem determinat praecise partem sequentem, consequentia est bona, et sicut consequens est falsum, ita antecedens pro maiore.
@@ -357,9 +359,9 @@ Si 'impossibile' determinat totam conditionalem, tunc illa est categorica vera, 
 Contra tertiam regulam arguitur primo. Non sequitur:
 
 > Si Homo currit Animal currit
-
-> ergo
-
+>
+> ergo;
+>
 > Nullus Homo currit vel Animal currit.
 
 Cum antecedens sit necessarium et consequens continges, quod patet, quia utraque pars est contingens, et partes nec contradicunt nec subcontrariantur.
@@ -369,11 +371,11 @@ Cum antecedens sit necessarium et consequens continges, quod patet, quia utraque
 Secundo probatur quod arguendo a contradictorio antecedentis est bona consequentiam, nam bene sequitur:
 
 > Si Homo est asinus, Homo est rudibilis, sed
-
-> Nullus Homo est asinus
-
+>
+> Nullus Homo est asinus;
+>
 > ergo
-
+>
 > Homo est rudibilis
 
 Antecedens non potest esse verum consequente existente falso.
@@ -383,11 +385,11 @@ Antecedens non potest esse verum consequente existente falso.
 Tertio. Bene sequitur:
 
 > Si Homo currat, Risibile currit, sed
-
-> Nullus Homo currit
-
+>
+> Nullus Homo currit;
+>
 > ergo
-
+>
 > Nullum Risibile currit.
 
 Forte dicis, sequitur solum gratia materiae.
@@ -395,11 +397,11 @@ Forte dicis, sequitur solum gratia materiae.
 Contra, sequitur de forma:
 
 > Si Homo est Homo est, sed
-
-> Nullus Homo est
-
+>
+> Nullus Homo est;
+>
 > ergo
-
+>
 > Nullus Homo est.
 
 #### Ad primum
@@ -478,23 +480,23 @@ Patet exemplariter: "Animal Si est homo" pro quolibet ente supponit. Quocumque e
 Haec enim est vera, quod patet:
 
 > Sortes est homo Si est animal
-
-> Et Sortes est animal
-
+>
+> Et Sortes est animal;
+>
 > ergo
-
+>
 > Animal est homo Si est animal.
 
 Et tamen haec conditionalis est falsa "Si animal est animal, Animal est homo". Item sensus illius est verus: De aliquo de quo verum est dicere quod est animal, de illo verum est dicere quod est homo si est animal, et hoc est verum.
 
 Si enim a parte subiecti, terminus connotativus ponatur, tollatur ille in conditionalis reductione, ut "Sortes albus est albus Si est coloratus" est falsa, nam bene sequitur:
 
-> Sortes albus est albus Si est coloratus
-
-> Et Sortes albus est Sortes
-
+> Sortes albus est albus Si est coloratus, et
+>
+> Sortes albus est Sortes;
+>
 > ergo
-
+>
 > Sortes est albus si est coloratus.
 
 Expositorie conclusio est falsa, et minor vera; ergo maior falsa, et tamen si illa in propriis terminis reduceretur conditionalis esset vera.
@@ -503,10 +505,12 @@ Et idem est in terminis absolutis pro rebus pertibilibus supponentibus.
 
 "Sortes est Sortes Si est entia" est falsa, quod patet. Adiungatur illi propositioni
 
-> Et Sortes est iste binarius
-
+> et
+>
+> Sortes est iste binarius;
+>
 > ergo
-
+>
 > Iste binarius est Sortes Si est entia.
 
 Conclusio est falsa, et minor vera; ergo maior falsa.
@@ -519,20 +523,22 @@ Sed hic facile dicis quod haec instantis est cum primis numeranda, eo quod sicut
 
 Secundo arguitur, bene sequitur:
 
-> Chimaera est Sortes Si est Sortes
-
+> Chimaera est Sortes Si est Sortes;
+>
 > ergo
-
+>
 > Sortes Si est Sortes est Chimaera.
 
 Per conversionem simplicem, sed consequens est falsum. Patet quia qualibet singularis consequentis est falsa.
 
 Si dicas hanc veram "Iste Sortes Si est Sortes, est Chimaera" demonstrando Chimaeram, addo aliam:
 
-> Et iste Sortes Si est Sortes est Chimaera
-
+> et
+>
+> Iste Sortes Si est Sortes est Chimaera;
+>
 > ergo
-
+>
 > Chimaera /49/ est Chimaera.
 
 Expositorie conclusio est falsa; ergo aliqua praemissarum. Et aequalis est ratio utriusque; ergo utraque est falsa.
@@ -552,15 +558,15 @@ Ad veritatem propositionis causalis, ultra rationalem requiritur quod antecedens
 In rationali, notam antecedens praecedit. Ergo tria ad causalis veritatem requiruntur, et duo ad rationalis veritatem. Quo fit quod rationalis copulativae ex conditionali et positione antecedentis aequivalet ut "Homo currit; ergo Animal currit" aequivalet huic in consequendo:
 
 > Si Homo currit, Animal currit
-
+>
 > Et Homo currit.
 
 Causalis haec "Quia sol lucet, dies" aequivalet huic:
 
 > Si sol lucet dies
-
+>
 > Et sol lucet
-
+>
 > Et Lucentia solis in tali horizonte est causa diei.
 
 Ulterius sequitur quod causalis est subalternans secundum legem respectu rationalis conditionalis copulativae et disiunctivae, patet omnes tales infert, et ex opposito consequentis ad oppositum antecedentis negative proportionabiliter argumentari potest.
@@ -663,13 +669,13 @@ Et tamen arguitur per regulam, igitur.
 
 Secundo arguitur, bene sequitur:
 
-> Sortes currit
-
+> Sortes currit;
+>
 > ergo
-
-> Sortes currit
-
-> et homo currit
+>
+> Sortes currit, et
+>
+> Homo currit
 
 Et tamen arguitur a parte copulativae ad totam.
 
@@ -681,13 +687,13 @@ Ad primum dicitur: Si 'tantum' capiatur exclusive in consequente et relative in 
 
 Ad secundum dicitur: Consequentia est bona gratia materiae, quando una pars est illativa utriusque. Sequitur etiam formaliter in terminis synonymis:
 
-> Homo est homo
-
+> Homo est homo;
+>
 > ergo
-
+>
+> Homo est homo, et
+>
 > Homo est homo
-
-> et Homo est homo
 
 Et sic utrobique quando consequens est formaliter necessarium aut antecedens formaliter impossibile.
 
@@ -755,12 +761,12 @@ A tota disiunctiva cum unius partis destructione ad alterius positionem est form
 
 Contra. Non sequitur:
 
-> Omnis propositio est categorica vel hypothetica
-
-> sed Non Omnis propositio est categorica
-
+> Omnis propositio est categorica vel hypothetica, sed
+>
+> Non Omnis propositio est categorica;
+>
 > ergo
-
+>
 > Omnis propositio est hypothetica.
 
 Et tamen arguitur per regulam, igitur.
@@ -769,12 +775,12 @@ Et tamen arguitur per regulam, igitur.
 
 Secundo arguitur. Non sequitur:
 
-> Homo est asinus vel Manus mea est clausa
-
-> sed Nulla manus mea est clausa
-
+> Homo est asinus vel Manus mea est clausa, sed
+>
+> Nulla manus mea est clausa;
+>
 > ergo
-
+>
 > Homo est asinus.
 
 Et tamen arguitur per regulam, igitur.
@@ -785,12 +791,12 @@ Maior patet: Tempore maioris claudendo manum, et tempore minoris eam aperiendo, 
 
 Non sequitur:
 
-> Sortes est asinus vel Sortes non est asinus
-
-> sed Sortes non est asinus
-
+> Sortes est asinus vel Sortes non est asinus, sed
+>
+> Sortes non est asinus;
+>
 > ergo
-
+>
 > Sortes est asinus.
 
 Et tamen arguitur per regulam, igitur.
@@ -799,12 +805,12 @@ Et tamen arguitur per regulam, igitur.
 
 Quarto arguitur. Non sequitur:
 
-> Sortes scit quod Plato disputat vel Plato non disputat
-
-> et Plato disputat
-
+> Sortes scit quod Plato disputat vel Plato non disputat, et
+>
+> Plato disputat;
+>
 > ergo
-
+>
 > Sortes scit quod Plato disputat.
 
 Ponatur Sortes nescire unam partem disiunctivae et quod Plato disputet, iam antecedens est verum er consequens falsum, et tamen arguitur per regulam, igitur.
@@ -880,7 +886,7 @@ Si 'et' capiatur divisive, oportet alterum extremum utrique parti copulative con
 
 Ideo haec est vera "Sortes et Brunellus est animal", cum Sortes est animal et Brunellus est animal aequivaleat in consequendo copulativae. Ideo haec habet duos sensus non synonymos, sed aequivalentes. Non autem potest et capi complexive cum copula est singularis numeri.
 
-"Non Sortes vel Brunellus est animal" aequivalet huic "Sortes non est animal vel Brunellus non est animal". Haec autem est vera "Non Sortes et Chimaera est animal", patet per sui contradictorii falsitatem. "Omnis homo et asinus, Non est asinus" sic reducitur "Omnis homo non est asinus et *a* asinus non est asinus". "Sortes bis cantavit missam", "Sortes semel cantavit missam" et illo tempore interrupto aliam cecinit.
+"Non Sortes vel Brunellus est animal" aequivalet huic "Sortes non est animal vel Brunellus non est animal". Haec autem est vera "Non Sortes et Chimaera est animal", patet per sui contradictorii falsitatem. "Omnis homo et asinus, Non est asinus" sic reducitur "Omnis homo non est asinus et ⟨a⟩ asinus non est asinus". "Sortes bis cantavit missam", "Sortes semel cantavit missam" et illo tempore interrupto aliam cecinit.
 
 #### Arguitur
 
@@ -900,7 +906,7 @@ Liber vult dicere: Propositio in qua ponitur 'vel' primo est distinguenda penes 
 
 Tunc 'vel' tenetur complexive quando totum disiunctum unica acceptione accipitur, vel quando non cuilibet parti, sed toti aliquid dicitur convenire vel non convenire.
 
-Ex isto patet quod quando totum unica confusione singularizatione aut particularizatione sumitur complexive 'vel' capitur, ut subiecta istarum "Omnis homo vel asinus est asinus", "*a* homo vel asinus non est asinus", "Iste homo vel asinus est asinus", "Homo vel asinus est asinus".
+Ex isto patet quod quando totum unica confusione singularizatione aut particularizatione sumitur complexive 'vel' capitur, ut subiecta istarum "Omnis homo vel asinus est asinus", "⟨a⟩ homo vel asinus non est asinus", "Iste homo vel asinus est asinus", "Homo vel asinus est asinus".
 
 Vel cum signo particulari eodem modo a parte praedicati ut "Omnis propositio est categorica vel hypothetica", "Tantum propositio est categorica vel hypothetica" tunc ascendens et descendens sub disiunctis. Primo ac si essent termini simplices et non sub partibus nec 'vel' est terminus primo probabilis.
 

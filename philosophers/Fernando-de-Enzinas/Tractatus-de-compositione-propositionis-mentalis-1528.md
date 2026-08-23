@@ -2753,7 +2753,75 @@ Nam ista duae differunt multum "Sortes est homo" et "Sortes et homines", nec eod
 
 ### Quod si arguas:
 
-Nam tunc istae non differunt "Albus homo dixit /35.1a/ hoc" et "Alba homo dixit hoc", quia non differunt nisi per genus, sed
+Nam tunc istae non differunt "Albus homo dixit /35.1a/ hoc" et "Alba homo dixit hoc", quia non differunt nisi per genus, sed genus invenitur in mente; ergo propositum.
+
+# Declarat qualiter casus reperiatur et qualiter complexum mentale habet unicam acceptionem
+
+### Ad hoc respondeo negando quod non differunt nisi per genus:
+
+Immo dico illas differre per restrictionem, nam illum terminum 'homo' illud adiectivum 'albus' aliter restringit quam ly 'alba', nam ly 'alba' hunc terminum 'homo' restringit pro feminis tantum, quia haec 'alba homo' dixit hoc uni mentali subordinatur in qua subiectum stabit pro hominibus albis qui sunt feminae, et hoc denotabitur per aliquod syncategorematis. Itaque erit unum syncategorema ad restringendum pro masculis et aliud pro feminis.
+
+### forte argues:
+
+Si nullum animal esset ly 'alba' non magis restringit quam ly 'albus'; ergo nec nunc.
+
+Antecedens probatur: si restringeret maxime esset quo ad suppositionem vel significationem aut acceptionem, non quo ad primum ut patet, nec quo ad ultimum. Nam pro quocumque accipitur in hac 'alba homo' dixit hoc accipitur in hac 'albus homo', dixit hoc quod sic patet, nam si instaretur maxime quia pro femina accipitur in priori et non in posteriori, sed pro femina accipitur in posteriori quia pro omni illo quod potest esse masculus accipitur. Sed femina potest esse masculus; ergo pro femina accipitur.
+
+Ad hoc respondeo quod non tenet magis restricte in una quam in alia, nec quo ad suppositionem nec quo ad acceptionem et caetera loquendo de actuali suppositione; sed non accipitur aeque restricte quo ad aptitudinalem suppositionem hoc est dictu. Ideo non tenentur in illis duabus illi termini aeque restricte quod stat illum terminum pro aliquo supponere in priore non supponente pro eodem in posteriore, et hoc sufficit ad hoc quod duo termini non teneant aeque restricte.
+
+### Sed quoniam de activis nominibus loquebatur:
+
+Dubitatur circa haec: utrum illa sint categoremata vel syncategoremata.
+
+Communis opinio est nunc adiectivum adiective tantum, et substantivum esse terminos synonymos, quare categoremata significatione et differre adiectivum a substantivo per hoc quod quando capitur adiective non potest esse totale extremum.
+
+Atque hinc sequitur hac fore concedenda "Tamen sortes est albus". Et si arguatur, auctoritate Aristotelis, dicentis 'album' solam qualitatem significat, respondeo capi ibi concretum pro abstracto, aut id intelligi /35.1b/ de significato formali. Ratio horum est quia vel ly 'albus' adiective captum significat albedinem solum vel significat corpus, connotando quod habeat albedinem. Si secundo habetur quod est synonymum cum suo substantivo, si primum quaero vel significat absolute vel connotative: si absolute sequitur quod convertetur cum ly 'albedo'; si significat connotative maxime significaret per modum alteri inhaerentis. Si sic iam significabit albedinem in ordine ad subiectum per regulam communem:
+
+> Omnis notitia comparativa significabit utrumque extremum.
+
+Praeterea si ly 'albus' significaret albedinem, per modum alteri inhaerentis, sequitur quod posset pro albedine supponere, quod est falsum.
+
+### Et propter has rationes reliquerunt opinionem communissimam apud antiquos:
+
+Qui dicebant, illa auctoritate Aristotelis moti, ly 'album' solam qualitatem significare. Quam opinionem quidam doctus, nomine Miranda, in suis *Terminis*, propter observantiam patrum nititur defendere. Et ad primam rationem respondere concedendo quod significat albedinem absolute, et quando infertur quod erit synonymum cum ly 'albedo' negat consequentiam. Et ratio est quia non significant eodem modo grammaticali, quia albedo significat albedinem per modum per se stantis, et album per modum alteri adiacentis. Et quando inferebatur, quia sequitur quod significabit albedinem in ordine ad subiectum, negat consequentiam, quia non significat ly 'albus' per modum alteri adiacentis, sic quod illud connotet vel includat in sua significatione.
+
+### Sed quia explicamus suum modum repraesentandi per talem terminum et assignare analogiam:
+
+Facile esset secundum illos qui tenent ly 'hominis' et ly 'homo' differre solum penes significationem grammaticalem, quia ly 'hominis' dicunt significare ut cuius, non tamen illud connotat; nec in sua significatione includit. Etiam dicimus ly 'hominis' significare duos homines pluraliter et tamen non includit in sua significatione illud.
+
+Secunda ratio est debilis contra hanc opinionem, nam differunt suppositionem esse acceptionem termini substantivi et caetera.
+
+### Sed non videtur mihi quod hic recte opinionem defendat:
+
+Nam si solum differt albus et albedo per modum significandi grammaticalem /35.2a/ sequitur illos terminos esse synonymos, saltem quo ad significationem essentialem.
+
+### Praeterea arguitur:
+
+In anima ly 'albus' significat albedinem absolute, similiter et ly 'albedo' et absolute; ergo illae notitiae sunt eiusdem speciei et se intendunt nam significatio grammaticalis non impediet synonymitatem. Non enim video quod sint ponendae duae notitiae absolute significantes albedinem non se intendentes, nam habita notitia albedinum quaero qua aduertentia intellectus producet notitiam aliam, et videtur quod eadem. Si dicas quod ly 'albus' in voce concurrit instrumentaliter ad unam et non ad aliam procedo de prima notitia adiectiua, quae formata est ab intellectu sine voce. Et clarum est quod non proceditur nisi ut notitia cui ly 'albedo' subordinatur, aut des modum quo intellectus advertit quando producit unam quo non advertat quando producit alteram.
+
+### Item quaero ratione cuius notitia illa significat grammaticaliter:
+
+Habetque significationem accidentalem magis quam notitia cui ly 'albedo' subordinatur. Et non videtur esse aliqua solutio ad haec quae non facile a viro perito impugnetur. Quare credo opinionem veriorem, quod si hanc placet defendere in voce dic ut prius, et in mente dic sicuti de obliquis, quod non invenitur una sola qualitas cui ly 'albus' subordinatur, sed quod subordinatur notitiae absolutae albedinis, et articulo syncategorematico explicanti modum alteri adiacentis, qui producitur a notitia albedinum et suo substantivo. Et hoc pacto antiquorum opinionem defendes, modo intelligas quae de obliquis diximus.
+
+## Nunc autem arguit contra illud quod dicebatur quod numerus inveniebatur in mente ultimata arguitur sic:
+
+Terminus pluralis numeri non potest haberi in anima; ergo propositum.
+
+Antecedens probatur: quicumque terminus, pluralis numeri, subordinatur disiuncto ex copulatis compositis ex singulari geminato conflato; ergo non subordinatur termino pluralis numeri.
+
+Antecedens probatur: quilibet terminus mentalis cui subordinatur terminus pluralis numeri significat plura et quodcumque illorum, et non significat quodlibet de significatione /35.2b/ totali, quia hoc modo quacumque terminus qui significat aliqua significat etiam aliquid de significatione totali, quod est falsum, nam si ly 'angeli' significaret Gabrielem absolute et de significatione totali, non videntur cur non supponeret pro Gabriele.
+
+Posset ergo de partiali et non ratione unius partis; ergo ratione plurium. Et illae partes non facerent unum conceptum nisi unirentur; ergo uniunt. Quare faciunt complexum distans, et tale complexum distans, ut facile est videre, non componitur nisi ex notitiis singularis numeri. Nam hic terminus 'angeli' non subordinatur huic termino 'angeli' et 'angeli vel angeli' et 'angeli et angeli' et caetera. Sed huic 'angelus et angelus' et caetera.
+
+Iam probatur quod significet ly 'angeli' plura et quodcumque illorum, nam audito hoc termino 'homines' intellectus aliquem hominem intelligit. Praeterea eadem ratione concedendum esset hunc terminum 'homo' aliqua significare, sicut hic terminus 'angeli' nam aliqua significat, puta materiam et formam et nullum illorum.
+
+### Propter hoc argumentum tenet Lax, vir doctus, profecto numerum pluralem non inveniri in mente:
+
+Sed quemcumque terminum pluralis numeri subordinari disiuncto, composito ex infinitis copulatis, quarum partes essent termini singularis numeri correspondentes tali termino pluralis numeri, ut hic terminus 'angeli' subordinatur huic toti 'angelus et alius angelus, vel angelus et alius angelus' et sic de singulis.
+
+### Contra hanc opinionem idem auctor multa infert contra se:
+
+Quorum quodcumque videtur falsitatem opinionis impugnare. Primo sequitur: nullum intellectum, finite virtutis, posse habere totum conceptum cui hic terminus 'homines' subordinatur, sed unus intellectus habebit partem conceptus cui deberet subordinari ly 'homines' et alius habebit aliam. Nec inconvenit hunc terminum 'homines' aequivoce repraesentare mihi et tibi multa alia. Quae ex his sequuntur infert hic modus, non propter alium quam propter hoc quod debili fuit ratione motus, multis displicet. Non videtur etiam qua ratione ly 'omnia' in plurali numero invenietur in mente et non ly 'isti', nam nihil nec aliqua ly 'isti' repraesentat. Etiam videtur /36.1a/
 
 
 <!--

@@ -692,7 +692,24 @@ Secunda definitio animae est ista /31a/:
 
 > Anima est qua sentimus, movemur et intelligimus primum et principale.
 
-Et dicunt doctores quod ista defi--- 
+Et dicunt doctores quod ista definitio solum datur de anima intellectiva quia illa tria contenta in illa definitione solum conveniunt animae intellectivae. Et notanda est una distinctio pro tota philosophia quod Philosophus utitur isto vocabulo 'actus primus' et 'actus secundus', unde 'actus primus' vocatur in philosophia principium productivum. Alicuius effectus seu alicuius operationis, ex quo sequitur quod aliquis actus dicitur esse sufficiens in actu primo ad agendum quando nullum habet impedimentum ad operandum. Sed 'actus secundus' vocatur operatio alicuius.
+
+Tunc ponitur talis regula:
+
+> Omne agens naturale quod est sufficiens in actu primo producit actum secundum.
+
+Quia omne agens debite approximatum et necessario agit, et est bonum principium ad probandum quod intellectus semper producit intellectiones, et similiter angelus. Et arguitur: sic anima sufficienter est in actu primo ad producendum suas intellectiones, et angelus ad intellegendum se ipsum; igitur semper intellegit se, et anima semper producit suas intellectiones cum nullum sit impedimentum. /31b/
+
+Nunc habito quid est anima, restat dividere ipsam per duas divisiones: prima divisio quoad suas potentias; secunda quoad eius accidentia. Pro intellectione primae notandum est quod anima sic dividitur quoad potentias: potentiarum animae quaedam est potentia vegetativa, alia est sensitiva, et alia intellectiva. De potentia vegetativa ponitur talis propositio:
+
+> Potentia vegetativa convenit tam animae intellectivae quam sensitivae quam vegetativae.
+
+Et per hoc tollitur error aliquorum qui dicebant, vel melius dicam, faciebant istam consequentiam: "Hoc habet potentiam vegetativam; ergo habet animam vegetativam", quod est falsum. Immo vegetare convenit animae intellectivae.
+
+Contra: potentia vegetativa est propria passio ipsius animae vegetativae; ergo convenit solum animae vegetativae.
+
+Nego antecedens: immo dico tibi quod est propria vegetativa, et est alicuius continentis eminenter est in perfectione ad suam animam vegetativam. Unde dico quod anima sensitiva, propter suam magnam perfectionem, continet eminenter animam vegetativam; et anima intellectiva propter suam magnam perfectionem continet et vegetativam et sensitivam, et ideo /32a/ quaeruntur
+
 
 <!--
 ## Apparatus Criticus Reference

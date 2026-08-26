@@ -2783,7 +2783,7 @@ Praeterea si ly 'albus' significaret albedinem, per modum alteri inhaerentis, se
 
 ### Et propter has rationes reliquerunt opinionem communissimam apud antiquos:
 
-Qui dicebant, illa auctoritate Aristotelis moti, ly 'album' solam qualitatem significare. Quam opinionem quidam doctus, nomine Miranda, in suis *Terminis*, propter observantiam patrum nititur defendere. Et ad primam rationem respondere concedendo quod significat albedinem absolute, et quando infertur quod erit synonymum cum ly 'albedo' negat consequentiam. Et ratio est quia non significant eodem modo grammaticali, quia albedo significat albedinem per modum per se stantis, et album per modum alteri adiacentis. Et quando inferebatur, quia sequitur quod significabit albedinem in ordine ad subiectum, negat consequentiam, quia non significat ly 'albus' per modum alteri adiacentis, sic quod illud connotet vel includat in sua significatione.
+Qui dicebant, illa auctoritate Aristotelis moti, ly 'album' solam qualitatem significare. Quam opinionem quidam doctus, nomine Miranda[^1], in suis *Terminis*, propter observantiam patrum nititur defendere. Et ad primam rationem respondere concedendo quod significat albedinem absolute, et quando infertur quod erit synonymum cum ly 'albedo' negat consequentiam. Et ratio est quia non significant eodem modo grammaticali, quia albedo significat albedinem per modum per se stantis, et album per modum alteri adiacentis. Et quando inferebatur, quia sequitur quod significabit albedinem in ordine ad subiectum, negat consequentiam, quia non significat ly 'albus' per modum alteri adiacentis, sic quod illud connotet vel includat in sua significatione.
 
 ### Sed quia explicamus suum modum repraesentandi per talem terminum et assignare analogiam:
 
@@ -2889,8 +2889,93 @@ Si haec non valet:
 
 > Homo est animal significat hominem-esse-animal; ergo hominem-esse-animal significatur per hanc "homo est animal".
 
-Repetitum namque saepius est ab activa ad passivam non valere consequentiam, nisi quando actus, in quem vis verbi activi cadit, potest esse totale extremum secundum significationem, secundum quam in eum cadit. Quare quando verbum activum /37.1a/ cadit
+Repetitum namque saepius est ab activa ad passivam non valere consequentiam, nisi quando actus, in quem vis verbi activi cadit, potest esse totale extremum secundum significationem, secundum quam in eum cadit. Quare quando verbum activum /37.1a/ cadit in syncategorema non valebit consequentia.
 
+Patet ulterius, quod quamvis liceat in hac "Haec propositio 'homo est animal' hominem-esse-animal significat" sub ly 'hominem' descendere sub ly 'animal', et non tamen sub toto dicto, quia totum illud dictum est syncategorema.
+
+Patet ultra quod propositio non significat verum aut falsum, sed vere aut false.
+
+# De significatione totali propositionis
+
+### Buridanus tenet propositionem de significatione totali significare aliquid:
+
+Nam convertitur cum suo dicto, quod resolvi debet ponendo loco de ly 'esse' existens et actus mutando in rectos. Nam haec propositio "Homo est animal", significat hominem-esse-animal. Hominem autem esse-animal est homo existens animal.
+
+Ex hoc patet, secundum ipsum, propositionem secundum suum synonymum supponere posse, puta secundum suum dictum. Patet etiam argumentum ab activa ad passivam, quod secundum communem opinionem non valebat valere, nam hominem-esse-animal non est syncategorema.
+
+Contra hunc modum videtur esse controversia de significato huius "homo est asinus", nam non videtur significare hominem-esse-asinum, quia cum hominem-esse-asinum cum hoc complexo homo existens asinus convertatur. Hominem-esse-asinum nihil est, nec potest esse. Videtur quod haec propositio "Homo est asinus" nihil significabit, aut saltem quod haec sit falsa "'Homo est asinus' significat hominem-esse-asinum", nam praedicatum non supponit, quia determinatio categorica non supponit. Dices forte dictum illud supponere, quia ampliatur ad quinque.
+
+### Contra haec statim quicumque arguet primo:
+
+Quia Buridanus non ponit ampliationem ad quinque, ut patuit ex dubio decimonono.
+
+Vigesimo sic: quia hoc pacto haec foret concedenda "'Homo est asinus' significat hominem-esse-Chimaeram", nam hominem-esse-Chimaeram imaginarie est homo existens asinus, quod si in appellatione stares, tunc supposito quod duo termini contradictoriorum non possent de eodem verificari, sequitur hanc propositionem "Homo est non-animal" nihil significare, nam si aliquid significaret maxime hominem-esse-non-animal seu hominem-existentem-non-animal. Sed homo-existens-non-animal nihil est nec potest esse nec imaginarie est, nam ly 'non-animal' mediante copula /37.1b/ de imaginario pro nullo potest supponere.
+
+Item quaero quid significat haec propositio "Nullus homo est animal". Si dicas quod significat nullum-hominem-esse-animal, cum nullum-hominem-esse-animal convertatur cum hoc nullus-homo-existens-animal, sequitur significare illam negativam nullum-hominem-existentem-animal. Et quaero quid sit nullus-homo-existens-animal, nec videtur aliud esse quam non-homo-existens-animal.
+
+### Ex quo infero illam propositionem negativam esse veram:
+
+Nam significatum eius est idem cum significato huius non-homo-est-animal, capiendo ly 'non' infinitanter, sed significat hoc verum; ergo et significat altera. Quare sive haec valeant contra hanc positionem sive non, probabilior apparet mihi positio communior.
+
+### Secundum quam, et etiam secundum Buridanum, difficultas est de significatione dicti utrumne sit propositio:
+
+Unde sic arguitur: hominem-esse-animal significat vere; ergo est propositio.
+
+Antecedens probatur: etiam illud dictum significat hominem-esse-animal; ergo vere. Item illud dictum omnino idem significat quod propositio. Sed propositio vere significat; ergo illud dictum.
+
+Item haec propositio "Homo est animal" et hoc dictum hominem-esse-animal sunt termini synonymi; ergo cum "Homo est animal" sit propositio, hominem-esse-animal est propositio.
+
+### Buridanus diceret synonymum esse illud dictum quoad significationem essentialem cum propositione:
+
+Et alii indicant, cum Petro Hispano, addendam esse definitioni propositionis particulam illam indicando. Et dicunt quod quamvis vere significet, non tamen oportet ideo esse propositionem, quia non significat indicando, id est non habet copulam indicativi modi.
+
+Sed nescio quomodo concedunt propositionem aliquam vere significare et non esse propositionem, et synonyme significare cum propositione illud dictum et non esse propositionem. Videtur namque loco unius termini synonymi reliquum posse poni.
+
+Alii dicunt quod quamvis hoc totum hominem-esse-animal significet vere, non tamen significat vere quiescenter, sed quid sit hoc significare vere quiescenter nec ipsi explicant, nec credo fore recte explicabile. Quare aliter dicerem, sicut quidam Miranda nomine, dicit hoc complexum hominem-esse-animal non significare synonyme cum hac propositione /37.2a/ "Homo est animal", nam propositio haec "Homo est animal" non significat hominem-esse-animal, sed significat quod homo est animal. Sic quod ly 'quod' non se teneat ex parte significationis eius, sed solum additur in explicatione suae significationis, quia sine tali coniunctione non posset explicari.
+
+Sed si deberes explicare significationem huius aggregati quod homo est animal, sic explicaveris: ly 'quod homo est animal' significat quod homo est animal. Supposito quod ly 'quod' teneat se ex parte significationis. Aut si mavis explicato sic: ly 'quod homo est animal' significat quod homo est animal. Et primum quod opponitur, quia sine eo vix illius aggregati significationem explicaveris, et secundum hunc modum argumentum non procedit, qui hunc modum probaverit in nullum iudicio meo incidet inconveniens.
+
+### Circa haec poteris inquirere de significatione orationis optativi modi, et subiunctivi, et imperativi, et an sint propositiones:
+
+Sed de his ab omnibus disputatur. Habetur ergo hinc propositionem significare aliqualiter de significatione totali, seu aliquid aliqualiter, hoc est significare rem aliqualiter se habere qualiter se habet, aut rem aliqualiter se habere qualiter non se habet et caetera, absolvendo copulas illas a tempore.
+
+Et similis quaestio de significatione totali assensus, seu de obiecto ad quod non minus facile est respondere. Si namque per obiectum assensus rem significatam per assensum intelligant, tunc idem quod dicebas esse significatum propositionis dices esse obiectum assensus, puta res significare. Si vero id quod denotatione extrinseca denominatur ab assensu, utputa illud quod dicitur scitum, opinionem et caetera, tunc propositio apprehensiva est obiectum assensus, nam ei dicimus assentire ad hunc sensum quod qualiter per propositionem apprehensivam intellectus intelligi taliter assentimus.
+
+### De subiecto huius propositionis "'Homo est animal' est propositio", disputandum erat utrumne complexum vel incomplexum esset:
+
+Sed quid sit dicendum satis ad longum diximus in principio opinionis Gregorii, recurre ad eum locum, et ibi invenies.
+
+# De significatione relativorum: grammaticalis, et vocalis et mentalis
+
+## Ad dubium quartum et vicesimum, in quo de significatione relativorum inquirebatur utrumne significant aliqualiter Et quid est relative significare:
+
+Arguitur sic: si relativum significaret aliquid, sequeretur quod significaret omnia entia mundi, aut quod caderet a sua significatione ipso manente.
+
+Sequela probatur nam ly 'ille' referente hunc terminum 'homo' significanteque homines significat etiam angelos; ergo eadem ratione quodcumque aliud ens significabit.
+
+Antecedens probatur: potest referre hunc terminum 'angelus'; ergo significabit angelos. Quod si dixeris quod quando refert hunc terminum 'homo' non significat angelos, sed postmodo significabit quando referet hunc terminum 'angelus'. Ex illo habeo secundum quod ille terminus cadet a sua significatione.
+
+Item arguitur: Quando relativum nihil refert, sed est extra propositionem, non est maior ratio quod unam rem significet quam aliam; ergo quamcumque significat quod si dixeris relativa aliqualiter significare et non aliquid.
+
+### Contra hoc arguitur:
+
+Sunt quandoque extrema totalia in propositione; ergo aliquid vel aliqua significant.
+
+### In hoc dubio primo:
+
+Quid in voce significant relativa inquiremus, deinde utrum inveniantur in mente investigabimus, et an syncategoremata vel categoremata sint, et qualiter significent, et an suis antecedentibus dependent. Demum nonnulla alia particularia, videlicet utrum relativum in alia propositione a propositione sui antecedentis reperiri possit, et de hac particula, et sic de aliis.
+
+Quantum ad primum, notandum est fuisse imposita relativa ad significandum dependenter, ut significent quidquid terminus ille quem referunt significat.
+
+### Unde ideo dicitur relativum, quia rei antelatae recordativum est:
+
+Et facit nos iterum venire in notitiam rei quam prius cognovimus, quo fit ut si haec vox 'ille' referat hunc terminum 'homo' omnes homines significet, et hunc terminum 'equo' omnes equos significet, ac denique eodem fere modo quo istud pronomen ergo fuit impositum.
+
+### Atque hinc patet aequivoce capi ly 'cum' diversa refert:
+
+Sed de significatione relativi in mente ultimata maior est difficultas, nam non ponimus aequivocationem, et antequam de eius significatione dicamus, bonum erit extirpare opinionem cuiusdam logici, qui, communia insequens dicta, dicit relativum nullum inveniri in mente, sed relativum suo subordinari /38.1a/
+
+[^1]: **Miranda:** *Corruptio pro* "sicut quidam Chaton nomine". This is a scribal corruption referring to the 14th-century English Franciscan logician Walter Chatton (c. 1285–1343), whose semantic positions on complexum significabile and propositional synonymy are criticized here by Buridan.
 
 <!--
 ## Apparatus Criticus Reference
@@ -2917,6 +3002,7 @@ Page 29.2a: consequentiam ] emend. cōſequetiam
 Page 29.2a: intellectum ] emend. intellectus 
 Page 30.1b: sumpto ] emend. ſunio
 Page 33.1b: modo ] emend. nō
+Page 35.1b: Miranda ] sic (corruptio pro Chaton)
 Page 36.1a: terminus ] emend. terminos
 -->
 

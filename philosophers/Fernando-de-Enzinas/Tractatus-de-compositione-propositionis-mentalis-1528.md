@@ -2821,7 +2821,75 @@ Sed quemcumque terminum pluralis numeri subordinari disiuncto, composito ex infi
 
 ### Contra hanc opinionem idem auctor multa infert contra se:
 
-Quorum quodcumque videtur falsitatem opinionis impugnare. Primo sequitur: nullum intellectum, finite virtutis, posse habere totum conceptum cui hic terminus 'homines' subordinatur, sed unus intellectus habebit partem conceptus cui deberet subordinari ly 'homines' et alius habebit aliam. Nec inconvenit hunc terminum 'homines' aequivoce repraesentare mihi et tibi multa alia. Quae ex his sequuntur infert hic modus, non propter alium quam propter hoc quod debili fuit ratione motus, multis displicet. Non videtur etiam qua ratione ly 'omnia' in plurali numero invenietur in mente et non ly 'isti', nam nihil nec aliqua ly 'isti' repraesentat. Etiam videtur /36.1a/
+Quorum quodcumque videtur falsitatem opinionis impugnare. Primo sequitur: nullum intellectum, finite virtutis, posse habere totum conceptum cui hic terminus 'homines' subordinatur, sed unus intellectus habebit partem conceptus cui deberet subordinari ly 'homines' et alius habebit aliam. Nec inconvenit hunc terminum 'homines' aequivoce repraesentare mihi et tibi multa alia. Quae ex his sequuntur infert hic modus, non propter alium quam propter hoc quod debili fuit ratione motus, multis displicet. Non videtur etiam qua ratione ly 'omnia' in plurali numero invenietur in mente et non ly 'isti', nam nihil nec aliqua ly 'isti' repraesentat. Etiam videtur /36.1a/ mihi hanc propositionem "Infiniti homines sunt homines" non subordinari alicui propositioni verae, capiendo ly 'infiniti' syncategorematice, quia in quocumque intellectu idem esset dicere infiniti homines sunt infiniti, et finiti sunt finiti.
+
+Secundum ergo hunc modum significare aliqua non est nisi significare aliquas res mediante conceptu complexo distanti, quarum unam ratione unius partis et aliam ratione alterius significet, et significare aliquid erit significare aliquam rem non mediante tali conceptu. Atque hoc poterit aliquam calumniam pati, nam secundum hanc definitionem videtur hoc complexum 'Gabriel vel Raphael' aliqua significare, sed ad hoc excludendum posset addere definitioni priori ly 'copulatim'.
+
+# Qualiter complexum mentale habeat unicam acceptionem
+
+### Propositio communis dicit numerum pluralis numeri inveniri in anima, nec esse complexum:
+
+Et ad argumentum opinionis oppositi facile responderet: nam secundum eos, significare aliqua est significare aliquas res, pro quibus, et si non faciant unum, talis terminus supponere potest. Idque de terminis potentibus supponere est intelligendum. Sed in terminis non supponere potentibus dices sufficere quod significent aequivalenter cum uno disiuncto composito ex infinitis copulatis, modo quo praecedens opinio imaginabatur; aut sufficit quod aliquas res significet pro quibus, quantum est ex parte suae significationis (et si non facerent unum), possit supponere (ut quidam dicit).
+
+Secundum haec responderetur ad argumentum: Quando arguebatur vel iste terminus 'angeli' significet aliquos angelos, sic quod quaelibet illorum significet aut non, respondetur quod significat angelos; non tamen significat quemlibet illorum ad hunc sensum quod pro quocumque illorum posset supponere. Et quando arguitur quia tunc iste terminus 'homo' significaret aliqua, quia significat materiam et formam, et nullum illorum fateor. Terminus enim significans aliquid bene potest significare aliqua; sed terminus significans aliqua, proprie loquendo et definiendo 'significare aliqua' sicut definitum est, non significat aliquid. Etiam hic terminus 'homo' significat aliqua facientia unum; ad hoc autem quod terminus significet aliqua, oportet quod illa non faciant unum.
+
+### His non obstantibus alium modum qui nunc occurrit mihi defendam:
+
+Quo etsi /36.1b/ ab omnibus videar differre, credo tamen ergo verum esse, quo teneo terminum singularis numeri et pluralis synonymos esse de significatione essentiali, et solum differre significatione grammaticali, quemadmodum diximus rectum et obliquum differre.
+
+Itaque teneo naturalem similitudinem, cui subordinatur iste terminus 'homo' significare quemlibet hominem divisive, et quoscumque etiam et solum differre notitia cui subordinatur iste terminus 'homo' in singulari et cui subordinatur hic terminus 'homines' in plurali penes actus syncategorematicos qui sunt velut articuli. Ita quod quando intellectus notitiam hominum accipit in singulari, convertatur cum hoc termino 'homo' in voce, addit unum actum restringentem solum pro singulis hominibus in singulari.
+
+Quando vero vult accipere illum terminum mentalem pro hominibus in plurali, hoc est pro multis simul, addit quendam articulum taliter eum restringentem. At vero cum sine aliquo articulo intellectus notitiam illam assumit, tunc tam pro uno homine quam pro multis supponit. Hinc fit hanc vocem 'homo' non solum Sortem, verum etiam 'Sortem et Platonem' simul significare. Simili modo hic terminus 'homines' non solum 'duos' verum' quemcumque illorum significat de significatione totali.
+
+### Et si inferas quia tunc ista vox 'homo' pro decem hominibus simul iunctis poterit supponere:
+
+Ad hoc negatur consequentia, quia illa vox 'homo', ratione terminationis singulariter in propositione, accipitur pro uno homine; et ratione terminationis ly 'homines', pro multis simul supponet. Quemadmodum dictum est ly 'hominis' ratione terminationis per modum ut cuius significat, et ly 'homini' per modum ut cui.
+
+Id autem, cum dictis praecedentibus, vel ex hoc, apparet verum quod termini declinabiles non ob aliud differunt in singulari et plurali nisi ratione terminationis, ac indeclinabiles ratione articulorum, quos addimus. Nam si Pascua dixero nequaquam, intellexeris si in singulari vel plurali praetulerim nisi aliud addiderim, ratione cuius numerus mihi notus evadat quid, quod Graeci articulos habent ad distinguendum plurale a singulari.
+
+# Qualiter numerus habetur in mente
+
+### Adde quod si duo numeri inveniuntur in /36.2a/ mente, puta singularis et pluralis, inter se omnino distincti:
+
+Eo modo quo logici imaginantur, etiam videtur singularem, pluralem et dualem, quem Graeci addunt reperiri debere, cuius necdum meminerunt. Nam solum vocibus solis, quas cognoverunt, intellectum regunt.
+
+### Item arguitur sic:
+
+Notitia hominum et quemlibet hominem et quoscumque simul significat; ergo significat aliquid et aliqua, et singularis et pluralis numeri est quantum est ex parte sui.
+
+Antecedens probatur: Nomina omnium hominum, cum quemlibet hominem significet, duos simul significabit. Videtur namque impossibile non solum mihi, verum cuicumque recte iudicanti, aliquem intellegere quemcumque duorum hominum qui duos homines intelligat.
+
+### Unde arguitur sic:
+
+Audita hac voce 'homo' non solum intellectus audientis intelligit quemcumque hominem, verum omnes simul, cum namque dixero 'animal rationale' non intelligo solum unum animal aut hominem sed et animalia rationalia. Praeterea arguitur hic terminus 'angeli' quemcumque angelum significat, nam impossibile apparet aliquem posse duos angelos cognoscere quin quemcumque illorum cognoscat, nam quoniam pacto cognosces simul et Gabrielem et Raphaelem quin Gabrielem cognoscas.
+
+### At scio: dices hunc terminum 'angeli' angelos repraesentare distincte, sed quemcumque illorum confuse repraesentare.
+
+### Profecto, confusior est haec responsio:
+
+Nam quid sibi vult confuse repraesentare eodem namque pacto diceres hunc terminum 'homo' Sortem non repraesentare cum alia repraesentet, et hunc terminum 'angeli' angelos confuse significare, nam aliud repraesentat, puta quemcumque angelum (ut tu dicis confuse significat), quod si non intelligas hoc per confuse significare, nescio quid intelliges. Nonne de significatione totali, cum non habeat partes, ly 'angeli' significat quemcumque angelum, nec potest recte dici esse quamdam significationem mediatam illam qua significat quemlibet angelum, nam cur potius illius notitiae haec quam illa mediata erit significatio, quod si dicas quod quia angelus pars est angelorum, et terminus ille 'angelos' significat; ideo mediate et confuse angelum dicitur significare.
+
+Hoc videtur /36.2b/ falsum, nam hoc pacto hic terminus 'homo' significaret animam confuse. Item hic terminus 'homo' medietates materiae significaret confuse, quod est falsum, nam aeque distincte (si distincte id debeat dici) sicut totam materiam, cuius medietas pars est, significat.
+
+Propter haec ergo, et quia vera dicta superius apparent, teneo resolutorie quae dicta sunt, videlicet nominatam quamcumque communem singulariter et pluraliter suum obiectum et obiecta repraesentare; ac si in propositione in numero singulari debeat accipi, id ratione alicuius actus debere fieri, quemadmodum ratione terminationis aut articuli in voce intelligimus nomen huius vel illius numeri, casus aut generis esse.
+
+## Ad dubium illud in quo inquirebatur an propositio significaret de significatione totali aliquid an aliqualiter:
+
+Primo: si per significationem totalem intelligatur id quod per totam propositionem et quamcumque partem significatur, nullum est totale significatum propositionis, nam per copulam nihil significatur, nisi dixerimus ipsam tempus importare, quod ad propositum non conducit. At vero si per totale significatum propositionis intelligatur id pro quo dictum propositionis aut accipi potest aut cum quo converti potest, seu id quod ex significatione omnium partium simul resultat.
+
+### Tunc opinio communior facile responderet nihil esse totale significatum propositionis:
+
+Quia dictum est purum esse syncategorema, quod nec secundum se, nec suum synonymum, potest accipi in propositione, nam haec propositio "Homo est animal" significat hominem-esse-animal. hominem autem esse-animal nihil est propositio; ergo non significat aliquid, sed potius aliqualiter, aut si mavis, aliquid aliqualiter.
+
+Ex hac opinione patet quod quemadmodum haec consequentia non valet:
+
+> Hic terminus 'omnis' significat aliqualiter; ergo aliqualiter significatur per hunc terminum 'omnis'.
+
+Si haec non valet:
+
+> Homo est animal significat hominem-esse-animal; ergo hominem-esse-animal significatur per hanc "homo est animal".
+
+Repetitum namque saepius est ab activa ad passivam non valere consequentiam, nisi quando actus, in quem vis verbi activi cadit, potest esse totale extremum secundum significationem, secundum quam in eum cadit. Quare quando verbum activum /37.1a/ cadit
 
 
 <!--
@@ -2849,6 +2917,7 @@ Page 29.2a: consequentiam ] emend. cōſequetiam
 Page 29.2a: intellectum ] emend. intellectus 
 Page 30.1b: sumpto ] emend. ſunio
 Page 33.1b: modo ] emend. nō
+Page 36.1a: terminus ] emend. terminos
 -->
 
 

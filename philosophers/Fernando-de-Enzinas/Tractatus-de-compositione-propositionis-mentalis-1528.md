@@ -2973,7 +2973,84 @@ Et facit nos iterum venire in notitiam rei quam prius cognovimus, quo fit ut si 
 
 ### Atque hinc patet aequivoce capi ly 'cum' diversa refert:
 
-Sed de significatione relativi in mente ultimata maior est difficultas, nam non ponimus aequivocationem, et antequam de eius significatione dicamus, bonum erit extirpare opinionem cuiusdam logici, qui, communia insequens dicta, dicit relativum nullum inveniri in mente, sed relativum suo subordinari /38.1a/
+Sed de significatione relativi in mente ultimata maior est difficultas, nam non ponimus aequivocationem, et antequam de eius significatione dicamus, bonum erit extirpare opinionem cuiusdam logici, qui, communia insequens dicta, dicit relativum nullum inveniri in mente, sed relativum suo subordinari /38.1a/ antecedenti. Et haec opinio impugnata est penultimo capite tertii tractatus syllogismorum.
+
+Hoc argumento, si relativum non inveniretur in mente, alicui relativum vocale subordinaretur, ex quo arguitur: si alicui posset subordinari, maxime esset suo antecedenti. Sed hoc est falsum; ergo propositum.
+
+Sequela videtur nota, quia aut relativum invenitur in mente aut loco illius antecedens. Sed non das primum; ergo secundum.
+
+Iam probatur: falsum esse loco relativi inveniri antecedens, quia tunc haec propositio "Omnis homo videt se" aut subordinatur huic "Omnis homo videt hominem" aut huic "Omnis homo videt omnem hominem" aut alicui in qua suus antecedens ponitur. Sed nulli istarum subordinatur; ergo et caetera.
+
+Maior est manifesta, et probatur minor: quia si quilibet homo videat alium hominem a se et non videat se, haec est vera "Omnis homo videt hominem" et haec est falsa "Omnis homo videt se"; et si omnis homo videat se et non alium, haec est vera "Omnis homo videt se" et haec est falsa "Omnis homo videt omnem hominem".
+
+### Habetur igitur relativum non subordinari suo antecedenti, sed etiam in mente inveniri:
+
+Et eius significatio, quemadmodum in voce, intelligibilis est suo antecedente, non praecedente et praeexistente.
+
+Sic et in mente non invenitur terminus, qui relativum dicitur, sine suo antecedente; qui quidem terminus idem significat quod suum antecedens, dependenter tamen a suo antecedente. Itaque dependet in esse et fieri a suo antecedente, idque maxime est verum in relativis reciprocis. Hinc fit prius natura esse antecedens quam relativum.
+
+### Sequitur etiam quod relativum referens unum terminum non potest alium referre:
+
+Nam ad variationem antecedentis dictum est relativum corrumpi. Si namque, corrupto antecedente, relativum minime corrumperetur, relativum posset in anima inveniri non existente suo antecedente, cuius significatio intelligibilis esset; quemadmodum si quis solitarie proferret hunc terminum 'ille' aut 'ipse' aut 'qui', nullo alio praedicato, etiam nunc haberet unam significationem, nunc aliam. Nam ad antecedentis variationem significatio relativi variatur, cum id tantum quod antecedens significat, relativum significet; et si caderet relativum a significatione /38.1b/ naturaliter propria, quod numquam categorematicum contingit, categorema namque relativum dicendum est, nam unumquodque potest, in propositione subiectum aut praedicatum esse.
+
+Sed videtur quodammodo ut ex eo syncategorema esse, quia dependenter relativeque significat; et qui vellet dicere relativum aliqualiter significare, et in propositione exercere officium supra suum antecedens, ipsum referendo, non impugnabile esset. Modo sic intelligatur relativum significare aliqualiter, quod non negemus etiam significare aliquid; itaque relativum aliquid aliqualiter significat. Quare ergo dicere relativum syncategorema aut mixtum esse, in nomine consistit.
+
+Datur tamen aliquod relativum quod est terminus mixtus, ut patet de isto relativo 'qui' in hac propositione "Sortes, qui currit, movetur"; videtur namque et huic relativo 'ille' et coniunctioni 'et' aequivalere.
+
+### Errant tamen credentes ly 'qui' non inveniri in anima, sed subordinari huic aggregato et 'ille':
+
+Nam non videtur terminus 'cum' non subordinaretur uni termino.
+
+Item probatur manifeste non semper tali aggregato subordinari ly 'qui', quia hic terminus 'qui' in hac propositione "Omnis homo, qui currit, movetur" non subordinatur et 'ille'. Nam tunc huic subordinaretur "Omnis homo currit et ille movetur", quod falsum est, nam propositio illa cui subordinaretur est falsa, casu quo aliqui homines currant et aliqui non. Et haec est vera "Omnis homo qui currit movetur".
+
+Non tamen esset probabile dicere ly 'qui', quando non ponitur in eodem extremo cum suo antecedente, sed facit propositionem hypotheticam subordinari aggregato ex 'et' et 'ille', ut in hac propositione "Sortes est animal qui movetur".
+
+Iam petes utrum relativum inveniatur in propositione diversa a propositione sui antecedentis, ad quod respondetur quod sic, nam communes dicunt relativum subiectum in copulativa referre restricte, et non in disiunctiva; igitur si invenitur in voce invenitur ergo et in mente. Has namque reputamus aptas "Omnis homo currit, et ipsemet est in aula", "Animal est homo, et illud est asinus".
+
+### Contra hoc tamen arguitur multipliciter, et primo sic:
+
+Sequeretur eandem propositionem mentalem ultimatam esse veram /38.2a/ et falsam, aut regulam illam esse falsam, videlicet quod relativum subiectivum non reciprocum in copulativa affirmativa refert restricte, et in disiunctiva non refert. Sed utrumque est falsum; ergo et dicta.
+
+Sequela probatur: et capio hanc copulativam mentalem "Animal est homo et illud est asinus", et relativum secundae partis referat hunc terminum 'animal' positum in priori categorica, arguitur sic.
+
+# Et an posset referre suum antecedens in alia propositione
+
+### Secunda pars illius copulativae est impossibilis:
+
+Nam eius sensus est, animal quod est homo, est asinus, quia relativum illud refert restricte. Si namque illius non sit datus sensus, habetur secundam partem disiunctive esse veram, videlicet quod regula illa communis est falsa.
+
+Iam probo quod illa sit possibilis: volo quod intellectus corrumpat coniunctionem illam, et formet loco illius notam disiunctivam caeteris manentibus partibus, habebiturque tunc haec disiunctiva "Animal est homo, vel Illud est asinus", et illa secunda pars est eadem, et iam est vera, nam non refert ly 'illud' restricte per regulam communem; ergo possibiliter est illa propositio. Probata est autem impossibilis, eadem ergo propositio mentalis possibilis est et impossibilis, quod erat probandum.
+
+### Si forte dixeris: corrupta coniunctione illa, copulativa corrumpi etiam relativum...
+
+Hoc falsum est, nam relativum non dependet a coniunctione illa coniungente utramque categoricam; quin potius dependet coniunctio [a] relativo, nam dependet coniunctio ab utraque illarum categoricarum quas coniungit, quare ab omnibus terminis in ipsis existentibus. Et haec ratio facile ostendit eos decipi qui concedunt relativum posse esse in categorica diversa a propositione in qua ponitur suum antecedens, modo illae categoricae aliquo coniungantur, sed non posse esse in diversa a suo antecedente, nisi coniunctae sint tales categoricae.
+
+### Et confirmatur ad idem:
+
+Ex dictis sequitur quod eadem propositio mentalis est vera et falsa; ergo propositum.
+
+Antecedens probatur: capio hanc disiunctivam "Omnis homo est ipsemet vel Omnis homo est ipsemet" relativo utroque referente subiectum prioris categoricae. Aut cape utrasque partes sine coniunctione, tunc falsitas secundae partis manifesta est, nam huic aequivalet "Omnis homo omnis homo est" ut patet /38.2b/ ex dictis in *Secundo Libro *Oppositionum*, et etiam eius falsitas patet per descendentes sub suo antecedente.
+
+Huius namque disiunctivae ultima pars est falsa "Hic homo est ipsemet, vel Omnis homo est ipsemet" nam sensus secundae partis est "Omnis homo est hic homo". Sed veritas illius secundae partis probatur: illa secunda pars subordinatur eidem propositioni cui prior pars, sed prior pars est vera; ergo secunda etiam est vera.
+
+Maior probatur: illa relativa subordinantur eidem relativo, et subiecta illarum duarum eidem termino et copula eidem; ergo et ambae propositiones eidem subordinantur. Quod autem ambo subiecta eidem subordinentur satis est manifestum, nam synonyma sunt. Utrumque enim notitiae hominum absolute subordinatur, et ideo relativa eidem subordinabuntur, et idem erunt; nam idem omnino referenti. Atque ex hoc patet copulas easdem esse, et actus distributivos unum esse; nam cum non est nisi notitia illa hominum, sola non erit, nisi actus unus notitiam illam distribuens.
+
+### Aliter etiam idem deduces sic capiendo hanc copulativam vocalem "Omnis homo est ipsemet et Omnis homo est ipsemet"...
+
+Relativis subiecta earundem propositionum categoricarum in quibus ponuntur referentibus; cuius copulativae veritas manifesta est, quia utraque pars vera est.
+
+Sed falsitas illius probatur sic: illa copulativa subordinatur uni copulativae falsae; ergo illa est falsa.
+
+Antecedens probatur: subordinatur uni copulativae in qua illa duo relativa referunt unum et eundem terminum numero, videlicet subiectum primae partis, quo copulativa est falsa, ut dictum est argumento praecedenti; ergo subordinatur uni propositioni falsae.
+
+Maior probatur: quia subiectum primae partis et secundae subordinantur uni et eidem notitiae, et illa duo relativa referunt illam notitiam; ergo unum et eundem terminum numero referunt.
+
+Maior probatur: subiectum primae partis et secundae sunt qualitates solum numero differentes, ergo notitiae illae se intendunt per maximam communem Aristotelis.
+
+### Et confirmatur secundo:
+
+Si relativum possit in propositione alia ab ea in qua suum ponitur antecedens poni, sequitur etiam eandem propositionem esse veram et falsam. Hoc autem est impossibile; ergo etiam dicta. /39.1a/
+
 
 [^1]: **Miranda:** *Corruptio pro* "sicut quidam Chaton nomine". This is a scribal corruption referring to the 14th-century English Franciscan logician Walter Chatton (c. 1285–1343), whose semantic positions on complexum significabile and propositional synonymy are criticized here by Buridan.
 
@@ -3004,6 +3081,7 @@ Page 30.1b: sumpto ] emend. ſunio
 Page 33.1b: modo ] emend. nō
 Page 35.1b: Miranda ] sic (corruptio pro Chaton)
 Page 36.1a: terminus ] emend. terminos
+Page 38.1b: namque ] emend. numquam
 -->
 
 

@@ -3021,7 +3021,7 @@ Nam eius sensus est, animal quod est homo, est asinus, quia relativum illud refe
 
 Iam probo quod illa sit possibilis: volo quod intellectus corrumpat coniunctionem illam, et formet loco illius notam disiunctivam caeteris manentibus partibus, habebiturque tunc haec disiunctiva "Animal est homo, vel Illud est asinus", et illa secunda pars est eadem, et iam est vera, nam non refert ly 'illud' restricte per regulam communem; ergo possibiliter est illa propositio. Probata est autem impossibilis, eadem ergo propositio mentalis possibilis est et impossibilis, quod erat probandum.
 
-### Si forte dixeris: corrupta coniunctione illa, copulativa corrumpi etiam relativum...
+### Si forte dixeris: corrupta coniunctione illa, copulativa corrumpi etiam relativum.
 
 Hoc falsum est, nam relativum non dependet a coniunctione illa coniungente utramque categoricam; quin potius dependet coniunctio [a] relativo, nam dependet coniunctio ab utraque illarum categoricarum quas coniungit, quare ab omnibus terminis in ipsis existentibus. Et haec ratio facile ostendit eos decipi qui concedunt relativum posse esse in categorica diversa a propositione in qua ponitur suum antecedens, modo illae categoricae aliquo coniungantur, sed non posse esse in diversa a suo antecedente, nisi coniunctae sint tales categoricae.
 
@@ -3035,7 +3035,7 @@ Huius namque disiunctivae ultima pars est falsa "Hic homo est ipsemet, vel Omnis
 
 Maior probatur: illa relativa subordinantur eidem relativo, et subiecta illarum duarum eidem termino et copula eidem; ergo et ambae propositiones eidem subordinantur. Quod autem ambo subiecta eidem subordinentur satis est manifestum, nam synonyma sunt. Utrumque enim notitiae hominum absolute subordinatur, et ideo relativa eidem subordinabuntur, et idem erunt; nam idem omnino referenti. Atque ex hoc patet copulas easdem esse, et actus distributivos unum esse; nam cum non est nisi notitia illa hominum, sola non erit, nisi actus unus notitiam illam distribuens.
 
-### Aliter etiam idem deduces sic capiendo hanc copulativam vocalem "Omnis homo est ipsemet et Omnis homo est ipsemet"...
+### Aliter etiam idem deduces sic capiendo hanc copulativam vocalem "Omnis homo est ipsemet et Omnis homo est ipsemet":
 
 Relativis subiecta earundem propositionum categoricarum in quibus ponuntur referentibus; cuius copulativae veritas manifesta est, quia utraque pars vera est.
 
@@ -3137,20 +3137,70 @@ Sequitur quod cum haec propositio "Tantum homo est animal" huic copulativae subo
 
 Si hoc esset verum, sequitur quod haec propositio "Sortes differt a Platone" ratione de ly 'differt' subordinaretur /40.1a/ suis exponentibus, et tunc nihil corresponderet illi signo 'differt'.
 
+Atque hinc sic arguo: sequitur quod nunquam ly 'differens' invenietur in mente cum signum sit exponibile, nec ly 'fortius', nec ly 'incipiens', quod si ita sit, dent quaeso quibus mentalibus hae "Sortes differens a Platone non est", "Fortius Guillermo non est Sortes", "Sortes incipiens esse album" non est subordinantur, et difficile dabunt, nam istae propositiones assumptae nullo pacto habent exponentes secum convertibiles.
 
+### Quare igitur, dimissa hac opinione, quamvis postea si quoque pacto recte sustentari queat dicemus:
 
+Restat ad argumentum in oppositum respondere, nam id magnificatur a quodam, unde dico quando assumit exclusivam hanc "Tantum homo est animal" denotare ratione signi exclusive hominem-esse-animal, et nullum-non-hominem-esse-animal.
+
+Si per denotare significare intelligat, id nego, sed si vis habere significationem illius, dico significare solum hominem-esse-animal.
+
+Quando autem in communi modo dicimus illam exclusivam denotare quod dictum est, volumus dicere sic modum suum significandi explicandum fore, atque hoc argumentum parvam habet apparentiam, nam eodem argumento probaretur exclusivam universalem de terminis transpositis subordinari, et etiam probaretur hanc "Omnis homo est animal" huic subordinari "Homo est animal et Nullus homo est homo quin ille sit animal", unde sic argueretur per hanc propositionem "Omnis homo est animal" denotatur praedicatum alicui supposito subiecti competere, et a nullo removeri ratione illius signi universalis. Sed idem denotatur per hanc copulativam "Homo est animal et Nullus homo est homo quin ille sit animal"; ergo eandem denotationem habet haec copulativa et universalis proposita. Patet ergo rationem factam prius non concludere quemadmodum nec ista concludit.
+
+### Ad aliud quando arguitur quod exclusiva aequivalet suis exponentibus:
+
+Distinguitur communiter quod aequivalet vel in consequendo vel in significando, et sic negatur. Et sic argumentis contra communem modum satisfactum arbitror. Sed quod hic cuius haec adduximus argumenta hanc viam insecutus non fuerit non miror, sed quod audeat distinctionem eam communem de aequivalentia in consequendo et in significando propter hoc non solum reprobare, verum brutalem vocare, et eruditas aures offendentem, et insulsae praeter maturam considerationem admiror.
+
+Sed minorem /40.1b/ considerationem ipsum in omnibus locis quibus negat, credo habuisse, nonne haec propositio "Tantum homo est animal" huic "Omne animal est homo" aequivalet in consequendo et non in significando, et haec "Omnis homo est animal" huic "Homo est animal, et Nullus homo est homo quin ille sit animal" aequivalet in consequendo et non in significando. Est enim id adeo notum ut dignum non sit probatione.
+
+Sed ad propositum redeundo, qui defenderet hanc propositionem "Tantum homo est animal" synonymam esse copulativae suarum exponentium, et posse inveniri signum exclusivum in anima, et etiam suae exponentes, recte diceret omnem talem hypotheticam. Atque ex hoc oportet concedere duas propositiones synonymas inveniri in anima, et multos terminos esse in una earum qui non essent in altera. Et si diceretur oportet omnia esse explicita in mente, distinguo, vel explicata, id est, quod non sint aequivoca, et sic concedo, et non aliter communis positio diceret, quamvis multi dicant per illam auctoritatem non esse aliud intelligendum nisi quod omnia quae complexe significant, significant iuxta suarum partium significationem.
+
+### Ad dubium sextum et vicesimum, in quo inquiritur utrum signa incomplexe distribuentia invenirentur in anima:
+
+Sicut ly 'omne' in hac propositione "Omne animal fuit in arca Noe", cuius sensum dicimus fore cuiuscunque speciei in animalis aliquod animal fuit in arca Noe. Quorundam modus respondendi fuit talia signa incomplete distribuentia nullo pacto in mente reperiri, ita quod haec propositio "Omne animal fuit in arca Noe" huic subordinatur cuiuscunque speciei animalis aliquod animal fuit in arca Noe, sic quod in anima, quamvis signum distribuens pro singulis generum inveniatur, non tamen signum ab eo distribuens pro generibus, ut antiqui dicunt singulorum, hoc est pro speciebus individuorum.
+
+Et simili modo dicerem de hoc signo 'quantumlibet', 'qualibet', 'utrumque' et caetera. Quorundam ratio negantium tam in voce quam in mente huiusmodi distributionem est haec, quando aliquis terminus distribuitur incomplete, distribuitur pro omnibus individuis, et etiam quando distribuitur complete; ergo idem est terminum distribui complete et incomplete.
+
+Consequentia videtur /40.2a/ nota, et probatur maior: quando distribuitur terminus incomplete pro generibus singulorum distribuitur pro speciebus, et omnes species sunt individua; ergo quando distribuitur incomplete distribuitur pro individuis, et cum non est maior ratio de his quam de illis, sequitur quod pro quibuscumque individuis distribuitur. Et hac ratione et aliis debilioribus Petrus Hispanus tenet ly 'omne' non posse distribuere nisi pro singulis generum.
+
+# De significatione conceptus non ultimatus
+
+### Secundo arguitur ad idem probando: intellectum nullum talem actum formare posse.
+
+Impossibile est intellectum formare actum syncategorematicum distribuentem modo dicto incomplete seu pro generibus singulorum; ergo opinio nulla. Et consequentia est manifesta, et probatur antecedens, quoniam detur oppositum quod intellectus talem actum formet in hac propositione "Omne animal fuit in arca Noe", Petro vel antequam in intellectu, talis actus pro generibus singulorum distribuens sit intellectus, intelligit speciem vel non. Si secundum, cum ipse actu producto speciem intelligit, sequitur per talem actum speciem repraesentare, nam per ipsum eam intelligit, quare non erit syncategorema purum huiusmodi signum sic distribuens cum et speciem distributive significet.
+
+Sed quod non sit mixtum tale syncategorema sic distribuens probatur, nam quandocumque intellectus format actum syncategorematicum distributivum pro aliquibus priusquam syncategorema formetur ea pro quibus est distributurum. Intelligit ad hoc syncategorema pro speciebus distribuit prius; ergo quam syncategorema formetur, speciem intelligit, cuius oppositum dicebatur.
+
+### Utraque istarum rationum procedit ex non intelligentia:
+
+Cum enim, dicitur communiter, signum pro generibus singulorum seu pro speciebus individuorum distribuere, non volunt dicere quod distribuatur pro speciebus; quia in hac "Omne animal fuit in arca Noe" ly 'animal' distribuitur, et in singulari non supponit pro specie ly 'animal'. Sed ideo dicitur terminus distribui pro generibus singulorum, quia distribuitur pro individuis taliter quod non licet ascendere et descendere sub eo copulative ad omnia supposita, sed tantum ad supposita cuiusque speciei, copulative sumendo individua alius speciei disiunctive; seu quia licet descendere per terminos specificos determinate acceptos copulative, /40.2b/ de quibus modis ascendendi satis superque dictum est capitulo quarto *Primo Libro *Oppositionum*.
+
+Ita quod oportet imaginari quod, quemadmodum in intellectu reperitur unus actus ratione cuius accipit omnia supposita alicuius termini copulative, et hoc vocamus signum complete distribuens, sic invenitur unus actus immutans intellectum ad hoc quod accipiat alicuius termini aliqua significata copulative et alia disiunctive, seu ut aiunt, assumat supposita talis termini copulative sub disiunctione. Et tale signum voco incomplete distribuens, quemadmodum intellectus potest producere signum quo intelligit omnia supposita termini quem determinat disiunctive, et vocatur signum complete particularizans. Sic potest producere actum ipsum immutantem, ut aliqua supposita disiunctive intelligat in ordine ad aliqua copulative, seu disiunctive, sub copulatione; et tale vocabitur signum incomplete particularizans. Pariformiter imaginaberis intellectum posse producere actum solum immutantem ad accipiendum aliquem terminum supponentem pro Deo solum pro suo supposito immediato (si talem distributionem in terminis divinis placet admittere).
+
+Tunc patet primum argumentum procedere ex non-intelligentia, nam fateor signum incomplete distribuens etiam pro individuis distribuere, sicut signum complete, sed non eodem modo, quia hoc copulative, alterum vero copulative sub disiunctione; de quo ascendendi videbis apud omnes et in opinionibus loco allegato.
+
+### Ad secundum nego antecedens:
+
+Et ad probationem do quod intellectus talem actum formet. Et quando quaeris: "vel antequam intellectus talem actum formet, intelligit speciem animalium vel non?"
+
+Respondeo quod non per proprium conceptum speciei animalium, sed bene per ly 'animal' quod speciem repraesentat; nam individua repraesentat quae, secundum nominales, sunt species. Etiam quando arguis: "si detur secundum, videlicet quod non intelligit speciem antequam actus producatur, sequitur quod actus ille repraesentat speciem", id nego. Nam post actus productionem non magis intelligit speciem quam prius; unde quamvis concedam hanc "Omne animal fuit in archa Noe" huic aequivalere in consequendo /41.1a/ "Cuiusque speciei animalis, aliquod animal fuit in arca noe", non tamen in significando.
+
+Similiter in secundo quando arguitur quod...
+
+# An aliquis terminus mentalis
 
 [^1]: **Miranda:** *Corruptio pro* "sicut quidam Chaton nomine". This is a scribal corruption referring to the 14th-century English Franciscan logician Walter Chatton (c. 1285–1343), whose semantic positions on complexum significabile and propositional synonymy are criticized here by Buridan.
 
 <!--
 ## Apparatus Criticus Reference
-* emend.  (emendatio)  : Corrected a flat-out printing mistake.
-* leg.    (legitur)    : Standardized spelling (like modernizing u/v or i/j).
-* om.     (omissio)    : Printer left a word out; supplied missing text.
-* sic                  : Error left exactly as printed in the original.
-* conj.   (coniectura) : Text is unreadable; this is an educated guess.
-* transp. (transposito): Printer accidentally swapped word or letter order.
-* del.    (deletio)    : Printer repeated a word; deleted the extra one.
+* conj.    (coniectura)  : Text is unreadable; this is an educated guess.
+* corrupt. (corruptio)   : Text is a corrupted or mangled printing of the word.
+* del.     (deletio)     : Printer repeated a word; deleted the extra one.
+* emend.   (emendatio)   : Corrected a flat-out printing mistake.
+* leg.     (legitur)     : Standardized spelling (like modernizing u/v or i/j).
+* om.      (omissio)     : Printer left a word out; supplied missing text.
+* transp.  (transposito) : Printer accidentally swapped word or letter order.
+* sic                    : Error left exactly as printed in the original.
 
 ## Log
 Page 13.2b: per ] emend. pro
@@ -3170,6 +3220,9 @@ Page 33.1b: modo ] emend. nō
 Page 35.1b: Miranda ] sic (corruptio pro Chaton)
 Page 36.1a: terminus ] emend. terminos
 Page 38.1b: namque ] emend. numquam
+Page 40.1a: atque ] emend. etqꝫ
+Page 40.1a: insulsae ] emend. insule
+Page 40.2b: talem ] corrupt. rileꝫ 
 -->
 
 

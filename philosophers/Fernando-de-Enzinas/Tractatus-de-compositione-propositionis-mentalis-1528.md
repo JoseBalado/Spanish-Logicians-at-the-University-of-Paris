@@ -3051,6 +3051,94 @@ Maior probatur: subiectum primae partis et secundae sunt qualitates solum numero
 
 Si relativum possit in propositione alia ab ea in qua suum ponitur antecedens poni, sequitur etiam eandem propositionem esse veram et falsam. Hoc autem est impossibile; ergo etiam dicta. /39.1a/
 
+Probatur: sequela de secunda parte huius disiunctivae "Quilibet homo est in aula, vel Ipsemet est in curia" quae casu quo quilibet homo sit in aula vel in curia, nullus tamen qui est in aula sit in curia, falsa est, nam sub suo antecedente dabitur una singularis falsa, demonstrando hominem qui non est in curia. Et etiam, ex una regula relativorum, secunda pars huic aequivalet "Quilibet homo est in curia".
+
+Veritas tamen eius probatur: disiunctiva proposita est vera, et non prima pars; ergo secunda.
+
+Minor manifesta est cum bonitate consequentiae, sed maior probatur:
+
+> Hic homo est in aula vel Ipsemet est in curia, et
+>
+> Hic homo est in aula vel Ipsemet est in curia, et sic de singulis;
+>
+> ergo
+>
+> Quilibet homo est in aula vel Ipsemet est in curia.
+
+Et veritas antecedentis manifesta est ex casu et caetera.
+
+# De significatione signorum exponibilium et an reperiatur in mente
+
+### Ad argumentum respondeo primo concedendo quod infertur pro secunda parte, videlicet regulam illam esse falsam:
+
+Nam illa regula solum ponitur pro copulativa vocali et disiunctiva, in mentali autem dices, si vis non referre aliquo pacto non restricte relativum. Et si quaeras cui ergo subordinatur haec vocalis "Animal est homo et Ibi illud est asinus" respondeo quod huic "Animal est homo et Illud animal quod est homo, est asinus". Sed disiunctiva haec "Animal est homo vel Illud est asinus" huic mentali "Animal est homo vel Illud est asinus", et ly 'illud' referat non restricte, quia non est natura termini mentalis sic referre restricte.
+
+### Posset aliter responderi:
+
+Quamvis non melius quod relativum mentale, quod semel refert restricte, semper refert restricte, sive ponatur in disiunctiva sive in copulativa. Et quod semel non restricte semper non restricte. Et ex his facile patet quid dicendum sit ad regulam et argumentum.
+
+### Ad confirmationem primam fere eodem modo est respondendum:
+
+Deducendo argumentum sicut in principio eius deduximus, aut sicuti ultimo deducimus, simileque argumentum fuit formatum capitulo penultimo tertii tractatus primae partis *Syllogismorum*, argumento tertio, ad quod, modo quo ultimo fuit deductum, respondeo concedendo quod illa copulativa, cuius relativa referunt substantiva propositionum in quibus ponuntur, est vera.
+
+Et quando niteris probare illam esse falsam, quia /39.1b/ illa subordinatur uni in qua illa duo relativa referant unum et eundem terminum numero, id nego.
+
+Et ad probationem: concessa maiore, nego minorem. Unde quemadmodum dictum est de hac propositione "Omnis homo omnis homo est" in voce sumpta, quod non subordinatur uni in qua tota notitia hominum sit subiectum et tota sit praedicatum, et tota notitia distribuatur, nam tunc illa valeret sicut haec "Omnis homo est", sed subordinatur uni in qua medietas notitiae omnium hominum sit subiectum, et medietas alia sit praedicatum, et una medietas distribuatur ab uno signo, et altera ab altero.
+
+Sic in proposito: istae duae partes "Omnis homo est ipsemet" et "Omnis homo est ipsemet", quae sunt duae partes illius copulativae, subordinantur duabus propositionibus mentalibus distinctis, quarum etiam relativa et omnes actus distinguuntur numero. Ut gratia exempli: si prima subordinetur uni propositioni in qua medietas notitiae omnium hominum sit subiectum et distribuatur ab aliquo actu syncategorematico, et relativum refert illam medietatem; secunda subordinatur uni alteri qua relativum, cui subordinatur relativum vocale secundae, referat alteram medietatem notitiae, quae refertur ab uno alio signo distributivo, et erit subiectum secundae.
+
+Aut si mavis, cum illae duae partes synonymae sint, dicas eidem subordinari propositioni numero et relativum eidem numero, ita quod eadem propositio in numero est secunda pars et prima illius copulativae. Atque hinc facile argumentum dissolves, modo quo deductum est in principio confirmationis.
+
+### Ad secundam confirmationem non respondeo:
+
+Quia non petit difficultatem proposito accommodatam et responsum est argumento sexto capitis secundi, ubi de relativis reciprocis disputavimus, ubi pulchra argumenta huic similia videbis, si perlegere placet sextum illud argumentum.
+
+### Circa haec inquires de hac particula 'et sic de aliis' seu 'de caeteris':
+
+Aut 'sic de reliquis' vel 'sic de singulis' (ut quaecumque enim illarum videtur relativum includere) quid significet, et an syncategorematice vel categorematice repraesentet.
+
+### Ad hoc respondeo hanc particulam multis modis inveniri posse:
+
+Uno modo in ascensu et descensu, alio modo non in ascensu et descensu, sicut haec /39.2a/ "Sortes currit, et Plato currit, et sic de aliis", "Homo est sanus, et Equus est sanus, et sic de singulis" quandoque autem praeponitur ei una sola categorica, ut sic "Plato est animal, et sic de aliis" capiendo primo modo sicut capiebatur in ascensu et descensu est magna difficultas quam hic non tradam, quia diffusive quae circa haec sentiebamus argumento tertio capitis tertii libri *Primi Oppositionum* tradidimus, ad eum locum recurre et invenies quod inquiritur.
+
+### Sed capiendo secundo modo particulam illam oportet aspicere substantivum inclusum in illo termino 'aliis':
+
+Et sic copulativa proponatur, valebit copulativam et disiunctiva disiunctivam, et si conditionalis conditionalem. Unde particula haec quamvis sit propositio, tamen si nihil praecederet non significaret ut propositio, nam habet significationem dependentem quemadmodum et relativum, aut si mavis, quemadmodum haec particula 'econverso', de qua hic determinarem, nisi longum protraxissem sermonem libro *Primo Oppositionum* in capite sexto, ubi de copulativis agebatur, argumento primo recurre, et invenies ibi opinionem Hentisberi et opinionem communem ad longum disputatas.
+
+Unum adnota, quod in hoc modo loquendi, quando non praecedit nisi categorica, ly 'et sic de aliis' tunc copulativae aequivaleret, ut in ultimo exemplo iam posito patet. Hic posses similia corollaria de hac particula 'et sic de aliis' inferre, quae de hac particula 'econverso' loco allegato inferebantur. Patet igitur ad dubium solutio, nam significat illa particula sicut propositio.
+
+### Dubium iam sequens, videlicet quintum et vicesimum:
+
+Oportet disputare in quo dicendum est de significatione signorum exponibilium et an inveniantur propositiones exponibiles in mente vel suis subordinentur exponentibus.
+
+In mente namque reperiri, communis est logicorum recentiorum et multorum antiquorum consensus. Intellectus namque, habita hac propositione "Homo est animal", potest signum exclusivum producere et illi propositioni addere, quo facto exclusivam formabit.
+
+In oppositum tamen arguitur: exclusiva et copulativa composita ex suis exponentibus sunt synonymae; ergo exclusiva subordinantur /39.2b/ suis exponentibus.
+
+Consequentia patet et probatur antecedens: per hanc exclusivam "Tantum homo est animal" denotatur seu significatur (idem namque est denotare et significare) praedicatum subiecto competere, et a quolibet opposito praedicati removeri. Et eandem denotationem habet haec copulativa et nulla alia "Homo est animal, et Nihil non-homo est animal"; ergo copulativa illa et exclusiva sunt synonymi termini, quod erat probandum. Item aequivalet illa copulativa illi exclusivae; ergo sunt synonymae. Et hoc est argumentum potissimum quo quidam renovare hanc opinionem contendit.
+
+### Pro solutione huius notandum est opinionem communiorem esse:
+
+Exclusivas et exceptivas non esse hypotheticas nec hypotheticis subordinari.
+
+Cuius oppositam opinionem nonnulli sustentant, tenentes quamcumque propositionem exponibilem hypotheticam.
+
+Rationes autem quas pro se opinio communior et contra alteram adducere poterit, hae maxime sunt: intellectus potest in mentali categorica actum pure syncategorematicum denotantem hypothetice producere sicut ly 'omnis', nam hypotheticae aliquo modo denotat, nam denotatio exclusiva mutuo infert denotationem universalem; ergo eadem ratione actum exclusivum poterit producere. Praeterea, non repugnat intellectui producere actum exclusivum addereque huic "Homo est animal"; ergo exclusiva potest reperiri in anima.
+
+### Et confirmatur supposito communi modo exponendi propositionem de comparativo:
+
+Si quaelibet propositio exponibilis subordinaretur suis exponentibus, sequitur propositionem de comparativo nulli subordinari, nam illa subordinari debet uni propositioni cuius una pars est de 'ita et sicut', et illa propositio de 'ita et sicut' exponitur per propositionem de comparativo; ergo erit processus in infinitum, sic quod non dabitur quibus subordinantur huiusmodi propositiones, quod si aliqua exponibilis non subordinatur suis exponentibus nulla subordinabitur eadem ratione.
+
+### Item ad idem arguunt:
+
+Sequitur quod cum haec propositio "Tantum homo est animal" huic copulativae subordinetur "Homo est animal et Non non-homo est animal", ut particula illa 'tantum' huic toti 'et Non non-homo est animal' subordinatur.
+
+### Ultimo arguitur apparentius:
+
+Si hoc esset verum, sequitur quod haec propositio "Sortes differt a Platone" ratione de ly 'differt' subordinaretur /40.1a/ suis exponentibus, et tunc nihil corresponderet illi signo 'differt'.
+
+
+
 
 [^1]: **Miranda:** *Corruptio pro* "sicut quidam Chaton nomine". This is a scribal corruption referring to the 14th-century English Franciscan logician Walter Chatton (c. 1285–1343), whose semantic positions on complexum significabile and propositional synonymy are criticized here by Buridan.
 

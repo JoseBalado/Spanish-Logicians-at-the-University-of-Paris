@@ -708,7 +708,31 @@ Et per hoc tollitur error aliquorum qui dicebant, vel melius dicam, faciebant is
 
 Contra: potentia vegetativa est propria passio ipsius animae vegetativae; ergo convenit solum animae vegetativae.
 
-Nego antecedens: immo dico tibi quod est propria vegetativa, et est alicuius continentis eminenter est in perfectione ad suam animam vegetativam. Unde dico quod anima sensitiva, propter suam magnam perfectionem, continet eminenter animam vegetativam; et anima intellectiva propter suam magnam perfectionem continet et vegetativam et sensitivam, et ideo /32a/ quaeruntur
+Nego antecedens: immo dico tibi quod est propria vegetativa, et est alicuius continentis eminenter est in perfectione ad suam animam vegetativam. Unde dico quod anima sensitiva, propter suam magnam perfectionem, continet eminenter animam vegetativam; et anima intellectiva propter suam magnam perfectionem continet et vegetativam et sensitivam, et ideo /32a/ quaeruntur duae quaestiones quae solent quaeri a doctoribus:
+
+Prima quaestio: utrum in bruto inveniantur duae animae, scilicet sensitiva et vegetativa, et in homine inveniantur tres animae, scilicet vegetativa, sensitiva, et intellectiva. Ad quod respondetur quod non, imo in homine tantum est una anima intellectiva, et in bruto tantum sola sensitiva, et ponitur talis regula Scoti:
+
+> Quandocumque aliquae formae sic se habent quod una eminenter continet aliam, illae sunt incompossibiles in eodem composito, id est, si ponatur una non oportet aliam ponere.
+
+Pro quo notandum quod unam formam continere eminenter aliam non est aliud quam ipsam propter suam magnam perfectionem posse exercere operationem alterius. Tunc dico quod anima sensitiva eminenter continet vegetativam, id est sensitivam propter suam magnam perfectionem potest exercere operationem vegetativae; et anima intellectiva propter eius magnam perfectionem continet vegetativam et sensitivam, id est quod anima potest operationes earum exercere.
+
+Secunda quaestio: utrum in materia prius fuerit anima vegetativa quam intellectiva.
+
+Pro solutione quidam doctores, est notandum, voluerunt habere quod antequam adveniat anima intellectiva, prius erat anima vegetativa, quae expellitur adveniente /32b/ anima intellectiva. Nam dicunt isti quod embryo augmentatur; ergo habet animam vegetativam, et postea, adveniens anima intellectiva, expellitur anima vegetativa. Quae quidem opinio est multum probabilis, licet non tenebimus eam pro nunc, et ad illud quod ista opinio dicit, scilicet quod embryo augmentatur distinguo aut per potentiam vegetativam ipsiusmet intrinsecam, et sic nego; aut extrinsecam, puta ipsius matris.
+
+Dat aliqui exemplum, ut post non habet animam vegetativam, sed augmentatur per animam vegetativam arboris suae, ex quo sequitur quod omnes auctoritates sonantes quod embryo vivit debent intelligi quod vivit, supple, vita extrinseca et non intrinseca, quia non habet animam.
+
+Sed potentiarum vegetativarum quaedam est nutritiva, alia est augmentativa, et alia est generativa. Et de omnibus his potentiis quaeruntur duae quaestiones et deducendis.
+
+Prima enim est: quis est actus istius potentiae?
+
+Secunda est: quod est obiectum istius potentiae?
+
+Primo quaeritur: quis actus eius est nutrire?
+
+Secundo quaeritur: quod est eius obiectum alimentum seu nutrimentum?
+
+Unde nutritio est conversio nutrimenti in substantiam /33a/ aliti
 
 
 <!--

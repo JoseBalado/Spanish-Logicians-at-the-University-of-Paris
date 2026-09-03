@@ -117,7 +117,7 @@ quia sic nulla esset propositio mentalis non-ultimata: nec simplex, nec composit
 -   Si primum, sequitur quod talis propositio est mentalis ultimata secundum talem significationem postquam secundum talem non est naturalis similitudo alicuius termini.
 -   Si secundum, habetur propositum; quoniam talis propositio non significat ad placitum nisi ratione vocis vel scripturae cuius est conceptus non-ultimatus.
 
-Relinquitur ergo iudicio meo, probatum aliquam propositionem mentalem non-ultimatam quandoque esse simplicem. Verbi gratia, si ly 'a' in voce imponatur ad significandum hominem-esse-animal, conceptus /4.2b/ non-ultimatus illius vocis 'a' est propositio non ultimata, et est simplex qualitas. Nec valet adhuc negare propositionis vocalis, cuius partes formaliter significant mentalem non-ultimatam quandoque esse simplicem qualitatem. Sicut quidam vir docens negat, quia istis tribus scripturis existentibus "Homo est animal", possum formare conceptum illarum trium scripturarum copulatim et nullius earum, quemadmodum possum habere notitiam visivam centum hominum et nullius eorum, et cumuli granorum tritici et nullius grani. Tunc ille conceptus non-ultimatus erit simplex qualitas terminata ad illud aggregatum, et est propositio non-ultimata propositionis vocalis, habentis plures partes; ergo propositum.
+Relinquitur ergo iudicio meo, probatum aliquam propositionem mentalem non-ultimatam quandoque esse simplicem. Verbi gratia, si ly 'a' in voce imponatur ad significandum hominem-esse-animal, conceptus /4.2b/ non-ultimatus illius vocis 'a' est propositio non-ultimata, et est simplex qualitas. Nec valet adhuc negare propositionis vocalis, cuius partes formaliter significant mentalem non-ultimatam quandoque esse simplicem qualitatem. Sicut quidam vir docens negat, quia istis tribus scripturis existentibus "Homo est animal", possum formare conceptum illarum trium scripturarum copulatim et nullius earum, quemadmodum possum habere notitiam visivam centum hominum et nullius eorum, et cumuli granorum tritici et nullius grani. Tunc ille conceptus non-ultimatus erit simplex qualitas terminata ad illud aggregatum, et est propositio non-ultimata propositionis vocalis, habentis plures partes; ergo propositum.
 
 ## Ista, quae de hoc dubio, dicta sunt secundum opinionem communem etiam sunt vera.
 
@@ -414,7 +414,7 @@ Opinio communis
 
 ## Modo pro declaratione opinionis communis ponitur talis conclusio:
 
-Omnis propositio mentalis ultimata apprehensiva est propositio composita, id est, habet plures partes differentes, ratione ex quo sequitur omnia syncategoremata inveniri in mente, sicut copulae, negationes, signa distributiva confusiva, signa particularia et alia similia. Si, namque, copulae non invenirentur, propositio non esset composita, /8.2b/ nam id quo subiectum praedicato unitur, copulam vero notanter, dicitur propositio mentalis ultimata, quia quid decendum esset de non ultimata, secundum quamcumque opinionem, primo dubio contra opinionem Gregorii diximus.
+Omnis propositio mentalis ultimata apprehensiva est propositio composita, id est, habet plures partes differentes, ratione ex quo sequitur omnia syncategoremata inveniri in mente, sicut copulae, negationes, signa distributiva confusiva, signa particularia et alia similia. Si, namque, copulae non invenirentur, propositio non esset composita, /8.2b/ nam id quo subiectum praedicato unitur, copulam vero notanter, dicitur propositio mentalis ultimata, quia quid decendum esset de non-ultimata, secundum quamcumque opinionem, primo dubio contra opinionem Gregorii diximus.
 
 ### Dicitur notanter apprehensiva,
 
@@ -1815,7 +1815,7 @@ At vero si ly 'vel' esset coniunctio principalis, esset una alia propositio, et 
 ### Ad ultimum nego antecedens:
 
 Sed de hoc ultimo dubio agetur. Relinquitur ergo rationes non concludere, quare tenemus nullam
-aequivocationem inveniri in mente, nullamque ultimatam propositionem veram et falsam semper intelligo in mente ultimata, quia conceptus non ultimati voces sequuntur.
+aequivocationem inveniri in mente, nullamque ultimatam propositionem veram et falsam semper intelligo in mente ultimata, quia conceptus non-ultimati voces sequuntur.
 
 ### Nunc aunt redeo ad id quod assumpseram de hoc actu omnis ad probandum quod /25.1a/ esset aequivocus arguebatur:
 
@@ -3107,7 +3107,7 @@ Et sic copulativa proponatur, valebit copulativam et disiunctiva disiunctivam, e
 
 Unum adnota, quod in hoc modo loquendi, quando non praecedit nisi categorica, ly 'et sic de aliis' tunc copulativae aequivaleret, ut in ultimo exemplo iam posito patet. Hic posses similia corollaria de hac particula 'et sic de aliis' inferre, quae de hac particula 'econverso' loco allegato inferebantur. Patet igitur ad dubium solutio, nam significat illa particula sicut propositio.
 
-### Dubium iam sequens, videlicet quintum et vicesimum:
+## Dubium iam sequens, videlicet quintum et vicesimum:
 
 Oportet disputare in quo dicendum est de significatione signorum exponibilium et an inveniantur propositiones exponibiles in mente vel suis subordinentur exponentibus.
 
@@ -3155,7 +3155,7 @@ Sed minorem /40.1b/ considerationem ipsum in omnibus locis quibus negat, credo h
 
 Sed ad propositum redeundo, qui defenderet hanc propositionem "Tantum homo est animal" synonymam esse copulativae suarum exponentium, et posse inveniri signum exclusivum in anima, et etiam suae exponentes, recte diceret omnem talem hypotheticam. Atque ex hoc oportet concedere duas propositiones synonymas inveniri in anima, et multos terminos esse in una earum qui non essent in altera. Et si diceretur oportet omnia esse explicita in mente, distinguo, vel explicata, id est, quod non sint aequivoca, et sic concedo, et non aliter communis positio diceret, quamvis multi dicant per illam auctoritatem non esse aliud intelligendum nisi quod omnia quae complexe significant, significant iuxta suarum partium significationem.
 
-### Ad dubium sextum et vicesimum, in quo inquiritur utrum signa incomplexe distribuentia invenirentur in anima:
+## Ad dubium sextum et vicesimum, in quo inquiritur utrum signa incomplexe distribuentia invenirentur in anima:
 
 Sicut ly 'omne' in hac propositione "Omne animal fuit in arca Noe", cuius sensum dicimus fore cuiuscunque speciei in animalis aliquod animal fuit in arca Noe. Quorundam modus respondendi fuit talia signa incomplete distribuentia nullo pacto in mente reperiri, ita quod haec propositio "Omne animal fuit in arca Noe" huic subordinatur cuiuscunque speciei animalis aliquod animal fuit in arca Noe, sic quod in anima, quamvis signum distribuens pro singulis generum inveniatur, non tamen signum ab eo distribuens pro generibus, ut antiqui dicunt singulorum, hoc est pro speciebus individuorum.
 
@@ -3163,7 +3163,7 @@ Et simili modo dicerem de hoc signo 'quantumlibet', 'qualibet', 'utrumque' et ca
 
 Consequentia videtur /40.2a/ nota, et probatur maior: quando distribuitur terminus incomplete pro generibus singulorum distribuitur pro speciebus, et omnes species sunt individua; ergo quando distribuitur incomplete distribuitur pro individuis, et cum non est maior ratio de his quam de illis, sequitur quod pro quibuscumque individuis distribuitur. Et hac ratione et aliis debilioribus Petrus Hispanus tenet ly 'omne' non posse distribuere nisi pro singulis generum.
 
-# De significatione conceptus non ultimatus
+# De significatione conceptus non-ultimatus
 
 ### Secundo arguitur ad idem probando: intellectum nullum talem actum formare posse.
 
@@ -3185,11 +3185,76 @@ Et ad probationem do quod intellectus talem actum formet. Et quando quaeris: "ve
 
 Respondeo quod non per proprium conceptum speciei animalium, sed bene per ly 'animal' quod speciem repraesentat; nam individua repraesentat quae, secundum nominales, sunt species. Etiam quando arguis: "si detur secundum, videlicet quod non intelligit speciem antequam actus producatur, sequitur quod actus ille repraesentat speciem", id nego. Nam post actus productionem non magis intelligit speciem quam prius; unde quamvis concedam hanc "Omne animal fuit in archa Noe" huic aequivalere in consequendo /41.1a/ "Cuiusque speciei animalis, aliquod animal fuit in arca noe", non tamen in significando.
 
-Similiter in secundo quando arguitur quod...
+Similiter in secundo quando arguitur quod non sit mixtum (quod ego fateor, sed purum syncategorema distribuens terminum illum copulative sub disiunctione) assumitur unum falsum iam declaratum, videlicet hoc illud syncategorema pro speciebus distribuitur.
 
-# An aliquis terminus mentalis
+## Aliud erat dubium de conceptibus non-ultimatis vocum syncategorematicarum:
 
-[^1]: **Miranda:** *Corruptio pro* "sicut quidam Chaton nomine". This is a scribal corruption referring to the 14th-century English Franciscan logician Walter Chatton (c. 1285–1343), whose semantic positions on complexum significabile and propositional synonymy are criticized here by Buridan.
+Quomodo repraesentant tales voces et an significant aliqualiter.
+
+### Ad quod dubium respondeo:
+
+Conceptum non-ultimatum huius scripturae 'omnis' significare naturaliter proprie illam scripturam, et aliqualiter significare (sicut illa scriptura) ad placitum, nam conceptus non-ultimatus id quod per suum obiectum significatur eo modo quo significatur, significat.
+
+Huius autem ratio non est alia, nisi quia conceptus naturalis similitudo est obiecti, ideo apparens est quod obiectum et quae per obiectum significantur repraesentet. Et haec ratio non est nimium valida; ideo non miror Occam tenuisse conceptum non significare rem significatam per obiectum, nam ex eo sequitur eandem notitiam esse abstractivam et intuitivam, quod impossibile est secundum Occam, quamvis secundum multos ponentes species id sit verum.
+
+### Sed contra dicta arguitur:
+
+Si conceptus non-ultimatus huius scripturae 'omnis' significaret naturaliter proprie illam scripturam, sequeretur quod etiam scripturam similem significaret, nam ille conceptus naturalis est similitudo similium scripturarum.
+
+Sed hoc est falsum; ergo propositum.
+
+Minor probatur: nam cum huiusmodi scripturas naturaliter proprie significet, sequitur quod significabit atramentum illud quo scribitur illa scriptura (nam id atramentum illa scriptura est). Non sto in appellatione de ly 'significat' cum ergo naturaliter proprie significat illud, quod sequitur quod numquam cadet ab ea significatione. Sic si ex eo atramento scribatur hic terminus 'equus' illum significabit, quare significabit omnes scripturas et omnia corpora eadem ratione, nam ex quocumque corpore potest fieri terminus similis huic termino 'omnis'.
+
+### Pro solutione huius notandum est quod:
+
+Huius scripturae 'omnis' possumus tres conceptus non-ultimatos formare primum /41.1b/ significantem scripturam hanc 'omnis' singulariter et absolute. Et hic conceptus non proprie vocandus et non-ultimatus, quia non est distincta similitudo termini ut terminus, nam non connotat quod sit terminus nec aliquid, et quamvis non esset terminus supponeret pro illo.
+
+Alium: possumus formare singularem connotantem tamen quod his syllabis vel literis sit scriptus et caetera. Et sic est proprie conceptus non-ultimatus.
+
+Tertium: possumus producere communem illius scripturae et similium omnium connotantem quod sit sic vel sic lineatus, medianteque isto significare dicitur scriptura 'se' et omnes similes absolutus. Autem omnium talium scripturarum non est non-ultimatus, immo nec hic proprie non-ultimatus, quamvis dicere hunc vel illum non-ultimatum quaestio est de nomine, nam conceptus non-ultimatus potest fieri ultimatus et econtra, nam per hoc quod conceptus distincti obiectum sit terminus significativus fit conceptus non-ultimatus.
+
+Iam ego dico quod si loquamur de conceptu singulari, sive connotativo, sive absoluto huius vocis 'omnis' quod atramentum illud naturaliter proprie significat, et nullum aliud corpus. Ast vero si de conceptu communi connotativo talium vocum de quo videtur procedere argumentum sit sermo, respondeo concedendo quod talis conceptus tale atramentum, et omnia corpora, significat naturaliter proprie, nam cum communis sit conceptus abstrahaturque ab aliqua convenientia accidentali, videlicet quod syllabis talibus scribatur, convenientiaque haec omnibus corporibus competere potest; quare omnia significabit. Sed verum est quod non supponit pro his nisi quando fuerint illis syllabis delineati, nam connotatio deficit.
+
+### Ex his potest patere falsum esse quod nonnulli tenent: "simile suum simile, non naturaliter".
+
+Sed ad placitum improprie significare, sicut imago Herculis Herculem. Itaque haec scriptura 'homo' aliam sibi similem significat ad placitum improprie quam primum. Enim ex atramento quo hic terminus 'homo' scribitur, scribitur hic terminus 'equus'; non amplius ille terminus 'homo' significat illud atramentum, itaque scribens virtutem habet illam imponendi et deponendi.
+
+Sed hoc esse falsum: patet ex argumento iam facto, nam /41.2a/ hic terminus 'homo' synonymus est in significando seipsum et omnes sibi similes conceptui cui subordinatur, puta connotativo eadem significanti. Sed tale significat atramentum quodcumque sibi simile, et sibi non simile. Nam probatum est naturaliter proprie quodcumque significare; ergo propositum.
+
+Item si aliquod atramentum illa scriptura non significaret signetur illud sitque quod in calamo est, quod vocetur 'a', ac tunc sic arguo: "Haec est vera "'a' potest esse ly 'homo'". Pono illud signum ly 'non' ad faciendum illum terminum supponere singulariter, sed materialiter pro se et quocumque sibi simili; ergo subiectum et praedicatum supponent pro eodem. Quare ly 'homo' supponit pro 'a'; ergo significat 'a' quod est probandum. Cum ergo significet omne atramentum sive sit sibi simile sive dissimile, manifestum est significare non ad placitum modo illo dicto.
+
+### Dubitatur circa haec de subiecto huius "'Homo est animal' est propositio", utrum sit complexum vel incomplexum:
+
+Similiter de subiecto huius, "'Sortes et Plato' est copulatum", et similium ad quod dictum est in principio opinionis Gregorii, et etiam disputatum est utrum daretur propositio mentalis non-ultimata et reflexa 'de quibus' ibi.
+
+## Circa dubium vicesimum octavum duo sunt modi respondendi:
+
+Unus tenet terminum mentalem ultimatum posse supponere materialiter. Cuius rationes addit ad suadendum possent esse hae.
+
+### Si oppositum daretur, videlicet:
+
+Quod terminus mentalis non posset supponere materialiter, sequeretur quod ista particula 'ly' posita in hac propositione "Ly 'homo' est animal" nulli subordinaretur.
+
+Sed hoc est falsum; ergo propositum.
+
+Minor manifesta est: nam qua ratione dices illam particulam nulli actui subordinari quemcumque actum nulli subordinari. Etiam dices sequela probatur, nam si alicui actui subordinaretur is actus, ex natura sua faceret terminum cui additur materialiter supponere, quia synonymus est terminus mentalis cui vocalis subordinatur. Et vocalis tunc, si adderetur particula illa subiecto huius mentalis ultimatae, faceret supponere materialiter. Quare si alicui subordinatur particula ly 'habetur' propositum. /41.2b/
+
+Item eadem ratione hoc totum "ista dictio", demonstrando per pronomen illud ly 'homo', non subordinaretur alicui, quia tunc si adderetur notitiae hominis in hac propositione "Homo est animal", facere notitiam supponere materialiter pro se, quod est contra id quod defendunt.
+
+### Secundo sic arguitur:
+
+Sequitur etiam si terminus mentalis non posset materialiter supponere, quod aliqua notitia significaret aliquid quod est pro quo non posset in propositione accipi, et repugnantia non proveniret ex parte capacitatis intellectus nec ex parte impositionis. Hoc patet de notitia hominis quae significat se et non potest accipi pro se. Et hae sunt rationes apparentiores quae ad suadendum propositum adducunt, propter quas concedunt quemcumque terminum mentalem materialiter posse supponere.
+
+### Alia opinio tenet nullum terminum mentalem ultimatum posse materialiter supponere:
+
+Et responderetur ad priorem rationem, secundum multos hanc insequentes opinionem, concedendo illatum. Nec ideo sequitur nullum aliud syncategorema alicui subordinari, unde haec responsio vera esset, dicendo quod particula 'ly' non subordinatur uni actui, sed quod aggregatum ex particula 'ly' et illo termino 'homo' subordinatur conceptui non-ultimato aut aggregato ex conceptu non-ultimato et quodam alio signo significante materialiter seu significante tantum. Sicut hoc aggregatum talis terminus 'homo' vel dictio 'homo', nam idem est dicere "Ly 'homo' est animal" sicut aliqua talis dictio "Homo est animal". Itaque alicui inadequate subordinatur particula illa et non est improbabile ponere illam inadaequatam significationem quemadmodum in Gregorii opinione diximus de hominis.
+
+
+### Ad secundam rationem conceditur illud:
+
+Quamvis in vocalibus terminis non contingat dare illud, videlicet quod aliquis terminus absolute significet aliquid quod est et non accipi possit pro illo.
+
+Discrimine est inter haec, quia intellectus non potest accipere aliquam notitiam pro aliquo, nisi illud intelligat mediante tali notitia. Sed mediante notitia hominis intellectus non intelligit illam notitiam, sed homines. Ideo intellectus non potest accipere illam notitiam pro se, sed pro homine, et hac de causa dices conceptum non-ultimatum non posse sumi pro illo quod ad placitum significat, nec notitia reflexa /42.1a/ pro eo quod directa.
 
 <!--
 ## Apparatus Criticus Reference

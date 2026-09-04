@@ -3256,6 +3256,142 @@ Quamvis in vocalibus terminis non contingat dare illud, videlicet quod aliquis t
 
 Discrimine est inter haec, quia intellectus non potest accipere aliquam notitiam pro aliquo, nisi illud intelligat mediante tali notitia. Sed mediante notitia hominis intellectus non intelligit illam notitiam, sed homines. Ideo intellectus non potest accipere illam notitiam pro se, sed pro homine, et hac de causa dices conceptum non-ultimatum non posse sumi pro illo quod ad placitum significat, nec notitia reflexa /42.1a/ pro eo quod directa.
 
+### Ex hoc sumo rationem apparentem contra opinionem priorem, et arguitur sic:
+
+Intellectus solum accipit pro rebus notitias quas intelligit mediantibus illis. Sed notitia hominum non intelligit animam ipsammet, sed mediante una alia, quia illa notitia non significat seipsam naturaliter proprie; ergo intellectus solum accipiet notitiam illam pro hominibus et non pro se.
+
+Maior probatur, quia minor manifesta est: intellectus non potest accipere notitiam non-ultimatam huius termini 'homo' pro illo quod significat ad placitum, puta pro hominibus; ergo eadem ratione non poterit capere, in propositione, notitiam hominum pro se.
+
+Patet consequentia, quia non apparet ratio illa quare illam notitiam non-ultimatam non possit capere pro hominibus, nisi quia homines non seipso significat.
+
+Iam probatur antecedens, quia si oppositum verum esset sequitur mentalem ultimatam eandem veram et falsam esse, quod hactenus refugimus. Id sic deduco: capta propositione in qua solum est notitia non-ultimata illius vocis 'homo' et praedicatum notitia animalium copulaque de praesenti, tunc patet illam significare illam vocem 'homo esse animal', quare falsa est, et significat etiam hominem-esse-animal, nam pro hominibus etiam sumi potest; ergo impossibilis est et vera propositio illa.
+
+Si forte dicas quod intellectus non potest simul et semel capere illum terminum quod voce illa est hominibus. Sed quod uno tempore pro voce accipiet et alio pro homine.
+
+### Contra hoc arguitur:
+
+Sequitur ergo propositionem impossibilem posse esse veram, nam illa propositio assumpta est impossibilis si intellectus accipiat notitiam illam pro voce, quia significat illam vocem 'homo est animal'. Et postmodo, si intellectus assumat illam pro homine erit vera, quare propositum.
+
+### Forte respondebis quod non erit eadem propositio quando assumitur notitia illa pro homine et pro illa voce:
+
+Nam ad hoc quod in propositione illa assumatur notitia illa pro homine oportet quod addatur aliquod syncategorema taliter denotans.
+
+### Contra hoc arguo:
+
+Sequitur quod syncategorema aliquid dabitur denotans suppositionem personalem, quod tamen videtur falsum, nam non videtur qualiter significet, nec in voce aliquod tale inveniri posse certum est.
+
+### Praeterea sequitur quod:
+
+Nulla notitia posset /42.1b/ supponere materialiter quin addatur ei aliquod signum nec aliqua personaliter sine signo quod, est falsum, ut patet de ultimatis.
+
+### Ad hoc dices quod terminus pro illo quod naturaliter proprie significat potest sine signo accipi:
+
+Sed pro illo quod non naturaliter proprie significat non potest sine signo accipi, et sic quodammodo argumento satisfieret.
+
+### Solent, contra opinionem priorem, argumentari quod aequivocatio inveniatur in anima:
+
+Quia haec propositio "Homo est animal" significat hominem-esse-animal et ly 'homo esse animal', sed id nihil probat nam non est eadem propositio.
+
+### Item non dicimus hunc terminum 'homo' in significando se homines esse aequivocum:
+
+Nam ad aequivocationem oportet plura aeque immediate significare, aut ut rectius dicam, oportet quod subordinatur pluribus ultimatis totalibus non synonymis et caetera.
+
+### Et ex his videtur utramque opinionem probabilem fore.
+
+### Sed hac una ratione probabiliorem fore priorem mihi suadeo:
+
+Qua apparet mihi copulam hanc, in postquam notitiam hominum et animalium pro hominibus univit, non posse unire illa pro se nec pro aliquo alio, nam copulae natura haec est (uti in fundamentis huius opinionis prius monstratum est) ut quos semel unit terminos, semper uniat et non alios.
+
+Sed tantum inconveniens est eosdem terminos pro alia significatione unire sicut alios terminos unire; ergo si non potest diversos terminos ab his quos semel univit unire, nec poterit eosdem pro aliqua significatione coniungere.
+
+Unde si potuerit illa copula notitiam hominum et notitiam animalium pro seipsis unire, cur non coniungere eandem potest notitiam illius notitiae hominis et notitiam illius notitiae animalium, quae eandem significationem naturalem propriam habent quam aliae communem?
+
+Item, si iam ista copula, uniens conceptus non-ultimatos, pro significatione naturaliter coniungere, hoc erit per additionem notae materialitatis aut nihil addendo.
+
+Non secundum accidet, quoniam (ut probatum est) sequitur propositionem impossibilem ultimatam quandoque fore veram. Nec accidet primum, quia talis nota materialis quae praedicato et subiecto additur, cum vis non transeat ultra, efficietur pars extremi, ut probatum est dubio nono, quia virtus talis /42.2a/ non transit ultra. Ideoque illa copula non coniungit solum easdem notitias quae prius sed easdem et notam materialitatis, quod est impossibile.
+
+Relinquitur ergo non fore possibile ut quos, pro naturali [et] propria significatione, conceptus copula coniungit, pro communi coniungere, possit; et hoc sequor.
+
+# Qualiter recordamur significationis syncategorematicis
+
+## Circa dubium ultimum in quo inquirebatur quomodo recordamur significationis syncategorematis:
+
+Pro maiore declaratione arguitur syncategorema significat aliquid; ergo hactenus dicta nulla.
+
+Antecedens probatur: cum quis habuit syncategorema mentale, post corruptionem talis actus, recordari aut reminisci potest de significatione talis syncategorematis; ergo significatio talis dimisit species seu phantasmata quae moverent animam deinde ad producendum notitiam seu actum illum vel taliter repraesentantem.
+
+Sed nihil potest producere aut produxisse species nisi res sit, nam omnis species est simulacrum imagoque rei; ergo significatio syncategorematis aliquid est, quare syncategorema non aliqualiter sed aliquid significat.
+
+Minor: manifesta est consequentia principali, sed restat probare maiorem quae est una rationalis. Et probo primo quod illa rationalis sit bona consequentia, et deinde probabo antecedens. Sic: recordatio, seu reminiscentia, fit semper per abstractivam. Omnis, mediantibus speciebus derelictis a re illa cuius recordamur, producitur; ergo propositum.
+
+Item, Aristoteles, in libro *De Memoria et Reminiscentia* inquit: memoria praeteritorum et eorum spectorum simulacrorum [est], quae imaginationem in rerum absentia cient atque efficiunt, quae phantasmata (cum anima sine phantasmate non intelligere dixerimus) nuncupavimus.
+
+### Ad haec etiam accidet auctoritas omnium qui bene in libris *De Anima* et notitiam materia locuti sunt.
+
+### Iam probo antecedens illius rationalis videlicet:
+
+Quod recordaremur significationis syncategorematis, nam saepe recordor me hominem intellexisse universaliter. Similiter hominem fuisse animal.
+
+Hoc argumento vel simili arguebat Ferdinandus de Oliva, non vulgaris doctrinae vir, ex amicis unus. Pro cuius solutione, et eorum quae circa haec tangi possunt /42.2b/, suppono, ut argumentum melius procedat, quod non capimus memorari aut reminisci proprie; nam sic, teste Aristotele, non se extendunt hi termini nisi ad sensus interioris passionem. Sed sumo universaliter ut etiam intellectui tribuantur.
+
+### Iam circa haec possent aliquae solutiones imaginari:
+
+Quae quamvis de earum veritate dubitem tamen vix possent improbari.
+
+Primo imaginor, accedendo ad Occam opinionem species negantem, quae etsi non apparet conformis Aristoteli, tamen est probabilis quod quemadmodum notitiae producunt, habitus qui quidem postmodo, cum intellectu concurrunt ad productionem actus, quibus eadem intelligit intellectus qui intelligat prius mediantibus notitiis, qui habitus illos producebant, et hoc modo rerum recordatur, et abstractivas in absentia obiecti producit. Ita actus syncategorematici producunt habitus in intellectu ad productionem similium actuum, et sic intellectus recordatur significationis syncategorematis.
+
+Et pro huius solutionis defensione nota quod non est imaginaturus quod solus habitus syncategorematis cum intellectu sunt apti nati producere syncategoremata, quia hoc pacto posset dari actus syncategorematicus in intellectu sine syncategoremate, quod impossibile est. Sed habitus syncategorematicus cum habitibus notitiarum, quae produxerat actum illum producentem talem habitum, et intellectus, producunt syncategorema. Et ideo tunc producuntur, simul vel prius, categorematicae notitiae ab illis habitibus, quo fit ut nunquam intellectus significationis syncategorematis recordetur, quin rerum aliarum recordetur.
+
+### Secunda solutione sic imaginor:
+
+Accedendo opinionem communiorem, ponentem species quod intellectus non recordatur syncategorematis per species a suo subiecto derelictas, quia nullum est suum obiectum loquendo proprie, sed per species a notitia syncategorematica dimissas.
+
+Sed huic solutioni non accedo, nam illae species potius facient venire in recordationem illius notitiae quam suae significationis, hoc est potius facient intellectum producere notitiam reflexam abstractivam illius actus quam una notitia syncategorematica, nam /43.1a/ illae species imago sunt notitiae, et non significationis.
+
+Item videretur quod posset dari syncategorema sine categoremate, nam species illae non dependent nec productae fuerunt a notitiis categorematicis; ergo sine earum phantasmatis poterunt concurrere cum intellectu ad productionem syncategorematis.
+
+Ad hoc ultimum fortasse apparenter diceretur quod species notitiae syncategorematicae, quando concurrunt solae cum intellectu, non producunt nisi notitiam illius notitiae. Sed quando ipsae et species obiectorum notitiarum, a quibus syncategorema fuit productum, concurrunt tunc simul cum notitiis categorematicis talium obiectorum, producitur syncategorema.
+
+### Tertia:
+
+Imaginatio, quam credo veriorem, et significationis syncategorematicae, sic recordamur: intellectus primo, speciebus sive phantasmatis, rerum recordatur ipsarum atque notitiam producit, quibus mediantibus aliarum adhuc rerum reminiscitur. Sic intellectus, mediantibus notitiis rerum quibus recordatur syncategorematicis, reminisci quandoque contingit; nam teste Aristotele capitulo *De reminiscentia*, reminiscentia ex rerum natura nascitur, quia motus animae ita se habent ut alter alterum consequio trahat.
+
+Ut hic motus post illum fiat: nam si ex necessitate alter alterum sequatur, quomodo ignem sequitur calor, et illius memineris, et huius reminisci necesse erit; si contingenter, ut ex consuetudine, ut plurimum ex primo moveberis in secundum, et ex secundo in tertium.
+
+Cum enim reminisci volumus, mens ab aliquo primo excitata in alterum secundum consuetudinem fertur. Et iterum in alterum investigamusque, mediantes nunc a simili, nunc a contrario, nunc a distante, nunc a propinquo; et cum ad motum ei quam quaerimus ventum fuerit, tunc reminiscentia paritur. Exempli causa: ut ex lacte venimus in candorem, ex candore in aera, ex aere in humorem, ex humore in autumnum, ex autumno in brumam; et sic, hoc tempus fuisse quaesitum, ex lacte reminisceremur brumae.
+
+### Haud dissimili modo imaginor significationis syncategorematis reminiscentiam:
+
+Nam saepissime ex consuetudine, cum homines intelligo, statim animalia concipio /43.1b/; et post, ex his modis se habendi, nunc coniungendi, nunc dividendi, reminiscor. Quandoque autem ex una re unicae propositionis significationis reminiscentiam habeo, et quandoque multarum.
+
+Ex quo patet recordationem syncategorematis non fore memoriam, sed potius reminiscentiam. Memoria namque non indiget nisi conversatione animae ad speciem, quare unico actu paritur; sed reminiscentia pluribus, nam quodammodo (ut inquit Albertus Magnus) fit via syllogistica, a principio determinato per quod refertur in animam id quod in praeterito fuit in ipsa, et requirit adhuc, ut Aristoteli placet, rei oblivionem non totalem. Et per haec facile dissolves argumentum.
+
+### Posset fortasse quis dicere nos nunquam recordari significationis syncategorematis, nisi per notitiam reflexam syncategorematis:
+
+Quia qui recordatur se intellexisse hominem esse animal videtur se intelligere hominem esse animal et etiam habere reflexam notitiam.
+
+Sed hac solutione non esset dubio satisfactum, nam quamvis bene dicatur quod, quando recordor illius propositionis "Me intellexisse hominem esse animal", quod habeo notitiam reflexam, hoc tamen non petitur nisi quomodo recordor hominem esse animal, et non me sic intellexisse.
+
+Patet etiam ex his non posse bene responderi nos venire in notitiam significationis huius copulae 'est' cum venio in notitiam significationis huius propositionis "Homo est animal", nam hoc est quod inquiro, quia non potest homo venire in notitiam significationis totius propositionis quin significationis copulae prius notitiam syncategorematicam habeat.
+
+### Sed fortasse nunc incidet tibi dubium cuius hactenus recordati non sumus:
+
+Utrum signa universalia harum duarum "Omnis homo est animal", "Omnis leo est animal", sint synonyma.
+
+Ad hoc respondeo quod sic: nam si aliquid impediret synonymitatem, hoc esset quia ly 'omnis' in prima significat distributive in ordine ad homines; et in secunda significat distributive in ordine ad leones (ut nonnulli dicunt). Sed hoc non impedit eorum synonymitatem; quia quando dicunt quod ly 'omnis' significat universaliter in ordine ad homines, quaero vel [an] intelligunt quod sic significat universaliter in ordine ad homines quod homines includuntur in significatione /43.2a/ eius.
+
+Ita quod sic significare includatur in significatione de ly 'omnis' aut non: si ultimum illi sunt synonymi, nam significationes sunt synonymae, nihil enim nec aliqualiter includitur in una quod [non] includitur in significatione altera. Si primum dederis, sequitur ly 'omnis' significare homines, nam omnis notitia comparativa significat utrumque extremum, quomodo enim homines includuntur in sua significatione, nisi ly 'omnis' significet homines? Quare ergo dico quod signa illa sunt /43.2b/ synonyma, et significat utrumque universaliter et confusive. Quod autem unum significet in ordine ad istum vel illum, hoc non est pars suae significationis nec est concedendum, bene respondendo quod significat in ordine ad istum vel illum universaliter.
+
+Et sic patet quid ad hoc dubiolum est respondendum, et etiam quid ad omnia dubia in principio mota, per quae omnes difficultates huius materiae reor manifestas manere; nec praeterea circa haec egi, quia in his, *De Notitiis* disputare ad alium locum pertinet.
+
+## Registrum.
+
+A. B. C. D. E.
+
+## Omnes sunt quaterniones, praeter .E. qui est quinternio.
+
+Explicit liber de compositione propositionis mentalis, sive de actibus syncategorematicis Ferdinandi de Enzinas, Vallisoletanei, Lugduni impressus per Antonium du Ry anno domini M. D. xxviii. Penultima die mensis Maii.
+
 <!--
 ## Apparatus Criticus Reference
 * conj.    (coniectura)  : Text is unreadable; this is an educated guess.
@@ -3282,12 +3418,17 @@ Page 29.2a: consequentiam ] emend. cōſequetiam
 Page 29.2a: intellectum ] emend. intellectus 
 Page 30.1b: sumpto ] emend. ſunio
 Page 33.1b: modo ] emend. nō
-Page 35.1b: Miranda ] sic (corruptio pro Chaton)
 Page 36.1a: terminus ] emend. terminos
 Page 38.1b: namque ] emend. numquam
 Page 40.1a: atque ] emend. etqꝫ
 Page 40.1a: insulsae ] emend. insule
 Page 40.2b: talem ] corrupt. rileꝫ 
+Page 42.2a: de ] emend. in
+Page 42.2a: vir ] emend. vix
+Page 43.1a: notitiarum ] emend. notitiam
+Page 43.1a: notitiam ] emend. notitia
+Page 43.1a: excitata ] emend. excitat
+Page 43.1a: paritur ] emend. peritur
 -->
 
 

@@ -16,7 +16,7 @@ keywords: >-
   syncategoremata, logic, Lyon 1528, University of Paris, Collège Sainte-Barbe,
   Collège de Beauvais, medieval logic, renaissance logic, Robert Wauchop
 ---
-1.1a
+/1.1/
 
 Ferdinandi de Enzinas
 
@@ -25,6 +25,9 @@ Tractatus de compositione propositionis mentalis
 Actuum syncategorematicorum naturam manifestans et ad notitias introductorius.
 
 A magistro Roberto Wancop Scoto noviter recognitus, atque in suam integritatem restitutus.
+
+/2.1/
+[2.1 - duplicatum, omissum]
 
 /3.1a/
 
@@ -44,9 +47,9 @@ Ex nostra palaestra Bellovaca apud Parisios quinto Idus Iunii.
 
 Quia intendimus de syncategorematis quae alii significativos terminos, alii orationum compagines fere, aut omnes actus syncategorematicos vocant, nonnulla tradere idque a questione de compositione propositionis mentalis dependet.
 
-## Quaeritur utrum propositio mentalis sit composita ex pluribus partialibus notitiis,
+## Quaeritur utrum propositio mentalis sit composita ex pluribus partialibus notitiis
 
-quarum una sit subiectum et alia praedicatum, et alia copula.
+Quarum una sit subiectum et alia praedicatum, et alia copula.
 
 Et arguitur pars affirmativa, auctoritate Aristotelis in Secundo Perihermeneias, sentientis omnem affirmationem vel negationem ex nomine vel nomine infinito et verbo esse compositam.
 
@@ -58,33 +61,33 @@ Bene sequitur isti quattuor termini "Omnis albedo est qualitas", sunt ista propo
 
 Simili modo deducetis veritatem huius "Omnis homo est substantia" et similiter eiusdem impossibilitatem.
 
-### Confirmatur nulla est ratio, nec experientia ad multiplicandum huiusmodi actus,
+### Confirmatur nulla est ratio, nec experientia ad multiplicandum huiusmodi actus
 
-nec aliqua auctoritas fidedigna ad ponendum apprehensivam mentalem distinctam a iudicativa. Sed indicativa est simplex qualitas, ut omnes fatentur; ergo et apprehensiva. Praeterea ad multiplicandum hic syncategoremata in propositione nulla est ratio; ergo nullum est ponendum. At si nullum ponatur syncategorema, non erit composita propositio mentalis. Non est ergo propositio mentalis composita, sed simplex.
+Nec aliqua auctoritas fidedigna ad ponendum apprehensivam mentalem distinctam a iudicativa. Sed indicativa est simplex qualitas, ut omnes fatentur; ergo et apprehensiva. Praeterea ad multiplicandum hic syncategoremata in propositione nulla est ratio; ergo nullum est ponendum. At si nullum ponatur syncategorema, non erit composita propositio mentalis. Non est ergo propositio mentalis composita, sed simplex.
 
 # Opinio Gregorii
 
-## Circa istam questionem duas solum invenio probabiles opiniones,
+## Circa istam questionem duas solum invenio probabiles opiniones
 
-quorum prima est Gregorii Ariminensis, tenentis in prologo sententiarum, articulo tertio, questionis primae:
+Quorum prima est Gregorii Ariminensis, tenentis in prologo sententiarum, articulo tertio, questionis primae:
 
 > Nullam propositionem mentalem componi ex pluribus partialibus notitiis, sed omnem talem esse simplicem qualitatem.
 
 Quare secundum eum nullus actus syncategorematicus potest reperiri in mente. Alia est opinio communis quae oppositum huius defendit.
 
-### Dixi hic tantum duas probabiles opiniones inveniri,
+### Dixi hic tantum duas probabiles opiniones inveniri
 
-quoniam opinionem de Aliaco, defendentis propositionem mentalem categoricam esse simplicem qualitatem, et propositionem mentalem hypotheticam esse composita ex pluribus partialibus notitiis speciem distinctis, non probo, quoniam nulla ratione aut auctoritate fulciri potest, ut clare videndo rationem quam Petrus de Aliaco, ad ipsum defendendum, adducit. Nam ipse credit propositionem mentalem categoricam esse simplicem qualitatem argumentis.
+Quoniam opinionem de Aliaco, defendentis propositionem mentalem categoricam esse simplicem qualitatem, et propositionem mentalem hypotheticam esse composita ex pluribus partialibus notitiis speciem distinctis, non probo, quoniam nulla ratione aut auctoritate fulciri potest, ut clare videndo rationem quam Petrus de Aliaco, ad ipsum defendendum, adducit. Nam ipse credit propositionem mentalem categoricam esse simplicem qualitatem argumentis.
 
 Gregorii iam factis ad partem negativam questionis victus, et propositionem hypotheticam asserit esse compositam, ne detur aliqua qualitas simplex repraesentans contradictorio modo, quod inconveniens reputat de significatione totali, quod inconveniens sic probat, capta hac propositione "Sortis currit" et "Sortis non currit", ista propositio subordinatur uni simplici qualitati, et contradictorio modo repraesentat /4.1a/, quoniam illa qualitas cui subordinabitur repraesentabit Sortem-currere et etiam Sortem-non-currere, quia tantum significat sicut illa vocalis et hoc de significatione totali, quia talis qualitas non habet partes diversarum rationum; ergo aliqua qualitas contradictorio modo significat, quod Petrus de Aliaco magnum esse inconveniens iudicat. Sed in idem inconveniens ipse incidit, quoniam concedit aliquem posse assentire duabus contradictoriis unico assensu, qui quidem assensus, secundum omnes, est simplex qualitas et aliqua simplex qualitas contradictorio modo de significatione totali significat.
 
 ### Item praeterea sic potest probari
 
-quoniam propositio mentalis, cui haec propositio categorica "Sortis est et non est" subordinatur est simplex qualitas secundum eum, et contradictorio modo significat, quoniam significat Sortem-esse et Sortem-non-esse; ergo aliqua qualitas contradictorio modo significat.
+Quoniam propositio mentalis, cui haec propositio categorica "Sortis est et non est" subordinatur est simplex qualitas secundum eum, et contradictorio modo significat, quoniam significat Sortem-esse et Sortem-non-esse; ergo aliqua qualitas contradictorio modo significat.
 
-### Arguitur etiam contra ipsum, probando ipsum non bene inspexisse rationes Gregorii,
+### Arguitur etiam contra ipsum, probando ipsum non bene inspexisse rationes Gregorii
 
-quoniam si propter rationem primam quam adduximus ad probandum partem negativam, defendit propositionem categoricam esse simplicem qualitatem. Eadem ratione probabo propositionem hypotheticam non componi ex pluribus propositionibus quod sic deduco, quoniam si componeretur, sequitur eandem propositionem esse necessariam et impossibilem; ergo et opinio.
+Quoniam si propter rationem primam quam adduximus ad probandum partem negativam, defendit propositionem categoricam esse simplicem qualitatem. Eadem ratione probabo propositionem hypotheticam non componi ex pluribus propositionibus quod sic deduco, quoniam si componeretur, sequitur eandem propositionem esse necessariam et impossibilem; ergo et opinio.
 
 Sequela probatur: Ista propositio mentalis "Si homo currit, homo movetur" est necessaria; et eadem est impossibilis si inveniatur ly 'si' connectens has duas propositiones "homo currit", "homo movetur" (quas tenet esse simplices qualitates, quia categoricae sunt); ergo eadem propositio est impossibilis et necessaria.
 
@@ -94,11 +97,11 @@ Consequentia est syllogismus expositorius et probatur minor, quia maior manifest
 
 ## Redeundo ergo ad opinionem Gregorii
 
-quam nonnulli divo Thomae attribuunt, notandum est ipsam sic esse intelligendam: Audita ista propositione "homo est animal", intellectus primo format conceptum omnium hominum, et deinde conceptum omnium animalium, quibus conceptibus in anima existentibus, intellectus producit unam simplicem qualitatem repraesentantem hominem-esse-animal, quae quidem simplex qualitas dependet in fieri et conservari a notitiis illis categorematicis.
+Quam nonnulli divo Thomae attribuunt, notandum est ipsam sic esse intelligendam: Audita ista propositione "homo est animal", intellectus primo format conceptum omnium hominum, et deinde conceptum omnium animalium, quibus conceptibus in anima existentibus, intellectus producit unam simplicem qualitatem repraesentantem hominem-esse-animal, quae quidem simplex qualitas dependet in fieri et conservari a notitiis illis categorematicis.
 
 Et hoc modo intelligenda est Gregorii opinio, et non quemadmodum quidam dicit quod adveniente notitia hominum, si deinde adveniat notitia animalium, corrumpitur notitia hominum praecedens, quia inter illas duas notitias non invenitur aliqua contrarietas; ergo adveniente una notitia non corrumpitur alis.
 
-### Et per hoc facile erit respondere ad obiectionem quam Petrus de Aliaco contra Gregorium obiicit.
+### Et per hoc facile erit respondere ad obiectionem quam Petrus de Aliaco contra Gregorium obiicit
 
 Concedo namque fore possibilem unam qualitatem simplicem significare contradictorio modo, hoc est, tamtum sicut duae contradictoriae de significatione totali, hoc est, de significatione totali quae ratione unius partis non provenit, quia non habet partes differentes ratione; quando ipsa illud nam adaequate significat, quemadmodum ipse de Aliaco concedere habet aliquam simplicem qualitatem significare hominem atque etiam asinos, et hoc non significando aliud ens de significatione totali. Hoc patet de notitia cui subordinatur hoc complexum "homo et asinus", qui per opinionem\*, simplex est. /4.2a/
 
@@ -106,11 +109,11 @@ Concedo namque fore possibilem unam qualitatem simplicem significare contradicto
 
 Ad quod respondet Gregorius postquam posuerat divisionem propositionis in mentalem ultimatam et non-ultimatam. Omnem propositionem cuiuscumque generis non esse compositam ex pluribus notitiis partialibus.
 
-## Contra hanc opinionem sic arguitur:
+## Contra hanc opinionem sic arguitur
 
 Audita hac vocali "Homo est animal", potest prius formari conceptus non-ultimatus huius vocis 'homo', et deinde conceptus non-ultimatus huius vocis 'est', et conceptus huius vocis 'animal'; quibus existentibus in mente non-ultimata, componitur terminus significans ad placitum hominem-esse-animal; quia conceptus illius vocis 'homo' significat homines ad placitum; et conceptus illius termini 'animal' omnia animalia; et conceptus de ly 'est' aliqualiter unitive. Quare illi tres conceptus tantum significant in mente quantum significant in voce, sed in voce significant hominem-esse-animal; ergo in mente idem significabunt, et per consequens ille ternarius conceptuum non-ultimatorum significabit hominem-esse-animal, et erit propositio.
 
-### Nec valet ad hoc dicere conceptus non-ultimatos non significare ad placitum ea, quae per voces et scripturas, quarum sunt conceptus, significantur,
+### Nec valet ad hoc dicere conceptus non-ultimatos non significare ad placitum ea, quae per voces et scripturas, quarum sunt conceptus, significantur
 
 quia sic nulla esset propositio mentalis non-ultimata: nec simplex, nec composita. Quod sic patet: vel talis propositio significat propositionaliter proprie vel ad placitum.
 
@@ -119,42 +122,42 @@ quia sic nulla esset propositio mentalis non-ultimata: nec simplex, nec composit
 
 Relinquitur ergo iudicio meo, probatum aliquam propositionem mentalem non-ultimatam quandoque esse simplicem. Verbi gratia, si ly 'a' in voce imponatur ad significandum hominem-esse-animal, conceptus /4.2b/ non-ultimatus illius vocis 'a' est propositio non-ultimata, et est simplex qualitas. Nec valet adhuc negare propositionis vocalis, cuius partes formaliter significant mentalem non-ultimatam quandoque esse simplicem qualitatem. Sicut quidam vir docens negat, quia istis tribus scripturis existentibus "Homo est animal", possum formare conceptum illarum trium scripturarum copulatim et nullius earum, quemadmodum possum habere notitiam visivam centum hominum et nullius eorum, et cumuli granorum tritici et nullius grani. Tunc ille conceptus non-ultimatus erit simplex qualitas terminata ad illud aggregatum, et est propositio non-ultimata propositionis vocalis, habentis plures partes; ergo propositum.
 
-## Ista, quae de hoc dubio, dicta sunt secundum opinionem communem etiam sunt vera.
+## Ista, quae de hoc dubio, dicta sunt secundum opinionem communem etiam sunt vera
 
 Et ideo, ut melius intelligatur, arguitur sic contra hoc: Id quod dictum est quod aliqua propositio mentalis non-ultimata ex pluribus partialibus notitiis est composita, itaque ut probatum est, si aggregatum ex tribus conceptibus non-ultimatis quibus subordinantur istae tres voces "Homo est animal" esset una propositio, sequeretur quod daretur aliquis terminus qui esset signum ponibile in propositione, et tamen per solam depositionem non erit signum ponibile in propositione.
 
 Hoc patet de illis conceptibus non-ultimatis "Homo est animal", qui nunc faciunt unum terminum, quia unam propositionem mentalem non-ultimatam, et sic aggregatum ex illis erit signum ponibile in propositione; et tamen si illa copula 'est' deponatur a sua significatione in voce, ita quod non aliqualiter significet, iam illud aggregatum non erit signum ponibile in propositione, postquam enim illud aggregatum non est terminus complexus nec incomplexus; sed sunt tres conceptus non se habentes, sicut determinatio et determinabile; nec sunt coniuncti aliquo modo, sicut nec 'buf:baf' non faciunt unum terminum.
 
-## Ad hoc argumentum respondetur concedendo quod infertur nec est inconveniens;
+## Ad hoc argumentum respondetur concedendo quod infertur nec est inconveniens
 
-ut patet de hoc complexo "Homo et asinus", quod quidem est terminus; tamen si deponeretur a sua significatione /5.1a/ ly 'et', desineret esse terminus; intelligo defendendum communem modum, qui tenet hoc aggregatum homo-asinus, non esse terminum.
+Ut patet de hoc complexo "Homo et asinus", quod quidem est terminus; tamen si deponeretur a sua significatione /5.1a/ ly 'et', desineret esse terminus; intelligo defendendum communem modum, qui tenet hoc aggregatum homo-asinus, non esse terminum.
 
-## Et per hoc potest solvi unum argumentum commune de subiecto huius propositionis "Homo est animal" est propositio,
+## Et per hoc potest solvi unum argumentum commune de subiecto huius propositionis "Homo est animal" est propositio
 
-de cuius subiecto potest defendi recte quod est terminus complexus secundum significationem quam ibi habet; et etiam quod est terminus incomplexus. Nam potest dici quod subordinatur, vel unico conceptui incomplexo non-ultimato repraesentanti istam propositionem "Homo est animal" et omnes propositiones sibi similes; vel tribus conceptibus non-ultimatis illarum trium vocum, unam propositionem mentalem non-ultimatam, componentibus qui quidem significabunt eodem modo sicut ista "Homo est animal". Atque, hoc censeo esse dicendum, circa subiectum propositionis, dare relicta opinione multorum, et per haec quae dicta sunt, facile respondebis ad id quod solet peti circa subiectum propositionis petitae.
+De cuius subiecto potest defendi recte quod est terminus complexus secundum significationem quam ibi habet; et etiam quod est terminus incomplexus. Nam potest dici quod subordinatur, vel unico conceptui incomplexo non-ultimato repraesentanti istam propositionem "Homo est animal" et omnes propositiones sibi similes; vel tribus conceptibus non-ultimatis illarum trium vocum, unam propositionem mentalem non-ultimatam, componentibus qui quidem significabunt eodem modo sicut ista "Homo est animal". Atque, hoc censeo esse dicendum, circa subiectum propositionis, dare relicta opinione multorum, et per haec quae dicta sunt, facile respondebis ad id quod solet peti circa subiectum propositionis petitae.
 
 Quaerunt enim utrum ly 'est' in subiecto huius "'Homo est animal' est propositio" capiatur significative vel non significative, puta materialiter tantum pro illa voce?
 
 - Si ultimum: Sequitur quod tantum valebit illa propositio, sicut hoc "'Homo buf:animal' est propositio".
 - Si primum: Sequitur totum subiectum significative capi, et sic propositio secundum quod propositio est extremum.
 
-## Ad hoc aliqui darent secundum, videlicet, quod ly \'est\' non capitur significative,
+## Ad hoc aliqui darent secundum, videlicet, quod ly \'est\' non capitur significative
 
-et tunc ad illatum illi negarent quod idem sit dicere: "'Homo est animal' est propositio", et "'Homo buf:animal' est propositio". Nam quamvis ly 'homo', quod est pars huius termini 'homo' in hac propositione "'Homo' est nomen" capiatur materialiter, non propterea idem est dicere "'Homo' est nomen" et "'Buf:mo' est nomen". Et si dicas: Si illi tres termini, puta 'homo', 'est', 'animal', non significative capiendo ly 'est' faciunt unum terminum; ergo isti tres 'homo', 'lapis', 'equus'.
+Et tunc ad illatum illi negarent quod idem sit dicere: "'Homo est animal' est propositio", et "'Homo buf:animal' est propositio". Nam quamvis ly 'homo', quod est pars huius termini 'homo' in hac propositione "'Homo' est nomen" capiatur materialiter, non propterea idem est dicere "'Homo' est nomen" et "'Buf:mo' est nomen". Et si dicas: Si illi tres termini, puta 'homo', 'est', 'animal', non significative capiendo ly 'est' faciunt unum terminum; ergo isti tres 'homo', 'lapis', 'equus'.
 
-## Ad hoc nonnulli concedunt illarum, si illi tres termini materialiter capiuntur;
+## Ad hoc nonnulli concedunt illarum, si illi tres termini materialiter capiuntur
 
-sed hoc non apparet verum, nam eo modo omnes termini mundi constituerent /5.1b/ unum terminum, quod fortasse capiendo terminum large faterentur.
+Sed hoc non apparet verum, nam eo modo omnes termini mundi constituerent /5.1b/ unum terminum, quod fortasse capiendo terminum large faterentur.
 
-## Alli dicunt negando quod illi tres termini facerent unum terminum,
+## Alli dicunt negando quod illi tres termini facerent unum terminum
 
-quanvis isti tres termini 'homo', 'est, 'animal' unum componunt. Nam quamvis ly 'est' secundum significationem quam ibi habeat, non exerceat ibi suam vim unitivam, tamen in potentia propinqua eam exercet, et hoc inicit\* ad hoc quod aliqualis sit complexio inter tales terminos, saltem ad hoc quod unam componant significationem.
+Quanvis isti tres termini 'homo', 'est, 'animal' unum componunt. Nam quamvis ly 'est' secundum significationem quam ibi habeat, non exerceat ibi suam vim unitivam, tamen in potentia propinqua eam exercet, et hoc inicit\* ad hoc quod aliqualis sit complexio inter tales terminos, saltem ad hoc quod unam componant significationem.
 
-### Solutio est aliorum qui dicunt, et fortasse rectius, quod ly \'est\' capitur significative in subiecto illius propositionis.
+### Solutio est aliorum qui dicunt, et fortasse rectius, quod ly \'est\' capitur significative in subiecto illius propositionis
 
 Nec propterea sequitur subiectum illius propositionis esse propositionem, nam aiunt partes significativae sumi, et totum materialiter, quemadmodum contingit de subiecto harum "Sortes et Plato est copulatum", "Omnis homo est totum in quantitate" et cetera.
 
-## Ex dictis igitur patet subiectum illius propositionis esse terminum complexum.
+## Ex dictis igitur patet subiectum illius propositionis esse terminum complexum
 
 Nam subiectum illud est propositio; ergo est terminus complexus. Nos tamen diximus secundum significationem quam ibi habet, et complexe et incomplexe subiectum datae propositionis ibi sumi posse.
 
@@ -164,11 +167,11 @@ Et videtur quod sic, quia dabilis aliqua notitia reflexa, vel ergo intellectus i
 
 Secundum ergo debet dari primum parte negativam. Arguo sic: Non potest dari actus syncategorematicus reflexus; ergo non potest dari copula reflexa, et sic sequitur quod non poterit dari propositio mentalis reflexa. Antecedens probatur: Illa notitia reflexa significat aliquid postquam significat directam notitiam ad quam terminatur; ergo non est syncategorema.
 
-## Ad hoc argumentum respondent quidam concedendo posse dari propositionem mentalem non-ultimatam eo modo quo dictum est, non autem propositionem reflexam.
+## Ad hoc argumentum respondent quidam concedendo posse dari propositionem mentalem non-ultimatam eo modo quo dictum est, non autem propositionem reflexam
 
 Et ratio huius est quia ex notitia reflexa hominum et reflexa animalium, /5.2a/ et reflexa de ly \'est\' non potest componi propositio mentalis aliqua. Quia reflexa de ly 'est' non potest unire, cum sit notitia reflexa cuiusdam verae qualitatis, videlicet actus syncategorematici directi.
 
-## Sed hoc repugnat dictis prius.
+## Sed hoc repugnat dictis prius
 
 Quia si notitia non-ultimata istius vocis aliqualiter significat et potest unire suum obiectum, etiam notitia reflexa istius qualitatis mentalis significabit aliqualiter et poterit unire suum obiectum, etiam notitia reflexa istius qualitatis mentalis est significabit aliqualiter, et poterit unire.
 
@@ -176,13 +179,13 @@ Quare propter hoc argumentum concedo quod sicut datur propositio mentalis non-ul
 
 Non curo hic inquirere quomodo notitia reflexa significat rem significatam per directam, quia hoc ex terminis patet.
 
-## Iam contra hanc Gregorii opinionem primo sic arguo argumento communem:
+## Iam contra hanc Gregorii opinionem primo sic arguo argumento communem
 
 Sequeretur, si dicta essent vera, quod ly \'omnis\' non distribueret nec confunderet. Consequens est falsum; ergo et antecedens. Sequela probatur: ly \'omnis\' non significat aliquid nec aliqualiter; ergo nec distribuit nec confundit.
 
 Probatur antecedens, quoniam significat aliqualiter distributive, hoc est mediate alio termino cui subordinatur. Sed nulli termino mentali subordinatur ly \'omnis\', ut ex opinione compertum est; sequitur ergo quod ly \'omnis\' non significat.
 
-## Confirmatur: sequitur ex opinione posse dari terminos aequivocos.
+## Confirmatur: sequitur ex opinione posse dari terminos aequivocos
 
 Consequens est falsum; ergo et antecedens. Sequela probatur: Potest dari unus terminus absolutus incomplexus, significans canis latrabiles, piscem marinum, et sidus caeleste; ergo datur conceptus aequivocus.
 
@@ -190,7 +193,9 @@ Consequentia videtur nota, quoniam /5.2b/ non aliter videtur posse probari aliqu
 
 Probatur antecedens: qualitas simplex cui subordinatur istud copulatum "canis latrabilis et sidus caeleste et piscis marinus" est terminus incomplexus, et etiam absolutus, quia capio partes illius copulati absolute, et significat tantum adaequate, sicut iste terminus 'canis'; ergo significat sidus caeleste, canes latrabiles, et piscem marinum.
 
-## Subconfirmatur. Sequitur regulam istam communem nominalium esse falsam, videlicet:
+## Subconfirmatur. Sequitur regulam istam communem nominalium esse falsam
+
+Videlicet:
 
 > A quacumque convenientia essentiali reperta inter aliqua entia est abstrahibilis unus conceptus absolutus repraesentans omnia illa quae in tali convenientia possunt convenire, et solum illa.
 
@@ -200,15 +205,15 @@ Sequela probatur: Potest dari aliquis terminus incomplexus et absolutus, repraes
 
 Consequentia est manifesta, et probatur antecedens: Qualitas simplex cui subordinatur istud disiunctum 'homo vel lapis' seu istud copulatum 'homo et lapis' repraesentat solum homines et lapides, non repraesentando equos, ergo propositum.
 
-## Ad argumentum solet responderi communiter negando sequelam, et ad probationem negatur antecedens.
+## Ad argumentum solet responderi communiter negando sequelam, et ad probationem negatur antecedens
 
 Et ad probationem antecedentis dicitur non esse inconveniens dare aliquem terminum syncategorematicum qui nulli termino subordinetur in mente. Sed id inconveniens esset de terminis syncategorematicis. Et si quaeratur: cur igitur ly 'omnis' dicitur significare distributive et esse syncategorema?
 
-## Ad hoc respondetur: Ideo ipsum dici esse syncategorema,
+## Ad hoc respondetur: Ideo ipsum dici esse syncategorema
 
-quia non significat aliquid neque aliqua; sed ratione eius aliqualiter significatur per propositionem qualiter non significaretur si ipsum non poneretur, ut capta ea propositione /6.1a/ "Homo est animal". Per istam propositionem significatur hominem-esse-animal, et adveniente isto signo 'omnis' significatur omnem-hominem-esse-animal. Et sic facit ipsum significare taliter qualiter non significaretur per illam propositionem, ipso non adveniente; et ideo dicitur significare distributive, quia ipsum facit et denotat terminum cui additur accipi pro suis significatis copulative, qualiter non denotaretur in tali propositione nisi ipsum adderetur.
+Quia non significat aliquid neque aliqua; sed ratione eius aliqualiter significatur per propositionem qualiter non significaretur si ipsum non poneretur, ut capta ea propositione /6.1a/ "Homo est animal". Per istam propositionem significatur hominem-esse-animal, et adveniente isto signo 'omnis' significatur omnem-hominem-esse-animal. Et sic facit ipsum significare taliter qualiter non significaretur per illam propositionem, ipso non adveniente; et ideo dicitur significare distributive, quia ipsum facit et denotat terminum cui additur accipi pro suis significatis copulative, qualiter non denotaretur in tali propositione nisi ipsum adderetur.
 
-### Contra hanc solutionem arguitur:
+### Contra hanc solutionem arguitur
 
 Nullus terminus significat aliqualiter nec aliquid nisi intellectus taliter vel tale concipiat; sed intellectus non intelligitur distributive; ergo ille terminus 'omnis' in voce non significat distributive. Consequentia est nota et maior notior ex definitione de ly 'significare', quae dicit quod significare est repraesentare seu dare intelligere.
 
@@ -216,7 +221,7 @@ Sed minor probatur: Intellectus non habet aliquam notitiam significantem distrib
 
 Antecedens probatur ex dictis, quoniam dictum est in mente, non inveniri actum taliter significantem qualiter ly 'omnis'; si enim inveniretur, subordinaretur illi, quod est contra rationem.
 
-### Ad hoc argumentum respondetur negando minorem.
+### Ad hoc argumentum respondetur negando minorem
 
 Et ad probationes distinguo quod in mente non inveniatur aliquis terminus significans distributive. Si enim intelligatur quod in mente non invenitur aliquis terminus significans adaequate distributive, id conceditur. Si autem intelligatur quod non inveniatur terminus significans inadaequate distributive, id negatur. Immo qualitas simplex, quae est propositio repraesentans omnem-hominem-esse-animal significat distributive inadaequate.
 
@@ -226,11 +231,11 @@ Dico iam quod, ad hoc quod intellectus intelligat distributive, sufficit quod ha
 
 Si enim tales qualitates dicerentur termini complexi, facile /6.1b/ solveretur confirmatio. Ad hoc tamen dubium respondet Petrus de Aliaco per aliquas propositiones, quarum aliquas hic appono.
 
-### Prima propositio: Non dicitur terminus mentalis complexus quia aequivaleat in significando alicui termino habenti plures partes diversarum rationum diversimode significantes;
+### Prima propositio: Non dicitur terminus mentalis complexus quia aequivaleat in significando alicui termino habenti plures partes diversarum rationum diversimode significantes
 
-quia si sic, sequeretur notitiam non fore complexam naturaliter, sed solum ad placitum. Quod sic patet, quia si qualitas cui subordinatur ista propositio "Homo est animal" sit complexa quia respondere huic vocali "Homo est animal", sequitur quod si illa vocalis deponatur a sua significationem, et ly 'a' imponatur ad significandum tantum quantum "Homo est animal", iam illa notitia diceretur incomplexa, postquam non aequivalet in significando propositioni vocali compositae.
+Quia si sic, sequeretur notitiam non fore complexam naturaliter, sed solum ad placitum. Quod sic patet, quia si qualitas cui subordinatur ista propositio "Homo est animal" sit complexa quia respondere huic vocali "Homo est animal", sequitur quod si illa vocalis deponatur a sua significationem, et ly 'a' imponatur ad significandum tantum quantum "Homo est animal", iam illa notitia diceretur incomplexa, postquam non aequivalet in significando propositioni vocali compositae.
 
-### Secunda propositio. Propositio mentalis ideo dicitur composita, quia aequivalet in significando propositioni habenti plures partes. 
+### Secunda propositio. Propositio mentalis ideo dicitur composita, quia aequivalet in significando propositioni habenti plures partes 
 
 Non quidem quod illae sunt partes propriae talis propositionis, sed dicentur improprie in significatione. Sed haec propositio apparet falsa, quia qualitas simplex repraesentans hominem-esse-animal vel dicetur composita seu complexa, quia aequivalet in significando propositioni vocali habenti plures partes, et hoc non, ut apparet ex praecedente propositione. Vel quia aequivalet in significando uni propositioni habenti plures partes diversarum rationum, et hoc non, quia in anima non possunt tales termini diversarum rationum componere propositionem postquam deficit syncategorema. Neque aequivalet illis terminis: quia propositio non aequivalet non-propositioni.
 
@@ -240,13 +245,13 @@ Nihilominus tamen respondeo negando sequelam, et ad probationem dico quod concep
 
 Sed nego quod sit synonymus cum illo termino 'canis', quia ille conceptus significat aliqualiter qualiter 'ly', et non autem ille terminus \'canis\'. Similiter ille terminus significat omnia illa coniunctim, non autem ille terminus canis.
 
-### Et ad confirmationem responderetur regulam illam communem nominalium intelligi debere de conceptu absoluto et incompleto,
+### Et ad confirmationem responderetur regulam illam communem nominalium intelligi debere de conceptu absoluto et incompleto
 
-qui non dependet in fieri et conservari ab aliis terminis. Modo dico quod notitia cui hoc totum "Homo et lapis" subordinatur (et si qualitas sit simplex), dependet tamen in fieri et conservari a notitia hominum et notitia lapidum.
+Qui non dependet in fieri et conservari ab aliis terminis. Modo dico quod notitia cui hoc totum "Homo et lapis" subordinatur (et si qualitas sit simplex), dependet tamen in fieri et conservari a notitia hominum et notitia lapidum.
 
 Hanc sortitionem nota pro intellectione relative. Sed quia apparet facile posse sustentari terminos complexos reperiri in mente, ideo.
 
-### Respondeo ad dubium prius motum:
+### Respondeo ad dubium prius motum
 
 Qualitates nonnullas simplices esse complexas, et id a posteriori cognoscemus per hoc quod possunt aequivalere termino vocali vel scripto complexo. Illum autem terminum voco complexum vocalem qui habet plures partes diversimode significantes iuxta significationem totius, vel potest aequivalere secundum talem significationem. Vel aliter definias si placet.
 
@@ -256,87 +261,87 @@ Per aequivalere intelligo correspondentiam in significando seu synonymitatem in 
 
 Nec contra hoc procedit argumentum quo Petrus de Aliaco impugnat illam propositionem, quia nos non dicimus terminum mentalem dici complexum, quia respondet significando termino vocali complexo, sed quia potest correspondere.
 
-### Alii definiunt aliter terminum complexum mentalem.
+### Alii definiunt aliter terminum complexum mentalem
 
 Unde dicunt omnem notitiam significantem aliqualiter qualiter per conceptum quem praesupponit, ut notitia est, est terminus complexus.
 
 Dicitur notanter, "ut notitia est" quoniam nulla notitia praesupponit aliam notitiam, ut notitia est, nisi talis complexo modo repraesentet, quoniam bene stat aliquam notitiam /6.2b/ praesupponere aliam, ut qualitas est esto quod sit incomplexa, ut notitia intellectiva praesupponit sensitivam, sed non praesupponit eam, ut notitia est. Quoniam esto quod non esset notitia adhuc praesupponeret eam. Sed solum praesupponit eam, ut est qualitas, et etiam propter ordinem potentiarum; aut si vis dic proportionaliter ad ea quae Gregorius dicit de mentali, quod suo modo potest vocari composita; aut quia potest aequivalere in significando pluribus vocibus vel scripturis, propositionem vocalem vel scriptam suo modo componentibus; vel quia compositionem vel divisionem significat in entibus velut affirmativa quae compositionem significat, et negativa divisionem.
 
-### Secundo principaliter arguitur:
+### Secundo principaliter arguitur
 
 Experimur quod audita ista propositione "Homo est animal", primo formamus notitias hominum, deinde notitiam de ly 'est'; et notitias omnium animalium atque sicut successive profertur, ita successive concipimus; igitur propositio mentalis est composita.
 
-### Ad hoc respondeo nos concipere successive subiectum et praedicatum et copulam conceptu non-ultimato ut patet experientia.
+### Ad hoc respondeo nos concipere successive subiectum et praedicatum et copulam conceptu non-ultimato ut patet experientia
 
 Sed non experimur quod illi copulae 'est' correspondeat actus significans unitive tantum, aut significans propositionaliter.
 
-### Contra hanc solutionem arguitur: talis simplex qualitas est propositio categorica;
+### Contra hanc solutionem arguitur: talis simplex qualitas est propositio categorica
 
-ergo habet subiectum, praedicatum et copulam tanquam partes principales sui. Hoc est falsum quum sit simplex qualitas ergo opinio.
+Ergo habet subiectum, praedicatum et copulam tanquam partes principales sui. Hoc est falsum quum sit simplex qualitas ergo opinio.
 
-### Ad hoc respondetur talem propositionem habere subiectum et praedicatum quodammodo virtualiter,
+### Ad hoc respondetur talem propositionem habere subiectum et praedicatum quodammodo virtualiter
 
-quoniam per illam concipimus aliquid, ut alteri attributum et aliquid cui attribuitur aliud, ut capta simplici qualitate cui subordinatur haec propositio "Homo est animal". Illa propositio significat hominem-esse-animal, et ideo 'homo' est cui aliquid attribuitur, et 'animal' est aliquid quod alteri attribuitur. Quare 'homo' erit subiectum et 'animal' praedicatum virtualiter.
+Quoniam per illam concipimus aliquid, ut alteri attributum et aliquid cui attribuitur aliud, ut capta simplici qualitate cui subordinatur haec propositio "Homo est animal". Illa propositio significat hominem-esse-animal, et ideo 'homo' est cui aliquid attribuitur, et 'animal' est aliquid quod alteri attribuitur. Quare 'homo' erit subiectum et 'animal' praedicatum virtualiter.
 
 ### Contra hanc solutionem arguitur postquam illa simplex qualitas aeque bene praesupponit notitias omnium hominum
 
-sicut notitiam omnium animalium non /7.1a/ videtur magis, cur notitia hominum sit subiectum et notitia animalium praedicatum, aut econtra. Sequitur igitur utrumque erit subiectum et utrumque erit praedicatum.
+Sicut notitiam omnium animalium non /7.1a/ videtur magis, cur notitia hominum sit subiectum et notitia animalium praedicatum, aut econtra. Sequitur igitur utrumque erit subiectum et utrumque erit praedicatum.
 
-### Ad hoc respondent quidam concedendo quod infertur.
+### Ad hoc respondent quidam concedendo quod infertur
 
 Et ita inquit simplicem qualitatem quae propositio dicitur repraesentans hominem-esse-animal repraesentare etiam animal-esse-hominem. Sed hic non consequenter loquitur, quod sic patet, quoniam eadem ratione propositio cui subordinatur haec propositio "Homo erit albus" significat hominem-fore-album, et etiam album-fore-hominem, quod impossibile est, quia tunc illa simplex qualitas esset vera et falsa, casu quo homines tunc sunt albi et numquam post hoc erunt albi. Est enim vera in sensu quod significat album-fore-hominem; et falsa in sensu quo significat hominem-fore-album.
 
-### Quare aliter dico vt dictum est in propositione cui haec vocalis "Homo est animal" subordinatur.
+### Quare aliter dico vt dictum est in propositione cui haec vocalis "Homo est animal" subordinatur
 
 Illum terminum 'homo' est subiectum et illum terminum 'animal' praedicatum, quoniam 'homo' est cui aliquid attribuitur, et illa propositio significat animal homini attribui, et non hominem animal attribui. Significat enim hominem-esse-animal et non animal-hominem-esse.
 
-### Et si arguas: Non est maior ratio quare illa qualitas significet hominem-esse-animal quam animal-esse-hominem, postquam ab eisdem terminis dependet.
+### Et si arguas: Non est maior ratio quare illa qualitas significet hominem-esse-animal quam animal-esse-hominem, postquam ab eisdem terminis dependet
 
 Ergo vtrumque illorum significat.
 
-### Hoc argumentum simile est cuidam quod fit contra opinionem communem. Et ideo contra vtramque militat.
+### Hoc argumentum simile est cuidam quod fit contra opinionem communem. Et ideo contra vtramque militat
 
 Solet enim quaeri quare in hac propositione vocali "Omnis albedo est qualitas" postquam ille terminus 'omnis' aeque immediatus est notitiae albedinum et notitiae qualitatum. Unde est quod ly 'omnis' distribuit notitiam albedinum et non notitiam qualitatum.
 
 Postea dicitur ex natura qualitatis provenire, quemadmodum etiam in via communi dicendum est, per hanc propositionem "Homo est animal" intellectum intelligere hominem-esse-animal et non animal-esse-hominem, et hoc ex natura actus seu copulae. Sic in proposito dicendum est qualitatem illam simplicem repraesentare hominem-esse-animal /7.1b/ et non animal-esse-hominem, et hoc ex natura talis qualitatis, unde datur una alia qualitas repraesentans animal-esse-hominem et non hominem-esse-animal, etiam ex natura talis qualitatis.
 
-## Contra hanc solutionem arguitur:
+## Contra hanc solutionem arguitur
 
 Non est maior ratio habita notitia omnium hominum et notitia omnium animalium, producatur una simplex qualitas repraesentans hominem-esse-animal, quam repraesentans nullum hominem esse animal aut unam repraesentantem hominem-fore-animal. Ergo si producitur qualitas repraesentans hominem-esse-animal, eadem ratione debet produci qualitas significans nullum-hominem-esse-animal, et per consequens aut nulla qualitas propositionalis producitur aut infinitae producentur.
 
-### Si forte dicas illud ex parte intellectus producitur,
+### Si forte dicas illud ex parte intellectus producitur
 
-quia aliter et aliter advertit, cum illis terminis, seu aliter et aliter conatur.
+Quia aliter et aliter advertit, cum illis terminis, seu aliter et aliter conatur.
 
-## Contra hoc arguitur quod intellectus diversimode advertat seu intelligat hoc habet a notitiis,
+## Contra hoc arguitur quod intellectus diversimode advertat seu intelligat hoc habet a notitiis
 
-et per consequens partis est qualitatem illam simplicem repraesentare hominem-esse-animal aut nullum-animal-esse-hominem in intellectu, quam intellectum diversimode intelligere. Sequitur ergo quod non provenit ex parte intellectus quod diversa qualitas producatur.
+Et per consequens partis est qualitatem illam simplicem repraesentare hominem-esse-animal aut nullum-animal-esse-hominem in intellectu, quam intellectum diversimode intelligere. Sequitur ergo quod non provenit ex parte intellectus quod diversa qualitas producatur.
 
-### Hoc argumentum, simile argumento, cuidam quod contra opinionem communem solet fieri,
+### Hoc argumentum, simile argumento, cuidam quod contra opinionem communem solet fieri
 
-in quo solet quaeri quare habita hac propositione "Homo est animal", intellectus producit actum distribuentem subiectum et non praedicatum, aut quare magis producit actum universalem quam particularem, et ideo haec ratio solvetur quando traditur opinio communis, quia utramque aeque militat argumento dubio undecimo.
+In quo solet quaeri quare habita hac propositione "Homo est animal", intellectus producit actum distribuentem subiectum et non praedicatum, aut quare magis producit actum universalem quam particularem, et ideo haec ratio solvetur quando traditur opinio communis, quia utramque aeque militat argumento dubio undecimo.
 
-## Contra hanc opinionem solent fieri aliquae rationes quae ab aliquibus ponderantur,
+## Contra hanc opinionem solent fieri aliquae rationes quae ab aliquibus ponderantur
 
-et tamen nihil valent, quarum prior iam soluta est ex dictis in confirmatione.
+Et tamen nihil valent, quarum prior iam soluta est ex dictis in confirmatione.
 
 Dicunt enim sequeretur nullam propositionem esse terminum complexum. Sed hoc est impossibile, igitur et cetera. Ad hoc dictum est in confirmatione primi argumenti.
 
-## Secundo arguunt: Sequitur quod nullus erit syllogismus in mente,
+## Secundo arguunt: Sequitur quod nullus erit syllogismus in mente
 
-sed hoc /7.2a/ est contra opinantes; ergo opinio nulla.
+Sed hoc /7.2a/ est contra opinantes; ergo opinio nulla.
 
 Sequela probatur in quolibet syllogismo sunt tres termini quorum unus est medium, alter maior extremitas, et alius minor. Similiter oportet esse tres propositiones, quarum una est maior, altera minor, altera est conclusio, sed nulli sunt tales termini in aliquo syllogismo; ergo nullus est syllogismus in mente.
 
 Similiter etiam sequitur nullam esse praedicationem identicam nec disparatam in mente. Sed hoc est falsum; ergo propositum. Minor manifesta est. Sed probatur sequela: ad hoc quod aliqua praedicatio sit disparata, oportet quod habeat duos terminos, quorum alter sit subiectum et alter praedicatum, et quod sint disparati. Sed nulla propositio mentalis invenitur in qua sint duo termini, quorum unus sit subiectum et alter praedicatum; ergo nulla propositio mentalis est praedicatio disparata; ac pariformiter probabis nullam inveniri identicam.
 
-## Tertio arguitur: Adhuc sequeretur nullum inveniri in mente ascensum vel descensum. Sed hoc est impossibile; ergo opinio.
+## Tertio arguitur: Adhuc sequeretur nullum inveniri in mente ascensum vel descensum. Sed hoc est impossibile; ergo opinio
 
 Sequela probatur: Ad hoc quod aliqua consequentia sit ascensus, oportet quod arguatur a singularibus sufficienter enumeratis ad terminos communiores in supponendo, posita constantia. Sed hoc nequaquam potest fieri in aliqua consequentia mentali, cum quaelibet talis sit simplex; ergo propositum. Ac simili modo poteris deducere, nullam conversionem posse inveniri in anima.
 
-## Ad primum horum iam dictum est, et ad secundum distinguo de connotatione huius termini 'syllogismus',
+## Ad primum horum iam dictum est, et ad secundum distinguo de connotatione huius termini 'syllogismus'
 
-quia vel connotat quod sit consequentia bona et formalis composita ex tribus terminis, et quod virtute unionis extremitatum cum medio, sequatur conclusio composita ex extremitatibus. Et hoc modo concedo quod nullus inveniatur syllogismus in mente vel connotat hic terminus 'syllogismus', quod consequentia talis significet synonyme cum una in qua, virtute medii uniti cum extremitatibus, sequatur conclusio. Et eo modo inveniuntur syllogismi mentales; aut si connotet quod sit virtualiter compositus, id est, praesupponens tres propositiones et tres terminos et cetera, et in hoc sensu etiam inveniuntur syllogismi mentales /7.2b/.
+Quia vel connotat quod sit consequentia bona et formalis composita ex tribus terminis, et quod virtute unionis extremitatum cum medio, sequatur conclusio composita ex extremitatibus. Et hoc modo concedo quod nullus inveniatur syllogismus in mente vel connotat hic terminus 'syllogismus', quod consequentia talis significet synonyme cum una in qua, virtute medii uniti cum extremitatibus, sequatur conclusio. Et eo modo inveniuntur syllogismi mentales; aut si connotet quod sit virtualiter compositus, id est, praesupponens tres propositiones et tres terminos et cetera, et in hoc sensu etiam inveniuntur syllogismi mentales /7.2b/.
 
 Et simili modo respondebis ad id quod tangitur de praedicatione atque pariformiter ad id quod de ascensu et conversione dicitur. Et sic patet de hac opinione quae, quemadmodum dictum est, satis probabilis est, nec mirum, quia teste philosopho, multa falsa sunt probabiliora quibusdam veris, et Gregorius conformiter ad dicta sua, licet falsa, loquitur, postquam enim defendebat omnem propositionem mentalem ultimatam esse ascensum. Necessum erat quod postquam quilibet ascensus est simplex qualitas, vt probabitur quod etiam quaelibet propositio mentalis ultimata sit simplex qualitas. Et si haec opinio falsa sit, nec mirum, quoniam vno inconvenienti dato, multa accidunt.
 
@@ -344,15 +349,15 @@ Auctoritates quae contra hanc opinionem possunt adduci, facilem interpretationem
 
 # Opinio Hieronymi Pardi 
 
-## Sed quia de actibus syncategorematicis haec disputatio est, ante opinionem communem ponamus, horum erit opinionem Hieronymi Pardo narrare.
+## Sed quia de actibus syncategorematicis haec disputatio est, ante opinionem communem ponamus, horum erit opinionem Hieronymi Pardo narrare
 
-### Fuit namque opinio, Hieronymi Pardo tenentis, syncategoremata mentalia vel scripta subordinari pluribus notitiis unde tenet syncategoremata. 
+### Fuit namque opinio, Hieronymi Pardo tenentis, syncategoremata mentalia vel scripta subordinari pluribus notitiis unde tenet syncategoremata 
 
 Sic fuisse imposita dependenter terminis ad significandum quidquid per terminum categorematicum cui additur significatur, et cum hoc aliquid, ut capitur pro hoc signo 'omnis'. Si addatur huic termino 'homo' ly 'omnis', significabit tunc omnes homines, et cum hoc universaliter. Et si addatur isti termino 'animal', significabit omnia animalia universaliter. Et ista copula est in hac propositione /8.1a/ "Homo est animal", significabit homines et animalia unitive, postquam determinat istum terminum 'homo' et istum terminum 'animal', et similis notitiae inveniuntur in anima, datur una copula in anima repraesentans homines et animalia unitive, et datur alia copula repraesentans homines et equos, quidem notitia dependet a notitia hominum et equorum.
 
 Et si arguas contra hoc nullum fore syncategorema, inferendo negabitur consequentia et dicitur, ideo dicuntur syncategorema, quia aliqualiter significatur qualiter per terminos quos determinat non significaretur, unde ly 'omnis' quamquam in hac propositione "Omnis homo est animal", 'homines' et 'animalia' significet tamen, quia universaliter 'homines' et 'animalia' significat, dicitur syncategorema, et quia ly 'est' unitive significat taliter qualiter per terminos quos determinat non significatur, dicitur esse syncategorema.
 
-### Contra hanc opinionem arguitur: Sequitur quod ly \'omnis\' in hac propositione "Sortes est omnis homo", et ly 'homo' essent synonymi. 
+### Contra hanc opinionem arguitur: Sequitur quod ly \'omnis\' in hac propositione "Sortes est omnis homo", et ly 'homo' essent synonymi 
 
 Hoc est manifeste falsum; ergo et antecedens. Sequela probatur: Ly 'omnis' omnes homines significat universaliter. et ly 'homo' etiam significat omnes homines universaliter; ergo sunt synonymi.
 
@@ -360,65 +365,65 @@ Minor probatur: Ly 'homo' aliquem hominem significat, et nullus potest esse homo
 
 ### Ad hoc argumentum respondet defensor huius opinionis
 
-quod ly \'omnis\' significat omnes homines universalitate verificationis; et ly 'homo' non significat nisi universalitate verificationis.
+Quod ly \'omnis\' significat omnes homines universalitate verificationis; et ly 'homo' non significat nisi universalitate verificationis.
 
-### Unde significare universaliter homines universalitate verificationis est denotare propositionem illam verificari pro quolibet homine,
+### Unde significare universaliter homines universalitate verificationis est denotare propositionem illam verificari pro quolibet homine
 
-quemadmodum in ista "Sortes est omnis homo".
+Quemadmodum in ista "Sortes est omnis homo".
 
-### Contra istam solutionem multa ipse implicat de significatione pronominis demonstrativi, quae non omnia bene esse tota mihi apparet.
+### Contra istam solutionem multa ipse implicat de significatione pronominis demonstrativi, quae non omnia bene esse tota mihi apparet
 
 Nihilominus tamen sic arguitur: Sequitur quod in hac propositione "Sortes est omnis homo", ly 'omnis et ly 'omnis homo' essent termini synonymi. Consequens est falsum; ergo id ex quo sequitur.
 
 Sequela probatur quoniam, in mente, illi duo termini significant universaliter /8.1b/ universalitate verificationis omnes homines.
 
-### Praeterea sic arguitur: Notitia cui subordinatur ly 'est' in hac propositione "Omnis homo est asinus" est propositio mentalis postquam significat hominem-esse-asinum,
+### Praeterea sic arguitur: Notitia cui subordinatur ly 'est' in hac propositione "Omnis homo est asinus" est propositio mentalis postquam significat hominem-esse-asinum
 
-et per consequens sequitur notitiam cui subordinatur. Illa copula esse synonymam primam, cum tota illa propositione "Homo est asinus", et per consequens sequitur quod talis notitia, copulae, non uniet notitiam hominum et notitiam asinorum, aut si uniat, tota illa propositio mentalis composita uniet unum terminum cum alio termino, cum non sit maior ratio de copula quam de propositione, postquam sunt synonymiae. Praeterea, postea copula et propositio sunt synonymae, sequitur quod eidem subordinabuntur, et sic, quaelibet copula erit propositio.
+Et per consequens sequitur notitiam cui subordinatur. Illa copula esse synonymam primam, cum tota illa propositione "Homo est asinus", et per consequens sequitur quod talis notitia, copulae, non uniet notitiam hominum et notitiam asinorum, aut si uniat, tota illa propositio mentalis composita uniet unum terminum cum alio termino, cum non sit maior ratio de copula quam de propositione, postquam sunt synonymiae. Praeterea, postea copula et propositio sunt synonymae, sequitur quod eidem subordinabuntur, et sic, quaelibet copula erit propositio.
 
-### Confirmatur: Notitia cui subordinatur ly 'omnis' in hac propositione "Omnis homo est lapis", omnes homines et lapides significat, vel igitur absolute vel connotative.
+### Confirmatur: Notitia cui subordinatur ly 'omnis' in hac propositione "Omnis homo est lapis", omnes homines et lapides significat, vel igitur absolute vel connotative
 
 Si absolute, sequitur quod debet abstrahi talis significatio ab aliqua convenientia essentiali, reperta inter homines et lapides, quod impossibile est, postquam nulla convenientia essentialis invenitur inter hominem et lapidem quin illa inveniatur inter hominem et asinum; nec connotative significabit. Postquam non potest dari aliqua convenientia accidentalis a qua abstrahantur significata talis termini.
 
 Praeterea, hic inquiritur cur sicut unus conceptus in anima et homines et pisces significat, sicut ly 'ens', quare no datur unus conceptus synonymus, cum ly 'canis' omnino, et eodem modo significans, et quidquid respondeatur, protervus arguens magnam habebit apparentiam.
 
-### Confirmatur: Secundo sequeretur quod sub illo termino 'omnis' liceret ascendere disiunctive et descendere. Consequens est falsum; ergo illud ex quo sequitur.
+### Confirmatur: Secundo sequeretur quod sub illo termino 'omnis' liceret ascendere disiunctive et descendere. Consequens est falsum; ergo illud ex quo sequitur
 
 Falsitas consequentis manifesta apparet, sed probatur sequela: Ly 'omnis' significat "Omnes homines"; ergo ratione significationis licebit ascendere et descendere disiunctive, postquam non distribuitur ly 'omnis'. Si forte dicas quod est syncategorema, et propterea non licet descendere.
 
-### Contra hoc sic arguitur ly 'omnis' significat /8.2a/ categorematice; ergo, ratione illius, licebit ascendere.
+### Contra hoc sic arguitur ly 'omnis' significat /8.2a/ categorematice; ergo, ratione illius, licebit ascendere
 
-### Respondebis forte quod licet significet categorice, non licet ascendere nec descendere, quia etiam significat syncategorematice.
+### Respondebis forte quod licet significet categorice, non licet ascendere nec descendere, quia etiam significat syncategorematice
 
-### Contra hanc solutionem arguitur: Sequeretur quod in hac propositione "Sortes est omnis homo", sub illo termino 'omnis homo', liceat descendere postquam ille terminus 'omnis homo', includit syncategorema.
+### Contra hanc solutionem arguitur: Sequeretur quod in hac propositione "Sortes est omnis homo", sub illo termino 'omnis homo', liceat descendere postquam ille terminus 'omnis homo', includit syncategorema
 
 Si dicas sequo non est propter hoc, sed quia non potest supponere; ideo non licet ascendere nec descendere, quia de ratione ascensus est quod fiat sub termino supponente.
 
-### Contra hoc arguitur: Non stando in connotatione ascensus,
+### Contra hoc arguitur: Non stando in connotatione ascensus
 
-sequitur quod licet bene argumentari a propositionibus in quibus tali termino, pronomina demonstrativa, adduntur ad ipsum, ubi nullum pronomen additur. Quemadmodum fit in hac "Chimaera est".
+Sequitur quod licet bene argumentari a propositionibus in quibus tali termino, pronomina demonstrativa, adduntur ad ipsum, ubi nullum pronomen additur. Quemadmodum fit in hac "Chimaera est".
 
-### Si dicas forte quod non est simile, quia ly 'omnis' non potest esse totale extremum, sed bene ly \'Chimaera\'.
+### Si dicas forte quod non est simile, quia ly 'omnis' non potest esse totale extremum, sed bene ly 'Chimaera'
 
-### Contra hoc arguitur: In hac propositione hominis asinus currit,
+### Contra hoc arguitur: In hac propositione hominis asinus currit
 
-sub ly 'hominis' licet etiam ascendere, et tamen ly 'hominis' non potest esse totale extremum, nisi secundum suum synonymum, quemadmodum etiam ly 'omnis' potest esse.
+Sub ly 'hominis' licet etiam ascendere, et tamen ly 'hominis' non potest esse totale extremum, nisi secundum suum synonymum, quemadmodum etiam ly 'omnis' potest esse.
 
-### Haec argumenta, qualiacumque sint contra hanc opinionem, non solvo, 
+### Haec argumenta, qualiacumque sint contra hanc opinionem, non solvo 
 
-quia non intendo stando illam defendendo immorari, et maxime quia auctor huius opinionis. Modo tenet eandem esse compositam, atque sic procedit, ut vix ad quam potestatem se flectat, minime intelliges. Et haec de opinionibus extraneis dicta sufficiant.
+Quia non intendo stando illam defendendo immorari, et maxime quia auctor huius opinionis. Modo tenet eandem esse compositam, atque sic procedit, ut vix ad quam potestatem se flectat, minime intelliges. Et haec de opinionibus extraneis dicta sufficiant.
 
 # Opinio Communis de Compositione Propositionis Mentalis
 
 Opinio communis
 
-## Modo pro declaratione opinionis communis ponitur talis conclusio:
+## Modo pro declaratione opinionis communis ponitur talis conclusio
 
 Omnis propositio mentalis ultimata apprehensiva est propositio composita, id est, habet plures partes differentes, ratione ex quo sequitur omnia syncategoremata inveniri in mente, sicut copulae, negationes, signa distributiva confusiva, signa particularia et alia similia. Si, namque, copulae non invenirentur, propositio non esset composita, /8.2b/ nam id quo subiectum praedicato unitur, copulam vero notanter, dicitur propositio mentalis ultimata, quia quid decendum esset de non-ultimata, secundum quamcumque opinionem, primo dubio contra opinionem Gregorii diximus.
 
-### Dicitur notanter apprehensiva,
+### Dicitur notanter apprehensiva
 
-quoniam de iudicativa opinio communis convenit cum opinione Gregorii, dicendo eam esse simplicem qualitatem cuius ratione, ab omnibus communiter loquentibus, praetermissam fuisse. Miror hanc tamen credo posse esse, si propositio iudicativa esset composita, sequeretur eandem esse propositionem apprehensivam et iudicativam, quod evidentissime falsum est, postquam plurale est apprehendere non iudicando.
+Quoniam de iudicativa opinio communis convenit cum opinione Gregorii, dicendo eam esse simplicem qualitatem cuius ratione, ab omnibus communiter loquentibus, praetermissam fuisse. Miror hanc tamen credo posse esse, si propositio iudicativa esset composita, sequeretur eandem esse propositionem apprehensivam et iudicativam, quod evidentissime falsum est, postquam plurale est apprehendere non iudicando.
 
 Sequela tamen probatur iudicium, quo iudico hominem-esse-animal est propositio composita ex notitia hominum et notitia animalium et copula; et eisdem partibus constat propositio apprehensiva qua apprehendo hominem-esse-animal; ergo apprehensiva qua apprehendo hominem-esse-animal est eadem cum iudicativa qua iudico hominem-esse-animal.
 
@@ -426,17 +431,17 @@ Minor probatur, quia notitia hominum et notitia animalium non sunt diversae spec
 
 Secundum hanc opinionem facile esset argumentum in principio quaestionis dissolvere, sed quia multa prius intelligenda sunt ante quam ipsum dissolvamus.
 
-### Contra conclusionem positam arguitur ad probandum mentalem apprehensivam ultimatam esse compositam, quia deinde de syncategorema agemus, primo sic: 
+### Contra conclusionem positam arguitur ad probandum mentalem apprehensivam ultimatam esse compositam, quia deinde de syncategorema agemus
 
-Nulli naturae neganda est perfectio, nisi evidenter constet perfectionem illam non posse convenire tali naturae. Sed propositionaliter, unica notitia comprehendere, est intellectui perfectio; ergo non est negandum perfectionem illam intellectui convenire.
+Primo sic: nulli naturae neganda est perfectio, nisi evidenter constet perfectionem illam non posse convenire tali naturae. Sed propositionaliter, unica notitia comprehendere, est intellectui perfectio; ergo non est negandum perfectionem illam intellectui convenire.
 
 Maior patet ex Aristotele, Secundo De Generatione, tenentis dignificandam esse naturam quantum potest.
 
-### Confirmatur: Non minoris perfectionis est intellectus in cognoscendo quod voluntas in volendo;
+### Confirmatur: Non minoris perfectionis est intellectus in cognoscendo quod voluntas in volendo
 
-sed voluntas unica notitia potest velle amare deum, atque hominem /9.1a/ esse animal; ergo intellectus etiam unica notitia debet apprehendere hominem-esse-animal; nec valet ad hoc dicere voluntatem, quando vult, hominem-esse-animal habere volitionem terminatam ad homines tantum, et etiam aliam terminatam ad animalia, et habere unum actum correspondentem illi, copulae 'est'. Nam hoc nihil est dictu, quia sic daretur unus actus volitatis qui non esset volitio nec nolitio.
+Sed voluntas unica notitia potest velle amare deum, atque hominem /9.1a/ esse animal; ergo intellectus etiam unica notitia debet apprehendere hominem-esse-animal; nec valet ad hoc dicere voluntatem, quando vult, hominem-esse-animal habere volitionem terminatam ad homines tantum, et etiam aliam terminatam ad animalia, et habere unum actum correspondentem illi, copulae 'est'. Nam hoc nihil est dictu, quia sic daretur unus actus volitatis qui non esset volitio nec nolitio.
 
-### Sub confirmatur: Ascensus est notitia simplex et propositio; ergo aliqua propositio est notitia simplex.
+### Sub confirmatur: Ascensus est notitia simplex et propositio; ergo aliqua propositio est notitia simplex
 
 Maior probata est. Minor probatur: quia vere repraesentat assensus, tunc ultra aliqua notitia est propositio simplex, et non est maior ratio de una quam de alia; ergo quaelibet est notitia simplex.
 
@@ -446,101 +451,101 @@ Propter argumentum tenet Hieronymus Hangest, tenens opinionem communem. Non esse
 Sed videre meo, qualitas illa ultima propositionalis superflua est, nec ab intellectu producibilis, post alius productionem, qui intellectus, postquam intelligit hominem-esse-animal, non intelligit amplius quam antea intelligebat, nec aliqualiter qualiter antea non intelligebat per adventum illius novae notitiae; ergo illa notitia non producitur ab intellectu. Antecedens manifestum est, et consequentia probatur per hoc qui intellectus nunquam occurrit ad productionem alicuius notitiae, nisi mediante ea aliquid vel aliqualiter intelligat, quod vel qualiter antea non intelligebat. Sed intellectus quaecumque quae antea intelligebat et qualitercumque nunc intelligit; ergo intellectus non concurrit ad productionem illius novae notitiae. /9.1b/
 
 <!-- Important text here -->
-### Forte responderet quod intellectus aliqualiter intelligit hominem-esse-animal qualiter antea non intelligebat quia incomplexe,
+### Forte responderet quod intellectus aliqualiter intelligit hominem-esse-animal qualiter antea non intelligebat quia incomplexe
 
-et ideo non inconveniens est quod intellectus non perfectius rem intelligat quam antea, nec aliquo alio modo quam antea concurrat, aliquando, ad productionem notitiae diversae idem et eodem modo significantis. Sed hoc est falsum quia tunc sequitur quod habita una notitia incomplexa et absoluta rei, intellectus cum eadem advertentia deberet producere complexam connotativam et synonymam notitiam illi, quia quamvis intellectus cognoscat illam rem, tamen non concurrit ad hoc per novam notitiam, ut cognoscat, et iterum habita illa notitia, deberet concurrere ad habendum unam aliam nouam notitiam.
+Et ideo non inconveniens est quod intellectus non perfectius rem intelligat quam antea, nec aliquo alio modo quam antea concurrat, aliquando, ad productionem notitiae diversae idem et eodem modo significantis. Sed hoc est falsum quia tunc sequitur quod habita una notitia incomplexa et absoluta rei, intellectus cum eadem advertentia deberet producere complexam connotativam et synonymam notitiam illi, quia quamvis intellectus cognoscat illam rem, tamen non concurrit ad hoc per novam notitiam, ut cognoscat, et iterum habita illa notitia, deberet concurrere ad habendum unam aliam nouam notitiam.
 
-### Praeterea quaero, post huius propositionis mentalis compositae "Homo est animal" productionem, qualiter intellectus se habet ad productionem illius qualitatis simplicis.
+### Praeterea quaero, post huius propositionis mentalis compositae "Homo est animal" productionem, qualiter intellectus se habet ad productionem illius qualitatis simplicis
 
 Vel advertit amplius vel producit illam ex imperio voluntatis, vel statim, habita propositione mentali composita, producitur naturaliter illa qualitas incomplexa, quidquid dicatur inconveniens quantumcumque vel semidoctus, intelligere valebit.
 
-### Quare credo intellectum solum per propositionem compositam apprehendere propositionaliter.
+### Quare credo intellectum solum per propositionem compositam apprehendere propositionaliter
 
 Et ad argumentum respondeo negando illam maiorem. Sed verum est nulli naturae negandam esse perfectionem, nisi ratione secundum materiam subiectam manifesta, constet oppositum, id est, nisi sint rationes magnam fidem facientes. Modo dico quod sunt magnae rationes et fortes, sine secundum materiam subiectam satis clare, ad probandum intellectum non apprehendere propositionaliter per simplicem qualitatem, et sunt aliquae rationes, quae contra opinionem Gregorii, superius factae sunt.
 
-### Ad confirmationem facile esset respondere secundum opinionem Holkot,
+### Ad confirmationem facile esset respondere secundum opinionem Holkot
 
-tenentis volitionem et nolitionem esse orationes optatiui modi. Sed, quia relicta est haec via, respondeo non esse simile de voluntate et de intellectu, quoniam voluntas non apprehendit, sed postquam intellectus apprehendit ipsa, quemadmodum ac si /9.2a/ iudicaret vult. Volo dicere volitiones et nolitiones in voluntate se habent sicut assensus et dissensus in intellectu, ita voluntas qualitate simplici vult, vel vult sicut intellectus iudicat.
+Tenentis volitionem et nolitionem esse orationes optatiui modi. Sed, quia relicta est haec via, respondeo non esse simile de voluntate et de intellectu, quoniam voluntas non apprehendit, sed postquam intellectus apprehendit ipsa, quemadmodum ac si /9.2a/ iudicaret vult. Volo dicere volitiones et nolitiones in voluntate se habent sicut assensus et dissensus in intellectu, ita voluntas qualitate simplici vult, vel vult sicut intellectus iudicat.
 
-### Potest etiam aliter solvi argumentum per hoc quod arguitur a simili.
+### Potest etiam aliter solvi argumentum per hoc quod arguitur a simili
 
 Et argumentum (ut aiunt) a simili claudicat uno pede, id est, non valet argumentum a simili, nisi sit inter omnino similia, qualia non sunt intellectus et voluntas.
 
-### Ad sub confirmationem respondeo concedendo quod infertur in prima consequentia,
+### Ad sub confirmationem respondeo concedendo quod infertur in prima consequentia
 
-et quando ultra arguitur nego minorem. Maior enim ratio est de dissensu quam de propositione apprehensiva, ut ex rationibus quivis dignoscit. Sunt tamen nonnulli qui aliter respondent, negando minorem primae consequentiae, videlicet quod assensus sit propositio. Sed sto in prius dictis, quia non video cur non sit propositio.
+Et quando ultra arguitur nego minorem. Maior enim ratio est de dissensu quam de propositione apprehensiva, ut ex rationibus quivis dignoscit. Sunt tamen nonnulli qui aliter respondent, negando minorem primae consequentiae, videlicet quod assensus sit propositio. Sed sto in prius dictis, quia non video cur non sit propositio.
 
-## Circa igitur opinionem hanc ponentem syncategorema in anima nihil significare.
+## Circa igitur opinionem hanc ponentem syncategorema in anima nihil significare
 
 Sed aliqualiter multe possunt difficultates adduci, ut tamen omnia disiunctis videantur eo ordine quo eas tractabimus. Monebo per dubia omnia quae inter arguendos discutiemus, ut facilius et inveniantur, et memoriae commendent.
 
-### Difficultas prima ergo erit: Utrum actu syncategorematici dicantur immutare intellectum et esse notitiae et utrum habeant obiecta.
+### Difficultas prima ergo erit: Utrum actu syncategorematici dicantur immutare intellectum et esse notitiae et utrum habeant obiecta
 
 Ibique fortiores rationes quas Hieronymus Pardo contra hanc opinionem adducit, soluam. Secundum dubium et quid sit significare aliqualiter.
 
-### Circa quod tertium erit: Qualiter significent signa particularia.
+### Circa quod tertium erit: Qualiter significent signa particularia
 
-### Atque circa idem quarta difficultas erit: De pronominibus demonstratiuis qualiter significent, et an significet aliquid.
+### Atque circa idem quarta difficultas erit: De pronominibus demonstratiuis qualiter significent, et an significet aliquid
 
-### Quintum erit: Qualiter copulae significent tempus, et an copulae de praesenti et praeterito sint synonymae.
+### Quintum erit: Qualiter copulae significent tempus, et an copulae de praesenti et praeterito sint synonymae
 
-### Sexta difficultas erit principalis huius materiae de fundamentis huius opinionis (quibus reliquae difficultates dependent), videlicet: In quos terminos propositionis, in qua ponitur syncategorema, agat, et in quos non. Et utrum ab eis producatur, ab eisque conservari dependeat.
+### Sexta difficultas erit principalis huius materiae de fundamentis huius opinionis (quibus reliquae difficultates dependent), videlicet: In quos terminos propositionis, in qua ponitur syncategorema, agat, et in quos non. Et utrum ab eis producatur, ab eisque conservari dependeat
 
-### Circa quod cognoscetur septimo: Quae /9.2b/ pars propositionis sit propositio.
+### Circa quod cognoscetur septimo: Quae /9.2b/ pars propositionis sit propositio
 
-### Et circa idem octavo disputabitur: Utrum verba adiectiva sint complexa vel incomplexa.
+### Et circa idem octavo disputabitur: Utrum verba adiectiva sint complexa vel incomplexa
 
-### Et nono: Quae signa sint partes extremorum et quae non.
+### Et nono: Quae signa sint partes extremorum et quae non
 
-### Et decimo: Utrum ad remissionem notitiae categorematicae sequatur remissio syncategorematica. Et quid est notiam categorematicam concurrere effectine ad syncategorematicam productionem.
+### Et decimo: Utrum ad remissionem notitiae categorematicae sequatur remissio syncategorematica. Et quid est notiam categorematicam concurrere effectine ad syncategorematicam productionem
 
-### Et undecimo: Utrum libere an naturaliter syncategorematici actus producantur.
+### Et undecimo: Utrum libere an naturaliter syncategorematici actus producantur
 
-### Et duodecimo: Utrum potentia sensitiva syncategoremata producat.
+### Et duodecimo: Utrum potentia sensitiva syncategoremata producat
 
-### Et tredecimo: Utrum ly 'futurus' et alii consimiles termini syncategoremata sint et a notitiis categorematicis producantur.
+### Et tredecimo: Utrum ly 'futurus' et alii consimiles termini syncategoremata sint et a notitiis categorematicis producantur
 
-### Quartodecimo: Cur potius huius mentalis "Homo est animal" notitia hominum sit subiectum quam notitia animalium.
+### Quartodecimo: Cur potius huius mentalis "Homo est animal" notitia hominum sit subiectum quam notitia animalium
 
 Seu quod idem est: Cur potius in hac mentali "Ominis albedo est qualitas" (cum ly 'omnis' tam immediatum sit subiecto sicut praedicato) distribuatur subiectum quam praedicatum.
 
-### Et quintodecimo: Quid requiratur et sufficiat ad hoc quod syncategoremata sint eiusdem speciei.
+### Et quintodecimo: Quid requiratur et sufficiat ad hoc quod syncategoremata sint eiusdem speciei
 
-Circa quod difficultatem communem inquiram: Utrum istae "Omnis homo est homo" et "Omnis homo omnis homo est" eidem mentali subordinentur.
+Circa quod difficultatem communem inquiram utrum istae "Omnis homo est homo" et "Omnis homo omnis homo est" eidem mentali subordinentur.
 
-### Sextodecimo inquiretur: Utrum syncategoremata a sua significatione cadere possint. Et utrum extra propositionem reperiri possint.
+### Sextodecimo inquiretur: Utrum syncategoremata a sua significatione cadere possint. Et utrum extra propositionem reperiri possint
 
-### Et decimo septimo: Utrum syncategoremata in mente, uniuoce vel aequiuoce, significent. Et utrum aequivocata ultimata inueniantur.
+### Et decimo septimo: Utrum syncategoremata in mente, uniuoce vel aequiuoce, significent. Et utrum aequivocata ultimata inueniantur
 
-### Et decimo octavo: Utrum duae negationes in mente, sicut in voce, se impedientes inveniantur.
+### Et decimo octavo: Utrum duae negationes in mente, sicut in voce, se impedientes inveniantur
 
-### Et decimonono: De significatione copulae de imaginario et ampliatione appellationeque verborum secundae intentionis.
+### Et decimonono: De significatione copulae de imaginario et ampliatione appellationeque verborum secundae intentionis
 
-### Et vicesimo: De copulatis diuisine sumptis et conditionatis, copulaeque disiuncta et copulata, et ablatiuis absolutis, utrum ne in mente reperiantur.
+### Et vicesimo: De copulatis diuisine sumptis et conditionatis, copulaeque disiuncta et copulata, et ablatiuis absolutis, utrum ne in mente reperiantur
 
-### Et primo et vicesimo: De accidentibus grammaticalibus utrum ne in mente sint. Et de obliquis, utrum ne inueniantur in /10.1a/ mente, et an sint categoremata vel syncategoremata.
+### Et primo et vicesimo: De accidentibus grammaticalibus utrum ne in mente sint. Et de obliquis, utrum ne inueniantur in /10.1a/ mente, et an sint categoremata vel syncategoremata
 
-### Et secundo et vicesimo: Utrum numerus pluralis inveniatur et termini pluralis numeri includant ly 'et', hoc est, an sint complexi.
+### Et secundo et vicesimo: Utrum numerus pluralis inveniatur et termini pluralis numeri includant ly 'et', hoc est, an sint complexi
 
-### Et tertio et vicesimo: De significatione totali propositionis. Et subiectum huius "Homo est animal", est propositio an sit completum vel incompletum.
+### Et tertio et vicesimo: De significatione totali propositionis. Et subiectum huius "Homo est animal", est propositio an sit completum vel incompletum
 
-### Et quarto et vicesimo: De significatione relativorum. Utrumne syncategoremata sint aliqualiter vel significant. Circa quod de hac particula 'et sic de singulis' sive 'et sic de aliis' dicetur.
+### Et quarto et vicesimo: De significatione relativorum. Utrumne syncategoremata sint aliqualiter vel significant. Circa quod de hac particula 'et sic de singulis' sive 'et sic de aliis' dicetur
 
-### Et quinto et vicesimo: De significatione signorum exponibilium. Et utrum propositiones exponibiles sint categoricae et hypotheticae.
+### Et quinto et vicesimo: De significatione signorum exponibilium. Et utrum propositiones exponibiles sint categoricae et hypotheticae
 
-### Et sexto et vicesimo: Utrum signa incompletae distribuentia inveniantur in mente, sicut ly 'omne' pro generibus singulorum qualislibet et alia id generis.
+### Et sexto et vicesimo: Utrum signa incompletae distribuentia inveniantur in mente, sicut ly 'omne' pro generibus singulorum qualislibet et alia id generis
 
-### Septimo et vicesimo: De conceptibus non-ultimatis syncategorematicum, et quomodo voces et quodque per voces significatum est repraesentent, et an subiectum huius "'Homo est animal' est propositio" sit complexum.
+### Septimo et vicesimo: De conceptibus non-ultimatis syncategorematicum, et quomodo voces et quodque per voces significatum est repraesentent, et an subiectum huius "'Homo est animal' est propositio" sit complexum
 
-### Octavo et vicesimo: Utrum aliquis terminus, in mente, ultimata materialiter supponere potest. Et cui haec particula 'ly' subordinatur.
+### Octavo et vicesimo: Utrum aliquis terminus, in mente, ultimata materialiter supponere potest. Et cui haec particula 'ly' subordinatur
 
-### Et ultimo inquiretur quomodo recordemur significationis syncategoremata vocalia producant habitus aut species.
+### Et ultimo inquiretur quomodo recordemur significationis syncategoremata vocalia producant habitus aut species
 
 Circa ista multa alia implicabuntur inter disputandum.
 
 # De obiecto actus syncategorematici
 
-## Ad primum igitur deveniendum contra illam opinionem ponentem syncategoremata puta aliqualiter significare.
+## Ad primum igitur deveniendum contra illam opinionem ponentem syncategoremata puta aliqualiter significare
 
 Arguit Pardo: Si ly 'omnis' esset in anima purum syncategorema, sequeretur ipsum vitaliter immutare potentiam cognitivam. Sed hoc est falsum; ergo ly 'omnis' non invenitur in anima.
 
@@ -548,11 +553,11 @@ Sequela videtur nota, postquam in anima ponitur, et probatur minor. Per illud si
 
 Consequentia patet, quoniam vitaliter immutare potentiam cognitivam non est aliud quam posse esse cognitionem mediante quam potentia cognitiva aliquid /10.1b/ cognoscit.
 
-### Ad hoc argumentum respondeo quaestionem esse de nomine.
+### Ad hoc argumentum respondeo quaestionem esse de nomine
 
 Si enim per vitaliter immutare intelligas quod in argumento dictum est, oportet quod ly 'omnis' immutet potentiam cognitivam. Si vero per ly 'vitaliter' immutare intelligas cognitionem esse qua intellectus aliquid vel aliqualiter cognoscit.
 
-### Dico quod ille actus immutat potentiam cognitivam.
+### Dico quod ille actus immutat potentiam cognitivam
 
 Similis conclusio est, quae tamen in nomine consistit, utrum actus syncategorematici sint vocandi notitiae vel utrum habeant obiecta.
 
@@ -560,75 +565,77 @@ Si enim ad hoc quod aliquis terminus mentalis sit notitia requiritur esse qualit
 
 Si enim obiectum vocetur res, quae significatur per notitiam eodem modo, actus syncategorematici non habent obiecta. Si autem vocaveris res obiectum rem concurrentem ad productionem notitiae, eodem modo actuum termini categorematici, quos actus determinant, dicentur obiecta, quamvis nonnulli vocauerunt rem significatam per notitiam quam determinat obiectum, non quia per syncategorema significetur, sed quia syncategorema immutat intellectum ad intelligendum aliter res significatas quam prius. Sed haec quaestio est de nomine, vocabimus tamen deinceps terminos obiecta actus, ut cum communioribus conveniamus.
 
-### Contra hanc solutionem arguitur: Sequeretur quod experiremur illum actum 'omnis' esse in anima.
+### Contra hanc solutionem arguitur: Sequeretur quod experiremur illum actum 'omnis' esse in anima
 
 Sed hoc est manifeste falsum; ergo illud ex quo sequitur. Sequela patet quia vitaliter immutat potentiam cognitivam. Falsitas consequentis probatur, quia si experiremur non essent opiniones circa hoc, quod illud signum 'omnis' esset in anima.
 
-### Respondeo ad hoc concessa sequela negando falsitate consequentis.
+### Respondeo ad hoc concessa sequela negando falsitate consequentis
 
 Et ad probationem dico quod ex eo sunt opiniones, quia esto quod experiremur non est nobis manifestum nos experiri. Aliter posset /10.2a/ dici dici nos experiri illum actum esse, quia quandoque cognoscimus hominem-esse-animal, et deinde cognoscimus omnem-hominem-esse-animal, quare inferimus aliquid aliud advenisse potentiae cognitivae quod antea non erat. Quare sic experimur actum esse, sed non experimur illum solum significare aliqualiter aut esse distinctum a notitiis aut distinctum ab anima.
 
-### Contra hanc solutionem arguitur: Ly 'omnis' significat aliquid; ergo solutio nulla.
+### Contra hanc solutionem arguitur: Ly 'omnis' significat aliquid; ergo solutio nulla
 
 Antecedens probatur: Ly 'omnis' denotat rem significatam termini, cui additur universaliter, accipi pro suis significatis copulative, sed denotare est significare; ergo ly 'omnis' significat terminum cui additur, et per consequens aliquid significat.
 
-### Confirmat: Sequeretur quod ly 'omnis' nunquam possit advenire potentiae cognitivae quin intellectus reflecteret se supra talem terminum quem determinat.  Sed hoc est falsum et contra experientiam; ergo et opinio.
+### Confirmat: Sequeretur quod ly 'omnis' nunquam possit advenire potentiae cognitivae quin intellectus reflecteret se supra talem terminum quem determinat.  Sed hoc est falsum et contra experientiam; ergo et opinio
 
 Sequela probatur: Ly 'omnis' per opinantem denotat terminum, cui additur, accipi ab intellectu pro suis significatis copulative; ergo intellectus accipit terminum cui additur, et ultra accipit terminum cui additur; ergo cognoscit seu considerat terminum cui additur, et per consequens, intellectus considerat et reflectit se super terminum cui tale syncategorema additur.
 
-### Ad ista duo argumenta facillimum est respondere, et si Hieronymus Pardo dicat istud concludere.
+### Ad ista duo argumenta facillimum est respondere, et si Hieronymus Pardo dicat istud concludere
 
 Unde dico quod denotare terminum accipi pro suis significatis copulative, non est illud signum significare talem terminum, nec est intellectum cognoscere talem terminum, sed illud signum 'omnis' denotare terminum, cui additur, accipi pro suis significatis copulative. Est intelligere res significatas per terminos quibus additur qualiter sine tali signo intellectus non intelligeret. Ut capta hac propositione "Mula est sterilis", intellectus intelligit mulam-esse-sterilem; sed adveniente illo signo 'omnis', iam intellectus intelligit res significatas per illos terminos aliter quam antea.
 
-### Contra hoc arguitur: Sequere quod ly 'omnis' in voce et ly 'omnis' in mente non essent synonymi. Consequens est falsum; ergo et antecedens.
+### Contra hoc arguitur: Sequere quod ly 'omnis' in voce et ly 'omnis' in mente non essent synonymi. Consequens est falsum; ergo et antecedens
 
 Falsitas consequentis manifesta est quia terminus vocalis et mentalis, cui talis vocalis subordinatur, /10.2b/ sunt synonymi. Sed probatur sequela: Ly 'omnis' in voce denotat istam vocem 'homo' accipi pro suis significatis copulative, et istud signum 'omnis' in mente denotat istum conceptum 'homo' accipi pro suis significatis copulative; et per consequens sequitur quod non idem adaequate significant, et inde sequitur quod non sunt synonymi.
 
-### Ad hanc replicam respondeo negando sequelam, et ad probationem nego antecedens in sensu in quo de rigore capitur.
+### Ad hanc replicam respondeo negando sequelam, et ad probationem nego antecedens in sensu in quo de rigore capitur
 
 Sed dico quod significatio de ly 'omnis' in voce et in mente est eadem. Unde significatio de ly 'omnis' non est alia nisi immutare seu movere intellectum ad hoc quod cognoscat aliqualiter, videlicet copulative res significatas per terminos categorematicos qualiter per ipsos terminos categorematicos intellectus non cognoscit.
 
-### Et ex hoc patet quid requiritur et sufficit ad hoc, quod aliqua syncategoremata sint synonyma, requiritur namque et sufficit quod eadem vel consimilia officia praecise adaequate sint nata exercere supra eosdem terminos, quavis non exerceant.
+### Et ex hoc patet quid requiritur et sufficit ad hoc, quod aliqua syncategoremata sint synonyma, requiritur namque et sufficit quod eadem vel consimilia officia praecise adaequate sint nata exercere supra eosdem terminos, quavis non exerceant
 
 Primum additur propter dictionem exclusivam quae, quamvis eadem officia  quae signa universalia exercere apta nata. Fit non tamen supra eosdem terminos; et secundum videlicet quod additur.
 
 Quavis non exerceat patet, nam istarum duarum propositionum "Omnis homo et cetera.", "Omnis asinus et cetera." signa universalia eadem officia exercent, non tamen supra consimilis terminos. Ac resolutorie, ad hoc quod sint synonyma categorica, oportet quod pars definitionis terminorum synonymum illis competat, videlicet quod significent aliqualiter omnino et eodem modo praecise et adaequate.
 
-### Contra hoc arguitur: Bene sequitur ly 'omnis' significat; ergo significatum significat.
+### Contra hoc arguitur: Bene sequitur ly 'omnis' significat; ergo significatum significat
 
 Ad hoc respondeo negando consequentiam.
 
-### Sed contra hoc arguitur. Bene sequitur ly 'omnis' significat qualiter; ergo aliqualiter significatur per ly 'omnis'.
+### Sed contra hoc arguitur. Bene sequitur ly 'omnis' significat qualiter; ergo aliqualiter significatur per ly 'omnis'
 
 Patet consequentia ab activa ad passivam; sed falsitas consequentis patet quia subiectum non supponit.
 
-### Ad hoc respondeo negando consequentiam: Argumentum enim ab activa ad passivam non valet quando terminus supra quem cadit, virtus verbi activi, non potest esse totale extremum.
+### Ad hoc respondeo negando consequentiam: Argumentum enim ab activa ad passivam non valet quando terminus supra quem cadit, virtus verbi activi, non potest esse totale extremum
 
 Ut non sequitur:
+
 > Obiectum facit intellectum advertere; ergo intellectum advertere fit ab obiecto. /11.1a/
 
-### Contra hanc solutionem arguitur: Haec est falsa "Ly 'omnis' significat aliqualiter"; ergo male dicis.
+### Contra hanc solutionem arguitur: Haec est falsa "Ly 'omnis' significat aliqualiter"; ergo male dicis
 
 Probatur antecedens: Illa est una propositio pure affirmativa, cuius praedicatum non supponit; ergo illa est falsa. Probatur antecedens quia ly 'significans aliqualiter' non supponit, quia determinatio haec 'aliqualiter' non supponit.
 
-### Ad hanc replicationem respondeo negando antecedens, et ad probationem nego iterum antecedens.
+### Ad hanc replicationem respondeo negando antecedens, et ad probationem nego iterum antecedens
 
 Unde quamvis determinatio non supponat, totum bene potest supponere, quando determinatio est syncategorematica. Sed non oportet quod si ipsa non supponit, totum extremum non supponat, ut patet in hac "Sortes est omnis homo", in qua hoc totum 'omnis homo' potest supponere, et ly 'omnis' non potest supponere.
 
-## Circa dubium secundum motum iam fuit controversia inter multos:
+## Circa dubium secundum motum iam fuit controversia inter multos
 
 Aliqui namque dicerent significare aliqualiter omnem eum terminum, qui non potest esse extremum in propositione; sed hi non explicant quis sit modus significandi aliqualiter.
 
 Alii dicunt quod significare aliqualiter est exercere officium supra aliquem terminum in propositione, utputa confundendo, distribuendo, ampliando, restringendo, et cetera. Quae definitio de modo significandi aliqualiter simplici et non complexo intelligenda est. Et hoc modo non procedit ratio cuiusdam impugnantis definitionem illam de propositione, quae significat aliqualiter, propter quod dat hanc definitionem:
+
 > Significare aliqualiter est significare rem taliter se habere vel esse, vel non taliter se habere.
 
 Sed haec definitio minus valet quam impugnata ab eo, quia modus hic significandi qualis in definitione explicatur, solum propositioni comperit. Praeterea sequitur ly 'omnis' non significare aliqualiter, nam non significat rem taliter se habere vel rem non taliter se habere, cum non significet rem.
 
-### Item videtur quod quicumque terminus categorematicus absolutus significaret aliqualiter:
+### Item videtur quod quicumque terminus categorematicus absolutus significaret aliqualiter
 
 Nam quicumque terminus categorematicus absolutus significat rem, nec importat eam aliquo modo se habere, quare non significat rem non taliter se habere, nam termini absoluti eam absolute significant.
 
-### Si dicas quod non arguo ad rem, quia oportet ad hoc aliquis terminus significaret aliqualiter quod in significatione sua includatur modus ille significandi rei aliqualiter /11.1b/ se habentis vel non se habentis:
+### Si dicas quod non arguo ad rem, quia oportet ad hoc aliquis terminus significaret aliqualiter quod in significatione sua includatur modus ille significandi rei aliqualiter /11.1b/ se habentis vel non se habentis
 
 Hoc nihil est, nam manifestum est ex hoc sequi solam propositionem eo modo rem aliqualiter se habere vel non se habere importare.
 
@@ -636,35 +643,35 @@ Item ly 'currens' significat aliqualiter, nam significat rem aliqualiter se habe
 
 Aliter ergo definies hunc terminum 'significare aliqualiter' pro definitionem illam superius data.
 
-### Significare aliqualiter est exercere officium supra aliquem terminum, vel includere terminum tale officium potes exercere:
+### Significare aliqualiter est exercere officium supra aliquem terminum, vel includere terminum tale officium potes exercere
 
 Secundam hanc particula pono propter propositionem, de cuius significatione dicetur dubio tertio et vicesimo, et propter terminos includentes huiusmodi syncategoremata, ut ly 'omnis homo', 'homo vel asinus' et similes. Ly 'exercere' in definitione oportet ut dicat aptitudinem, sicut termini in definitionibus dicunt.
 
-## Contra quam definitionem est bona difficultas de signis particularibus, unde arguitur sic:
+## Contra quam definitionem est bona difficultas de signis particularibus 
 
-In hac propositione "Aliquod animal currit" seu "Aliquis dormit", ly 'aliquod' syncategorema est, quare significat aliqualiter; et tamen non exercet officium supra aliquem terminum, nam maxime esset restringendo illum aut dando ei aliquam suppositionem. Sed ille terminus eodem modo et pro tot staret, syncategoremate illo ablato, sicut prius; ergo nec restringit nec novam ei praebet suppositionem.
+Unde arguitur sic: In hac propositione "Aliquod animal currit" seu "Aliquis dormit", ly 'aliquod' syncategorema est, quare significat aliqualiter; et tamen non exercet officium supra aliquem terminum, nam maxime esset restringendo illum aut dando ei aliquam suppositionem. Sed ille terminus eodem modo et pro tot staret, syncategoremate illo ablato, sicut prius; ergo nec restringit nec novam ei praebet suppositionem.
 
-### Si forte dicas quod nisi ly 'aliquod' non faceret illum terminum 'animal' supponere determinate, tamen si aliunde non supponeret determinate faceret ipsum supponere determinate.
+### Si forte dicas quod nisi ly 'aliquod' non faceret illum terminum 'animal' supponere determinate, tamen si aliunde non supponeret determinate faceret ipsum supponere determinate
 
-### Hoc falsum est nam communis est modus dicendi signa particularia eodem modo permittere terminos quoad suppositionem:
+### Hoc falsum est nam communis est modus dicendi signa particularia eodem modo permittere terminos quoad suppositionem
 
 Sicut inveniunt, hoc est, nullam novam praebent suppositionem; ut patet quia in hac "Omnis homo est animal", ly 'animal' confuse supponit, et quando addideris ei aliquod sic dicendo "Omnis homo est aliquod animal", ly 'animal' confuse supponit; et propositio haec "Omnis homo est unus homo", "Omnis homo est aliquis homo", conceditur.
 
-### Dicet aliquis ad haec, ly 'aliquod' non exercere officium supra ly 'animal', sed super totam propositionem eam quantificando:
+### Dicet aliquis ad haec, ly 'aliquod' non exercere officium supra ly 'animal', sed super totam propositionem eam quantificando
 
 Nam ablato ly 'aliquod', indefinita esset propositio remanens, et ratione eius tota fit particularis.
 
-### Hoc modo evitat difficultatem:
+### Hoc modo evitat difficultatem
 
 Nam tunc summam hanc "Homo est aliquod animal /1.1b/ de qua nihil tale dicere poteris.
 
-### Apparenter credes dicere ly 'aliquod' officium determinationis habere, et ideo exercet officium quod determinare vocamus.
+### Apparenter credes dicere ly 'aliquod' officium determinationis habere, et ideo exercet officium quod determinare vocamus
 
-### Contra hoc arguitur primo: Nullus terminus dicitur alium determinare nisi eum restringat; sed quidquid sit de hoc arguitur:
+### Contra hoc arguitur primo: Nullus terminus dicitur alium determinare nisi eum restringat; sed quidquid sit de hoc arguitur
 
 Sequitur quemcumque terminum categorematicum significare aliqualiter, sed hoc est falsum; ergo et cetera.
 
-Sequela probatur: ly 'homo' significat aliqualiter; ergo etiam quicumque alius, cum non sit maior ratio de uno quam de alio. Antecedens probatur: in hac propositione "Animal homo currit", ly 'homo' restringit ly 'animal' et determinat; ergo significat aliqualiter. Praeterea arguitur: Terminus ille dicitur significare aliqualiter, ratione cuius intellectus, aliqualiter rem significatam per aliquam notitiam intelligit, qualiter illo secluso non intelligeret; sed hoc non convenit huic termino 'aliquis', ergo propositum.
+Sequela probatur: Ly 'homo' significat aliqualiter; ergo etiam quicumque alius, cum non sit maior ratio de uno quam de alio. Antecedens probatur: in hac propositione "Animal homo currit", ly 'homo' restringit ly 'animal' et determinat; ergo significat aliqualiter. Praeterea arguitur: Terminus ille dicitur significare aliqualiter, ratione cuius intellectus, aliqualiter rem significatam per aliquam notitiam intelligit, qualiter illo secluso non intelligeret; sed hoc non convenit huic termino 'aliquis', ergo propositum.
 
 ### Ad hoc argumentum, stando in definitione data, difficile est dicere, quia non explicatur quis sit modus significandi signorum particularium et qualiter intellectus per eos intelligat:
 

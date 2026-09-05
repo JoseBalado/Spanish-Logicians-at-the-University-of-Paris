@@ -3090,7 +3090,7 @@ Consequentia tenet cum minori et maior patet, quia una pars illius copulati prae
 
 Tunc sic, ly 'homo et Sortes apud Platonem' est terminus singularis, et illis copulati una pars principalis est terminus communis et alia singularis apud Platonem; igitur maior est nota. Minor patet quia apud Platonem una pars principalis est ly 'homo' et altera ly 'existens Sortes'.
 
-### Ad argumentum nego minore et ad probationem nego antecedens
+### Ad argumentum nego minorem et ad probationem nego antecedens
 
 Ad cuius probationem nego maiorem et ad probationem nego quod ly 'significatum' per ly 'Sortes' praecise significet omne illud quod significatur per ly 'Sortes', quia certum est quod significat omne illud quod potest esse significatum per ly 'Sortes' proprie. Et si arguas ly 'significatum' per ly 'Sortes' praecise significat significatum per ly 'Sortes' et omne significatum per ly 'Sortes' est aliquid quod significatur per ly 'Sortes'; ergo praecise significat illud quod significat per ly 'Sortes'.
 

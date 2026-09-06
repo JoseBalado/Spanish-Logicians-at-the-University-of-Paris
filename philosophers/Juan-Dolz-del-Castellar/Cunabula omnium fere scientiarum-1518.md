@@ -57,7 +57,7 @@ Rogo vale.
 
 /12/
 
-## Arnardus Baranquetus Assonensis commilitones, otio artis philosophiae studium praestare anhelantes, summae salutis iuvat esse participes.
+# Arnardus Baranquetus Assonensis commilitones, otio artis philosophiae studium praestare anhelantes, summae salutis iuvat esse participes.
 
 Ut tradit Ovidius *Nono Metamorphoseos*, Ulixes contra Herculem, Graeciae luciferum, militiae gloriam adeptus est dono sapientiae, cuius virtute extollendus venit. Unde Apuleius libro *De Deo Socratis*:
 
@@ -81,7 +81,7 @@ Cui et Catullus elegia decima:
 
 Quare, florentissimi adolescentes, qui nectaream scientiarum dulcedinem ex acie degustare cupitis, assiduum, precor assequamini lucubrum. Nam si christianissimo poetae credamus, melior vigilantia somno, quam omnes attestantur. Herculem legisse memini in prologo *Historiae Tripartitae* Theodosium exercitari luce armis, et tenebra libros sollicite intueri, quapropter maximus fuisse naturalis ex dictis Sozomen colligitur. Ibidem narrat *Policraticus*, libro quarto, capitulo sexto, de Socrate. Caeterum de Iulio Caesare legimus, qui cum solis cursum investigaret, arithmetica praecise dies per horas et momenta divisit.
 
-Eia igitur, videntissimi scholares, sacros Minervae anhelantes haurire latices exoratos! Velim quatenus lintea portus intrent quaesitos, ut teneant tutas, anchora iactata, rates. Sed iam singula pandite vela, et detis luciferis lintea vela ventis! Quassatam ventis apteris studio classem maturatae fugam, ne incidatis in Syrtes, invenietis succosum incude volumen nostri Dolz praeceptoris, qui in philosophiam redolens ingressus, dulcibus liber *Proportionum* flosculis appellitatur; cuius quidem voluminis tum venustam facundiam, cum frugiferam utilitatem non possum sufficienti laudum praeconio extollere.
+Eia igitur, videntissimi scholares, sacros Minervae anhelantes haurire latices exoratos! Velim quatenus lintea portus intrent quaesitos, ut teneant tutas, anchora iactata, rates. Sed iam singula pandite vela, et detis luciferis lintea vela ventis! Quassatam ventis apteris studio classem maturatae fugam, ne incidatis in Syrtes, invenietis succosum incude volumen nostri Dolz praeceptoris, qui in philosophiam redolens ingressus, dulcibus *Liber Proportionum* flosculis appellitatur; cuius quidem voluminis tum venustam facundiam, cum frugiferam utilitatem non possum sufficienti laudum praeconio extollere.
 
 Debetis imprimis philosophiam advertere sublimi montis residentem vertice, ad quam olim difficilis admodum via propter itineris senticosi angustas fauces apparebat. Nihilominus tamen venerabilis et apprime sagax moderator noster nos, cum reliquis ad huius imperialis dominae apicem anhelos credens evehere, eductis omnibus impedimentis, asperum iter levigabit.
 
@@ -92,6 +92,74 @@ Haec est igitur via quam fecit Dominus: exultantes ambulemus in ea! Quapropter, 
 > ...dum fluvii in freta current, et dum montibus umbrae lustrabunt convexa, polus dum sidera pascet, et tandem auratas tradet regina coronas.
 
 Valete.
+
+/13/
+
+## Eiusdem: Carmen in quo laudes magistri Iohannis Dolz Aragonensis ostendit magnificari.
+
+Nuper odoriferis vernabat montis alludi
+
+    Floribus exsuperans Tempe sublimis apex
+
+Nunc nunc fructiferis praestantior ille dominus
+
+    Vincit in immensum totius orbis opes
+
+Dolz tulit egregios insigni germine flores
+
+    Qui pariunt moli commodiora viris.
+
+## Idem suis commilitonibus.
+
+Siste precor paulum iuvenis si guttur anhelet
+
+Ut grandi sitiens stu praedulcia Dolz dat
+
+Pocula gustato facilis via deinde patebit
+
+Hec medicina graves culpas extinguit et arces
+
+Expellit morbos languorem extirpat amarum
+
+Si tamen enervet validum rugosa senectus
+
+Robur et invalido sedeant in pectore vires
+
+Exigue corpus fluitanti prolue rivo
+
+Hinc aberunt rugae iuveniles induent annos
+
+Vultus et assuetum retinebunt membra vigorem.
+
+Valete.
+
+/14/
+
+# Guilhermus Aranboni Foceratanus egregio viro virtutum radiantissimo Blasio Fontanino salutem.
+
+Hortor te perhumaniter (fulgentissime vir) pro candidissimo amicitiae nostrae iure, ut minime pigeat lynceos oculos in frugiferam deducere philosophiam, eiusque florigera serpere pocula; quibus animam hominis adeo depingi a sapientibus traditur, ut non modo admirantia signa Polycleti pallia efficere, (verumque Apellis illius pictoris famosissimi artificiosa exsuperare opera) videatur.
+
+Apellem igitur, etsi in arte pingendi prae ceteris pictoribus floruisse traditur, quia mirificas cernentum oculis solitus esset sculpere statuas, quam insignioribus laudum praeconiis, et ipsos philosophos colendos esse auspicaris. Quorum monumentis ea (quae caelestis Deo) philosophia tam ingeniose exculta nobis atque posteris derelicta stat; qua immortales animas (ut ita aiunt), supra Polycleti signa aut Apellis simulacra venuste depictas esse censendum est.
+
+Enimvero, cum a multis doctioribus te accepisse opiner eam ipsam (quam saepe dico) animam virtutum coruscatione atque scientiarum lampade proficisci. Quid enim magis in homine perfectionem gignere videtur, quam eam ipsam naturalem (ut ita vocant) philosophiam? Ex cuius praeceptis quisquis facile effectuum causas atque causarum effectus in animo complecti potis est. Aut quis est tam a communi sensu alienus, qui audeat hanc inter ieiunas atque molles disciplinas collocare? Cuius imperitia homines ipsi in tantam duci solent animi caecitatem, ut non modo rerum naturam, (verum et se ipsos) ignorare fatentur.
+
+Ne igitur hunc sermonem erga te habuisse putes, ut eo doctrinae beneficio te simul mecum gaudere velim, quod magnificus moderator noster cunctis singulari quadam beneficentia largitus est. Is enim philosophiae radiantissimus, hoc egregium opus in lucem proferens, ea clementia usus esse videtur qua decet principem uti in suos subditos; dicente Seneca, libro primo *De clementia*, principi convenire rempublicam tueri ac confovere perinde ac corpus suum. Id igitur, ex suo ingenio, prodiisse claret; quo multi physicae sublimis artis molem facile dirupere possint.
+
+Ea etenim, quae dudum adolescentes solitario animo quaeritare solebant, nunc omnium oculis ita candescunt, ut illa (tamquam lucem novam) orta esse credamus. Quibus languor animi laxatur; quibus tandem, ad dapes physicas nectareosque rores, quisquis hilari amodo adire potest. Neminemque (ex his artium cacumina exspectantibus) esse reor, qui non conari debeat ea oculis percurrere, quibus animus ipse perficiatur.
+
+His igitur atramentariis characteribus te vehementer rogatum expeto, ut hoc egregium opus (quod clarissimus professor noster dominus Iohannes Dolz benefice nobis omnibus tribuit) inter alios tuae bibliothecae reponas, idque potissimum excolas. In eo enim opere invenies multa, quae minime te paenitebit laborioso certamine consequi faustiter.
+
+Vale.
+
+/15/
+[15 - duplicatum, omissum]
+
+/16/
+[16 - duplicatum, omissum]
+
+/17/
+
+Bernardus Pelamergue...
 
 <!--
 ## Apparatus Criticus Reference

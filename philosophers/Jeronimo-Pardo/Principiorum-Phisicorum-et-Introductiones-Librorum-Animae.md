@@ -732,8 +732,25 @@ Primo quaeritur: quis actus eius est nutrire?
 
 Secundo quaeritur: quod est eius obiectum alimentum seu nutrimentum?
 
-Unde nutritio est conversio nutrimenti in substantiam /33a/ aliti
+Unde nutritio est conversio nutrimenti in substantiam /33a/ aliti propter salutem ipsius nutriti, ex quo sequitur postquam nutritiam nutrire est eam convertere nutrientem in substantiam nutriti, id est facere quod materia quae prius informabatur formam nutrimenti desinat informare illam formam et postea informaretur de novo forma nutriti vel formam sibi simili. Ut comedo panem, iste panis alteratur in stomacho virtute caloris naturalis, et postea, in instanti terminante, illam alterationem panis desinit esse sub materia illius panis, informatur forma carnis.
 
+Et natura intellectiva et ista potentia habet quattuor vires, scilicet digestivam, attractivam, et expulsivam, et retentivam, unde virtus digestiva est virtus per quam digestum nutrimentum ut materia eius informetur forma nutriti. Attractiva vero est virtus ipsius animae per quam attrahit illud quod est necessarium de nutrimento. Sed retentiva est virtus ipsius animae per quam qui retinet nutrimentum quam tunc requaeritur ad debitam digestionem. Sed expulsiva est virtus animae per quam expellit illud quod est superfluum ad salutem ipsius viventis.
+
+Sed potentia augmentativa est quod [actus] est augmentari, unde augmentatio est transversio nutrimenti in substantiam aliti priusquam fuerit deperditum propter salutem ipsius /33b/ nutriti.
+
+Dicit notanter "prius fuerit deperditum", nam non omnis conversio est augmentatio, sed oportet quod prius convertatur de nutrimento quanquam met nutrimentum perdat de substantia sua. Unde sic est imaginandum quod umquam aliquid nutritur quin perdat aliquid de sua substantia, requiritur ad augmentationem quod plus acquiratur quam deperdatur. Et de ista augmentativa et diminutiva de qua loquimur.
+
+Ponitur talis regula ab Aristotele:
+
+> Omnem animatum inditura constantium, id est omnium animatorum positus est certus terminus augmenti et decrementi.
+
+Id est, omne animatum habet certum terminum, id est certam quantitatem quam potest attingere, et maiorem non habere. Similiter omne animatum habet certum decrementum ad quod posset devenire, et ad minus non posset.
+
+Sed potentia generativa est cuius actus est generare; unde generare est convertere semen in aliquod animatum propter conservationem speciei.
+
+Et de istis tribus potentiis, quaeritur utrum distinguantur reali ab anima?
+
+Dico quod non, unde ipsa anima inquantum potest operari diversimode /34a/
 
 <!--
 ## Apparatus Criticus Reference

@@ -159,7 +159,27 @@ Vale.
 
 /17/
 
-Bernardus Pelamergue...
+# Bernardus Pelamergue vulgo Manso dictus Carcassonensis Iohanni Dolz Aragonensi praeceptori suo S. D. P.
+
+Diu multumque mecum cogitavi, reverende praeceptor, quod praecipue bonum scribendi genus humanae vitae maxime conduceret. Intuebar poeticos viros, ut ab imis ad fastigiora ascendant, vitia cum heroicis tum elegiacis carminibus insectari, virtutem mirificis praeconiis in caelum usque magnifacere, miscentesque Horatiano more utile dulci. Saepe tamen de illecebrosa voluptate diffuse atque petulanter, de deorum pluralitate et unius etiam conditione ita dedecorose fabulari, ut quae bene ab eis non tantum erudiunt, quantum quae male veneficiens et bonis moribus obfuisse; quod divus Hieronymus, intuens cibum daemonum carmina poetarum nuncupaverit. Historiam plurimum conferentis afferri non inficior, sed ipsa longior quam mentibus occupatis esse debeat apparet.
+
+Non me fugit dicendi copia gladio similem, ad oppugnandum et propugnandum utilem; sed quis hac sola se contentum fateri audebit? Fateor theologiam cum septem artibus liberalibus dignissimam, dum tamen philosophia circumornata perspiciatur. Quid hac sine poetae, oratores, historici, theologi caeterarumque scientiarum periti agere queunt?
+
+Haec est quae habentis intentionem certificat, difficilia facilitant, naturae conformis est et rationi. Bona procurat, ea conservat, vitae actualis honorem exsuperat, tumorem fortasse prosperitatis compescit. Est suprema: bonum, honestum, utile, delectabile ipsa deificat, et demum sua felicitate beatificat hominem. Seipsum cognoscere ostendit. Quid caetera scire, se vero ignorare prodest? Alii sciunt seipsos, aut ignorant; quid Aurelius Augustinus in libro *De Spiritu et Anima* praedixit:
+
+> Licitum est mihi ut me ipsum cognoscam, sustinere non possum ut me habeam incognitum.
+
+Non sufficeret calamus et tempus deesset, etiam si aeternum foret, si omnes huius laudes evomere deberem. Quibus pensitatis, colendissime eruditionis parens, nunquam persuasum, ut ab huius studio desisterem, mihi a genitore caeterisque meis affinibus fieri valuit. Quo, quaeso, honore, qua laude, qua memoria, qua auctoritate, quo pretio philosophi prisci habentur? Ita ut eis ac fidei doctoribus fere fides, haud immodica, praebeatur, qui Deo viventium appropinquant in hoc saeculo atque immortalitatem accedunt. Quam ipsi philosophiae incumbentes, Deus, ex Aristotele in *Ethicis*, non emptores, non venditores, non caeterorum agibilium humanorum quibus caeteri student, sed philosophiae exemplum et ideam, dum terris incederet, in principio et semper dedit, erigit et impendet.
+
+Qua de re his, ut ita dicam, expulsus et haerere, aliis praetermissis, censui. Et non tibi permittere, mi praeceptor existimo, tam eruditum me caeterosque sodales diu noctuque laborans: insequendo Alexandrum, Macedoniae principem, Aristotelem suum praeceptorem, quam Philippum parentem, maiori amore prosequendo. Munera plurima mortalia praeceptoris aiunt immortaliter essendo, et cum vulgo dicatur: ubi fundamentum non est, ibi aedificari non posse.
+
+Multum tibi debeo, et omnes mecum qui huius *Cunabula* in lucem emittere voluisti. Si non igitur tibi condigna ut Deo et parentibus reddere valeo, suscipe quas tanto gerimus sub pectore grates.
+
+Vale, meique memor sto.
+
+# Invectiva Iohannis Dolz Aragonensis in Iohannem de Celaya veritatem obnubilare volentem.
+
+/18.a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -180,5 +200,7 @@ Page 12: Sozomen ] emend. Zozomei
 Page 12: Policraticus ] emend. Policratus
 Page 12: Syrtes ] emend. Syrsthes
 Page 12: difficilis ] emend. diffilis
+Page 17: obfuisse ] emend. ob suis
+Page 17: compescit ] emend. conspescit
 
 -->

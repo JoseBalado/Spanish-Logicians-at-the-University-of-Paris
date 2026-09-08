@@ -51,15 +51,6 @@ The *Summulae* in particular connects Soto to the teaching tradition that produc
 
 ---
 
-## Original Works
-
-The following texts by Domingo de Soto are available in this site:
-
-- [Summulae (Burgos, 1529)](Summulae-1529.html)
-- [In Dialecticam Aristotelis Commentarii (Salamanca, 1554)](In-Dialecticam-Aristotelis-Commentarii-1554.html)
-
----
-
 ## Notes and Attribution
 
 [^1]: The biographical information on this page is largely drawn from the Wikipedia article [Domingo de Soto](https://en.wikipedia.org/wiki/Domingo_de_Soto), available under the [Creative Commons Attribution-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/), with additions and reframing focused on his logic and his connection to the Spanish logicians at Paris.
@@ -67,3 +58,12 @@ The following texts by Domingo de Soto are available in this site:
 [^2]: Wikipedia, [Domingo de Soto](https://en.wikipedia.org/wiki/Domingo_de_Soto), "Biography" section; cf. Herbermann, Charles, ed. (1913), "Dominic Soto", *Catholic Encyclopedia*, New York: Robert Appleton Company.
 
 [^3]: Wallace, William A. (2004). *Domingo de Soto and the Early Galileo*. Aldershot: Ashgate Publishing. ISBN 0-86078-964-0; Duhem, Pierre (1913). *Etudes sur Léonard de Vinci*, vol. 3. Hermann.
+
+---
+
+## Original Works
+
+The following works by Domingo de Soto are available on this site:
+
+- [*Summulae* (Burgos, 1529)](Summulae-1529.html)
+- [*In Dialecticam Aristotelis Commentarii* (Salamanca, 1554)](In-Dialecticam-Aristotelis-Commentarii-1554.html)

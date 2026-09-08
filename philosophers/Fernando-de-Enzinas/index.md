@@ -101,6 +101,6 @@ In the *Primus tractatus Summularum*, he acknowledged that the profusion of argu
 
 ## Original Works
 
-The following texts by Fernando de Enzinas are available in this site:
+The following works by Fernando de Enzinas are available on this site:
 
-- [Tractatus de compositione propositionis mentalis (Lyon, 1528)](Tractatus-de-compositione-propositionis-mentalis-1528.html)
+- [*Tractatus de compositione propositionis mentalis* (Lyon, 1528)](Tractatus-de-compositione-propositionis-mentalis-1528.html)

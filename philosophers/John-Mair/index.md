@@ -72,15 +72,6 @@ As a teacher, Mair attracted students from all over Europe. His logical and theo
 
 ---
 
-## Original Works
-
-The following texts by John Mair are available in this site:
-
-- [Introdvctorium in Aristotelicam Dialecticen (Paris, 1521)](Introdvctorium-in-Aristotelicam-Dialecticen-1521.html)
-- [Introductorium perutile in Aristotelicum dialecticen (1527)](Introductorium-perutile-in-Aristotelicum-dialecticen-1527.html)
-
----
-
 ## Notes and Attribution
 
 [^1]: The biographical information on this page is largely drawn from the Wikipedia article [John Major (philosopher)](https://en.wikipedia.org/wiki/John_Major_(philosopher)), available under the [Creative Commons Attribution-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/), with additions and reframing focused on his logic and his connection to the Spanish logicians at Paris.
@@ -88,3 +79,12 @@ The following texts by John Mair are available in this site:
 [^2]: Wikipedia, [John Major (philosopher)](https://en.wikipedia.org/wiki/John_Major_(philosopher)), "Life" section; cf. Broadie, Alexander (1985). *The Circle of John Mair: Logic and Logicians in Pre-Reformation Scotland*. Oxford.
 
 [^3]: Wikipedia, [John Major (philosopher)](https://en.wikipedia.org/wiki/John_Major_(philosopher)), "Calvin and Loyola" section.
+
+---
+
+## Original Works
+
+The following works by John Mair are available on this site:
+
+- [*Introdvctorium in Aristotelicam Dialecticen* (Paris, 1521)](Introdvctorium-in-Aristotelicam-Dialecticen-1521.html)
+- [*Introductorium perutile in Aristotelicum dialecticen* (s.l., 1527)](Introductorium-perutile-in-Aristotelicum-dialecticen-1527.html)

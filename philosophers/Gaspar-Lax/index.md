@@ -439,14 +439,6 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 
 ---
 
-## Original Works
-
-The following texts by Gaspar Lax are available in this site:
-
-- [Tractatus Summularum (Zaragoza, 1521)](Tractatus-Summularum-1521.html)
-
----
-
 ## References
 
 [^1]: Birth year inferred from encomiastic verses: Enciclopedia Espasa, vol. 29, col. 1206. The year 1481 is given by M. Chevalier, *Répertoire de sources* (Montbéliard, 1903), II, col. 2780.
@@ -468,3 +460,11 @@ The following texts by Gaspar Lax are available in this site:
 [^9]: Solana (op. cit.), III, p. 19.
 
 [^10]: Enciclopedia Espasa, vol. 29, col. 1206.
+
+---
+
+## Original Works
+
+The following works by Gaspar Lax are available on this site:
+
+- [*Tractatus Summularum* (Zaragoza, 1521)](Tractatus-Summularum-1521.html)

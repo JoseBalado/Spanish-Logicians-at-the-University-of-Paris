@@ -44,6 +44,12 @@ The use of both *terminis* (in the opening) and *introductionibus* (in the first
 - *Termini* (Paris, 1514)
 - [*Cunabula omnium fere scientiarum et precipue phisicalium difficultatum* (Montalbanum, 1518)](https://www.google.com/books/edition/Cunabula_omnium_fere_scientiarum_et_prec/sFNKTGK9w-UC)
 
+## Original Works
+
+The following text by Juan Dolz del Castellar is available on this site:
+
+- [*Cunabula omnium fere scientiarum et precipue phisicalium difficultatum* (Montalbanum, 1518)](Cunabula-omnium-fere-scientiarum-1518.html)
+
 ## Bibliography
 
 - E. J. Ashworth (1974). [Language and Logic in the Post-Medieval Period (Springer Netherlands)](https://www.google.com/books/edition/Language_and_Logic_in_the_Post_Medieval/Ctdzf5fhrEoC). Dolz, Juan 7; 38; 59; 70, n. 7, n. 10, n. 12, n. 18; 71, n. 51; 72, n. 69; 73, n. 89; 74, n.96, n.98, n. 103, n. 109, n. 111; 75, n. 115, n. 121, n. 129; 129; 144, n.37, n. 39, n. 43; 167, n. 22; 168, n. 36, n. 39, n.40,n.41,n. 43,n. 44,n. 51;169,n. 58, n.64, n.65, n. 80; 170, n. 104, n. 106; 175; 176; 177; 186, n. 5; 253; 265; 266; 267

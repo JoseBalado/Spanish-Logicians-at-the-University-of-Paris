@@ -35,7 +35,9 @@ keywords: >-
 /8/
 # Titulus libri
 
-# Cunabula omnium fere scientiarum, et praecipue physicalium difficultatum in proportionibus et proportionalitatibus, sita a Iohanne Dolz Aragonensis in lucem deducta. ✠
+# Cunabula omnium fere scientiarum, et praecipue physicalium difficultatum in proportionibus et proportionalitatibus, sita a Iohanne Dolz Aragonensis in lucem deducta.
+
+✠
 
 /9/
 [9 - duplicatum, omissum]
@@ -181,7 +183,43 @@ Vale, meique memor sto.
 
 # Invectiva Iohannis Dolz Aragonensis in Iohannem de Celaya veritatem obnubilare volentem.
 
-/18.a/
+/18a/
+
+Sequuntur quae hic meus aemulus reprehendere laboravit. Unamquamque reprehensionem seorsum adducam, et etiam absolutam sumendo initium a reprehensionibus quas suis in *Terminis*, si sui dici mereantur, cum reverentia loquendo, in nos vehere non dubitavit.
+
+## Prima reprehensio
+
+In terminis quos olim Parisius, inter regendum, impressioni demandaveram, reprobavi istum mordacem, quia dixerat, in suis introductionibus, quod capta ista propositione se sola, ex hac denotatur aliquid inferri, ipsi bene convenit definitio antecedentis, et tamen non est antecedens.
+
+Respondit: sufficit quod sit antecedens in potentia propinqua. Impugnavi hoc, nam inferebam tunc quaelibet propositio esset antecedens in potentia propinqua, quod ipse concessit, et dixi hoc nihil esse dictum, et ita est argumentum.
+
+Enim non quaerit si est antecedens in potentia propinqua, sed an sit antecedens iuxta definitionem cui, tam definitio videbatur convenire, et non definitum; ideo illo dicto non evacuabat argumentum, et super hoc ipsum castigavi.
+
+Credidit iste ignarus quod velim habere pro inconvenienti quod diceretur antecedens in potentia propinqua, quod non negavi nec concessi, ut ipse mihi imponit. Patet videnti meos *Terminos*, licet fateri possem illud, et sic duplici errore vestitum.
+
+In hac prima reprehensione, non vera, sed putata, ipsum unusquisque intelligere valet. Primus est dum non cognovit solutionem esse nullam. Secundus est quia me non intelligere valuit, sed haud mirum, quia seipsum non intellexit. Et unde magis mirandum est, est quod a prima impressione sua non castigaverit suum opus, viso quod humanum est peccare, et quod indies proficimus, et ignorantias clarificamus. At forsitan habet alium intellectum, a nostra specie, non valentem proficere.
+
+Vocat me caecum et ignarum, sed suo pugione se suffodit, et dicit aliis quod sibi verum dicendum timet.
+
+Sint periti iudices et proculdubio condemnabitur, res est lucida.
+
+## Secunda reprehensio
+
+Reprehendit praedictus aemulus me super solutione quam do praecedenti difficultati in meis *Terminis*, prima quarta, et dicit, inferendo contra me quod in mente ultimata esset aequivocatio, aliter quam procedatur communiter.
+
+Patet manifeste istius ignorantia: communiter iter conceditur in /18b/ mente esse aequivocationem complexam, quam me concedentem, impugnat. Quia aequivocatio quam concedo est in consequentia, quam complexam quis haesitat, maxime cum foveant partes opinionis communis, tenentis mentalem ex pluribus partialibus notitiis componi? Immo plerisque placet actum syncategorematicum de ly 'non' mentalem incomplexum esse aequivocum. Si per 'communem modum' intelligit propriam corrigendam opinionem, secus est; sed non censeo communem modum pro maiori parte vero consonum appellatione suae propriae ignorantiae censeri. Et dicit me incidere in suas solutiones.
+
+Videant periti meos et suos *Terminos* legentes, et videbunt me ab ipso deviare, ut verum a falso disgregatur. Hoc, quia viro oculato patet, non impugno indoctos; praetereo. Doctus debet esse iudex, ut studiosus agibilium ex Aristotele in *Ethicis*.
+
+Dicit me incidere in Scyllam, putans evitare Charybdim. Si per Scyllam veram opinionem et per Charybdim suam confusionem intelligat, fateor; si propria terminorum significatione utatur, consta oppositum ex dictis.
+
+### Tertia reprehensio:
+
+Praefatus aemulus me reprehendere conatus est in materia de significare, ubi fateor quemlibet terminum scriptum, quaelibet scriptum, naturaliter communiter significare. Sed volendo se scientem ostendere, seipsum ignorantem patefacit.
+
+Nescivit intelligere qualiter haec significatio, naturaliter communis, est connotativa abstracta a convenientia accidentali. Et ignoravit opiniones: cum aliqui teneant a convenientia accidentali actualiter existente ipsam abstrahi; alii vero non solum ab existente, sed etiam potenti inesse. Inde 'album' non solum quod est album, sed quod potest esse album significat.
+
+Secundum hanc ultimam opinionem, quis dubitat illud esse concedendum, cum abstrahatur a similitudine significationis, quae cuilibet termino potest inesse? Ratus est hic insciolus non aliam opinionem quam vidit fuisse, et sic ostendit se pauca vidisse, vel si viderit, retinuisse. Sed nimirum, ut deducetur inferius, vocat me pinguem et petasonem, putans me afficere iniuria. Ostendam inferius pinguedinem qualem /19a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -204,5 +242,6 @@ Page 12: Syrtes ] emend. Syrsthes
 Page 12: difficilis ] emend. diffilis
 Page 17: obfuisse ] emend. ob suis
 Page 17: compescit ] emend. conspescit
+Page 17: insciolus ] emend. infiolus
 
 -->

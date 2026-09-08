@@ -7,7 +7,9 @@ place: "Montalbanum"
 signature: "FG355"
 library: ""
 description: >-
+    Cunabula omnium fere scientiarum et precipue phisicalium difficultatum by Juan Dolz del Castellar, printed at Montalbanum (Montauban) in 1518. A treatise on proportions and proportionalities, including a rebuttal of Juan de Celaya.
 keywords: >-
+    Juan Dolz del Castellar, Cunabula omnium fere scientiarum, proportions, proportionalities, natural philosophy, physical difficulties, scholasticism, Renaissance philosophy, Juan de Celaya, Montalbanum, Montauban, 1518
 ---
 /1/
 [1 - duplicatum, omissum]

@@ -40,7 +40,7 @@ In 1559 he was attacked by gout and went blind. He died on 23 February 1560 and 
 He had the fortune and honor of being teacher to Luis Vives and to the future Saint Francis Borgia.[^10]
 
 
-## Index of Works and Detailed Table of Contents
+## Detailed Table of Contents
 
 ### Tractatus exponibilium propositionum (Parisius, 1507)
 *Littera minutissima*
@@ -416,6 +416,37 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 
 ---
 
+## Works
+
+- *Tractatus exponibilium propositionum* (Paris, 1507)
+- *Insolubilia* (Paris, 1508; revised edition, Paris, 1512)
+- *Tractatus syllogismorum* (Paris, 1509; revised edition, 1514)
+- *Tractatus de materiis et de oppositionibus in generali* (Paris, 1511)
+- *Exponibilia* (Paris, 1512)
+- *Obligationes* (Paris, 1512)
+- *Termini, secundo revisi* (Paris, 1512)
+- *Tractatus de oppositionibus propositionum categoricarum in speciali, et de earum aequipollentiis* (Paris, 1512)
+- *Impositiones* (Paris, 1513)
+- *Arithmetica speculativa* (Paris, 1515)
+- *Proportiones* (Paris, 1515)
+- *Calculationes generales philosophice* (Zaragoza, 1517)
+- *Tractatus parvorum logicalium* (Zaragoza, 1521)
+- *Tractatus summularum* (Zaragoza, 1521)
+- *Summa parvorum logicalium* (Zaragoza, 1525; revised edition, 1532)
+- *Questiones phisicales* (Zaragoza, 1527)
+- *Summa syllogismorum* (1528)
+- *Tractatus consequentiarum* (1532)
+
+---
+
+## Original Works
+
+The following texts by Gaspar Lax are available in this site:
+
+- [Tractatus Summularum (Zaragoza, 1521)](Tractatus-Summularum-1521.html)
+
+---
+
 ## References
 
 [^1]: Birth year inferred from encomiastic verses: Enciclopedia Espasa, vol. 29, col. 1206. The year 1481 is given by M. Chevalier, *Répertoire de sources* (Montbéliard, 1903), II, col. 2780.
@@ -437,11 +468,3 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 [^9]: Solana (op. cit.), III, p. 19.
 
 [^10]: Enciclopedia Espasa, vol. 29, col. 1206.
-
----
-
-## Original Works
-
-The following texts by Gaspar Lax are available in this site:
-
-- [Tractatus Summularum (Zaragoza, 1521)](Tractatus-Summularum-1521.html)

@@ -35,6 +35,12 @@ The biographical information currently available is limited, but the following r
 
 ---
 
+## Works
+
+- *Tractatus noticiarum*, with *Quaestiones in libros Posteriorum resolutionum Philosophi* (Basel, 1519)
+
+---
+
 ## Original Works
 
 The following text by Gervasius Waim is available on this site:

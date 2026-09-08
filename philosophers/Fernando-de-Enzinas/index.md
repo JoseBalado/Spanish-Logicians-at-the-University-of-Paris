@@ -29,16 +29,6 @@ Alvar Gómez records that Enzinas's *Summulae* were read at Alcalá, and reports
 
 Enzinas also remained influential at Salamanca. Around 1530 Cristóbal de Medina used his *Summulae* in his teaching and prepared a Salamanca edition of the *Primus tractatus Summularum*. Medina described Enzinas as uniquely learned in every aspect of dialectic and praised the ingenuity and erudition of his logical writings, even though Medina had previously taught John Mair, David Dullaert, Juan de Celaya, and other authors.
 
-## Works
-
-- *Opus syllogismorum* (Alcalá, 1518)
-- *Liber secundus de relativis atque oppositionibus in propositionibus in quibus ponuntur relativa* (1520)
-- *Primus tractatus Summularum* (reported edition, 1520; Alcalá, 1523; Salamanca, c. 1525–1530)
-- *Magnorum exponibilium seu tertii libri Oppositionum* (Paris, 1521; Toledo, 1523)
-- *Tractatus de compositione propositionis mentalis* (1526; Lyon, 1528)
-- *Oppositionum liber primus* (Paris and Lyon, 1528)
-- *Termini et principia Dialectices* (1533; Lyon, 1537)
-
 ## Logical Works and Thought
 
 Enzinas's writings form what Muñoz Delgado calls an encyclopedia of the *summulist* logic of his time. They expand the elementary framework of Peter of Spain's *Summulae logicales* with the later medieval theories of consequence, supposition, opposition, relative expressions, mental language, and exponible propositions. Because Enzinas died in 1523, dates later than that refer to posthumous editions or revisions rather than newly written works.
@@ -94,6 +84,18 @@ In the *Primus tractatus Summularum*, he acknowledged that the profusion of argu
 [^1]: It is reasonable to assume that he was born in 1494, as Domingo de Soto, his colleague in studies, was born around the same time.
 
 [^2]: Urriza, pp 288-290, 450, 486, 509; Villoslada, pp. 392-394.
+
+---
+
+## Works
+
+- *Opus syllogismorum* (Alcalá, 1518)
+- *Liber secundus de relativis atque oppositionibus in propositionibus in quibus ponuntur relativa* (1520)
+- *Primus tractatus Summularum* (reported edition, 1520; Alcalá, 1523; Salamanca, c. 1525–1530)
+- *Magnorum exponibilium seu tertii libri Oppositionum* (Paris, 1521; Toledo, 1523)
+- *Tractatus de compositione propositionis mentalis* (1526; Lyon, 1528)
+- *Oppositionum liber primus* (Paris and Lyon, 1528)
+- *Termini et principia Dialectices* (1533; Lyon, 1537)
 
 ---
 

@@ -39,13 +39,6 @@ This is the index of the Medulla Dyalectices:
 - Capitulum nonum: De syllogismis de medio communi
 - Capitulum decimum: De descensu
 
-## Works
-
-- *Medulla Dyalectices* (Paris, 1500)
-- *Medulla Dyalectices* (Paris, 1505), re-edited by John Mair and Jacobo Ortiz
-- *Introductiones physicales* (manuscript, Institución Colombina, sign. top. 7-2-29, h. 1r–26v)
-- *Introductiones librorum de anima* (manuscript, Institución Colombina, sign. top. 7-2-29, h. 27r–93r)
-
 ## Notes
 
 [^1]: The birth date is an estimate based on Pardo's friendship with John Mair, who was born in 1467. If the two were contemporaries and peers at the Collège de Montaigu — as the term *amicus* in Mair's text suggests — Pardo was likely born around the same time.
@@ -59,6 +52,15 @@ This is the index of the Medulla Dyalectices:
 [^5]: Cf. García Villoslada 1938, p. 380.
 
 [^6]: The biographical section of this article draws in part on Paloma Pérez-Ilzarbe (1996), *The Doctrine of Descent in Jeronimo Pardo. Meaning, Inference, Truth*, with subsequent additions and corrections.
+
+---
+
+## Works
+
+- *Medulla Dyalectices* (Paris, 1500)
+- *Medulla Dyalectices* (Paris, 1505), re-edited by John Mair and Jacobo Ortiz
+- *Introductiones physicales* (manuscript, Institución Colombina, sign. top. 7-2-29, h. 1r–26v)
+- *Introductiones librorum de anima* (manuscript, Institución Colombina, sign. top. 7-2-29, h. 27r–93r)
 
 ---
 

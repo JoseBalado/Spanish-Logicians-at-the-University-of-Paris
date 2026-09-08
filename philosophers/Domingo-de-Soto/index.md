@@ -33,7 +33,7 @@ Soto studied at the Collège Sainte-Barbe in Paris under [Juan de Celaya](../Jua
 
 Once back in Spain, Soto turned against the *via moderna* and pressed for a return to Aristotle and Thomism, but the logical training he had received in Paris was the foundation on which he built.
 
-### Logic works
+## Works
 
 Soto's main logical publication belongs directly to the Parisian summulae tradition:
 

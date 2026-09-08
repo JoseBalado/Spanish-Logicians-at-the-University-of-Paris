@@ -43,7 +43,7 @@ In 1521, wishing to write a treatise against Lutheran heresy, Antonio decided to
 
 ---
 
-## Index of Works
+## Works
 
 ### 1. *Tractatus exponibilium et fallaciarum* (Paris, 1509)
 Second edition: Paris (*Pro Dyonisio Roce*), 1511. Copy in the Biblioteca Nacional de Madrid (R. 19.977).

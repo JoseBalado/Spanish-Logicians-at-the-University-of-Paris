@@ -57,7 +57,7 @@ María L. Roure emphasizes the importance of Celaya as a witness to the doctrina
 
 ---
 
-## Index of Works
+## Works
 
 Works are arranged by date of first edition. Works printed at Paris during the Paris period (1510–1523) are followed by their Valencia and Caen reprints where known; works printed at Valencia are listed separately.
 

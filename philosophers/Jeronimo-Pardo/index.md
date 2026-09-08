@@ -66,7 +66,7 @@ This is the index of the Medulla Dyalectices:
 
 ## Original Works
 
-The following texts by Jerónimo Pardo are available in this site:
+The following works by Jerónimo Pardo are available on this site:
 
-- [Medulla Dyalectices (Paris, 1505)](Medulla-Dyalectices-1505.html)
-- [Principiorum Phisicorum et Introductiones Librorum Animae](Principiorum-Phisicorum-et-Introductiones-Librorum-Animae.html)
+- [*Medulla Dyalectices* (Paris, 1505)](Medulla-Dyalectices-1505.html)
+- [*Principiorum Phisicorum et Introductiones Librorum Animae* (Paris, date unknown)](Principiorum-Phisicorum-et-Introductiones-Librorum-Animae.html)

@@ -43,6 +43,6 @@ The biographical information currently available is limited, but the following r
 
 ## Original Works
 
-The following text by Gervasius Waim is available on this site:
+The following works by Gervasius Waim are available on this site:
 
-- [Tractatus noticiarum (Basel, 1519)](Tractatus-noticiarum-1519.html)
+- [*Tractatus noticiarum* (Basel, 1519)](Tractatus-noticiarum-1519.html)

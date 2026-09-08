@@ -69,7 +69,7 @@ Twenty-five years after his death, the Dominican Fray Domingo de Valtanás still
 
 ---
 
-## Index of Works
+## Works
 
 ### *Tractatus [de formatione] syllogismorum* (Paris, 1507 or 1508)
 Printed by Jean Barbier, Paris, February 1507 or 1508. The title page describes the author as *magister Ludovicus Coronel hispanus Segouiensis* and notes that the book was on sale at the bookseller Dyonisius Roce, at the sign of Saint Martin in the *Via Regia*, near Saint-Jacques. An accompanying poem by Guillermo Piel of Tours praises Segovia for having produced such a man. A copy is held at the Biblioteca Menéndez Pelayo, Santander.

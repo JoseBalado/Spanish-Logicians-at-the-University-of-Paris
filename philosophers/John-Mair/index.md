@@ -36,7 +36,7 @@ Mair's relationship with the Spanish logicians at Paris was deep and lasting:
 
 Wikipedia's article on Mair sums up his influence: "His influence extended through enthusiastic pupils to the leading thinkers of the day but most obviously to a group of Spanish thinkers, including Antonio Coronel."[^3]
 
-### Logic works
+### Logical Writings
 
 Mair was a prolific logician. His logical writings were collected and published in 1505, and he continued to write on logic throughout his career. His principal logic publications include:
 
@@ -56,6 +56,19 @@ He also co-edited works of others that are important for this group:
 ### Broader significance
 
 As a teacher, Mair attracted students from all over Europe. His logical and theological approach — nominalist, technically rigorous, skeptical of humanist stylistic fashions — was exactly the intellectual air the Spanish logicians breathed at the Collège de Montaigu. Through his Spanish students, and through Domingo de Soto and Francisco de Vitoria (who studied under Celaya and Lax), Mair's influence penetrated the School of Salamanca and shaped the development of late-scholastic thought in Spain.
+
+---
+
+## Works
+
+- *Terminorum exponibilium tractatus* (Paris, 1501)
+- *Inclytarum artium ac sacre pagine doctoris acutissimi Johannis Maioris … in Petri Hyspani summulas commentaria* (Paris, c. 1505)
+- *Propositum de infinito* and related treatises on infinity and terms (included in his collected logical works, Paris, 1505)
+- *Inclytarum artium … libri quos vocant Metaphysicorum* (Paris, 1506)
+- *Lectures in Logic* (Lyon, 1516)
+- *Introdvctorium in Aristotelicam Dialecticen* (Paris, 1521)
+- *Introductorium perutile in Aristotelicum dialecticen* (1527)
+- *Quaestiones logicales* (Paris, 1528)
 
 ---
 

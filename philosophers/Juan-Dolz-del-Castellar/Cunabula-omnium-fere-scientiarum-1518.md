@@ -35,7 +35,7 @@ keywords: >-
 /8/
 # Titulus libri
 
-# Cunabula omnium fere scientiarum, et praecipue physicalium difficultatum in proportionibus et proportionalitatibus, sita a Iohanne Dolz Aragonensis in lucem deducta.
+# Cunabula omnium fere scientiarum, et praecipue physicalium difficultatum in proportionibus et proportionalitatibus, sita a Iohanne Dolz Aragonensis in lucem deducta
 
 ✠
 
@@ -61,7 +61,7 @@ Rogo vale.
 
 /12/
 
-# Arnardus Baranquetus Assonensis commilitones, otio artis philosophiae studium praestare anhelantes, summae salutis iuvat esse participes.
+# Arnardus Baranquetus Assonensis commilitones, otio artis philosophiae studium praestare anhelantes, summae salutis iuvat esse participes
 
 Ut tradit Ovidius *Nono Metamorphoseos*, Ulixes contra Herculem, Graeciae luciferum, militiae gloriam adeptus est dono sapientiae, cuius virtute extollendus venit. Unde Apuleius libro *De Deo Socratis*:
 
@@ -99,7 +99,7 @@ Valete.
 
 /13/
 
-## Eiusdem: Carmen in quo laudes magistri Iohannis Dolz Aragonensis ostendit magnificari.
+## Eiusdem: Carmen in quo laudes magistri Iohannis Dolz Aragonensis ostendit magnificari
 
 Nuper odoriferis vernabat montis alludi
 
@@ -113,7 +113,7 @@ Dolz tulit egregios insigni germine flores
 
     Qui pariunt moli commodiora viris.
 
-## Idem suis commilitonibus.
+## Idem suis commilitonibus
 
 Siste precor paulum iuvenis si guttur anhelet
 
@@ -139,7 +139,7 @@ Valete.
 
 /14/
 
-# Guilhermus Aranboni Foceratanus egregio viro virtutum radiantissimo Blasio Fontanino salutem.
+# Guilhermus Aranboni Foceratanus egregio viro virtutum radiantissimo Blasio Fontanino salutem
 
 Hortor te perhumaniter (fulgentissime vir) pro candidissimo amicitiae nostrae iure, ut minime pigeat lynceos oculos in frugiferam deducere philosophiam, eiusque florigera serpere pocula; quibus animam hominis adeo depingi a sapientibus traditur, ut non modo admirantia signa Polycleti pallia efficere, (verumque Apellis illius pictoris famosissimi artificiosa exsuperare opera) videatur.
 
@@ -181,7 +181,7 @@ Multum tibi debeo, et omnes mecum qui huius *Cunabula* in lucem emittere voluist
 
 Vale, meique memor sto.
 
-# Invectiva Iohannis Dolz Aragonensis in Iohannem de Celaya veritatem obnubilare volentem.
+# Invectiva Iohannis Dolz Aragonensis in Iohannem de Celaya veritatem obnubilare volentem
 
 /18a/
 
@@ -213,13 +213,39 @@ Videant periti meos et suos *Terminos* legentes, et videbunt me ab ipso deviare,
 
 Dicit me incidere in Scyllam, putans evitare Charybdim. Si per Scyllam veram opinionem et per Charybdim suam confusionem intelligat, fateor; si propria terminorum significatione utatur, consta oppositum ex dictis.
 
-### Tertia reprehensio:
+### Tertia reprehensio
 
 Praefatus aemulus me reprehendere conatus est in materia de significare, ubi fateor quemlibet terminum scriptum, quaelibet scriptum, naturaliter communiter significare. Sed volendo se scientem ostendere, seipsum ignorantem patefacit.
 
 Nescivit intelligere qualiter haec significatio, naturaliter communis, est connotativa abstracta a convenientia accidentali. Et ignoravit opiniones: cum aliqui teneant a convenientia accidentali actualiter existente ipsam abstrahi; alii vero non solum ab existente, sed etiam potenti inesse. Inde 'album' non solum quod est album, sed quod potest esse album significat.
 
-Secundum hanc ultimam opinionem, quis dubitat illud esse concedendum, cum abstrahatur a similitudine significationis, quae cuilibet termino potest inesse? Ratus est hic insciolus non aliam opinionem quam vidit fuisse, et sic ostendit se pauca vidisse, vel si viderit, retinuisse. Sed nimirum, ut deducetur inferius, vocat me pinguem et petasonem, putans me afficere iniuria. Ostendam inferius pinguedinem qualem /19a/
+Secundum hanc ultimam opinionem, quis dubitat illud esse concedendum, cum abstrahatur a similitudine significationis, quae cuilibet termino potest inesse? Ratus est hic insciolus non aliam opinionem quam vidit fuisse, et sic ostendit se pauca vidisse, vel si viderit, retinuisse. Sed nimirum, ut deducetur inferius, vocat me pinguem et petasonem, putans me afficere iniuria.
+
+Ostendam inferius pinguedinem, qualem /19a/ habeo, spectare ad bonam complexionem. Voluit natura sagax, videns animam pinguefieri doctrinis et disciplinis, Deo tamen auctore, et corporis pinguedinem afferre, qualem declaravimus, ut sic esset decens correspondentia corporis ad animam; quod etsi non semper adsit, nihil in nos.
+
+Ignorabas moralem philosophiam et Aristotelem dicentem *Tertio Ethicorum*: "Naturalia non esse reprehendenda". Istud natura, non vitio, in me constat, cum fere omnes parentes sic pingues mihi fuerint.
+
+Testes, sunt qui viderunt avum meum meumque patruum eiusdem nominis mecum, recognovimus, et qui viderunt avunculum meum, mei patris cognatum, nomine proprio meo et cognomine vocatum; aliumque avunculum meum, parentis meae fratrem, proprio etiam meo nomine appellatum, qui totam nostrae regionis oram pacifice moderatur, pinguedine dotatum; patrem, non inmodicae quantitatis; matrem, cuius animae Deus misereatur, corpulentam et robustam intantum, ut virago communi appellatione nuncuparetur. Taceo alios meos parentes, meae complexionis similes.
+
+Quis, nisi ignarus naturalis, hoc partim ab ortu evenire negabit? Meam igitur define pinguedinem; tuam respice maceriem, quae est tanquam tabula rasa in qua nihil est depictum.
+
+Insistas argumentis: argumentum pinguedinis invalidum est. Et dato quod mala complexio esset, ars iuvat naturam, sed video hoc ignorabas; te in scholasticum a caetero habere potero, quia te erudio. Si dicas philosophos fuisse melancholicos ex Aristotele in magnis *Problematibus*, non intellexisti problema. Cum Aristoteles noluit dicere omnes philosophos a complexione melancholicos, sed ob studium tales fuisse effectos; experientia testatur studium parere melancholiam, quam et aliquando tempore studii in me expertus sum. Nihil igitur derogat pinguedo scientiae. Credo te hoc non expertum fuisse, quoniam dum haec efficiebas, potius somniasse quam studuisse tuis dicaris. Somnus reddit hominem humidum quod repugnat siccitati melancholiae; ideo sic loqueris ad aliqua quae non merentur dici rationes, in me quia non militat.
+
+Dico: quando dicis dictum meum esse contra definitionem Petri Hispani, in qua dicit significare naturaliter est significare idem apud omnes semper propalatiorem, tua in ignorantia te reddis. Nescis adhuc textum exponere, et textum, te interprete, tibi ascribis falsum nomen imponendo. /19b/
+
+Petrus Hispanus, dum illam dedit definitionem, nihil aliud voluit dicere nisi quod significare naturaliter erat unum significare quod aeque bene repraesentasset, et omnes repraesentationes terminorum naturaliter significantium aut rerum cognovisset, et eis repraesentationes factae fuissent, dato quod nulla fuisset impositio.
+
+Sicut iam multa nobis repraesentant nondum imposita, vides si hoc nobis adversetur. Alios sensus posset etiam dare, sed iste te obmutescere facit; non fuisti bene oculatus, etsi poetae in te solum animadvertissent nunquam Argum fixissent, non fuisses idoneus ad custodiendas vaccas Iunonis.
+
+Ad aliud quod dicis, me mihi contradicere in eodem loco, sed videant neutri an hoc sit verum. Et quando dicis in definitione de ly 'significare naturaliter communiter' me ponere hanc particulam 'adaequate', iam respondi in *Terminis* qualiter una causatione una res potest esse obiectum adaequatum conceptus communis, licet in aliis plures concurrat. In ratione obiectorum, obiectum est terminus partim collectivus; non igitur mihi repugno si intelligar, sed solum tuae falsitati repugno. Vide *Terminos*.
+
+Dicis me in hoc male defendere Lax. Cum de illo loqueris, non tuae personae, sed alieno rotulo uteris. Noli emittere falcem in messem tanti viri; aliena est tui respectu, cum eam tot annis cognoscere non valuisti. Sed desine latrare, et domesticus efficiaris conducit.
+
+### Quarta reprehensio
+
+Praenotatus aemulus super definitione termini divisione incomplexum, me reprehendere voluit, quia concessi in meis *Terminis* quod hoc totum "Iste homo vel asinus" non est terminus complexus, nec hoc totum "Iste homo albus". Et nullam impugnationem adducit, nisi solum dicens me definitionem termini singularis et incomplexi eandem repraesentasse. Puer hoc non dixisset, nec quisquam alter mentis compos; manifeste ibi ostendit suam aemulationem. Bene scit me scire aliquem esse terminum incomplexum qui non est singularis et e contra. Istud iudicio aliorum relinquo.
+
+Vellet ut impugnasset argumento valido quod dixisse pronomen feratur in totum. Constat esse probabile illud totum habere rationem termini incomplexi, etsi oppositum positum sit probabile, non minus istud probabile dici debet; secus si pronomen caderet in primam partem. Et quando argumento non potuit uti, more functus est puerilibus iniuriis me afficiendo /20a/, vocando meas *Disceptationes* "Deceptiones" 
 
 <!--
 ## Apparatus Criticus Reference
@@ -242,6 +268,12 @@ Page 12: Syrtes ] emend. Syrsthes
 Page 12: difficilis ] emend. diffilis
 Page 17: obfuisse ] emend. ob suis
 Page 17: compescit ] emend. conspescit
-Page 17: insciolus ] emend. infiolus
+Page 18b: insciolus ] emend. infiolus
+Page 19b: nondum ] emend. nūdum
+Page 19a: intantum ] emend. intm̄
+Page 19b: falcem ] emend. falſā
+
+
+
 
 -->

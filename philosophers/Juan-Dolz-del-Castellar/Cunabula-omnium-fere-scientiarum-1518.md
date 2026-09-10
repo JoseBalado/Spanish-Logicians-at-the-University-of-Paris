@@ -245,7 +245,41 @@ Dicis me in hoc male defendere Lax. Cum de illo loqueris, non tuae personae, sed
 
 Praenotatus aemulus super definitione termini divisione incomplexum, me reprehendere voluit, quia concessi in meis *Terminis* quod hoc totum "Iste homo vel asinus" non est terminus complexus, nec hoc totum "Iste homo albus". Et nullam impugnationem adducit, nisi solum dicens me definitionem termini singularis et incomplexi eandem repraesentasse. Puer hoc non dixisset, nec quisquam alter mentis compos; manifeste ibi ostendit suam aemulationem. Bene scit me scire aliquem esse terminum incomplexum qui non est singularis et e contra. Istud iudicio aliorum relinquo.
 
-Vellet ut impugnasset argumento valido quod dixisse pronomen feratur in totum. Constat esse probabile illud totum habere rationem termini incomplexi, etsi oppositum positum sit probabile, non minus istud probabile dici debet; secus si pronomen caderet in primam partem. Et quando argumento non potuit uti, more functus est puerilibus iniuriis me afficiendo /20a/, vocando meas *Disceptationes* "Deceptiones" 
+Vellet ut impugnasset argumento valido quod dixisse pronomen feratur in totum. Constat esse probabile illud totum habere rationem termini incomplexi, etsi oppositum positum sit probabile, non minus istud probabile dici debet; secus si pronomen caderet in primam partem. Et quando argumento non potuit uti, more functus est puerilibus iniuriis me afficiendo /20a/, vocando meas *Disceptationes* "Deceptiones". 
+
+Optima est glossa: "disceptatio", id est "deceptio". Sic et caetera glossat, et sic aberrat sua merito. Possunt dici "deceptoria" cum sint falsitatibus circumfusa. Et dicit ibidem me falli, dicendo oppositum esse sustentabile et tales terminos 'complexa distantia' vocari, istum etiam entia quae sunt 'Sortes'.
+
+Non videt duas opiniones probabiles. Et quando arguit quod partes se habent tamquam determinatio et determinabile, ergo non efficiunt 'complexum complexione distanti', negatur consequentia. Nescivit aliter terminos posse considerari, ut bene possunt.
+
+Item illud tamquam principalem solutionem adieci, ut patet respicienti meos *Terminos*. Et dixit me non intellexisse definitiones Lax; ipse profecto non intellexit cum ipsum infame reddere voluit eum impugnando, ita ad propositum, ut horis matutinis Magnificat apponitur.
+
+### Quinta reprehensio
+
+Aemulus hic manifestus, in materia de terminis pertinentibus et impertinentibus, dicta nostra obnubilare satagit, dicens me male dare definitionem terminorum disparatorum, quia tunc 'bonum' et 'asinus' non essent termini disparati, vel si essent posset verificari de eodem successive, ita non sunt contraria. Et ideo dicit me non intellexisse terminos. Profecto hic imponit aliis quod suum est; ignoravit aliquos ponentes differentiam inter disparatos large et disparatos alio modo qui contrarii dicuntur.
+
+Isti quos ego definitione sunt disparati large dicti, de talibus non procedit communis modus dum vocat illos duos terminos, 'homo' et 'asinus' disparatos, sed alio modo, et sic ignoravit aut differentiam inter disparatos et contrarios vel illam acceptionem qua disparati et contrarii conveniunt aut differunt. Concedo quod sunt disparati, sed non secundum acceptionem secundum quam definio ego; definio ut coincidunt cum contrariis communis modus. Negat in alia acceptione ut late dixi in *Praedicabilibus*, et sic tuae *Introductiones* possunt dici "Errores" et non mea principia.
+
+### Sexta reprehensio
+
+In suo capitulo de definitione castigat me, quia dixerim definitionem 'Chimaera' esse falsam licet sit bona, et arguit sic: sola propositio est falsa, illa definitio non est propositio. Sicut ibi "homo est animal rationale", "animal rationale" est definitio et non est propositio. Ideo interpretatur nomen meum "Dolz", id est "Dolus" sive deceptio.
+
+Iste vir, si ita interpretetur /20b/ caetera ut nomen meum, vindicabit sibi nomen prae caeteris etymologistarum. Qualis consonantia interpretationis! "Dolz", lingua nostra materna, dulcedinem importat, "deceptio" autem amaritudinem. Ista enim quadrant, cum dulce et amarum sint sapores extremi ex libris *De anima*. Sed laudandus est; consequenter loquitur male, exponit male, decidit et male interpretatur.
+
+Rectius posset suum interpretari in malam partem. Ipse ex meo nomine removet 'z' et superaddit 'u' et 's'; ego vero si vellem nihil a suo removere et solum 'u' superaddito resultabit "Luaya" quod gallice dicitur, et hoc idiomate aquitanico aequat et nostro idiomate "ansera".
+
+Istius bruti additio, multis praetermissis est rapax aemula, in cuius signum venit in hominem, ore aperto, quosdam sonos admodum sibilatus formando. Sic aemulus mordet et sibilat sine causa.
+
+Item avis haec a quis lutosis et foetidis involuta circumspicitur; sic iste non nisi detractionibus et iniuriis, parte inaudita, incumbit. Nolo plura dicere; vererer haec dicere si incepissem, sed de iure est quod vim vi repellere licet cum moderamine inculpatae tutelae, et quod frangenti fidem fides frangatur.
+
+Respondeo suae rationi et do triplicem solutionem suo argumento, ut cognoscat suam imbecillitatem.
+
+Dico primo: ut habetur ex Gabriele, primo *Sententiarum*, in plerisque locis haec nomina terminata in '-tio' possunt dicere aggregatum ex materiali et formali, ex concreto et abstracto secundum unam acceptionem. Sic definitio posset dicere totum aggregatum ex definitione et definito et copula coniungente eam cum eo, et sic verum esset definitio est propositio. Iste non viderat Gabrielem ut ostendit.
+
+Dico secundo: quando dicitur in meis *Terminis* "licet sit propositio falsa", illi verbo 'sit' non reddit suppositum ly 'definitio'; sed tota illa oratio "Chimaera est ens compositum" et caetera. Quid dicis aemule? Quid potes in hac solutione adducere? quid non respiciebas?
+
+Vis te penitus diffamare ostendendo te ignarum logicum, et minus eruditum grammaticum. Nescis cognoscere nisi unum suppositum verbi, ubi plura sint quae possint reddere in sensu grammaticali. Dictis tuis iuvenibus, carissimi, advertite ne incidatis in foveam. Ecce qualis amor videatis, quo amore vos persequitur, mittendo in vobis errores. Iste est verus deceptor et qui dolus recte nuncupatur. Vos videte, res est luce clarior.
+
+Tertio: possumus dicere propositio in uno libro reperta debet sumi ad intentionem /21a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -272,6 +306,7 @@ Page 18b: insciolus ] emend. infiolus
 Page 19b: nondum ] emend. nūdum
 Page 19a: intantum ] emend. intm̄
 Page 19b: falcem ] emend. falſā
+Page 20b: sibilatus ] emend. sibilitus
 
 
 

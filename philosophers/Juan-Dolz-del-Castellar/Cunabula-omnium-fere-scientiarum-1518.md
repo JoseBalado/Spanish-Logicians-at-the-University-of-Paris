@@ -279,7 +279,37 @@ Dico secundo: quando dicitur in meis *Terminis* "licet sit propositio falsa", il
 
 Vis te penitus diffamare ostendendo te ignarum logicum, et minus eruditum grammaticum. Nescis cognoscere nisi unum suppositum verbi, ubi plura sint quae possint reddere in sensu grammaticali. Dictis tuis iuvenibus, carissimi, advertite ne incidatis in foveam. Ecce qualis amor videatis, quo amore vos persequitur, mittendo in vobis errores. Iste est verus deceptor et qui dolus recte nuncupatur. Vos videte, res est luce clarior.
 
-Tertio: possumus dicere propositio in uno libro reperta debet sumi ad intentionem /21a/
+Tertio: possumus dicere propositio in uno libro reperta debet sumi ad intentionem /21a/ scribentis, sicut dicunt doctores de iuramento ad intentionem iurantis, et de lege ad intentionem praecipientis. Poterat intendere "est propositio falsa", id est in propositione falsa praedicatur, sicut intransitiva potest reduci ad transitivam et e converso. Ideo cognosce tuum delictum et agas poenitentiam.
+
+Frequenter hic aemulus dicit dicta cuiusdam esse erronea, a nemine nominando, et nullas facit impugnationes, sed dicit "non sunt digna ut impugnentur" quando nescit impugnare. Si posuisset impugnationes, formaliter respondissem.
+
+### Septima reprehensio
+
+In suo capitulo "De significare ad placitum" super primis impositionibus quomodo fuerint facta, ubi ego dico quod satis primus impositor explicabat, et dicit quod haec solutio ostendit me petasonem et beluam.
+
+Primo: certum est sive primus impositor Adam fecisset nutu, vel signo, vel alio modo, satis explicavit. Ideo non a veritate discrepo, sed hic nequivit intelligere. Et dum vocat me petasonem, iam respondi et respondebo latius inferius.
+
+Item: porcus, unde est petaso, praestabilior est asino. Porci omnia utilia sunt: caput, aures, ilia, epar, pedes, caro, denique et eius caetera. Sed in asino nihil est utile, nisi sit pellis; ipse vero asinus est et profecto rudibilis, quia nescivit mea dicta ratiocinari. Non tamen porcum me fateor; nisi proprietative, inquantum scilicet omnia mea sunt bona et utilia. Dum vocat me beluam, utitur officio muliebri; anticipat se, iam fere praevidens illud sibi merito appropriari. Clare demonstro ipsum esse illum.
+
+### Octava reprehensio
+
+Hic rhinoceroticus, in suo capitulo "De verbo", dicit me mihi repugnare eo quod semel dixerim verbum non posse infinitari ea ratione qua unit, et statim posse infinitari sub ratione verbi, quae videtur sibi implicantia. Sed dupliciter respondeo.
+
+Primo: primum dixi, secundum mentem meam; secundum, secundum aliam mentem, ut scilicet salvarem Aristotelem super infinitatione verbi, ut patet opera mea respicienti.
+
+Secundo: potest etiam et illud salvari secundum eandem mentem. Nam verbum etiam, inquantum verbum, potest bifariam considerari: uno modo inquantum unit; alio modo inquantum consignificat tempus, ut placet uni opinioni quam recito, etiam philosopho consone. Super primam non cadit /21b/ infinitatio, sed bene super secundam, quae est consignificatio alicuius vel aliorum, quae sufficit ad infinitationem. Non poteras igitur ista considerare.
+
+Vides faciliter dicta tua dilui. Sed caecus est, et sic facile in errorem laberis. Dicis me retractasse quaedam dicta in *Terminis*. Quando id ita esset, non hoc reputarem mihi esse ascribendum dedecori, quia ut inquit Paulus: "Dum eram parvulus loquebar ut parvulus; modo factus vir", et caetera. Parvulis loquebar, scilicet rudibus in arte dialectices; dum factus sum vir, id est, provectos docere libuit, et sic provectiori modo uti opus fuit. Si Paulus sic locutus est, quid mihi dedecoris ex tuis dictis infers?
+
+Item divus Augustinus, doctrinae sacrae basis, librum fecit *Retractationum*. Quid mirum si facerem? Non tamen fateor me dicta mea retractare, cum, ut vides ex solutionibus datis, non sit opus; si in diversis locis varias opiniones probabiles recitem, non ideo dicta revoco.
+
+### Nona reprehensio
+
+In materia de quantitate propositionum dicit me concedere quod in hac propositione "Non omnis homo, et Omnis asinus currunt", facto descensu partibus, fieri sub toto, o aemule. Cur hoc mihi imponis? Lege librum, vide si reperies? Videatis fallaciam istius viri; vides argumentis non posse in me concludere; imponit quae non concedo.
+
+Bene reperies quod primo debet fieri ab eius partibus; sed utrum inferatur ergo postea sub toto, ignoras ly 'primo' posse exponi affirmative et negative. Quid potes cum tanta confusione dicere? Apertissime manifestas tuam invidiam. Bene concedo quod in ista "Homo non et asinus currunt", facto descensu sub prima parte, potest fieri sub toto. Adhuc totum remanet terminus communis; istud bene reperies, sed aliud minime.
+
+A caetero non solum aemulum sed falsidicum te nuncupabo. Et quando infers quod ista esset universalis "Hominis, quilibet asinus currit" quia facto descensu sub ly 'hominis', potest fieri sub toto, non est simile, nam in alia facto descensu sub prima parte, totum subiectum est terminus communis, et ly 'et' negatur, quod est principalissimum in copulatis, et illa duo simul sumpta faciunt universalitatem, non sic de alia, et ita teneo tuus liber igitur est /22a/ congeries errorum. Quid audes mutire, dedecus speciei humanae?
 
 <!--
 ## Apparatus Criticus Reference

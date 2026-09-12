@@ -309,7 +309,45 @@ In materia de quantitate propositionum dicit me concedere quod in hac propositio
 
 Bene reperies quod primo debet fieri ab eius partibus; sed utrum inferatur ergo postea sub toto, ignoras ly 'primo' posse exponi affirmative et negative. Quid potes cum tanta confusione dicere? Apertissime manifestas tuam invidiam. Bene concedo quod in ista "Homo non et asinus currunt", facto descensu sub prima parte, potest fieri sub toto. Adhuc totum remanet terminus communis; istud bene reperies, sed aliud minime.
 
-A caetero non solum aemulum sed falsidicum te nuncupabo. Et quando infers quod ista esset universalis "Hominis, quilibet asinus currit" quia facto descensu sub ly 'hominis', potest fieri sub toto, non est simile, nam in alia facto descensu sub prima parte, totum subiectum est terminus communis, et ly 'et' negatur, quod est principalissimum in copulatis, et illa duo simul sumpta faciunt universalitatem, non sic de alia, et ita teneo tuus liber igitur est /22a/ congeries errorum. Quid audes mutire, dedecus speciei humanae?
+A caetero non solum aemulum sed falsidicum te nuncupabo. Et quando infers quod ista esset universalis "Hominis, quilibet asinus currit" quia facto descensu sub ly 'hominis' potest fieri sub toto, non est simile, nam in alia, facto descensu sub prima parte, totum subiectum est terminus communis, et ly 'et' negatur, quod est principalissimum in copulatis, et illa duo simul sumpta faciunt universalitatem, non sic de alia. Et ita teneo, tuus liber igitur est /22a/ congeries errorum. Quid audes mutire, dedecus speciei humanae?
+
+### Decima reprehensio
+
+In eadem materia impugnat maiorem et me eo quod dicimus 'copulatum divisive captum' non esse unum terminum. Et arguis quod sic, quia est unum subiectum, ergo unus terminus, et quod non sumus auditu digni.
+
+Ignosco tibi quia peccas non solum ignorans, sed per ignorantiam. Non nego esse unum terminum quoad omnia officia, sed quia non supponit unica suppositione, nec accipitur unica acceptione, nec potest totum singularizari, nec signum aliquod ipsum aliquo modo afficere. Secus de aliis complexis, qui si aliquando non unica, etiam unica accipi possunt. Et quando diceretur propositionem ex eo constructam non esse alicuius quantitatis, faciliter defenderetur discrimen in ordine ad alias assignando. Tu profecto non es dignus auditu, qui es falsis positor.
+
+### Undecima reprehensio
+
+In materiis ubi dicit me dicere quod praedicatum huius "Sortes fuit albus" non potest competere subiecto sine ampliatione, ego intelligo in ordine ad illam in illo sensu. Impugnas sensum erroneum quem tu concipis, et nego quod ista sit in materia remota "Chimaera imaginaria est Chimaera". 
+
+Eandem replicam facio et solvo, vel unam similem. Et non est idem de hac et de illa "Sortes fuit albus", 'albus' convenit Sorti cum copula de praesenti, ampliatione deducta. Non ita in alia. Nec ob haec fuit opus ponere distinctionem ampliationis extrinsecae et intrinsecae. Ubi replica compulisset, fecissem. Dicis me eam ignorare; millefies eam declaravi, ut testes sunt mei discipuli.
+
+### Duodecima reprehensio
+
+Iste invidus mihi imponit me dicere istam "Homo vel omnis asinus currit" non posse habere contrariam. Oppositum expresse dico posse habere. Non respexit nisi principium primae propositionis a me positae. Vide finem, et percipies oppositum. Statim malitia te excaecavit. Nonne infamis es falsum allegando?
+
+### Decimatertia reprehensio
+
+Super /22b/ meo trigesimo principali argumento contradictoriarum fundatur in falso. Propterea quod permittam descensum sub determinatione accepta unica, in una infertur debere admitti, in alia non, certe nisi apud imperitum. Et pro discrimine assigno quia sequitur inconvenientia in una et non in alia, quod logico sufficere debet. Et sic procedendo non habebis duo contradictoria vera ut constat intuenti.
+
+Et dicis quod in solutione vigesimi noni argumenti dixi esse inconveniens relativum referre terminum stantem determinate in utraque. Verum est in propositionibus illius argumenti. Secus ibi, discrimen est latissimum inter propositiones unius argumenti et alterius. Non semper si aliquis error semel tollit, semper tollit, ut dico in *Syllogismis*; illae non sunt similes acceptiones terminorum.
+
+Et dicis me illud argumentum accepisse a Gaspar Lax. Quando ita esset, ubi melius fundarer, nec a quo melius acciperem quam in illo vel ab illo a quo eruditionem suscepi? Multa accepi et multa addidi. Haec culpa te redarguit; cum mihi relatum est ab hoc et ab illo, unam chaos construxisti.
+
+### Decimaquarta reprehensio
+
+Super definitione propositionis hypotheticae dicit, secundum definitionem meam, definitum ingreditur definitionem, quod inconveniens, dummodo non ingrediatur sub ratione definiti. Hoc miror cur ignoraris, et dicis me leviter composuisse. Te vero, magno temporis intervallo, magis ex hoc vituperandus venis; in tanto tempore false dicta recitasti et errores seminasti.
+
+### Decimaquinta reprehensio
+
+In "Copulatis", super reductione huius "Sortes et Plato et Guilhelmus et Cicero sunt homines totales" quod tandem veniam ad incongruitatem ubi ly 'Sortes' debebit reddere suppositum copulae pluralis numeri. Nesciebas mutare copulam si argumentum petebat penes numeros. Secus si argumentum non peteret; propter replicam quam posses facere de aliis, idem alicubi repertum nihil facit, et alibi facit.
+
+### Decimasexta reprehensio
+
+Attribuit mihi in "Modalibus" me istam concedere "Sortes et Plato possibiliter sunt homo" /23a/, sed in septimo argumento modalium de possibili hoc, tanquam inconveniens, contra aliquos deduco. Aperi oculos et lege, et videbit ita esse. Omnes studiosos rogo istud videant, ut brutum et mendosum istum cognoscant.
+
+
 
 <!--
 ## Apparatus Criticus Reference

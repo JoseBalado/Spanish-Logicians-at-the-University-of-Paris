@@ -247,7 +247,7 @@ Praenotatus aemulus super definitione termini divisione incomplexum, me reprehen
 
 Vellet ut impugnasset argumento valido quod dixisse pronomen feratur in totum. Constat esse probabile illud totum habere rationem termini incomplexi, etsi oppositum positum sit probabile, non minus istud probabile dici debet; secus si pronomen caderet in primam partem. Et quando argumento non potuit uti, more functus est puerilibus iniuriis me afficiendo /20a/, vocando meas *Disceptationes* "Deceptiones". 
 
-Optima est glossa: "disceptatio", id est "deceptio". Sic et caetera glossat, et sic aberrat sua merito. Possunt dici "deceptoria" cum sint falsitatibus circumfusa. Et dicit ibidem me falli, dicendo oppositum esse sustentabile et tales terminos 'complexa distantia' vocari, istum etiam entia quae sunt 'Sortes'.
+Optima est glossa: "disceptatio", id est "deceptio". Sic et caetera glossat, et sic aberrat sua merito. Possunt dici *Deceptoria* cum sint falsitatibus circumfusa. Et dicit ibidem me falli, dicendo oppositum esse sustentabile et tales terminos 'complexa distantia' vocari, istum etiam entia quae sunt 'Sortes'.
 
 Non videt duas opiniones probabiles. Et quando arguit quod partes se habent tamquam determinatio et determinabile, ergo non efficiunt 'complexum complexione distanti', negatur consequentia. Nescivit aliter terminos posse considerari, ut bene possunt.
 
@@ -257,11 +257,11 @@ Item illud tamquam principalem solutionem adieci, ut patet respicienti meos *Ter
 
 Aemulus hic manifestus, in materia de terminis pertinentibus et impertinentibus, dicta nostra obnubilare satagit, dicens me male dare definitionem terminorum disparatorum, quia tunc 'bonum' et 'asinus' non essent termini disparati, vel si essent posset verificari de eodem successive, ita non sunt contraria. Et ideo dicit me non intellexisse terminos. Profecto hic imponit aliis quod suum est; ignoravit aliquos ponentes differentiam inter disparatos large et disparatos alio modo qui contrarii dicuntur.
 
-Isti quos ego definitione sunt disparati large dicti, de talibus non procedit communis modus dum vocat illos duos terminos, 'homo' et 'asinus' disparatos, sed alio modo, et sic ignoravit aut differentiam inter disparatos et contrarios vel illam acceptionem qua disparati et contrarii conveniunt aut differunt. Concedo quod sunt disparati, sed non secundum acceptionem secundum quam definio ego; definio ut coincidunt cum contrariis communis modus. Negat in alia acceptione ut late dixi in *Praedicabilibus*, et sic tuae *Introductiones* possunt dici "Errores" et non mea principia.
+Isti quos ego definitione sunt disparati large dicti, de talibus non procedit communis modus dum vocat illos duos terminos, 'homo' et 'asinus' disparatos, sed alio modo, et sic ignoravit aut differentiam inter disparatos et contrarios vel illam acceptionem qua disparati et contrarii conveniunt aut differunt. Concedo quod sunt disparati, sed non secundum acceptionem secundum quam definio ego; definio ut coincidunt cum contrariis communis modus. Negat in alia acceptione ut late dixi in *Praedicabilibus*, et sic tuae *Introductiones* possunt dici *Errores* et non mea principia.
 
 ### Sexta reprehensio
 
-In suo capitulo de definitione castigat me, quia dixerim definitionem 'Chimaera' esse falsam licet sit bona, et arguit sic: sola propositio est falsa, illa definitio non est propositio. Sicut ibi "homo est animal rationale", "animal rationale" est definitio et non est propositio. Ideo interpretatur nomen meum "Dolz", id est "Dolus" sive deceptio.
+In suo capitulo de definitione castigat me, quia dixerim definitionem 'Chimaera' esse falsam licet sit bona, et arguit sic: sola propositio est falsa, illa definitio non est propositio. Sicut ibi "Homo est animal rationale", "animal rationale" est definitio et non est propositio. Ideo interpretatur nomen meum "Dolz", id est "Dolus" sive deceptio.
 
 Iste vir, si ita interpretetur /20b/ caetera ut nomen meum, vindicabit sibi nomen prae caeteris etymologistarum. Qualis consonantia interpretationis! "Dolz", lingua nostra materna, dulcedinem importat, "deceptio" autem amaritudinem. Ista enim quadrant, cum dulce et amarum sint sapores extremi ex libris *De anima*. Sed laudandus est; consequenter loquitur male, exponit male, decidit et male interpretatur.
 
@@ -285,7 +285,7 @@ Frequenter hic aemulus dicit dicta cuiusdam esse erronea, a nemine nominando, et
 
 ### Septima reprehensio
 
-In suo capitulo "De significare ad placitum" super primis impositionibus quomodo fuerint facta, ubi ego dico quod satis primus impositor explicabat, et dicit quod haec solutio ostendit me petasonem et beluam.
+In suo capitulo *De significare ad placitum* super primis impositionibus quomodo fuerint facta, ubi ego dico quod satis primus impositor explicabat, et dicit quod haec solutio ostendit me petasonem et beluam.
 
 Primo: certum est sive primus impositor Adam fecisset nutu, vel signo, vel alio modo, satis explicavit. Ideo non a veritate discrepo, sed hic nequivit intelligere. Et dum vocat me petasonem, iam respondi et respondebo latius inferius.
 
@@ -293,7 +293,7 @@ Item: porcus, unde est petaso, praestabilior est asino. Porci omnia utilia sunt:
 
 ### Octava reprehensio
 
-Hic rhinoceroticus, in suo capitulo "De verbo", dicit me mihi repugnare eo quod semel dixerim verbum non posse infinitari ea ratione qua unit, et statim posse infinitari sub ratione verbi, quae videtur sibi implicantia. Sed dupliciter respondeo.
+Hic rhinoceroticus, in suo capitulo *De verbo*, dicit me mihi repugnare eo quod semel dixerim verbum non posse infinitari ea ratione qua unit, et statim posse infinitari sub ratione verbi, quae videtur sibi implicantia. Sed dupliciter respondeo.
 
 Primo: primum dixi, secundum mentem meam; secundum, secundum aliam mentem, ut scilicet salvarem Aristotelem super infinitatione verbi, ut patet opera mea respicienti.
 
@@ -341,11 +341,26 @@ Super definitione propositionis hypotheticae dicit, secundum definitionem meam, 
 
 ### Decimaquinta reprehensio
 
-In "Copulatis", super reductione huius "Sortes et Plato et Guilhelmus et Cicero sunt homines totales" quod tandem veniam ad incongruitatem ubi ly 'Sortes' debebit reddere suppositum copulae pluralis numeri. Nesciebas mutare copulam si argumentum petebat penes numeros. Secus si argumentum non peteret; propter replicam quam posses facere de aliis, idem alicubi repertum nihil facit, et alibi facit.
+In *Copulatis*, super reductione huius "Sortes et Plato et Guilhelmus et Cicero sunt homines totales" quod tandem veniam ad incongruitatem ubi ly 'Sortes' debebit reddere suppositum copulae pluralis numeri. Nesciebas mutare copulam si argumentum petebat penes numeros. Secus si argumentum non peteret; propter replicam quam posses facere de aliis, idem alicubi repertum nihil facit, et alibi facit.
 
 ### Decimasexta reprehensio
 
-Attribuit mihi in "Modalibus" me istam concedere "Sortes et Plato possibiliter sunt homo" /23a/, sed in septimo argumento modalium de possibili hoc, tanquam inconveniens, contra aliquos deduco. Aperi oculos et lege, et videbit ita esse. Omnes studiosos rogo istud videant, ut brutum et mendosum istum cognoscant.
+Attribuit mihi in *Modalibus* me istam concedere "Sortes et Plato possibiliter sunt homo" /23a/. Sed in septimo argumento *Modalium de possibili* hoc, tanquam inconveniens, contra aliquos deduco. Aperi oculos et lege, et videbit ita esse. Omnes studiosos rogo istud videant, ut brutum et mendosum istum cognoscant.
+
+### Decima septima reprehensio
+
+Impugnat me super uno casu decimi argumenti *Modalium de possibili*, in *Modalibus* meis positi, quem dicitur in solvendum, et ideo dicit me non scire solvere et quod nunquam edam *Exponibilia*. Iam scripsi et scholaribus meis solutionem praebui. Ipsi sint testes. Nonne vides te inconsiderate loqui cum oppositum tuorum dictorum constet?
+
+### Decima octava reprehensio
+
+Impugnat me super positione inesse istius "Sortes necessario est entia", et quod incido in idem inconveniens quod infero. Hoc est manifeste falsum si vis mihi hanc attribuere aliqua quae sunt, vel erunt, vel fuerunt, vel possibiliter sunt. "'Sortes' sunt entia pro eius de inesse" male attribuis cum hoc improbem contra alios. Sed inferius, sub hac impugnatione quam facio, ponam /23b/ eam inesse alio modo quem non impugnas, et maxime tentis circumstantiis quas suppono, ut patet consideranti opera mea. Et sic, tum quia tria aut quattuor falsa mihi imponis et in aliis veritatem enervare conaris, quid nisi ignominiosum et dedecorosum in te afferre possem?
+
+Iam omnes ex his dictis te falsum allegatorem, invidum aemulum, malitiosum ignorantem te cognoscent. Sit tibi exemplum ut a caetero te doctiores non aggrediaris, quoniam a proportione minoris inaequalitatis non fit actio. Ista sunt quae consocius meus Marandus ex tuis *Erroribus* mihi detulit. De caeteris non curavit, sufficit honori meo satisfaciam. Sed non dubito omnia tua dicta destruxisse si ea videre dignatus fuissem, sed ad altiora iam animus meus instat.
+
+Vale, non ut sic amplius scribas, sed ut valendo caecitatem oculorum et mentis expellere possis.
+
+Credo iam te, o susurrator, ita obrutum confutatumque te esse, ipsa veritate attestante, ut nihil ultra repugnare nihilque quaerere debeas.
+
 
 
 

@@ -111,7 +111,7 @@ Nunc nunc fructiferis praestantior ille dominus
 
 Dolz tulit egregios insigni germine flores
 
-    Qui pariunt moli commodiora viris.
+    Qui pariunt molli commodiora viris.
 
 ## Idem suis commilitonibus
 
@@ -315,7 +315,7 @@ A caetero non solum aemulum sed falsidicum te nuncupabo. Et quando infers quod i
 
 In eadem materia impugnat maiorem et me eo quod dicimus 'copulatum divisive captum' non esse unum terminum. Et arguis quod sic, quia est unum subiectum, ergo unus terminus, et quod non sumus auditu digni.
 
-Ignosco tibi quia peccas non solum ignorans, sed per ignorantiam. Non nego esse unum terminum quoad omnia officia, sed quia non supponit unica suppositione, nec accipitur unica acceptione, nec potest totum singularizari, nec signum aliquod ipsum aliquo modo afficere. Secus de aliis complexis, qui si aliquando non unica, etiam unica accipi possunt. Et quando diceretur propositionem ex eo constructam non esse alicuius quantitatis, faciliter defenderetur discrimen in ordine ad alias assignando. Tu profecto non es dignus auditu, qui es falsis positor.
+Ignosco tibi quia peccas non solum ignorans, sed per ignorantiam. Non nego esse unum terminum quoad omnia officia, sed quia non supponit unica suppositione, nec accipitur unica acceptione, nec potest totum singularizari, nec signum aliquod ipsum aliquo modo afficere. Secus de aliis complexis, qui si aliquando non unica, etiam unica accipi possunt. Et quando diceretur propositionem ex eo constructam non esse alicuius quantitatis, faciliter defenderetur discrimen in ordine ad alias assignando. Tu profecto non es dignus auditu, qui es falsi positor.
 
 ### Undecima reprehensio
 
@@ -361,7 +361,28 @@ Vale, non ut sic amplius scribas, sed ut valendo caecitatem oculorum et mentis e
 
 Credo iam te, o susurrator, ita obrutum confutatumque te esse, ipsa veritate attestante, ut nihil ultra repugnare nihilque quaerere debeas.
 
+/24/
 
+# Prooemium in proportiones
+
+Visa inscitia naturalis philosophiae admodum vos apud Aquitanos vigente, quia eius basim praetermittebant in proportionum et proportionalitatum peritia consistentem fere ab eis inauditarum, cuius potius praeceptoribus quam ipsis causa attribuenda est, ne illorum numero adscribar non valens et honestae scholarium petitioni obviare, tractatum quendam de proportionibus et proportionalitatibus in lucem emittere non mihi alienum visum fuit. Qua in materia licet, plerique peritissimi, quorum verum discipulum me esse scriptum sufficeret, corticem frangentes nucleum degustarint, non tamen insulse nec inpune hanc provintiam assumpsi, tum ob id quod dictum est, tum ut scholarium et boni communis utilitati insudarem. Superflua enim ab aliis pro philosophiae intellectione traduntur, et, si bene respexeris, plura nostrae philosophiae pertinentia omittunt.
+
+Si Bradwardinum, si Nicolaum Orem, si Bassanum, si Aluarum, si Lax, caeterosque alios quoscumque fateor me indignum calciamentorum corrigiam solvere respicias, eo quia multa mathematicalia philosophiae perparum haud deservientia et alia, quae non annuunt proposito, obscura ponunt, legas vix iuvenem in philosophiae *Cunabulis* eruditum efficies. Et quia hanc materiam quondam lectitavimus, et auctore Severino, miserrimi ingens sit nihil in lucem de novo edere, ut ipsi iuvenes, dialecticam exeuntes *Cunabula* et principia, ad intelligendam philosophiam obtineant et ad ea faciles aditus reperiant, volui tractatum quendam in proportionibus et proportionalitatibus epilogare, si non propriis aliorum dictis, non quantum mathematices scientia expostulat, sed quantum philosophia naturalis praequirit. Non enim hoc opere musarum amatores mathematicos, sed philosophos reddere studeo, magistro rerum tempore, ut aiebat Thales Milesius me conformans, et nostri principis Peripateticorum doctrinae insudans *Primo Ethicorum* dicentis: "Est eruditi ea tenus ipsius exactum in uno quoque efflagitare quatenus fert ipsius rei natura".
+
+Nolui excessum aliorum nec quorundam defectum in hac materia scribentium observare, sed medium solum, quae scilicet sunt ad ipsius philosophiae intellectionem enucleando, agibilibus humanis me conformans, in quibus medium tenendum Aristoteles docet *Secundo Ethicorum*, et poeta inter utrumque vola. Et sic medio tutissimus ibis, et alter non longe inferior est modus in rebus. Sunt certi denique fines, ultra quos citraque nequit consistere rectum. Satis profecto mihi grave fuit iam hanc provinciam assumere, cum iam has scientias postponere decrevi et in solidioribus iam animus versetur meus. At precibus quorundam resistere non valui, sed pene coactus, et, si theologice voluntas cogi non potest, haec in colorem deduxi.
+
+Video tamen aliquos hanc scientiam penitus enervantes, aut saltem enervare vigilantes, nullius utilitatis eam esse inquietes. Hi verificant id quod vulgo dicit:
+"Scientia non habet inimicum praeter ignorantem". Si scientias omnes aut communes callerent, non talia seminarent. Et quia semen improbum, nullos inde fructus colligunt, et talibus parum prodest existentia solis in cancro, quomodo philosophiam naturalem intelligere poterit, quis his absque praemissis, cum eius maior pars his involuta circumspiciatur. Vide, tertium, septimum, et octavum *Physicorum* libros caeterosque. Quis quintum Aristotelis *Ethicorum* de iustitia commutativa et distributiva intelliget, cum prima proportionalitate arithmetica, secunda geometrica definiatur, quas theologicas, theoricas, his vestitas aut fundatas carpere valebit. Et contra haereticos subtilitatibus insurgentes in nos, quis sine his obviam ibit.
+
+Quis Avicennam, Hippocratem, Galenum, Iacobum Forliviensem, Consiliatorem, Hugonem Senensem, Herculanum aliosque medicos theoricos sine his intelliget. Primo, quis dialecticus sine his, ut dicetur inferius. Quis, quod fortius, Bartholum, cuius decisioni communiter legistae applaudunt, et Baldum non longe inferiorem sine his intelliget, et praecipue in divisione insularum et hereditatum aquis finitimarum de aluo ambiguo.
+
+Deus etiam omnia pondere et mensura creavit, quid igitur ridiculum est circa haec versari. Et, si nihil aliud esset, animam perficiunt, quam perfici magis et magis debemus, dicente Aristotele *Undecimo Ethicorum*. Et, si sumus mortales, ut immortales efficiamur conari debemus.
+
+Plura adduceremus in horum laudem et utilitatem, sed scio brevitate gaudere moderni. Noctes igitur, qui veras artes profitemini, insones ducite, ut haec perpendere et intelligere valeatis, nec vos vigilasse unquam paenitebit.
+
+Valete.
+
+/25a/
 
 
 <!--
@@ -383,6 +404,7 @@ Page 12: Sozomen ] emend. Zozomei
 Page 12: Policraticus ] emend. Policratus
 Page 12: Syrtes ] emend. Syrsthes
 Page 12: difficilis ] emend. diffilis
+Page 12: molli ] emend. moli
 Page 17: obfuisse ] emend. ob suis
 Page 17: compescit ] emend. conspescit
 Page 18b: insciolus ] emend. infiolus
@@ -390,8 +412,8 @@ Page 19b: nondum ] emend. nūdum
 Page 19a: intantum ] emend. intm̄
 Page 19b: falcem ] emend. falſā
 Page 20b: sibilatus ] emend. sibilitus
-
-
+Page 24: Bradwardinum ] emend. Brauardinum 
+Page 24: Forliviensem ] emend. Forlumensem 
 
 
 -->

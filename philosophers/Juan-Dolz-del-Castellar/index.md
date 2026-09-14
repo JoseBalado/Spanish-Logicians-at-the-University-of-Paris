@@ -35,7 +35,7 @@ The first criticism is then introduced as follows:
 >
 > First criticism — against the *Termini* which I had formerly, while teaching at Paris, committed to the press: I rebuke this sharp critic, because he said in his *Introductiones* that, given this proposition — from which alone something is denoted to be inferred — the definition of antecedent fits it well, yet it is not an antecedent. [Dolz] replied: [...]
 
-The use of both *terminis* (in the opening) and *introductionibus* (in the first criticism) for the same work confirms that the vehicle of Celaya's attack was his *Dialecticae introductiones*, also circulating under the title *Termini*.
+The use of both *Terminis* (in the opening) and *Introductionibus* (in the first criticism) for the same work confirms that the vehicle of Celaya's attack was his *Dialecticae Introductiones*, also circulating under the title *Termini*.
 
 ## Works
 

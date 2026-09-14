@@ -23,6 +23,8 @@ keywords: Juan Dolz del Castellar, Juan Dolz, Aragonese philosopher, Gaspar Lax,
 
 The preliminary matter of the *Cunabula* supplies unusually direct evidence about Dolz's teaching at Montauban. Arnard Baranquet calls him "our teacher" and presents the *Book of Proportions* to fellow students; Guilhermus Aranboni calls him "our most illustrious professor"; and Bernard Pelamergue of Carcassonne addresses Dolz as his teacher and thanks him for publishing the book. Dolz himself says that he had formerly lectured on proportions and wrote in response to the "honorable request of the students."[^1]
 
+Dolz presents this instruction as an answer to a regional deficiency. Addressing the Aquitanians directly, he says that ignorance of natural philosophy prevailed among them because its foundation in proportions and proportionalities was "almost unheard of" there. Significantly, he blames their teachers rather than the students. The statement provides clear evidence that Dolz considered the subject seriously neglected in Aquitaine, including the setting in which he was then teaching. It does not, however, establish the same condition at Paris or throughout France; when Dolz says that he had taught the material previously, he does not say where.[^2]
+
 The work was designed for young students moving from dialectic into natural philosophy. Dolz argues that proportions and proportionalities are indispensable for understanding Aristotle's *Physics* and *Ethics*, theology, medicine, and even legal problems concerning boundaries and the division of land. He distinguishes this practical introduction from a fully mathematical treatment: his purpose, he says, is to form natural philosophers rather than mathematicians. He names Thomas Bradwardine, Nicole Oresme, Bassano, Alvaro, and Gaspar Lax among his predecessors, while criticizing existing treatments as either too extensive, too obscure, or incomplete for beginners.[^2]
 
 Dolz dedicated the book to Antonio Grillon, a theologian and preacher who had governed the Augustinian province of Aquitaine and was then prior of the Augustinian convent at Montauban. Dolz describes a close friendship with him and asks him not to forget *nostrorum religiosorum*, "our religious men," whom he names as Brother Gerald Novelli and Brother Joseph de Vite. The possessive "our," together with Dolz's teaching at Montauban and his close relationship with the convent's prior and friars, is strong evidence that he belonged to, or at least taught within, the local Augustinian community. An Augustinian affiliation and an Augustinian setting for his school are therefore probable. Nevertheless, the book explicitly identifies Grillon and the two brothers as friars but never calls Dolz *frater*, *sacerdos*, or a member of the order; whether Dolz had formally professed as an Augustinian or had been ordained a priest remains unconfirmed.[^3]
@@ -57,13 +59,13 @@ Dolz also states in 1518 that he had written an *Exponibilia* and supplied its s
 
 ## Notes
 
-[^1]: [*Cunabula* transcription](Cunabula-omnium-fere-scientiarum-1518.html), preliminary addresses, fols. 12, 14, and 17; proemium, fol. 24.
-[^2]: *Cunabula*, proemium, fol. 24.
-[^3]: *Cunabula*, dedication to Antonio Grillon, fol. 11.
-[^4]: *Cunabula*, *Invectiva*, third criticism, fol. 19r.
-[^5]: *Cunabula*, *Invectiva*, third and seventeenth criticisms, fols. 19r and 23r.
-[^6]: *Cunabula*, *Invectiva*, opening and first criticism, fol. 18r. For Celaya's publication history, see the [Juan de Celaya works list](../Juan-de-Celaya/#works).
-[^7]: *Cunabula*, *Invectiva*, fourth criticism and conclusion, fols. 20r and 23v.
+[^1]: [*Cunabula* transcription](Cunabula-omnium-fere-scientiarum-1518.html), preliminary addresses, PDF pp. 12, 14, and 17; proemium, PDF p. 24.
+[^2]: *Cunabula*, proemium, PDF p. 24.
+[^3]: *Cunabula*, dedication to Antonio Grillon, PDF p. 11.
+[^4]: *Cunabula*, *Invectiva*, third criticism, PDF p. 19a.
+[^5]: *Cunabula*, *Invectiva*, third and seventeenth criticisms, PDF pp. 19a and 23a.
+[^6]: *Cunabula*, *Invectiva*, opening and first criticism, PDF p. 18a. For Celaya's publication history, see the [Juan de Celaya works list](../Juan-de-Celaya/#works).
+[^7]: *Cunabula*, *Invectiva*, fourth criticism and conclusion, PDF pp. 20a and 23b.
 
 ## Bibliography
 

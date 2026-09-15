@@ -384,6 +384,53 @@ Valete.
 
 /25a/
 
+# De multiplicitate numerorum et eorum magnitudine
+
+Opus nostrum, ut ordo quispiam observetur memoriam et eruditionem iuvans, cum assidua frequentia, auctore Quintiliano suis in *Institutionibus* oratoriis, articulis secabimus.
+
+In primo: Plurium Terminorum declarationes requisitorum nostrum finem ad consequendum cum divisionibus, definitionibus proportionis uniuscuiusque, atque proportionalitatis cum omnium specierum assignatione sufficienti, quam, ut docebo, dulcere praetermisit ad suae philosophiae intellectionem, ad cuius eruditionem aliarumque physicalium subtilitatum quas iam profitemur, haec nostra dirigimus.
+
+Secundus: Articulus maioritatem, aequalitatem et minoritatem omnium proportionum aperiet.
+
+Tertius: Excessum cuiuslibet proportionis, aut ne inlogicus videar cuiuslibet excessum super aliam enucleabit, et qua in proportione una alia proportione erit maior. Sed quae regula dari valeat inquiremus.
+
+Quartus: Divisionem quamlibet per partes proportionales quacunque proportione in uno quoque divisibili impendet.
+
+Quintus: Multa proportionibus et proportionalitatibus annexa, ut regulas motus tam penes causam quam effectum, aliasque difficultates physicas his involutas facile intelligere valeas propalabit.
+
+Sextus: Articulus difficultates plures in proportionibus et proportionalitatibus non philosophiae metas transcendentes, ut dixi, aperiet, quibus omnibus in lucem emissis facile physicas difficultates callere valebis. Si vis mathematicus fieri, residua alibi quaeres. In his articulis praeambula semper praemittam tanquam fundamenta materiam declarantia, nec si multa geometrica principia afferam pollicitis adversabor cum nostrum finem philosophice concernant.
+
+Noli igitur rhinocerotis nasum nobis ostendere, nisi omnia bene circumspexeris.
+
+### Primum praeambulum. Mathematici realis
+
+Pro primi articuli expeditione, primum praeambulum sit tale: Mathematici potius Reales quam Nominales censendi sunt in numerorum quantitatum proportionum et proportionalitatum declaratione, licet opinio Nominalium in his verior sit. Tamen supposita realium imaginationem brevius et melius.
+
+Haec /25b/ scientia traditur frequenter via doctrinae, quidpiam imaginari solemus ut quod quaerimus enucleemus, quod tamen non est verum. Sic in proposito: numeros et unitates caeteraque Realium more praesupponemus, ut brevius et clarius quod intendimus aperiamus. Saepe theologi Deum secludunt possibili modo aut impossibili ut veritas nonnulla ostendatur, quae tamen non est verum.
+
+### Gabriel
+
+Hoc patet Gabriele auctore in secundo *Sententiarum* distinctione. De definitione puncti plerisque etiam aliis locis, non tamen inficior difficultates has Nominalium veritate valere duci ut statim patebit.
+
+### Secundum praeambulum
+
+Secundum praeambulum: Mathematici cum realibus numeros indivisibiles ponunt et unitatem imaginantur.
+
+### Duplex numerus
+
+Et duplicem numerum: transcendentalem et praedicamentalem. Transcendentalem ipsas res enumeratas dicunt, praedicamentalem vero ab ipsis rebus enumeratis distinctam indivisibilemque.
+
+### Duplex unitas
+
+Idem de unitate censet duplicem, eam ponentes transcendentalem quae est res ipsa, praedicamentalem quae ab ipsa re distinguitur indivisibilis existens. Ex quo infertur numerum ipsum praedicamentalem esse accidens indivisibile rebus enumeratis copulatim inhaerens. Nec accidens in duobus subiectis quantumcunque distantibus esse inconvenit infinitam, quod horum multitudinem non recusant ut solemus declarare in philosophia aut metaphysica in materia de quantitate discreta, quae ideo missa facio. Et unitas illa praedicamentalis indivisibilis inhaerens rei uni dicitur qua mediante res illa talem acquirit denominationem, ut res mediate numero praedicamentali denominationem numeralem acquirunt. De hoc numero praedicamentali et hac unitate mathematici suas locutiones faciunt.
+
+### Tertium praeambulum
+
+Tertium praeambulum: Numerus hic praedicamentalis in binarium, ternarium, quaternarium et sic in infinitum praedicamentales rescinduntur. Unitas praedicamentalis non ulterius membra diversa sortitur. Binarius praedicamentalis dicitur accidens quoddam indivisibile duabus rebus copulatim inhaerens, quo res illae duae sic numerabiliter denominatur.
+
+Consimiliter de aliis describe. An autem rebus remanentibus ille numerus ad nihilum redigi valeat, metaphysici aut physici est inquisitio, non mathematici alibi illa /26a/ enodavimus.
+
+
 
 <!--
 ## Apparatus Criticus Reference

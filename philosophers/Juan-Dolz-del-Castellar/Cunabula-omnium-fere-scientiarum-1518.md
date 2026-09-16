@@ -430,6 +430,59 @@ Tertium praeambulum: Numerus hic praedicamentalis in binarium, ternarium, quater
 
 Consimiliter de aliis describe. An autem rebus remanentibus ille numerus ad nihilum redigi valeat, metaphysici aut physici est inquisitio, non mathematici alibi illa /26a/ enodavimus.
 
+# De inaequalitate numerorum
+
+### Quartum praeambulum
+
+Quartum praeambulum unius obiectionis in praedicta solutione. Non obstante numerorum indivisibilitate, numerum alio maiorem vel minorem aut alteri aequale mathematici ponunt. Non igitur dicitur unus numerus altero maior quia ex pluribus componatur unitatibus, cum non componatur indivisibile, sed sunt tibi conclusiones istius puncti enucleative.
+
+### Quod unus numerus sit alio maior
+
+Prima [conclusio]: Numerus alio maior dicitur quia plures unitates praesupponit pluribusque inhaeret atque ex pluribus resultat sine compositione. Ubi nota quod numerus hic unitates praedicamentales praesupponit ex ipsisque resultat.
+
+An autem unitates illae, sive numerus, remanere queant ut dixi non nostra iam, sed physica aut metaphysica est indagatio. Nec est absonum apud hos indivisibile indivisibili inhaerere. Hoc dico propter numerum ex numeris resultantem, ut ex rebus ipsis ut alias late prosecutus sum. An uni rei indivisibili ob plures partes insint unitates aut numeri tales, mathematicus, metaphysico aut philosopho relinquit. Non sua interest dum tamen numerus sit unde resultet.
+
+Sed quia haec imaginatio non est rigorosa, sed phantastica et voluntaria in his et alio loco dependentibus, problematice in utramque partem incidere vales dum tamen consequenter loquaris ubi basis voluntaria est. Quid mirum si sequentia voluntaria sint?
+
+Secunda conclusio: Numerus alio modo dicitur minor quia pauciores illas unitates praesupponit et ex paucioribus resultat incomponibiliter, id est sine compositione, quia non componitur sed bene resultat ex pluribus diversis.
+
+Tertia [conclusio]: Unus numerus alteri aequalis dicitur quia aequales unitates praesupponit, id est non plures nec pauciores, et ex tot resultat. Et sic patet ternarium maiorem binario, quaternarium maiorem ternario, et sic in infinitum. Et sic aliquantulum improprie maioritas, minoritas, et aequalitas illis numeris attribuitur.
+
+Quare numerum unitate maiorem poni hic non debet reputari absurdum. Vide cui proprie attribuitur  'maius', 'minus', aut 'aequale', et audi praedicta et haec nostra adverabis. Secus si hoc bene audire nolueris, dicam tibi id quod adagio fertur: incassum surdo fabula canitur. Nihil alicui aio proprie attribui quod non ratione sui sed alterius /26b/ convenit. Nec nobis obviat proprietas quantitatis ab Aristotele posita in *Praedicamentis*: maxime proprium est quantitati secundum eam aequale vel inaequale dici.
+
+### Gaspardus Lax
+
+Etiam nobis in hac parte favere videtur Gaspardus Lax primo suae *Arithmeticae*.
+
+### Quintum praeambulum. An unitas sit numerus
+
+Quintum praeambulum: Proprie mathematicos insequendo unitas non dicitur numerus, patet ex declaratis.
+
+### Boetius
+
+Reperio tamen Boetium in principio suae *Arithmeticae* dicentem: unitatem numerorum fundamentum numeri appellatione censemus. Unde unitas numerus apparet, sed non teneor ipsum Boetium in hac parte admittere.
+
+### Iordanus. Euclides
+
+Postquam Iordanus, Euclides, et mathematices pilaria non nobis adversantur, nihilominus ne tantus vir iniuriam patiatur dicamus numerum bifariam accipi. Uno modo proprie, et sic contra unitatem distinguitur, nec sic cepit Boetium. Alio modo capitur largius, unitatem includens, et sic sumitur a Boetio.
+
+### Boetius
+
+Valemus etiam dicere non insulse Boetium, dum dixit unitatem appellatione numeri, censemus intellexisse. Non quod unitas sit numerus, sed quod appellatio numeri ex unitate scaturit.
+
+### Sextum praeambulum. Pars aliquota
+
+Sextum praeambulum: Pars aliquota declaranda est, et si in arithmetica enucleetur quoniam, ut patebit nobis, ad proportiones serviet.
+
+Duplex igitur est alicuius pars: quaedam aliquota, quaedam non aliquota. Aliquota ab aliquotiens reddere dicitur, et est illa quae aliquotiens sumpta ipsum adaequate conficit aliquotiens. Expone bis aut ter aut quater et caetera. Non exponas semel, quia si semel sumpta redderet, non pars sed totum esset adaequate exponendum, id est non magis nec minus. Ex hoc inferuntur propositiones concedendae.
+
+Prima: Cuiuslibet numeri unitas est pars aliquota, nam quocunque numero dato ipsum unitas aliquotiens sumpta conficit adaequate. Non intelligas conficit, id est componit, sed ad sensum prius datum.
+
+Secunda: Binarius cuiuslibet partis ipso dempto aliquota est, patet ex definitione. Dico ipso dempto quia ipsiusmet non est pars.
+
+Tertia: Ternarius non cuiuslibet imparis est pars aliquota, patet de quinario numero, licet bene alicuius, patet de novenario.
+
+Quarta: Binarius non imparis est pars aliquota. Et ex his ipsum numerum non proprie habere partem aliquotam, cum situs sit indivisibilis /27a/.
 
 
 <!--
@@ -461,6 +514,8 @@ Page 19b: falcem ] emend. falſā
 Page 20b: sibilatus ] emend. sibilitus
 Page 24: Bradwardinum ] emend. Brauardinum 
 Page 24: Forliviensem ] emend. Forlumensem 
+Page 26a: phantastica ] emend. fantastica 
+Page 26a: aequalis ] emend. et qualis 
 
 
 -->

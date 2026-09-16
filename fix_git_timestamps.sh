@@ -1,6 +1,11 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+# Reload branch when they have diverged
+#
+# git fetch origin
+# git reset --hard origin/main
+
 # Rewrite commit timestamps while preserving each commit's original UTC date.
 # This changes commit hashes. Make a backup before running it.
 

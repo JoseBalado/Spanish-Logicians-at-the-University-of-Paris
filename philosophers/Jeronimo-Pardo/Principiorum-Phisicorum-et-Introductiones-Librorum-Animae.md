@@ -750,7 +750,31 @@ Sed potentia generativa est cuius actus est generare; unde generare est converte
 
 Et de istis tribus potentiis, quaeritur utrum distinguantur reali ab anima?
 
-Dico quod non, unde ipsa anima inquantum potest operari diversimode /34a/
+Dico quod non, unde ipsa anima inquantum potest operari diversimode /34a/ potest nominari aliis nominibus. Sed pro vegetativa pono unam propositionem in secundo huius primi *De anima*:
+
+> Omnia viventia principaliter denominantur viventia a potentia vegetativa.
+
+Ita quod nihil magis cognoscitur vivens aliquid esse eminens quam per actum potentiae vegetativae, puta per nutrire, augmentare, generare. Sed alia est potentia sensitiva, de qua ponitur propositio:
+
+> Potentia sensitiva invenitur in omnibus animatis, tam anima sensitiva quam intellectiva.
+
+Contra: si hoc esset verum, sequeretur quod homo haberet potentiam sensitivam. Sed hoc est falsum, igitur.
+
+Minor probatur quia si homo haberet potentiam sensitivam haberet et animam sensitivam. Patet quia potentia sensitivam est propria illi qui habet animam sensitivam; ergo nego ultimam probationem. Sed bene est propria illi qui habet animam sensitivam vel qui habet perfectiorem animam quam anima sensitiva. Ex quo sequitur error Ockham, qui ponit in homine animam sensitivam et intellectivam, et infert etiam quod in homine et brutum, scilicet compositum ex materia et anima, illa sensitiva, est brutum.
+
+Et de istis /34b/ potentiis sensitivis quaeritur talis quaestio: utrum potentiae sensitivae sint idem realiter cum ipsa anima. De hoc est problema, nam tenent omnes Nominales quod sint ipsa anima, quae anima dicitur potentia sensitiva inquantum operatur mediante aliquo organo corporeo.
+
+Sed tenebimus quod distinguitur ab ipsa anima realiter, propter unam rationem insolubilem generalis, est potentia sensitiva refugit et odit aliquem. Et ipsa anima illud idem prosequitur et amat; ergo oportet dicere quod anima sensitiva et potentia sensitiva non sunt idem, vel quod actus contrariorum sint in eodem.
+
+Exemplum demonstrabimus qui remanebant et tamen ipsa voluntas amabat illas, id est ipsa anima; igitur propositum. 
+
+
+Et ponitur talis regula pro solutione:
+ 
+> Potentia sensitiva nihil aliud est quam compositum ex utraque parte corporis est ipsa anima. Ut potentia visiva non est ipsa anima, sed est aliquid compositum ex utraque parte. Corporis est ipsa anima informante.
+
+Potentiarum sensitivarum quaedam est cognitiva, alia est appetitiva. Pro cuius declaratione ponitur talis regula: quaelibet potentia cognitiva habet potentiam appetitivam sibi correspondentem, quae /35a/
+
 
 <!--
 ## Apparatus Criticus Reference
@@ -769,4 +793,5 @@ Page 3b: circa idem ] emend. cu//caid8
 Page 5a: conveniunt quatuor ] del. conveniunt sibi quatuor
 Page 7a: formam quam ] del. formam rem quam
 Page 9a: habet ] emend. hēg
+Page 34b: remanebat ] conj. remebat
 -->

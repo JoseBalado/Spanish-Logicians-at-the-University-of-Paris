@@ -486,6 +486,8 @@ Quarta: Binarius non imparis est pars aliquota. Et ex his ipsum numerum non prop
 
 Patet ultra in quantitatibus continuis non esse ut in numeris; nihil enim est quod cuiuslibet quantitatis continuae pars aliquota nuncupetur. Patet inductive: non pedalitas quia non sesquipedalitatis, nec sesquipedalitas quia non quartae, et caetera. Nihilominus continuorum pars aliquota est, et impar non imparis est pars aliquota.
 
+# De parte aliquota et non aliquota
+
 ### Pars aliquota dividitur
 
 Septimum praeambulum: Pars aliquota scinditur: quaedam fertur medietas sive secunda, quaedam tertia, quaedam quarta, et sic consequenter. Et quia omne totum medietatem, tertiam, quartam, et sic deinceps continet, unde omne totum ex duabus medietatibus, tribus tertiis, quattuor quartis, et caetera, componitur sive resultat. Ideo unum totum plures, immo infinitas partes aliquotas habere censetur.
@@ -514,7 +516,42 @@ Resolutio tamen erit haec: descriptio termini spontanea, est et unaquaeque data 
 
 Mathematicus non sic loqueretur, quia non staret in rigore illius descriptionis; si sibi tamen supponeretur, admittere deberet per regulam famosam artis obligatoriae: "quilibet terminus potest converti cum quolibet alio per novam impositionem". Si vero teneatur secunda descriptio, fateor eandem partem esse aliquotam et non aliquotam simul; et hoc consonat mathematicis, nec illi termini contradictorie caperentur, quia, ut vides, descriptiones non opponerentur. Ut dicunt Dialectici de conceptu ultimato et non ultimato, ibi praesupponimus, quantum ad quantitatem, idem esse quod distinguantur aut non, in lectura philosophiae aperuimus.
 
-His praeambulis positis, ponendae /28a/ sunt definitiones hunc primum articulum respiciens.
+His praeambulis positis, ponendae /28a/ sunt definitiones hunc primum articulum respicientes.
+
+# De definitione proportionis
+
+### Ad intelligendum Dullaert 
+
+Iam ex his patet qualiter intelligenda sit una differentia numerorum et quantitatum continuarum quam ponit Dullaert in tertio *Physicorum* quaestione prima. Recitatis tribus opinionibus motis in secundo quaesito, dicit in uno corollario quod in numeris nulla est pars non aliquota alicuius numeri quin illa componatur ex partibus aliquotis illius numeri et partibus aliquotis illius partis, licet bene in quantitatibus.
+
+Et hoc sic declaratur primo de numeris: nam omnis numerus resultat ex unitatibus quae sunt partes aliquotae cuiuscunque alterius numeri, et etiam ipsiusmet numeri. Binarius, qui est pars non aliquota ternarii, componitur ex partibus aliquotis ipsiusmet, scilicet ex unitatibus. Et intellige semper per componere resultare, et ita intelligas in Dullaert.
+
+Sed quod non ita sit in quantitatibus patet praesupposito uno. Postea probabimus nihil fore partem aliquotam diametri et costae eiusdem quadrati. Tunc capio medietatem diametri; illa est pars non aliquota costae, tamen falsum quod componatur ex partibus aliquotis ipsius costae et ipsiusmet medietatis. Nam nihil quod est pars aliquota ipsius medietatis est pars aliqua costae, ut patebit statim in praeambulo sequenti.
+
+Item capio unam partem illius medietatis diametri quae sit aliquota costae. Illa medietas non habet tales ex quibus componatur et resultet, nam quocunque numero illis captis vel conficient citra medietatem illam vel ultra, nisi caperes eas communicantes, quod nihil esset dictu. Et ad hoc bene intelligendum sit nonum praeambulum.
+
+### Nonum praeambulum
+
+Quandocumque aliquid est pars aliquota partis aliquotae alicuius, illius est pars aliquota illius. Patet si aliquotiens sumptum reddat partem aliquotam alicuius, etiam aliquoties sumptum reddet illud totum. Ex hoc inferuntur aliqua.
+
+Primum: Quidquid est pars aliquota medietatis alicuius est pars aliquota ipsius. Patet quia si bis sumptum reddat medietatem, quater sumptum reddet totum ipsum, et si ter sumptum reddat medietatem alicuius, septies sumptum reddet ipsum totum.
+
+Secundum: Quidquid est pars aliquota tertiae partis alicuius est pars aliquota /28b/ illius. Patet, nam si bis sumptum reddat tertiam alicuius, sexies sumptum reddet ipsum, et si ter sumptum reddat tertiam alicuius, novies sumptum reddet ipsum. Eodem modo valebis probare de quarta et quinta et aliis.
+
+Non tamen oportet si aliquid est pars aliquota alicuius quod sit pars aliquota suae medietatis vel tertiae et caetera. Medietas enim binarii non habet aliquotam. Item binarius est pars aliquota quaternarii, et non eius medietatis, dato quod eius medietas habeat aliquotam.
+
+Nec oportet si aliquid est pars aliquota partis non aliquotae alicuius quod sit non aliquota illius. Patet: unitas est pars aliquota binarii, et tamen non est non aliquota ternarii. Et a fortiori non oportet si aliquid est aliquotum non aliquoti alicuius quod sit aliquotum illius. Patet: binarius est aliquotus ternarii qui est non aliquotus denarii, et tamen falsum quod binarius sit aliquotus denarii. Et quando aliquoties reddere infert aliquid esse aliquotum, non debes illa aliquotiens communicanter accipere, quia nihil inferes.
+
+Definitiones numeri, unitatis, paris, imparis, pariter paris, et divisiones horum omitto. Ad arithmeticam usque nostram transgrediuntur intentionem. Ideo visis praeambulis ponam definitiones quae nostrum propositum respiciunt. Et incipiendo ab universalioribus iuxta doctrinam Aristotelis prooemio primi *Physicorum*, primo quid proportio definienmus, dando eius communem definitionem; si quae alia sit danda, si quid addendum aut removendum sit discutiemus.
+
+### Definitio proportionis
+
+Proportio sic describitur: est unius quantitatis ad alteram quantitatem certa habitudo.
+
+Superflue ponitur "aut unius numeri ad alterum numerum", cum numerus sub quantitate comprehendatur. Numerus enim quantitas est discreta, et ex consequenti, quantitas.
+
+Habitudo illa quam in definitione ponimus nihil aliud quam aequalitas vel inaequalitas in aliquo utrique communi censenda est. Et ideo non est proportio in magnitudine angeli ad hominem, cum magnitudinis habitudo non utrique conveniat. Et nota quod ibi non capitur 'inaequale' ut tantum valet sicut 'non-aequale'. Angelus in hac materia non mihi inaequalis diceretur, licet mihi sit non aequalis, sed capitur 'inaequale' ut /29a/ valet magis vel minus.
+
 
 <!--
 ## Apparatus Criticus Reference
@@ -549,6 +586,6 @@ Page 26a: phantastica ] emend. fantastica
 Page 26a: aequalis ] emend. et qualis 
 Page 27a: sesquipedalitatis ] emend. se imipedalitatis 
 Page 27a: sesquipedalitas ] emend. se imipedalitas
-
+Page 28b: sexies ] emend. septies
 
 -->

@@ -21,6 +21,7 @@ cosupposition
 councillors
 countermodel
 countermodels
+defence
 demonstratedness
 descendable
 determinates
@@ -37,6 +38,7 @@ expositorily
 fulfilment
 grâce
 illatively
+incommensurability
 incomplex
 indefinites
 infinitating
@@ -52,11 +54,13 @@ Ockhamist
 partitively
 Porphyrean
 predicables
+predicamental
 preposed
 quantificational
 recognised
 reduplicatives
 reflexion
+resultancy
 scopings
 Seventhly
 significatively

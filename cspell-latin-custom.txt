@@ -116,8 +116,11 @@ aliquota
 aliquotae
 aliquotam
 aliquotas
+aliquoti
 aliquotiens
 aliquotis
+aliquotum
+aliquotus
 Allatio
 allegatorem
 Alliaco
@@ -494,6 +497,7 @@ communicabilitate
 communicabilitatem
 communicabilitatis
 communicabiliter
+communicanter
 commutativa
 complacentiae
 complacentiam
@@ -700,6 +704,7 @@ deducibilis
 defensationem
 definibile
 definibilis
+definienmus
 defluxa
 defluxae
 defluxam
@@ -824,6 +829,7 @@ dubiepositioni
 dubiepositum
 dubiolum
 duernus
+Dullaert
 duplicivia
 eclipsant
 eclipsat

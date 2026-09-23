@@ -786,6 +786,29 @@ Sed si quaeras quo ordine opponitur istae duae potentiae, exemplum per talem reg
 Potentiarum sensitivarum cognitivarum quaedam est potentia exterior, alia vero est interior. Unde potentia sensitiva exterior dividitur in quinque sensus exteriores, scilicet visum, tactum, auditum, gustum, olfactum. Istae potentiae habent aliquas proprietates, quarum prima est quod ipsae non possunt habere actum suum nisi circa obiectum existens et debite praesens, et actus istarum potentiarum exteriorum vocatur sensatio exterior.
 
 Ita dico quod quadruplex est operatio diversa eorum, nam operatio visus vocatur visio, et auditus auditio, et tactus tactio, et caetera. Volo habere quod istae operationes non possunt habere nisi de obiecto existente, quia est quod aliquid videatur et quod illud non sit, et sic est quod audiatur et palpetur, et sic /36a/
+de caeteris, ideo numquam sensatio exterior potest esse de obiecto non existente.
+
+Secunda proprietas est quod probabile est quod sensus exteriores non possunt habere notitias indicativas.
+
+Tertia proprietas est quae sequitur ex praecedente, quod sensus exteriores numquam decipiuntur circa propria obiecta. Et ratio est, quia deceptio est notitia iudiciaria qua iudicari aliter quam est; ergo patet quia talis notitia non invenitur in sensu exteriori, igitur exterior numquam decipiuntur.
+
+Contra: Dicitur quod sensus exterior visus decipitur propter nimiam distantiam; ergo decipitur. Dico quod intelligitur ad illum sensum phantasia decipitur, ideo debt intelligi ad istum sensum visus decipitur, et phantasia decipitur propter visum.
+
+Quarta proprietas: Sensus exteriores requirunt debitam approximationem et distantiam ad percipiendum eorum obiecta. Primo quo est notandum, quod isti, sensus exteriores [nonnumquam unquam] distantia possunt percipere obiectum, sed in tanta quod non in maiori. Simile non [nunquam unquam] approximatione possunt sentire obiecta sua. Unde ponit Aristoteles quamdam regulam:
+
+> Sensibile positum supra sensum non facit sensationem, ut visibile positum supra visum non videtur.
+
+Pro cuius declaratione proprietas ista ponuntur, videlicet quod /36b/ sensus exteriores habent sua propria organa, et omnes conveniunt in hoc quod illa organa sunt quidam nervi supra quos est caro. Declaro hoc in quolibet sensu, nam sensus visus habet pro organo quemdam nervum vel quosdam nervos qui se habent per modum retinis. Similiter exponit Forlivio, dicendum de quorumque sensu, de quibus in libris *De Anima*.
+
+Tunc ponitur talis propositio:
+
+> Si sensibile ponatur supra illos nervos, non immediate causabit sensationem.
+
+Ex quo sequitur quod quando dicit Aristoteles: "Sensibile positum supra sensum non facit sensationem", debet glossari, id est "Sensibile positum immediate supra organum visum vel sensus non facit sensationem".
+
+Ex quo sequitur quod sensus in potentia aequivoce accipitur multotiens. Uno modo accipitur improprie pro organo seu pro illa parte corporis, et hoc modo accipitur in illa auctoritate Aristotelis. Alio modo proprie pro sensu exteriori, et sic sensus non dicit organum nec animam, sed est quoddam compositum ex tali organo et anima informante, unde similiter dicendum est de istis inferioribus potentiis, nam visus aliquando accipitur pro illo organo, aliquando vero pro potentia visiva ex illo organo et anima informante composita, ut dictum est.
+
+Sexta proprietas: Sensus exteriores sunt similes tamen in hoc inter se, nam habent diversa obiecta, ut visus percipit colorem lucem /37a/ seu lumen et auditus sonum, et sic de cateris.
 
 <!--
 ## Apparatus Criticus Reference
@@ -805,4 +828,5 @@ Page 5a: conveniunt quatuor ] del. conveniunt sibi quatuor
 Page 7a: formam quam ] del. formam rem quam
 Page 9a: habet ] emend. hēg
 Page 34b: remanebat ] conj. remebat
+Page 35b: retinis ] conj. reutis
 -->

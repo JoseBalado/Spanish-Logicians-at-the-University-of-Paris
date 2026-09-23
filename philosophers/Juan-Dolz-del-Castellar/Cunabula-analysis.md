@@ -2,6 +2,36 @@
 
 A running commentary on Juan Dolz del Castellar, _Cunabula omnium fere scientiarum et praecipue physicalium difficultatum in proportionibus et proportionalitatibus_ (Montalbanum, 1518), following the text page by page. Sections are added as the transcription advances; page references are to the folio numbers of the transcription.
 
+## Introduction: an elementary mathematical foundation for natural philosophy
+
+The _Cunabula_ is not merely a mathematical treatise that happens to supply examples from physics. Dolz presents proficiency in proportions and proportionalities as the neglected **basis of natural philosophy** and designs the book for young students passing directly from dialectic into philosophy. His purpose is neither to comment on Aristotle book by book nor to form professional mathematicians. It is to teach, from elementary beginnings and in the order required by learners, the mathematical relations without which students cannot understand physical problems.
+
+This constitutes a significant curricular and epistemological shift. Dolz does not claim to have invented the mathematics. He names Bradwardine, Nicole Oresme, Bassano, Alvaro, Gaspar Lax, and other predecessors, but judges their treatments too extensive, too obscure, insufficiently directed toward philosophy, or otherwise unsuitable for beginners. His innovation lies instead in attempting to convert such specialist knowledge into a **self-contained elementary curriculum**:
+
+$$
+\mathrm{parts\ and\ numbers}
+\longrightarrow
+\mathrm{proportions\ and\ proportionalities}
+\longrightarrow
+\mathrm{rules\ of\ motion\ and\ other\ physical\ difficulties}.
+$$
+
+The order of exposition is therefore not determined by the sequence of Aristotle's _Physics_. Dolz retains Aristotelian questions and explicitly intends his mathematics to clarify the third, seventh, and eighth books, but access to those questions is reconstructed through proportion. Mathematics becomes the route by which the student enters physical inquiry, rather than an occasional instrument introduced inside a conventional commentary. The title expresses the same program by calling these principles the _cunabula_, the rudiments or cradle, of almost all sciences and especially of physical difficulties.
+
+Dolz is unusually conscious of the pedagogical problem he is addressing. He blames teachers rather than students for the neglect of proportions in Aquitaine; says that the subject was almost unheard of there; writes in response to students' requests; repeatedly promises preliminary foundations; and selects only as much mathematics as natural philosophy requires. He also extends the utility of proportion beyond physics to ethics, theology, medicine, dialectic, and law. The work thus proposes not simply a collection of results but a method for turning dispersed technical knowledge into common, teachable foundations.
+
+That ambition matters for the history of mathematical physics. A specialist result becomes cumulative only when later students can inherit it as elementary knowledge, apply it, criticize it, and develop it further. The _Cunabula_ attempts to create precisely such a pathway for proportions, velocities, activities, resistances, and motion. Its epistemic radicalism lies not in rejecting Aristotle or announcing discoveries already equivalent to modern mechanics, but in changing what must be learned **first** in order to investigate nature.
+
+### A precursor of modern theoretical physics?
+
+In a carefully delimited sense, Dolz may therefore be described as an early **precursor of the epistemic and pedagogical organization of modern theoretical physics**. The claim does not concern direct historical descent, nor does it place his physical results ahead of Galileo's or Newton's. It concerns his conception of how a mathematical science of nature must be built and transmitted: establish a shared mathematical language first, use it to formulate physical relations, and make that language elementary enough to support cumulative work by successive generations.
+
+In this particular respect, Dolz can appear more recognizably modern than either Galileo or Newton. Their mathematical physics was incomparably more powerful, but their major works generally presupposed the reader's mathematical formation. Dolz instead incorporates the necessary formation into the pathway toward physics itself. He addresses the prior institutional question: what must beginning students be taught so that mathematical physical inquiry becomes ordinary, public, and reproducible rather than the preserve of a few specialists?
+
+This resembles the organization of modern theoretical-physics education, in which mathematical methods are not external ornaments but prerequisites that determine what physical questions students can formulate and solve. Dolz's proportions are elementary by later standards, yet the curricular principle is consequential: a field advances cumulatively when the analytical achievements of specialists become the starting knowledge of the next generation. Galileo and Newton transformed physical theory; Dolz, on a much smaller technical scale, envisaged a way of systematically forming students capable of transforming it.
+
+The surviving text therefore supports the conclusion that Dolz deliberately attempted to make the mathematical methods required by physical analysis into an elementary and public curriculum. Stronger claims about absolute priority, uniqueness, influence, or the causes of the project's apparent failure require a wider comparison of textbooks and evidence of reception. Nevertheless, the project visible in the title, proemium, organization, and intended audience is clear. Its failure to establish a continuous pedagogical tradition may represent a lost path in the history of physics: what disappeared was not a completed Galilean mechanics, but a program through which generations of students might have acquired a shared mathematical language for physical inquiry.
+
 ---
 
 # Preambles 1–9 and the opening account of proportion

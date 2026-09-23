@@ -6,7 +6,7 @@ A running commentary on Juan Dolz del Castellar, _Cunabula omnium fere scientiar
 
 # Preambles 1–9 and the opening account of proportion
 
-**Pages 25a–30b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_, _pars non aliquota_, and the opening definition and division of proportion.
+**Pages 25a–31b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_, _pars non aliquota_, and the opening definition and division of proportion.
 
 ## 1. Why the metaphysics comes first
 
@@ -331,11 +331,71 @@ Dolz next divides greater inequality into simple and composite, and simple great
 
 The species are determined exactly by the repetition count introduced in preambles 6–7. A double contains the lesser twice, a triple three times, and so forth. A sesquialteral proportion contains the lesser once plus its half; a sesquitertian contains it once plus its third. The early discussion of aliquot parts was therefore not preliminary arithmetic for its own sake: it supplies the differentiae from which the species of proportion are constructed.
 
-The definition of _superpartiens_ begins at the end of 30b but runs onto page 31a. What is available says only that the greater contains the lesser once plus several aliquot parts which do not together make one aliquot part of it. Its precise analysis should await the completion and examples on page 31.
+The definition of _superpartiens_ begins at the end of 30b and is completed on page 31a: the greater contains the lesser once plus several aliquot parts which do not together make one aliquot part of it. Page 31 supplies both the decisive example, $5:3$, and the principles needed to distinguish its genuine species.
 
 ---
 
-## 10. Summary of the doctrine
+## 10. Page 31: _superpartiens_ and its genuine species
+
+The completed definition is:
+
+> Proportio superpartiens est quando aliquid continet aliud semel solum, et cum hoc partes aliquotas eius ex quibus non fit una aliquota illius.
+
+> A superpartient proportion occurs when one quantity contains another just once and, in addition, contains aliquot parts of it which, taken together, do not make a single aliquot part of it.
+
+Thus $5:3$ is _superpartiens_ because $5$ contains $3$ once and two units besides. Each unit is an aliquot part of $3$, but their sum, $2$, is not. The condition concerns the **sum of the added aliquot parts**, not the parts considered separately.
+
+This can be stated compactly. If the lesser term is $B$ and the greater is
+
+$$A=B+k\left(\frac{B}{n}\right),$$
+
+then the added amount $kB/n$ is itself an aliquot part of $B$ exactly when $k$ divides $n$. Consequently a simple _superpartiens_ ratio of this form requires
+
+$$1<k<n \qquad\text{and}\qquad k\nmid n.$$
+
+Here $k\nmid n$ means that $k$ does **not** divide $n$ exactly: there is no integer $m$ such that $n=km$. The first inequality excludes a single added part, which would be _superparticularis_, and an excess equal to or greater than the whole; the divisibility condition excludes cases in which the several parts coalesce into one aliquot part. This criterion is not given as a formula by Dolz, but it exactly organizes his examples on page 31.
+
+### Why Dullaert's species are too broad
+
+Dullaert names the species merely _superbipartiens_, _supertripartiens_, and so forth, according to the number $k$ of added parts. Dolz objects that these are not the lowest or _specialissimae_ species sought: each contains many ratios with different denominators, and a question about equality or inequality between them would therefore require a distinction. The denominator must also be named.
+
+The terminology has two components:
+
+- the prefix _bi-_ means **two** and _tri-_ means **three**: this is the number of equal fractional parts added to one copy of the lesser term;
+- _tertias_, _quartas_, _quintas_, and _octavas_ mean **thirds**, **fourths**, **fifths**, and **eighths**: this is the size of each added part, always calculated from the lesser term.
+
+Thus _superbipartiens tertias_ means “containing the lesser once and two of its thirds,” while _supertripartiens quartas_ means “containing the lesser once and three of its fourths.” If a ratio is written $A:B$, the lesser term $B$ is first divided into the named number of equal parts; the indicated number of those parts is then added to $B$ to obtain $A$:
+
+| Species | Decomposition | Explanation |
+| --- | --- | --- |
+| _superbipartiens tertias_ ($5:3$) | $5=3+\frac{3}{3}+\frac{3}{3}=3+1+1$ | Divide $3$ into thirds; each third is $1$. Add two thirds to $3$. |
+| _superbipartiens quintas_ ($7:5$) | $7=5+\frac{5}{5}+\frac{5}{5}=5+1+1$ | Divide $5$ into fifths; each fifth is $1$. Add two fifths to $5$. |
+| _supertripartiens quartas_ ($7:4$) | $7=4+\frac{4}{4}+\frac{4}{4}+\frac{4}{4}=4+1+1+1$ | Divide $4$ into fourths; each fourth is $1$. Add three fourths to $4$. |
+| _supertripartiens octavas_ ($11:8$) | $11=8+\frac{8}{8}+\frac{8}{8}+\frac{8}{8}=8+1+1+1$ | Divide $8$ into eighths; each eighth is $1$. Add three eighths to $8$. |
+
+The unit-valued parts in these examples can obscure the general structure. The same _superbipartiens tertias_ species appears in $10:6$:
+
+$$10=6+\frac{6}{3}+\frac{6}{3}=6+2+2.$$
+
+Likewise, $14:8$ is _supertripartiens quartas_, since
+
+$$14=8+\frac{8}{4}+\frac{8}{4}+\frac{8}{4}=8+2+2+2.$$
+
+The compressed clauses _licet quaelibet 3 sit aliquota duae, tamen tertiae sunt non aliquota_ and _licet quaelibet 5 sit aliquota duae, tamen quintae simul sumptae non aliquotam faciunt_ should be punctuated and expanded as “although each third/fifth is aliquot, two thirds/fifths together are non-aliquot.” The numerals $3$ and $5$ stand for _tertia_ and _quinta_, while _duae_ begins the contrasting clause rather than completing _aliquota_. This is exactly the distinction between the individual added parts and their sum made in the definition.
+
+The point is classificatory, not merely terminological. The pair $(k,n)$ determines the ratio $1+k/n$, whereas _superbipartiens_ alone determines no single ratio. Dolz wants species at which the division can stop and to which later rules of equality and inequality can give an immediate answer.
+
+### The rules and their arithmetic basis
+
+For two added parts, every odd denominator $n\ge 3$ yields a _superpartiens_ species: two thirds and two fifths are not aliquot parts of their respective wholes. Every even denominator fails: two halves make a whole, two fourths make a half, two sixths make a third, and so on. The resulting ratio therefore belongs instead to the multiplex or superparticular branch. In modern terms, this is precisely the contrast between $2\nmid n$ and $2\mid n$.
+
+For three added parts, parity alone no longer decides the issue. Three fourths and three eighths are non-aliquot sums and give genuine _superpartiens_ species; three sixths make a half and three twelfths make a fourth, so those ratios are superparticular. Among odd denominators, three sevenths work, while three thirds make a whole. The underlying test is again divisibility: the construction fails whenever $3\mid n$. Dolz's documents therefore move from an easy parity rule for $k=2$ toward the general relation between the number of parts and their denominator.
+
+Page 31 begins the corresponding discussion for four added parts with _superquadripartiens decimas_ ($14:10$), whose four tenths do not make an aliquot part. It contrasts this with four fourths, which make the whole rather than a non-aliquot part. The fifth document continues onto page 32 and should be completed with that page.
+
+---
+
+## 11. Summary of the doctrine
 
 1. _Aliquot part_ is a **two-place relation** between a part and a whole, requiring exact measure and at least two repetitions.
 2. Dropping the second term of the relation is what generates every difficulty in preamble 8.
@@ -349,10 +409,12 @@ The definition of _superpartiens_ begins at the end of 30b but runs onto page 31
 10. Dolz calls comparison in dimension or multitude proper and comparison in physical degrees improper, but both can ground proportion under his deliberately extended use of _quantitas_.
 11. Unequal proportions are directional: greater-to-lesser and lesser-to-greater are distinct, reciprocal kinds.
 12. Multiplex and superparticular ratios are defined through exact containment and aliquot parts, showing why the nine arithmetical preambles were needed before the division of proportion.
+13. A _superpartiens_ ratio contains the lesser once plus several of its aliquot parts whose sum is not itself one aliquot part; in the form $1+k/n$, this requires $1<k<n$ and $k\nmid n$.
+14. Its lowest species must specify both the number and the denominator of the added parts: Dullaert's _superbipartiens_ and _supertripartiens_ are too broad for Dolz's later comparisons of ratios.
 
 ---
 
-## 11. Textual notes
+## 12. Textual notes
 
 Proposed emendations arising from the analysis. Those marked _insecure_ are recorded but not recommended for adoption.
 
@@ -368,3 +430,5 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 27b | ibi praesupponimus… aut non | _(corrupt; left as printed)_ | Beyond confident repair |
 | 28a | si ter sumptum reddat medietatem… **septies** | **sexies** | A half taken twice makes the whole, so a part taken three times to make the half must be taken $2 \times 3=6$ times to make the whole |
 | 28b | binarius est **aliquotus ternarii** | _(insecure)_ | Contradicts the definition of _pars aliquota_; _aliquotus_ may have a different force here, or the text may be corrupt |
+| 31a | licet quaelibet **3** sit aliquota **duae, tamen tertiae** sunt non aliquota | licet quaelibet **tertia** sit aliquota, **duae tamen tertiae** sunt non aliquota | The numeral abbreviates _tertia_; _duae_ begins the contrasting clause, as the parallel examples require |
+| 31a | licet quaelibet **5** sit aliquota **duae, tamen quintae**… | licet quaelibet **quinta** sit aliquota, **duae tamen quintae**… | Parallel correction: each fifth is aliquot, but two fifths together are non-aliquot |

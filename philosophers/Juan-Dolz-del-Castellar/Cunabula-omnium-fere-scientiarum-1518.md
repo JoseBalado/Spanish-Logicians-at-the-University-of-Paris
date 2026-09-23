@@ -652,7 +652,31 @@ Proportio sesquitertia: est quando aliquid continet aliud semel solum, et cum ho
 
 ### Superpartiens
 
-Proportio superpartiens: est quando aliquid continet aliud semel solum, et cum hoc partes aliquotas eius ex quibus non fit una /31a/ aliquota illius ut...
+Proportio superpartiens, est quando aliquid continet aliud semel solum, et cum hoc partes aliquotas eius ex quibus non fit una /31a/ aliquota illius, ut 5 ad 3 continet ternarium, et cum hoc duas unitates quarum quaelibet est ternarii aliquota, ex quibus non fit nisi binarius, qui, ut vides, non est ternarii aliquota.
+
+Sed in assignandis speciebus in quas superpartiens dividitur est difficultas, ut ostendemus.
+
+### Dullaert
+
+Dullaert non eas assignat in quibus, ut iubet Plato, quiescendum sit, nec etiam assignat in quibus statim respondere valeamus secundum regulas ponendas de aequalitate aut inaequalitate, quoniam suae plures alias includunt. Ipse enim sic eas assignat, superbipartiens, supertripartiens, et sic consequenter. Sed notum est plures bipartientes fore plures supertripartientes, et ita de aliis. Ideo ipse non sunt illae in quibus quiescendum sit, et opus esset responsionis prolixitate quando quaereretur de aequalitate aut inaequalitate specierum superpartientis, cum opus esset distinctione. Ideo quia etiam ille non species specialissimae sunt in genere proportionis quas quaerimus, ideo aliter veniunt assignandae, et pono aliqua documenta.
+
+Primum: Capiendo ly 'bi' et numeros imparem partium aliquotarum, semper ascendendo erunt species superpartientes quas quaerimus. Exemplum, superbipartiens quintas, superbipartiens tertias, septimas, et sic consequenter sunt species superpartientis. Superbipartiens tertias est quando aliquid continet aliud semel solum, et cum hoc duas tertias eius, ut 5 ad 3. Superbipartiens quintas est quando aliquid continet aliud semel solum, et cum hoc duas quintas eius, ut 7 ad 5, et ita de aliis. Et ex his sequitur quod, licet quaelibet 3 sit aliquota duae, tamen tertiae sunt non aliquota. Sequitur ultra, licet quaelibet 5 sit aliquota duae, tamen quintae simul sumptae non aliquotam faciunt, plura similia de aliis poteris inferre.
+
+Secundum documentum: In assignandis istis speciebus, cave ne cum ly 'bi' capias partes aliquotas a numero pari denominatas. Istae enim superbipartiens secundas, superbipartiens quartas, sextas, et caetera, non sunt species superpartientis demonstratur. Nam superbipartiens secundas esset quando aliquid contineret aliud semel solum, et cum hoc duas secundas eius, et cum duae secundae sint totum contineret bis totum, et sic esset dupla, et citius multiplicis species et non superpartientis. Et superbipartiens quartas esset quando aliquid contineret aliud semel /31b/ solum, et cum hoc duas quartas, et cum duae quartae faciant medietatem, iam medietati aequale contineret igitur ipsum et medietatem eius, et sic esset sesquialtera, et species superparticularis et non superpartientis. Consimiliter poterimus deducere de aliis.
+
+# De speciebus proportionis
+
+### De speciebus superpartientis
+
+Huius fundamentum est quia duae secundae faciunt totum, duae quartae medietatem, duae sextae tertiam, duae octavae quartam, et sic consequenter, et sic semper facerent aliquotam.
+
+Tertium documentum: Capiendo semper ly 'tri' et partes aliquotas numeri paris, aliquando fit species superpartientis, aliquando non, patet. Et primo quod aliquando fit supertripartiens quartas, est huiusmodi, nam est illa quae continet aliud semel solum, et cum hoc tres quartas eius, et tres quartae non faciunt unam aliquota eius, exemplum, 7 ad 4. Similiter supertripartiens octavas est huiusmodi, et est quando aliquid continet aliud semel et ultra tres octavas eius, tres octavae non faciunt unam aliquotam, exemplum, 11 ad octo est illa proportio, et ita poteris deducere de multis aliis.
+
+Iam probatur secunda pars documenti, scilicet quod aliquando non. Nam supertripartiens secundas non est eius species, quia tres secundae non reperiuntur in composito ut procedimus. Similiter supertripartiens sextas non est species eius, nam esset quando aliquid contineret aliud semel solum, et cum hoc tres sextas eius, sed tres sextae faciunt medietatem aliquotam, igitur contineretur sub superparticulari et non sub superpartienti. Idem est de supertripartienti duodecimas, quia tres duodecimae faciunt quartam, et per consequens aliquotam.
+
+Quartum documentum: Procedendo per 'tri' et partes aliquotas numeri imparis, etiam aliquando resultat species superpartientis, aliquando non. Exemplum primi: Supertripartiens septimas, tres septimae non faciunt aliquotam, et talis est 10 ad septem. Exemplum secundi: Supertripartiens tertias non est eius species, nam tres tertiae faciunt totum, et per consequens non faciunt partem non aliquotam.
+
+Quintum documentum: Procedendo per 'quadri' et partes aliquotas numeri paris, aliquando resultat species superpartientis, aliquando non. Exemplum primi: Superquadripartiens decimas, quattuor decimae faciunt non aliquotam. Exemplum: quattuordecim ad 10. Exemplum secundi: Quadripartiens quartas non est huiusmodi, quattuor quartae totum faciunt et non partem non aliquotam, et sic possemus /32a/
 
 <!--
 ## Apparatus Criticus Reference

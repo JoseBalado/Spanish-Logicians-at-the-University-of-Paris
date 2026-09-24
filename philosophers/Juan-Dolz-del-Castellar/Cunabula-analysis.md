@@ -36,7 +36,7 @@ The surviving text therefore supports the conclusion that Dolz deliberately atte
 
 # Preambles 1–9 and the opening account of proportion
 
-**Pages 25a–31b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_, _pars non aliquota_, and the opening definition and division of proportion.
+**Pages 25a–32b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_, _pars non aliquota_, and the opening definition and division of proportion.
 
 ## 1. Why the metaphysics comes first
 
@@ -421,11 +421,141 @@ For two added parts, every odd denominator $n\ge 3$ yields a _superpartiens_ spe
 
 For three added parts, parity alone no longer decides the issue. Three fourths and three eighths are non-aliquot sums and give genuine _superpartiens_ species; three sixths make a half and three twelfths make a fourth, so those ratios are superparticular. Among odd denominators, three sevenths work, while three thirds make a whole. The underlying test is again divisibility: the construction fails whenever $3\mid n$. Dolz's documents therefore move from an easy parity rule for $k=2$ toward the general relation between the number of parts and their denominator.
 
-Page 31 begins the corresponding discussion for four added parts with _superquadripartiens decimas_ ($14:10$), whose four tenths do not make an aliquot part. It contrasts this with four fourths, which make the whole rather than a non-aliquot part. The fifth document continues onto page 32 and should be completed with that page.
+Page 31 begins the corresponding discussion for four added parts with _superquadripartiens decimas_ ($14:10$), whose four tenths do not make an aliquot part. It contrasts this with four fourths, which make the whole rather than a non-aliquot part. Page 32 turns these examples into a general test.
 
 ---
 
-## 11. Summary of the doctrine
+## 11. Page 32: the general test and composite proportions
+
+### The general rule for _superpartiens_
+
+Dolz stops multiplying separate rules for _bi-_, _tri-_, _quadri-_, and so on, since that procedure could continue indefinitely. Instead he gives a decision rule: determine whether the indicated parts, taken together, make an aliquot part or a whole. If they do, the ratio is not _superpartiens_; if they do not, it is, provided the other conditions of the definition hold.
+
+This confirms, rather than merely approximates, the divisibility test reconstructed from page 31. For
+
+$$
+A=B+k\left(\frac{B}{n}\right),
+$$
+
+the added amount is one aliquot part of $B$ precisely when $k\mid n$; it is the whole when $k=n$. A simple _superpartiens_ species therefore requires
+
+$$
+1<k<n \qquad\text{and}\qquad k\nmid n.
+$$
+
+The condition $k<n$ is not dispensable. Dolz had already rejected three halves because such parts "are not found in the composite as we proceed": once the added parts equal or exceed a whole, the integer containment count changes. Every positive rational ratio greater than one can consequently be put in exactly one canonical form by separating its integer part and reducing the remaining fraction:
+
+$$
+\frac AB=m
+\quad\text{or}\quad
+\frac AB=m+\frac rn,
+\qquad m\ge1,\quad 0<r<n,\quad \gcd(r,n)=1.
+$$
+
+The letters are modern explanatory notation, not symbols used by Dolz. They are chosen mnemonically where possible: $A$ and $B$ are respectively the greater and lesser terms; $m$ is the integer **multiple** of $B$ contained in $A$; $r$ is the **remainder** numerator after that integer multiple is removed; $n$ is the denominator of the reduced fractional remainder; and $k$ in the preceding formula is the **count** of added aliquot parts. The particular letters carry no further mathematical meaning and could be replaced consistently by others.
+
+The integer part $m$ records how many complete copies of $B$ are contained in $A$, while the fractional remainder determines the kind of proportion. When $m=1$ and there is no remainder, $A=B$ and the proportion is one of equality. When $m>1$ and there is no remainder, $A$ is an exact multiple of $B$.
+
+| Integer copies of $B$ | No fractional remainder | Remainder $1/n$ | Reduced remainder $r/n$, with $r>1$ |
+| --- | --- | --- | --- |
+| $m=1$ | equality | simple _superparticularis_ | simple _superpartiens_ |
+| $m>1$ | _multiplex_ | _multiplex superparticularis_ | _multiplex superpartiens_ |
+
+Before reduction, if $r>1$ but $r\mid n$, the fraction is one aliquot part and belongs to a superparticular species. Thus the classification uses the **reduced fractional remainder**, not merely the number of parts named in an unreduced expression. Dolz's rejected _superbipartiens quartas_, for example, is sesquialteral because $2/4=1/2$; likewise $10:6$ has the same lowest species as $5:3$, _superbipartiens tertias_, because its excess $4/6$ reduces to $2/3$.
+
+### _Multiplex superparticularis_
+
+The first composite kind contains the lesser more than once and additionally one aliquot part of it:
+
+$$
+A=mB+\frac{B}{n}, \qquad m\ge2,\,n\ge2.
+$$
+
+Dolz describes species at three levels: by the integer multiple alone (_dupla superparticularis_), by the aliquot excess alone (_multiplex sesquialtera_), or by both (_dupla sesquialtera_). Only the third gives the lowest or _specialissima_ species required for an exact answer to “what proportion is this?” Thus $5:2$ is _dupla sesquialtera_, $7:3$ _dupla sesquitertia_, and $7:2$ _tripla sesquialtera_:
+
+$$
+5=2(2)+\frac22,\qquad
+7=2(3)+\frac33,\qquad
+7=3(2)+\frac22.
+$$
+
+The printed example $16:6$ for _multiplex sesquialtera_ cannot be right: $16=2(6)+4$, and $4$ is not the half of $6$. The minimal correction is $15:6$, since $15=2(6)+3$; it is the same _dupla sesquialtera_ ratio as $5:2$. The error may be typographical or may lie in the transcription, but the arithmetic excludes $16:6$.
+
+### _Multiplex superpartiens_
+
+The second composite kind contains the lesser more than once and additionally several aliquot parts whose sum is not one aliquot part:
+
+$$
+A=mB+k\left(\frac{B}{n}\right),
+\qquad m\ge2,\quad 1<k<n,\quad k\nmid n.
+$$
+
+Again the exact species names both components. Dolz's _dupla superbipartiens tertias_ is $8:3$ (or its multiple $16:6$):
+
+$$
+8=2(3)+2\left(\frac33\right)=6+1+1,
+$$
+
+and, at the larger scale,
+
+$$
+16=2(6)+2\left(\frac63\right)=12+2+2.
+$$
+
+The name translates the construction almost word for word. _Dupla_ names the first coefficient $2$: the greater contains two complete copies of the lesser. _Super-_ introduces what is added beyond those copies; _bi-_ names the second coefficient $2$, the number of added parts; and _tertias_ names the denominator $3$, since each added part is one third of the lesser. Thus in $16:6$, the lesser term is $6$ because it is the second and smaller term of the directed proportion, and the greater contains it as
+
+$$
+\underbrace{2(6)}_{\textit{dupla}}
++\underbrace{2\left(\frac63\right)}_{\textit{superbipartiens tertias}}.
+$$
+
+The occurrence of $6$ rather than $3$ as the lesser term shows why _tertias_ must not be read as naming that term's numerical value. It directs us to divide whatever the lesser term is into three equal parts. The examples $8:3$ and $16:6$ therefore exhibit the same proportion and the same species at two scales.
+
+The restrictions proved for simple _superpartiens_ carry over unchanged. Hence _dupla superbipartiens quartas_ is excluded because two fourths make a half, and _tripla supertripartiens tertias_ because three thirds make a whole. The former is really _dupla sesquialtera_; the latter is simply quadruple after the extra whole is absorbed into the integer count.
+
+### Lesser inequality is the reciprocal taxonomy
+
+At 32b Dolz reverses the direction of comparison. The lesser term is now contained by the greater; consequently each species is the reciprocal of the corresponding greater-inequality species and receives the prefix _sub-_. The transcription's sentence beginning _Simplex minoris inaequalitatis etiam est multiplex_ cannot express the intended division: it proceeds to list three simple and two composite kinds together. _Simplex_ is probably an error for _similiter_, or equivalent words have fallen out. The immediately preceding division and the definitions themselves yield the unambiguous structure:
+
+- simple: _submultiplex_, _subsuperparticularis_, _subsuperpartiens_;
+- composite: _submultiplex superparticularis_, _submultiplex superpartiens_.
+
+Dolz explicitly defines _subdupla_ $2:4$ and _subsesquialtera_ $2:3$ on this page. The remaining numerical forms follow by the same reversal and begin to be defined at the transition to page 33. The exact compound names proposed below for the last two reciprocal kinds are transparent inversions but remain provisional until their definitions are transcribed.
+
+### Reference table of all proportions introduced through page 32
+
+The following table gives each kind, an exact species, and an expandable numerical example. Multiplying both terms by the same positive number preserves the proportion, so the examples may be adapted to integer, geometric, or musical quantities.
+
+| Direction and kind | Exact species | Example and decomposition |
+| --- | --- | --- |
+| equality | _aequalitas_ | $4:4$ |
+| greater, simple multiplex | _dupla_ | $4:2$, since $4=2(2)$ |
+| greater, simple multiplex | _tripla_ | $6:2$, since $6=3(2)$ |
+| greater, simple superparticular | _sesquialtera_ | $3:2$, since $3=2+2/2$ |
+| greater, simple superparticular | _sesquitertia_ | $4:3$, since $4=3+3/3$ |
+| greater, simple superpartient | _superbipartiens tertias_ | $5:3$, since $5=3+2(3/3)$ |
+| greater, simple superpartient | _superbipartiens quintas_ | $7:5$, since $7=5+2(5/5)$ |
+| greater, simple superpartient | _supertripartiens quartas_ | $7:4$, since $7=4+3(4/4)$ |
+| greater, simple superpartient | _supertripartiens octavas_ | $11:8$, since $11=8+3(8/8)$ |
+| greater, composite superparticular | _dupla sesquialtera_ | $5:2$, since $5=2(2)+2/2$ |
+| greater, composite superparticular | _dupla sesquitertia_ | $7:3$, since $7=2(3)+3/3$ |
+| greater, composite superparticular | _tripla sesquialtera_ | $7:2$, since $7=3(2)+2/2$ |
+| greater, composite superpartient | _dupla superbipartiens tertias_ | $8:3$, since $8=2(3)+2(3/3)$ |
+| lesser, simple submultiple | _subdupla_ | $2:4$, the reciprocal of $4:2$ |
+| lesser, simple submultiple | _subtripla_ | $2:6$, the reciprocal of $6:2$ |
+| lesser, simple subsuperparticular | _subsesquialtera_ | $2:3$, the reciprocal of $3:2$ |
+| lesser, simple subsuperparticular | _subsesquitertia_ | $3:4$, the reciprocal of $4:3$ |
+| lesser, simple subsuperpartient | _subsuperbipartiens tertias_ | $3:5$, the reciprocal of $5:3$ |
+| lesser, simple subsuperpartient | _subsupertripartiens quartas_ | $4:7$, the reciprocal of $7:4$ |
+| lesser, composite subsuperparticular | _subdupla sesquialtera_ (inferred name) | $2:5$, the reciprocal of $5:2$ |
+| lesser, composite subsuperparticular | _subdupla sesquitertia_ (inferred name) | $3:7$, the reciprocal of $7:3$ |
+| lesser, composite subsuperpartient | _subdupla superbipartiens tertias_ (inferred name) | $3:8$, the reciprocal of $8:3$ |
+
+Two practical rules prevent most misclassifications. First divide the greater by the lesser to obtain the integer count and remainder; then reduce the fractional remainder before naming it. Finally preserve direction: $3:2$ is sesquialteral, whereas $2:3$ is subsesquialteral. This vocabulary is especially reusable in musical arithmetic, where $3:2$ and $4:3$ are the standard ratios of the fifth and fourth, but Dolz's classification itself applies to any comparable quantities.
+
+---
+
+## 12. Summary of the doctrine
 
 1. _Aliquot part_ is a **two-place relation** between a part and a whole, requiring exact measure and at least two repetitions.
 2. Dropping the second term of the relation is what generates every difficulty in preamble 8.
@@ -441,10 +571,14 @@ Page 31 begins the corresponding discussion for four added parts with _superquad
 12. Multiplex and superparticular ratios are defined through exact containment and aliquot parts, showing why the nine arithmetical preambles were needed before the division of proportion.
 13. A _superpartiens_ ratio contains the lesser once plus several of its aliquot parts whose sum is not itself one aliquot part; in the form $1+k/n$, this requires $1<k<n$ and $k\nmid n$.
 14. Its lowest species must specify both the number and the denominator of the added parts: Dullaert's _superbipartiens_ and _supertripartiens_ are too broad for Dolz's later comparisons of ratios.
+15. Page 32 replaces the potentially infinite list of cases with a general test: added parts that make a whole or one aliquot part do not constitute _superpartiens_; added parts whose sum is non-aliquot do.
+16. Composite greater inequality combines an integer multiple with either one aliquot part (_multiplex superparticularis_) or a non-aliquot sum of several such parts (_multiplex superpartiens_).
+17. An exact composite species must name both components, as in _dupla sesquialtera_ or _dupla superbipartiens tertias_; naming only one component leaves a higher, non-final class.
+18. Lesser inequality reproduces the same taxonomy in reverse, with _sub-_ species reciprocal to the corresponding greater-inequality species.
 
 ---
 
-## 12. Textual notes
+## 13. Textual notes
 
 Proposed emendations arising from the analysis. Those marked _insecure_ are recorded but not recommended for adoption.
 
@@ -462,3 +596,5 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 28b | binarius est **aliquotus ternarii** | _(insecure)_ | Contradicts the definition of _pars aliquota_; _aliquotus_ may have a different force here, or the text may be corrupt |
 | 31a | licet quaelibet **3** sit aliquota **duae, tamen tertiae** sunt non aliquota | licet quaelibet **tertia** sit aliquota, **duae tamen tertiae** sunt non aliquota | The numeral abbreviates _tertia_; _duae_ begins the contrasting clause, as the parallel examples require |
 | 31a | licet quaelibet **5** sit aliquota **duae, tamen quintae**… | licet quaelibet **quinta** sit aliquota, **duae tamen quintae**… | Parallel correction: each fifth is aliquot, but two fifths together are non-aliquot |
+| 32a | _multiplex sesquialtera_, exemplum **16 ad sex** | **15 ad sex** | $16:6=8:3=2+2/3$, not an integer multiple plus a half; $15:6=5:2=2+1/2$ fits the definition and nearby examples exactly |
+| 32b | **Simplex** minoris inaequalitatis etiam est multiplex… | probably **Similiter**… _(insecure)_ | The sentence otherwise calls the entire lesser-inequality division “simple” and then lists both its simple and composite branches; the preceding sentence and subsequent definitions require the same division as for greater inequality |

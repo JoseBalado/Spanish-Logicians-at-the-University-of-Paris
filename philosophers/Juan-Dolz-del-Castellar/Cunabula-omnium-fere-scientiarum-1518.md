@@ -676,7 +676,38 @@ Iam probatur secunda pars documenti, scilicet quod aliquando non. Nam supertripa
 
 Quartum documentum: Procedendo per 'tri' et partes aliquotas numeri imparis, etiam aliquando resultat species superpartientis, aliquando non. Exemplum primi: Supertripartiens septimas, tres septimae non faciunt aliquotam, et talis est 10 ad septem. Exemplum secundi: Supertripartiens tertias non est eius species, nam tres tertiae faciunt totum, et per consequens non faciunt partem non aliquotam.
 
-Quintum documentum: Procedendo per 'quadri' et partes aliquotas numeri paris, aliquando resultat species superpartientis, aliquando non. Exemplum primi: Superquadripartiens decimas, quattuor decimae faciunt non aliquotam. Exemplum: quattuordecim ad 10. Exemplum secundi: Quadripartiens quartas non est huiusmodi, quattuor quartae totum faciunt et non partem non aliquotam, et sic possemus /32a/
+Quintum documentum: Procedendo per 'quadri' et partes aliquotas numeri paris, aliquando resultat species superpartientis, aliquando non. Exemplum primi: Superquadripartiens decimas, quattuor decimae faciunt non aliquotam. Exemplum: quattuordecim ad 10. Exemplum secundi: Quadripartiens quartas non est huiusmodi, quattuor quartae totum faciunt et non partem non aliquotam, et sic possemus /32a/ multiplicare documenta habendo in infinitum quod nesciremus attingere, ideo si regula pro assignandis istis speciebus vide si partes captae cum ly 'bi' aut ly 'tri', et caetera, faciunt aliquotam vel totum aut non; si primum non est species superpartientis, si secundum secus, aliis servatis.
+
+## De speciebus proportionum
+
+### Proportio composita
+
+Proportio composita partitur, nam quaedam est multiplex superparticularis, quaedam multiplex superpartiens. Multiplex superparticularis [est] quando aliquid continet aliud pluries quam semel, et cum hoc partem aliquotam eius adaequate, ut 5 ad 2. Haec etiam dividi potest in species, et triplici modo ipsae sumi possunt, et sint tria documenta.
+
+Primum: Species possunt sumi ex parte de ly 'multiplex' remanente ly 'superparticularis', et daretur sic dupla superparticularis, tripla superparticularis, et sic consequenter. Prima esset quando aliquid continet aliud bis solum, et cum hoc partem aliquotam eius adaequate, ut 10 ad 4, simili modo poteris alias definire.
+
+Secundum documentum: Species possunt sumi ex parte de ly 'superparticularis' retento ly 'multiplex', ut multiplex sesquialtera, multiplex sesquitertia, et sic de aliis. Prima est quando aliquid continet aliud pluries quam semel, et cum hoc medietatem eius, exemplum 15 ad sex, [et] similiter de aliis.
+
+Tertium documentum: Species possunt sumi ex parte utriusque, et ibi servari multiplex ordo. Primum cum dupla capere species superparticularis non solum una. Secundus cum tripla capere etiam omnes superparticulares, et sic consequenter. Dupla sesquialtera est quando aliquid continet aliud bis solum, et cum hoc medietatem. Dupla sesquitertia est quando aliquid continet aliud bis solum, et tertiam eius, ut 7 ad 3. Tripla sesquialtera est quando aliquid continet aliud ter solum, et cum hoc medietatem eius, ut 7 ad 2, et consimiliter poteris omnes definire, et isto ultimo modo proprie assignantur species, quia hae sunt specialissimae, et per specialissimas respondendum est quando quaeritur quae proportio est huius ad illud.
+
+Multiplex superpartiens sic describitur: est quando aliquid continet aliud pluries quam semel, et cum hoc partes aliquotas ex quibus non fit una eius. Exemplum ut 8 ad 3. Haec etiam scinditur in species, et etiam /32b/ triplici modo possunt sumi: ex parte de ly 'multiplex' servando ly 'superpartiens', ut dupla superpartiens, tripla superpartiens; secundo ex parte de ly 'superpartiens' servando ly 'multiplex'; tertio ex parte utriusque, sed cave quomodo capis ex parte de ly 'superpartiens' capias eodem modo ut diximus in simplici, et dicta illic servient tibi ibi, et hoc tertio modo proprius capiendo species, et etiam potes facere plures ordines, ut diximus de alia composita.
+
+Describam unam per quam patebit aliarum descriptio: dupla superbipartiens tertias quando aliquid continet aliud bis solum et cum hoc duas tertias, ut 16 ad 6, 8 ad 3, et ex his patet quod inter has species non debes capere duplam superbipartientem quartas, nec triplam supertripartientem tertias, et ita de aliis quas renuimus in simplici.
+
+### Divisio proportionis minoris inaequalitatis
+
+Proportio minoris inaequalitatis etiam portionis potest dividi in simplicem et compositam. Similiter minoris inaequalitatis etiam est multiplex, quaedam submultiplex, quaedam subsuperparticularis, quaedam subsuperpartiens, quaedam submultiplex superparticularis, quaedam submultiplex superpartiens.
+
+Proportio submultiplex plures species continet, et est quando aliquid continetur ab alio aliquoties adaequate. Species eius sunt subdupla, subtripla, et sic consequenter. Subdupla est quando aliquid continetur ab alio bis adaequate, ut 2 ad 4, et ita de aliis.
+
+### Subsesquialtera
+
+Subsuperparticularis est quando aliquid continetur ab alio semel, et cum hoc una pars eius aliquota adaequate, et plures eius sunt species, scilicet subsesquialtera, subsesquitertia, et sic consequenter. Prima est quando aliquid continetur ab alio semel adaequate, et cum hoc medietas eius, ut 2 ad 3, et consimiliter alias valebis describere.
+
+
+### Subsuperpartiens quintas
+
+Proportio subsuperpartiens est quando aliquid continetur ab alio semel solum, et cum hoc aliquae partes aliquotae ex quibus non fit una pars eius aliquota continetur ab illo. Etiam plures species habet, hae sunt subsuperbipartiens tertias, subsuperbipartiens quintas, et sic de aliis. Et prima est quando aliquid continetur ab alio solus, et cum hoc /33a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -712,5 +743,8 @@ Page 26a: aequalis ] emend. et qualis
 Page 27a: sesquipedalitatis ] emend. se imipedalitatis
 Page 27a: sesquipedalitas ] emend. se imipedalitas
 Page 28b: sexies ] emend. septies
+Page 32a: 15 ] emend. 16
+Page 32b: capias ] emend. tcapiaε
+Page 32b: Similiter ] conj. Simplex
 
 -->

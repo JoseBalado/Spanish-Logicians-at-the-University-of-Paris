@@ -1727,6 +1727,7 @@ necessitatur
 necessitet
 necnon
 neganter
+nesciremus
 neutrius
 Nico
 Nicostrati
@@ -2698,6 +2699,7 @@ subordinatus
 subordinentur
 subordinetur
 subsesquiternus
+subsesquitertia
 substantialiam
 substantificans
 substantificat

@@ -808,7 +808,25 @@ Ex quo sequitur quod quando dicit Aristoteles: "Sensibile positum supra sensum n
 
 Ex quo sequitur quod sensus in potentia aequivoce accipitur multotiens. Uno modo accipitur improprie pro organo seu pro illa parte corporis, et hoc modo accipitur in illa auctoritate Aristotelis. Alio modo proprie pro sensu exteriori, et sic sensus non dicit organum nec animam, sed est quoddam compositum ex tali organo et anima informante, unde similiter dicendum est de istis inferioribus potentiis, nam visus aliquando accipitur pro illo organo, aliquando vero pro potentia visiva ex illo organo et anima informante composita, ut dictum est.
 
-Sexta proprietas: Sensus exteriores sunt similes tamen in hoc inter se, nam habent diversa obiecta, ut visus percipit colorem lucem /37a/ seu lumen et auditus sonum, et sic de cateris.
+Sexta proprietas: Sensus exteriores sunt similes tamen in hoc inter se, nam habent diversa obiecta, ut visus percipit colorem lucem /37a/ seu lumen et auditus sonum, et sic de caeteris.
+
+Septima proprietas: Sensus exteriores percipiunt sua obiecta mediante aliquo medio, sicut postea de quolibet declarabitur.
+
+Octava proprietas: Sensus exteriores sunt adeo debiles in cognoscendo quod non possunt reflecti supra suos actus. Pro quo est notandum quod duplex est actus seu cognitio, quaedam est cognitio recta, alia est cognitio reflexa. Unde cognitio reflexa vocatur cognitio cognitionis, id est cognitio per quam cognoscitur aliqua cognitio, ex quo sequitur quod reflecti supra actum suum quia cognoscit suum actum. Exemplum ut si intellectus intelligat se intelligere, scilicet suam notitiam, tunc intellectus dicitur reflecti supra se.
+
+Sed cognitio vocatur recta quae non terminatur ad aliam cognitionem, seu quae non est cognitio cognitionis. Exemplum ut notitia qua cognosco Petrum vocatur notitia recta. Tunc dico quod vult habere proprietas praedicta, quod sensus exteriores non sunt reflexivae potentiae, id est non possunt cognoscere suum actum, ut dicit Aristoteles, quia impossibile est quod visus videat suam visionem; ideo impossibile est visum videre se, et auditum auditionem suam audire, et sic de aliis.
+
+Alia est potentia sensitiva cognitiva interior, et dubium est magnum /37b/ apud philosophos an sit una vel plures. Quidam voluerunt dicere quod erant quinque potentiae sensitivae interiores, scilicet phantasia, sensus communis, imaginaria, memorativa, et aestimativa seu cogitativa. Advertendum tamen quod communis schola, etiam medicorum et philosophorum, non ponunt nisi unum sensum, qui nominatur illis diversis nominibus propter diversas proprietates. Et ad cognoscendam naturam istis sensis sensus interiores.
+
+Ponuntur aliquae proprietates quarum prima est: sensus interior est aliquod compositum ex organo et anima informante, et illud organum sunt quidam nervi uniti principali in cerebro.
+
+Secunda proprietas eius est quod: sensus interior seu phantasia habet propriam operationem, quae operatio vocatur notitia sensitiva interior, seu notitia phantastica, seu sensatio interior.
+
+Tertia proprietas: sensus interior cognoscit omnia quae sensus exteriores cognoscunt, et ponitur talis regula:
+
+> Quandocumque sunt aliquae potentiae cognitivae quarum una est superior et perfectior et alia inferior et imperfectior, quidquid potest cognoscere inferior potest etiam cognoscere et superior, et cum hoc plurimus.
+
+Sed sic est quod sensus interior est potentia superior et perfectior quam potentia sensitiva exterior, potest cognoscere interior et cum hoc plurimus. /38a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -829,4 +847,7 @@ Page 7a: formam quam ] del. formam rem quam
 Page 9a: habet ] emend. hēg
 Page 34b: remanebat ] conj. remebat
 Page 35b: retinis ] conj. reutis
+Page 37a: se ] del. se videre
+Page 37b: aestimativa ] leg. extimativa
+Page 37b: interiores ] emend. interiterioriores
 -->

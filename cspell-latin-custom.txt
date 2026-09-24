@@ -1039,6 +1039,7 @@ fluxibilitas
 fluxibilitatem
 fluxibilius
 Forliviensem
+Forlivio
 formalitas
 formalitate
 formalitatem
@@ -2327,6 +2328,7 @@ reduplicativus
 reflectio
 reflectionem
 reflexiva
+reflexivae
 reflexivis
 reflexivum
 refrigidare

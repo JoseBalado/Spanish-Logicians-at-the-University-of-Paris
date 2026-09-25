@@ -707,7 +707,53 @@ Subsuperparticularis est quando aliquid continetur ab alio semel, et cum hoc una
 
 ### Subsuperpartiens quintas
 
-Proportio subsuperpartiens est quando aliquid continetur ab alio semel solum, et cum hoc aliquae partes aliquotae ex quibus non fit una pars eius aliquota continetur ab illo. Etiam plures species habet, hae sunt subsuperbipartiens tertias, subsuperbipartiens quintas, et sic de aliis. Et prima est quando aliquid continetur ab alio solus, et cum hoc /33a/
+Proportio subsuperpartiens est quando aliquid continetur ab alio semel solum, et cum hoc aliquae partes aliquotae ex quibus non fit una pars eius aliquota continetur ab illo. Etiam plures species habet, hae sunt subsuperbipartiens tertias, subsuperbipartiens quintas, et sic de aliis. Et prima est quando aliquid continetur ab alio solus, et cum hoc /33a/ duae eius tertiae, ut 3 ad 5, et ita in aliis. Et in assignandis istis speciebus debes cavere id quod diximus assignando species superpartientis propositae minoris inaequalitatis, bina est etiam ibi composita submultiplex superparticularis et submultiplex superpartiens.
+
+Prima est quando aliquid continetur ab alio pluries quam semel, et cum hoc una pars eius aliquota adaequate. Subdividitur etiam in plures, et possunt species triplici modo capi eodem modo ut diximus de multiplici superparticulari addendo ly 'sub'. Sed proprie sunt haec: subdupla sesquialtera, subdupla sesquitertia, et caetera.
+
+## Descriptiones specierum proportionum
+
+### Subdupla sesquialtera
+
+Subdupla sesquialtera est quando aliquid continetur ab alio bis solum, et cum hoc medietas eius adaequate, ut 2 ad 5, et ita in aliis.
+
+Submultiplex superpartiens est quando aliquid pluries quam semel continetur ab alio cum aliquotis aliquibus ex quibus non fit una aliquota eius. Et possunt eius species tripliciter assignari, ut diximus de multiplici superpartienti addendo ly 'sub', et propter brevitatem relinquuntur, proprie tamen sunt haec: subdupla superbipartiens tertias, subdupla superbipartiens quintas, et sic de ceteris. Prima est quando aliquid continetur ab alio bis solum cum duabus tertiis eius, ut 3 ad 8. Eodem modo valebis alias describere.
+
+Potest tamen breviter, pro omnibus minoris inaequalitatis, ponere unam regulam quae talis est:
+
+> Tot quot sunt proportiones maioris inaequalitatis sunt proportiones minoris inaequalitatis, tot genera totque species.
+
+Nam capta quacumque maioris inaequalitatis, minoris ad maius est minoris inaequalitatis, et quaecumque est maioris ad minus, est minoris ad maius, addendo tamen ly 'sub'.
+
+Proportio aequalitatis non dividitur, nec habet species in ratione talis proportionis, secus in ratione proportionatorum secundum eorum diversitatem specificam, sed de hoc nihil ad praesens.
+
+### De proportionalitatibus quinto *Ethicorum* Aristoteles. Septimo *Physicorum*
+
+Iam videndum est quid sit proportionalitas et quotuplex. Haec enim deservit naturali philosophiae, et etiam morali. Morali patet ex quinto *Ethicorum* de iustitia distributiva et commutativa, quas sine proportionalitatibus vix eas intelligere valebis. Ideo non impune eis illic Aristoteles utitur. Serviunt etiam philosophiae quoad proportionem proportionum in septimo *Physicorum* quoad motum penes causam /33b/, etiam pluribus modis arguendi in philosophia quarto Physicorum traditis.
+
+### Tertio *Physicorum* Calculatores
+
+Item tertio Physicorum, de motu penes effectum, solent ponere Calculatores tales casus, mobile in prima parte proportionali moveatur ut 2, in secunda ut 4, et sic consequenter ascendendo geometrice, quod non valet intelligi sine proportionalitate geometrica. Item moveatur mobile in prima parte proportionali ut 2, in secunda ut 3, et sic consequenter arithmetice, non potest capi sine proportionalitate arithmetica. Ideo hae proportionalitates nostrum ad propositum accommodantur.
+
+Pro quarum enucleatione sit tale documentum: Sicut inter numeros et quantitates est aequalitas aut inaequalitas ob quam habitudo inter eas resultat quae proportio nuncupatur, ita reperitur aequalitas vel inaequalitas inter proportiones, ut patebit ex dicendis, ob quam proportionalitas inter proportiones consurgit. Ideo potest sic describi:
+
+### Proportionalitas geometrica, proportionalitas arithmetica
+
+Proportionalitas est proportionum ob aequalitatem vel inaequalitatem habitudo, quae multiplex est, quaedam dicitur geometrica, quaedam arithmetica.
+
+Geometrica proportionalitas est similium proportionum cum excessus dissimilitudine. Exemplum: 1, 2, 4, 8. Ibi continue servatur similis proportio, quia continue servatur dupla descendendo et subdupla ascendendo, ut vides, dato quod non semper observetur similitudo excessus, quoniam primus excessus est unitatis, secundus binarii, et caetera. Ex quo patet quod tam ascendendo quam descendendo potest reperiri haec proportionalitas.
+
+### Documentum in naturali philosophia
+
+Et ex hoc sequitur unum documentum in naturali philosophia, quandocumque ponitur casus in philosophia quod mobile in prima parte proportionali moveatur ut duo, in secunda ut 4, et sic consequenter geometrice, iam intelliges quod debes consequenter servare habitudinem proportionis, et si non excessus similitudinem.
+
+Patet ultra [quod] haec proportionalitas geometrica multipliciter potest fieri, scilicet ascendendo per duplam aut per subduplam, ut in exemplo dato, similiter per triplam aut per subtriplam, ut ibi, 1, 3, 9, 27, similiter per quadruplam aut subquadruplam, ut ibi, 1, 4, 16, 64, et sic consequenter.
+
+### Per *Posterioribus*
+
+Patet ultra quomodo sit intelligenda una difficultas quae solet tangi in *Posterioribus* de corruptione assensus conclusionis per corruptionem assensus praemissarum, ubi dicitur corruptionem illius assensus conclusionis debere fieri geometrice, et non /34a/
+
+
 
 <!--
 ## Apparatus Criticus Reference
@@ -746,5 +792,7 @@ Page 28b: sexies ] emend. septies
 Page 32a: 15 ] emend. 16
 Page 32b: capias ] emend. tcapiaε
 Page 32b: Similiter ] conj. Simplex
+Page 33a: commutativa ] emend. commitativa
+Page 33a: 3 ] emend. 2
 
 -->

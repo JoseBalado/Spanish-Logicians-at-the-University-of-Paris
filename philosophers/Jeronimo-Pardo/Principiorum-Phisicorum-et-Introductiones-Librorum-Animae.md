@@ -828,6 +828,23 @@ Tertia proprietas: sensus interior cognoscit omnia quae sensus exteriores cognos
 
 Sed sic est quod sensus interior est potentia superior et perfectior quam potentia sensitiva exterior, potest cognoscere interior et cum hoc plurimus. /38a/
 
+Quarta: Si quaeras quit potest cognoscere phantasia quod non potest cognoscere sensus exterior. Dico quod sensus interior potest cognoscere operationem sensuum exteriorum, ut puta quod visus videat et gustus gustet. Sed circa hoc movetur unum dubium, an phantasia seu sensus interior possit cognoscere suas operationes, ita quod dicatur potentia reflexiva supra suos actus.
+
+Respondetur probabiliter quod phantasia potest cognoscere suasmet operationes, et ad probandum hoc ponitur talis regula:
+
+> Omne illud non est negandum a bono philosopho quod apparet experientia demonstret rationem vel experientiam ad oppositum.
+
+Videlicet notanter demonstret experientiam ad oppositum, et caetera, quia clarum est quod baculus appareat fractus in aqua, non debeo dicere quod sit fractus, quia habeo experientiam in oppositum quia video clare quod non est fractus, et etiam habeo rationem, quia habet istam maximam: "Nullum durum redit molli". Sed baculus est huius; ergo baculus baculus non est fractus. Sed sic est quod experimur in nobis quod phantasia cognoscit actus suos; ergo hoc patet de illo qui sentit se somniare, et fortificatur istarum quae recordamus quod nos somniavimus; ergo phantasia cognovit se somniasse.
+
+Ex quo sequitur probabiliter quarta proprietas, unde quod sensus interior est /38b/ reflexivus supra suos actus.
+
+Quinta proprietas est quod sensus interior habet notitiam repraesentantem rem singulariter seu sub conditionibus individuantibus, puta cum tali loco, vel tali figura, vel tali quantitate, et talis non potest repraesentare universaliter, et caetera. Ex quo sequitur quod nulla sensatio sensus interioris est sensus communis. Dico ulterius quod sensationes simplices incomplexae semper sunt res singulares. Declaro hoc, ut notitia phantastica, considerans de Sorte vel Sortem, repraesentat Sortem ut est in tali loco, vel ut est in tali situ vel figura, et ad quod adduco experientiam, nam si aliquis somniat de aliquo, repraesentat sibi res in tali loco, cum tali figura et cum tali situ.
+
+Sexta proprietas: potentia phantastica est tam mirabilis quod potest cognoscere obiectum ipso absente. Declaro ut ille qui somniat cognoscit multa quae non sunt sibi praesentia, unde illud somnium est quaedam notitia interior sensitiva.
+
+Et ponitur septima proprietas: potentia phantastica seu solus sensus interior et nulla alia potentia operatur in dormientibus, ex quo sequitur quod, si in illis aliquando operabatur in dormientibus, sicut in prophetis, hoc erat ex quodam privilegio Dei eis dato. Ex quo sequitur quod, si aliquid volumus probare, non est melius argumentum quam per somnium. /39a/
+
+
 <!--
 ## Apparatus Criticus Reference
 * emend.  (emendatio)  : Corrected a flat-out printing mistake.
@@ -850,4 +867,5 @@ Page 35b: retinis ] conj. reutis
 Page 37a: se ] del. se videre
 Page 37b: aestimativa ] leg. extimativa
 Page 37b: interiores ] emend. interiterioriores
+Page 38b: in prophetis ] emend. imperfectis
 -->

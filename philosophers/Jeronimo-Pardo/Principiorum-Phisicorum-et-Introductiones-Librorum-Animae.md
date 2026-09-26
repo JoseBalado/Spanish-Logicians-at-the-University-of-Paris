@@ -794,7 +794,7 @@ Tertia proprietas est quae sequitur ex praecedente, quod sensus exteriores numqu
 
 Contra: Dicitur quod sensus exterior visus decipitur propter nimiam distantiam; ergo decipitur. Dico quod intelligitur ad illum sensum phantasia decipitur, ideo debt intelligi ad istum sensum visus decipitur, et phantasia decipitur propter visum.
 
-Quarta proprietas: Sensus exteriores requirunt debitam approximationem et distantiam ad percipiendum eorum obiecta. Primo quo est notandum, quod isti, sensus exteriores [nonnumquam unquam] distantia possunt percipere obiectum, sed in tanta quod non in maiori. Simile non [nunquam unquam] approximatione possunt sentire obiecta sua. Unde ponit Aristoteles quamdam regulam:
+Quarta proprietas: Sensus exteriores requirunt debitam approximationem et distantiam ad percipiendum eorum obiecta. Primo quo est notandum, quod isti, sensus exteriores non in quacumque distantia possunt percipere obiectum, sed in tanta quod non in maiori. Simile non non in quacumque approximatione possunt sentire obiecta sua. Unde ponit Aristoteles quamdam regulam:
 
 > Sensibile positum supra sensum non facit sensationem, ut visibile positum supra visum non videtur.
 
@@ -840,10 +840,35 @@ Ex quo sequitur probabiliter quarta proprietas, unde quod sensus interior est /3
 
 Quinta proprietas est quod sensus interior habet notitiam repraesentantem rem singulariter seu sub conditionibus individuantibus, puta cum tali loco, vel tali figura, vel tali quantitate, et talis non potest repraesentare universaliter, et caetera. Ex quo sequitur quod nulla sensatio sensus interioris est sensus communis. Dico ulterius quod sensationes simplices incomplexae semper sunt res singulares. Declaro hoc, ut notitia phantastica, considerans de Sorte vel Sortem, repraesentat Sortem ut est in tali loco, vel ut est in tali situ vel figura, et ad quod adduco experientiam, nam si aliquis somniat de aliquo, repraesentat sibi res in tali loco, cum tali figura et cum tali situ.
 
-Sexta proprietas: potentia phantastica est tam mirabilis quod potest cognoscere obiectum ipso absente. Declaro ut ille qui somniat cognoscit multa quae non sunt sibi praesentia, unde illud somnium est quaedam notitia interior sensitiva.
+Sexta proprietas: Potentia phantastica est tam mirabilis quod potest cognoscere obiectum ipso absente. Declaro ut ille qui somniat cognoscit multa quae non sunt sibi praesentia, unde illud somnium est quaedam notitia interior sensitiva.
 
-Et ponitur septima proprietas: potentia phantastica seu solus sensus interior et nulla alia potentia operatur in dormientibus, ex quo sequitur quod, si in illis aliquando operabatur in dormientibus, sicut in prophetis, hoc erat ex quodam privilegio Dei eis dato. Ex quo sequitur quod, si aliquid volumus probare, non est melius argumentum quam per somnium. /39a/
+Et ponitur septima proprietas: Potentia phantastica seu solus sensus interior et nulla alia potentia operatur in dormientibus, ex quo sequitur quod, si in illis aliquando operabatur in dormientibus, sicut in prophetis, hoc erat ex quodam privilegio Dei eis dato. Ex quo sequitur quod, si aliquid volumus probare, non est melius argumentum quam per somnium. /39a/
 
+Octava proprietas: Phantasia est potentia collativa, id est, potentia affirmare propositiones affirmativas et negativas. Dico quod potest etiam habere iudicium et omnia insta probantur de dormientibus, ex quo sequitur corollarium, quod propositiones quas format phantasia possunt vocari propositiones phantasticae sensuales interiores. Et si quaeras quas propositiones potest formare phantasia, dico solum singulares, ut dicens Gregorius in *Primo* et in dictamine in *Posterioribus*, quia numquam cognoscit quod hoc currit sed quod hic homo currit, id est, quod hoc homo est currens. 
+
+Sed quaereret aliquis utrum iste sensus interior possit cognoscere omnia entia mundi, vel aliqui et aliqua non. Tunc ponendo nonam proprietatem, quod potentia phantastica solum est cognitiva entium materialium seu exteriorum seu quantorum. volo dicere quod potentia phantastica nihil potest cognoscere nisi sit extensum, puta longum, latum et profundum, ex quo sequitur quod est impossibile phantasiam cognoscere angelum, aut animam, aut aliquid huiusmodi. 
+
+Contra: Aliquis somniat de angelis; igitur phantasia cognoscit angelos. Tunc negando propositionem. Sed cognoscit angelum et qui dicis quod patet deformis.
+
+Dico quod illud somnium non repraesentat angelum illum proprie, sed phantasia fingit sibi aliquod extensum tamquam angelum. Hoc patet per experientiam, nam quando aliquis somniat de angelo /39b/, repraesentat sibi aliquod extensum, quod negatur de angelo.
+
+Contra: Phantasia cognoscit suas sensationes et omnes sensus sensuum exteriorum, et tamen illae non sunt extensa, igitur. 
+
+Pro solutione dico quod omne illud vocatur materiale in philosophia quod est extensum, id est, quod habet quantitatem vel quod recipitur in aliquo extenso. Unde dicit Scotus, quod aliquid dicitur extensum duobus modis: uno modo quia recipit quantitatem, alio quia recipitur in quantitate vel in quanto.
+
+Primo: Dicitur quod est ipsamet quantitas, et ut longitudo, vocatur res naturalis quia est ipsamet quantitas.
+
+Secundo: Lapis vocatur res naturalis quia recipit quantitatem.
+
+Tertio: Albedo et nigredo vocantur naturales et extensae, quia recipiuntur in quantitate vel in quanto. 
+
+Tunc ponitur talis propositio:
+
+> Omnes sensationes sensus exterioris vel exteriorum possunt dici materiales et extensae, quia recipiuntur in subiecto extenso.
+
+Puta in potentiis sensitivis quae dicuntur esse extensae, ut in visio dicitur esse extensa quia recipitur in organo extenso.
+
+Item potentiarum sensitivarum quaedam est interior et quaedam est exterior. Exterior est quintuplex, videlicet: appetitiva visiva, appetitiva auditiva, appetitiva tactiva, appetitiva gustativa, appetitiva olfactiva. Sed interior est tamen una, scilicet appetitiva interior. Et ista divisio ponitur, quia omnis potentia cognitiva est appetitiva secundum obiectum. /40a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -868,4 +893,7 @@ Page 37a: se ] del. se videre
 Page 37b: aestimativa ] leg. extimativa
 Page 37b: interiores ] emend. interiterioriores
 Page 38b: in prophetis ] emend. imperfectis
+Page 39b: Primo ] emend. Tertio
+Page 39b: exteriorum ] del. et exterioris vel exteriorum
+Page 39b: organo ] conj. impo
 -->

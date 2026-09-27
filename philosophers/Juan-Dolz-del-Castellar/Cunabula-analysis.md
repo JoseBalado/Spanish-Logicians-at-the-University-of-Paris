@@ -673,11 +673,50 @@ Dolz introduces _antecedens_ and _consequens_ as terms borrowed metaphorically f
 
 Continuous geometrical proportionality joins similar ratios through a common middle term: $8:4=4:2$, where the consequent $4$ of the first ratio is the antecedent of the second. Discussing Aristotle's example in book V of the _Ethics_, Dolz explains why this can be counted as four terms if the middle is counted twice, though only three distinct terms are needed; chains such as $8:4=4:2=2:1$ can use more. He expressly excludes continuous proportionality from the arithmetical kind because his definition of the continuous kind requires similarity of proportions.
 
-Discontinuous proportionality has no such shared middle: $8:4=2:1$ uses four terms. Dolz says it cannot have fewer than four, though it can have more. His initial formulation, _comparatio proportionum_, is broader than the alternative formulation requiring _similitudo proportionum_. The later example comparing $3:6$ with $8:4$ is expressly called discontinuous despite their unequal ratios; whether this reflects the broader formulation or a fault in the transmitted example remains unclear. It should not be silently treated as an equality of ratios.
+Discontinuous proportionality has no such shared middle: $8:4=2:1$ uses four terms. Dolz says it cannot have fewer than four, though it can have more. His initial formulation, _comparatio proportionum_, is broader than the alternative formulation requiring _similitudo proportionum_. At the page 34–35 transition, he expressly calls the comparison $3:6$ with $8:4$ discontinuous, although $3/6\ne8/4$. Page 35 also says that dissimilar proportions do not license the ensuing inferences. Thus his affirmative answer cannot by itself establish equality of those ratios: either the broad _comparatio_ allows a discontinuous **comparison without equality**, or the transmitted example or answer is faulty. The text does not settle which; the narrower equal-ratio definition and its valid inference rules must not be extended to this example without qualification.
 
 ---
 
-## 14. Summary of the doctrine
+## 14. Page 35: transformations of equal proportions and what makes them valid
+
+### Adding and removing corresponding terms
+
+Dolz now treats proportionalities as **ways of arguing from one equality of proportions to another**, not just as names for numerical progressions. His _coniuncta_ adds the consequent to the antecedent in each of two equal proportions. For $a,b,c,d>0$:
+
+$$
+\frac ab=\frac cd
+\quad\Longrightarrow\quad
+\frac{a+b}{b}=\frac{c+d}{d}.
+$$
+
+**What is being compared?** There are **two ratios**, not one: $8:4$ and $2:1$. A colon means “divided by,” so $8:4=8/4=2$ and $2:1=2/1=2$. The equality between the ratios says that two different pairs stand in the same relation. Here $a:b$ and $c:d$ are those two pairs; $b$ is the second term of the first pair, and $d$ the second term of the second. Neither $r$ below nor any other number is an unknown Dolz asks us to solve for.
+
+**What does the rule do?** For *each* pair, add its own second term to its first term, leaving its second term unchanged:
+
+| Pair | Original ratio (value) | Operation | New ratio (value) |
+| --- | --- | --- | --- |
+| First | $8:4$ ($2$) | $(8+4):4$ | $12:4$ ($3$) |
+| Second | $2:1$ ($2$) | $(2+1):1$ | $3:1$ ($3$) |
+
+Thus the new comparisons are **equal to each other**: $12:4=3:1$. The numbers in parentheses are each ratio's value; they are not extra terms in the ratio. More generally, let $r$ name the original value $a/b=c/d$. Then $(a+b)/b=a/b+1=r+1$ and $(c+d)/d=c/d+1=r+1$. In the example $r=2$, so both new ratios have value $r+1=3$. The operation does **not** preserve the original value $2$; it preserves the equality of the *two* ratios. Simplifying $12:4$ to $3:1$ afterward leaves its new value unchanged and is a separate operation.
+
+**What might this be for?** As a modern illustration, not one given by Dolz here, imagine comparing speeds in two settings: in the first, two bodies have speeds $8$ and $4$; in the second, $2$ and $1$, in the same units. Both speed ratios initially equal $2:1$. If the faster body in *each* setting gains a speed equal to the slower body's speed (a gain of $4$ in the first, $1$ in the second), the new comparisons are $12:4$ and $3:1$, both $3:1$. The gains are not equal in absolute units; they are equal **relative to their respective slower bodies**. This rule establishes a relation between ratios, not an acceleration: calculating acceleration would also require times. Page 35 does not itself apply this particular rule to speeds.
+
+Why so many names? Dolz has first classified **individual ratios** by kind (double, sesquialteral, etc.), so he can recognize whether two ratios are alike. Here he classifies **valid inferences between equal ratios**: which changes to the terms preserve their equality, and which do not. The rules are meant to make such reasoning teachable, not to offer different ways of simplifying a fraction. Dolz says _coniuncta_ works whether the starting proportionality is continuous or discontinuous: the operation depends on the equal ratios, not on whether they share a middle term. The apparently separate _disiunctiva_ example $8:4=4:2$ applies the same operation to a **continuous** starting proportion, yielding $12:4=6:2$; the text does not here give it a distinct general rule.
+
+_Disiuncta_ reverses the addition: from $(a+b):b=(c+d):d$ infer $a:b=c:d$. In Dolz's numerical example $12:4=3:1$ yields $8:4=2:1$. The word _dissimilitudine_ in the transmitted definition conflicts with its own numerical example and the later insistence on **similarity**; the inference requires equality of the initial ratios, not dissimilarity. Algebraically, the forward and reverse steps simply add or subtract $1$ from both ratios.
+
+Dolz then gives two senses of _eversa_, using the **antecedent**, rather than the consequent, as denominator. _Eversa ad disiunctam_ infers $a:b=c:d$ from $(a+b):a=(c+d):c$; _eversa ad coniunctam_ makes the reverse inference. The corresponding example is $12:8=3:2$, from or to $8:4=2:1$. The altered ratios equal $1+b/a$ and $1+d/c$ respectively: subtracting $1$ and taking reciprocals recovers $a/b=c/d$ when the terms are positive. The prose definition of the second sense is difficult as transmitted, but its lettered and numerical examples state the direction clearly. These are equivalences of ratio equalities for positive terms, not claims that adding an equal **absolute** amount to two unrelated ratios preserves them.
+
+### The criterion for similar proportions
+
+Dolz explicitly rejects resemblance of the **numbers** or equality of their absolute distances as criteria for resemblance of **proportions**: $8$ and $4$ differ from $2$ and $1$ in size and absolute difference, but both comparisons are double. What counts is _denominatio_: “_Omnes proportiones eiusdem denominationis sunt similes in proposito_.” All double ratios, all sesquialteral ratios, and so forth are similar regardless of the things compared. This gives a practical reason for his insistence on the lowest, exactly specified ratio species on pages 31–33: _superbipartiens_ alone names too many different ratios to guarantee similarity, whereas _superbipartiens tertias_ names one.
+
+The final qualification matters: Dolz calls these proportionalities _modi arguendi in proportionibus_, modes of inference. A named transformation requires a **valid consequence**; mere juxtaposition of two equal starting ratios does not license every rearrangement of four terms. His counterexample **starts with a true statement**, $8:6=4:3$ (both equal $4/3$), and **tests a proposed inference**, $8:3=6:4$. The proposed conclusion is false: $8:3=8/3\approx2.67$, whereas $6:4=6/4=1.5$. It is written as an equality because Dolz is asking whether it follows, not because he endorses it. The intermediate cross-comparison $8:4=6:3$ **is** true (both equal $2$), and follows by rearranging $8/6=4/3$ for positive terms; it is the further step from this equality to $8:3=6:4$ that fails. Dolz's wording _non sequitur_ before the two linked conclusions is best read as rejecting the chain, not the valid intermediate equality on its own. The name _coniuncta_ must therefore not be confused with arbitrary permutation of a four-term equality. The excerpt continues into further rules; it does not yet establish every possible rearrangement.
+
+---
+
+## 15. Summary of the doctrine
 
 1. _Aliquot part_ is a **two-place relation** between a part and a whole, requiring exact measure and at least two repetitions.
 2. Dropping the second term of the relation is what generates every difficulty in preamble 8.
@@ -701,11 +740,13 @@ Discontinuous proportionality has no such shared middle: $8:4=2:1$ uses four ter
 20. Proportionality is a second-order relation between proportions, not another name for a single ratio.
 21. Geometrical proportionality preserves equal ratios while permitting unequal absolute excesses; Dolz applies this directly to Calculator problems of changing motion.
 22. Page 34 defines arithmetical proportionality by equal successive excesses despite differing ratios; its examples of motion and corruption contrast with geometrical progression.
-23. Continuous geometrical proportionality reuses the consequent of one ratio as the antecedent of the next; discontinuous proportionality lacks that common middle. The examples on page 34 leave some tensions with the stated definitions.
+23. Continuous geometrical proportionality reuses the consequent of one ratio as the antecedent of the next; discontinuous proportionality lacks that common middle. Dolz calls one unequal-ratio comparison discontinuous, but page 35's inferential rules require equal starting ratios; its status remains unresolved.
+24. Page 35's _coniuncta_ and _disiuncta_ add and remove the consequent from corresponding antecedents; the two _eversa_ transformations do the same with the antecedent as denominator. All require genuinely equal starting ratios.
+25. Similarity of proportions depends on their denomination (the same exact ratio), not on similarity of their terms or equality of absolute differences. A proportionality functioning as a mode of argument must be a valid inference; equality of two initial ratios does not license arbitrary cross-comparisons.
 
 ---
 
-## 15. Textual notes
+## 16. Textual notes
 
 Proposed emendations arising from the analysis. Those marked _insecure_ are recorded but not recommended for adoption.
 
@@ -727,3 +768,5 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 32b | **Simplex** minoris inaequalitatis etiam est multiplex… | probably **Similiter**… _(insecure)_ | The sentence otherwise calls the entire lesser-inequality division “simple” and then lists both its simple and composite branches; the preceding sentence and subsequent definitions require the same division as for greater inequality |
 | 33a | _subsuperbipartiens tertias_, exemplum **2 ad 5** | **3 ad 5** | $3:5$ is the reciprocal of $5:3$ and fits “once plus two thirds”; $2:5$ belongs to the _subdupla sesquialtera_ defined immediately afterward |
 | 34a | **2**, 3, 5, 7, 9 | **1**, 3, 5, 7, 9 (adopted) | The printed sequence has unequal successive excesses; $1,3,5,7,9$ has constant excess $2$ and avoids duplicating the following $2,4,6,8$ |
+| 35a | _disiuncta_: ex **dissimilitudine** aliquarum proportionum | probably **similitudine** _(insecure)_ | The given $12:4=3:1$ and $8:4=2:1$ example requires equality, and the subsequent paragraph explicitly requires similar proportions for these inferences; the transmitted wording is inconsistent |
+| 35a–35b | _eversa coniuncta_: antecedentis et consequentis unius ad antecedens et consequens alterius | _(insecure; left as printed)_ | Read literally, it does not describe the operation shown by its symbolic and numerical examples, $a:b=c:d\Rightarrow(a+b):a=(c+d):c$ |

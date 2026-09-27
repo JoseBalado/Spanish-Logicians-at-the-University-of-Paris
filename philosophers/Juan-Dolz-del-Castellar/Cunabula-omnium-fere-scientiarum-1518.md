@@ -795,6 +795,8 @@ Patet ultra quomodo sit intelligenda una difficultas quae solet tangi in *Poster
 
 Et hoc servit pluribus aliis locis ubi tangitur de hac corruptione geometrica, et sic semper quandiu durabit aliquid, de assensu praemissarum durabit aliquid de assensu conclusionis, et si non tantum, non obstat patet Aristotelem illic dicentem: "Necesse est magis assentire praemissis quam conclusioni". Modo qualiter sit intelligendum declaravi in *Analyticorum* lectura.
 
+## De proportionalitatibus
+
 ### Proportionalitas arithmetica
 
 > Proportionalitas arithmetica: est excessus similitudo quamquam dissimilitudo.
@@ -837,7 +839,59 @@ Vel si vis, ut dixi:
 
 > Similitudo proportionum inter quas non capitur idem commune, sive inter quas non est consequens unius antecedens alterius.
 
-Exemplum ut qualis est proportio 8 ad 4, talis est 2 ad 1. Et haec proportionalitas non reperitur in paucioribus terminis quam 4, sed in pluribus reperiri valet. Patet in exemplo qualis est 3 ad 6, talis est 8 ad 4, et 2 ad 1. Et si petas utrum ibi sit proportionalitas discontinua, qualis est proportio 3 ad 6, talis 8 /35a/ ad 4, dico quod sic.
+Exemplum ut qualis est proportio 8 ad 4, talis est 2 ad 1. Et haec proportionalitas non reperitur in paucioribus terminis [quam] 4, sed in pluribus reperiri valet. Patet in exemplo qualis est 3 ad 6, talis est 8 ad 4, et 2 ad 1. Et si petas utrum ibi sit proportionalitas discontinua, qualis est proportio 3 ad 6, talis 8 /35a/ ad 4, dico quod sic, nec inconvenit in proportionalitate discontinua communicationem reperiri inter proportiones eo modo ut inferius loquimur de communicatione proportionum.
+
+### Proportionalitas coniuncta
+
+> Proportionalitas coniuncta: est quando ex aliqua proportionalitate continua vel discontinua infertur comparatio terminorum unius proportionis ad consequens eiusdem, ad terminos alterius proportionis simul iunctos ad consequens eiusdem.
+
+Declaro exemplo: qualis est proportio 8 ad 4, talis est 2 ad 1; igitur qualis est 8 et 4 ad 4, talis duorum et unius ad unum.
+
+### Proportionalitas disiunctiva
+
+Exemplum de disiunctiva: qualis est 8 ad 4 talis est 4 ad 2; igitur qualis 8 et 4 ad 4 talis est 4 et duorum ad duo, et sic patet quod haec proportionalitas tam continua quam discontinua reperiri posset.
+
+### Proportionalitas disiuncta
+
+> Proportionalitas disiuncta sic describitur: est quando ex dissimilitudine aliquarum proportionum in quibus fit comparatio antecedentis et consequentis simul unius illarum ad consequens eiusdem et antecedentis et consequentis simul alterius ad consequens eiusdem infertur similitudo antecedentis et consequentis unius et antecedentis et consequentis alterius, ut patet in hoc exemplo, qualis est proportio a et b ad b, talis est c et d ad d, talis est etiam a ad b et c ad d.
+
+Et potes capere exemplum expressum in numeris isto modo, qualis est proportio 8 et 4 ad 4, talis duorum et unius ad unum; ergo qualis octo ad quattuor, talis est 2 ad unum.
+
+### Proportionalitas eversa
+
+Proportionalitas eversa: potest bifariam sumi, uno modo potest sumitur eversa ad coniunctam, alio modo eversa ad disiunctam.
+
+### Proportionalitas eversa ad disiunctam
+
+> Eversa [ad] disiunctam: est quando ex similitudine proportionis antecedentis et consequentis unius ad antecedens eiusdem, et antecedentis et consequentis alterius ad antecedens ipsius infertur similitudo proportionis antecedentis ad consequentis unius, et antecedentis ad consequens alterius.
+
+Exemplum: qualis est proportio a et b ad a, talis est c et d ad c; igitur qualis est proportio a ad b talis est c ad d. Et hoc patet ex praemissae in numeris, qualis est proportio 8 et 4 ad 8, talis est duorum et unius ad duo; ergo qualis est 8 ad 4, talis est 2 ad unum.
+
+### Proportionalitas eversa ad coniunctam 
+
+> Proportionalitas eversa coniuncta sic describitur: est quando ex similitudine proportionum antecedentis et consequentis unius ad antecedens et consequens alterius infertur similitudo proportionis antecedentis et consequentis unius ad antecedens eiusdem, et antecedentis et consequentis alterius ad antecedens eiusdem.
+
+Exemplum: qualis est proportio a ad b, talis est c ad d; ergo qualis a et b ad a, talis est c et d ad c. Et claret expresse in numeris qualis est /35b/ proportio 8 ad 4, talis est duorum ad unum; ergo qualis est octo et 4 ad octo, talis est duorum et unius ad duo.
+
+Et ex his patet postea per similitudinem proportionum hae descriptiones proportionalitatum dantur, opus est igitur proportiones esse similes, quia etiam aliter non bene inferretur, et proportionum similitudine fit tale documentum.
+
+### Similitudo proportionum
+
+Similitudo proportionum non attenditur penes similitudinem numerorum et quantitatum inter quas reperiuntur, nec penes similem distantiam aut appropinquationem. Nam 8 et 4 non sunt similes binario et unitati, nec aequaliter appropinquant aut distant, tamen illorum proportiones sunt similes; ideo penes denominationem attenditur, et sit tibi haec regula.
+
+> Omnes proportiones eiusdem denominationis sunt similes in proposito, et non eiusdem denominationis dissimiles.
+
+Ex quo patet omnes duplas esse similes ubicumque reperiantur, omnes sesquialteras, et caetera. Nec est inconveniens a rebus dissimilibus emanare similia. Etiam possemus dicere proportiones non emanare inquantum tales vel tales res sunt, sed quia talis vel talis inter eas est habitudo, quam quidem habitudines frequenter sunt similes non obstante rerum dissimilitudine.
+
+### Modi arguendi in proportionibus
+
+Est tamen advertendum quod istae proportionalitates alio modo solent a mathematicis vocari modi arguendi in proportionibus, quia etiam, ut patet ex descriptionibus positis, describuntur per argumentationem consequentialem. Immo si consequentia  non esset bona non diceretur talis vel talis proportionalitas, et ideo ibi non est proportionalitas de qua loquimur, qualis est proportio octo ad 6, talis est 4 ad 3; ergo qualis octo ad 3, talis 6 ad 4.
+
+Vides consequentia est nulla, antecedentis est verum, quia utraque est sesquitertia, et consequens est falsum, quia 8 ad 3 superbipartiens tertias dupla, et sex ad 4 est sesquialtera, et ex consequenti non oportet fieri similitudine proportionum inferatur similitudo antecedentis primae ad antecedens secundae et consequentis primae ad consequens secundae, quod propterea inferatur similitudo proportionis antecedentis primae ad consequens secundae et consequentis primae ad antecedens secundae.
+
+Patet in exemplo dato, nam non sequitur qualis 8 ad 6, talis est 4 ad 3; ergo qualis 8 ad 4, talis est 6 ad 3; ergo etiam qualis est 8 ad 3, talis est 6 ad 4, patet ex proportione.
+
+Patet ultra non oportet proportiones consequentis consequente esse similes proportionibus antecedentis, et in bona proportionalitate patet proportiones illius modi arguendi qualis /36b/ est 8 ad 6, talis 4 ad 3; ergo qualis....
 
 
 

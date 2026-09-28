@@ -868,7 +868,21 @@ Tunc ponitur talis propositio:
 
 Puta in potentiis sensitivis quae dicuntur esse extensae, ut in visio dicitur esse extensa quia recipitur in organo extenso.
 
-Item potentiarum sensitivarum quaedam est interior et quaedam est exterior. Exterior est quintuplex, videlicet: appetitiva visiva, appetitiva auditiva, appetitiva tactiva, appetitiva gustativa, appetitiva olfactiva. Sed interior est tamen una, scilicet appetitiva interior. Et ista divisio ponitur, quia omnis potentia cognitiva est appetitiva secundum obiectum. /40a/
+Item potentiarum sensitivarum quaedam est interior et quaedam est exterior. Exterior est quintuplex, videlicet: appetitiva visiva, appetitiva auditiva, appetitiva tactiva, appetitiva gustativa, appetitiva olfactiva. Sed interior est tamen una, scilicet appetitiva interior. Et ista divisio ponitur, quia omnis potentia cognitiva est appetitiva sui obiectum. /40a/
+
+Id est cognitiva ut visus est appetitus visibilium, et habet duos actus, scilicet prosequi et fugere: prosequi respectu obiecti visibilis convenientis, et fugere respectu obiecti disconvenientis. Et auditus habet duos actus circa audibilia, scilicet fugere et prosequi sonum delectabilem, fugere sonum disconvenientem. Et isti duo actus naturaliter producuntur, id est cantus ab apparentibus sensitivis, ita quod non est probabile quod appetibile sit conveniens et cognoscatur quin prosequatur, et sit disconveniens et cognoscat quin fugiatur.
+
+Notandum quod numquam appetitus sensitivus prosequitur vel fugit aliquod obiectum quod non sentitur, id est, nisi actualiter potentia sensitiva actualiter sentiat illud.
+
+Contra: phantasia appetit obiectum aliquod quod non sentit; ergo antecedens. Patet quia phantasia appetit cibum quem non sentit. Patet quia non habet illum cibum; ergo non sentit illum vel sentitur illud quod non est, tunc negando consequentiam qui dictum est quod sensation interior potest esse tam de obiecto existente quam de non existente. Et enim infers: "Ergo sentit illud quod non est". Distinguo: aut sensatione exteriori, et sic nego; aut interiori, et sic concedo.
+
+Notandum est quod dicit Scotus, in *Secundo*, praeter omnes illas potentias exteriores sensuum interiorum, ponendae sunt duae potentiae appetitivae, quarum una vocatur concupiscibilis, alia vero vocatur irascibilis. Et primo dicatur de prima, scilicet quod est eius obiectum et quis est illius actus, pro quo melius intelligendo ponuntur aliquae proprietates, quarum prima est: potentia concupiscibilis in parte sensitivam habet unum organum quod est una pellicula /40b/ quae constringitur, qui est dolor in tale potentia, et dilatatur, qui est delectatio in illa potentia.
+
+Secunda proprietas est quod potentia concupiscibilis, licet pro obiecto conveniens potentiae sensitivae, vel disconveniens, est conveniens gustui. Dico quod concupiscibilis concupiscit unum non simpliciter, sed inquantum est conveniens gustui; et potentia concupiscibilis refugit aliquod obiectum non simpliciter, sed inquantum est disconveniens potentiae qui talis non fugit malum unum simpliciter, sed inquantum est disconveniens gustui.
+
+Tertia proprietas: est quod potentia concupiscibilis habet duos actus, unus est in obiectum conveniens appetitui sensitivo, vel interiori vel exteriori, et tunc sequitur dilatatio, et hoc semper in parte sensitiva. Ex quo sequitur quod verum est illud quod aliqui dicunt, quod propter magnum gaudium sequitur mors, et ratio naturalis est quod illa pellicula dilatatur et tantum potest dilatari quod frangitur, et tunc sequitur mors. Secundus actus est fugere obiectum disconveniens appetitui sensitivo.
+
+Sed pro declaratione potentiae irascibilis ponuntur aliquae eius proprietates, quarum prima est: obiectum potentiae irascibilis est punibile vel offendens, seu illud quod removet conveniens concupiscibile suae parti sensitivae. Declaro hoc: si sit unus qui concupiscit vinum bonum, et aliquis auferat illud vinum, tunc ille dicitur offendens, et ille inquantum offendens fit obiectum irascibile. /41a/
 
 <!--
 ## Apparatus Criticus Reference

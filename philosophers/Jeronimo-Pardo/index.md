@@ -21,6 +21,12 @@ keywords: Jerónimo Pardo, Spanish logician, medieval logic, renaissance logic, 
 
 Pardo wrote a manual on logic and one on natural philosophy, which he never completed. García Villoslada considers that the latter is in fact the *Introductiones phisicales artium Hieronimo Pardo ad totam naturalem philosophiam*, represented in the manuscript preserved in the Institución Colombina (sign. top. 7-2-29). The manuscript contains two consecutive texts: *Introductiones phisicales* (h. 1r–26v) and *Introductiones librorum de anima* (h. 27r–93r)[^5].
 
+### The announced treatise *de intensione*
+
+In the prologue to the *Medulla* Pardo announces that, after a treatise on exponibles, he will add "the difficult philosophy that is called *de intensione*" (*difficilem philosophiam quae de intensione dicitur Deo auspice eidem annectam*). The physics text attributed to him refers three times to this work as a *Tractatus de intensione formarum*. No such treatise is known in print or in manuscript, and it was probably never written. The announcement is nevertheless significant: the intension and remission of forms — the degrees, latitudes, and uniform or difform variation that were the core subject of the Oxford Calculators — was already an announced project at Montaigu around 1500, almost a decade before Alvarus Thomas's *Liber de triplici motu* (Paris, 1509) and the works of Lax, Luis Coronel, Celaya, and Dolz. Pardo is thus an early programmatic witness to the Parisian revival of the Calculators, not its founder: he already read Buridan, Albert of Saxony, and Heytesbury, and the surviving text on motion contains none of the calculatory mathematics.
+
+On local motion the physics text remains Aristotelian: "Omnis motus localis naturalis velocior est in fine quam in principio. Ut si lapis descendat deorsum, quanto magis descendit ad suum locum, tanto velocius movetur." Tying the increase of speed to the **distance fallen** rather than to the time elapsed is, in qualitative form, the hypothesis Galileo himself still held in 1604 before replacing it with the law of uniform acceleration in time.[^7] For the wider context see [The Paris calculatores, Alvarus Thomas, and Galileo](../Juan-Dolz-del-Castellar/Calculatores-Paris-and-Galileo.html).
+
 The only work published by Pardo was *Medulla Dyalectices*. The first edition was published by Pardo in Paris in 1500, with a foreword by his brother Miguel. The work was republished in Paris by John Mair and Jacobo Ortiz in 1505, after Jerónimo's death[^6].
 
 Includes an index and corrections made by Ortiz as stated in the foreword, reproduced here:
@@ -52,6 +58,8 @@ This is the index of the Medulla Dyalectices:
 [^5]: Cf. García Villoslada 1938, p. 380.
 
 [^6]: The biographical section of this article draws in part on Paloma Pérez-Ilzarbe (1996), *The Doctrine of Descent in Jeronimo Pardo. Meaning, Inference, Truth*, with subsequent additions and corrections.
+
+[^7]: [*Medulla Dyalectices*](Medulla-Dyalectices-1505.html), cap. 1, prologue; [*Principiorum Phisicorum*](Principiorum-Phisicorum-et-Introductiones-Librorum-Animae.html), 13a (natural motion); references to the *Tractatus de intensione formarum* at 12b, 15a, and 29a. For Galileo's 1604 hypothesis, see his letter to Paolo Sarpi of 16 October 1604 (*Opere*, Edizione Nazionale, X, 115–116).
 
 ---
 

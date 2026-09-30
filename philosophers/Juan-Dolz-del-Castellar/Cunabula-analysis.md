@@ -16,6 +16,8 @@ $$
 \mathrm{rules\ of\ motion\ and\ other\ physical\ difficulties}.
 $$
 
+For these predecessors, the Parisian transmission of the Calculators, and the comparison with Galileo, see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-and-Galileo.html).
+
 The order of exposition is therefore not determined by the sequence of Aristotle's _Physics_. Dolz retains Aristotelian questions and explicitly intends his mathematics to clarify the third, seventh, and eighth books, but access to those questions is reconstructed through proportion. Mathematics becomes the route by which the student enters physical inquiry, rather than an occasional instrument introduced inside a conventional commentary. The title expresses the same program by calling these principles the _cunabula_, the rudiments or cradle, of almost all sciences and especially of physical difficulties.
 
 Dolz is unusually conscious of the pedagogical problem he is addressing. He blames teachers rather than students for the neglect of proportions in Aquitaine; says that the subject was almost unheard of there; writes in response to students' requests; repeatedly promises preliminary foundations; and selects only as much mathematics as natural philosophy requires. He also extends the utility of proportion beyond physics to ethics, theology, medicine, dialectic, and law. The work thus proposes not simply a collection of results but a method for turning dispersed technical knowledge into common, teachable foundations.

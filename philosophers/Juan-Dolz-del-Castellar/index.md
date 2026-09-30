@@ -57,6 +57,8 @@ The section is highly personal: Celaya reportedly called Dolz blind, ignorant, f
 
 The *Cunabula* also attests to two further teaching works or activities, neither represented here by an identified printed edition: Dolz says he had written his *Exponibilia* and given its solution to students (23a), and refers to an explanation given in his *Analyticorum lectura* (34a). The latter reference establishes lectures or a commentary on the *Analytics*, not necessarily a completed, separately published book.[^8]
 
+See also the [analysis of the *Cunabula*](Cunabula-analysis.html) and [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-and-Galileo.html).
+
 ## Notes
 
 [^1]: [*Cunabula* transcription](Cunabula-omnium-fere-scientiarum-1518.html), preliminary addresses, PDF pp. 12, 14, and 17; proemium, PDF p. 24.

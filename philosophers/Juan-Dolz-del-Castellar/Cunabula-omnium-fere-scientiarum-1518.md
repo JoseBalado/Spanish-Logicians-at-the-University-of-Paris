@@ -1011,7 +1011,29 @@ Item bos est perfectior asino; ergo in aliqua proportione, sed non potest illa a
 
 Multa similia argumenta fieri possunt, sed per haec quod dicentur in solutionibus istorum patebit quid dicendum sit in aliis.
 
-Pro solutione primi adverte quod naturaliter ille casus non possunt dari; ideo si admittatur, loquendum erit supernaturaliter. Et ob consimilem casum destruitur unum quod communiter solet dici in philosophia, quod potentia activa terminatur per minimum in quod non potest; tamen si Sortes esset activitatis ut 8, et unum pondus ponderetur in infinitis locis, in primo esset resistentiae ut 7, in secundo esset resistentiae ut 7 cum dimidio, et sic consequenter ut positum est de alio, tunc hoc esset maximum pondus quod Sortes potest /38a/ portare
+Pro solutione primi adverte quod naturaliter ille casus non possunt dari; ideo si admittatur, loquendum erit supernaturaliter. Et ob consimilem casum destruitur unum quod communiter solet dici in philosophia, quod potentia activa terminatur per minimum in quod non potest; tamen si Sortes esset activitatis ut 8, et unum pondus ponderetur in infinitis locis, in primo esset resistentiae ut 7, in secundo esset resistentiae ut 7 cum dimidio, et sic consequenter ut positum est de alio, tunc hoc esset maximum pondus quod Sortes potest /38a/ portare modo philosophico ut deducitur in philosophia. Sed de hoc alibi.
+
+Iam dico ad argumentum quod si vis comparare a ad b in ordine ad unum locum quicunque sit ille, tunc b ad a bene est proportio, et si capiatur a in primo loco est proportio sesquiseptima, et ita consequenter de aliis poteris dicere. Si vero compares b ad a in ordine ad quemlibet locum, tunc b est maius a, et in nulla proportione est maius a.
+
+Et quando dicis quod a et b possunt comparari in aliquo utrique communi, et caetera, igitur debet esse proportio, dico bene est proportio simpliciter, quia sesquiseptima, nam continet a et septimam eius partem, et hoc sufficit pro dictis salvandis. Dico ulterius quod dicta intelliguntur quomodo res illae in quibus fit comparatio sic se habent quod nulla illarum tenet locum nisi unius rei, modo a si consideratum ut ponitur in diversis locis tenet locum plurium. Ideo non oportet quod ad a consideratum ut est in omnibus illis locis sit proportio.
+
+Et si replices quia sequeretur quod darentur duae res, et unius ad aliam esset infinitae proportiones inaequales, patet in illo casu, considerando b prout est in primo loco est aliqua proportio b ad a, et etiam considerando prout est in secundo loco est aliqua proportio b ad a inaequalis primae, et sic consequenter. Ad hanc replicam concedo illatum.
+
+Et si murmures, sequeretur quod dantur duo corpora quorum unum esset maius alio, tamen nulla pars maioris esset inaequalis minori, quod videtur inconveniens, nam oppositum reperitur communiter, patet advertenti. Sequela patet, nam b est maius a, tamen nulla pars b est aequalis a, quia nulla pars b omnem quantitatem infra 8 attingit.
+
+Dico quod aliqua pars b est aequalis a, scilicet pars septempedalis est aequalis a, quia ad hoc sufficit quod in aliquo loco sit aequalis a. Dico ultra quod considerando secundum omnem locum illud est verum, et hoc modo illud non debet reputari inconveniens, communiter non occurrit ille casus. Dico etiam quod omnem quantitatem infra 8 aliqua pars b attingit, licet nulla pars b attingit omnem quantitatem infra 8.
+
+Et si petas quid debet tunc assignari pro medietate ipsius a, dico tripedale cum semis est sua medietas, patet, est sua medietas in primo loco; ergo est sua medietas. Consequentia haec non debet ab intelligente negari. Item in quolibet aliorum locorum etiam potest assignari medietas respectu cuiuscunque loci seorsum, nec est inconveniens idem habere /38b/ plures medietates inaequales, et ad suas medietates diversas proportiones habere.
+
+Si autem consideres ly 'a' respectu omnium locorum, dico quod ut sic nullam habet medietatem, nec hoc inconvenit, nisi diceretur quod pars quadrupedalis esset sua medietas in ordine ad omnia loca, sed hoc non esset conforme geometriae, nam omne totum debet esse duplum ad suam medietatem, quod non esset ibi. Consimiliter poteris loqui si petatur de aliis partibus aliquotis.
+
+Et si petas an corpus septem pedum cum dimidio sit illo maius, aliqui forsan diceret quod est illo maius, et ad hoc sufficeret quod in aliquo loco esset illo maius. Sed tunc oporteret concedere quod etiam aliud esset maius illo septem pedum cum dimidio, et sic darentur a et b, et a esset maius b, et b esset maius a. Ideo quia haec non videtur bene sonora, dico aliter quod non est maius illo, et nego hanc consequentiam, in hoc loco est maius illo; ergo est maius illo, nam maius in ultima exponente includit negationem. Secus est de aliis de quibus diximus, sed de multis aliis quae circa hunc casum applicari possunt diximus in vigiliis philosophiae.
+
+### Ad secundum
+
+Ad secundum argumentum dicitur quod infiniti ad finitum et e contra, aut infiniti ad infinitum nulla est proportio proprie loquendo, ut sermo communis philosophicus testatur. Et hoc verum habet loquendo de proportionibus de quibus superius locuti sumus, quia certum est illa proportio in nulla specierum assignatarum contineretur. Et ex consequenti haec consequentia est neganda: "a est maius et b est minus; ergo a ad b est proportio maioris inaequalitatis". Nec etiam sequitur: "a est minus et b maius; ergo a ad b est proportio minoris inaequalitatis". Patet in proposito.
+
+Et si arguas: "ipsum finitum aliquoties sumptum reddit infinitum; ergo est multiplex proportio inter illa, patet ex definitione proportionis multiplicis, vel ad minus aliqua alia proportio", non negando consequentiam, nam in definitionibus superius positis nos loquebamur de continentia finitarum [ad] finitum, qualiter non est ibi. Nisi velis tenere unum quod superius dictum est, quod esset proportio infinita, et quod proportio primo posset dividi in proportionem finitam et infinitam, et quod processus factus sit de proportione finita, nisi etiam velles dicere quod esset proportio aequalitatis infiniti ad infinitum, de qua diximus ipsam nullas habere species, et si communiter oppositum dicatur loquimur /39a/ de aliis...
 
 <!--
 ## Apparatus Criticus Reference
@@ -1058,5 +1080,9 @@ Page 36a: 1 ] emend. 2
 Page 36a: conclusione ] conj. ꝯōe
 Page 36b: 64 ] emend. 94
 Page 37b: octupedale ] emend. octupedalo
+Page 38a: si ] emend. f
+Page 38a: septempedalis ] leg. septupedalis
+Page 38b: [ad] ] om.
+Page 38b: finitum ] conj. vituū
 
 -->

@@ -906,6 +906,24 @@ Et sic dixerunt aliqui quod res sensibilis est obiectum nostri intellectus pro i
 
 Et ideo si quis quaerat quod est obiectum nostri intellectus pro statu, dico quod suppletur per hoc disiunctum, scilicet sensibile vel immutatum pot, id est, intellectus. Unde dicunt boni doctores quod magis clare intelligo intellectionem meam quam rem aliam sensibilem /42a/.
 
+Ex quo sequitur quod nihil potest intellectus noster cognoscere intuitive nec praesentialiter distincte nisi sit sensibile vel immutativum potentiae intellectivae, vel immutans ipsum intellectum pro statu isto.
+
+Ex quo sequitur quod bene dicit de Novo Castro quod intellectus noster non potest cognoscere suos habitus intrinsece, nec suas species intelligibiles, et ratio est quia illae non immutant potentiam. Et si quaeras quomodo aliquis cognoscit habitum, dico quod arguitive et per quemdam discursum, nam facimus talem discursum: ego pro in priori sentio istum actum, quam antea sentiebam; ergo aliquid me facilitat, et hoc non est nisi habitum; ergo habitus est ponendus qui me facilitet.
+
+Ex quo sequitur ulterius quod intellectus noster pro statu isto non potest cognoscere aliquam substantiam aliam ab ipso intellectu intuitive. Volo dicere quod non cognoscit intuitive et distincte Iohannem qui mihi est praesens. Patet, quicumque cognoscit intuitive aliquam rem, potest cognoscere illam quando est absens, id est, potest iudicare de sua absentia. Ut cognosco istud lumen, dico quod possum cognoscere illum quando erit absens, iudicare de sua absentia. Sed sic est quod non potest iudicare de aliqua substantia quando ipsa substantia est absens; ergo pro isto statu intellectus noster non cognoscit aliquam substantiam aliam a seipso intuitive et praesentialiter.
+
+Consequentia est nota. Maior /42b/ est manifesta. Minor vero patet in sacramento altaris, quia videmus in sacramento quod substantia panis desinit esse, et tamen nullus est qui cognoscat illam absentiam et iudicet de illa. Ergo oportet dicere quod intellectus noster non cognoscit panem illum, quod licet cognoscat accidentia illius panis.
+
+Ex quo patet quod si aliquam substantiam cognoscimus, solum cognoscimus illam arguitive et per quamdam argumentationem quae non est necessaria, sed probabilis, ut arguendo sic: "Ego cognosco haec accidentia, et ista accidentia sunt in aliquo subiecto; ergo est ibi aliquod subiectum, et per consequens aliqua substantia". Ex quo sequitur quod nos non cognoscimus intuitive nisi accidentia sensibilia in substantia.
+
+Sed magna difficultas est utrum anima possit cognoscere seipsam. De hoc sunt modi dicendi.
+
+Unus dicit quod sic, et hoc arguitive, quia anima cognoscit suam cognitionem, ex quo praesupposito arguitur sic: "Sicut cognitio non est alicuius corporis; ergo est alicuius alterius a corpore, et illud non est corporis; ergo est ipsius animae".
+
+Alii voluerunt dicere quod anima cognoscit seipsam intuitive pro statu isto, et ratio est prima propter similitudinem suae cognitionis ad seipsam, sive propter similitudinem suorum actuum ad seipsam.
+
+Uterque istorum modorum est probabilis, et credo quod primus est potior /43a/.
+
 
 
 <!--
@@ -934,4 +952,5 @@ Page 38b: in prophetis ] emend. imperfectis
 Page 39b: Primo ] emend. Tertio
 Page 39b: exteriorum ] del. et exterioris vel exteriorum
 Page 39b: organo ] conj. impo
+Page 42b: Sicut ] sic
 -->

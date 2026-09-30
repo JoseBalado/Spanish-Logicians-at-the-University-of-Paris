@@ -985,6 +985,8 @@ fabrefactio
 fabricamenta
 facialiter
 facilitant
+facilitat
+facilitet
 factibile
 factibili
 factibilia

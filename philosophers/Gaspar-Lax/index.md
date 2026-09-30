@@ -39,6 +39,10 @@ In 1559 he was attacked by gout and went blind. He died on 23 February 1560 and 
 
 He had the fortune and honor of being teacher to Luis Vives and to the future Saint Francis Borgia.[^10]
 
+### Mathematics and natural philosophy
+
+Lax's mathematical works — the *Arithmetica speculativa* and *Proportiones* (Paris, 1515) and the *Calculationes generales philosophice* — belong to the Parisian revival of the fourteenth-century Oxford Calculators, alongside Alvarus Thomas's *Liber de triplici motu* (1509). His student Juan Dolz del Castellar names him with Bradwardine, Oresme, Bassano, and Alvarus among the authorities on proportions, and follows his terminology for proportionalities against part of Alvarus's.[^11] After his return to Zaragoza he published the *Questiones phisicales* (1527), whose question *de motu penes causam* reviews and rejects four positions on what the speed of a motion follows, and compares speeds in equal and unequal times by what is acquired or lost. The work shows that the calculatory physics learned at Paris continued to be taught in Spain after it had faded at Paris. See [The Paris calculatores, Alvarus Thomas, and Galileo](../Juan-Dolz-del-Castellar/Calculatores-Paris-and-Galileo.html).
+
 
 ## Detailed Table of Contents
 
@@ -460,6 +464,8 @@ He had the fortune and honor of being teacher to Luis Vives and to the future Sa
 [^9]: Solana (op. cit.), III, p. 19.
 
 [^10]: Enciclopedia Espasa, vol. 29, col. 1206.
+
+[^11]: Dolz, [*Cunabula omnium fere scientiarum*](../Juan-Dolz-del-Castellar/Cunabula-omnium-fere-scientiarum-1518.html) (Montauban, 1518), proemium and the discussion of proportionalities (36b–37a); see the [analysis](../Juan-Dolz-del-Castellar/Cunabula-analysis.html), sections 15–16.
 
 ---
 

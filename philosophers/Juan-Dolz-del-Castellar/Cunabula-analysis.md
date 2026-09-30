@@ -38,11 +38,23 @@ The surviving text therefore supports the conclusion that Dolz deliberately atte
 
 # Preambles, proportion, and proportionality
 
-**Pages 25a–37b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; and the first objections against the division of proportion.
+**Pages 25a–38b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; and the objections against the division of proportion with the first solutions.
 
 ## 1. Why the metaphysics comes first
 
 The definitions of preambles 6–8 are unintelligible without the scaffolding laid down in preambles 1–4. Dolz builds that scaffolding deliberately, and he warns the reader what kind of scaffolding it is.
+
+| Preamble | Page | Claim | Used later for |
+| --- | --- | --- | --- |
+| 1 | 25a–25b | speak _more Realium_, though the Nominalists are truer | the whole apparatus is an avowed _imaginatio_ |
+| 2 | 25b | numbers are indivisible; transcendental vs. predicamental number and unity | numbers _result_ from unities rather than being composed of them |
+| 3 | 25b–26a | predicamental number divides into binary, ternary, …; unity has no species | |
+| 4 | 26a–26b | greater, lesser, equal by presupposing more, fewer, or as many unities | reading _conficit_ as _resultat_; the conventionalist principle |
+| 5 | 26b | unity is not a number, strictly speaking | |
+| 6 | 26b–27a | definition of _pars aliquota_ | the species of proportion (§9–§11) |
+| 7 | 27a | aliquot parts divide into half, third, fourth, … | the names _sesquialtera_, _sesquitertia_, … |
+| 8 | 27b | two descriptions of _pars non aliquota_ | _superpartiens_ (§10) |
+| 9 | 28a–28b | an aliquot part of an aliquot part is aliquot | |
 
 **Preamble 1 (25a–25b).** In treating numbers, quantities, proportions and proportionalities he will speak _more Realium_ — with the Realists — "licet opinio Nominalium in his verior sit", although the Nominalist opinion is truer. The justification is methodological: this science is handed down _via doctrinae_, and "quidpiam imaginari solemus ut quod quaerimus enucleemus, quod tamen non est verum". He compares the device to the theologians' practice of secluding God by a possible or impossible supposition in order to display some truth. The entire apparatus that follows is therefore an avowed _imaginatio_, adopted for brevity and clarity, not a thesis.
 
@@ -53,11 +65,23 @@ The definitions of preambles 6–8 are unintelligible without the scaffolding la
 
 The same distinction applies to unity. Hence the _binarius praedicamentalis_ is "accidens quoddam indivisibile duabus rebus copulatim inhaerens". Predicamental number divides into binary, ternary, quaternary and so on without end; predicamental unity admits no further division into species.
 
+| | Transcendental | Predicamental |
+| --- | --- | --- |
+| number | the enumerated things themselves | an indivisible accident inhering in them jointly (_copulatim_) |
+| unity | the thing itself | an indivisible accident distinct from the thing |
+| divides into species? | — | number: binary, ternary, … without end; unity: no |
+
 **Preamble 4 (26a–26b).** An obvious objection follows: if numbers are indivisible, how can one number be greater than another? Not, says Dolz, because it is composed of more unities, "cum non componatur indivisibile". His three conclusions:
 
 1. A number is greater because it _presupposes_ more unities, inheres in more, and **results** from more _sine compositione_.
 2. A number is lesser because it presupposes fewer and results from fewer _incomponibiliter_.
 3. Numbers are equal when they presuppose neither more nor fewer.
+
+| Relation | The number presupposes | Dolz's example |
+| --- | --- | --- |
+| greater | more unities | the ternary is greater than the binary |
+| lesser | fewer unities | the binary is less than the ternary |
+| equal | as many unities | — |
 
 Therefore greater, lesser and equal are attributed to numbers **aliquantulum improprie** — because "nihil alicui aio proprie attribui quod non ratione sui sed alterius convenit". Dolz then guards the doctrine against Aristotle's dictum in the _Categories_ that equal and unequal are most proper to quantity, and notes that Gaspar Lax favours him in the first book of his _Arithmetica_.
 
@@ -102,6 +126,13 @@ Two conditions, each separately motivated in the text:
 3. **The ternary is not an aliquot part of every odd number** — not of $5$ — "licet bene alicuius", though of some, namely $9$.
 4. **The binary is an aliquot part of no odd number.**
 
+| Conclusion | Holds for | Fails for |
+| --- | --- | --- |
+| 1. unity is aliquot to every number | $2, 3, 4, \ldots$ | none |
+| 2. the binary is aliquot to every even number except itself | $4 = 2 \cdot 2$, $6 = 3 \cdot 2$, $8 = 4 \cdot 2$ | $2$, which would need $n = 1$ |
+| 3. the ternary is not aliquot to every odd number | $9 = 3 \cdot 3$ | $5$ |
+| 4. the binary is aliquot to no odd number | none | $3, 5, 7, 9, \ldots$ |
+
 Dolz then closes by conceding that a number, being indivisible, does not _properly_ have an aliquot part at all; the whole discussion holds only _ad sensum… de numeri resultantia_.
 
 ---
@@ -121,6 +152,12 @@ n \cdot \left(1\tfrac{1}{2}\ \text{ft}\right) \neq 4\ \text{ft}
 $$
 
 for every integer $n$. The example is well chosen rather than arbitrary: $1\tfrac12$ _is_ an aliquot part of $3$ and of $4\tfrac12$, so the counter-whole has to be selected with care.
+
+| Candidate unit | Whole it fails to measure | Multiples of the candidate | Wholes it does measure |
+| --- | --- | --- | --- |
+| $1$ ft | $1\tfrac12$ ft | $2, 3, 4, \ldots$ ft; never $1\tfrac12$ | $2$ ft, $3$ ft, … |
+| $1\tfrac12$ ft | $4$ ft | $3, 4\tfrac12, 6, \ldots$ ft; never $4$ | $3$ ft, $4\tfrac12$ ft, … |
+| any candidate | some other magnitude | — | — |
 
 **On _quartae_.** The reading is insecure. The natural sense of _quarta_ is "a fourth part", but that cannot be right here: a part must be less than its whole (Dolz's own "ipsiusmet non est pars"), so the counter-whole must _exceed_ $1\tfrac12$ feet. The word is therefore best taken as _quartae \[pedalitatis\]_, the fourth foot-quantity, i.e. four feet.
 
@@ -145,7 +182,17 @@ Hence "unum totum plures, immo infinitas partes aliquotas habere censetur".
 > Nam si cum medietate quidquid ultra suscipias, totius non est pars aliquota cuius est medietas, secus alterius; sed si cum tertia et quarta et caeteris quidquid ultra accipias, pars aliquota ipsius totius remanet, saltem poterit ita esse.
 
 - Anything **exceeding $W/2$** cannot be an aliquot part of $W$: doubling it already overshoots. It may, however, be an aliquot part of some _other_ whole — _secus alterius_.
-- Anything **exceeding $W/3$ or $W/4$** may still be an aliquot part of the same $W$ — for instance $W/2$ itself. Hence the careful _saltem poterit ita esse_: it _can_ be so, not that it must. Something like $0.4\,W$ exceeds $W/3$ and is an aliquot part of nothing.
+- Anything **exceeding $W/3$ or $W/4$** may still be an aliquot part of the same $W$ — for instance $W/2$ itself. Hence the careful _saltem poterit ita esse_: it _can_ be so, not that it must. Something like $0.4\,W$ exceeds $W/3$ and is not an aliquot part of $W$.
+
+| Candidate $p$ | $2p$ | $3p$ | Aliquot part of $W$? |
+| --- | --- | --- | --- |
+| $0.6\,W$ (more than a half) | $1.2\,W$ | — | no: once falls short, twice overshoots |
+| $W/2$ | $W$ | — | yes, taken twice |
+| $0.4\,W$ (between a third and a half) | $0.8\,W$ | $1.2\,W$ | no |
+| $W/3$ | $\tfrac23\,W$ | $W$ | yes, taken three times |
+| $W/4$ | $\tfrac12\,W$ | $\tfrac34\,W$ | yes, taken four times |
+
+Anything above the half fails; above a third or a fourth, some candidates succeed (the half) and some fail ($0.4\,W$).
 
 The proof clause, _patet quoniam medietas est \[ultra\] tertiam et quartam et quidquid ultra_, is defective as printed. The sense required is that the half **lies beyond** the third and the fourth: the half is itself an instance of "something beyond a third", and it is an aliquot part. The missing word is most likely the preposition _ultra_ governing accusatives, the idiom Dolz has just used twice in the same sentence.
 
@@ -234,6 +281,13 @@ The appeal to _obligationes_ that follows is a real argumentative move, not orna
 
 **3. On the second description, the apparent contradiction is not one.** Dolz concedes outright that the same part is aliquot and non-aliquot simultaneously, and observes that this "consonat mathematicis". The defence: "nec illi termini contradictorie caperentur, quia, ut vides, descriptiones non opponerentur." The prefixed _non_ is not a contradictory-forming negation; it is part of a complex term carrying its own stipulated description, exactly as the dialecticians treat _conceptus ultimatus_ and _non ultimatus_. Since "fails to measure some whole" and "measures some other whole" are not contradictory opposites, conceding both violates no principle.
 
+| | First description (negation outside) | Second description (negation inside) |
+| --- | --- | --- |
+| What it picks out | nothing | every positive part |
+| _est non aliquota binarii; ergo est non aliquota_ | must be denied | valid |
+| Can one part be aliquot and non-aliquot? | no | yes, conceded |
+| Mathematicians' usage | not adopted _in rigore_; accepted only under _positio_ | _consonat mathematicis_ |
+
 The final clause — "ibi praesupponimus, quantum ad quantitatem, idem esse quod distinguantur aut non, in lectura philosophiae aperuimus" — is corrupt beyond confident repair. It appears to defer a question about whether the two descriptions differ _quantum ad quantitatem_ to his philosophy lectures.
 
 ---
@@ -264,6 +318,13 @@ theorem aliquot_trans {p q W : Nat}
 
 The examples with halves and thirds instantiate this multiplication of witnesses. If $p$ taken twice makes a half, it taken four times makes the whole; if taken three times makes a half, it must be taken **six**, not seven, times to make the whole. The printed _septies_ is therefore a clear error for _sexies_.
 
+| $p$ taken | makes | which taken | makes $W$ | so $p$ taken |
+| --- | --- | --- | --- | --- |
+| twice | the half | twice | yes | $2 \times 2 = 4$ times |
+| three times | the half | twice | yes | $3 \times 2 = 6$ times (printed _septies_) |
+| twice | the third | three times | yes | $2 \times 3 = 6$ times |
+| three times | the third | three times | yes | $3 \times 3 = 9$ times |
+
 ### The converses fail
 
 Dolz immediately blocks two invalid inferences:
@@ -273,7 +334,19 @@ Dolz immediately blocks two invalid inferences:
 
 Thus only the positive composition law is transitive. Non-aliquotness does not propagate either upward or downward through an aliquot relation.
 
+| Proposed inference | Counterexample | What actually holds |
+| --- | --- | --- |
+| $p$ aliquot to $W$ $\Rightarrow$ $p$ aliquot to the half of $W$ | $p = 2$, $W = 4$ | $2$ is aliquot to $4$, not to $2$ |
+| $p$ aliquot to $q$, $q$ non-aliquot to $W$ $\Rightarrow$ $p$ non-aliquot to $W$ | $1, 2, 3$ | $1$ is aliquot to $3$ |
+| $p$ non-aliquot to $q$, $q$ non-aliquot to $W$ $\Rightarrow$ $p$ non-aliquot to $W$ (emended _a fortiori_) | $2, 3, 10$ | $2$ is aliquot to $10$ |
+
 The _a fortiori_ example that follows is false as printed on **two** counts: "binarius est aliquotus ternarii" fails because no $n \ge 2$ gives $2n=3$, and "falsum quod binarius sit aliquotus denarii" fails because $5 \cdot 2=10$. Supplying _non_ before _aliquotus_ makes every clause true: $2$ is non-aliquot to $3$, $3$ is non-aliquot to $10$, and yet $2$ is **not** non-aliquot to $10$. The numbers then show exactly that non-aliquotness is not transitive, and the first link repeats Dolz's standard example from preamble 8, the binary as non-aliquot to the ternary. The printed principle ("aliquotum non aliquoti… aliquotum illius") could only be illustrated by changing the numbers (for example $2,4,9$). The lost _non_ is therefore the more economical repair, although it must be supplied more than once (see the textual notes). In either case the passage must not be formalized as `Aliquot 2 3`.
+
+| Clause | As printed | True? | With _non_ supplied | True? |
+| --- | --- | --- | --- | --- |
+| _binarius est aliquotus ternarii_ | $2$ aliquot to $3$ | no | $2$ non-aliquot to $3$ | yes |
+| _qui est non aliquotus denarii_ | $3$ non-aliquot to $10$ | yes | unchanged | yes |
+| _falsum quod binarius sit aliquotus denarii_ | $2$ is not aliquot to $10$ | no, $5 \cdot 2 = 10$ | $2$ is not non-aliquot to $10$ | yes |
 
 The closing warning, _non debes illa aliquotiens communicanter accipere, quia nihil inferes_, uses the standard scholastic term for **overlapping** parts (_partes communicantes_, as opposed to _non communicantes_). The repeated copies that make a part aliquot must be laid out without overlap. If overlapping copies were allowed, any smaller magnitude could be "taken several times" to cover any whole, and nothing would follow. The same sense explains 28a: half the diagonal cannot be resolved into parts aliquot to the side _nisi caperes eas communicantes, quod nihil esset dictu_.
 
@@ -288,6 +361,13 @@ Dolz's first definition proper is:
 A proportion is therefore a **determinate relation of one quantity to another quantity**. The frequent addition "or of one number to another number" is redundant because number is already discrete quantity. This makes proportion, like aliquot part, essentially relational rather than an intrinsic property of either term.
 
 Dolz immediately explains _certa habitudo_ as equality or inequality **in something common to both terms**. That restriction is essential. An angel and a human are not proportioned in magnitude, because magnitude does not belong to both; they may be _non-equal_ in the merely contradictory sense, but they are not _unequal_ in the relevant comparative sense of one being more or less than the other. Such inequality presupposes a shared respect that admits _magis vel minus_, more or less.
+
+| Pair | Respect common to both? | Relation | Proportion? |
+| --- | --- | --- | --- |
+| angel and human, in magnitude | no | only _non aequalis_, not _inaequalis_ | no |
+| two lines, in length | yes | equal or unequal | yes |
+| two numbers, in multitude | yes | equal or unequal | yes |
+| two powers, in activity (pages 29–30) | yes, degree of activity | more or less | yes, in Dolz's broad sense |
 
 Page 29 clarifies that this common respect need not be a shared **measurable** dimension. Dolz is about to insist that intensity, speed, activity, and resistance also ground proportions even though they are not dimensions or multitudes. What the angel example excludes is comparison in a respect not common to both subjects, not every comparison lacking a common mathematical measure.
 
@@ -322,6 +402,15 @@ On this account, the terms must belong to the same subaltern genus and share eit
 - comparison in speed or slowness, for the same reason;
 - comparison in activity or resistance, likewise.
 
+| Comparison | Strict account (same subaltern genus) | Dolz's broad account (page 30) |
+| --- | --- | --- |
+| two continuous quantities, in dimension | yes | yes |
+| two discrete quantities, in multitude | yes | yes |
+| continuous with discrete | no | not yet settled (second question) |
+| intensity and remission | no | yes |
+| speed and slowness | no | yes |
+| activity and resistance | no | yes |
+
 These are exclusions from the **strict account**, not from Dolz's own broader account. Dolz's objection is precisely that natural philosophers do speak of proportions of intensity, speed, activity, and resistance; the strict definition is therefore too narrow for his purpose. What it permits is comparison between two continuous quantities in a common dimension, or between two discrete quantities in multitude — not comparison between a continuous quantity and a discrete one.
 
 Dolz reports that some mathematicians call this _proportio propria sive proprie dicta_, and that Lax presents it as the mathematicians' intention. Dolz nevertheless gives two reasons not to adopt it as his governing definition.
@@ -330,7 +419,7 @@ First, its claim to be the uniquely **proper** proportion is unstable on Dolz's 
 
 Second and more importantly, it is inadequate to natural philosophy. The rules of Aristotle and the Calculators in the seventh book of the _Physics_ assign proportions to activities and resistances and compare proportions with one another. Dolz explicitly explains that these do not have the character of dimension or multitude, and anticipates a later rule according to which velocity is determined by the proportion of the proportions of activities to their resistances.
 
-He then appeals separately to proportions used by philosophers concerning local motion _ad longum_ in the third book of the _Physics_. Here, however, he merely says that these would not be proportions under the strict definition; he does not yet explain why. The promise _patebit inferius_ grammatically concerns the preceding rule about velocity, activity, and resistance, not necessarily this second appeal. The proemium announces that the fifth article will treat rules of motion both by cause and by effect, so the fuller justification belongs there; through page 37 those rules have not yet been given.
+He then appeals separately to proportions used by philosophers concerning local motion _ad longum_ in the third book of the _Physics_. Here, however, he merely says that these would not be proportions under the strict definition; he does not yet explain why. The promise _patebit inferius_ grammatically concerns the preceding rule about velocity, activity, and resistance, not necessarily this second appeal. The proemium announces that the fifth article will treat rules of motion both by cause and by effect, so the fuller justification belongs there; through page 38 those rules have not yet been given.
 
 Dolz's argument on page 29 is therefore: (1) the strict account recognizes proportion only where the terms share dimension or multitude; (2) natural philosophers nevertheless posit proportions between activities and resistances, which share neither; therefore (3) the strict account does not encompass every proportion required in natural philosophy. His appeal to local motion supplies a further accepted philosophical usage, although its precise ground remains to be explained. Excluding such uses would defeat the expressly philosophical purpose of the _Cunabula_. Dolz concedes that the strict use can serve some parts of philosophy — especially accounts of the increase of velocity associated with the Calculator, though less successfully when following Paulus Venetus — but page 29 ends by requiring a broader notion of proportion.
 
@@ -339,6 +428,11 @@ Dolz's argument on page 29 is therefore: (1) the strict account recognizes propo
 ## 9. Page 30: philosophical proportion and its first division
 
 Page 30 makes explicit how Dolz broadens the mathematical account without abandoning determinate comparability. Things are compared **properly** when the comparison is in multitude or dimension; they are compared **improperly** when it concerns another respect in which equality or inequality can be found, such as intensity, activity, resistance, velocity, or slowness. In either case, a proportion requires something common to both terms and an equality or a _magis vel minus_ within that respect.
+
+| Comparison | Respect | Examples |
+| --- | --- | --- |
+| proper (_proprie_) | dimension or multitude | two lengths; two numbers |
+| improper (_improprie_) | a scale of degrees (_multitudo quoad gradum_) | intensity, remission, activity, resistance, velocity, slowness |
 
 This confirms two earlier conclusions. First, the omission of _eiusdem generis_ from Dolz's preferred definition is deliberate: membership in the same subaltern genus is not required. Second, the common respect need not be a mathematical measure in the strict sense. Dolz stretches _quantitas_ analogically so that it covers not only dimension and numerical multitude but also a _multitudo quoad gradum_ — a plurality or scale of degrees — in intensity, velocity, activity, and the like. His formula therefore partly includes the mathematicians but, in his words, **embraces the philosophers**. This is not a return to the strict definition, because the _aliquid_ common to the terms now ranges beyond dimension and multitude properly so called.
 
@@ -354,7 +448,15 @@ Inequality is then divided according to the **direction of comparison**, not mer
 - _proportio maioris inaequalitatis_ compares the greater with the lesser, as $8:4$ or $4:2$;
 - _proportio minoris inaequalitatis_ compares the lesser with the greater, as $2:4$.
 
-Thus $4:2$ and $2:4$ involve the same two quantities but are different directed proportions. Equality is unaffected by reversal, whereas reversing an unequal proportion exchanges greater and lesser inequality. This directional structure was already implicit in the definition as the relation of **one** quantity _ad alteram_; page 30 now makes it explicit.
+Thus $4:2$ and $2:4$ involve the same two quantities but are different directed proportions.
+
+| Proportion | Compares | Example | Reversed |
+| --- | --- | --- | --- |
+| equality | equal to equal | $4:4$ | $4:4$, still equality |
+| greater inequality | greater to lesser | $4:2$ | $2:4$, lesser inequality |
+| lesser inequality | lesser to greater | $2:4$ | $4:2$, greater inequality |
+
+The same two quantities give different directed proportions. Equality is unaffected by reversal, whereas reversing an unequal proportion exchanges greater and lesser inequality. This directional structure was already implicit in the definition as the relation of **one** quantity _ad alteram_; page 30 now makes it explicit.
 
 ### Simple greater inequality
 
@@ -366,6 +468,56 @@ Dolz next divides greater inequality into simple and composite, and simple great
 | _superparticularis_ | $A=B+B/n$; the excess is one aliquot part of $B$ | sesquialteral $3:2$, $6:4$; sesquitertian $4:3$, $8:6$ |
 
 The species are determined exactly by the repetition count introduced in preambles 6–7. A double contains the lesser twice, a triple three times, and so forth. A sesquialteral proportion contains the lesser once plus its half; a sesquitertian contains it once plus its third. The early discussion of aliquot parts was therefore not preliminary arithmetic for its own sake: it supplies the differentiae from which the species of proportion are constructed.
+
+### Worked examples: building and naming superparticular ratios
+
+**Building a ratio.** Start from the lesser term, add one of the named parts of it, and the result is the greater term:
+
+| Species | Lesser term | Added part | Greater term | Ratio |
+| --- | --- | --- | --- | --- |
+| _sesquialtera_ | $2$ | a half of $2$ is $1$ | $2+1=3$ | $3:2$ |
+| _sesquitertia_ | $3$ | a third of $3$ is $1$ | $3+1=4$ | $4:3$ |
+| _sesquiquarta_ | $4$ | a fourth of $4$ is $1$ | $4+1=5$ | $5:4$ |
+| _sesquiseptima_ | $7$ | a seventh of $7$ is $1$ | $7+1=8$ | $8:7$ |
+| _sesquidecima quinta_ | $15$ | a fifteenth of $15$ is $1$ | $15+1=16$ | $16:15$ |
+
+The name is _sesqui-_ followed by the ordinal of the added part. When the lesser term equals the denominator of the named part, the added part is $1$ and the greater term is simply the next number:
+
+| Part added | Smallest ratio | Species |
+| --- | --- | --- |
+| a half | $3:2$ | _sesquialtera_ |
+| a third | $4:3$ | _sesquitertia_ |
+| a fourth | $5:4$ | _sesquiquarta_ |
+| a seventh | $8:7$ | _sesquiseptima_ |
+| a fifteenth | $16:15$ | _sesquidecima quinta_ |
+
+**Larger terms, same species.** Dolz's own examples on 30b use larger numbers. In $6:4$, a half of $4$ is $2$ and $4+2=6$, so it is _sesquialtera_. In $8:6$, a third of $6$ is $2$ and $6+2=8$, so it is _sesquitertia_. They reduce to $3:2$ and $4:3$. The species depends on the relation, not on the size of the terms.
+
+**Naming a given ratio.** Work backwards:
+
+1. Subtract the lesser term from the greater: $16-15=1$.
+2. Ask which part of the lesser term that excess is: $1$ is a fifteenth of $15$.
+3. Name it _sesqui-_ plus that part: _sesquidecima quinta_.
+
+If the excess is not one aliquot part of the lesser term, the ratio is not superparticular. In $5:3$ the excess $2$ is two thirds, which gives _superbipartiens tertias_ (§10).
+
+**Why the excess is $1$ in lowest terms.** In a superparticular ratio the excess $B/n$ divides $B$, and therefore also divides $A=B+B/n$. Dividing both terms by it reduces the ratio to $(n+1):n$, whose excess is $1$:
+
+| Ratio | Excess | Divide both by | Lowest terms | Excess |
+| --- | --- | --- | --- | --- |
+| $6:4$ | $2$ | $2$ | $3:2$ | $1$ |
+| $8:6$ | $2$ | $2$ | $4:3$ | $1$ |
+| $9:6$ | $3$ | $3$ | $3:2$ | $1$ |
+
+Conversely, every ratio $(n+1):n$ is superparticular, because by the first conclusion of preamble 6 unity is an aliquot part of every number (§2). The **size** of the excess does not determine the species; its **fraction of the lesser term** does. The same excess $1$ is a different part each time:
+
+| Ratio | Excess | Part of the lesser term | Species |
+| --- | --- | --- | --- |
+| $3:2$ | $1$ | a half of $2$ | _sesquialtera_ |
+| $4:3$ | $1$ | a third of $3$ | _sesquitertia_ |
+| $8:7$ | $1$ | a seventh of $7$ | _sesquiseptima_ |
+
+This holds for numbers written in lowest terms. For continuous magnitudes there is no universal unit (§3): in $8:7\tfrac12$ the excess is $\tfrac12$, which is a fifteenth of $7\tfrac12$. Multiplying both terms by $2$ gives the whole-number form $16:15$ (see the table in §17). In the _superpartiens_ family the excess is not $1$ even in lowest terms: $5:3$ and $7:5$ leave $2$, several parts rather than one. This is exactly the difference between the two families.
 
 The definition of _superpartiens_ begins at the end of 30b and is completed on page 31a: the greater contains the lesser once plus several aliquot parts which do not together make one aliquot part of it. Page 31 supplies both the decisive example, $5:3$, and the principles needed to distinguish its genuine species.
 
@@ -428,6 +580,25 @@ For two added parts, every odd denominator $n\ge 3$ yields a _superpartiens_ spe
 For three added parts, parity alone no longer decides the issue. Three fourths and three eighths are non-aliquot sums and give genuine _superpartiens_ species; three sixths make a half and three twelfths make a fourth, so those ratios are superparticular. Among odd denominators, three sevenths work, while three thirds make a whole. The underlying test is again divisibility: the construction fails whenever $3\mid n$. Dolz's documents therefore move from an easy parity rule for $k=2$ toward the general relation between the number of parts and their denominator.
 
 Page 31 begins the corresponding discussion for four added parts with _superquadripartiens decimas_ ($14:10$), whose four tenths do not make an aliquot part. It contrasts this with four fourths, which make the whole rather than a non-aliquot part. Page 32 turns these examples into a general test.
+
+All the cases of page 31 in one table. $k$ is the number of added parts, $n$ their denominator:
+
+| $k$ | $n$ | Added parts together | One aliquot part or the whole? | Result | Example |
+| --- | --- | --- | --- | --- | --- |
+| 2 | 3 | $\tfrac23$ | no | _superbipartiens tertias_ | $5:3$ |
+| 2 | 5 | $\tfrac25$ | no | _superbipartiens quintas_ | $7:5$ |
+| 2 | 2 | $\tfrac22$ = the whole | the whole | _dupla_ | $4:2$ |
+| 2 | 4 | $\tfrac24 = \tfrac12$ | one aliquot part | _sesquialtera_ | $6:4$ |
+| 2 | 6 | $\tfrac26 = \tfrac13$ | one aliquot part | _sesquitertia_ | $8:6$ |
+| 3 | 4 | $\tfrac34$ | no | _supertripartiens quartas_ | $7:4$ |
+| 3 | 8 | $\tfrac38$ | no | _supertripartiens octavas_ | $11:8$ |
+| 3 | 7 | $\tfrac37$ | no | _supertripartiens septimas_ | $10:7$ |
+| 3 | 6 | $\tfrac36 = \tfrac12$ | one aliquot part | _sesquialtera_ | $9:6$ |
+| 3 | 12 | $\tfrac3{12} = \tfrac14$ | one aliquot part | _sesquiquarta_ | $15:12$ |
+| 3 | 3 | $\tfrac33$ = the whole | the whole | _dupla_ | $6:3$ |
+| 3 | 2 | $\tfrac32$, more than the whole | — | rejected: not found _in composito_ | — |
+| 4 | 10 | $\tfrac4{10} = \tfrac25$ | no | _superquadripartiens decimas_; in lowest terms _superbipartiens quintas_ | $14:10 = 7:5$ |
+| 4 | 4 | $\tfrac44$ = the whole | the whole | _dupla_ | $8:4$ |
 
 ---
 
@@ -651,6 +822,12 @@ This is immediately useful for music: a geometrical sequence repeats an interval
 
 ### Decoding the Calculators' cases
 
+| Calculators' case | Given start | Correct continuation | What stays the same | What changes |
+| --- | --- | --- | --- | --- |
+| _geometrice_ | $2, 4$ | $2, 4, 8, 16, \ldots$ | ratio $2:1$ | differences $2, 4, 8$ |
+| _arithmetice_ | $2, 3$ | $2, 3, 4, 5, \ldots$ | difference $1$ | ratios $3:2$, $4:3$, $5:4$ |
+| wrong reading of _geometrice_ | $2, 4$ | $2, 4, 6, 8$ | difference $2$ | ratios $2:1$, $3:2$, $4:3$ |
+
 The physical case “the mobile moves as $2$ in the first proportional part, as $4$ in the second, and so on geometrically” must be continued $2,4,8,16,\ldots$, preserving the double ratio, not $2,4,6,8,\ldots$. The contrasting case beginning $2,3,\ldots$ “arithmetically” continues $2,3,4,5,\ldots$, preserving the difference $1$ while the ratios $3:2$, $4:3$, $5:4$ change; page 34 defines this kind formally. Dolz is teaching students how to decode the progression language of the Calculators, not merely listing numerical patterns.
 
 ---
@@ -659,13 +836,36 @@ The physical case “the mobile moves as $2$ in the first proportional part, as 
 
 ### Equal excess rather than equal ratio
 
+| Kind | Example | Successive excesses | Successive ratios | What is preserved |
+| --- | --- | --- | --- | --- |
+| geometrical | $1, 2, 4, 8$ | $1, 2, 4$ | $2:1$, $2:1$, $2:1$ | the ratio |
+| arithmetical | $1, 2, 3, 4$ | $1, 1, 1$ | $2:1$, $3:2$, $4:3$ | the excess |
+| arithmetical | $1, 3, 5, 7, 9$ | $2, 2, 2, 2$ | $3:1$, $5:3$, $7:5$, $9:7$ | the excess |
+| arithmetical | $2, 4, 6, 8$ | $2, 2, 2$ | $2:1$, $3:2$, $4:3$ | the excess |
+
+The same contrast applies to corruption, the gradual loss of a quality:
+
+| Corruption | Amounts lost in successive stages | Dolz's example |
+| --- | --- | --- |
+| geometrical | $1, \tfrac12, \tfrac14, \tfrac18, \ldots$ | assent to a conclusion as assent to the premises is lost (33b–34a) |
+| arithmetical | the same amount each stage, e.g. $1, 1, 1, \ldots$ or $\tfrac12, \tfrac12, \tfrac12, \ldots$ | _si in principio sit unius corruptio, semper et unius erit_ (34a) |
+
 Dolz now defines arithmetical proportionality as _excessus similitudo quamquam dissimilitudo_ and illustrates it with $1,2,3,4$: each successive excess is one, whereas the ratios change. In the Calculator case that began $2,3$ on page 33, the instruction to continue "arithmetically" therefore fixes the successive difference, not the successive ratio. Dolz extends this distinction to the corruption of something in equal successive amounts, contrasting it with the geometrical corruption of assent to a conclusion discussed at the beginning of the page: first one degree, then a half, then a quarter, then an eighth. He says that so long as some assent to the premises lasts, some assent to the conclusion lasts too; he refers the fuller explanation to his _Analyticorum_ lectures.
 
 The contrast also limits the often-cited definition of proportionality as _proportionum similitudo_: Dolz says that this describes **geometrical** proportionality, not proportionality in general. The printed $2,3,5,7,9$ has excesses $1,2,2,2$; emending its first term to $1$ yields $1,3,5,7,9$, with constant excess $2$, as in the following $2,4,6,8$. Changing the second term to $4$ would also regularize the progression, but would duplicate that following example. The transcription adopts the minimal emendation and records the printed reading in its apparatus.
 
 ### Other writings attested by the _Cunabula_
 
+| Work | Cited at | What Dolz says | What it establishes |
+| --- | --- | --- | --- |
+| _Analyticorum lectura_ | 34a | he has explained there how assent to a conclusion depends on assent to the premises | lectures or commentary on the _Analytics_; no printed edition identified |
+| _Exponibilia_ | 23a | _Iam scripsi et scholaribus meis solutionem praebui_ | a written teaching work; no printed edition identified |
+| _lectura philosophiae_ | 27b | a question about the two descriptions of _pars non aliquota_ is explained there | a philosophy course |
+| _vigiliae philosophiae_ | 38b | further aspects of the multilocation case are treated there | probably the same philosophy course or writings, not a title |
+
 In discussing the geometrical corruption of assent to a conclusion (34a), Dolz says he has explained its relation to Aristotle's dictum on assent to premises in his _Analyticorum lectura_. This attests to lectures or a commentary on the _Analytics_, but does not establish a distinct completed book, its precise title, or whether it was printed. Earlier, in the seventeenth criticism of the _Invectiva_ against Celaya (23a), he rebuts the prediction that he would never publish his _Exponibilia_ with _Iam scripsi et scholaribus meis solutionem praebui_: he says he has written it and furnished a solution to his students. The latter is explicit evidence of a written teaching work, not evidence that it was printed. No printed edition of either has been identified here.
+
+On 38b Dolz says he has treated many further aspects of the multilocation case _in vigiliis philosophiae_. This is probably not a title: the dedication calls his writings in general _vigiliae meae_, and he elsewhere refers to his _lectura philosophiae_ (27b) and to what he is accustomed to explain _in philosophia_ (26a, 38a). It attests a philosophy course or writings in which such cases were worked out, not a separate book of that name.
 
 ### Antecedent, consequent, and the middle term
 
@@ -682,6 +882,17 @@ Page 37 sharpens the difficulty: the _talis… qualis_ propositions on which the
 ## 14. Page 35: transformations of equal proportions and what makes them valid
 
 ### Adding and removing corresponding terms
+
+Overview of the four transformations of page 35, for positive terms with $a:b=c:d=r$:
+
+| Name | From | Infer | Value of the new ratios | Dolz's numerical example |
+| --- | --- | --- | --- | --- |
+| _coniuncta_ | $a:b=c:d$ | $(a+b):b=(c+d):d$ | $r+1$ | $8:4=2:1 \Rightarrow 12:4=3:1$ |
+| _disiuncta_ | $(a+b):b=(c+d):d$ | $a:b=c:d$ | $r$ | $12:4=3:1 \Rightarrow 8:4=2:1$ |
+| _eversa ad disiunctam_ | $(a+b):a=(c+d):c$ | $a:b=c:d$ | $r$ | $12:8=3:2 \Rightarrow 8:4=2:1$ |
+| _eversa ad coniunctam_ | $a:b=c:d$ | $(a+b):a=(c+d):c$ | $1+\tfrac1r$ | $8:4=2:1 \Rightarrow 12:8=3:2$ |
+
+_Coniuncta_ and _disiuncta_ use the **consequent** as denominator; the two _eversa_ forms use the **antecedent**. In the example $r=2$, so _coniuncta_ gives $3$ and _eversa ad coniunctam_ gives $1\tfrac12$.
 
 Dolz now treats proportionalities as **ways of arguing from one equality of proportions to another**, not just as names for numerical progressions. His _coniuncta_ adds the consequent to the antecedent in each of two equal proportions. For $a,b,c,d>0$:
 
@@ -724,9 +935,25 @@ The final qualification matters: Dolz calls these proportionalities _modi arguen
 
 ### Converse and permuted proportionality
 
+| Name | From | Infer | Example | Denomination |
+| --- | --- | --- | --- | --- |
+| _conversa_ | $a:b=c:d$ | $b:a=d:c$ | $8:4=2:1 \Rightarrow 4:8=1:2$ | double becomes subdouble |
+| _permutata_ | $a:b=c:d$ | $a:c=b:d$ | $8:4=2:1 \Rightarrow 8:2=4:1$ | double becomes quadruple |
+| _permutata_ | $a:b=c:d$ | $a:c=b:d$ | $8:6=4:3 \Rightarrow 8:4=6:3$ | sesquitertian becomes double |
+| invalid step | $8:6=4:3$ | $8:3=6:4$ | $8/3\approx2.67$, $6/4=1.5$ | conclusion false |
+
 Dolz now distinguishes two more valid inferences from equal ratios. _Conversa_ reverses both comparisons: $a:b=c:d$ implies $b:a=d:c$, illustrated by $8:4=2:1$ and $4:8=1:2$. _Permutata_ compares the antecedents to each other and the consequents to each other: $a:b=c:d$ implies $a:c=b:d$, illustrated by $8:2=4:1$. These rules require nonzero denominators; Dolz's positive numerical examples meet that condition. In his preceding counterexample the valid _permutata_ step is $8:6=4:3\Rightarrow8:4=6:3$: pair the first terms, $8$ and $4$, then the second terms, $6$ and $3$. Both new ratios equal $2$. The further proposed step to $8:3=6:4$ is **invalid**: $8/3\ne6/4$. The resulting ratios need not have the same denomination as the original ones: $8:6=4:3$ is sesquitertian, but $8:4=6:3$ is double.
 
 Dolz says these modes can be applied to comparisons involving the speed of a power acting against its resistance and to combinations of powers and resistances in book VII of the _Physics_. This supplies a physical purpose for the elementary transformations; he does not here give a numerical law relating power, resistance, and speed. He also invokes uses of proportionality in _De caelo_, _Perihermeneias_, and the _Topics_, while directing readers seeking a fuller mathematical treatment to Nicomachus, Euclid, Boethius (_Severinus_), Alvarus Thomas (_Ulisbonensis_), and Gaspar Lax. Those Aristotelian references are Dolz's claims, not independent verifications of the cited passages.
+
+| Dolz | Standard Latin name for Euclid V | English |
+| --- | --- | --- |
+| _permutata_ | _alternando_ | alternation: $a:b=c:d \Rightarrow a:c=b:d$ |
+| _conversa_ | _invertendo_ | inversion: $a:b=c:d \Rightarrow b:a=d:c$ |
+| _coniuncta_ | _componendo_ | composition: $\Rightarrow (a+b):b=(c+d):d$ |
+| _disiuncta_ | _separando_ | separation: the reverse of composition |
+| _eversa_ | _convertendo_ | conversion; Dolz's form does not match term for term |
+| _aequa_ | _ex aequali_ | from equality: extremes of chains of equal ratios |
 
 The Latin names are those of the ratio transformations defined in book V of Euclid's _Elements_: _permutata_ (alternando), _conversa_ (invertendo), _coniuncta_ (componendo), _disiuncta_ (separando), _eversa_ (convertendo), and _aequa_ (ex aequali). Dolz's own _eversa_, which takes the antecedent as denominator, does not match Euclid's _convertendo_ term for term. Dolz cites Euclid's **sixth** book, although the general theory is in the fifth; this may be a slip or may refer to its use in book VI.
 
@@ -781,6 +1008,14 @@ Must all proportions in these modes be similar? No: $8:4=2:1$ yields $8:2=4:1$, 
 
 ### Objections against the division of proportion
 
+| # | Case | Why no species seems assignable | Answered |
+| --- | --- | --- | --- |
+| 1 | $a$ in infinitely many places, as $7$, $7\tfrac12$, $7\tfrac34, \ldots$ below $8$; $b$ is $8$ | $a$ has no single magnitude | 38a–38b (§17) |
+| 2 | $a$ infinite, $b$ finite | no multiple (double, triple, …) fits | 38b (§17) |
+| 3 | an eight-foot body to an aggregate of a four-foot and a two-foot body | $8:6$ is sesquitertian, so the difficulty must lie in the aggregate | not yet |
+| 4 | a whole to each of its parts | presumably an incommensurable part | not yet |
+| 5 | whole greater than part; ox more perfect than ass | a named proportion leads to absurdity | not yet |
+
 Dolz now opens a disputation against the division of pages 30–33. Each objection offers a proportion to which, it is claimed, no member of the division can be assigned:
 
 1. **A quantity without a determinate value.** A body $a$ is placed in infinitely many places, with magnitude $7$ in the first, $7\tfrac12$ in the second, $7\tfrac34$ in the third, and so on, reaching every magnitude below $8$ but never $8$; $b$ is $8$. They are comparable, so $b:a$ is a proportion, but no species can be named. The successive magnitudes add the Calculators' proportional parts $\tfrac12,\tfrac14,\ldots$ (page 33) to $7$.
@@ -789,15 +1024,120 @@ Dolz now opens a disputation against the division of pages 30–33. Each objecti
 4. **A whole to each of its parts.** The whole has some proportion to every part, but not always a nameable one. The natural case, though the objection does not name it, is a part incommensurable with the whole, like the side and diagonal of 28a.
 5. **Whole and part; ox and ass.** The whole is greater than its part in some proportion, which cannot be named. Likewise, if the ox is more perfect than the ass in some proportion, say double, then a brute twice as perfect as the ass could exist, which would equal the ox. The argument assumes that no brute of another species can equal the ox in perfection, and uses the rule that two things in the same proportion to the same term are equal. It tests the requirement of page 28 that proportion needs a common respect admitting more and less, here specific perfection.
 
-Objections 1, 2, and 4 share one target. The species of pages 30–33 are all built from aliquot parts, so they are ratios of whole numbers. A quantity with no determinate value, an infinite quantity, and an incommensurable part fall outside them. Bradwardine and Oresme, whom Dolz names in the proemium, handled the last case by admitting irrational proportions. Whether Dolz follows them, denies that these are proportions, or answers otherwise is not yet visible.
+Objections 1, 2, and 4 appear to share one target. The species of pages 30–33 are all built from aliquot parts, so they are ratios of whole numbers; an infinite quantity and an incommensurable part fall outside them. Bradwardine and Oresme, whom Dolz names in the proemium, handled the incommensurable case by admitting irrational proportions. Page 38 shows that the first objection does **not** in fact turn on this: every ratio Dolz assigns in it is a ratio of whole numbers (§17). For the infinite he denies proportion properly speaking; the incommensurable case awaits the solution of the fourth objection.
 
 ### The solution begins: against the rule of the _minimum quod non_
 
-The first reply is that the case cannot occur naturally; if admitted, one must speak supernaturally. Multilocation, in which one body occupies several places, is not natural. Dolz then uses a similar case against a common philosophical thesis: _potentia activa terminatur per minimum in quod non potest_, an active power is bounded by the least resistance it cannot overcome. This is the medieval doctrine of limits, _de maximo et minimo_, treated for example in Heytesbury's _Regulae_. Let Socrates have activity $8$ and a weight be placed in infinitely many places, with resistance $7$, $7\tfrac12$, and so on below $8$. Then, the text says, this would be the maximum weight Socrates can carry. The page breaks at that point. The standard doctrine denies a maximum an active power can move, so the case would yield exactly such a maximum. How Dolz draws the conclusion, and what it implies for the first objection, must await page 38.
+The first reply is that the case cannot occur naturally; if admitted, one must speak supernaturally. Multilocation, in which one body occupies several places, is not natural. Dolz then uses a similar case against a common philosophical thesis: _potentia activa terminatur per minimum in quod non potest_, an active power is bounded by the least resistance it cannot overcome. This is the medieval doctrine of limits, _de maximo et minimo_, treated for example in Heytesbury's _Regulae_. Let Socrates have activity $8$ and a weight be placed in infinitely many places, with resistance $7$, $7\tfrac12$, and so on below $8$. Then this would be the maximum weight Socrates can carry _modo philosophico ut deducitur in philosophia_. The standard doctrine denies that there is a maximum an active power can move, so the case would yield exactly such a maximum. Page 38a adds only _Sed de hoc alibi_: Dolz defers the argument rather than drawing the conclusion here. A reconstruction is given in §17.
 
 ---
 
-## 17. Summary of the doctrine
+## 17. Page 38: solutions to the first two objections
+
+### The Socrates case
+
+The sentence begun on 37b ends on 38a with _Sed de hoc alibi_, so the argument against the _minimum quod non_ is left for elsewhere. It can be reconstructed from what follows (our reconstruction). _Modo philosophico_ presumably refers to the rule that action requires a proportion of greater inequality of power to resistance, which Dolz states in the _Invectiva_: _a proportione minoris inaequalitatis non fit actio_ (23b). In every place the weight's resistance is below $8$, so Socrates can carry it. By the rule on _maius_ given below, no weight with resistance below $8$ is greater than it, since the multilocated weight reaches that resistance in some place. The case thus has both a least weight Socrates cannot carry, resistance $8$, and a greatest one he can. The doctrine treats these as exclusive.
+
+### One place or all places
+
+The solution of the first objection splits the multilocated term $a$ into two considerations.
+
+**Relative to one place**, $b:a$ is a determinate proportion. In the first place $a$ is $7$ and $8:7$ is _sesquiseptima_, a superparticular ratio. That, Dolz says, is a proportion _simpliciter_ and suffices to save the division. Each other place gives its own ratio:
+
+| Place | $a$ | $b:a$ | Species |
+| --- | --- | --- | --- |
+| 1 | $7$ | $8:7$ | _sesquiseptima_ |
+| 2 | $7\tfrac12$ | $16:15$ | _sesquidecima quinta_ |
+| 3 | $7\tfrac34$ | $32:31$ | _sesquitricesima prima_ |
+| $n$ | $8-2^{1-n}$ | $2^{n+2}:(2^{n+2}-1)$ | superparticular |
+
+All are superparticular and all differ, decreasing toward equality. Every ratio assigned is therefore a ratio of whole numbers, and the first objection is not an objection from irrational or limit values.
+
+The table is computed in two steps (see the worked examples in §9):
+
+1. **Clear the fraction.** Multiply both terms by the same number; this does not change the ratio:
+
+   | Place | $a$ | $b:a$ | Multiply both by | Whole-number ratio |
+   | --- | --- | --- | --- | --- |
+   | 1 | $7$ | $8:7$ | $1$ | $8:7$ |
+   | 2 | $7\tfrac12$ | $8:7\tfrac12$ | $2$ | $16:15$ |
+   | 3 | $7\tfrac34$ | $8:7\tfrac34$ | $4$ | $32:31$ |
+   | 4 | $7\tfrac78$ | $8:7\tfrac78$ | $8$ | $64:63$ |
+
+2. **Decompose and name.** The greater term contains the lesser once plus $1$, and $1$ is one aliquot part of the lesser term:
+
+   | Whole-number ratio | Decomposition | $1$ is | Species |
+   | --- | --- | --- | --- |
+   | $8:7$ | $8=7+1$ | a seventh of $7$ | _sesquiseptima_ |
+   | $16:15$ | $16=15+1$ | a fifteenth of $15$ | _sesquidecima quinta_ |
+   | $32:31$ | $32=31+1$ | a thirty-first of $31$ | _sesquitricesima prima_ |
+   | $64:63$ | $64=63+1$ | a sixty-third of $63$ | _sesquisexagesima tertia_ |
+
+For place $n$, $a$ falls short of $8$ by $1,\tfrac12,\tfrac14,\ldots$, that is, by $2^{1-n}$, so $a=8-2^{1-n}$. Multiplying both terms by $2^{n-1}$ gives $b=2^{n+2}$ and $a=2^{n+2}-1$: always a number to the one before it, hence always superparticular. The added part $\tfrac17,\tfrac1{15},\tfrac1{31},\ldots$ shrinks because $a$ approaches $8$ without reaching it.
+
+**Relative to every place**, $b$ is greater than $a$ but _in nulla proportione_. This is no exception to the division, because the division is understood of terms each of which _tenet locum unius rei_. The multilocated $a$, considered in all its places, _tenet locum plurium_. The division of proportion thus applies to relations between single determinate quantities, as the _certa habitudo_ of the definition (28b) requires.
+
+### Consequences Dolz accepts
+
+| Objection or question | Dolz's answer | Why it is acceptable |
+| --- | --- | --- |
+| Two things would have infinitely many unequal proportions | conceded | each place gives its own ratio: $8:7$, $16:15$, $32:31, \ldots$ |
+| A greater body would have no part equal to the lesser | the seven-foot part of $b$ equals $a$ | being equal in some place suffices; over all places the claim is true, but the case does not ordinarily occur |
+| What is the half of $a$? | $3\tfrac12$ feet, its half in the first place; one half per place | the same thing may have several unequal halves; over all places $a$ has none |
+| Is a $7\tfrac12$-foot body greater than $a$? | no | _maius_ contains a negation (next subsection) |
+
+1. **Infinitely many unequal proportions between two things.** Relating $b$ to $a$ place by place gives a different proportion in each place. Dolz concedes this outright. The transmitted _considerando b prout est in primo loco_ should read _a_, since $a$ is the multilocated term.
+2. **A greater body with no part equal to the lesser.** The objector argues that no part of $b$ equals $a$, since no part of $b$ reaches every quantity below $8$. Dolz answers that the seven-foot part of $b$ equals $a$, _quia ad hoc sufficit quod in aliquo loco sit aequalis a_. Taken over all places, the objector's claim is true, but this is not inconvenient because the case does not ordinarily occur. He adds a scope distinction exactly parallel to the two descriptions of preamble 8 (§5): _omnem quantitatem infra 8 aliqua pars b attingit, licet nulla pars b attingit omnem quantitatem infra 8_:
+$$
+\forall q<8\ \exists p\ (p\ \text{attains}\ q)
+\qquad\text{but}\qquad
+\neg\exists p\ \forall q<8\ (p\ \text{attains}\ q).
+$$
+3. **Several unequal halves.** A body of $3\tfrac12$ feet is the half of $a$, because it is its half in the first place: _consequentia haec non debet ab intelligente negari_. A half can likewise be assigned for each other place, so the same thing has several unequal halves and stands in different proportions to them. Taken over all places, $a$ has **no** half. The four-foot part is not its half, because every whole is double its half and $a$ is nowhere $8$. The same holds for the other aliquot parts. This does not contradict preamble 7's claim that every continuous whole has infinitely many aliquot parts (§4): $a$ so considered is not one whole.
+
+The scope distinction of the second consequence, set out like the two descriptions of preamble 8:
+
+| Statement | Quantifier order | True? |
+| --- | --- | --- |
+| _omnem quantitatem infra 8 aliqua pars b attingit_ | for every $q<8$ there is a part reaching $q$ | yes |
+| _aliqua pars b attingit omnem quantitatem infra 8_ | there is a part reaching every $q<8$ | no |
+
+### _Maius_ does not pass from one place to _simpliciter_
+
+| Predicate | Does _in some place_ give _simpliciter_? | Example | Reason |
+| --- | --- | --- | --- |
+| _aequalis_ | yes | the seven-foot part of $b$ equals $a$ | affirmative |
+| _medietas_ | yes | $3\tfrac12$ feet is the half of $a$ | affirmative |
+| _proportio_ | yes | $b:a$ is _sesquiseptima_ | affirmative |
+| _maius_ | no | $c$ ($7\tfrac12$ ft) is not greater than $a$, though greater in the first place | last exponent negative; $a$ is $7\tfrac34$ in the third place |
+| _maius_, holding in every place | yes | $b$ ($8$) is greater than $a$ | $a$ is $8$ in no place, so the negative exponent is true everywhere |
+
+Is a body $c$ of $7\tfrac12$ feet greater than $a$? It is greater in the first place. But if that sufficed, $a$ would also be greater than $c$, since in the third place $a$ is $7\tfrac34$. So each would be greater than the other. Dolz therefore denies that $c$ is greater than $a$, and denies the consequence _in hoc loco est maius illo; ergo est maius illo_, _nam maius in ultima exponente includit negationem. Secus est de aliis._
+
+This is the logician's instrument from the _Exponibilia_ (23a). A comparative is an exponible term: "$c$ is greater than $a$" is expounded roughly as "$c$ is so great, $a$ is great, and $a$ is not as great as $c$." The last exponent is negative. Affirmative predicates, such as being equal, being a half, or standing in a proportion, pass from _in some place_ to _simpliciter_. A negative is true of $a$ only if it holds in every place, and "$a$ is not as great as $c$" fails in the third place. The same move explains why $b$ is greater than $a$ _simpliciter_ (38a): $a$ reaches $8$ in no place. Whether $a$ is greater than $c$ is left unsaid, but the same exposition appears to block it, because $a$ is less than $c$ in the first place.
+
+Preamble 8 (§5) denied an inference _a secundum quid ad simpliciter_. Page 38 now sorts such inferences by the logical form of the predicate: Dolz grants them for affirmative predicates and denies them for comparatives. Further consequences are referred to his _vigiliae philosophiae_ (see §13).
+
+### Ad secundum: no proper proportion between finite and infinite
+
+| Option | Infinite to finite | Status in the text |
+| --- | --- | --- |
+| the proportions of pages 30–33 | no proportion _proprie loquendo_; no species fits | Dolz's answer |
+| a _proportio infinita_ | a separate member, outside the division of finite proportion | left open |
+| equality of infinite to infinite | a proportion of equality, which has no species (33a) | left open |
+
+Between infinite and finite, or infinite and infinite, there is no proportion _proprie loquendo_, as common philosophical usage attests. The reason is that such a proportion would fall under none of the species assigned. Dolz draws the general consequence: _a est maius et b est minus; ergo a ad b est proportio maioris inaequalitatis_ is invalid, and likewise for lesser inequality. The first solution gave a finite instance: $b$ is greater than the multilocated $a$ in no proportion. The fifth objection argued _totum est maius sua parte; ergo in aliqua proportione est maius_, and its premise-to-conclusion step now looks vulnerable to the same denial.
+
+To the reply that a finite quantity _aliquoties sumptum reddit infinitum_ and so is contained in a multiplex proportion, Dolz answers that the definitions of pages 30–33 concern containment of finite by finite. He does not contest the reply's premise, although no finite number of repetitions of a finite quantity yields an infinite one. He then leaves two alternatives open:
+
+- **A _proportio infinita_.** Proportion would first divide into finite and infinite, and the whole division so far would be a division of finite proportion. Dolz calls this _quod superius dictum est_, but no such statement has been found in the transcribed text; the seventh question of page 29 only raises the issue.
+- **Equality of infinite to infinite.** This fits page 33: proportion of equality _non dividitur, nec habet species_, so no missing species could be demanded.
+
+The page breaks at _loquimur /39a/ de aliis_, apparently beginning a reply to the common opposite view. The third, fourth, and fifth objections are still unanswered.
+
+---
+
+## 18. Summary of the doctrine
 
 1. _Aliquot part_ is a **two-place relation** between a part and a whole, requiring exact measure and at least two repetitions.
 2. Dropping the second term of the relation is what generates every difficulty in preamble 8.
@@ -830,11 +1170,15 @@ The first reply is that the case cannot occur naturally; if admitted, one must s
 29. _Aequa_ infers the ratio of the extremes from chains of equal links. Lax's direct and indirect forms differ only in the order in which the links correspond; both are valid, and Lax's criterion cannot tell them apart when all the links are equal.
 30. In the modes of argument only the ratios joined by _talis… qualis_ must be similar, because the premise must be true; the conclusion may have a different denomination.
 31. Page 37 opens objections against the exhaustiveness of the division of proportion: a quantity without a determinate value, the infinite, the whole to its parts, and degrees of perfection. Their common target is that every species so far is a ratio of whole numbers.
-32. The reply to the first objection begins by relegating the case to the supernatural and turning it against the rule that an active power is bounded by a _minimum quod non_.
+32. The reply to the first objection begins by relegating the case to the supernatural and turning it against the rule that an active power is bounded by a _minimum quod non_; Dolz defers that argument (_Sed de hoc alibi_).
+33. The multilocated quantity is answered by splitting the term. Relative to one place it stands in a determinate superparticular ratio, which saves the division. Relative to all places it _tenet locum plurium_ and needs no proportion, because the division concerns terms each holding the place of one thing.
+34. Dolz accepts the consequences: two things with infinitely many unequal proportions, several unequal halves of one thing, and a scope distinction between _every quantity is reached by some part_ and _some part reaches every quantity_.
+35. Affirmative predicates pass from _in some place_ to _simpliciter_; the comparative _maius_ does not, because its last exponent is negative. The theory of exponibles decides a mathematical case.
+36. There is no proper proportion between finite and infinite, and _greater_ does not entail _in a proportion of greater inequality_. Dolz leaves open an infinite proportion outside the division of finite proportion, or equality between infinites.
 
 ---
 
-## 18. Textual notes
+## 19. Textual notes
 
 Proposed emendations arising from the analysis. Those marked _insecure_ are recorded but not recommended for adoption.
 
@@ -864,4 +1208,8 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 36a | Euclidem **sexto** _Elementorum_ | _(left as printed)_ | The general theory of proportion and these transformations are in book V; possibly a slip for _quinto_ |
 | 36a–36b | id quod nos vocavimus… coniunctam sive disiunctam, praenominati **appellant** | _(lacuna suspected; left as printed)_ | The verb lacks its complement; the following sentences make the sense clear |
 | 36b | **94**, 32, 16 | **64** (adopted) | $64:32=32:16=2:1$, matching $8:4=4:2$ and the inferred $64:16=8:2=4:1$; $94$ breaks the first chain and the inference |
-| 37b | a corpus octupedale, b aggregatum ex uno **quadrupedali et uno bipedali** | _(left as printed)_ | $8:6$ is sesquitertian, which the division covers; the objection presumably turns on $b$ being an aggregate, but the numbers may be corrupt. Await the solution |
+| 37b | a corpus octupedale, b aggregatum ex uno **quadrupedali et uno bipedali** | _(left as printed)_ | $8:6$ is sesquitertian, which the division covers; the objection presumably turns on $b$ being an aggregate, but the numbers may be corrupt. Not yet answered through 38b |
+| 38a | considerando **b** prout est in primo loco | **a** (adopted) | $a$ is the multilocated term; $b$ is $8$ in one place, and the preceding solution takes _a in primo loco_ |
+| 38a | nulla pars maioris esset **inaequalis** minori | **aequalis** (adopted) | The proof of the sequela is _nulla pars b est aequalis a_, and the reply is _aliqua pars b est aequalis a_ |
+| 38b | **non negando** consequentiam | probably **nego** (or **negando**) consequentiam _(insecure)_ | The following _nam_-clause gives a reason for denying the consequence: the definitions concern only finite containment |
+| 38b | quod **superius** dictum est… proportio infinita | _(left as printed)_ | No earlier statement dividing proportion into finite and infinite has been found; the seventh question of page 29 only raises the issue |

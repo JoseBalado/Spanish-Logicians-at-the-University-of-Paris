@@ -1017,9 +1017,9 @@ Iam dico ad argumentum quod si vis comparare a ad b in ordine ad unum locum quic
 
 Et quando dicis quod a et b possunt comparari in aliquo utrique communi, et caetera, igitur debet esse proportio, dico bene est proportio simpliciter, quia sesquiseptima, nam continet a et septimam eius partem, et hoc sufficit pro dictis salvandis. Dico ulterius quod dicta intelliguntur quomodo res illae in quibus fit comparatio sic se habent quod nulla illarum tenet locum nisi unius rei, modo a si consideratum ut ponitur in diversis locis tenet locum plurium. Ideo non oportet quod ad a consideratum ut est in omnibus illis locis sit proportio.
 
-Et si replices quia sequeretur quod darentur duae res, et unius ad aliam esset infinitae proportiones inaequales, patet in illo casu, considerando b prout est in primo loco est aliqua proportio b ad a, et etiam considerando prout est in secundo loco est aliqua proportio b ad a inaequalis primae, et sic consequenter. Ad hanc replicam concedo illatum.
+Et si replices quia sequeretur quod darentur duae res, et unius ad aliam esset infinitae proportiones inaequales, patet in illo casu, considerando a prout est in primo loco est aliqua proportio b ad a, et etiam considerando prout est in secundo loco est aliqua proportio b ad a inaequalis primae, et sic consequenter. Ad hanc replicam concedo illatum.
 
-Et si murmures, sequeretur quod dantur duo corpora quorum unum esset maius alio, tamen nulla pars maioris esset inaequalis minori, quod videtur inconveniens, nam oppositum reperitur communiter, patet advertenti. Sequela patet, nam b est maius a, tamen nulla pars b est aequalis a, quia nulla pars b omnem quantitatem infra 8 attingit.
+Et si murmures, sequeretur quod dantur duo corpora quorum unum esset maius alio, tamen nulla pars maioris esset aequalis minori, quod videtur inconveniens, nam oppositum reperitur communiter, patet advertenti. Sequela patet, nam b est maius a, tamen nulla pars b est aequalis a, quia nulla pars b omnem quantitatem infra 8 attingit.
 
 Dico quod aliqua pars b est aequalis a, scilicet pars septempedalis est aequalis a, quia ad hoc sufficit quod in aliquo loco sit aequalis a. Dico ultra quod considerando secundum omnem locum illud est verum, et hoc modo illud non debet reputari inconveniens, communiter non occurrit ille casus. Dico etiam quod omnem quantitatem infra 8 aliqua pars b attingit, licet nulla pars b attingit omnem quantitatem infra 8.
 
@@ -1081,6 +1081,8 @@ Page 36a: conclusione ] conj. ꝯōe
 Page 36b: 64 ] emend. 94
 Page 37b: octupedale ] emend. octupedalo
 Page 38a: si ] emend. f
+Page 38a: a ] emend. b (considerando a prout est in primo loco; a is the multilocated term)
+Page 38a: aequalis ] emend. inaequalis (nulla pars maioris esset aequalis minori; cf. nulla pars b est aequalis a)
 Page 38a: septempedalis ] leg. septupedalis
 Page 38b: [ad] ] om.
 Page 38b: finitum ] conj. vituū

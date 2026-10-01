@@ -904,7 +904,7 @@ Uno modo, quia intellectus ex natura sua potest habere notitiam distinctam de il
 
 Et sic dixerunt aliqui quod res sensibilis est obiectum nostri intellectus pro isto statu. Hoc tamen est falsum, quia tenebimus per totam physicam quod intellectus ita intelligit suam intellectionem sicut quamlibet aliam rem sensibilem, et tamen intellectio non est sensibilis. 
 
-Et ideo si quis quaerat quod est obiectum nostri intellectus pro statu, dico quod suppletur per hoc disiunctum, scilicet sensibile vel immutatum pot, id est, intellectus. Unde dicunt boni doctores quod magis clare intelligo intellectionem meam quam rem aliam sensibilem /42a/.
+Et ideo si quis quaerat quod est obiectum nostri intellectus pro statu, dico quod suppletur per hoc disiunctum, scilicet sensibile vel immutativum potentiae, id est, intellectus. Unde dicunt boni doctores quod magis clare intelligo intellectionem meam quam rem aliam sensibilem /42a/.
 
 Ex quo sequitur quod nihil potest intellectus noster cognoscere intuitive nec praesentialiter distincte nisi sit sensibile vel immutativum potentiae intellectivae, vel immutans ipsum intellectum pro statu isto.
 
@@ -923,6 +923,22 @@ Unus dicit quod sic, et hoc arguitive, quia anima cognoscit suam cognitionem, ex
 Alii voluerunt dicere quod anima cognoscit seipsam intuitive pro statu isto, et ratio est prima propter similitudinem suae cognitionis ad seipsam, sive propter similitudinem suorum actuum ad seipsam.
 
 Uterque istorum modorum est probabilis, et credo quod primus est potior /43a/.
+
+Contra praedictum arguitur sic: anima est praesens sibi ipsi; ergo partialiter causat suam cognitionem vel notitiam. Nego consequentiam, et ratio est quia pro statu isto nihil est movens nostrum intellectum, nisi res sensibilis vel immutativum nostri intellectus, et hoc provenit ex ordinatione divina. Nam Deus ordinavit propter peccatum Adae quod anima nostra nihil posset cognoscere intuitive nisi sit sensibile vel immutativum potentiae.
+
+Si teneretur secundus modus, qui est Gregorii, in primo sic arguitur: nihil movet nostrum intellectum nisi sit sensibile vel immutativum potentiae; sed anima nullo isto. Exemplum est: igitur non movet seipsam ad cognitionem sui ipsius. Et quia ipsa anima non sit immutativa formaliter patet, quia nihil dicitur immutare intellectum nisi actus eius.
+
+Pro quo notandum est quod aliquando dicitur immutare intellectum duobus modis: uno effective, alio formaliter. Unde illud dicitur immutare effective quod producit vel causat aliquem actum, per quem actum potentia tendit actualiter in obiectum. Nam vitalis immutatio non est nisi tendentia actualis in obiecto, et ideo illud quod causat talem actum dicitur immutare effective.
+
+Ex quo sequitur quod ipsa potentia immutat effective seipsam, quia causat effective suam notionem, id est actum per quem potentia tendit in obiectum. Sequitur etiam quod obiectum immutat effective, quia partialiter causat notitiam in potentia. Sed nihil dicitur immutare formaliter nisi ipse actus /43b/ per quem potentia actualiter tendit in obiectum, et ipse actus cognoscendi est ab anima.
+
+Tunc arguitur sic, ut argumentum est: nihil movet intellectum pro statu isto nisi sit res sensibilis vel immutativum potentiae, nunc formaliter; sed anima non est huius; ergo anima non causat formaliter notitiam sui ipsius.
+
+Dico quod tenendo istum modum Gregorii neganda est maior. Sed dicerem tenendo istum modum secundum exemplum: per nihil movet pro statu isto intellectum nostrum nisi sit res sensibilis vel immutativum potentiae formaliter, vel ipsamet potentia quae immutatur. Et ideo habemus quod est obiectum intellectus nostri pro isto statu simpliciter per hoc disiunctum sensibilem vel immutativum potentiae.
+
+Sed nunc quaerendum est quod est obiectum motivum intellectus nostri secundum suam naturam, et pro hoc intelligendo ponitur talis distinctio.
+
+Obiectum tria habet respectu notitiae, videlicet movere seu causare, terminare et mensurare. Ex quo sumitur talis distinctio, videlicet: triplex est obiectum intellectus nostri, scilicet motivum terminativum et mensurativum. Unde illud dicitur obiectum motivum quod naturaliter et non libere causat et producit suam intellectionem in intellectu. Sed illud dicitur obiectum terminativum quod terminat intellectionem, unde obiectum terminare intellectionem /44a/ est ipsum cognosci per talem notitiam.
 
 
 
@@ -953,4 +969,5 @@ Page 39b: Primo ] emend. Tertio
 Page 39b: exteriorum ] del. et exterioris vel exteriorum
 Page 39b: organo ] conj. impo
 Page 42b: Sicut ] sic
+
 -->

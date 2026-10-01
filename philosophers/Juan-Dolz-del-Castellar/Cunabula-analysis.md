@@ -38,7 +38,7 @@ The surviving text therefore supports the conclusion that Dolz deliberately atte
 
 # Preambles, proportion, and proportionality
 
-**Pages 25a–38b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; and the objections against the division of proportion with the first solutions.
+**Pages 25a–39b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; and the six objections against the division of proportion with their solutions.
 
 ## 1. Why the metaphysics comes first
 
@@ -419,7 +419,7 @@ First, its claim to be the uniquely **proper** proportion is unstable on Dolz's 
 
 Second and more importantly, it is inadequate to natural philosophy. The rules of Aristotle and the Calculators in the seventh book of the _Physics_ assign proportions to activities and resistances and compare proportions with one another. Dolz explicitly explains that these do not have the character of dimension or multitude, and anticipates a later rule according to which velocity is determined by the proportion of the proportions of activities to their resistances.
 
-He then appeals separately to proportions used by philosophers concerning local motion _ad longum_ in the third book of the _Physics_. Here, however, he merely says that these would not be proportions under the strict definition; he does not yet explain why. The promise _patebit inferius_ grammatically concerns the preceding rule about velocity, activity, and resistance, not necessarily this second appeal. The proemium announces that the fifth article will treat rules of motion both by cause and by effect, so the fuller justification belongs there; through page 38 those rules have not yet been given.
+He then appeals separately to proportions used by philosophers concerning local motion _ad longum_ in the third book of the _Physics_. Here, however, he merely says that these would not be proportions under the strict definition; he does not yet explain why. The promise _patebit inferius_ grammatically concerns the preceding rule about velocity, activity, and resistance, not necessarily this second appeal. The proemium announces that the fifth article will treat rules of motion both by cause and by effect, so the fuller justification belongs there; through page 39 those rules have not yet been given.
 
 Dolz's argument on page 29 is therefore: (1) the strict account recognizes proportion only where the terms share dimension or multitude; (2) natural philosophers nevertheless posit proportions between activities and resistances, which share neither; therefore (3) the strict account does not encompass every proportion required in natural philosophy. His appeal to local motion supplies a further accepted philosophical usage, although its precise ground remains to be explained. Excluding such uses would defeat the expressly philosophical purpose of the _Cunabula_. Dolz concedes that the strict use can serve some parts of philosophy — especially accounts of the increase of velocity associated with the Calculator, though less successfully when following Paulus Venetus — but page 29 ends by requiring a broader notion of proportion.
 
@@ -862,6 +862,7 @@ The contrast also limits the often-cited definition of proportionality as _propo
 | _Exponibilia_ | 23a | _Iam scripsi et scholaribus meis solutionem praebui_ | a written teaching work; no printed edition identified |
 | _lectura philosophiae_ | 27b | a question about the two descriptions of _pars non aliquota_ is explained there | a philosophy course |
 | _vigiliae philosophiae_ | 38b | further aspects of the multilocation case are treated there | probably the same philosophy course or writings, not a title |
+| unnamed (_alibi diximus_) | 39b | he has already discussed elsewhere how one species is infinitely more perfect than another | a treatment of the perfection of species, place not given |
 
 In discussing the geometrical corruption of assent to a conclusion (34a), Dolz says he has explained its relation to Aristotle's dictum on assent to premises in his _Analyticorum lectura_. This attests to lectures or a commentary on the _Analytics_, but does not establish a distinct completed book, its precise title, or whether it was printed. Earlier, in the seventeenth criticism of the _Invectiva_ against Celaya (23a), he rebuts the prediction that he would never publish his _Exponibilia_ with _Iam scripsi et scholaribus meis solutionem praebui_: he says he has written it and furnished a solution to his students. The latter is explicit evidence of a written teaching work, not evidence that it was printed. No printed edition of either has been identified here.
 
@@ -1012,19 +1013,21 @@ Must all proportions in these modes be similar? No: $8:4=2:1$ yields $8:2=4:1$, 
 | --- | --- | --- | --- |
 | 1 | $a$ in infinitely many places, as $7$, $7\tfrac12$, $7\tfrac34, \ldots$ below $8$; $b$ is $8$ | $a$ has no single magnitude | 38a–38b (§17) |
 | 2 | $a$ infinite, $b$ finite | no multiple (double, triple, …) fits | 38b (§17) |
-| 3 | an eight-foot body to an aggregate of a four-foot and a two-foot body | $8:6$ is sesquitertian, so the difficulty must lie in the aggregate | not yet |
-| 4 | a whole to each of its parts | presumably an incommensurable part | not yet |
-| 5 | whole greater than part; ox more perfect than ass | a named proportion leads to absurdity | not yet |
+| 3 | an eight-foot body to an aggregate of a four-foot and a two-foot body | $8:6$ is sesquitertian, so the difficulty must lie in the aggregate | 39b (§18) |
+| 4 | a whole to each of its parts | no single species holds of every part | 39b (§18) |
+| 5 | the whole is greater than its part | so it must be greater in some proportion, which cannot be named | 39b (§18) |
+| 6 (_Item_) | the ox is more perfect than the ass | a named proportion leads to absurdity | 39b (§18) |
 
 Dolz now opens a disputation against the division of pages 30–33. Each objection offers a proportion to which, it is claimed, no member of the division can be assigned:
 
 1. **A quantity without a determinate value.** A body $a$ is placed in infinitely many places, with magnitude $7$ in the first, $7\tfrac12$ in the second, $7\tfrac34$ in the third, and so on, reaching every magnitude below $8$ but never $8$; $b$ is $8$. They are comparable, so $b:a$ is a proportion, but no species can be named. The successive magnitudes add the Calculators' proportional parts $\tfrac12,\tfrac14,\ldots$ (page 33) to $7$.
 2. **Infinite to finite.** The ratio is not double, triple, or any multiple. This is the seventh question of page 29.
-3. **An eight-foot body to an aggregate of a four-foot and a two-foot body.** Arithmetically $8:6=4:3$ is sesquitertian, which the division covers. The objection must therefore turn on $b$'s being an aggregate of two separate bodies rather than one quantity (compare the second and fourth questions of page 29), unless the numbers are corrupt. The solution should decide.
-4. **A whole to each of its parts.** The whole has some proportion to every part, but not always a nameable one. The natural case, though the objection does not name it, is a part incommensurable with the whole, like the side and diagonal of 28a.
-5. **Whole and part; ox and ass.** The whole is greater than its part in some proportion, which cannot be named. Likewise, if the ox is more perfect than the ass in some proportion, say double, then a brute twice as perfect as the ass could exist, which would equal the ox. The argument assumes that no brute of another species can equal the ox in perfection, and uses the rule that two things in the same proportion to the same term are equal. It tests the requirement of page 28 that proportion needs a common respect admitting more and less, here specific perfection.
+3. **An eight-foot body to an aggregate of a four-foot and a two-foot body.** Arithmetically $8:6=4:3$ is sesquitertian, which the division covers. The objection must therefore turn on $b$'s being an aggregate of two separate bodies rather than one quantity (compare the second and fourth questions of page 29). The solution on 39b confirms this: the numbers are sound.
+4. **A whole to each of its parts.** The whole has some proportion to every part, yet it has no proportion of greater inequality, nor any other, to every part. The solution on 39b shows that the objection plays on quantifier scope, not on incommensurable parts.
+5. **Whole and part.** The whole is greater than its part, therefore greater in some proportion, which cannot be named.
+6. **Ox and ass.** Introduced by _Item_ under the fifth heading, but Dolz answers it _ad sextum_. If the ox is more perfect than the ass in some proportion, say double, then a brute twice as perfect as the ass could exist, which would equal the ox. The argument assumes that no brute of another species can equal the ox in perfection, and uses the rule that two things in the same proportion to the same term are equal. It tests the requirement of page 28 that proportion needs a common respect admitting more and less, here specific perfection.
 
-Objections 1, 2, and 4 appear to share one target. The species of pages 30–33 are all built from aliquot parts, so they are ratios of whole numbers; an infinite quantity and an incommensurable part fall outside them. Bradwardine and Oresme, whom Dolz names in the proemium, handled the incommensurable case by admitting irrational proportions. Page 38 shows that the first objection does **not** in fact turn on this: every ratio Dolz assigns in it is a ratio of whole numbers (§17). For the infinite he denies proportion properly speaking; the incommensurable case awaits the solution of the fourth objection.
+A first reading suggested that objections 1, 2, and 4 share one target: the species of pages 30–33 are ratios of whole numbers, so an infinite quantity and an incommensurable part fall outside them. The solutions do not bear this out. Every ratio Dolz assigns in the first objection is a ratio of whole numbers (§17), and the fourth is solved by a scope distinction (§18). Incommensurable parts, which Bradwardine and Oresme handled with irrational proportions, are not discussed in any of the solutions. What the solutions share is the requirement that each term be **one determinate thing**, together with a denial that _greater_ entails _greater in some proportion_ (§18).
 
 ### The solution begins: against the rule of the _minimum quod non_
 
@@ -1123,21 +1126,141 @@ Preamble 8 (§5) denied an inference _a secundum quid ad simpliciter_. Page 38 n
 | Option | Infinite to finite | Status in the text |
 | --- | --- | --- |
 | the proportions of pages 30–33 | no proportion _proprie loquendo_; no species fits | Dolz's answer |
-| a _proportio infinita_ | a separate member, outside the division of finite proportion | left open |
-| equality of infinite to infinite | a proportion of equality, which has no species (33a) | left open |
+| a _proportio infinita_ | a separate member, outside the division of finite proportion | possible if posited consistently, but _non in usu_ (39a) |
+| equality of infinite to infinite | a proportion of equality, which has no species (33a) | possible in the same way; 39a adds that one infinite may be greater than another only improperly |
 
-Between infinite and finite, or infinite and infinite, there is no proportion _proprie loquendo_, as common philosophical usage attests. The reason is that such a proportion would fall under none of the species assigned. Dolz draws the general consequence: _a est maius et b est minus; ergo a ad b est proportio maioris inaequalitatis_ is invalid, and likewise for lesser inequality. The first solution gave a finite instance: $b$ is greater than the multilocated $a$ in no proportion. The fifth objection argued _totum est maius sua parte; ergo in aliqua proportione est maius_, and its premise-to-conclusion step now looks vulnerable to the same denial.
+Between infinite and finite, or infinite and infinite, there is no proportion _proprie loquendo_, as common philosophical usage attests. The reason is that such a proportion would fall under none of the species assigned. Dolz draws the general consequence: _a est maius et b est minus; ergo a ad b est proportio maioris inaequalitatis_ is invalid, and likewise for lesser inequality. The first solution gave a finite instance: $b$ is greater than the multilocated $a$ in no proportion. The fifth objection argued _totum est maius sua parte; ergo in aliqua proportione est maius_, and its premise-to-conclusion step now looks vulnerable to the same denial. Dolz does deny it on 39b (§18).
 
 To the reply that a finite quantity _aliquoties sumptum reddit infinitum_ and so is contained in a multiplex proportion, Dolz answers that the definitions of pages 30–33 concern containment of finite by finite. He does not contest the reply's premise, although no finite number of repetitions of a finite quantity yields an infinite one. He then leaves two alternatives open:
 
 - **A _proportio infinita_.** Proportion would first divide into finite and infinite, and the whole division so far would be a division of finite proportion. Dolz calls this _quod superius dictum est_, but no such statement has been found in the transcribed text; the seventh question of page 29 only raises the issue.
 - **Equality of infinite to infinite.** This fits page 33: proportion of equality _non dividitur, nec habet species_, so no missing species could be demanded.
 
-The page breaks at _loquimur /39a/ de aliis_, apparently beginning a reply to the common opposite view. The third, fourth, and fifth objections are still unanswered.
+The sentence ends on 39a: _et si communiter oppositum dicatur, loquimur de aliis_. If the common opinion holds that equality between infinites does have species, the division is not refuted, because it speaks of other proportions, the finite ones. Page 39 continues the reply (§18).
 
 ---
 
-## 18. Summary of the doctrine
+## 18. Page 39: the improperly greater, and the remaining solutions
+
+### Not against the mathematicians
+
+The reply to the second objection closes with a statement of method:
+
+> In istis non obviamus mathematicis, quia de istis casibus et istis difficultatibus non curarunt. Sufficit rationabiliter loqui et consequenter.
+
+That is: **"In these matters we do not oppose the mathematicians, because they did not concern themselves with these cases and difficulties. It is enough to speak reasonably and consistently."**
+
+The multilocated body, the infinite, and the aggregate lie outside what the mathematicians defined. Dolz therefore does not correct their definitions. He extends them to cases they did not consider, and the only constraint is consistency. This is the conventionalist principle of preamble 4 (§1) applied to the edge cases of the division.
+
+### Properly and improperly greater
+
+| | Improperly greater (_improprie_) | Properly greater (_proprie_) |
+| --- | --- | --- |
+| Criterion | contains as much as the other and something beyond | greater in some determinate proportion of those defined on pages 30–33 |
+| Holds between infinites? | yes | no |
+| Yields a proportion with species? | no | yes |
+| Allows _in duplum maius_, _in triplum_, …? | no | yes, between finites |
+
+One infinite may be called greater than another _improprie_, but not _proprie_; and properly neither is less. So no proportion need be found between them. Dolz explains the improper sense by an example:
+
+| Body | Extends to | Bounded toward the west at |
+| --- | --- | --- |
+| $a$ | infinitely toward the east | point $c$ |
+| $b$ | infinitely toward the east | a point further west than $c$ |
+
+$b$ contains all of $a$ and the segment between the two endpoints besides, so it is greater than $a$ improperly. The criterion is inclusion plus excess, the sense in which _the whole is greater than its part_. The same inclusion criterion for unequal infinites had been defended by Gregory of Rimini in the fourteenth century.
+
+The words _proprie_ and _improprie maius_, Dolz says, are in use among natural philosophers but are never defined (_non declarantur_). He supplies the definition: a thing is properly greater when it is greater in a determinate proportion.
+
+**This is a second use of the pair _proprie/improprie_.** It must not be confused with the use on page 30 (§9):
+
+| Page | _proprie_ | _improprie_ | What the pair classifies |
+| --- | --- | --- | --- |
+| 30 | comparison in dimension or multitude | comparison in degrees: intensity, activity, resistance, velocity | the **respect** of comparison; both senses ground proportions |
+| 39 | greater in a determinate proportion | greater by inclusion plus excess, without proportion | the **kind** of excess; only the proper sense grounds a proportion |
+
+### No infinite is double another
+
+No infinite is called double or triple another infinite, properly or improperly. Not improperly, because those terms are not used in that way. Not properly, because then one would stand to the other in a double proportion, which is false.
+
+Could the improper excess at least ground a proportion with species? No, unless one consistently posits infinite proportions and, among them, some equal and some unequal, _etiam improprie loquendo; sed haec non sunt in usu_. This settles the _proportio infinita_ left open on 38b (§17): it is a possible extension, not part of the accepted doctrine.
+
+The objection that follows is a serious one. Take a body infinite in both directions, east and west. It contains as much as $a$, which is infinite in one direction. From any point there is as much distance to the east as to the west, so it contains as much again. It therefore contains $a$ twice, and by definition a thing that contains another _bis adaequate_ is double. Dolz denies the consequence: the _bis_ in the definition of double, the _ter_ in that of triple, and so on, must be understood _finite_. Since _bis_ is already the finite number two, the restriction must mean that the definitions count repetitions of a **finite** quantity, as 38b had said: they concern _continentia finiti ad finitum_.
+
+The modern parallel is Euclid, _Elements_ V, def. 4 (our comparison): magnitudes have a ratio to one another when each, multiplied, can exceed the other. A finite and an infinite magnitude fail this test, and Dolz denies them a proportion on the same grounds.
+
+### Ad tertium: an aggregate is not one term
+
+The eight-foot body has no proportion to the aggregate of a four-foot and a two-foot body, although $8:6$ would be sesquitertian. The reason comes from the first solution: $b$ is not one body but two, and _proportio capitur ab uno corpore ad aliud unum_, not from one body to an aggregate of several, _maxime inaequalibus_. This is the requirement of 38a that each term _tenet locum unius rei_ (§17).
+
+| Case | Term that is not one thing | Page |
+| --- | --- | --- |
+| multilocated body | $a$ considered in all its places _tenet locum plurium_ | 38a |
+| aggregate | $b$ is two bodies, not one | 39b |
+| whole to its parts | _sua parte_ stands for infinitely many unequal parts | 39b |
+
+The text does not say whether an aggregate of **equal** bodies would also lack a proportion. _Maxime inaequalibus_ suggests that the unequal case is the clearest, not the only one.
+
+### Ad quartum: quantifier scope again
+
+| Proposition | Order of the terms | Logical form | Dolz |
+| --- | --- | --- | --- |
+| _totum ad quamlibet suam partem habet aliquam proportionem_ | distributive term first | $\forall p\ \exists r$ | conceded |
+| _nullam habet proportionem ad quamlibet suam partem_ | negation and _proportionem_ first | $\neg\exists r\ \forall p$ | conceded |
+| _habet ad quamlibet suam partem aliquam maioris inaequalitatis_ | distributive term first | $\forall p\ \exists r$ | conceded |
+| _nullam maioris inaequalitatis habet ad quamlibet suam partem_ | negation first | $\neg\exists r\ \forall p$ | conceded |
+
+The first proposition is true because _quaelibet descendens est vera_: under the distributive term _quamlibet suam partem_, every descent to a singular, "the whole has some proportion to this part", is true. The terminist logic of the Paris schools reads scope from the order of the terms, and Dolz uses that rule here. The whole has no single proportion to every part: not double, for example, because some parts are greater than the half, and double holds only to the half. Likewise it has some proportion of greater inequality to each part, but no one species of greater inequality to all.
+
+This is the same scope distinction as in preamble 8 (§5) and in the first solution, _omnem quantitatem infra 8 aliqua pars b attingit, licet nulla pars b attingit omnem quantitatem infra 8_ (§17). The objection is a fallacy of scope; it has nothing to do with incommensurable parts. The guess in §16 that it does is not confirmed.
+
+### Ad quintum: _excedit improportionabiliter_
+
+Dolz concedes both that every whole is greater than its part and that it is greater than its part _in nulla proportione_. The objection compares the whole, which is one thing, with _infinita inaequalia_, its parts taken together. Between such terms there is no proportion. It suffices that the whole has a determinate proportion to each part taken separately (_seorsum_).
+
+He then corrects a current idiom:
+
+| Expression | Who uses it | Dolz's verdict | Reason |
+| --- | --- | --- | --- |
+| _excedit excessu indivisibili_, _excedit indivisibiliter_ | _aliqui_ | improper | an excess makes what it is added to greater, but an indivisible added to a body or continuum does not make it greater |
+| _excedit improportionabiliter_ | Dolz | proper | it means only _sine proportione_ |
+
+He allows one exception. Under the Realist account of predicamental numbers adopted in preamble 4 (§1), one indivisible number is greater than another; there, speaking of an indivisible excess might not be thought unfitting. Elsewhere, when there is no proportion, the right term is _improportionabiliter_.
+
+The word names the relation already found on 38a: $b$ is greater than the multilocated $a$ _et in nulla proportione est maius a_. The relations of §17 and §18 can now be set side by side:
+
+| Relation | Example | Proportion? |
+| --- | --- | --- |
+| properly greater | $8$ to $7$; $b$ to $a$ in one place | yes, _sesquiseptima_ |
+| greater _improportionabiliter_ (finite terms) | $b$ to $a$ over all places; whole to all its parts | no |
+| improperly greater (infinite terms) | the infinite body $b$ to the infinite body $a$ | no |
+| neither greater nor less | finite to infinite | no proportion _proprie loquendo_ |
+
+### Ad sextum: the perfection of species
+
+Dolz concedes that man is more perfect than the ass and denies the consequence "therefore in some proportion", speaking of the proportions commonly discussed. Man is more perfect than the ass _in infinitum_ and _improportionabiliter_, and the same holds of other species. The reply changes the example from the ox to man. Its scope (_ita de aliis speciebus_) makes the point general: the objection's twice-as-perfect brute never arises, because no proportion holds between the perfections of species.
+
+Two qualifications follow:
+
+- Being infinitely more perfect than the ass does not make man infinitely perfect. _In infinitum_ here means only that no proportion measures the excess, not that either term is infinite.
+- Dolz says he has treated this elsewhere (_alibi diximus_). The thesis recalls Aristotle's comparison of species to numbers (_Metaphysics_ VIII.3), where adding or removing anything yields another species. Our suggestion is that this is why Dolz links the indivisible excess to the Realist numbers of preamble 4.
+
+### How the six objections are answered
+
+| # | Objection | Device of the solution | Page |
+| --- | --- | --- | --- |
+| 1 | multilocated body | one place: determinate ratio; all places: _tenet locum plurium_ | 38a–38b |
+| 2 | infinite to finite | no proportion _proprie_; definitions concern finite containment | 38b–39a |
+| 3 | body to aggregate | an aggregate is not one term | 39b |
+| 4 | whole to each part | scope: $\forall p\ \exists r$ but not $\exists r\ \forall p$ | 39b |
+| 5 | whole greater than part | greater _improportionabiliter_ than its parts taken together | 39b |
+| 6 | ox and ass | species differ _in infinitum et improportionabiliter_ | 39b |
+
+Every solution saves the division by restricting its domain rather than adding species. Proportion holds between two single, determinate, finite terms compared in a common respect, as the definition of 28b requires. Outside that domain Dolz grants _greater_ but denies _greater in a proportion_.
+
+---
+
+## 19. Summary of the doctrine
 
 1. _Aliquot part_ is a **two-place relation** between a part and a whole, requiring exact measure and at least two repetitions.
 2. Dropping the second term of the relation is what generates every difficulty in preamble 8.
@@ -1169,16 +1292,23 @@ The page breaks at _loquimur /39a/ de aliis_, apparently beginning a reply to th
 28. The names come from Euclid V. Alvarus (II.1), Dullaert, and Argyropoulos's Aristotle use _coniuncta/disiuncta_ (or _seiuncta_) for what Dolz calls _continua/discontinua_; Lax and Alvarus II.3 agree with Dolz. Identify each operation by its definition, not its name.
 29. _Aequa_ infers the ratio of the extremes from chains of equal links. Lax's direct and indirect forms differ only in the order in which the links correspond; both are valid, and Lax's criterion cannot tell them apart when all the links are equal.
 30. In the modes of argument only the ratios joined by _talis… qualis_ must be similar, because the premise must be true; the conclusion may have a different denomination.
-31. Page 37 opens objections against the exhaustiveness of the division of proportion: a quantity without a determinate value, the infinite, the whole to its parts, and degrees of perfection. Their common target is that every species so far is a ratio of whole numbers.
+31. Page 37 opens six objections against the exhaustiveness of the division of proportion: a quantity without a determinate value, the infinite, an aggregate, the whole to its parts (twice), and degrees of perfection. Their solutions show that they do not turn on the species being ratios of whole numbers.
 32. The reply to the first objection begins by relegating the case to the supernatural and turning it against the rule that an active power is bounded by a _minimum quod non_; Dolz defers that argument (_Sed de hoc alibi_).
 33. The multilocated quantity is answered by splitting the term. Relative to one place it stands in a determinate superparticular ratio, which saves the division. Relative to all places it _tenet locum plurium_ and needs no proportion, because the division concerns terms each holding the place of one thing.
 34. Dolz accepts the consequences: two things with infinitely many unequal proportions, several unequal halves of one thing, and a scope distinction between _every quantity is reached by some part_ and _some part reaches every quantity_.
 35. Affirmative predicates pass from _in some place_ to _simpliciter_; the comparative _maius_ does not, because its last exponent is negative. The theory of exponibles decides a mathematical case.
-36. There is no proper proportion between finite and infinite, and _greater_ does not entail _in a proportion of greater inequality_. Dolz leaves open an infinite proportion outside the division of finite proportion, or equality between infinites.
+36. There is no proper proportion between finite and infinite, and _greater_ does not entail _in a proportion of greater inequality_. An infinite proportion outside the division of finite proportion, or equality between infinites, could be posited consistently but is not in use.
+37. Dolz does not oppose the mathematicians: they never considered these cases, and it is enough to speak reasonably and consistently.
+38. One infinite is greater than another only improperly, by containing it and something more; properly, a thing is greater only in a determinate proportion. This _proprie/improprie_ is a different distinction from that of page 30.
+39. No infinite is double another. The _bis_ of the definition of double, and the multipliers of the other definitions, apply only to finite quantities.
+40. A proportion holds between one thing and one thing, not between a body and an aggregate of bodies.
+41. The fourth objection is a fallacy of scope: the whole has some proportion to each part, but no one proportion to every part.
+42. Where there is excess without proportion, the proper term is _excedit improportionabiliter_, not _excessu indivisibili_. The whole exceeds its parts taken together in this way, and one species exceeds another in perfection _in infinitum et improportionabiliter_.
+43. Every solution saves the division by restricting it to single, determinate, finite terms rather than by adding species.
 
 ---
 
-## 19. Textual notes
+## 20. Textual notes
 
 Proposed emendations arising from the analysis. Those marked _insecure_ are recorded but not recommended for adoption.
 
@@ -1208,8 +1338,12 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 36a | Euclidem **sexto** _Elementorum_ | _(left as printed)_ | The general theory of proportion and these transformations are in book V; possibly a slip for _quinto_ |
 | 36a–36b | id quod nos vocavimus… coniunctam sive disiunctam, praenominati **appellant** | _(lacuna suspected; left as printed)_ | The verb lacks its complement; the following sentences make the sense clear |
 | 36b | **94**, 32, 16 | **64** (adopted) | $64:32=32:16=2:1$, matching $8:4=4:2$ and the inferred $64:16=8:2=4:1$; $94$ breaks the first chain and the inference |
-| 37b | a corpus octupedale, b aggregatum ex uno **quadrupedali et uno bipedali** | _(left as printed)_ | $8:6$ is sesquitertian, which the division covers; the objection presumably turns on $b$ being an aggregate, but the numbers may be corrupt. Not yet answered through 38b |
+| 37b | a corpus octupedale, b aggregatum ex uno **quadrupedali et uno bipedali** | _(left as printed; confirmed)_ | $8:6$ is sesquitertian, which the division covers; the solution on 39b confirms that the objection turns on $b$ being an aggregate, so the numbers are sound |
+| 37b | **Item** bos est perfectior asino, under the heading _Quintum argumentum_ | _(left as printed)_ | Dolz answers it _ad sextum_ (39b), so it is a sixth objection. The transcription's heading covers both |
 | 38a | considerando **b** prout est in primo loco | **a** (adopted) | $a$ is the multilocated term; $b$ is $8$ in one place, and the preceding solution takes _a in primo loco_ |
 | 38a | nulla pars maioris esset **inaequalis** minori | **aequalis** (adopted) | The proof of the sequela is _nulla pars b est aequalis a_, and the reply is _aliqua pars b est aequalis a_ |
 | 38b | **non negando** consequentiam | probably **nego** (or **negando**) consequentiam _(insecure)_ | The following _nam_-clause gives a reason for denying the consequence: the definitions concern only finite containment |
 | 38b | quod **superius** dictum est… proportio infinita | _(left as printed)_ | No earlier statement dividing proportion into finite and infinite has been found; the seventh question of page 29 only raises the issue |
+| 39a | non tamen **ꝓprio** loquendo | **proprie** (adopted) | Contrasted with _improprie_ in the same sentence and throughout the passage |
+| 39a | terminatum in **b** puncto | possibly **d** _(insecure)_ | The point has the same letter as the body $b$; the first body is bounded at point $c$ |
+| 39a | haberet proportionem **dupliciter** | probably **duplam** _(insecure)_ | The argument is that one infinite would stand to the other in a double proportion |

@@ -1122,7 +1122,6 @@ Page 38a: aequalis ] emend. inaequalis (nulla pars maioris esset aequalis minori
 Page 38a: septempedalis ] leg. septupedalis
 Page 38b: [ad] ] om.
 Page 38b: finitum ] conj. vituū
-Page 39a: obviamus ] conj. obulamus
-Page 39a: proprie ] emend. ꝓprio
+Page 39b: proprie ] emend. ꝓprio
 
 -->

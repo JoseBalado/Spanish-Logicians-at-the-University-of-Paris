@@ -1658,6 +1658,7 @@ mendatum
 Meneses
 Mensurabilitas
 mensurativa
+mensurativum
 meringa
 meseraicas
 metaphorica

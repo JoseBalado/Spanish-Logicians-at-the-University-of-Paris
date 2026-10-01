@@ -23,6 +23,17 @@ The "calculatory" tradition contains two related but distinct kinds of treatise,
 
 The **mean-speed rule**, the **1 : 3 rule**, and the idea of velocity as a degree that can grow uniformly with time all belong to the second genre. Bradwardine's "velocity follows the proportion of proportions" belongs to the first. Swineshead and Alvarus combine both; Dolz's _Cunabula_ is a textbook of the first, written so that students can read the Calculators' cases of the second (_Cunabula_ 29 and 33; see sections 8 and 12 of the [analysis](Cunabula-analysis.html)).
 
+**Is the second genre built on the first?** For teaching, yes. Mathematically, only in part.
+
+| | _De proportionibus_ | _De intensione formarum_ |
+|---|---|---|
+| Mathematical tools | Classification of ratios (_multiplex_, _superparticularis_, _superpartiens_ …), composition of ratios, Bradwardine's proportion of proportions | Degrees and latitudes; uniform, uniformly difform, and difformly difform qualities; Oresme's geometric figures; sums over proportional parts (infinite series) |
+| Needs the other genre? | No | Yes: every comparison of degrees, distances, and times is a ratio, and compounded ratios come up again and again (sections 2.2 and 2.6) |
+| Where the questions come from | A mathematical reading of _Physics_ VII (motion _penes causam_) | The theological question of how a quality such as charity increases (commentaries on Peter Lombard, _Sentences_ I, d. 17; Scotus, Ockham), made mathematical at Oxford |
+| Place in the curriculum | Taught first | Read afterwards |
+
+The first genre prepares the reader for the second. The title of Alvarus's book announces this order (_de triplici motu **proportionibus annexis**_), and Dolz writes a textbook of proportions so that students can then read the Calculators. The second genre is not merely an application of the first, though. Its geometry of configurations and its summation of series over proportional parts are not in Bradwardine, and its questions have a separate, theological origin. Section 2.6 shows the two genres combined in a single problem.
+
 ### 1.1 Motion _penes causam_ in formulas
 
 Write $F$ for the mover's power (_potentia_, _activitas_), $R$ for the resistance, and $v$ for the speed. Bradwardine's _De proportionibus_ (ch. 2) rejects four earlier accounts, usually summarized as follows (Crosby 1955; Clagett 1959):
@@ -99,6 +110,88 @@ $$
 Alvarus's words are _si a et b moverentur aequaliter in illis duobus temporibus inaequalibus_ (the intermediate motion), and then _modo a in aliqua proportione quae sit f maiori velocitate movetur quam tunc_ (the second factor).
 
 His example gives $\frac{1}{1/2}\cdot\frac{4}{2} = 4$. It happens to match uniform acceleration from rest: with $v = g\,t$ and $g = 4$, the speed is $4$ after one hour and $2$ after half an hour, and the distances $s = \tfrac12 g t^2$ are $2$ and $\tfrac12$, again in ratio $4$. Alvarus's example, however, concerns two uniform motions, and he does not draw that connection.
+
+**Why no quotient?** It is tempting to explain this by the nature of time: time comes from change, so speed would only be a relation between one motion and another. That is only partly right.
+
+| Explanation | Assessment |
+|---|---|
+| Time arises only from change, so it cannot be a divisor | Not the main reason. Aristotle defines time as "the number of motion with respect to before and after" (_Physics_ IV.11), so time depends on motion. But time is still a continuous quantity that can be divided and measured. Alvarus counts in hours, and Aristotle provides a standard: the uniform rotation of the heavens (_Physics_ IV.14). |
+| A ratio holds only between magnitudes of the same kind | The real obstacle (Euclid, _Elements_ V, def. 3). $s_1 : s_2$ and $t_1 : t_2$ are ratios; $s : t$ is not. |
+| Speed is known only by comparing one motion with another | Yes, but the comparison need not involve two bodies. The 1 : 3 rule (section 2.4) compares the two halves of a single motion. |
+| Speed had no number | No. A speed is a degree (_gradus_) in a latitude and receives a number: _moveatur per horam ut quattuor_. |
+| A peculiarity of the scholastics | No. Galileo still states his theorems as ratios (_in duplicata ratione_, section 3). Velocity as a quotient $ds/dt$ became standard only around 1700 (Varignon). |
+
+Speed is thus a **degree of a quality** that can be compared with other degrees, like a degree of heat. Its relation to distance and time is stated through ratios of like to like, because the theory of proportion did not allow unlike magnitudes to be divided.
+
+**Example: 20 km/h.** Let $a$ move at 20 for 3 hours and $b$ at 5 for 2 hours (Alvarus would use leagues, _leucae_, not kilometres).
+
+| | Today | Alvarus |
+|---|---|---|
+| What the speed is | A quotient: $v = s/t$ = 20 km / 1 h | A degree _ut viginti_ in the latitude of velocity |
+| Unit | km/h, formed by dividing a unit of length by a unit of time | None. The number places the degree only relative to other degrees: _ut decem_ is half of it, _ut quadraginta_ double. |
+| How it is tied to distance | Built into the unit: 20 km in each hour | By its effect: the distance _natum pertransiri illo gradu … per idem tempus continuato_, which the degree would cover if held uniformly for a given time (fifth proposition, section 2.4) |
+| Distances of $a$ and $b$ | $s_a = 20 \cdot 3 = 60$ km, $s_b = 5 \cdot 2 = 10$ km | $\dfrac{s_a}{s_b} = \dfrac{20}{5}\cdot\dfrac{3}{2} = 4 \cdot \dfrac32 = 6$: $a$ covers six times the distance of $b$ (_proportio sextupla_) |
+| Absolute distance | Obtained directly | Obtained only if one distance is already known: if $b$ covers 10 leagues, $a$ covers 60 |
+
+Alvarus's route to the $6$ follows the same three steps as his third proposition above, with the intermediate motion "5 for 3 hours":
+
+$$
+\frac{s(20,3)}{s(5,2)}
+= \underbrace{\frac{s(20,3)}{s(5,3)}}_{\text{2nd prop.: }20/5\,=\,4}
+\cdot \underbrace{\frac{s(5,3)}{s(5,2)}}_{\text{1st prop.: }3/2}
+= 6.
+$$
+
+The modern unit also contains a comparison: 20 km/h means "20 times the speed that covers 1 km in 1 h". The difference is that km/h is itself a quantity that can be multiplied by a time to give a distance: $20 \text{ km/h} \times 3 \text{ h} = 60 \text{ km}$. The degree _ut viginti_ cannot be multiplied by an hour. Every calculation passes through the composition of ratios, and its result is a ratio (_sextupla_), not a distance.
+
+**Recovering 20 km/h with a reference motion.** Absolute distances can still be obtained by choosing a **reference motion**, the degree that covers 1 km in 1 hour, and composing ratios against it. The second ratio must be time to time (1 h : 1 h), not 1 km : 1 h, because a distance and a time have no ratio. The kilometre enters only through the reference motion's distance.
+
+| Step | Ratio | Kind |
+|---|---|---|
+| Speed of $a$ to the reference speed | $20 : 1$ | degree : degree |
+| Time of $a$ to the reference time | $1\text{ h} : 1\text{ h} = 1 : 1$ | time : time |
+| Composed (third proposition) | $\tfrac{20}{1}\cdot\tfrac{1}{1} = 20$ | distance : distance |
+| Reference distance (given) | 1 km | absolute |
+| Distance of $a$ | $20 \times 1\text{ km} = 20$ km in one hour | absolute |
+
+For 3 hours only the time ratio changes: $\tfrac{20}{1}\cdot\tfrac{3}{1} = 60$, so $a$ covers 60 km. This matches the modern $20 \text{ km/h} \times 3 \text{ h}$ above.
+
+| | Today | With a reference motion |
+|---|---|---|
+| The unit | One quantity, km/h | A pair kept apart: (1 km, 1 h) |
+| The result of the calculation | A distance: $20\text{ km/h}\times 3\text{ h} = 60$ km | A ratio of distances, $60 : 1$, which becomes 60 km only when multiplied by the reference distance |
+
+The reference motion plays the role of the modern unit. The medieval texts come close to this: in the 1 : 3 rule Alvarus fixes a reference distance ("in the first half it covers one league", section 2.4), and his fifth proposition identifies a degree by the distance it "would cover if continued for the same time". In this language "20 km/h" becomes "the degree that, held uniformly for one hour, covers twenty times what the reference degree covers in one hour."
+
+**Apples and oranges.** The everyday saying that one cannot compare apples with oranges is Euclid's rule in plain words. _Elements_ V, def. 3 allows a ratio only between magnitudes "of the same kind". Def. 4 gives the test: two magnitudes have a ratio if some multiple of one can exceed the other. No number of hours ever exceeds a kilometre.
+
+| Operation | Euclid | Modern dimensional analysis |
+|---|---|---|
+| Compare unlike: is 3 km greater than 2 h? | No ratio (def. 4) | Meaningless |
+| Add unlike: 3 km + 2 h | Meaningless | Meaningless |
+| Ratio of like: 60 km : 10 km | Yes, _sextupla_ | Yes, the pure number 6 |
+| Divide unlike: 20 km / 1 h | Not defined | Written, and taken to define a new kind of quantity, speed |
+
+The intuition survives today for comparing and adding. The only change is the last row, and even there the "division" of a length by a time can be read in two ways:
+
+| Reading | What 20 km/h means | Relation to the medieval practice |
+|---|---|---|
+| Shorthand | Two ratios of like to like, $s : 1\text{ km} = 20$ and $t : 1\text{ h} = 1$, followed by the division of the pure numbers $20/1$. "km" and "h" are labels recording which reference was used. | The reference motion above, written compactly. Newton, _Arithmetica universalis_ (1707), defines number as "the abstract ratio of any quantity to another quantity of the same kind, which is taken for unity". |
+| Quantity calculus | A quantity is a number times a unit, and units are multiplied and divided as algebraic symbols. km/h is a unit of a new kind. A rigorous theory came only in the twentieth century (Whitney 1968). | A formal extension that Euclid's theory does not contain, though it does not contradict it |
+
+On the first reading, 20 km/h does not really divide a length by a time; it is shorthand for the separated form. The compact notation nevertheless earns its place, because its cancellation of units performs the composition of ratios automatically:
+
+$$
+20\,\frac{\text{km}}{\text{h}} \times 3\text{ h}
+= \underbrace{\frac{20}{1}}_{\text{degree : degree}}
+\cdot \underbrace{\frac{3\text{ h}}{1\text{ h}}}_{\text{time : time}}
+\cdot \underbrace{1\text{ km}}_{\text{reference distance}}
+= 60\text{ km}.
+$$
+
+The h cancelling against h is the time ratio of the table above, and the km left over is the reference distance. The separated form is better for explaining the calculation, and the compact form for carrying it out.
+
+Practice was ahead of theory. Merchants' arithmetic, from Fibonacci's _Liber abaci_ (1202) onward, treated "so much money per pound" as plain numbers in the rule of three. Euclid's restriction weighed on geometry and natural philosophy, not on commerce. Nor did it stop the Calculators from reaching their results: with ratios alone they obtained the mean-speed rule, the 1 : 3 rule, and the infinite series of section 2.6. What they lacked was a single quantity, speed, that could be multiplied by a time to give a distance. That convenience arrived only when ratios to units began to be treated as numbers.
 
 ### 2.3 The mean-speed rule
 
@@ -366,8 +459,11 @@ Pardo is therefore not the founder of the revival. The tradition was older, and 
 
 - Alvarus Thomas. _Liber de triplici motu proportionibus annexis magistri Alvari Thome Ulixbonensis philosophicas Suiseth calculationes ex parte declarans_. Paris, 1509. ECHO XML transcription.
 - Dolz del Castellar, Juan. _Cunabula omnium fere scientiarum_. Montauban, 1518. [Transcription](Cunabula-omnium-fere-scientiarum-1518.html).
+- Euclid. _Elements_. Book V, definitions 3–4.
+- Fibonacci (Leonardo of Pisa). _Liber abaci_. 1202.
 - Galilei, Galileo. Letter to Paolo Sarpi, 16 October 1604. _Le Opere di Galileo Galilei_, Edizione Nazionale, X, 115–116.
 - Galilei, Galileo. _Discorsi e dimostrazioni matematiche intorno a due nuove scienze_. Leiden, 1638. Third Day.
+- Newton, Isaac. _Arithmetica universalis_. Cambridge, 1707.
 - Pardo, Jerónimo. _Medulla Dyalectices_. Paris, 1505. [Transcription](../Jeronimo-Pardo/Medulla-Dyalectices-1505.html).
 - Pardo, Jerónimo (attr.). _Principiorum Phisicorum et Introductiones Librorum Animae_. Institución Colombina, MS 7-2-29. [Transcription](../Jeronimo-Pardo/Principiorum-Phisicorum-et-Introductiones-Librorum-Animae.html).
 - Soto, Domingo de. _Super octo libros Physicorum Aristotelis quaestiones_. Salamanca, 1545; revised edition, 1551.
@@ -385,3 +481,4 @@ Pardo is therefore not the founder of the revival. The tradition was older, and 
 - Wallace, William A. _Galileo's Early Notebooks: The Physical Questions_. Notre Dame, 1977.
 - Wallace, William A. _Galileo and His Sources: The Heritage of the Collegio Romano in Galileo's Science_. Princeton, 1984.
 - Wallace, William A. _Domingo de Soto and the Early Galileo_. Aldershot, 2004.
+- Whitney, Hassler. "The Mathematics of Physical Quantities." _American Mathematical Monthly_ 75 (1968), 115–138 and 227–256.

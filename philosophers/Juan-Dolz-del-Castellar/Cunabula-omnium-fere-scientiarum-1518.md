@@ -1027,13 +1027,49 @@ Et si petas quid debet tunc assignari pro medietate ipsius a, dico tripedale cum
 
 Si autem consideres ly 'a' respectu omnium locorum, dico quod ut sic nullam habet medietatem, nec hoc inconvenit, nisi diceretur quod pars quadrupedalis esset sua medietas in ordine ad omnia loca, sed hoc non esset conforme geometriae, nam omne totum debet esse duplum ad suam medietatem, quod non esset ibi. Consimiliter poteris loqui si petatur de aliis partibus aliquotis.
 
-Et si petas an corpus septem pedum cum dimidio sit illo maius, aliqui forsan diceret quod est illo maius, et ad hoc sufficeret quod in aliquo loco esset illo maius. Sed tunc oporteret concedere quod etiam aliud esset maius illo septem pedum cum dimidio, et sic darentur a et b, et a esset maius b, et b esset maius a. Ideo quia haec non videtur bene sonora, dico aliter quod non est maius illo, et nego hanc consequentiam, in hoc loco est maius illo; ergo est maius illo, nam maius in ultima exponente includit negationem. Secus est de aliis de quibus diximus, sed de multis aliis quae circa hunc casum applicari possunt diximus in vigiliis philosophiae.
+Et si petas an corpus septem pedum cum dimidio sit illo maius, aliqui forsan diceret quod est illo maius, et ad hoc sufficeret quod in aliquo loco esset illo maius. Sed tunc oporteret concedere quod etiam aliud esset maius illo septem pedum cum dimidio, et sic darentur a et b, et a esset maius b, et b esset maius a. Ideo quia haec non videtur bene sonora, dico aliter quod non est maius illo, et nego hanc consequentiam: "in hoc loco est maius illo; ergo est maius illo", nam 'maius' in ultima exponente includit negationem. Secus est de aliis de quibus diximus, sed de multis aliis quae circa hunc casum applicari possunt diximus in vigiliis philosophiae.
 
 ### Ad secundum
 
 Ad secundum argumentum dicitur quod infiniti ad finitum et e contra, aut infiniti ad infinitum nulla est proportio proprie loquendo, ut sermo communis philosophicus testatur. Et hoc verum habet loquendo de proportionibus de quibus superius locuti sumus, quia certum est illa proportio in nulla specierum assignatarum contineretur. Et ex consequenti haec consequentia est neganda: "a est maius et b est minus; ergo a ad b est proportio maioris inaequalitatis". Nec etiam sequitur: "a est minus et b maius; ergo a ad b est proportio minoris inaequalitatis". Patet in proposito.
 
-Et si arguas: "ipsum finitum aliquoties sumptum reddit infinitum; ergo est multiplex proportio inter illa, patet ex definitione proportionis multiplicis, vel ad minus aliqua alia proportio", non negando consequentiam, nam in definitionibus superius positis nos loquebamur de continentia finitarum [ad] finitum, qualiter non est ibi. Nisi velis tenere unum quod superius dictum est, quod esset proportio infinita, et quod proportio primo posset dividi in proportionem finitam et infinitam, et quod processus factus sit de proportione finita, nisi etiam velles dicere quod esset proportio aequalitatis infiniti ad infinitum, de qua diximus ipsam nullas habere species, et si communiter oppositum dicatur loquimur /39a/ de aliis...
+Et si arguas: "ipsum finitum aliquoties sumptum reddit infinitum; ergo est multiplex proportio inter illa, patet ex definitione proportionis multiplicis, vel ad minus aliqua alia proportio", non negando consequentiam, nam in definitionibus superius positis nos loquebamur de continentia finitarum [ad] finitum, qualiter non est ibi. Nisi velis tenere unum quod superius dictum est, quod esset proportio infinita, et quod proportio primo posset dividi in proportionem finitam et infinitam, et quod processus factus sit de proportione finita, nisi etiam velles dicere quod esset proportio aequalitatis infiniti ad infinitum, de qua diximus ipsam nullas habere species, et si communiter oppositum dicatur loquimur /39a/ de aliis. In istis non obviamus mathematicis, quia de istis casibus et istis difficultatibus non curarunt. Sufficit rationabiliter loqui et consequenter.
+
+Notandum tamen est super materia subiecta quod, licet concedatur unum infinitum esse maius alio improprie, non tamen proprie loquendo, nec minus. Et ideo inter talia non est opus proportionem reperiri, nisi velis dicere modis tactis.
+
+Et si petas quomodo unum infinitum dicitur esse maius alio infinito improprie, dico hoc modo: quia continet tantum quantum aliud, et cum hoc aliquid ultra. Exemplum: sit a corpus infinitum versus orientem terminatum in c puncto versus occiduum, sit b corpus infinitum etiam ortum versus et terminatum in b puncto versus occasum magis occidenti appropinquanti quam a; tunc b est maius a improprie illo modo, ut patet ex declaratione facta.
+
+Et si petas quid dicitur esse maius alio proprie, quia hi termini sunt in usu inter philosophiam naturalem profitentes, tamen non declarantur. Dico quod illud dicitur esse maius alio proprie quod est maius alio in aliqua proportione certa earum quas superius definivimus et dividimus.
+
+Nihil tamen nec proprie nec improprie infinitum alio infinito dicitur 'in duplum maius' vel 'in duplum minus' vel 'in triplum', et sic consequenter. Primo non improprie, quia illi termini non sic capiuntur; nec proprie, quasi sequeretur quod unum ad aliud haberet proportionem dupliciter, hoc est falsum.
+
+Et si dicas an illa maioritas improprie dicta faciet proportionem, et an illa proportio habebit species, dico quod non, ut iam dictum, nisi velles consequenter ponere proportiones infinitas, et ipsis positis inter eas aliquas ponere inaequales, alias aequales, etiam improprie loquendo; sed haec non sunt in usu.
+
+Et si arguas: "infinitum tam versus unam differentiam positionis sicut versus aliam continet tantum quantum a infinitum captum, et cum hoc tamen, quia a quolibet puncto inter orientem et occidentem est tanta distantia ad orientem sicut ad occidentem, est tanta distantia ad orientem sicut ad occidentem; hoc erit proportio dupla", negatur consequentia.
+
+Et si dicas: "patet per definitionem proportionis duplae, quando aliquid continet aliud bis adaequate", dico quod in definitione proportionis duplae oportet intelligere ly 'bis' finite, et in definitione proportionis triplae ly 'ter' finite, et ita consequenter in aliis definitionibus /39b/ aliarum specierum.
+
+### Ad tertium
+
+Ad tertium argumentum patet solutio ex solutione primi, quod b non est unum corpus sed est duo. Modo proportio capitur ab uno corpore ad aliud unum, et non sic unius ad aggregatum ex pluribus, maxime inaequalibus.
+
+### Ad quartum
+
+Ad quartum concedo hanc: "totum ad quamlibet suam partem habet aliquam proportionem", nam quaelibet descendens est vera sub ly 'quamlibet suam partem'. Cum hac tamen stat quod nullam habet proportionem ad quamlibet suam partem: non duplam, cum aliqua sit maior medietate ad quam habet duplam, et sic consequenter de aliis.
+
+Et nego quod non habet ad quamlibet suam partem maioris inaequalitatis; immo hanc concedo: "habet ad quamlibet suam partem aliquam maioris inaequalitatis", licet nullam maioris inaequalitatis habeat ad quamlibet suam partem.
+
+### Ad quintum
+
+Ad quintum argumentum dico: verum est quod omne totum maius est sua parte, et concedo ultra quod in nulla proportione est maius sua parte. Dico hoc est quia comparas totum, quod est una res, ad infinita inaequalia, scilicet ad suas partes, quae sunt infinitae et inaequales. Modo, ut dictum est in solutione primi, inter talia sic comparata non est proportio, sed sufficit quod quaecunque seorsum accepta totum ad illam habeat certam proportionem.
+
+Solent aliqui ibi dicere, quando non est proportio, "excedit excessu indivisibili", aut "excedit indivisibiliter". Sed est impropria locutio, cum proprie excessus nullus sit indivisibilis, quia excessus superadditus facit rem cui additur maiorem, maxime in rebus finitis, et in rebus infinitis improprie. Tamen indivisibile additum divisibili non facit ipsum maius in corporibus et continuis.
+
+Hoc addo propter maioritatem vel minoritatem quam superius posuimus inter numeros praedicamentales more Realium, ubi forsan illud illic fateri non reputaretur inconveniens, eo modo praecipue quo illic proceditur, ut superius tactum est. Sed tunc quando non est proportio nos dicimus: "excedit improportionabiliter", id est sine proportione, et sic erit proprie dictum.
+
+### Ad sextum
+
+Ad sextum concedo quod homo est perfectior asino, et nego consequentiam: "ergo in aliqua proportione", loquendo de proportionibus de quibus communiter loquimur. Quare hoc dixerim patet ex dictis. Sed dicitur quod homo in infinitum est perfectior asino, et improportionabiliter, ita de aliis speciebus. Nec propterea sequitur quod homo sit infinite perfectus. De hoc tamen alibi diximus. /40a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1086,5 +1122,7 @@ Page 38a: aequalis ] emend. inaequalis (nulla pars maioris esset aequalis minori
 Page 38a: septempedalis ] leg. septupedalis
 Page 38b: [ad] ] om.
 Page 38b: finitum ] conj. vituū
+Page 39a: obviamus ] conj. obulamus
+Page 39a: proprie ] emend. ꝓprio
 
 -->

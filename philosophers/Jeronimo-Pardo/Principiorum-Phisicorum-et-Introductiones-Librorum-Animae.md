@@ -938,7 +938,31 @@ Dico quod tenendo istum modum Gregorii neganda est maior. Sed dicerem tenendo is
 
 Sed nunc quaerendum est quod est obiectum motivum intellectus nostri secundum suam naturam, et pro hoc intelligendo ponitur talis distinctio.
 
-Obiectum tria habet respectu notitiae, videlicet movere seu causare, terminare et mensurare. Ex quo sumitur talis distinctio, videlicet: triplex est obiectum intellectus nostri, scilicet motivum terminativum et mensurativum. Unde illud dicitur obiectum motivum quod naturaliter et non libere causat et producit suam intellectionem in intellectu. Sed illud dicitur obiectum terminativum quod terminat intellectionem, unde obiectum terminare intellectionem /44a/ est ipsum cognosci per talem notitiam.
+Obiectum tria habet respectu notitiae, videlicet movere seu causare, terminare et mensurare. Ex quo sumitur talis distinctio, videlicet: triplex est obiectum intellectus nostri, scilicet motivum terminativum et mensurativum. Unde illud dicitur obiectum motivum quod naturaliter et non libere causat et producit suam intellectionem in intellectu. Sed illud dicitur obiectum terminativum quod terminat intellectionem, unde obiectum terminare intellectionem /44a/ est ipsum cognosci per talem notitiam. Sed obiectum dicitur mensurativum quia mensurat perfectionem notitiae. Unde obiectum mensurare perfectionem notitiae est cognoscere quam perfecta sit notitia per perfectionem obiecti de quo habetur. Unde perfectioris obiecti, caeteris paribus, perfectior est notitia.
+
+Hoc supposito quaeritur talis quaestio resolutiva istius materiae: quod est obiectum intellectus nostri? Distinguo, quia aut quaeris obiectum motivum, mensurativum, terminativum. Si terminativum, dico quod pro cumque statu mundi ens in sua communitate est obiectum nostri intellectus, nam non est aliquod ens quod non posset terminare aliquam notitiam. Si obiectum mensurativum, dico quod est ens quod patet, quia non est aliquod ens quum mensuret suam notitiam per quam cognoscit, id est non est aliquod ens quod cognoscat per aliquam notitiam quin perfectum cognoscatur perfectio notitiae. Et nota quod communiter non solet poni illud membrum mensurativum.
+
+Si vero quaeras de obiecto motivo, distinguo: aut pro isto statu, et sic dico quod suppletur per hoc disiunctum sensibile vel immutativum cognoscentis. Volo dicere quod nihil causat suam notitiam pro statu isto nisi sit res sensibilis vel actus immutativus cognoscentis, vel, secundum alios, oportet addere: vel ipsa potentia cognoscens. Ex quo sequitur quod bene dictum est quod nulla substantia movet intellectum.
+
+Aut obiectum motivum ex natura sua seu pro alio statu, et sic dicit Scotus multis passibus quod suppletur per hoc complexum: ens finitum tam absolutum quam respectivum, cuius terminus non est Deus, dicitur ens finitum. Ex quo sequitur quod nihil est obiectum nostri intellectus nisi sit /44b/ ens creatum seu finitum.
+
+Contra: Deus potest movere intellectum nostrum; ergo est obiectum motivum. Antecedens patet, quia Deus potest causare notitiam in intellectum nostro sui; ergo potest movere intellectum.
+
+Pro solutione est notandum quod nihil est obiectum motivum nisi naturaliter et non libere causet suam notitiam, tunc ponuntur duae propositiones quarum prima est:
+
+> Omnis res alia a Deo est obiectum motivum nostri intellectus ex natura rei, videlicet naturaliter, quantum est de se, potest causare suam notitiam et non libere.
+
+Contra: voluntas non causat suam notitiam; ergo male dicit propositio prima. Antecedens patet, quia voluntas nostra est libera.
+
+Ego distinguo: aut in ratione obiecti, et sic nego, imo naturaliter agit; aut in ratione potentiae, in quantum est voluntas, et sic dico quod est libera. Secundo dico quod quando voluntas causat suam notitiam non se habet in ratione potentiae, sed in ratione obiecti naturaliter causantis suam notitiam.
+
+Secunda propositio:
+
+> Deus non est obiectum motivum alicuius intellectus creati, licet bene sui intellectus.
+
+Nam ista est propositio catholica, quod quidquid Deus producit ad extra producit libere et contingenter et ut volens, ut si Deus creet notitiam sui in intellectu meo, non causat nisi mere libere et contingenter. Et hoc est quod dicit auctoritas divi Aurelii Augustini: si vult, videtur; si non vult, non videtur, id est si vult, causabit suam notitiam, et si non vult, non causabit suam notitiam.
+
+Dicitur notanter "tam absolutum quam respectivum", quia quodlibet ens creatum, sive sit absolutum sive respectivum, potest esse obiectum motivum nostri intellectus. Dico notanter "cuius terminus non est Deus", pro cuius declaratione est /45a/ notandum
 
 
 

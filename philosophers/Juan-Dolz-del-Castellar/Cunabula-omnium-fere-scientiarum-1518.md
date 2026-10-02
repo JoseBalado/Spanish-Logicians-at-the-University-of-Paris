@@ -1071,6 +1071,58 @@ Hoc addo propter maioritatem vel minoritatem quam superius posuimus inter numero
 
 Ad sextum concedo quod homo est perfectior asino, et nego consequentiam: "ergo in aliqua proportione", loquendo de proportionibus de quibus communiter loquimur. Quare hoc dixerim patet ex dictis. Sed dicitur quod homo in infinitum est perfectior asino, et improportionabiliter, ita de aliis speciebus. Nec propterea sequitur quod homo sit infinite perfectus. De hoc tamen alibi diximus. /40a/
 
+### Dubium
+
+Ibi incidit dubium quid est augere proportionem et quomodo augetur; similiter quid diminuere proportionem et quomodo diminuatur.
+
+Pono propositiones. Prima:
+
+> Proportio maioris inaequalitatis augetur quomodo proportio maioris inaequalitatis sibi additur.
+
+Et hoc potest fieri multis modis: primo augendo numerum maiorem retento numero minori; secundo diminuendo minorem numerum maiori retento; tertio per augmentum maioris et diminutionem minoris; quarto quando uterque augetur, sed magis maior quam minor; quinto quando uterque diminuitur, sed magis minor quam maior.
+
+Exempla horum facilia sunt. Capiatur 8 ad 4: si 8 crescat, augetur proportio; si 4 diminuatur, augetur proportio; si 8 augetur et 4 diminuatur, augetur proportio; si 8 augetur et 4 etiam, sed magis 8 quam 4, augetur proportio; si 8 diminuitur et 4 etiam, sed magis 4 quam 8, augetur proportio. Ita in aliis.
+
+Secunda: 
+
+> Proportio etiam multis modis potest diminui: primo diminuendo maius relicto minore; secundo augendo minus relicto maiore; tertio crescente minore et decrescente maiore; quarto per crementum utriusque, minore magis crescente proportionabiliter; quinto per decrementum utriusque, maiore decrescente magis proportionabiliter.
+
+Exempla sunt facilia omnibus. His modis aequivalenter tollitur proportio. Et nota quod hoc multum tibi deserviet philosophiae quando potentia augebitur resistentia invariata, vel resistentia augmentabitur potentia invariata; valet quando utraque augebitur, sed una magis quam alia, vel utraque decrescet, sed una magis quam alia proportionaliter. De decremento iam scis quomodo maiorabitur proportio aut minorabitur, et an velocitas augebitur motus vel diminuetur, et multa profecto. His intellectis erunt tibi pervia, ut tu ipse testis eris. Consimiliter de augmento proportionis minoris inaequalitatis vel decremento habes iam ostium patens.
+
+Proportionem a proportione subtrahere est illam cum parte illius cum qua illam constituit discontinuare, vel illam a qua subtrahi debet annihilari, sicut in quantitatibus, ut sesquialtera et sesquitertia faciunt duplam: removeas sesquialteram /40b/ a continuatione quam habes cum sesquitertia, et operaberis faciliter.
+
+### Proportionalitas harmonica
+
+Notandum est circa praedicta, ultra proportionalitates positas duas generales, geometricam scilicet et arithmeticam, ponit Nicomachus unam quae dicitur proportionalitas harmonica, quae scholasticis satis confert. Et est quando nec servatur similitudo excessus, ut in arithmetica, nec proportionis, ut in geometria, sed qualis est proportio maximi ad minimum, talis est proportio distantiae maximi ad medium ad distantiam medii ad minimum.
+
+Patet ibi 6 4 3: 6 ad 3 est proportio dupla, sed differentia qua 6 excedit 4 est dupla ad differentiam qua 4 excedit 3, nam prima differentia est binarius, secunda est unitas; modo binarii ad unitatem est dupla.
+
+Ista proportionalitas harmonica potest esse multiplex, scilicet tonus, diatessaron, diapente et diapason.
+
+### Tonus
+
+Tonus est elevatio vocum sive sonorum quorum unus elevatur super alium in proportione sesquioctava, musica consonantia: ut duo soni quorum unus se habet ut 16, alter ut 18.
+
+### Diatessaron
+
+Diatessaron est sonorum habitudo quorum unus elevatur super alium in proportione sesquitertia, ut duo soni quorum unus se habet ut 8, alter ut 6.
+
+### Diapente
+
+Diapente est sonorum habitudo quorum unus elevatur super alium in proportione sesquialtera, ut duo soni se habentes ut 6 ad 4.
+
+### Diapason
+
+Diapason est sonorum habitudo quorum unus elevatur super alium in proportione dupla, ut duo se habentes sicut 8 ad 4. Et istae dicuntur consonantiae simplices.
+
+Ex his potes facere compositas, ut bis diapason, et ita de aliis. Sed raro in voce humana reperitur bis diapason, nisi rediret quid de quo loquitur Aristoteles septimo *Politicorum* capite quarto. Compositas facile describes descriptis simplicibus. Ista adieci non quia multum pertinentia philosophiae, sed ad minus ut calleas terminos.
+
+Etiam posset ibi una proportionalitas quae vocatur perfectissima, quia omnes aliae reperiuntur, et etiam musices consonantiae, quae est in 4 terminis et 3 intervallis, ut poteris ibi ruminare: 6 8 9 12. Sed de hac supersedeo.
+
+Posset ibi quaeri utrum ad proportionalitatem requiratur omnium proportionum similitudo in tali proportionalitate repertarum. Dicitur quod non, patet scilicet proportionalitate arithmetica. Posset ultra quaeri an proportionalitas /41a/ veniat dicenda proportio.
+
+
+
 <!--
 ## Apparatus Criticus Reference
 * conj.    (coniectura)  : Text is unreadable; this is an educated guess.
@@ -1123,5 +1175,6 @@ Page 38a: septempedalis ] leg. septupedalis
 Page 38b: [ad] ] om.
 Page 38b: finitum ] conj. vituū
 Page 39b: proprie ] emend. ꝓprio
+Page 40b: 4 ] emend. 3 (qua 6 excedit 4; prima differentia est binarius)
 
 -->

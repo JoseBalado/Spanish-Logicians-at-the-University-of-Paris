@@ -38,7 +38,7 @@ The surviving text therefore supports the conclusion that Dolz deliberately atte
 
 # Preambles, proportion, and proportionality
 
-**Pages 25a–39b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; and the six objections against the division of proportion with their solutions.
+**Pages 25a–40b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; and the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals.
 
 ## 1. Why the metaphysics comes first
 
@@ -419,7 +419,7 @@ First, its claim to be the uniquely **proper** proportion is unstable on Dolz's 
 
 Second and more importantly, it is inadequate to natural philosophy. The rules of Aristotle and the Calculators in the seventh book of the _Physics_ assign proportions to activities and resistances and compare proportions with one another. Dolz explicitly explains that these do not have the character of dimension or multitude, and anticipates a later rule according to which velocity is determined by the proportion of the proportions of activities to their resistances.
 
-He then appeals separately to proportions used by philosophers concerning local motion _ad longum_ in the third book of the _Physics_. Here, however, he merely says that these would not be proportions under the strict definition; he does not yet explain why. The promise _patebit inferius_ grammatically concerns the preceding rule about velocity, activity, and resistance, not necessarily this second appeal. The proemium announces that the fifth article will treat rules of motion both by cause and by effect, so the fuller justification belongs there; through page 39 those rules have not yet been given.
+He then appeals separately to proportions used by philosophers concerning local motion _ad longum_ in the third book of the _Physics_. Here, however, he merely says that these would not be proportions under the strict definition; he does not yet explain why. The promise _patebit inferius_ grammatically concerns the preceding rule about velocity, activity, and resistance, not necessarily this second appeal. The proemium announces that the fifth article will treat rules of motion both by cause and by effect, so the fuller justification belongs there; through page 40 those rules have not yet been given. Page 40 adds only a qualitative link: whether velocity increases or decreases follows from whether the proportion of power to resistance is increased or diminished (§19).
 
 Dolz's argument on page 29 is therefore: (1) the strict account recognizes proportion only where the terms share dimension or multitude; (2) natural philosophers nevertheless posit proportions between activities and resistances, which share neither; therefore (3) the strict account does not encompass every proportion required in natural philosophy. His appeal to local motion supplies a further accepted philosophical usage, although its precise ground remains to be explained. Excluding such uses would defeat the expressly philosophical purpose of the _Cunabula_. Dolz concedes that the strict use can serve some parts of philosophy — especially accounts of the increase of velocity associated with the Calculator, though less successfully when following Paulus Venetus — but page 29 ends by requiring a broader notion of proportion.
 
@@ -742,7 +742,7 @@ The following table gives each kind, an exact species, and an expandable numeric
 | lesser, composite subsuperparticular | _subdupla sesquitertia_ | $3:7$, the reciprocal of $7:3$ |
 | lesser, composite subsuperpartient | _subdupla superbipartiens tertias_ | $3:8$, the reciprocal of $8:3$ |
 
-Two practical rules prevent most misclassifications. First divide the greater by the lesser to obtain the integer count and remainder; then reduce the fractional remainder before naming it. Finally preserve direction: $3:2$ is sesquialteral, whereas $2:3$ is subsesquialteral. This vocabulary is especially reusable in musical arithmetic, where $3:2$ and $4:3$ are the standard ratios of the fifth and fourth, but Dolz's classification itself applies to any comparable quantities.
+Two practical rules prevent most misclassifications. First divide the greater by the lesser to obtain the integer count and remainder; then reduce the fractional remainder before naming it. Finally preserve direction: $3:2$ is sesquialteral, whereas $2:3$ is subsesquialteral. This vocabulary is especially reusable in musical arithmetic, where $3:2$ and $4:3$ are the standard ratios of the fifth and fourth, but Dolz's classification itself applies to any comparable quantities. Dolz gives these intervals himself on 40b (§19).
 
 For reuse in mathematical and musical texts, the whole classification can be generated from the following templates. Here $A>B>0$, $m\ge2$, and the fractional remainder is reduced. Every greater-inequality form has the lesser-inequality form $B:A$ with _sub-_ prefixed to its name.
 
@@ -852,7 +852,7 @@ The same contrast applies to corruption, the gradual loss of a quality:
 
 Dolz now defines arithmetical proportionality as _excessus similitudo quamquam dissimilitudo_ and illustrates it with $1,2,3,4$: each successive excess is one, whereas the ratios change. In the Calculator case that began $2,3$ on page 33, the instruction to continue "arithmetically" therefore fixes the successive difference, not the successive ratio. Dolz extends this distinction to the corruption of something in equal successive amounts, contrasting it with the geometrical corruption of assent to a conclusion discussed at the beginning of the page: first one degree, then a half, then a quarter, then an eighth. He says that so long as some assent to the premises lasts, some assent to the conclusion lasts too; he refers the fuller explanation to his _Analyticorum_ lectures.
 
-The contrast also limits the often-cited definition of proportionality as _proportionum similitudo_: Dolz says that this describes **geometrical** proportionality, not proportionality in general. The printed $2,3,5,7,9$ has excesses $1,2,2,2$; emending its first term to $1$ yields $1,3,5,7,9$, with constant excess $2$, as in the following $2,4,6,8$. Changing the second term to $4$ would also regularize the progression, but would duplicate that following example. The transcription adopts the minimal emendation and records the printed reading in its apparatus.
+The contrast also limits the often-cited definition of proportionality as _proportionum similitudo_: Dolz says that this describes **geometrical** proportionality, not proportionality in general. Page 40b confirms it: a proportionality does not require all its proportions to be similar (§19). The printed $2,3,5,7,9$ has excesses $1,2,2,2$; emending its first term to $1$ yields $1,3,5,7,9$, with constant excess $2$, as in the following $2,4,6,8$. Changing the second term to $4$ would also regularize the progression, but would duplicate that following example. The transcription adopts the minimal emendation and records the printed reading in its apparatus.
 
 ### Other writings attested by the _Cunabula_
 
@@ -988,7 +988,7 @@ Lax first fixes the terms: "antecedent" here means what is antecedent and in no 
 | direct | $a:b=d:e$ and $b:c=e:f$ | $a:c=d:f$ |
 | indirect | $a:b=e:f$ and $b:c=d:e$ | $a:c=d:f$ |
 
-Both are valid for positive terms, because each extreme ratio is the product of its links: $a/c=(a/b)(b/c)$. In the direct form the links of the second chain match in the same order, $(d/e)(e/f)$; in the indirect form in reverse order, $(e/f)(d/e)$. Since the order of factors does not change a product, both give the same conclusion. This is why Dolz said on 36b that the two differ only in the arrangement of the terms, _idem termini tamen utrobique inferuntur_. They correspond to Euclid's _ex aequali_ and "perturbed" proportion (_Elements_ V, defs. 17–18, props. 22–23).
+Both are valid for positive terms, because each extreme ratio is the product of its links: $a/c=(a/b)(b/c)$. In the direct form the links of the second chain match in the same order, $(d/e)(e/f)$; in the indirect form in reverse order, $(e/f)(d/e)$. Since the order of factors does not change a product, both give the same conclusion. This is why Dolz said on 36b that the two differ only in the arrangement of the terms, _idem termini tamen utrobique inferuntur_. They correspond to Euclid's _ex aequali_ and "perturbed" proportion (_Elements_ V, defs. 17–18, props. 22–23). On 40a Dolz himself calls this composition of links the **addition** of proportions (§19).
 
 Only chains with **unequal** links show the difference (our examples):
 
@@ -1260,7 +1260,305 @@ Every solution saves the division by restricting its domain rather than adding s
 
 ---
 
-## 19. Summary of the doctrine
+## 19. Page 40: increasing, diminishing, and adding proportions; harmonic proportionality
+
+### How a proportion is increased
+
+| Mode | Greater term | Lesser term | Dolz's wording on $8:4$ | Our numbers | New value |
+| --- | --- | --- | --- | --- | --- |
+| 1 | increases | unchanged | _si 8 crescat_ | $12:4$ | $3$ |
+| 2 | unchanged | decreases | _si 4 diminuatur_ | $8:2$ | $4$ |
+| 3 | increases | decreases | _si 8 augetur et 4 diminuatur_ | $10:2$ | $5$ |
+| 4 | increases, proportionally more | increases | _sed magis 8 quam 4_ | $12:5$ | $2.4$ |
+| 5 | decreases | decreases, proportionally more | _sed magis 4 quam 8_ | $6:2$ | $3$ |
+
+Every new value is greater than the original $8:4=2$.
+
+Page 40 opens a _dubium_: what it is to increase (_augere_) a proportion and to diminish it, and how each is done. The first proposition:
+
+> Proportio maioris inaequalitatis augetur quomodo proportio maioris inaequalitatis sibi additur.
+
+That is: **"A proportion of greater inequality is increased whenever a proportion of greater inequality is added to it."** The five modes in the table are the ways this can happen. Dolz uses $8:4$ and leaves the numbers to the reader (_exempla horum facilia sunt_); the numbers in the fifth column are ours.
+
+### How a proportion is diminished
+
+| Mode | Greater term | Lesser term | Our numbers on $8:4$ | New value |
+| --- | --- | --- | --- | --- |
+| 1 | decreases | unchanged | $6:4$ | $1.5$ |
+| 2 | unchanged | increases | $8:5$ | $1.6$ |
+| 3 | decreases | increases | $6:5$ | $1.2$ |
+| 4 | increases | increases, proportionally more | $10:6$ | $1.\overline{6}$ |
+| 5 | decreases, proportionally more | decreases | $4:3$ | $1.\overline{3}$ |
+
+The second proposition mirrors the first mode for mode. Every new value is less than $2$.
+
+### "More" means proportionally more
+
+| Change from $8:4$ | Absolute changes | Relative changes | New ratio | Increased? |
+| --- | --- | --- | --- | --- |
+| $10:5$ | $+2$, $+1$ | $+25\%$, $+25\%$ | $2$ | no |
+| $12:6$ | $+4$, $+2$ | $+50\%$, $+50\%$ | $2$ | no |
+| $12:5$ | $+4$, $+1$ | $+50\%$, $+25\%$ | $2.4$ | yes |
+
+In the rows $10:5$ and $12:6$ the $8$ grows by more than the $4$ ($+2$ against $+1$; $+4$ against $+2$), yet the ratio stays double, because each term grows by the same fraction of itself ($+25\%$ each; $+50\%$ each). Only in $12:5$, where the $8$ grows by a larger fraction of itself than the $4$, does the ratio increase. So the first proposition's _magis 8 quam 4_ cannot mean an absolute amount. The second proposition says _proportionabiliter_ explicitly, and the first must be read the same way. For positive terms $A>B$:
+
+$$
+\frac{A+x}{B+y}>\frac AB \iff \frac xA>\frac yB,
+\qquad
+\frac{A-x}{B-y}>\frac AB \iff \frac yB>\frac xA .
+$$
+
+In mode 5 the absolute reading happens to work: if the lesser term loses more than the greater ($y>x$), then $y/B>x/A$ follows, because $B<A$. In mode 4 it does not, as the table shows.
+
+### Why it matters: power, resistance, and velocity
+
+| Change of $F:R$ | Excess $F-R$ (position I) | Ratio $F/R$ (Bradwardine) |
+| --- | --- | --- |
+| $8:4\to10:5$ | $4\to5$: speed increases | $2\to2$: speed unchanged |
+| $8:4\to12:5$ | $4\to7$: speed increases | $2\to2.4$: speed increases |
+| $8:4\to16:11$ | $4\to5$: speed increases | $2\to1.\overline{45}$: speed decreases |
+
+The positions are those of [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-and-Galileo.html), section 1.1; the rows are our examples.
+
+Dolz says that this will serve in philosophy when the power (_potentia_) increases with the resistance unchanged, or the resistance with the power unchanged, and when both increase or both decrease, one more than the other _proportionaliter_. From these rules the student will know whether the proportion is made greater or less, _et an velocitas augebitur motus vel diminuetur_.
+
+This is the first place where Dolz ties the direction of change in velocity to the direction of change in the proportion of power to resistance (§8, §14). It is a **qualitative** rule: it says whether velocity increases, not by how much. The quantitative rule announced on page 29, that velocity follows the _proportion of proportions_, is still to come.
+
+The insistence on _proportionabiliter_ puts the reasoning on the side of the ratio, not of the excess. On the excess reading, $10:5$ would move faster than $8:4$; on the ratio reading they move equally fast, as with Alvarus's $8:4$ and $4:2$ (§14).
+
+For lesser inequality Dolz says only that the door is now open (_habes iam ostium patens_). He does not say which direction counts as an increase.
+
+### Adding and subtracting proportions
+
+| Operation | Dolz's description | Chain of terms | Result | Arithmetic |
+| --- | --- | --- | --- | --- |
+| addition | _sesquialtera et sesquitertia faciunt duplam_ | $4,3,2$: links $4:3$ and $3:2$ | $4:2$, double | $\tfrac43\cdot\tfrac32=2$ |
+| subtraction | remove the _sesquialtera_ from its _continuatio_ with the _sesquitertia_ | from $4:2$ remove $3:2$ | $4:3$, sesquitertian | $2\div\tfrac32=\tfrac43$ |
+
+Dolz defines subtraction: to subtract a proportion from a proportion is to _discontinuare_ it from the proportion with which it made up the whole. Two proportions are added by **continuing** them through a common middle term: $4:3$ and $3:2$ share the $3$, and together give the extremes $4:2$. Subtraction breaks that continuation. In modern terms, adding proportions is **multiplying** ratios, and subtracting them is **dividing**.
+
+**Why the result is $4:3$ and not $\tfrac12$.** A proportion here is a **step** from one term to another, not a number from which another number is taken away.
+
+| Link | From | To | Proportion | Species |
+| --- | --- | --- | --- | --- |
+| first link | $4$ | $3$ | $4:3$ | _sesquitertia_ |
+| second link | $3$ | $2$ | $3:2$ | _sesquialtera_ |
+| whole | $4$ | $2$ | $4:2$ | _dupla_ |
+
+The whole step from $4$ to $2$ passes through $3$, like a road from one town to another through a third. Adding joins the two links into the whole road. Subtracting the _sesquialtera_ removes the link from $3$ to $2$. What remains is the link from $4$ to $3$, the _sesquitertia_.
+
+Subtracting the values instead, $2-\tfrac32=\tfrac12$, gives a wrong answer:
+
+| Test | Subtracting values: $2-\tfrac32$ | Dolz's subtraction: $2\div\tfrac32$ |
+| --- | --- | --- |
+| result | $\tfrac12$, that is $1:2$, _subdupla_ | $\tfrac43$, that is $4:3$, _sesquitertia_ |
+| is it a link of the chain $4,3,2$? | no | yes |
+| what remains when part of a greater inequality is removed | a lesser inequality, below equality | a smaller greater inequality |
+| music: octave minus fifth | $1:2$, an octave going **down** | a fourth, as on any instrument |
+| check by adding back | — | $\tfrac43\cdot\tfrac32=2$, the whole |
+
+The music row makes the point concrete. On a keyboard, C up to G is a fifth ($3:2$), and G up to the next C is a fourth ($4:3$); together they make the octave ($2:1$). Take the fifth away from the octave and a fourth is left. Subtracting values would turn a piece of an ascending octave into a whole descending octave, which is absurd.
+
+This is a structure already met twice:
+
+| Place | Chain | Links | Extremes |
+| --- | --- | --- | --- |
+| continuous proportionality, 34b (§13) | $8,4,2$ | $2$ and $2$, similar | $8:2=4$ |
+| _aequa_, 36b–37a (§16) | $a,b,c$ | $a/b$ and $b/c$ | $a/c=(a/b)(b/c)$ |
+| addition, 40a | $4,3,2$ | $\tfrac43$ and $\tfrac32$, dissimilar | $4:2=2$ |
+
+In continuous proportionality the links must be similar; in addition they need not be. Adding _dupla_ to _dupla_ gives _quadrupla_: $8:4$ and $4:2$ give $8:2$. This is the operation Bradwardine's rule needs: to double the speed produced by $2:1$, the ratio must become $4:1$, the double added to itself (Calculatores page, section 1.1). Our observation: on Bradwardine's logarithmic scale, adding proportions becomes ordinary addition of speeds, which is why the word "add" fits.
+
+**Two meanings of "composite" must not be confused.**
+
+| Expression | Where | Operation | Value |
+| --- | --- | --- | --- |
+| _dupla sesquialtera_ | species of proportion, 32a (§11) | twice plus a half: $2+\tfrac12$ | $5:2$ |
+| _dupla_ added to _sesquialtera_ | addition of proportions, 40a | compounding: $2\cdot\tfrac32$ | $3:1$, _tripla_ |
+
+The name of a composite species adds an integer count and a fraction; adding two proportions multiplies them.
+
+The second alternative in Dolz's definition, _vel illam a qua subtrahi debet annihilari_, is obscure. One possible reading: subtracting a proportion from an equal one annihilates it and leaves equality, _sicut in quantitatibus_, as subtracting a quantity from an equal quantity leaves nothing. This is our guess (§21).
+
+The _continuatio_ of two dissimilar proportions through a shared term may bear on the _communicatio proportionum_ promised on 34b (§13), but Dolz does not connect them.
+
+### Harmonic proportionality
+
+| Kind | What is preserved | Example | Check |
+| --- | --- | --- | --- |
+| geometrical | the ratio | $8,4,2$ | $8:4=4:2$ |
+| arithmetical | the excess | $6,4,2$ | $6-4=4-2$ |
+| harmonic | the ratio of the extremes equals the ratio of the two excesses | $6,4,3$ | $6:3=2=(6-4):(4-3)$ |
+
+Beside the two general kinds, geometrical and arithmetical (§12–§13), Dolz adds a third from Nicomachus, the harmonic, _quae scholasticis satis confert_. It keeps neither equal excesses, as the arithmetical does, nor equal ratios, as the geometrical does. Instead the greatest term is to the least as the excess of the greatest over the middle is to the excess of the middle over the least:
+
+$$
+a:c=(a-b):(b-c).
+$$
+
+Dolz's example is $6,4,3$: $6:3$ is double, and the excesses $6-4=2$ and $4-3=1$ are also in double ratio. Step by step:
+
+| Role | Term | Computation | Result |
+| --- | --- | --- | --- |
+| greatest $a$ | $6$ | | |
+| middle $b$ | $4$ | | |
+| least $c$ | $3$ | | |
+| extremes | | $a:c=6:3$ | $2$ |
+| excesses | | $(a-b):(b-c)=2:1$ | $2$ |
+
+The two results are equal, so the three terms are in harmonic proportionality. The print has _qua 6 excedit 3_; the next clause, _prima differentia est binarius_, requires $4$, which the transcription adopts.
+
+Two equivalent tests, not in Dolz:
+
+| Test | Applied to $6,4,3$ |
+| --- | --- |
+| the middle is $b=\dfrac{2ac}{a+c}$ | $\dfrac{2\cdot6\cdot3}{6+3}=4$ |
+| the reciprocals are in arithmetical proportionality | $\tfrac16,\tfrac14,\tfrac13=\tfrac2{12},\tfrac3{12},\tfrac4{12}$ |
+
+### The musical intervals
+
+| Name | Species | Ratio | Dolz's example | Modern name |
+| --- | --- | --- | --- | --- |
+| _tonus_ | _sesquioctava_ | $9:8$ | $16$ and $18$ | whole tone |
+| _diatessaron_ (fourth) | _sesquitertia_ | $4:3$ | $8$ and $6$ | fourth |
+| _diapente_ (fifth) | _sesquialtera_ | $3:2$ | $6$ and $4$ | fifth |
+| _diapason_ (octave) | _dupla_ | $2:1$ | $8$ and $4$ | octave |
+| _bis diapason_ (two octaves, composite) | _quadrupla_ | $4:1$ | — | two octaves |
+
+Dolz says that harmonic proportionality _potest esse multiplex, scilicet tonus, diatessaron, diapente et diapason_. Taken literally this confuses the two levels of §12: these are single proportions (intervals), not kinds of three-term proportionality. The sentence can only mean that the ratios found in harmonic proportionalities are musical intervals. In $6,4,3$ itself:
+
+| Pair | Ratio | Interval |
+| --- | --- | --- |
+| $6:4$ | $3:2$ | diapente (fifth) |
+| $4:3$ | $4:3$ | diatessaron (fourth) |
+| $6:3$ | $2:1$ | diapason (octave) |
+
+The three are linked by the addition of 40a. Diapente (fifth) added to diatessaron (fourth) is diapason (octave), $\tfrac32\cdot\tfrac43=2$: Dolz's own example _sesquialtera et sesquitertia faciunt duplam_. Subtraction gives the tone: diapente (fifth) minus diatessaron (fourth) is $\tfrac32\div\tfrac43=\tfrac98$. Dolz draws neither connection.
+
+He calls the tone a _musica consonantia_ and counts it among the _consonantiae simplices_. In Boethius's _De institutione musica_ the tone is not a consonance; it is the difference between the diapente (fifth) and the diatessaron (fourth), the calculation just given. Either Dolz's wording is loose here or he follows another source. (The Boethius reference is from memory and has not yet been checked against the text.)
+
+### Is the _tonus_ the modern whole tone?
+
+| Interval | Ratio | Size in cents, ratio as given | Size in cents, modern piano | Difference |
+| --- | --- | --- | --- | --- |
+| _tonus_ (whole tone, C–D) | $9:8$ | $203.9$ | $200$ | $+3.9$ |
+| _limma_ (smaller semitone, E–F) | $256:243$ | $90.2$ | $100$ | $-9.8$ |
+| _apotome_ (larger semitone, B♭–B♮) | $2187:2048$ | $113.7$ | $100$ | $+13.7$ |
+| _diatessaron_ (fourth, C–F) | $4:3$ | $498.0$ | $500$ | $-2.0$ |
+| _diapente_ (fifth, C–G) | $3:2$ | $702.0$ | $700$ | $+2.0$ |
+| _diapason_ (octave, C–C) | $2:1$ | $1200$ | $1200$ | $0$ |
+| six tones | $(9:8)^6$ | $1223.5$ | $1200$ | $+23.5$ |
+
+Cents are a modern unit: $1200$ cents make an octave, and $\text{cents}(r)=1200\log_2 r$. The ratios in the table are those of the Pythagorean system that Boethius transmits.
+
+The _tonus_ is the whole tone, the step from C to D: in modern terms a **major second**, not a minor second. It is slightly larger than the modern piano's whole tone, $203.9$ against $200$ cents.
+
+Nor is the octave six tones in this system. Six tones of $9:8$ overshoot the octave by $23.5$ cents, the Pythagorean comma ($531441:524288$). That is about a quarter of a modern semitone (minor second, $100$ cents), or about an eighth of a modern whole tone (major second, $200$ cents). The octave is five tones and two smaller semitones, the _limma_ $256:243$:
+
+| Interval | Made of | Check in cents |
+| --- | --- | --- |
+| fourth $4:3$ | 2 tones + 1 limma | $2(203.9)+90.2=498.0$ |
+| fifth $3:2$ | 3 tones + 1 limma | $3(203.9)+90.2=702.0$ |
+| octave $2:1$ | 5 tones + 2 limmas | $5(203.9)+2(90.2)=1200$ |
+
+The limma, $90.2$ cents, is less than half a tone ($102.0$ cents), so in this system the semitone is not half of the tone. The modern piano uses equal temperament: twelve equal semitones of $100$ cents, so six whole tones make exactly an octave. The cost is that its fifths and fourths are no longer exactly $3:2$ and $4:3$.
+
+| Term | Greek origin | Latin name in Boethius | Ratio | Cents | Example |
+| --- | --- | --- | --- | --- | --- |
+| _tonus_ | τόνος | _tonus_ | $9:8$ | $203.9$ | C–D, A–B♮ |
+| _limma_ | λεῖμμα, "remnant" | _semitonium minus_ (smaller semitone) | $256:243$ | $90.2$ | E–F, B♮–C, A–B♭ |
+| _apotome_ | ἀποτομή, "part cut off" | _semitonium maius_ (larger semitone) | $2187:2048$ | $113.7$ | B♭–B♮ |
+| _comma_ | κόμμα, "small piece" | _comma_ | $531441:524288$ | $23.5$ | apotome minus limma |
+
+Dolz uses none of these terms; he names only the tone and the consonances. They belong to the same Pythagorean system, though, and his readers would have met them. _Limma_ and _apotome_ are Greek words that reached the medieval university through Boethius's _De institutione musica_, the standard music text of the _quadrivium_. Boethius also gives them Latin names: the limma is the _semitonium minus_, the apotome the _semitonium maius_.
+
+In medieval usage both are semitones. "Smaller semitone" in the table above translates _semitonium minus_: the smaller of the two semitones, not "smaller than a semitone". The limma is smaller only when measured against something else:
+
+| Compared with | Size in cents | Limma in cents | Difference |
+| --- | --- | --- | --- |
+| the apotome, the other semitone | $113.7$ | $90.2$ | $-23.5$ |
+| half of the Pythagorean tone | $102.0$ | $90.2$ | $-11.7$ |
+| the modern piano semitone | $100$ | $90.2$ | $-9.8$ |
+
+Why two semitones? The Pythagorean system admits only ratios of whole numbers, and it builds everything from the octave $2:1$, the fifth $3:2$ and the fourth $4:3$. Each smaller interval is what remains when one interval is subtracted from another:
+
+| Step | Operation | Ratio | Cents |
+| --- | --- | --- | --- |
+| 1. tone | fifth minus fourth | $\tfrac32\div\tfrac43=\tfrac98$ | $702.0-498.0=203.9$ |
+| 2. limma | fourth minus two tones | $\tfrac43\div\tfrac{81}{64}=\tfrac{256}{243}$ | $498.0-2(203.9)=90.2$ |
+| 3. apotome | tone minus limma | $\tfrac98\div\tfrac{256}{243}=\tfrac{2187}{2048}$ | $203.9-90.2=113.7$ |
+| 4. comma | apotome minus limma | $\tfrac{2187}{2048}\div\tfrac{256}{243}=\tfrac{531441}{524288}$ | $113.7-90.2=23.5$ |
+
+Step 1 is the subtraction already met above: the fifth minus the fourth is the tone.
+
+Step 2 explains the name _limma_. Fill the fourth C–F with whole tones: C–D, D–E. What is left over, E–F, is the remainder, λεῖμμα. Nobody chose its size; it is whatever the fourth leaves after two tones.
+
+Why not simply halve the tone? In Dolz's terms, halving $9:8$ means finding a middle term $b$ in a continuous geometrical proportionality $8:b=b:9$. Then $b\cdot b=72$, and no whole number squared gives $72$ ($8\cdot8=64$, $9\cdot9=81$). Dolz's own example of the tone, $16$ and $18$, fails the same way: $16:b=b:18$ needs $b\cdot b=288$, and $16\cdot16=256$, $17\cdot17=289$. No multiple of $8$ and $9$ helps, so the tone cannot be split into two equal ratios of whole numbers. Boethius reports a proof, attributed to Archytas, that no superparticular ratio ($n+1:n$, such as $9:8$) can be divided into two equal parts. (The Boethius reference, _De institutione musica_ III.11, is from memory and has not yet been checked against the text.)
+
+So the tone is divided unequally. One part, the limma, is already fixed by step 2. Cut it off the tone, and the part that remains is the _apotome_ (step 3). Every tone therefore holds one smaller and one larger semitone, $90.2+113.7=203.9$ cents, and the gap between them is the Pythagorean comma (step 4).
+
+The medieval gamut gives a concrete case. It has two B's: B♭ (_b molle_, round b) and B♮ (_b durum_, square b). From A:
+
+| Step from A | Interval | Cents |
+| --- | --- | --- |
+| A–B♭ | limma (as E–F: F–B♭ is a fourth, F–G–A two tones, A–B♭ the remainder) | $90.2$ |
+| A–B♮ | tone | $203.9$ |
+| B♭–B♮ | tone minus limma = apotome | $113.7$ |
+
+On the modern piano A–B♭ and B♭–B are both $100$ cents. In the Pythagorean system they are $90.2$ and $113.7$.
+
+The comma of step 4 is the same comma by which six tones overshoot the octave, met above:
+
+| | Made of | Cents |
+| --- | --- | --- |
+| octave | 5 tones + limma + limma | $1200$ |
+| six tones | 5 tones + limma + apotome | $1223.5$ |
+| difference | apotome minus limma = comma | $23.5$ |
+
+Why call the limma a semitone if it is not half a tone? _Semitonium_ should be read as "incomplete tone", an interval that falls short of a whole tone, not as "exact half of a tone". Boethius makes this point about the semitones. (From memory; not yet checked against the text.) Equal temperament removes the distinction: the limma and the apotome merge into one semitone of $100$ cents, and the comma disappears.
+
+Cents also show the addition of 40a at work: compounding proportions **adds** cents. Fifth plus fourth is $701.96+498.04=1200$, the octave; fifth minus fourth is $701.96-498.04=203.91$, the tone. This is the logarithmic scale on which, as noted above, adding proportions becomes ordinary addition.
+
+Composite consonances are made from the simple ones, such as _bis diapason_, two octaves, $2\cdot2=4:1$. Dolz remarks that two octaves are rarely found in a human voice, _nisi rediret quod de quo loquitur Aristoteles septimo Politicorum capite quarto_. The phrase is corrupt. In _Politics_ VII.4 (1326b) Aristotle asks who could be herald to an excessively large multitude unless he had the voice of Stentor. The sense may be "unless Stentor, of whom Aristotle speaks, came back". This is a conjecture (§21). The passage itself is confirmed: in _Politics_ VII.4, beside Bekker page 1326b, Aristotle asks who could command an unwieldy multitude, "or who could be their herald but a Stentor?" (Ellis's translation, Project Gutenberg). Dolz's _septimo Politicorum capite quarto_ matches this chapter.
+
+Dolz justifies the digression by pedagogy: he adds these terms _non quia multum pertinentia philosophiae, sed ad minus ut calleas terminos_, not because they matter much to philosophy, but at least so that the student knows the terms. This matches the program of the introduction: only as much mathematics as philosophy requires, plus the vocabulary needed to read other authors.
+
+### The _perfectissima_ proportionality: $6,8,9,12$
+
+| What is found | Terms | Check |
+| --- | --- | --- |
+| arithmetical | $12,9,6$ | excesses $12-9=3$ and $9-6=3$ |
+| harmonic | $12,8,6$ | $12:6=2$ and $(12-8):(8-6)=4:2=2$ |
+| geometrical, discontinuous | $6:8=9:12$ | both $3:4$ |
+| diapason (octave) | $12:6$ | $2:1$ |
+| diapente (fifth) | $12:8$ and $9:6$ | $3:2$ |
+| diatessaron (fourth) | $12:9$ and $8:6$ | $4:3$ |
+| tone | $9:8$ | $9:8$ |
+
+Dolz writes the four terms from least to greatest, $6,8,9,12$. The order of writing does not matter. What matters is which term is the greatest, which the middle, and which the least. The arithmetical and harmonic parts, read from the greatest down:
+
+| | Arithmetical $12,9,6$ | Harmonic $12,8,6$ |
+| --- | --- | --- |
+| greatest $a$ | $12$ | $12$ |
+| middle $b$ | $9$ | $8$ |
+| least $c$ | $6$ | $6$ |
+| $a-b$ | $3$ | $4$ |
+| $b-c$ | $3$ | $2$ |
+| test | equal excesses: $a-b=b-c$, $3=3$ | ratio of excesses = ratio of extremes: $4:2=12:6$, both $2$ |
+
+The harmonic test is the one already applied to $6,4,3$. Any three numbers in the right relation pass it, however they are listed.
+
+Dolz mentions, and declines to treat (_de hac supersedeo_), a proportionality "called most perfect, because all the others are found in it, and also the musical consonances", in four terms and three intervals: $6,8,9,12$. The first table of this subsection verifies the claim. Its geometrical part is discontinuous with four terms, the minimum Dolz required on 34b (§13). The middle terms $9$ and $8$ are the arithmetical and harmonic means of $6$ and $12$, and their ratio is the tone. This is the proportion Nicomachus calls most perfect (_Introduction to Arithmetic_ II.29) and Boethius the _maxima et perfecta symphonia_ (_De institutione arithmetica_ II.54). Both references are cited from memory and have not yet been checked against the texts.
+
+### Proportionality without similar proportions
+
+Dolz asks whether a proportionality requires all the proportions found in it to be similar, and answers no: arithmetical proportionality shows it. Harmonic proportionality shows it too, since in $6,4,3$ the ratios $3:2$ and $4:3$ differ. This confirms 34a (§13), where Dolz restricted the definition _proportionum similitudo_ to geometrical proportionality.
+
+The next question, whether a proportionality may be called a proportion, continues on 41a. It will test the distinction of levels set out in §12.
+
+---
+
+## 20. Summary of the doctrine
 
 1. _Aliquot part_ is a **two-place relation** between a part and a whole, requiring exact measure and at least two repetitions.
 2. Dropping the second term of the relation is what generates every difficulty in preamble 8.
@@ -1288,7 +1586,7 @@ Every solution saves the division by restricting its domain rather than adding s
 24. Page 35's _coniuncta_ and _disiuncta_ add and remove the consequent from corresponding antecedents; the two _eversa_ transformations do the same with the antecedent as denominator. All require genuinely equal starting ratios.
 25. Similarity of proportions depends on their denomination (the same exact ratio), not on similarity of their terms or equality of absolute differences. A proportionality functioning as a mode of argument must be a valid inference; equality of two initial ratios does not license arbitrary cross-comparisons.
 26. Page 36 names reversal of both ratios _conversa_ and the valid cross-comparison of antecedents and consequents _permutata_; these inferences need not preserve the original denomination.
-27. Dolz applies these rules to physical comparisons of powers, resistances, and speeds, but does not give a quantitative law connecting them here.
+27. Dolz applies these rules to physical comparisons of powers, resistances, and speeds, but gives no quantitative law connecting them on page 36. Page 40 adds only a qualitative link: velocity increases or decreases as the proportion of power to resistance is increased or diminished.
 28. The names come from Euclid V. Alvarus (II.1), Dullaert, and Argyropoulos's Aristotle use _coniuncta/disiuncta_ (or _seiuncta_) for what Dolz calls _continua/discontinua_; Lax and Alvarus II.3 agree with Dolz. Identify each operation by its definition, not its name.
 29. _Aequa_ infers the ratio of the extremes from chains of equal links. Lax's direct and indirect forms differ only in the order in which the links correspond; both are valid, and Lax's criterion cannot tell them apart when all the links are equal.
 30. In the modes of argument only the ratios joined by _talis… qualis_ must be similar, because the premise must be true; the conclusion may have a different denomination.
@@ -1305,10 +1603,18 @@ Every solution saves the division by restricting its domain rather than adding s
 41. The fourth objection is a fallacy of scope: the whole has some proportion to each part, but no one proportion to every part.
 42. Where there is excess without proportion, the proper term is _excedit improportionabiliter_, not _excessu indivisibili_. The whole exceeds its parts taken together in this way, and one species exceeds another in perfection _in infinitum et improportionabiliter_.
 43. Every solution saves the division by restricting it to single, determinate, finite terms rather than by adding species.
+44. A proportion of greater inequality is increased when a proportion of greater inequality is added to it, in five ways: by changing either term or both. It is diminished in the five mirror-image ways.
+45. When both terms change, "more" means proportionally more: $8:4$ to $10:5$ changes both terms but not the proportion.
+46. The direction of change in velocity follows the direction of change in the proportion of power to resistance. This is a qualitative rule; the quantitative law is still to come.
+47. Proportions are added by continuing them through a common term and subtracted by breaking that continuation: _sesquialtera_ and _sesquitertia_ make _dupla_. In modern terms this multiplies and divides ratios; it is not the additive naming of composite species such as _dupla sesquialtera_.
+48. Harmonic proportionality, taken from Nicomachus, makes the ratio of the extremes equal to the ratio of the two excesses, as in $6,4,3$.
+49. The simple musical intervals are the tone $9:8$, diatessaron (fourth) $4:3$, diapente (fifth) $3:2$, and diapason (octave) $2:1$. Dolz gives them only so that students know the terms.
+50. The most perfect proportionality $6,8,9,12$ contains the arithmetical, geometrical, and harmonic kinds and all the simple intervals.
+51. A proportionality does not require all its proportions to be similar; arithmetical proportionality shows this.
 
 ---
 
-## 20. Textual notes
+## 21. Textual notes
 
 Proposed emendations arising from the analysis. Those marked _insecure_ are recorded but not recommended for adoption.
 
@@ -1347,3 +1653,9 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 39a | non tamen **ꝓprio** loquendo | **proprie** (adopted) | Contrasted with _improprie_ in the same sentence and throughout the passage |
 | 39a | terminatum in **b** puncto | possibly **d** _(insecure)_ | The point has the same letter as the body $b$; the first body is bounded at point $c$ |
 | 39a | haberet proportionem **dupliciter** | probably **duplam** _(insecure)_ | The argument is that one infinite would stand to the other in a double proportion |
+| 40a | quando uterque augetur, sed **magis** maior quam minor | _(left as printed)_ | Must mean proportionally more, as the second proposition's _proportionabiliter_ states; read absolutely it is false, since $8:4\to10:5$ leaves the ratio double |
+| 40a | vel illam a qua subtrahi debet **annihilari** | _(obscure; left as printed)_ | Possibly: subtracting a proportion from an equal one leaves equality, _sicut in quantitatibus_. The syntax is unclear |
+| 40b | differentia qua 6 excedit **3** | **4** (adopted) | _Prima differentia est binarius_ requires $6-4=2$; $6-3$ would be $3$ |
+| 40b | harmonica potest esse multiplex, scilicet **tonus, diatessaron, diapente et diapason** | _(left as printed)_ | These are intervals, not kinds of proportionality; read as the ratios found in harmonic proportionalities |
+| 40b | Tonus… **musica consonantia** | _(left as printed)_ | Boethius does not count the tone as a consonance; it is the difference between diapente (fifth) and diatessaron (fourth) |
+| 40b | nisi rediret **quod de quo** loquitur Aristoteles | possibly **Stentor, de quo** _(insecure)_ | _Politics_ VII.4 (1326b): no one could be herald to a vast multitude without the voice of Stentor. Passage checked (Ellis translation); the emendation remains a conjecture |

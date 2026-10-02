@@ -2412,6 +2412,7 @@ resistiva
 resistivae
 resistivam
 resistivas
+resolutiva
 resolutivus
 resolutori
 resolutorie

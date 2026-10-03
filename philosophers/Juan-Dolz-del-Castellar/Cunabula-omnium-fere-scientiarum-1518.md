@@ -1071,6 +1071,8 @@ Hoc addo propter maioritatem vel minoritatem quam superius posuimus inter numero
 
 Ad sextum concedo quod homo est perfectior asino, et nego consequentiam: "ergo in aliqua proportione", loquendo de proportionibus de quibus communiter loquimur. Quare hoc dixerim patet ex dictis. Sed dicitur quod homo in infinitum est perfectior asino, et improportionabiliter, ita de aliis speciebus. Nec propterea sequitur quod homo sit infinite perfectus. De hoc tamen alibi diximus. /40a/
 
+## De augmento et decremento proportionum 
+
 ### Dubium
 
 Ibi incidit dubium quid est augere proportionem et quomodo augetur; similiter quid diminuere proportionem et quomodo diminuatur.
@@ -1121,6 +1123,51 @@ Etiam posset ibi una proportionalitas quae vocatur perfectissima, quia omnes ali
 
 Posset ibi quaeri utrum ad proportionalitatem requiratur omnium proportionum similitudo in tali proportionalitate repertarum. Dicitur quod non, patet scilicet proportionalitate arithmetica. Posset ultra quaeri an proportionalitas /41a/ veniat dicenda proportio.
 
+## De proportionalitatibus
+
+Dico quod sic: proportionalitas et proportio habent se ut superius et inferius. Omnis proportionalitas est proportio et non e converso, ut assentias probo ratione. Prima: proportionalitas est quantitatum habitudo; ergo est proportio. Antecedens patet: proportionalitas est proportionum habitudo, proportiones sunt quantitas, quia quantitas discreta, quia numerus, igitur.
+
+Et nota quod etiam proportionalitates positae geometrice et aliae possunt reperiri inter excessus proportionum et proportiones proportionum, sicut inter excessus numerorum et proportiones numerorum, et omnino eodem modo loqui. Multa alia obticeo, quia nostro proposito impertinentia admodum, quae in geometria et arithmetica videri debent.
+
+### Aristoteles
+
+Proportionalitatem Aristoteles vocat etiam rationum comparationem, patet in quinto *Ethicorum* in plerisque locis.
+
+His suppositis satisfaciendum est quaestionibus motis seriatim.
+
+### Ad primam quaestionem
+
+Ad primam quando quaeritur an numeri ad unitatem sit proportio, dico quod sic: vide mathematicos de hoc frequenter explicantes. Et si dicas unitas non est magna, transeat secundum eorum imaginationem. Non video qualiter possit dici magna; secus est de numero, ut patet ex praeambulis. Nisi dicatur: "ideo potest dici magna improprie", quia magnum aliquotiens sumpte reddit numerum, inquam magnum modo tacto in praeambulis, et quod propterea erit proportio binarii ad unitatem. Nec erit inconveniens magni ad non magnum proportionem esse, nec propterea erit simile de angelo, secus de eius unitate.
+
+### Ad secundam quaestionem
+
+Ad secundam qua quaeritur an quantitatis discretae ad continuam sit proportio, dico in ratione continuationis aut in ratione discretionis non est, cum nulla illarum rationum utrique tali convenit. Modo ex dictis proportio debetur propter aliquid commune. In alia vero ratione quae possit esse utrique communis bene posset esse proportio. Et dico notanter 'ut tali' propter Nominales concedentes continuum esse discretum. Secundum eos ista est vera "Continuitatis continuae ad discretam est proportio", ut bipedalis ad pedale; primum est quantitas continua, secundum discreta.
+
+### Ad tertiam quaestionem
+
+Ad tertiam quaestionem dico quod quaecumque res sint diversorum generum, si tamen in aliquo utrique communi comparentur in quo possit maioritas aut minoritas sive proprie sive improprie reperiri, ut patet ex declaratis. Et si dicas hoc repugnat philosophis, hoc patet et primo ipsi Calculatori /41b/ duobus in locis.
+
+### Calculator
+
+Primo in tractatu *De Intensione et Remissione*, ubi fatetur quod nullus gradus est aeque intensus sive remissus nec magis nec minus, et per consequens intensio et remissio non comparabuntur, et ex consequenti nec erit inter ea proportio. Idem opinatur ipse Suisset de raritate et densitate. Idem reperies apud Dullaert tertio *Physicorum* in hac opinione quam recitat. Idem secundum Venetum in libris *De Caelo et Mundo* tangit angulum rectum non esse comparabilem angulo contingentiae, quia sunt alterius rationis, et apud ipsum talia reperiens plerisque aliis locis.
+
+Dico ad haec quamquam illi veraces sint et in philosophia autentici, et illa eorum dicta vera non destruunt nostra dicta, nam postquam non valent in ipso comparari, iam definitio nostra non eis convenit, quia ad proportionem opus est comparatione in aliquo utrique communi. Si igitur non sit comparatio, concedo quod non erit proportio, et sic nihil contra nos. Ex quo infertur quod ad proportionem inter aliqua non sufficit aliquid utrique commune parvum vel magnum, sed cum hoc requiritur comparatio illorum in illo. Nolo tamen propterea dicere quod in alia ratione in qua posset fieri comparatio non esse inter illa proportionem, nam anguli inquantum quantitates possent comparari et proportionem sumi, maxime nominalizando.
+
+Et si dicas inter gradum ut 4 et gradum ut 2 est proportio, sed gradus ut 4 est intensus et gradus ut duo remissus, ergo inter intensionem et remissionem est proportio, dico distinguendo: vel in ratione intensionis vel remissionis, et sic nego; vel in ratione continentiae gradus, et sic concedo. Non propterea sequitur quod intensionis ad intensionem et remissionis ad remissionem sit proportio, et ista latius in philosophia declarantur.
+
+### Ad quartam quaestionem
+
+Ad quartam quaestionem dico per propositiones.
+
+Prima: inter lineam et superficiem secundum Nominales omnimodo est proportio, cum utraque sit tridimensa.
+
+Secunda, realizando: inter lineam et superficiem non est proportio comparando in latitudine, nam non est utrique communis, quia linea non est lata.
+
+Tertia: inter lineam et superficiem non est proportio profunditatis comparatione; patet, quia nulli communis sive conveniens.
+
+Quarta: inter illa bene est proportio comparatione longitudinis; patet, est utrique communis, quia valent in illa comparari.
+
+Quinta: inter corpus et lineam non est proportio comparatione latitudinis aut profunditatis, sed bene longitudinis. Prima pars, quia /42a/
 
 
 <!--

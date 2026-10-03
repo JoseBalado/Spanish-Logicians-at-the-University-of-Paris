@@ -898,13 +898,13 @@ Ex quo sequitur /41b/ quod ipsa potentia intellectiva est in ipsamet anima. Circ
 
 Secunda proprietas: intellectus ex natura sua potest cognoscere ens creatum, tam absolutum quam respectivum entis huius non est Deus. 
 
-Pro cuius declaratione est notandum quod magna difficultas est apud doctores, quod est obiectum nostri intellectus, pro quo ponit Scotus, in *Quolibeto*, unam distinctionem: Aliquid est obiectum nostri intellectus duobus modis.
+Pro cuius declaratione est notandum quod magna difficultas est apud doctores, quod est obiectum mei intellectus, pro quo ponit Scotus, in *Quolibeto*, unam distinctionem: Aliquid est obiectum mei intellectus duobus modis.
 
 Uno modo, quia intellectus ex natura sua potest habere notitiam distinctam de illo obiecto, et hoc modo potest considerari adhuc dupliciter: uno modo pro illo ad quod, id est, ad cuius notitiam distinctam intellectus noster pro statu potest venire.
 
 Et sic dixerunt aliqui quod res sensibilis est obiectum nostri intellectus pro isto statu. Hoc tamen est falsum, quia tenebimus per totam physicam quod intellectus ita intelligit suam intellectionem sicut quamlibet aliam rem sensibilem, et tamen intellectio non est sensibilis. 
 
-Et ideo si quis quaerat quod est obiectum nostri intellectus pro statu, dico quod suppletur per hoc disiunctum, scilicet sensibile vel immutativum potentiae, id est, intellectus. Unde dicunt boni doctores quod magis clare intelligo intellectionem meam quam rem aliam sensibilem /42a/.
+Et ideo si quis quaerat quod est obiectum mei intellectus pro statu, dico quod suppletur per hoc disiunctum, scilicet sensibile vel immutativum potentiae, id est, intellectus. Unde dicunt boni doctores quod magis clare intelligo intellectionem meam quam rem aliam sensibilem /42a/.
 
 Ex quo sequitur quod nihil potest intellectus noster cognoscere intuitive nec praesentialiter distincte nisi sit sensibile vel immutativum potentiae intellectivae, vel immutans ipsum intellectum pro statu isto.
 
@@ -924,9 +924,9 @@ Alii voluerunt dicere quod anima cognoscit seipsam intuitive pro statu isto, et 
 
 Uterque istorum modorum est probabilis, et credo quod primus est potior /43a/.
 
-Contra praedictum arguitur sic: anima est praesens sibi ipsi; ergo partialiter causat suam cognitionem vel notitiam. Nego consequentiam, et ratio est quia pro statu isto nihil est movens nostrum intellectum, nisi res sensibilis vel immutativum nostri intellectus, et hoc provenit ex ordinatione divina. Nam Deus ordinavit propter peccatum Adae quod anima nostra nihil posset cognoscere intuitive nisi sit sensibile vel immutativum potentiae.
+Contra praedictum arguitur sic: anima est praesens sibi ipsi; ergo partialiter causat suam cognitionem vel notitiam. Nego consequentiam, et ratio est quia pro statu isto nihil est movens meum intellectum, nisi res sensibilis vel immutativum mei intellectus, et hoc provenit ex ordinatione divina. Nam Deus ordinavit propter peccatum Adae quod anima nostra nihil posset cognoscere intuitive nisi sit sensibile vel immutativum potentiae.
 
-Si teneretur secundus modus, qui est Gregorii, in primo sic arguitur: nihil movet nostrum intellectum nisi sit sensibile vel immutativum potentiae; sed anima nullo isto. Exemplum est: igitur non movet seipsam ad cognitionem sui ipsius. Et quia ipsa anima non sit immutativa formaliter patet, quia nihil dicitur immutare intellectum nisi actus eius.
+Si teneretur secundus modus, qui est Gregorii, in primo sic arguitur: nihil movet meum intellectum nisi sit sensibile vel immutativum potentiae; sed anima nullo isto. Exemplum est: igitur non movet seipsam ad cognitionem sui ipsius. Et quia ipsa anima non sit immutativa formaliter patet, quia nihil dicitur immutare intellectum nisi actus eius.
 
 Pro quo notandum est quod aliquando dicitur immutare intellectum duobus modis: uno effective, alio formaliter. Unde illud dicitur immutare effective quod producit vel causat aliquem actum, per quem actum potentia tendit actualiter in obiectum. Nam vitalis immutatio non est nisi tendentia actualis in obiecto, et ideo illud quod causat talem actum dicitur immutare effective.
 
@@ -934,23 +934,23 @@ Ex quo sequitur quod ipsa potentia immutat effective seipsam, quia causat effect
 
 Tunc arguitur sic, ut argumentum est: nihil movet intellectum pro statu isto nisi sit res sensibilis vel immutativum potentiae, nunc formaliter; sed anima non est huius; ergo anima non causat formaliter notitiam sui ipsius.
 
-Dico quod tenendo istum modum Gregorii neganda est maior. Sed dicerem tenendo istum modum secundum exemplum: per nihil movet pro statu isto intellectum nostrum nisi sit res sensibilis vel immutativum potentiae formaliter, vel ipsamet potentia quae immutatur. Et ideo habemus quod est obiectum intellectus nostri pro isto statu simpliciter per hoc disiunctum sensibilem vel immutativum potentiae.
+Dico quod tenendo istum modum Gregorii neganda est maior. Sed dicerem tenendo istum modum secundum exemplum: per nihil movet pro statu isto intellectum meum nisi sit res sensibilis vel immutativum potentiae formaliter, vel ipsamet potentia quae immutatur. Et ideo habemus quod est obiectum intellectus mei pro isto statu simpliciter per hoc disiunctum sensibilem vel immutativum potentiae.
 
-Sed nunc quaerendum est quod est obiectum motivum intellectus nostri secundum suam naturam, et pro hoc intelligendo ponitur talis distinctio.
+Sed nunc quaerendum est quod est obiectum motivum intellectus mei secundum suam naturam, et pro hoc intelligendo ponitur talis distinctio.
 
-Obiectum tria habet respectu notitiae, videlicet movere seu causare, terminare et mensurare. Ex quo sumitur talis distinctio, videlicet: triplex est obiectum intellectus nostri, scilicet motivum terminativum et mensurativum. Unde illud dicitur obiectum motivum quod naturaliter et non libere causat et producit suam intellectionem in intellectu. Sed illud dicitur obiectum terminativum quod terminat intellectionem, unde obiectum terminare intellectionem /44a/ est ipsum cognosci per talem notitiam. Sed obiectum dicitur mensurativum quia mensurat perfectionem notitiae. Unde obiectum mensurare perfectionem notitiae est cognoscere quam perfecta sit notitia per perfectionem obiecti de quo habetur. Unde perfectioris obiecti, caeteris paribus, perfectior est notitia.
+Obiectum tria habet respectu notitiae, videlicet movere seu causare, terminare et mensurare. Ex quo sumitur talis distinctio, videlicet: triplex est obiectum intellectus mei, scilicet motivum terminativum et mensurativum. Unde illud dicitur obiectum motivum quod naturaliter et non libere causat et producit suam intellectionem in intellectu. Sed illud dicitur obiectum terminativum quod terminat intellectionem, unde obiectum terminare intellectionem /44a/ est ipsum cognosci per talem notitiam. Sed obiectum dicitur mensurativum quia mensurat perfectionem notitiae. Unde obiectum mensurare perfectionem notitiae est cognoscere quam perfecta sit notitia per perfectionem obiecti de quo habetur. Unde perfectioris obiecti, caeteris paribus, perfectior est notitia.
 
-Hoc supposito quaeritur talis quaestio resolutiva istius materiae: quod est obiectum intellectus nostri? Distinguo, quia aut quaeris obiectum motivum, mensurativum, terminativum. Si terminativum, dico quod pro cumque statu mundi ens in sua communitate est obiectum nostri intellectus, nam non est aliquod ens quod non posset terminare aliquam notitiam. Si obiectum mensurativum, dico quod est ens quod patet, quia non est aliquod ens quum mensuret suam notitiam per quam cognoscit, id est non est aliquod ens quod cognoscat per aliquam notitiam quin perfectum cognoscatur perfectio notitiae. Et nota quod communiter non solet poni illud membrum mensurativum.
+Hoc supposito quaeritur talis quaestio resolutiva istius materiae: quod est obiectum intellectus mei? Distinguo, quia aut quaeris obiectum motivum, mensurativum, terminativum. Si terminativum, dico quod pro cumque statu mundi ens in sua communitate est obiectum mei intellectus, nam non est aliquod ens quod non posset terminare aliquam notitiam. Si obiectum mensurativum, dico quod est ens quod patet, quia non est aliquod ens quum mensuret suam notitiam per quam cognoscit, id est non est aliquod ens quod cognoscat per aliquam notitiam quin perfectum cognoscatur perfectio notitiae. Et nota quod communiter non solet poni illud membrum mensurativum.
 
 Si vero quaeras de obiecto motivo, distinguo: aut pro isto statu, et sic dico quod suppletur per hoc disiunctum sensibile vel immutativum cognoscentis. Volo dicere quod nihil causat suam notitiam pro statu isto nisi sit res sensibilis vel actus immutativus cognoscentis, vel, secundum alios, oportet addere: vel ipsa potentia cognoscens. Ex quo sequitur quod bene dictum est quod nulla substantia movet intellectum.
 
-Aut obiectum motivum ex natura sua seu pro alio statu, et sic dicit Scotus multis passibus quod suppletur per hoc complexum: ens finitum tam absolutum quam respectivum, cuius terminus non est Deus, dicitur ens finitum. Ex quo sequitur quod nihil est obiectum nostri intellectus nisi sit /44b/ ens creatum seu finitum.
+Aut obiectum motivum ex natura sua seu pro alio statu, et sic dicit Scotus multis passibus quod suppletur per hoc complexum: ens finitum tam absolutum quam respectivum, cuius terminus non est Deus, dicitur ens finitum. Ex quo sequitur quod nihil est obiectum mei intellectus nisi sit /44b/ ens creatum seu finitum.
 
-Contra: Deus potest movere intellectum nostrum; ergo est obiectum motivum. Antecedens patet, quia Deus potest causare notitiam in intellectum nostro sui; ergo potest movere intellectum.
+Contra: Deus potest movere intellectum meum; ergo est obiectum motivum. Antecedens patet, quia Deus potest causare notitiam in intellectum nostro sui; ergo potest movere intellectum.
 
 Pro solutione est notandum quod nihil est obiectum motivum nisi naturaliter et non libere causet suam notitiam, tunc ponuntur duae propositiones quarum prima est:
 
-> Omnis res alia a Deo est obiectum motivum nostri intellectus ex natura rei, videlicet naturaliter, quantum est de se, potest causare suam notitiam et non libere.
+> Omnis res alia a Deo est obiectum motivum mei intellectus ex natura rei, videlicet naturaliter, quantum est de se, potest causare suam notitiam et non libere.
 
 Contra: voluntas non causat suam notitiam; ergo male dicit propositio prima. Antecedens patet, quia voluntas nostra est libera.
 
@@ -962,7 +962,31 @@ Secunda propositio:
 
 Nam ista est propositio catholica, quod quidquid Deus producit ad extra producit libere et contingenter et ut volens, ut si Deus creet notitiam sui in intellectu meo, non causat nisi mere libere et contingenter. Et hoc est quod dicit auctoritas divi Aurelii Augustini: si vult, videtur; si non vult, non videtur, id est si vult, causabit suam notitiam, et si non vult, non causabit suam notitiam.
 
-Dicitur notanter "tam absolutum quam respectivum", quia quodlibet ens creatum, sive sit absolutum sive respectivum, potest esse obiectum motivum nostri intellectus. Dico notanter "cuius terminus non est Deus", pro cuius declaratione est /45a/ notandum
+Dicitur notanter "tam absolutum quam respectivum", quia quodlibet ens creatum, sive sit absolutum sive respectivum, potest esse obiectum motivum mei intellectus. Dico notanter "cuius terminus non est Deus", pro cuius declaratione est /45a/ notandum quod aliquae relationes sunt quae terminantur ad Deum, ut dependentia qua ego dependeo a Deo fundatur in me et terminatur ad Deum. Dico quod illa dependentia et similes relationes non sunt obiecta motiva mei intellectus, et ideo est quia relationes effective causantur [a] fundamento et termino. Sed sic est quod Deus non potest esse obiectum motivum; igitur nec relatio. Ideo bene dicitur "cuius terminus non est Deus".
+
+Item dicit Aristoteles in tertio huius: intellectuum quidam est intellectus possibilis, quidam est intellectus agens. Intellectus agens sic definitur ab Aristotele: est qui est potens omnia facere; sed intellectus possibilis est quo possunt omnia fieri.
+
+Pro solutione vel declaratione huius est advertendum quod, quidquid dicant multi, resolutio materiae est ista: quod idem intellectus vocatur agens et possibilis; agens in quantum producit, possibilis seu passivus in quantum recipit ea quae ipse producit. Ut intellectus meus causat notitiam Petri, et ut sic vocatur agens; et ut recipit eam notitiam Petri, vocatur possibilis seu patiens.
+
+Dicit Aristoteles quod intellectus est qui est potens omnia facere, supple intellecta, id est qui potest causare intellectiones omnium rerum; sed intellectus possibilis est quo possunt omnia fieri, id est ille qui potest recipere notitiam cuiuslibet rei.
+
+Et ad videndum quid potest facere intellectus. Ponitur talis propositio:
+
+> Generaliter quidquid potest phantasia potest et intellectus, et adhuc magis.
+
+Et si quaeras an phantasia aliquid cognoscat quod intellectus non cognoscat, dico quod non, immo est potentia superior quam phantasia unde accipio /45b/ regulam vulgarem:
+
+> Quandocumque sunt aliquae potentiae quarum una est superior et alia inferior, quidquid potest cognoscere inferior potest cognoscere superior, et cum hoc plus.
+
+Sed phantasia est inferior intellectu; ergo quidquid potest cognoscere phantasia potest cognoscere intellectus, et cum hoc plus.
+
+Et si quaeratur quid magis potest cognoscere intellectus quod non potest cognoscere phantasia, dico tibi primo quod potest cognoscere suas intellectiones, quas phantasia non potest cognoscere. Dico secundo quod, simpliciter loquendo, ex natura sua potest intellectus cognoscere omne ens creatum cuius terminus non est Deus, quod non potest facere phantasia.
+
+Et si ulterius quaeras utrum intellectus habeat aliquem modum cognoscendi quem non habeat phantasia, dico quod sic, nam intellectus cognoscit universaliter et potest formare conceptus communes, sed non phantasia. Ut intellectus potest habere conceptum entis repraesentantis sibi omnia entia, sed phantasia non potest hoc facere. Similiter intellectus potest formare conceptum hominis qui repraesentabit sibi omnes homines, et sic conceptus equi et caetera.
+
+Contra: experientia est in oppositum. Ergo antecedens patet quia experimur quia si volo cogitare de homine, repraesentatur in mihi unus homo cum tali figura, in tali loco et cum tali quantitate.
+
+Respondetur per auctoritatem Aristotelis secundo *De anima*, quod necesse est intelligentem phantasmata speculari, id est numquam intellectus intelligit quin phantasia adversetur circa illud: si sit singulare, et si universale, circa sum singularem /46a/
 
 
 

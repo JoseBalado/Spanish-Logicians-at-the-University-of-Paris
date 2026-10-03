@@ -38,7 +38,7 @@ The surviving text therefore supports the conclusion that Dolz deliberately atte
 
 # Preambles, proportion, and proportionality
 
-**Pages 25a–40b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; and the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals.
+**Pages 25a–41b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals; and the first answers to the seven questions of page 29.
 
 ## 1. Why the metaphysics comes first
 
@@ -371,6 +371,8 @@ Dolz immediately explains _certa habitudo_ as equality or inequality **in someth
 
 Page 29 clarifies that this common respect need not be a shared **measurable** dimension. Dolz is about to insist that intensity, speed, activity, and resistance also ground proportions even though they are not dimensions or multitudes. What the angel example excludes is comparison in a respect not common to both subjects, not every comparison lacking a common mathematical measure.
 
+Page 41 sharpens the condition (§20): a common respect is necessary but **not sufficient**. The terms must also be comparable in it (_requiritur comparatio illorum in illo_). A right angle and an angle of contingence are both angles, yet as angles they admit no comparison and so no proportion.
+
 This definition should not yet be reduced to a Lean predicate over `Nat`. It ranges beyond number and continuous magnitude, and makes typed comparability part of the relation. A faithful formalization therefore needs subjects, respects of comparison, a condition that the same respect applies to both subjects, and an equality or order relative to that respect. Ordinary numerical equality and order would silently discard both the angel example and the physical proportions introduced on page 29.
 
 ---
@@ -387,7 +389,7 @@ Dolz opens the division of proportion with seven questions that set the agenda f
 6. what entity proportion is — the related things themselves or something distinct from them;
 7. whether the finite is proportioned to the infinite, and even the infinite to the infinite.
 
-The list shows that the apparently simple definition on page 28 is programmatic rather than complete. Dolz must determine both the **range** of proportional comparison and the **ontological status** of the relation before its extension is settled.
+The list shows that the apparently simple definition on page 28 is programmatic rather than complete. Dolz must determine both the **range** of proportional comparison and the **ontological status** of the relation before its extension is settled. He begins answering the questions in order on 41a (§20).
 
 He begins with a deliberately strict account used _apud nonnullos_:
 
@@ -406,7 +408,7 @@ On this account, the terms must belong to the same subaltern genus and share eit
 | --- | --- | --- |
 | two continuous quantities, in dimension | yes | yes |
 | two discrete quantities, in multitude | yes | yes |
-| continuous with discrete | no | not yet settled (second question) |
+| continuous with discrete | no | not _qua_ continuous and discrete; yes in another common respect (41a, §20) |
 | intensity and remission | no | yes |
 | speed and slowness | no | yes |
 | activity and resistance | no | yes |
@@ -785,6 +787,8 @@ The practical distinction is **multiplying versus adding**:
 | --- | --- | --- |
 | Geometrical | Multiply by the same factor (equal ratios) | $2,4,8,16$: multiply by $2$ |
 | Arithmetical | Add the same amount (equal excesses) | $2,4,6,8$: add $2$ |
+
+The two levels do not make proportionality something other than proportion. On 41a Dolz argues that every proportionality is a proportion, though not conversely, because proportions are themselves quantities (§20).
 
 For decreasing sequences, multiplying by a fixed fraction or subtracting a fixed amount works in the same way. This is a way to *generate numerical examples*, not a replacement for Dolz's definitions: his equal ratios and equal excesses explain what is preserved in each case. The following sections develop that distinction from pages 33–34.
 
@@ -1378,7 +1382,7 @@ In continuous proportionality the links must be similar; in addition they need n
 
 The name of a composite species adds an integer count and a fraction; adding two proportions multiplies them.
 
-The second alternative in Dolz's definition, _vel illam a qua subtrahi debet annihilari_, is obscure. One possible reading: subtracting a proportion from an equal one annihilates it and leaves equality, _sicut in quantitatibus_, as subtracting a quantity from an equal quantity leaves nothing. This is our guess (§21).
+The second alternative in Dolz's definition, _vel illam a qua subtrahi debet annihilari_, is obscure. One possible reading: subtracting a proportion from an equal one annihilates it and leaves equality, _sicut in quantitatibus_, as subtracting a quantity from an equal quantity leaves nothing. This is our guess (§22).
 
 The _continuatio_ of two dissimilar proportions through a shared term may bear on the _communicatio proportionum_ promised on 34b (§13), but Dolz does not connect them.
 
@@ -1425,7 +1429,7 @@ Two equivalent tests, not in Dolz:
 | _diapason_ (octave) | _dupla_ | $2:1$ | $8$ and $4$ | octave |
 | _bis diapason_ (two octaves, composite) | _quadrupla_ | $4:1$ | — | two octaves |
 
-Dolz says that harmonic proportionality _potest esse multiplex, scilicet tonus, diatessaron, diapente et diapason_. Taken literally this confuses the two levels of §12: these are single proportions (intervals), not kinds of three-term proportionality. The sentence can only mean that the ratios found in harmonic proportionalities are musical intervals. In $6,4,3$ itself:
+Dolz says that harmonic proportionality _potest esse multiplex, scilicet tonus, diatessaron, diapente et diapason_. Taken literally this confuses the two levels of §12: these are single proportions (intervals), not kinds of three-term proportionality. Page 41 does not remove the difficulty: every proportionality is a proportion, but not every proportion is a proportionality (§20). The sentence can only mean that the ratios found in harmonic proportionalities are musical intervals. In $6,4,3$ itself:
 
 | Pair | Ratio | Interval |
 | --- | --- | --- |
@@ -1519,7 +1523,7 @@ Why call the limma a semitone if it is not half a tone? _Semitonium_ should be r
 
 Cents also show the addition of 40a at work: compounding proportions **adds** cents. Fifth plus fourth is $701.96+498.04=1200$, the octave; fifth minus fourth is $701.96-498.04=203.91$, the tone. This is the logarithmic scale on which, as noted above, adding proportions becomes ordinary addition.
 
-Composite consonances are made from the simple ones, such as _bis diapason_, two octaves, $2\cdot2=4:1$. Dolz remarks that two octaves are rarely found in a human voice, _nisi rediret quod de quo loquitur Aristoteles septimo Politicorum capite quarto_. The phrase is corrupt. In _Politics_ VII.4 (1326b) Aristotle asks who could be herald to an excessively large multitude unless he had the voice of Stentor. The sense may be "unless Stentor, of whom Aristotle speaks, came back". This is a conjecture (§21). The passage itself is confirmed: in _Politics_ VII.4, beside Bekker page 1326b, Aristotle asks who could command an unwieldy multitude, "or who could be their herald but a Stentor?" (Ellis's translation, Project Gutenberg). Dolz's _septimo Politicorum capite quarto_ matches this chapter.
+Composite consonances are made from the simple ones, such as _bis diapason_, two octaves, $2\cdot2=4:1$. Dolz remarks that two octaves are rarely found in a human voice, _nisi rediret quid de quo loquitur Aristoteles septimo Politicorum capite quarto_. The phrase is corrupt. In _Politics_ VII.4 (1326b) Aristotle asks who could be herald to an excessively large multitude unless he had the voice of Stentor. The sense may be "unless Stentor, of whom Aristotle speaks, came back". This is a conjecture (§22). The passage itself is confirmed: in _Politics_ VII.4, beside Bekker page 1326b, Aristotle asks who could command an unwieldy multitude, "or who could be their herald but a Stentor?" (Ellis's translation, Project Gutenberg). Dolz's _septimo Politicorum capite quarto_ matches this chapter.
 
 Dolz justifies the digression by pedagogy: he adds these terms _non quia multum pertinentia philosophiae, sed ad minus ut calleas terminos_, not because they matter much to philosophy, but at least so that the student knows the terms. This matches the program of the introduction: only as much mathematics as philosophy requires, plus the vocabulary needed to read other authors.
 
@@ -1554,11 +1558,128 @@ Dolz mentions, and declines to treat (_de hac supersedeo_), a proportionality "c
 
 Dolz asks whether a proportionality requires all the proportions found in it to be similar, and answers no: arithmetical proportionality shows it. Harmonic proportionality shows it too, since in $6,4,3$ the ratios $3:2$ and $4:3$ differ. This confirms 34a (§13), where Dolz restricted the definition _proportionum similitudo_ to geometrical proportionality.
 
-The next question, whether a proportionality may be called a proportion, continues on 41a. It will test the distinction of levels set out in §12.
+The next question, whether a proportionality may be called a proportion, is answered on 41a (§20).
 
 ---
 
-## 20. Summary of the doctrine
+## 20. Page 41: proportionality as proportion, and the first answers to the seven questions
+
+### Every proportionality is a proportion
+
+| Step | Dolz's claim |
+| --- | --- |
+| 1 | a proportionality is a relation (_habitudo_) of proportions |
+| 2 | proportions are quantity: discrete quantity, because they are numbers |
+| 3 | so a proportionality is a relation of quantities |
+| 4 | a relation of quantities is a proportion (definition of 28b, §7) |
+| conclusion | every proportionality is a proportion, but not every proportion is a proportionality |
+
+_Proportionalitas et proportio habent se ut superius et inferius_: proportion is the genus, proportionality one kind of it. This corrects the reading of §12, where the two were treated simply as different levels. They are different levels, but the higher one is still a proportion, namely a proportion whose terms are proportions.
+
+Step 2 is the key premise. Dolz counts a ratio such as $3:2$ as a **number**, and so as a term that can itself enter a proportion. Page 29 had already spoken of proportions taken _a proportionibus inter se_ and of velocity following the _proportio proportionum_ (§8). Page 41 supplies the ground for that language: if proportions are quantities, a proportion between proportions is a proportion in the sense of 28b.
+
+The argument fits geometrical proportionality, which compares proportions. It fits arithmetical proportionality less directly, since that compares excesses (§13). But excesses are quantities too, so the conclusion still holds.
+
+### Proportionalities among proportions
+
+Dolz adds that geometrical and the other proportionalities can be found _inter excessus proportionum et proportiones proportionum_, exactly as among the excesses and proportions of numbers. Proportions can therefore be the **terms** of a proportionality. He leaves the details to geometry and arithmetic (_multa alia obticeo_).
+
+He does not say how one proportion is to be measured against another. Two readings are possible (our examples):
+
+| Proportions | By values | By composition (40a, §19) |
+| --- | --- | --- |
+| _quadrupla_ $4:1$ to _dupla_ $2:1$ | $4\div2=2$, double | _quadrupla_ is _dupla_ added to _dupla_, so double |
+| _octupla_ $8:1$ to _dupla_ $2:1$ | $8\div2=4$, quadruple | _octupla_ is three _duplae_, so triple |
+
+The two readings agree in the first row and differ in the second. Bradwardine's rule, that speed follows the proportion of proportions, needs the second (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-and-Galileo.html), section 1.1). The addition of proportions on 40a points the same way, but Dolz has not yet chosen.
+
+### Aristotle: _rationum comparatio_
+
+Dolz notes that Aristotle calls proportionality _rationum comparatio_ in book V of the _Ethics_. In Greek Aristotle defines analogy as an _equality_ of ratios (ἰσότης λόγων, V.3, 1131a31). _Comparatio_ is the wider word, and it suits Dolz's claim on 40b that a proportionality need not have similar proportions (§19). Which Latin translation Dolz read has not been checked.
+
+### The seven questions: where each is answered
+
+With these suppositions Dolz turns to the questions of page 29 (§8), _seriatim_.
+
+| # | Question (29a) | Answer | Page |
+| --- | --- | --- | --- |
+| 1 | number to unity | yes, as the mathematicians say | 41a |
+| 2 | discrete to continuous | not _qua_ discrete and continuous; yes in another common respect | 41a |
+| 3 | things of different genera | yes, if compared in something common that admits more or less | 41a–41b |
+| 4 | line, surface, body | Nominalists: always; Realists: only in length | 41b–42a |
+| 5 | intensity, speed, and the like | not yet answered; page 30 already admits them (§9) | — |
+| 6 | what entity a proportion is | not yet answered | — |
+| 7 | finite to infinite | treated in the reply to the second objection, 38b–39a (§17–§18) | — |
+
+### Ad primam: number to unity
+
+There is a proportion of number to unity; Dolz refers to the mathematicians. The objection is that unity is not _magna_, not a magnitude, and so not a quantity in the sense of 28b. Preamble 5 had said that unity is not a number (§1). Dolz's first reply is to let the case pass _secundum eorum imaginationem_, by the mathematicians' convention: the method of preamble 1.
+
+He then offers a second reply: unity may be called great **improperly**, because taken some number of times it yields a number, which is great in the sense of the preambles. That is, unity is great by the same borrowed title by which, in preamble 4, numbers are greater or lesser only through the unities they presuppose. The Latin is compressed; this is our reading.
+
+The last clause, _nec propterea erit simile de angelo, secus de eius unitate_, recalls the angel of 28b (§7). A proportion of something great to something not great does not license a proportion between a man and an angel in magnitude. It might hold for the angel's **unity**, for example two angels to one angel. This reading is also ours.
+
+### Ad secundam: discrete to continuous
+
+| Respect | Belongs to both? | Proportion? |
+| --- | --- | --- |
+| continuity | no | no |
+| discreteness | no | no |
+| some other respect common to both | yes | possible |
+| Nominalists: continuum also discrete | yes | yes: two-foot to one-foot |
+
+The answer applies 28b: proportion requires a common respect, and neither continuity nor discreteness belongs to both. In another respect a proportion is possible. This settles the second question, left open in the table of §8.
+
+The Nominalists concede that a continuum is also discrete. On their view a discrete quantity can be continuous as well, and the two-foot body stands to the one-foot body as a continuous to a discrete quantity. Dolz again keeps the Realist _imaginatio_ as the default and records the Nominalist answer beside it, as in preamble 1.
+
+### Ad tertiam: different genera, and the Calculator
+
+Things of different genera have a proportion whenever they are compared in something common in which greater or less can be found, properly or improperly (§9). This is the broad definition of page 30.
+
+Dolz then meets an objection from authority: the philosophers deny comparison between such things.
+
+| Authority | Place | Claim | Dolz's reply |
+| --- | --- | --- | --- |
+| the Calculator (Swineshead) | _De intensione et remissione_ | no degree is as intense as it is remiss, nor more nor less; intension and remission are not comparable | true, and no objection: where there is no comparison there is no proportion |
+| Swineshead | on rarity and density | the same for rarity and density | same |
+| Dullaert | _Physics_ III | reports the same opinion | same |
+| Paulus Venetus | _De caelo et mundo_ | the right angle is not comparable to the angle of contingence, _quia sunt alterius rationis_ | same; but as quantities the angles could be compared, _maxime nominalizando_ |
+
+_Idem opinatur ipse Suisset_ identifies the Calculator with Swineshead, as the heading _Suisset, Venetus_ on page 29 already implied (§8). The references to Swineshead and Paulus Venetus are as Dolz gives them and have not been checked against their texts.
+
+Dolz does not contest these authorities. Their cases fall outside his definition, because a proportion needs **comparison** in a common respect. He draws the consequence explicitly:
+
+> Ad proportionem inter aliqua non sufficit aliquid utrique commune parvum vel magnum, sed cum hoc requiritur comparatio illorum in illo.
+
+That is: **"For a proportion between things it is not enough that something great or small is common to both; it is also required that they be compared in it."**
+
+This is a refinement of 28b (§7). The right angle and the angle of contingence share being angles, but as angles they are not compared. As quantities they might be. So the same pair can lack a proportion in one respect and have one in another.
+
+Our observation on the angle. The angle of contingence is the angle between a circle and its tangent. Euclid III.16 shows that it is less than every acute rectilinear angle. Then no multiple of it ever exceeds a right angle, and by the test of Euclid V, def. 4 (§18) the two have no ratio. Venetus's _alterius rationis_ and Dolz's denial of proportion between finite and infinite (§17) exclude similar cases.
+
+A final objection: degree $4$ is intense and degree $2$ remiss, they are in a proportion, so intension and remission are in a proportion. Dolz distinguishes:
+
+| Respect | Proportion? |
+| --- | --- |
+| as intension against remission | no |
+| as containing degrees (_in ratione continentiae gradus_) | yes, $4:2$ |
+
+The proportion rests on the degrees contained, not on intensity and remissness as opposed qualities. This agrees with page 30, which admitted comparison _quoad intensionem_ as a multitude of degrees (§9). The following sentence, that it does not follow _quod intensionis ad intensionem et remissionis ad remissionem sit proportio_, is hard to square with page 30 and is noted in §22. Dolz defers the matter to philosophy.
+
+### Ad quartam: line, surface, and body
+
+| Pair | Nominalists | Realists: length | Realists: breadth | Realists: depth |
+| --- | --- | --- | --- | --- |
+| line and surface | proportion | proportion | none: a line has no breadth | none: neither has depth |
+| body and line | proportion | proportion | none | none |
+
+The fourth question asked especially about the Realist account. On the Nominalist account there is always a proportion, _cum utraque sit tridimensa_: both are three-dimensional. That is, the Nominalists posit no lines or surfaces distinct from bodies, so any two quantities compared are bodies. On the Realist account (_realizando_) the answer depends on the respect. A line and a surface can be compared only in length, the one dimension both have. The same holds for body and line. The sentence on body and line breaks off at the end of 41b and continues on 42a.
+
+Our observation: this is the principle of the third answer applied to geometry. The question is not to which genus the terms belong but in which respect they are compared. Compared in length, a line and a surface yield a ratio of length to length, so even Euclid's demand that ratios hold between magnitudes of the same kind (V, def. 3) is met.
+
+---
+
+## 21. Summary of the doctrine
 
 1. _Aliquot part_ is a **two-place relation** between a part and a whole, requiring exact measure and at least two repetitions.
 2. Dropping the second term of the relation is what generates every difficulty in preamble 8.
@@ -1579,7 +1700,7 @@ The next question, whether a proportionality may be called a proportion, continu
 17. An exact composite species must name both components, as in _dupla sesquialtera_ or _dupla superbipartiens tertias_; naming only one component leaves a higher, non-final class.
 18. Lesser inequality reproduces the same taxonomy in reverse, with _sub-_ species reciprocal to the corresponding greater-inequality species.
 19. Page 33 confirms that reciprocity as a universal rule: every greater-inequality genus and species has exactly one lesser-inequality counterpart.
-20. Proportionality is a second-order relation between proportions, not another name for a single ratio.
+20. Proportionality is a second-order relation between proportions, not another name for a single ratio. It is nevertheless a kind of proportion, because proportions are themselves quantities (41a).
 21. Geometrical proportionality preserves equal ratios while permitting unequal absolute excesses; Dolz applies this directly to Calculator problems of changing motion.
 22. Page 34 defines arithmetical proportionality by equal successive excesses despite differing ratios; its examples of motion and corruption contrast with geometrical progression.
 23. Continuous geometrical proportionality reuses the consequent of one ratio as the antecedent of the next; discontinuous proportionality lacks that common middle. Dolz's $3:6$ with $8:4$ is false as a _talis qualis_ proposition by his own criterion; it is either corrupt (for $6:3$) or depends on a broader _comparatio_ still to be explained.
@@ -1611,10 +1732,17 @@ The next question, whether a proportionality may be called a proportion, continu
 49. The simple musical intervals are the tone $9:8$, diatessaron (fourth) $4:3$, diapente (fifth) $3:2$, and diapason (octave) $2:1$. Dolz gives them only so that students know the terms.
 50. The most perfect proportionality $6,8,9,12$ contains the arithmetical, geometrical, and harmonic kinds and all the simple intervals.
 51. A proportionality does not require all its proportions to be similar; arithmetical proportionality shows this.
+52. Every proportionality is a proportion, but not conversely: proportions are discrete quantities, numbers, so a relation of proportions is a relation of quantities.
+53. Proportionalities can be found among proportions of proportions and their excesses, as among numbers. This grounds the _proportio proportionum_ of page 29; whether one proportion is measured against another by value or by composition is not yet said.
+54. There is a proportion of number to unity, although unity is great only improperly.
+55. Discrete and continuous quantity have no proportion _qua_ discrete and continuous, but can have one in another common respect; for the Nominalists the continuum is also discrete.
+56. A common respect is necessary but not sufficient: the terms must also be comparable in it. Swineshead's intension and remission, and Paulus Venetus's right angle and angle of contingence, are not comparable and so have no proportion, which agrees with Dolz's definition.
+57. Degrees of intensity stand in proportion by the degrees they contain, not as intension against remission.
+58. For the Nominalists line, surface, and body always have a proportion, since all are three-dimensional; for the Realists only in a dimension they share, which for line and surface or line and body is length.
 
 ---
 
-## 21. Textual notes
+## 22. Textual notes
 
 Proposed emendations arising from the analysis. Those marked _insecure_ are recorded but not recommended for adoption.
 
@@ -1658,4 +1786,8 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 40b | differentia qua 6 excedit **3** | **4** (adopted) | _Prima differentia est binarius_ requires $6-4=2$; $6-3$ would be $3$ |
 | 40b | harmonica potest esse multiplex, scilicet **tonus, diatessaron, diapente et diapason** | _(left as printed)_ | These are intervals, not kinds of proportionality; read as the ratios found in harmonic proportionalities |
 | 40b | Tonus… **musica consonantia** | _(left as printed)_ | Boethius does not count the tone as a consonance; it is the difference between diapente (fifth) and diatessaron (fourth) |
-| 40b | nisi rediret **quod de quo** loquitur Aristoteles | possibly **Stentor, de quo** _(insecure)_ | _Politics_ VII.4 (1326b): no one could be herald to a vast multitude without the voice of Stentor. Passage checked (Ellis translation); the emendation remains a conjecture |
+| 40b | nisi rediret **quid de quo** loquitur Aristoteles | possibly **Stentor, de quo** _(insecure)_ | _Politics_ VII.4 (1326b): no one could be herald to a vast multitude without the voice of Stentor. Passage checked (Ellis translation); the emendation remains a conjecture |
+| 41a | quia **magnum** aliquotiens sumpte reddit numerum | _(left as printed)_ | The subject must be unity: taken some number of times it yields a number, _inquam magnum_. The word order is compressed or disturbed |
+| 41a | Et dico notanter **'ut tali'** | _(left as printed)_ | No _ut tali_ precedes; the nearest is _utrique tali_. Possibly _utrique ut tali_ was intended _(insecure)_ |
+| 41a | ista est vera "**Continuitatis** continuae ad discretam est proportio" | probably **Quantitatis** _(insecure)_ | _Continuitas continua_ is pleonastic; the question and the example (two-foot to one-foot) concern continuous and discrete **quantity** |
+| 41b | Non propterea sequitur quod **intensionis ad intensionem et remissionis ad remissionem** sit proportio | _(obscure; left as printed)_ | Page 30 admits proportion _quoad intensionem_. The sense may be that the proportion is not grounded in intension as such, or the text may have meant _intensionis ad remissionem_ |

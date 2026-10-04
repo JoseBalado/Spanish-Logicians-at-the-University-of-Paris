@@ -1167,7 +1167,32 @@ Tertia: inter lineam et superficiem non est proportio profunditatis comparatione
 
 Quarta: inter illa bene est proportio comparatione longitudinis; patet, est utrique communis, quia valent in illa comparari.
 
-Quinta: inter corpus et lineam non est proportio comparatione latitudinis aut profunditatis, sed bene longitudinis. Prima pars, quia /42a/
+Quinta: inter corpus et lineam non est proportio comparatione latitudinis aut profunditatis, sed bene longitudinis. Prima pars quia /42a/ nulla aliarum lineae convenientes. Secunda pars constat quia illa utrique communis et valet in ea comparari. Et ex hoc patet quomodo intelligendum sit unum dictum commune, quod bene reperies apud Paulum et Dullaert: corpus excedit lineam vel superficiem incommensurabiliter aut improportionabiliter, et caetera. Non dicimus quoad illud in quo valent comparari et proportionari, et numquam lineae quotcumque numero accepto facient corpus, nec etiam superficies, sicut homo improportionabiliter est perfectior asino: numquam asini quicumque, etiam infiniti, aequabuntur perfectioni hominis.
+
+
+Sexta: corpus et superficies proportionantur longitudinis et latitudinis comparatione, sed non profunditate. Haec claret aliarum probatione.
+
+Ultima: nec lineae nec superficiei nec corporis ad punctum est proportio, nam nihil est magnum aut parvum utrique commune in quo valeant comparari. Et sicut de his diximus, dicendum est de aliis, horum conditiones in sequentibus.
+
+## Decisiones aliquarum quaestionum in proportionibus
+
+Ad quintam quaestionem patet responsio ex dictis, et dico breviter quod sic, postquam illorum gratia, aequalitas aut inaequalitas proprie aut improprie sumi potest.
+
+Ad sextam non facile est explicare quaenam res proportio dicatur, ut maioritas, et caetera quae dicuntur intelligibilia sint. Nominalizando certum est quod proportio esset res proportionata, et opus esset ponere quasdam appellationes pro his quae in hac materia dicuntur; concedendo esset quod proportio a ad b non est maior quam c ad d, licet bene esset maior proportio. Et ad hoc sufficeret quod postea dicemus de maioritate proportionis, sicut alibi nominales soliti sunt dicere de similitudine, et in omnibus dicendis in hac materia per illam distinctionem qua distingueretur vel in ratione rerum vel in ratione proportionis in hac materia loquemur.
+
+Sed imaginatio Realium non minus esset congrua, ponendo proportionem esse quoddam accidens respectivum resultans ex comparatione unius rei ad aliam rem, quemadmodum dicunt ipsi de similitudine, et diceretur respective respectu rerum proportionatarum, et proportio diceretur maior aut minor, reducendo ea quae inferius dicemus ad istam imaginationem, quod facile erit. Et dato quod tale accidens respectivum esset indivisibile, non propterea negaretur aequalitas aut inaequalitas, ut diximus de numero in praeambulis et in proportionabili /42b/ sensu; poterit propositio divisionis attribui, quae omnia curioso brevitatis causa relinquuntur.
+
+Ad ultimam quaestionem soliti sumus dicere ex Aristotele quod finiti ad infinitum nulla est proportio nec econtra. Sed hoc dictum intelligendum est de proportionibus positis, scilicet de finitis, secundum Venetum in libris *De caelo*. Aequalitatis nec inaequalitatis infinitis attribuitur, sed soliti sumus ponere maioritatem iam proprie dictam non solum infiniti ad finitum, sed etiam infiniti ad infinitum. Et sic possumus ponere proportionem infiniti ad finitum, et poterit haec poni unum membrum proportionis, sed valde improprie potest assignare species istius, nam qualibet esset infinita?
+
+Similiter, dato quod sit maioritas improprie dicta inter unum infinitum et aliud infinitum, non videtur quae proportio possit inter ea reperiri. Et sic non oportet quod a qualibet maioritate abstrahatur proportio, nisi velles mathematicos exire et satis extranee loqui.
+
+Et si petas utrum infinitum habeat partem aliquotam, dico secundum Paulum Venetum in libris *De caelo* non habet, quia ad partem aliquotam opus est quod habeat proportionem superparticularem ad totum aut subsuperparticularem ad totum. Sed in hoc videtur Paulus deviare, immo dicit solum de superparticulari. Sed notum medietatem esse partem aliquotam totius, et tamen non habet superparticularem ad totum, sed subduplam, nec totum ad eam. Item patet de 3 et aliis, et sic videtur in hoc errare, nisi sit error impressoris, vel aliter capiat superparticularem quam nunc accipimus.
+
+Ideo dico: si ad partem aliquotam requiritur quod aliquoties finite reddat totum, vel habeat aliquam proportionem praedictarum ad totum, non esset pars aliquota infiniti, sed bene non aliquota, opposito modo describendo.
+
+Possumus tamen latius uti termino, puta quod aliquotiens reddat finite sive infinite, et tunc dico quod quaelibet pars finita infiniti est aliquota eius, quia quaelibet infinities sumpta reddit totum. Et sic concedendum est quod quaelibet finita cuiuslibet infinitae est aliquota.
+
+De parte infinita videtur distinguendum: aliqua videtur aliquota, ut patet: capta uno pedaliter lato infinito versus orientem, capiatur medietas eius ad imaginationem secundum latitudinem; illa est aliquota, bis sumpta reddit totum. Et sic patet quod alicuius infiniti, aliqua pars finite /43a/ sumpta, reddit totum.
 
 
 <!--

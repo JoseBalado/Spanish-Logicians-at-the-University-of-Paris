@@ -1167,7 +1167,7 @@ Tertia: inter lineam et superficiem non est proportio profunditatis comparatione
 
 Quarta: inter illa bene est proportio comparatione longitudinis; patet, est utrique communis, quia valent in illa comparari.
 
-Quinta: inter corpus et lineam non est proportio comparatione latitudinis aut profunditatis, sed bene longitudinis. Prima pars quia /42a/ nulla aliarum lineae convenientes. Secunda pars constat quia illa utrique communis et valet in ea comparari. Et ex hoc patet quomodo intelligendum sit unum dictum commune, quod bene reperies apud Paulum et Dullaert: corpus excedit lineam vel superficiem incommensurabiliter aut improportionabiliter, et caetera. Non dicimus quoad illud in quo valent comparari et proportionari, et numquam lineae quotcumque numero accepto facient corpus, nec etiam superficies, sicut homo improportionabiliter est perfectior asino: numquam asini quicumque, etiam infiniti, aequabuntur perfectioni hominis.
+Quinta: inter corpus et lineam non est proportio comparatione latitudinis aut profunditatis, sed bene longitudinis. Prima pars quia /42a/ nulla aliarum lineae conveniens. Secunda pars constat quia illa utrique communis et valet in ea comparari. Et ex hoc patet quomodo intelligendum sit unum dictum commune, quod bene reperies apud Paulum et Dullaert: corpus excedit lineam vel superficiem incommensurabiliter aut improportionabiliter, et caetera. Non dicimus quoad illud in quo valent comparari et proportionari, et numquam lineae quotcumque numero accepto facient corpus, nec etiam superficies, sicut homo improportionabiliter est perfectior asino: numquam asini quicumque, etiam infiniti, aequabuntur perfectioni hominis.
 
 
 Sexta: corpus et superficies proportionantur longitudinis et latitudinis comparatione, sed non profunditate. Haec claret aliarum probatione.
@@ -1180,9 +1180,9 @@ Ad quintam quaestionem patet responsio ex dictis, et dico breviter quod sic, pos
 
 Ad sextam non facile est explicare quaenam res proportio dicatur, ut maioritas, et caetera quae dicuntur intelligibilia sint. Nominalizando certum est quod proportio esset res proportionata, et opus esset ponere quasdam appellationes pro his quae in hac materia dicuntur; concedendo esset quod proportio a ad b non est maior quam c ad d, licet bene esset maior proportio. Et ad hoc sufficeret quod postea dicemus de maioritate proportionis, sicut alibi nominales soliti sunt dicere de similitudine, et in omnibus dicendis in hac materia per illam distinctionem qua distingueretur vel in ratione rerum vel in ratione proportionis in hac materia loquemur.
 
-Sed imaginatio Realium non minus esset congrua, ponendo proportionem esse quoddam accidens respectivum resultans ex comparatione unius rei ad aliam rem, quemadmodum dicunt ipsi de similitudine, et diceretur respective respectu rerum proportionatarum, et proportio diceretur maior aut minor, reducendo ea quae inferius dicemus ad istam imaginationem, quod facile erit. Et dato quod tale accidens respectivum esset indivisibile, non propterea negaretur aequalitas aut inaequalitas, ut diximus de numero in praeambulis et in proportionabili /42b/ sensu; poterit propositio divisionis attribui, quae omnia curioso brevitatis causa relinquuntur.
+Sed imaginatio Realium non minus esset congrua, ponendo proportionem esse quoddam accidens respectivum resultans ex comparatione unius rei ad aliam rem, quemadmodum dicunt ipsi de similitudine, et diceretur respective respectu rerum proportionatarum, et proportio diceretur maior aut minor, reducendo ea quae inferius dicemus ad istam imaginationem, quod facile erit. Et dato quod tale accidens respectivum esset indivisibile, non propterea negaretur aequalitas aut inaequalitas, ut diximus de numero in praeambulis et in proportionabili /42b/ sensu; poterit compositio divisionis attribui, quae omnia curioso brevitatis causa relinquuntur.
 
-Ad ultimam quaestionem soliti sumus dicere ex Aristotele quod finiti ad infinitum nulla est proportio nec econtra. Sed hoc dictum intelligendum est de proportionibus positis, scilicet de finitis, secundum Venetum in libris *De caelo*. Aequalitatis nec inaequalitatis infinitis attribuitur, sed soliti sumus ponere maioritatem iam proprie dictam non solum infiniti ad finitum, sed etiam infiniti ad infinitum. Et sic possumus ponere proportionem infiniti ad finitum, et poterit haec poni unum membrum proportionis, sed valde improprie potest assignare species istius, nam qualibet esset infinita?
+Ad ultimam quaestionem soliti sumus dicere ex Aristotele quod finiti ad infinitum nulla est proportio nec econtra. Sed hoc dictum intelligendum est de proportionibus positis, scilicet de finitis, secundum Venetum in libris *De caelo*. Aequalitatis nec inaequalitatis infinitis attribuitur, sed soliti sumus ponere maioritatem improprie dictam non solum infiniti ad finitum, sed etiam infiniti ad infinitum. Et sic possumus ponere proportionem infiniti ad finitum, et poterit haec poni unum membrum proportionis, sed valde improprie possunt assignari species istius, nam quaelibet esset infinita?
 
 Similiter, dato quod sit maioritas improprie dicta inter unum infinitum et aliud infinitum, non videtur quae proportio possit inter ea reperiri. Et sic non oportet quod a qualibet maioritate abstrahatur proportio, nisi velles mathematicos exire et satis extranee loqui.
 
@@ -1248,5 +1248,7 @@ Page 38b: [ad] ] om.
 Page 38b: finitum ] conj. vituū
 Page 39b: proprie ] emend. ꝓprio
 Page 40b: 4 ] emend. 3 (qua 6 excedit 4; prima differentia est binarius)
+Page 42b: improprie ] conj. proprie (iam dictam; cf. 39a and maioritas improprie dicta in the next sentence)
+Page 42b: assignari ] emend. assignare
 
 -->

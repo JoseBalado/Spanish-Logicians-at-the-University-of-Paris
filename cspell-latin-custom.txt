@@ -1308,6 +1308,7 @@ impossibilitans
 imposterum
 impraemeditata
 impressori
+impressoris
 improducta
 improductas
 improportionabiliter
@@ -1332,6 +1333,7 @@ inclusione
 inclusionem
 inclusiva
 incolorati
+incommensurabiliter
 incommunicabilitas
 incommunicabilitatis
 incommunicabiliter
@@ -1638,6 +1640,7 @@ maioratio
 maioratione
 maiorationem
 maioritas
+maioritate
 maioritatem
 Mair
 manifestativa
@@ -2745,6 +2748,7 @@ subsumptionem
 subsumpto
 Subsuper
 Subsuperbipartiens
+subsuperparticularem
 subsuperparticularis
 subsuperpartiens
 subsupertripartiens

@@ -38,7 +38,7 @@ The surviving text therefore supports the conclusion that Dolz deliberately atte
 
 # Preambles, proportion, and proportionality
 
-**Pages 25a–41b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals; and the first answers to the seven questions of page 29.
+**Pages 25a–42b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals; the answers to the seven questions of page 29; and the aliquot parts of the infinite.
 
 ## 1. Why the metaphysics comes first
 
@@ -1137,7 +1137,7 @@ Between infinite and finite, or infinite and infinite, there is no proportion _p
 
 To the reply that a finite quantity _aliquoties sumptum reddit infinitum_ and so is contained in a multiplex proportion, Dolz answers that the definitions of pages 30–33 concern containment of finite by finite. He does not contest the reply's premise, although no finite number of repetitions of a finite quantity yields an infinite one. He then leaves two alternatives open:
 
-- **A _proportio infinita_.** Proportion would first divide into finite and infinite, and the whole division so far would be a division of finite proportion. Dolz calls this _quod superius dictum est_, but no such statement has been found in the transcribed text; the seventh question of page 29 only raises the issue.
+- **A _proportio infinita_.** Proportion would first divide into finite and infinite, and the whole division so far would be a division of finite proportion. Dolz calls this _quod superius dictum est_, but no such statement has been found in the transcribed text; the seventh question of page 29 only raises the issue. The answer to that question on 42b offers the same option again, later rather than earlier (§21).
 - **Equality of infinite to infinite.** This fits page 33: proportion of equality _non dividitur, nec habet species_, so no missing species could be demanded.
 
 The sentence ends on 39a: _et si communiter oppositum dicatur, loquimur de aliis_. If the common opinion holds that equality between infinites does have species, the division is not refuted, because it speaks of other proportions, the finite ones. Page 39 continues the reply (§18).
@@ -1193,6 +1193,8 @@ The objection that follows is a serious one. Take a body infinite in both direct
 
 The modern parallel is Euclid, _Elements_ V, def. 4 (our comparison): magnitudes have a ratio to one another when each, multiplied, can exceed the other. A finite and an infinite magnitude fail this test, and Dolz denies them a proportion on the same grounds.
 
+Page 42b supports this reading and also complicates it (§21). There _finite_ does qualify the number of repetitions (_aliquotiens reddat finite sive infinite_), and an infinite strip is said to have an infinite half that, taken twice, makes the whole. That strip contains its half _bis adaequate_, which is the definition of double. So the restriction on 39a cannot mean only "a finite number of times". It must exclude infinite terms, or else the half of 42b does not make its whole double.
+
 ### Ad tertium: an aggregate is not one term
 
 The eight-foot body has no proportion to the aggregate of a four-foot and a two-foot body, although $8:6$ would be sesquitertian. The reason comes from the first solution: $b$ is not one body but two, and _proportio capitur ab uno corpore ad aliud unum_, not from one body to an aggregate of several, _maxime inaequalibus_. This is the requirement of 38a that each term _tenet locum unius rei_ (§17).
@@ -1238,7 +1240,9 @@ The word names the relation already found on 38a: $b$ is greater than the multil
 | properly greater | $8$ to $7$; $b$ to $a$ in one place | yes, _sesquiseptima_ |
 | greater _improportionabiliter_ (finite terms) | $b$ to $a$ over all places; whole to all its parts | no |
 | improperly greater (infinite terms) | the infinite body $b$ to the infinite body $a$ | no |
-| neither greater nor less | finite to infinite | no proportion _proprie loquendo_ |
+| improperly greater (infinite to finite) | an infinite body to a finite one | no proportion _proprie loquendo_ |
+
+Finite and infinite greater or less. On 38b Dolz denies _a est maius et b est minus; ergo a ad b est proportio maioris inaequalitatis_ with $a$ infinite and $b$ finite, which assumes that the infinite is greater. On 42b he says so explicitly (§21). By the criterion of 39a the infinite is greater only improperly: it contains the finite and more, but in no determinate proportion.
 
 ### Ad sextum: the perfection of species
 
@@ -1246,7 +1250,7 @@ Dolz concedes that man is more perfect than the ass and denies the consequence "
 
 Two qualifications follow:
 
-- Being infinitely more perfect than the ass does not make man infinitely perfect. _In infinitum_ here means only that no proportion measures the excess, not that either term is infinite.
+- Being infinitely more perfect than the ass does not make man infinitely perfect. _In infinitum_ here means only that no proportion measures the excess, not that either term is infinite. Page 42a makes this stronger: no asses, _etiam infiniti_, would equal the perfection of man (§21).
 - Dolz says he has treated this elsewhere (_alibi diximus_). The thesis recalls Aristotle's comparison of species to numbers (_Metaphysics_ VIII.3), where adding or removing anything yields another species. Our suggestion is that this is why Dolz links the indivisible excess to the Realist numbers of preamble 4.
 
 ### How the six objections are answered
@@ -1382,7 +1386,7 @@ In continuous proportionality the links must be similar; in addition they need n
 
 The name of a composite species adds an integer count and a fraction; adding two proportions multiplies them.
 
-The second alternative in Dolz's definition, _vel illam a qua subtrahi debet annihilari_, is obscure. One possible reading: subtracting a proportion from an equal one annihilates it and leaves equality, _sicut in quantitatibus_, as subtracting a quantity from an equal quantity leaves nothing. This is our guess (§22).
+The second alternative in Dolz's definition, _vel illam a qua subtrahi debet annihilari_, is obscure. One possible reading: subtracting a proportion from an equal one annihilates it and leaves equality, _sicut in quantitatibus_, as subtracting a quantity from an equal quantity leaves nothing. This is our guess (§23).
 
 The _continuatio_ of two dissimilar proportions through a shared term may bear on the _communicatio proportionum_ promised on 34b (§13), but Dolz does not connect them.
 
@@ -1523,7 +1527,7 @@ Why call the limma a semitone if it is not half a tone? _Semitonium_ should be r
 
 Cents also show the addition of 40a at work: compounding proportions **adds** cents. Fifth plus fourth is $701.96+498.04=1200$, the octave; fifth minus fourth is $701.96-498.04=203.91$, the tone. This is the logarithmic scale on which, as noted above, adding proportions becomes ordinary addition.
 
-Composite consonances are made from the simple ones, such as _bis diapason_, two octaves, $2\cdot2=4:1$. Dolz remarks that two octaves are rarely found in a human voice, _nisi rediret quid de quo loquitur Aristoteles septimo Politicorum capite quarto_. The phrase is corrupt. In _Politics_ VII.4 (1326b) Aristotle asks who could be herald to an excessively large multitude unless he had the voice of Stentor. The sense may be "unless Stentor, of whom Aristotle speaks, came back". This is a conjecture (§22). The passage itself is confirmed: in _Politics_ VII.4, beside Bekker page 1326b, Aristotle asks who could command an unwieldy multitude, "or who could be their herald but a Stentor?" (Ellis's translation, Project Gutenberg). Dolz's _septimo Politicorum capite quarto_ matches this chapter.
+Composite consonances are made from the simple ones, such as _bis diapason_, two octaves, $2\cdot2=4:1$. Dolz remarks that two octaves are rarely found in a human voice, _nisi rediret quid de quo loquitur Aristoteles septimo Politicorum capite quarto_. The phrase is corrupt. In _Politics_ VII.4 (1326b) Aristotle asks who could be herald to an excessively large multitude unless he had the voice of Stentor. The sense may be "unless Stentor, of whom Aristotle speaks, came back". This is a conjecture (§23). The passage itself is confirmed: in _Politics_ VII.4, beside Bekker page 1326b, Aristotle asks who could command an unwieldy multitude, "or who could be their herald but a Stentor?" (Ellis's translation, Project Gutenberg). Dolz's _septimo Politicorum capite quarto_ matches this chapter.
 
 Dolz justifies the digression by pedagogy: he adds these terms _non quia multum pertinentia philosophiae, sed ad minus ut calleas terminos_, not because they matter much to philosophy, but at least so that the student knows the terms. This matches the program of the introduction: only as much mathematics as philosophy requires, plus the vocabulary needed to read other authors.
 
@@ -1591,7 +1595,7 @@ He does not say how one proportion is to be measured against another. Two readin
 | _quadrupla_ $4:1$ to _dupla_ $2:1$ | $4\div2=2$, double | _quadrupla_ is _dupla_ added to _dupla_, so double |
 | _octupla_ $8:1$ to _dupla_ $2:1$ | $8\div2=4$, quadruple | _octupla_ is three _duplae_, so triple |
 
-The two readings agree in the first row and differ in the second. Bradwardine's rule, that speed follows the proportion of proportions, needs the second (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-and-Galileo.html), section 1.1). The addition of proportions on 40a points the same way, but Dolz has not yet chosen.
+The two readings agree in the first row and differ in the second. Bradwardine's rule, that speed follows the proportion of proportions, needs the second (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-and-Galileo.html), section 1.1). The addition of proportions on 40a points the same way, but Dolz has not yet chosen. On 42a he promises a later treatment of _maioritas proportionis_, how one proportion is greater than another (§21).
 
 ### Aristotle: _rationum comparatio_
 
@@ -1606,10 +1610,10 @@ With these suppositions Dolz turns to the questions of page 29 (§8), _seriatim_
 | 1 | number to unity | yes, as the mathematicians say | 41a |
 | 2 | discrete to continuous | not _qua_ discrete and continuous; yes in another common respect | 41a |
 | 3 | things of different genera | yes, if compared in something common that admits more or less | 41a–41b |
-| 4 | line, surface, body | Nominalists: always; Realists: only in length | 41b–42a |
-| 5 | intensity, speed, and the like | not yet answered; page 30 already admits them (§9) | — |
-| 6 | what entity a proportion is | not yet answered | — |
-| 7 | finite to infinite | treated in the reply to the second objection, 38b–39a (§17–§18) | — |
+| 4 | line, surface, body | Nominalists: always; Realists: only in the dimensions both share; nothing to a point | 41b–42a |
+| 5 | intensity, speed, and the like | yes, as page 30 already said (§9, §21) | 42a |
+| 6 | what entity a proportion is | Nominalists: the proportioned things; Realists: a respective accident; both acceptable (§21) | 42a–42b |
+| 7 | finite to infinite | no finite proportion; a _proportio infinita_ only very improperly (§21); see also 38b–39a (§17–§18) | 42b |
 
 ### Ad primam: number to unity
 
@@ -1664,7 +1668,7 @@ A final objection: degree $4$ is intense and degree $2$ remiss, they are in a pr
 | as intension against remission | no |
 | as containing degrees (_in ratione continentiae gradus_) | yes, $4:2$ |
 
-The proportion rests on the degrees contained, not on intensity and remissness as opposed qualities. This agrees with page 30, which admitted comparison _quoad intensionem_ as a multitude of degrees (§9). The following sentence, that it does not follow _quod intensionis ad intensionem et remissionis ad remissionem sit proportio_, is hard to square with page 30 and is noted in §22. Dolz defers the matter to philosophy.
+The proportion rests on the degrees contained, not on intensity and remissness as opposed qualities. This agrees with page 30, which admitted comparison _quoad intensionem_ as a multitude of degrees (§9). The following sentence, that it does not follow _quod intensionis ad intensionem et remissionis ad remissionem sit proportio_, is hard to square with page 30 and is noted in §23. Dolz defers the matter to philosophy.
 
 ### Ad quartam: line, surface, and body
 
@@ -1672,14 +1676,119 @@ The proportion rests on the degrees contained, not on intensity and remissness a
 | --- | --- | --- | --- | --- |
 | line and surface | proportion | proportion | none: a line has no breadth | none: neither has depth |
 | body and line | proportion | proportion | none | none |
+| body and surface (42a) | proportion | proportion | proportion | none: a surface has no depth |
+| point and anything (42a) | — | none | none | none |
 
-The fourth question asked especially about the Realist account. On the Nominalist account there is always a proportion, _cum utraque sit tridimensa_: both are three-dimensional. That is, the Nominalists posit no lines or surfaces distinct from bodies, so any two quantities compared are bodies. On the Realist account (_realizando_) the answer depends on the respect. A line and a surface can be compared only in length, the one dimension both have. The same holds for body and line. The sentence on body and line breaks off at the end of 41b and continues on 42a.
+The fourth question asked especially about the Realist account. On the Nominalist account there is always a proportion, _cum utraque sit tridimensa_: both are three-dimensional. That is, the Nominalists posit no lines or surfaces distinct from bodies, so any two quantities compared are bodies. On the Realist account (_realizando_) the answer depends on the respect. A line and a surface can be compared only in length, the one dimension both have. The same holds for body and line. The answer is completed on 42a (§21).
 
 Our observation: this is the principle of the third answer applied to geometry. The question is not to which genus the terms belong but in which respect they are compared. Compared in length, a line and a surface yield a ratio of length to length, so even Euclid's demand that ratios hold between magnitudes of the same kind (V, def. 3) is met.
 
 ---
 
-## 21. Summary of the doctrine
+## 21. Page 42: the last answers to the seven questions, and the aliquot parts of the infinite
+
+### Ad quartam concluded: body, surface, and point
+
+| Pair (Realists) | Dimensions both have | Proportion | Proposition |
+| --- | --- | --- | --- |
+| line and surface | length | in length only | 2–4 (41b) |
+| body and line | length | in length only | 5 (41b–42a) |
+| body and surface | length, breadth | in length and breadth, not depth | 6 (42a) |
+| point and line, surface, or body | none | none | _ultima_ (42a) |
+
+The fifth proposition: body and line have no proportion in breadth or depth, because a line has neither, but they have one in length. The sixth follows by the same proof (_haec claret aliarum probatione_). The last says that nothing has a proportion to a point: _nihil est magnum aut parvum utrique commune in quo valeant comparari_. Dolz says the same holds of other cases, whose conditions come later (_in sequentibus_).
+
+Our observation: the point is the limit case of the rule of the third answer. A line and a body share one dimension; a point and a line share none. Compare unity (§20): Dolz called it great improperly, because taken some number of times it yields a number. No such argument is available for the point, since no number of points yields a line.
+
+### _Excedit incommensurabiliter_: a common saying explained
+
+Paulus Venetus and Dullaert say that _corpus excedit lineam vel superficiem incommensurabiliter aut improportionabiliter_. Dolz explains how to take it:
+
+| Relation | Respect | Proportion? |
+| --- | --- | --- |
+| body to line | length, which both have | yes |
+| body to line | as body: _numquam lineae quotcumque numero accepto facient corpus_ | no, _improportionabiliter_ |
+| body to surface | as body: no number of surfaces makes a body | no |
+| man to ass | perfection: _numquam asini quicumque, etiam infiniti, aequabuntur perfectioni hominis_ | no |
+
+The saying is not about the respect in which body and line are compared, for in length they have a proportion. It means that no number of lines ever makes a body. The comparison with man and ass connects this passage to the sixth objection (§18). Page 42a also sharpens 39b: no multitude of asses, not even an infinite one, reaches the perfection of man.
+
+Three observations of ours:
+
+- _Incommensurabiliter_ here is not the incommensurability of side and diagonal (§6). Side and diagonal are magnitudes of one kind that lack a common measure. Line and body are of different dimension, and no multiple of the one reaches the other. Dolz treats the word as a synonym of _improportionabiliter_.
+- This is the failure of Euclid V, def. 4 already seen for the angle of contingence (§20) and for finite and infinite (§18).
+- The excess is stronger than that of the infinite over the finite. On 42b infinitely many finite parts **do** make an infinite whole; infinitely many lines do not make a body. On the Realist premise of the second proposition, _linea non est lata_, so no aggregate of lines has breadth. This is close to Aristotle's denial that a continuum is composed of indivisibles (_Physics_ VI.1), but Dolz does not cite it.
+
+### Ad quintam: intensity and speed
+
+Under the transcription's heading _Decisiones aliquarum quaestionum in proportionibus_, Dolz answers the fifth question briefly: yes. Proportion arises from intensity and remission, speed and slowness, because in them equality or inequality _proprie aut improprie sumi potest_. This is the broad definition of page 30 (§9), and the answer refers back to it (_patet responsio ex dictis_).
+
+### Ad sextam: what entity a proportion is
+
+Dolz admits that the question is hard (_non facile est explicare_). He sets out two accounts and accepts both.
+
+| | Nominalists (_nominalizando_) | Realists (_imaginatio Realium_) |
+| --- | --- | --- |
+| A proportion is | the proportioned thing itself (_res proportionata_) | a respective accident (_accidens respectivum_) resulting from the comparison of one thing to another |
+| Modelled on | their account of similarity | their account of similarity |
+| Greater and lesser | need distinctions of _appellatio_: _in ratione rerum_ or _in ratione proportionis_ | said of the accident directly |
+| If the accident is indivisible | — | still equal or unequal, like the indivisible numbers of preamble 4 (§1) |
+
+**The Nominalist account.** If a proportion is only the proportioned things, then sentences about proportions must be read with care. Dolz gives the consequence: one would concede that _proportio a ad b non est maior quam c ad d_, although it is _maior proportio_. Taken _in ratione rerum_, the sentence compares the things; taken _in ratione proportionis_, it compares the proportions. An example of ours: let $a=4$ ft, $b=1$ ft, $c=10$ ft, $d=5$ ft. The things $a$ and $b$ are not greater than $c$ and $d$, but $4:1$ is a greater proportion than $10:5$. The distinction is the one the Nominalists already use for similarity, as Dolz notes (_sicut alibi nominales soliti sunt dicere de similitudine_). Ockham, for example, does not posit relations distinct from the related things (our comparison; not in Dolz).
+
+**The Realist account.** A proportion is a respective accident resulting from the comparison of one thing to another, as the Realists say of similarity. It is called greater or less, and what follows in the treatise can easily be restated in these terms. Even if the accident were indivisible, it could still be equal or unequal, _ut diximus de numero in praeambulis_: indivisible predicamental numbers are greater or lesser by the unities they presuppose (§1). This is the same exception that page 39b allowed for an indivisible excess between Realist numbers (§18).
+
+Dolz says the Realist _imaginatio_ is _non minus congrua_. He does not decide between them, as preamble 1 had announced: he speaks _more Realium_ while holding the Nominalists truer (§1). The rest is left _curioso brevitatis causa_.
+
+He also promises to say later _de maioritate proportionis_, what it is for one proportion to be greater than another. This should settle whether proportions are compared by value or by composition, the question left open in §20.
+
+### Ad ultimam: finite and infinite
+
+| Pair | Greater? | Proportion? | Page |
+| --- | --- | --- | --- |
+| infinite to finite | yes, improperly by the criterion of 39a | no finite proportion; a _proportio infinita_ may be posited as a member of proportion, but its species only _valde improprie_ | 38b, 42b |
+| infinite to infinite | yes, if one contains the other and more; improperly | none seems possible | 39a, 42b |
+
+The common saying, from Aristotle, is that there is no proportion of finite to infinite or the reverse. Dolz restricts it, following Paulus Venetus in _De caelo_: it concerns the proportions already set out, which are finite. This is the answer of 38b (§17), now with its authority. The seventh question of page 29 had asked exactly _quomodo intelligitur dictum commune negativum_.
+
+Greaterness, however, is posited both of infinite to finite and of infinite to infinite. One may therefore posit a proportion of infinite to finite as a member of the division, the _proportio infinita_ of 38b. But its species could be assigned only very improperly, since each would be infinite. Between two infinites, even granted an improper greaterness, no proportion is apparent.
+
+Dolz draws the general rule: _non oportet quod a qualibet maioritate abstrahatur proportio_, not every greaterness yields a proportion. This states generally the consequence denied on 38b. To say otherwise one would have to _mathematicos exire et satis extranee loqui_, leave the mathematicians and speak very strangely. Page 39a had said that Dolz does not oppose the mathematicians (§18).
+
+The print says that greaterness of infinite to finite and infinite to infinite is _iam proprie dicta_. This conflicts with 39a, where one infinite is greater than another only improperly, and with the next sentence, _maioritas improprie dicta inter unum infinitum et aliud infinitum_. _Iam … dictam_ ("already spoken of") points back to 39a, so the transcription adopts _improprie_ as a conjecture (§23).
+
+### Does the infinite have an aliquot part?
+
+**Paulus Venetus says no.** An aliquot part, he holds, must stand to its whole in a superparticular proportion or a sub-superparticular one; Dolz then corrects the report, saying that Paulus names only the superparticular. Dolz objects that the half is an aliquot part, yet it stands to the whole in a _subdupla_, not a superparticular, and the whole to it in a _dupla_. The same holds for the third and the others. So Paulus seems to err, unless the printer erred or Paulus takes _superparticularis_ in another sense.
+
+Our observation: in the classification of pages 30–33 (§9–§11), a whole always stands to its aliquot part as a multiplex ($n:1$), and the part to the whole as a submultiplex. Superparticular ($(n+1):n$) is the proportion of a whole to what is left after one aliquot part is removed. If Paulus's text had _multiplicem_ or _submultiplicem_, the criterion would be correct. Paulus's text has not been checked.
+
+**Dolz's answer depends on the description of the term**, the conventionalist principle of preamble 8 (§5):
+
+| Sense of _aliquota_ | Requirement | Finite part of an infinite | Infinite part of an infinite |
+| --- | --- | --- | --- |
+| strict (26b, §2) | taken a finite number of times (_aliquoties finite_), it makes the whole; or it stands to the whole in one of the proportions defined | not aliquot, but non-aliquot _opposito modo describendo_ | some are aliquot: the half-breadth example |
+| wide (_latius_) | taken a finite or infinite number of times, it makes the whole | every finite part is aliquot: _quaelibet infinities sumpta reddit totum_ | continues on 43a |
+
+The example of an infinite aliquot part:
+
+| Body | Length | Breadth |
+| --- | --- | --- |
+| the whole | infinite toward the east | $1$ foot |
+| its half by breadth | infinite toward the east | $\tfrac12$ foot |
+
+Two such halves side by side make the whole, so the half is an aliquot part: _bis sumpta reddit totum_. Thus _alicuius infiniti, aliqua pars finite sumpta, reddit totum_. The sentence continues on 43a, and the _videtur_ of _aliqua videtur aliquota_ suggests that a qualification follows.
+
+Four observations of ours:
+
+- **The strict sense is the Lean `Aliquot` of §2**, where the number of repetitions is a natural number $n\ge2$. The wide sense allows an infinite number of repetitions. It is a new description of the term, which preamble 8 permits (_descriptio termini spontanea est_), provided one speaks consistently.
+- **The wide sense changes the uniqueness of the count.** In the strict sense a part of a given whole is aliquot in one way: the half twice, the third three times. In the wide sense a one-foot and a two-foot part are both aliquot to the same infinite body, each taken infinitely many times.
+- **Tension with 39a.** The whole strip contains its half _bis adaequate_, which is the definition of double. Yet 39a denied that any infinite is double another and required _bis_ to be read _finite_ (§18). Here the half is taken twice, finitely, and is still infinite. Either the aliquot half of an infinite does not make the whole its double, which would break the link between aliquot parts and the species of pages 30–31, or 43a qualifies the case. This remains open until page 43 is transcribed.
+- **The contrast with 42a.** Infinitely many finite parts make an infinite whole, but no number of lines, finite or infinite, makes a body. The excess of body over line is therefore of another kind than the excess of infinite over finite.
+
+---
+
+## 22. Summary of the doctrine
 
 1. _Aliquot part_ is a **two-place relation** between a part and a whole, requiring exact measure and at least two repetitions.
 2. Dropping the second term of the relation is what generates every difficulty in preamble 8.
@@ -1733,16 +1842,21 @@ Our observation: this is the principle of the third answer applied to geometry. 
 50. The most perfect proportionality $6,8,9,12$ contains the arithmetical, geometrical, and harmonic kinds and all the simple intervals.
 51. A proportionality does not require all its proportions to be similar; arithmetical proportionality shows this.
 52. Every proportionality is a proportion, but not conversely: proportions are discrete quantities, numbers, so a relation of proportions is a relation of quantities.
-53. Proportionalities can be found among proportions of proportions and their excesses, as among numbers. This grounds the _proportio proportionum_ of page 29; whether one proportion is measured against another by value or by composition is not yet said.
+53. Proportionalities can be found among proportions of proportions and their excesses, as among numbers. This grounds the _proportio proportionum_ of page 29; whether one proportion is measured against another by value or by composition is not yet said, though page 42 promises a treatment of _maioritas proportionis_.
 54. There is a proportion of number to unity, although unity is great only improperly.
 55. Discrete and continuous quantity have no proportion _qua_ discrete and continuous, but can have one in another common respect; for the Nominalists the continuum is also discrete.
 56. A common respect is necessary but not sufficient: the terms must also be comparable in it. Swineshead's intension and remission, and Paulus Venetus's right angle and angle of contingence, are not comparable and so have no proportion, which agrees with Dolz's definition.
 57. Degrees of intensity stand in proportion by the degrees they contain, not as intension against remission.
-58. For the Nominalists line, surface, and body always have a proportion, since all are three-dimensional; for the Realists only in a dimension they share, which for line and surface or line and body is length.
+58. For the Nominalists line, surface, and body always have a proportion, since all are three-dimensional; for the Realists only in a dimension they share, which for line and surface or line and body is length, and for body and surface length and breadth. Nothing has a proportion to a point.
+59. A body exceeds a line or surface _incommensurabiliter_ or _improportionabiliter_, not in the length they share, but because no number of lines or surfaces makes a body; likewise no number of asses, even infinite, equals the perfection of man.
+60. Proportion arises from intensity and speed as from magnitude, because equality and inequality can be taken in them properly or improperly.
+61. What a proportion is: for the Nominalists the proportioned things themselves, with sentences about greater proportions read _in ratione rerum_ or _in ratione proportionis_; for the Realists a respective accident, like similarity, which even if indivisible can be equal or unequal. Dolz accepts both.
+62. Aristotle's denial of proportion between finite and infinite concerns the finite proportions, as Paulus Venetus says. The infinite is greater than the finite, and one infinite than another, but not every greaterness yields a proportion; a _proportio infinita_ could have species only very improperly.
+63. Paulus Venetus denies the infinite an aliquot part on a faulty criterion, since the half stands to its whole in a _subdupla_, not a superparticular proportion. In the strict sense no finite part of an infinite is aliquot; in a wider sense that allows infinitely many repetitions, every finite part is. Some infinite parts, such as the half of an infinite strip by breadth, are aliquot even in the strict sense.
 
 ---
 
-## 22. Textual notes
+## 23. Textual notes
 
 Proposed emendations arising from the analysis. Those marked _insecure_ are recorded but not recommended for adoption.
 
@@ -1791,3 +1905,7 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 41a | Et dico notanter **'ut tali'** | _(left as printed)_ | No _ut tali_ precedes; the nearest is _utrique tali_. Possibly _utrique ut tali_ was intended _(insecure)_ |
 | 41a | ista est vera "**Continuitatis** continuae ad discretam est proportio" | probably **Quantitatis** _(insecure)_ | _Continuitas continua_ is pleonastic; the question and the example (two-foot to one-foot) concern continuous and discrete **quantity** |
 | 41b | Non propterea sequitur quod **intensionis ad intensionem et remissionis ad remissionem** sit proportio | _(obscure; left as printed)_ | Page 30 admits proportion _quoad intensionem_. The sense may be that the proportion is not grounded in intension as such, or the text may have meant _intensionis ad remissionem_ |
+| 42a | in proportionabili sensu; poterit **compositio divisionis** attribui | _(obscure; left as printed)_ | Possibly _compositio \[et\] divisio_: the addition and subtraction of proportions (40a, §19) could be attributed even to an indivisible respective accident |
+| 42b | **Aequalitatis** nec **inaequalitatis** infinitis attribuitur | **Aequalitas** nec **inaequalitas** | The genitives have no governing word |
+| 42b | maioritatem iam **proprie** dictam | **improprie** (adopted; conjectural) | 39a makes one infinite greater than another only improperly; the next sentence has _maioritas improprie dicta_; _iam … dictam_ refers back to 39a |
+| 42b | ad partem aliquotam opus est quod habeat proportionem **superparticularem** ad totum | _(left as printed)_ | Dolz's report of Paulus Venetus, criticised by Dolz himself; the right relation is submultiplex. Paulus's text not checked |

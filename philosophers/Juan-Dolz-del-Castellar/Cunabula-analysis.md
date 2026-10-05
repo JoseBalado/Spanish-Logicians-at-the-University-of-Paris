@@ -38,7 +38,7 @@ The surviving text therefore supports the conclusion that Dolz deliberately atte
 
 # Preambles, proportion, and proportionality
 
-**Pages 25a–42b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals; the answers to the seven questions of page 29; and the aliquot parts of the infinite.
+**Pages 25a–43b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals; the answers to the seven questions of page 29; the aliquot parts of the infinite, which close the first article; and the first four preambles of the second article, on the parts of a proportion.
 
 ## 1. Why the metaphysics comes first
 
@@ -1195,6 +1195,8 @@ The modern parallel is Euclid, _Elements_ V, def. 4 (our comparison): magnitudes
 
 Page 42b supports this reading and also complicates it (§21). There _finite_ does qualify the number of repetitions (_aliquotiens reddat finite sive infinite_), and an infinite strip is said to have an infinite half that, taken twice, makes the whole. That strip contains its half _bis adaequate_, which is the definition of double. So the restriction on 39a cannot mean only "a finite number of times". It must exclude infinite terms, or else the half of 42b does not make its whole double.
 
+Page 43a settles it (§22). Dolz returns to this very body, infinite east and west, and grants that its eastern part is aliquot. But the names half, third, fourth are not given to parts of infinites, so the whole is not called double its part.
+
 ### Ad tertium: an aggregate is not one term
 
 The eight-foot body has no proportion to the aggregate of a four-foot and a two-foot body, although $8:6$ would be sesquitertian. The reason comes from the first solution: $b$ is not one body but two, and _proportio capitur ab uno corpore ad aliud unum_, not from one body to an aggregate of several, _maxime inaequalibus_. This is the requirement of 38a that each term _tenet locum unius rei_ (§17).
@@ -1386,7 +1388,7 @@ In continuous proportionality the links must be similar; in addition they need n
 
 The name of a composite species adds an integer count and a fraction; adding two proportions multiplies them.
 
-The second alternative in Dolz's definition, _vel illam a qua subtrahi debet annihilari_, is obscure. One possible reading: subtracting a proportion from an equal one annihilates it and leaves equality, _sicut in quantitatibus_, as subtracting a quantity from an equal quantity leaves nothing. This is our guess (§23).
+The second alternative in Dolz's definition, _vel illam a qua subtrahi debet annihilari_, is obscure. One possible reading: subtracting a proportion from an equal one annihilates it and leaves equality, _sicut in quantitatibus_, as subtracting a quantity from an equal quantity leaves nothing. This is our guess (§24).
 
 The _continuatio_ of two dissimilar proportions through a shared term may bear on the _communicatio proportionum_ promised on 34b (§13), but Dolz does not connect them.
 
@@ -1527,7 +1529,7 @@ Why call the limma a semitone if it is not half a tone? _Semitonium_ should be r
 
 Cents also show the addition of 40a at work: compounding proportions **adds** cents. Fifth plus fourth is $701.96+498.04=1200$, the octave; fifth minus fourth is $701.96-498.04=203.91$, the tone. This is the logarithmic scale on which, as noted above, adding proportions becomes ordinary addition.
 
-Composite consonances are made from the simple ones, such as _bis diapason_, two octaves, $2\cdot2=4:1$. Dolz remarks that two octaves are rarely found in a human voice, _nisi rediret quid de quo loquitur Aristoteles septimo Politicorum capite quarto_. The phrase is corrupt. In _Politics_ VII.4 (1326b) Aristotle asks who could be herald to an excessively large multitude unless he had the voice of Stentor. The sense may be "unless Stentor, of whom Aristotle speaks, came back". This is a conjecture (§23). The passage itself is confirmed: in _Politics_ VII.4, beside Bekker page 1326b, Aristotle asks who could command an unwieldy multitude, "or who could be their herald but a Stentor?" (Ellis's translation, Project Gutenberg). Dolz's _septimo Politicorum capite quarto_ matches this chapter.
+Composite consonances are made from the simple ones, such as _bis diapason_, two octaves, $2\cdot2=4:1$. Dolz remarks that two octaves are rarely found in a human voice, _nisi rediret quid de quo loquitur Aristoteles septimo Politicorum capite quarto_. The phrase is corrupt. In _Politics_ VII.4 (1326b) Aristotle asks who could be herald to an excessively large multitude unless he had the voice of Stentor. The sense may be "unless Stentor, of whom Aristotle speaks, came back". This is a conjecture (§24). The passage itself is confirmed: in _Politics_ VII.4, beside Bekker page 1326b, Aristotle asks who could command an unwieldy multitude, "or who could be their herald but a Stentor?" (Ellis's translation, Project Gutenberg). Dolz's _septimo Politicorum capite quarto_ matches this chapter.
 
 Dolz justifies the digression by pedagogy: he adds these terms _non quia multum pertinentia philosophiae, sed ad minus ut calleas terminos_, not because they matter much to philosophy, but at least so that the student knows the terms. This matches the program of the introduction: only as much mathematics as philosophy requires, plus the vocabulary needed to read other authors.
 
@@ -1595,7 +1597,7 @@ He does not say how one proportion is to be measured against another. Two readin
 | _quadrupla_ $4:1$ to _dupla_ $2:1$ | $4\div2=2$, double | _quadrupla_ is _dupla_ added to _dupla_, so double |
 | _octupla_ $8:1$ to _dupla_ $2:1$ | $8\div2=4$, quadruple | _octupla_ is three _duplae_, so triple |
 
-The two readings agree in the first row and differ in the second. Bradwardine's rule, that speed follows the proportion of proportions, needs the second (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-and-Galileo.html), section 1.1). The addition of proportions on 40a points the same way, but Dolz has not yet chosen. On 42a he promises a later treatment of _maioritas proportionis_, how one proportion is greater than another (§21).
+The two readings agree in the first row and differ in the second. Bradwardine's rule, that speed follows the proportion of proportions, needs the second (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-and-Galileo.html), section 1.1). The addition of proportions on 40a points the same way, but page 41 does not choose. On 42a Dolz promises a later treatment of _maioritas proportionis_, how one proportion is greater than another (§21). Page 43b chooses the second reading: the half of a proportion is the proportion that, added to itself, makes the whole (§22).
 
 ### Aristotle: _rationum comparatio_
 
@@ -1668,7 +1670,7 @@ A final objection: degree $4$ is intense and degree $2$ remiss, they are in a pr
 | as intension against remission | no |
 | as containing degrees (_in ratione continentiae gradus_) | yes, $4:2$ |
 
-The proportion rests on the degrees contained, not on intensity and remissness as opposed qualities. This agrees with page 30, which admitted comparison _quoad intensionem_ as a multitude of degrees (§9). The following sentence, that it does not follow _quod intensionis ad intensionem et remissionis ad remissionem sit proportio_, is hard to square with page 30 and is noted in §23. Dolz defers the matter to philosophy.
+The proportion rests on the degrees contained, not on intensity and remissness as opposed qualities. This agrees with page 30, which admitted comparison _quoad intensionem_ as a multitude of degrees (§9). The following sentence, that it does not follow _quod intensionis ad intensionem et remissionis ad remissionem sit proportio_, is hard to square with page 30 and is noted in §24. Dolz defers the matter to philosophy.
 
 ### Ad quartam: line, surface, and body
 
@@ -1740,7 +1742,7 @@ Dolz admits that the question is hard (_non facile est explicare_). He sets out 
 
 Dolz says the Realist _imaginatio_ is _non minus congrua_. He does not decide between them, as preamble 1 had announced: he speaks _more Realium_ while holding the Nominalists truer (§1). The rest is left _curioso brevitatis causa_.
 
-He also promises to say later _de maioritate proportionis_, what it is for one proportion to be greater than another. This should settle whether proportions are compared by value or by composition, the question left open in §20.
+He also promises to say later _de maioritate proportionis_, what it is for one proportion to be greater than another. This should settle whether proportions are compared by value or by composition, the question left open in §20. The second article, which begins on 43a, is this treatment, and its fourth preamble answers for the parts of a proportion: by composition (§22).
 
 ### Ad ultimam: finite and infinite
 
@@ -1755,7 +1757,7 @@ Greaterness, however, is posited both of infinite to finite and of infinite to i
 
 Dolz draws the general rule: _non oportet quod a qualibet maioritate abstrahatur proportio_, not every greaterness yields a proportion. This states generally the consequence denied on 38b. To say otherwise one would have to _mathematicos exire et satis extranee loqui_, leave the mathematicians and speak very strangely. Page 39a had said that Dolz does not oppose the mathematicians (§18).
 
-The print says that greaterness of infinite to finite and infinite to infinite is _iam proprie dicta_. This conflicts with 39a, where one infinite is greater than another only improperly, and with the next sentence, _maioritas improprie dicta inter unum infinitum et aliud infinitum_. _Iam … dictam_ ("already spoken of") points back to 39a, so the transcription adopts _improprie_ as a conjecture (§23).
+The print says that greaterness of infinite to finite and infinite to infinite is _iam proprie dicta_. This conflicts with 39a, where one infinite is greater than another only improperly, and with the next sentence, _maioritas improprie dicta inter unum infinitum et aliud infinitum_. _Iam … dictam_ ("already spoken of") points back to 39a, so the transcription adopts _improprie_ as a conjecture (§24).
 
 ### Does the infinite have an aliquot part?
 
@@ -1767,8 +1769,8 @@ Our observation: in the classification of pages 30–33 (§9–§11), a whole al
 
 | Sense of _aliquota_ | Requirement | Finite part of an infinite | Infinite part of an infinite |
 | --- | --- | --- | --- |
-| strict (26b, §2) | taken a finite number of times (_aliquoties finite_), it makes the whole; or it stands to the whole in one of the proportions defined | not aliquot, but non-aliquot _opposito modo describendo_ | some are aliquot: the half-breadth example |
-| wide (_latius_) | taken a finite or infinite number of times, it makes the whole | every finite part is aliquot: _quaelibet infinities sumpta reddit totum_ | continues on 43a |
+| strict (26b, §2) | taken a finite number of times (_aliquoties finite_), it makes the whole; or it stands to the whole in one of the proportions defined | not aliquot, but non-aliquot _opposito modo describendo_ | some are aliquot, such as the half by breadth; some are not, such as the whole less one foot (43a, §22) |
+| wide (_latius_) | taken a finite or infinite number of times, it makes the whole | every finite part is aliquot: _quaelibet infinities sumpta reddit totum_ | not discussed separately; at least those aliquot in the strict sense |
 
 The example of an infinite aliquot part:
 
@@ -1777,18 +1779,110 @@ The example of an infinite aliquot part:
 | the whole | infinite toward the east | $1$ foot |
 | its half by breadth | infinite toward the east | $\tfrac12$ foot |
 
-Two such halves side by side make the whole, so the half is an aliquot part: _bis sumpta reddit totum_. Thus _alicuius infiniti, aliqua pars finite sumpta, reddit totum_. The sentence continues on 43a, and the _videtur_ of _aliqua videtur aliquota_ suggests that a qualification follows.
+Two such halves side by side make the whole, so the half is an aliquot part: _bis sumpta reddit totum_. Thus _alicuius infiniti, aliqua pars finite sumpta, reddit totum_. The sentence continues on 43a, and the qualification that _aliqua videtur aliquota_ suggested does follow (§22).
 
 Four observations of ours:
 
 - **The strict sense is the Lean `Aliquot` of §2**, where the number of repetitions is a natural number $n\ge2$. The wide sense allows an infinite number of repetitions. It is a new description of the term, which preamble 8 permits (_descriptio termini spontanea est_), provided one speaks consistently.
 - **The wide sense changes the uniqueness of the count.** In the strict sense a part of a given whole is aliquot in one way: the half twice, the third three times. In the wide sense a one-foot and a two-foot part are both aliquot to the same infinite body, each taken infinitely many times.
-- **Tension with 39a.** The whole strip contains its half _bis adaequate_, which is the definition of double. Yet 39a denied that any infinite is double another and required _bis_ to be read _finite_ (§18). Here the half is taken twice, finitely, and is still infinite. Either the aliquot half of an infinite does not make the whole its double, which would break the link between aliquot parts and the species of pages 30–31, or 43a qualifies the case. This remains open until page 43 is transcribed.
+- **Tension with 39a.** The whole strip contains its half _bis adaequate_, which is the definition of double. Yet 39a denied that any infinite is double another and required _bis_ to be read _finite_ (§18). Here the half is taken twice, finitely, and is still infinite. Either the aliquot half of an infinite does not make the whole its double, which would break the link between aliquot parts and the species of pages 30–31, or 43a qualifies the case. Page 43a takes the first way, and says so: the names half, third, fourth are not given to parts of infinites (§22).
 - **The contrast with 42a.** Infinitely many finite parts make an infinite whole, but no number of lines, finite or infinite, makes a body. The excess of body over line is therefore of another kind than the excess of infinite over finite.
 
 ---
 
-## 22. Summary of the doctrine
+## 22. Page 43: the first article concluded, and the parts of a proportion
+
+### An infinite part that is not aliquot
+
+The qualification announced by _aliqua videtur aliquota_ (42b, §21) follows at once. Take the same strip, infinite toward the east, and remove one foot of it (_dempta una pedalitate_). The infinite remainder is not aliquot. Taken once, it falls short of the whole by the foot; taken twice, it gives _maius improprie aut minus_, never the whole exactly.
+
+| Part of the strip | Taken once | Taken twice | Aliquot? | Page |
+| --- | --- | --- | --- | --- |
+| the half by breadth | half the whole | the whole | yes | 42b |
+| the whole less one foot | the whole less a foot | not the whole exactly | no | 43a |
+
+Infinite parts of an infinite therefore divide as finite parts of a finite whole do: some are aliquot, some are not. _Aut minus_ is unclear to us, since two copies laid without overlap already contain the whole. Dolz may mean only that the result is not equal to the whole, whether greater or less.
+
+### The line infinite east and west
+
+Take a line infinite toward both east and west. Its part toward the east, ending at some point, can be called aliquot, and so can _plures tales_: every point gives one. This is the body of the objection on 39a, which contained the one-way infinite twice (§18). Dolz adds two restrictions:
+
+1. These are not the aliquot parts from which the species of proportion are named: _nec istae essent aliquotae a quibus superparticulares positae denominarentur_.
+2. Not every aliquot part is a half, a third, a fourth: _hae denominationes non attribuuntur partibus infinitorum_.
+
+The rule covers _infinitum simpliciter_ and _infinitum secundum quid_. The strip and the line, infinite in length only, are of the second kind.
+
+Four observations of ours:
+
+- **This resolves the tension of §18 and §21.** The eastern part is aliquot, and taken twice it makes the line. Yet the line is not its double, because the part is not called a half. On 39a Dolz denied the name _dupla_ to the whole; on 43a he denies the name _medietas_ to the part. The two answers agree. The link between aliquot parts and the species of pages 30–31 is cut for infinites, and deliberately.
+- **42b had used _medietas_ of the strip.** That fits 43a only if the name is taken from the finite breadth: half of one foot. Of the infinite strip as a whole, 43a forbids it.
+- **Aliquot parts of the same count are unequal.** In a finite whole every half has the same size. Here the eastern parts from two different points are both aliquot, both taken twice, but one contains the other and more, so one is greater, improperly, by the criterion of 39a.
+- **Dolz marks these as his own.** _Non mireris si in his aliquid fateamur quod communiter non concederetur_: they are _probabilia_ added to the common doctrine. With them the first article, on definitions and divisions, ends, although he will come back to the subject (_adhuc super hac materia tangemus aliquid_).
+
+### The second article
+
+The prooemium (25a) had announced that the second article _maioritatem, aequalitatem et minoritatem omnium proportionum aperiet_. This is the treatment of _maioritas proportionis_ promised on 42a (§21). As before, Dolz first sets out preambles; four fall on 43a–43b and the fifth begins on 44a.
+
+| Preamble | Page | Claim |
+| --- | --- | --- |
+| 1 | 43a | proportion has parts, improperly, as number does; so proportions are equal or unequal |
+| 2 | 43a | the parts of a proportion are the proportions among its terms and the numbers between them |
+| 3 | 43a–43b | those parts overlap or not, are greater, lesser, or equal, aliquot or not |
+| 4 | 43b | aliquot parts of a proportion are not taken by equal distance of numbers |
+
+### Preamble 1: proportion has parts
+
+Even if proportion were an indivisible respect, the Realist accident of 42a, geometry attributes composition to it. The composition is improper, _quia indivisibile proprie non componitur_, as was said of number in the first article (preambles 2–4, §1). So proportions have parts and can be divided, and among them there is equality and inequality.
+
+This supports the conjecture that the printed _compositio divisionis_ of 42b means _compositio \[et\] divisio_, composition and division (§24).
+
+### Preamble 2: the parts of $8:4$
+
+The parts of a proportion are found by looking at its terms. Every proportion between the intermediate numbers, or between the greatest and an intermediate, or between an intermediate and the least, is a part of it. Dolz lists nine parts of $8:4$:
+
+| From | Parts |
+| --- | --- |
+| the greatest to an intermediate | $8:7$, $8:6$, $8:5$ |
+| intermediate to intermediate | $7:6$, $7:5$, $6:5$ |
+| an intermediate to the least | $7:4$, $6:4$, $5:4$ |
+
+These are all the pairs from $4,5,6,7,8$ except $8:4$ itself, so the list is complete. Each part is a link in the sense of 40a: $8:6$ and $6:4$ added make $8:4$ (§19). Dolz compares this to the continuum (_simili modo ut in continuis_): the parts of a line between two points are the segments between the points that lie on it.
+
+Our observation: the parts depend on the terms chosen. The same double as $2:1$ has no whole number between its terms and so no parts by this rule; as $4:2$ it has only $4:3$ and $3:2$. _Proportionabiliter de aliis_ must mean taking terms large enough.
+
+### Preamble 3: overlapping parts, aliquot parts
+
+As in other divisibles, the parts of a proportion are _communicantes_ or _non communicantes_, the terms of 28b (§6). In our example, $8:6$ and $7:5$ overlap, sharing $7:6$; $8:6$ and $6:4$ do not. Dolz promises more _de communicatione proportionum_.
+
+The parts are also greater, lesser, or equal; there are halves, thirds, and fourths; and so there are aliquot and non-aliquot parts of a proportion. The half is always aliquot, and so are the third and the fourth. _Aggregatum ex duabus tertiis et tribus quartis_ is not aliquot. Taken as one aggregate, two thirds and three fourths would exceed the whole, so we read it distributively: two thirds, and three fourths, are each non-aliquot, as on 31a (§10).
+
+### Preamble 4: three kinds of middle
+
+In a divisible, aliquot parts are taken by distance. In proportions they are not. Dolz sets out three kinds of middle:
+
+| Middle | Defined by | Source | Example |
+| --- | --- | --- | --- |
+| _medium rationis_ | neither exceeds nor falls short of right reason; sometimes nearer the excess, sometimes the defect | Aristotle, _Ethics_ II; Gabriel Biel on the _Sentences_ | virtue |
+| _medium rei_ | equally distant from the extremes | Aristotle, _Ethics_ II; the mathematicians | $6$ between $8$ and $4$ |
+| _medium proportionale_ | in equal proportion to the extremes | the mathematicians | $4$ between $8$ and $2$ |
+
+$6$ is the _medium rei_ of $8$ and $4$, but not proportional: $8:6$ is _sesquitertia_ and $6:4$ _sesquialtera_. $4$ is the proportional middle of $8$ and $2$, since $8:4$ and $4:2$ are both _dupla_, but not the _medium rei_: it lies $4$ from one extreme and $2$ from the other.
+
+Hence the half of $8:4$ is neither $8:6$ nor $6:4$, although $6$ is equidistant. Every half must be _subdupla_ to its whole, and _sesquitertia_ is not _subdupla_ to _dupla_; the proof is promised (_ut patebit_). The half of $8:2$ is $8:4$.
+
+In modern terms the _medium rei_ is the arithmetic mean, $\tfrac{a+b}2$, and the _medium proportionale_ the geometric mean, $\sqrt{ab}$. Aristotle's mean of the thing and mean relative to us is _Ethics_ II.6 (1106a26–b7). The citation of Biel is printed _xiii. dsti. tertii. ſniaꝝ_, that is, _decima tertia distinctione tertii Sententiarum_ (book III, d. 13). Distinction 13 treats the grace of Christ, so _xiii_ may be a misprint for _xxxiii_, where Peter Lombard treats the cardinal virtues and the mean of virtue belongs (unchecked, §24).
+
+The preamble ends: as a proportion is part of a proportion, so it is an aliquot part. But no proportion is an aliquot part of every proportion, nor even of every proportion other than itself.
+
+Three observations of ours:
+
+- **Proportions are measured by composition.** The half of a proportion is the one that, added to itself in the sense of 40a, makes the whole. $8:4$ added to $4:2$ makes $8:2$, so _dupla_ is half of _quadrupla_; $4:3$ added to itself makes $16:9$, not $2:1$. To add a proportion to itself, find three terms in which the first is to the second, and the second to the third, in that proportion. For $4:3$ these are $16, 12, 9$: $16:12$ and $12:9$ are both _sesquitertia_, and the chain runs from $16$ to $9$, so $4:3 + 4:3 = 16:12 + 12:9 = 16:9$. "Adding" here is linking proportions through a shared middle term, as $8:6$ and $6:4$ make $8:4$ on 40a; in modern terms it is multiplying the ratios, $\tfrac43\cdot\tfrac43=\tfrac{16}9$. Measured by value, the half of $2:1$ would be $1:1$, equality, which is no part of it. This answers the question of §20 for the parts of a proportion, and it is the measure Bradwardine's rule needs (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-and-Galileo.html), section 1.1).
+- **The half of $8:4$ has no whole-number terms.** It needs $b$ with $8:b=b:4$, so $b\cdot b=32$, and no whole number squared gives $32$. In modern terms the half of the double is $\sqrt2:1$, the ratio of the diagonal of a square to its side, which preamble 9 showed to have no common measure (§6). The tone $9:8$ fails to be halved in the same way (§19). In fact none of the nine parts of preamble 2 is aliquot to $8:4$: an aliquot part $r$ would need $r^n=2$ for some $n\ge2$, and no ratio of whole numbers satisfies that. This is presumably why Dolz moves to $8:2$ for his example. He does not say so.
+- **Proportions are like the continuum, not like number.** No proportion is aliquot to every proportion. This is the claim of 27a about continuous quantity: there is no analogue of unity (§3). _Nec etiam cuiuslibet alterius a se_ echoes the exception of 26b, where the binary is aliquot to every even number except itself (§2); for proportions not even that holds.
+
+---
+
+## 23. Summary of the doctrine
 
 1. _Aliquot part_ is a **two-place relation** between a part and a whole, requiring exact measure and at least two repetitions.
 2. Dropping the second term of the relation is what generates every difficulty in preamble 8.
@@ -1842,7 +1936,7 @@ Four observations of ours:
 50. The most perfect proportionality $6,8,9,12$ contains the arithmetical, geometrical, and harmonic kinds and all the simple intervals.
 51. A proportionality does not require all its proportions to be similar; arithmetical proportionality shows this.
 52. Every proportionality is a proportion, but not conversely: proportions are discrete quantities, numbers, so a relation of proportions is a relation of quantities.
-53. Proportionalities can be found among proportions of proportions and their excesses, as among numbers. This grounds the _proportio proportionum_ of page 29; whether one proportion is measured against another by value or by composition is not yet said, though page 42 promises a treatment of _maioritas proportionis_.
+53. Proportionalities can be found among proportions of proportions and their excesses, as among numbers. This grounds the _proportio proportionum_ of page 29. Page 41 does not say whether one proportion is measured against another by value or by composition; page 43b answers, for the parts of a proportion, by composition.
 54. There is a proportion of number to unity, although unity is great only improperly.
 55. Discrete and continuous quantity have no proportion _qua_ discrete and continuous, but can have one in another common respect; for the Nominalists the continuum is also discrete.
 56. A common respect is necessary but not sufficient: the terms must also be comparable in it. Swineshead's intension and remission, and Paulus Venetus's right angle and angle of contingence, are not comparable and so have no proportion, which agrees with Dolz's definition.
@@ -1853,10 +1947,13 @@ Four observations of ours:
 61. What a proportion is: for the Nominalists the proportioned things themselves, with sentences about greater proportions read _in ratione rerum_ or _in ratione proportionis_; for the Realists a respective accident, like similarity, which even if indivisible can be equal or unequal. Dolz accepts both.
 62. Aristotle's denial of proportion between finite and infinite concerns the finite proportions, as Paulus Venetus says. The infinite is greater than the finite, and one infinite than another, but not every greaterness yields a proportion; a _proportio infinita_ could have species only very improperly.
 63. Paulus Venetus denies the infinite an aliquot part on a faulty criterion, since the half stands to its whole in a _subdupla_, not a superparticular proportion. In the strict sense no finite part of an infinite is aliquot; in a wider sense that allows infinitely many repetitions, every finite part is. Some infinite parts, such as the half of an infinite strip by breadth, are aliquot even in the strict sense.
+64. Other infinite parts, such as the whole less one foot, are not aliquot. A line infinite both ways has an aliquot part ending at each of its points. But parts of infinites are not called half, third, or fourth, and the species of proportion are not named from them; this is why no infinite is double another (39a).
+65. The second article, on greater, equal, and lesser proportions, begins on 43a. A proportion has parts, improperly, as number does: the proportions among its terms and the numbers between them, like the segments of a continuum. They overlap or not, and are aliquot or not.
+66. The half of a proportion is found at the _medium proportionale_, not the _medium rei_: it is the proportion that, added to itself, makes the whole. Proportions are therefore measured by composition, as Bradwardine's rule requires. No proportion is an aliquot part of every proportion.
 
 ---
 
-## 23. Textual notes
+## 24. Textual notes
 
 Proposed emendations arising from the analysis. Those marked _insecure_ are recorded but not recommended for adoption.
 
@@ -1905,7 +2002,12 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 41a | Et dico notanter **'ut tali'** | _(left as printed)_ | No _ut tali_ precedes; the nearest is _utrique tali_. Possibly _utrique ut tali_ was intended _(insecure)_ |
 | 41a | ista est vera "**Continuitatis** continuae ad discretam est proportio" | probably **Quantitatis** _(insecure)_ | _Continuitas continua_ is pleonastic; the question and the example (two-foot to one-foot) concern continuous and discrete **quantity** |
 | 41b | Non propterea sequitur quod **intensionis ad intensionem et remissionis ad remissionem** sit proportio | _(obscure; left as printed)_ | Page 30 admits proportion _quoad intensionem_. The sense may be that the proportion is not grounded in intension as such, or the text may have meant _intensionis ad remissionem_ |
-| 42a | in proportionabili sensu; poterit **compositio divisionis** attribui | _(obscure; left as printed)_ | Possibly _compositio \[et\] divisio_: the addition and subtraction of proportions (40a, §19) could be attributed even to an indivisible respective accident |
+| 42b | in proportionabili sensu; poterit **compositio divisionis** attribui | possibly **compositio \[et\] divisio** _(conjectural; left as printed)_ | Preamble 1 of the second article (43a) supports it: geometry attributes composition to proportion even if it is indivisible, _et ex consequenti nec proportionem dividi_. The addition and subtraction of proportions (40a, §19) would be this composition and division |
 | 42b | **Aequalitatis** nec **inaequalitatis** infinitis attribuitur | **Aequalitas** nec **inaequalitas** | The genitives have no governing word |
 | 42b | maioritatem iam **proprie** dictam | **improprie** (adopted; conjectural) | 39a makes one infinite greater than another only improperly; the next sentence has _maioritas improprie dicta_; _iam … dictam_ refers back to 39a |
 | 42b | ad partem aliquotam opus est quod habeat proportionem **superparticularem** ad totum | _(left as printed)_ | Dolz's report of Paulus Venetus, criticised by Dolz himself; the right relation is submultiplex. Paulus's text not checked |
+| 43a | bis sumpta reddit maius improprie **aut minus** | _(obscure; left as printed)_ | Two non-overlapping copies of the whole less a foot already contain the whole; perhaps only "not equal, whether greater or less" |
+| 43a | inter maximum et **minimum** | **medium** (adopted) | The greatest to the least is the whole $8:4$, not a part; $8:7$, $8:6$, $8:5$ in the list require greatest to intermediate |
+| 43a | **5 ad 7** | **7 ad 5** (adopted) | A lesser-inequality proportion cannot be a part of $8:4$; $7:5$ completes the list of all pairs from $4$ to $8$ |
+| 43b | aggregatum ex duabus tertiis **et** tribus quartis | _(left as printed)_ | Read distributively: as one aggregate, $\tfrac23+\tfrac34$ exceeds the whole |
+| 43b | **xiii. dsti. tertii. ſniaꝝ** | **decima tertia distinctione tertii** _Sententiarum_ (expanded); possibly **xxxiii** _(insecure)_ | III d. 13 treats the grace of Christ; III d. 33 treats the cardinal virtues, where the mean of virtue belongs; Biel's text not checked |

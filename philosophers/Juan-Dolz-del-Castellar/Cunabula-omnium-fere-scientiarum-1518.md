@@ -1192,7 +1192,33 @@ Ideo dico: si ad partem aliquotam requiritur quod aliquoties finite reddat totum
 
 Possumus tamen latius uti termino, puta quod aliquotiens reddat finite sive infinite, et tunc dico quod quaelibet pars finita infiniti est aliquota eius, quia quaelibet infinities sumpta reddit totum. Et sic concedendum est quod quaelibet finita cuiuslibet infinitae est aliquota.
 
-De parte infinita videtur distinguendum: aliqua videtur aliquota, ut patet: capta uno pedaliter lato infinito versus orientem, capiatur medietas eius ad imaginationem secundum latitudinem; illa est aliquota, bis sumpta reddit totum. Et sic patet quod alicuius infiniti, aliqua pars finite /43a/ sumpta, reddit totum.
+De parte infinita videtur distinguendum: aliqua videtur aliquota, ut patet. Capta uno pedaliter lato infinito versus orientem, capiatur medietas eius ad imaginationem secundum latitudinem; illa est aliquota, bis sumpta reddit totum. Et sic patet quod alicuius infiniti, aliqua pars finite /43a/ sumpta, totum reddit. Tamen si nos caperemus totum infinitum dempta una pedalitate, non videtur quomodo illa infinita pars esset aliquota illius, quia non semel sumpta reddit totum, nam superest pedalitas, et bis sumpta reddit maius improprie aut minus; et sic posset dici non aliquota secundum hunc modum loquendi.
+
+Si tamen caperetur una linea infinita versus orientem et occidentem, tota versus orientem terminata ibi posset dici aliquota, et plures tales possent dici, et consimiliter in aliis. Nec istae essent aliquotae a quibus superparticulares positae denominarentur. Item non quaelibet aliquota esset medietas vel 3 vel 4 et caetera; hae denominationes non attribuuntur partibus infinitorum. Vides: vocamus infinitum tam simpliciter infinitum quam secundum quid.
+
+Non mireris si in his aliquid fateamur quod communiter non concederetur, nam praeter dicta communia haec tamquam probabilia adiecimus. Et haec de primo articulo; tamen adhuc super hac materia tangemus aliquid.
+
+Expedito primo articulo, pro secundi expeditione ponuntur praeambula.
+
+Primum: proportio, etsi respectus indivisibilis poneretur, compositionem tamen sibi geometria mathematici attribuit; et si non propriam, quia indivisibile proprie non componitur, impropriam tantum, ut de numero in primo articulo dictum est. Et sic proportionem illo modo partes habere non negamus, et ex consequenti nec proportionem dividi. Et cum omne tale aequale aut alteri inaequale dicatur, sequitur inter proportiones aequalitatem et inaequalitatem reperiri.
+
+Secundum praeambulum: ad cognoscendas partes alicuius proportionis debes respicere numeros inter quos illa proportio reperitur. Quaelibet proportio reperta inter numeros medios illorum numerorum, similiter quaelibet reperta inter maximum et medium et medium et minimum, est pars illius. Exemplum: proportio 8 ad 4 dicitur habere partes proportiones quae sunt 8 ad 7, 7 ad 6, 6 ad 5, 5 ad 4, 8 ad 6, 8 ad 5, 7 ad 5, 7 ad 4, 6 ad 4, et proportionabiliter de aliis proportionibus, simili modo ut in continuis.
+
+Tertium praeambulum: sicut in aliis divisibilibus reperiuntur partes communicantes, ita et in proportionibus dantur partes communicantes et etiam partes non communicantes, ut dicemus inferius de communicatione proportionum /43b/. Et sicut in uno divisibili dantur aliquae partes aliis maiores, minores et aequales, ita et in proportionibus.
+
+Item sicut in divisibili dantur medietates, tertiae, quartae, ita et in proportionibus; et ex consequenti, sicut divisibile habet partes aliquotas et non aliquotas, ita et proportio habet partes aliquotas et non aliquotas. Medietas proportionis semper est eius aliquota, similiter 3, 4, et sic deinceps; et aggregatum ex duabus tertiis et tribus quartis non est aliquota, et sic consequenter.
+
+### Aristoteles
+
+Quartum praeambulum: licet in divisibili capiantur partes aliquotae penes distantiam, ut Aristoteles 2 *Ethicorum* de medio rei contra medium rationis enucleat, et apud professores theologiae, decima tertia distinctione, tertii *Sententiarum*, ut patet ex Gabriele, dicit medium reale quod aequaliter distat ab extremis, medium rationis quod nec excedit nec deficit contra rationis dictamen, cui aliquando magis appropinquatur excessus quam defectus, aliquando econtra, ut dicitur in expositione *Ethices*. In proportionibus tamen ad assumendas aliquotas non debes respicere ad aequalem distantiam numerorum.
+
+Exemplificor: medietas proportionis 8 ad 4 non est 8 ad 6 vel 6 ad 4, dato quod aeque distent. Hoc patet: omnis medietas debet esse subdupla ad totum; sed proportio 8 ad 6 non est subdupla ad proportionem 8 ad 4, quia sesquitertia non est subdupla ad duplam, ut patebit; igitur. Et consimiliter potes idem de aliis aliquotis.
+
+Et propterea, praeter medium rationis, ponitur duplex medium apud mathematicos: medium rei. Quod aequali distantia distat ab extremis. Medium proportionale: quod aequali proportione distat ab extremis. Exemplum: 8 ad 4, 6 est medium rei sed non proportionabile, nam 8 ad 6 est sesquitertia, 6 ad 4 sesquialtera; ideo non aequalis proportio. Sed inter 8 ad 2 medium proportionabile est 4; aequalis enim est proportio 8 ad 4 et 4 ad 2, quia utraque dupla; sic non est medium rei.
+
+Ideo cogita qualiter aliquotas in proportionibus accipis. Et sic, sicut proportio est pars proportionis, ita et aliquota proportio dicitur. Non tamen datur proportio quae cuiuslibet sit pars aliquota, nec etiam cuiuslibet alterius a se.
+
+Quintum praeambulum: cum omne totum ex suis /44a/ partibus componatur...
 
 
 <!--
@@ -1250,5 +1276,7 @@ Page 39b: proprie ] emend. ꝓprio
 Page 40b: 4 ] emend. 3 (qua 6 excedit 4; prima differentia est binarius)
 Page 42b: improprie ] conj. proprie (iam dictam; cf. 39a and maioritas improprie dicta in the next sentence)
 Page 42b: assignari ] emend. assignare
+Page 43a: maximum et medium ] emend. maximum et minimum (cf. 8 ad 6 among the parts)
+Page 43a: 7 ad 5 ] transp. 5 ad 7
 
 -->

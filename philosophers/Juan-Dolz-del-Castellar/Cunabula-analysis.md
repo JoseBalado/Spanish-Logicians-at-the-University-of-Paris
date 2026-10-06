@@ -40,9 +40,16 @@ The surviving text therefore supports the conclusion that Dolz deliberately atte
 
 The commentary below assumes a few elementary operations with proportions. They are set out here once, with every step shown. In each case the medieval method comes first and the modern check after it. The rules are ours, distilled from Dolz's examples; the page and section references show where each is used.
 
+**Notation.**
+
+- $A:B$ means "the proportion of $A$ to $B$". **A colon between two numbers always means a proportion and nothing else.** In this primer no colon is ever used as punctuation next to a number.
+- In $A:B$, $A$ is the **left term** (Dolz's _antecedens_) and $B$ the **right term** (_consequens_).
+- $\to$ means "becomes". An equals sign between two proportions, as in $8:4=2:1$, means "the same proportion" (Rule 1).
+- Dolz writes proportions in words and names ("_sesquialtera_", "as 3 to 2"). The colon notation is ours, but the method it records is his and uses only whole numbers. Fractions such as $\tfrac32$, multiplying proportions as numbers, powers, roots and logarithms are **modern**. They appear only in rows labelled "modern", for the leftover in naming (P2), and in P9.
+
 ### P1. A proportion is a step between two terms
 
-A proportion $A:B$ compares a first term, the _antecedens_ $A$, with a second, the _consequens_ $B$ (34b, §13). It is read "$A$ to $B$". The modern check is the value $A\div B$.
+A proportion $A:B$ compares a left term $A$ with a right term $B$ (34b, §13). It is read "$A$ to $B$". The modern check is the value $A\div B$.
 
 **Rule 1. Multiplying or dividing both terms by the same number does not change the proportion.**
 
@@ -56,6 +63,8 @@ A proportion $A:B$ compares a first term, the _antecedens_ $A$, with a second, t
 
 "Simplified" or "reduced" below means dividing both terms by the largest number that divides both. It changes the terms, not the proportion.
 
+Rule 1 is the only tool the operations below need. Each of them works by rescaling the terms of proportions, without changing the proportions, until the terms fit together.
+
 **Rule 2. The proportion is the ratio, not the excess (difference).**
 
 | Pair | Excess | Ratio | Proportion |
@@ -67,32 +76,93 @@ A proportion $A:B$ compares a first term, the _antecedens_ $A$, with a second, t
 
 Same proportion, different excess (first two rows); same excess, different proportion (last two rows).
 
+**What the excess is for.** The excess does not measure the size of a proportion, but it is not useless:
+
+- **Naming.** The remainder in P2 is the excess of the greater term over the lesser, and the name is that excess measured against the lesser term. $3:2$ has excess $1$, which is half of $2$, so it is _sesquialtera_; $9:8$ has excess $1$, an eighth of $8$, so it is _sesquioctava_.
+- **Arithmetical proportionality** keeps the excess constant, as in $4,3,2$ (P8; §13).
+- **Harmonic proportionality** compares two excesses (P8; 40b, §19).
+- **The _medium rei_** is the middle at equal excess from both ends (P6).
+
+What the excess cannot do is stand in for the proportion. This matters in physics: Bradwardine rejected the view that speed follows the excess of power over resistance, and made it follow their proportion ([The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-and-Galileo.html), section 1.1).
+
 ### P2. Naming a proportion
 
-Used on 30a–33a (§9–§11). Steps:
+Used on 30a–33a (§9–§11). The name is the mixed number $A\div B$ said in Latin. Put the greater term on the left; the right term is then the **lesser term**, and the leftover is counted in equal parts of it.
 
-1. Count how many whole times the lesser term fits into the greater.
-2. Take the remainder.
-3. Express the remainder as a fraction of the lesser term, and reduce it.
-4. Name: the count gives _dupla_, _tripla_…; a remainder of one part gives _sesqui-_; several parts give _super…partiens_.
+**The words.**
 
-| Proportion | Step 1: fits | Step 2: remainder | Step 3: fraction of lesser | Step 4: name |
+| What is named | Numbers | Latin |
+| --- | --- | --- |
+| whole times the lesser term goes into the greater | 1, 2, 3, 4 | no word, _dupla_, _tripla_, _quadrupla_ |
+| kind of part (the **denominator**, the lesser term cut into that many pieces) | 2, 3, 4, 5, 7, 8, 9 | _altera_, _tertia_, _quarta_, _quinta_, _septima_, _octava_, _nona_ |
+| how many parts are left over (the **numerator**) | 2, 3, 4, 7 | _bi-_, _tri-_, _quadri-_, _septi-_ |
+| exactly one part left over | numerator 1 | _sesqui-_ + kind of part, as in _sesquitertia_ |
+| several parts left over | numerator 2 or more | _super-_ + how many + _-partiens_ + kind of part in the plural, as in _superbipartiens tertias_ |
+| lesser term on the left | | _sub-_ before the whole name |
+
+**The same words filled in, for $8:3$.**
+
+| Piece | Value | Latin |
+| --- | --- | --- |
+| greater term, on the left | $8$ | |
+| lesser term, on the right | $3$ | |
+| whole times $3$ goes into $8$ | $2$, since $3+3=6$ | _dupla_ |
+| remainder | $8-6=2$ | |
+| leftover, as remainder over lesser term | $\tfrac23$ | |
+| denominator, the kind of part | $3$, thirds | _tertias_ |
+| numerator, how many parts | $2$ | _superbipartiens_ |
+| full name | modern $2\tfrac23$ | _dupla superbipartiens tertias_ |
+
+Reduce the leftover before counting parts. $8:6$ leaves $\tfrac26$, which reduces to $\tfrac13$, so one part, _sesquitertia_.
+
+| Proportion | Whole times | Remainder | Leftover, reduced | Name | Modern |
+| --- | --- | --- | --- | --- | --- |
+| $6:2$ | $3$ | $0$ | none | _tripla_ | $3$ |
+| $3:2$ | $1$ | $1$ | $\tfrac12$ | _sesquialtera_ | $1\tfrac12$ |
+| $4:3$ | $1$ | $1$ | $\tfrac13$ | _sesquitertia_ | $1\tfrac13$ |
+| $8:6$ | $1$ | $2$ | $\tfrac26\to\tfrac13$ | _sesquitertia_ | $1\tfrac13$ |
+| $5:3$ | $1$ | $2$ | $\tfrac23$ | _superbipartiens tertias_ | $1\tfrac23$ |
+| $7:5$ | $1$ | $2$ | $\tfrac25$ | _superbipartiens quintas_ | $1\tfrac25$ |
+| $9:7$ | $1$ | $2$ | $\tfrac27$ | _superbipartiens septimas_ | $1\tfrac27$ |
+| $7:4$ | $1$ | $3$ | $\tfrac34$ | _supertripartiens quartas_ | $1\tfrac34$ |
+| $9:5$ | $1$ | $4$ | $\tfrac45$ | _superquadripartiens quintas_ | $1\tfrac45$ |
+| $10:6$ | $1$ | $4$ | $\tfrac46\to\tfrac23$ | _superbipartiens tertias_ | $1\tfrac23$ |
+| $5:2$ | $2$ | $1$ | $\tfrac12$ | _dupla sesquialtera_ | $2\tfrac12$ |
+| $15:6$ | $2$ | $3$ | $\tfrac36\to\tfrac12$ | _dupla sesquialtera_ | $2\tfrac12$ |
+| $8:3$ | $2$ | $2$ | $\tfrac23$ | _dupla superbipartiens tertias_ | $2\tfrac23$ |
+| $11:4$ | $2$ | $3$ | $\tfrac34$ | _dupla supertripartiens quartas_ | $2\tfrac34$ |
+
+With the lesser term on the left, name the reversed proportion and put _sub-_ in front.
+
+| Proportion | Reversed | Name of reversed | Name | Modern |
 | --- | --- | --- | --- | --- |
-| $6:2$ | $3$ times | $0$ | — | _tripla_ |
-| $3:2$ | once | $1$ | $\tfrac12$ | _sesquialtera_ |
-| $8:6$ | once | $2$ | $\tfrac26=\tfrac13$ | _sesquitertia_ |
-| $5:3$ | once | $2$ | $\tfrac23$ | _superbipartiens tertias_ |
-| $5:2$ | twice | $1$ | $\tfrac12$ | _dupla sesquialtera_ |
-| $15:6$ | twice | $3$ | $\tfrac36=\tfrac12$ | _dupla sesquialtera_ |
-| $8:3$ | twice | $2$ | $\tfrac23$ | _dupla superbipartiens tertias_ |
+| $2:3$ | $3:2$ | _sesquialtera_ | _subsesquialtera_ | $\tfrac23$ |
+| $7:9$ | $9:7$ | _superbipartiens septimas_ | _subsuperbipartiens septimas_ | $\tfrac79$ |
 
-Reversing the terms gives the _sub-_ name: $2:3$ is _subsesquialtera_ (§11).
+**Reading a name back into terms.** Take the parts as the lesser term; add the counted copies and the leftover parts to get the greater:
+
+| Name | Lesser term (the parts) | Greater term | Proportion |
+| --- | --- | --- | --- |
+| _sesquiquarta_ | $4$ | $4+1=5$ | $5:4$ |
+| _superbipartiens septimas_ | $7$ | $7+2=9$ | $9:7$ |
+| _dupla sesquitertia_ | $3$ | $3+3+1=7$ | $7:3$ |
+| _tripla superbipartiens quintas_ | $5$ | $5+5+5+2=17$ | $17:5$ |
 
 ### P3. Are two proportions the same? (_talis… qualis_)
 
 Used on 34b–37b (§13–§16). Two proportions are the same (_similes_) when they have the same name (35b, §14).
 
-**Method.** Reduce both to lowest terms and compare. **Modern check:** $A:B$ equals $C:D$ when $A\times D=B\times C$.
+**Method.** Reduce both to lowest terms and compare.
+
+**Shortcut.** $A:B$ and $C:D$ are the same proportion when $A\times D$ equals $B\times C$. Reducing first is not needed; the verdict is the same either way. Comparing $8:6$ with $4:3$ gives $24$ and $24$, and comparing the reduced $4:3$ with $4:3$ gives $12$ and $12$.
+
+**Why the shortcut works.** It is Rule 1, not a modern trick. Rescale the two proportions so that they get the same right term. After that rescaling, they are the same proportion when their left terms are also equal, and different otherwise. Take $8:6$ and $4:3$.
+
+1. Multiply both terms of $8:6$ by $3$, the right term of the other proportion. So $8:6\to24:18$.
+2. Multiply both terms of $4:3$ by $6$, the right term of the other proportion. So $4:3\to24:18$.
+3. The right terms are now equal, both $18$. The left terms are $24$ and $24$, also equal, so the proportions are the same.
+
+The left terms after rescaling are always $A\times D$ and $B\times C$, which is all the shortcut computes.
 
 | First | Second | Reduced | Cross-multiply | Same? |
 | --- | --- | --- | --- | --- |
@@ -103,216 +173,306 @@ Used on 34b–37b (§13–§16). Two proportions are the same (_similes_) when t
 
 ### P4. Adding proportions
 
-Used on 40a (§19) and 43b (§22). To add two proportions, chain them: **the second term of the first must be the first term of the second.** That shared term is the middle. The sum is the proportion of the two ends.
+Used on 40a (§19) and 43b (§22). To add two proportions, chain them. **The right term of the first proportion must be the left term of the second proportion.** That shared term is the middle. The sum is the proportion of the two ends.
 
-Steps, for $a:b$ plus $c:d$:
+**Why chaining is adding.** Think of the terms as rungs of a ladder and each proportion as a step between two rungs. Going from $4$ to $3$ is a step of $4:3$; going on from $3$ to $2$ is a step of $3:2$. Going from $4$ to $2$ takes both steps, so $4:2$ is the two steps together. "Adding" means taking one step after the other, as a musician hears a fifth and then a fourth above it land on the octave. The steps can only follow each other if the second starts where the first ends: hence the shared middle. Rule 1 lets either step be rescaled without changing it, so a shared middle can always be made.
 
-1. Check whether $b$ (end of the first) equals $c$ (start of the second).
-2. If not, rewrite both by Rule 1 so that they share a middle. One way always works: multiply both terms of the first by $c$, and both terms of the second by $b$. The first becomes $ac:bc$, the second $bc:bd$, and both now have $bc$ at the join.
+Steps for adding $a:b$ and $c:d$.
+
+1. Check whether $b$, the right term of the first proportion, equals $c$, the left term of the second.
+2. If not, rescale both by Rule 1 so that they share a middle. One way always works. Multiply both terms of the first proportion by $c$, and both terms of the second by $b$. So $a:b\to ac:bc$ and $c:d\to bc:bd$, and both now have $bc$ at the join.
 3. Write the chain of three terms.
-4. Read off first to last.
+4. Read off the two ends, first to last.
 5. Reduce and name.
 
-**Example A: $4:3$ plus $3:2$** (_sesquitertia_ plus _sesquialtera_, Dolz's own example on 40a).
+**Example A. $4:3$ plus $3:2$** (_sesquitertia_ plus _sesquialtera_, Dolz's own example on 40a).
 
 | Step | Work |
 | --- | --- |
-| 1 | the first ends in $3$, the second starts with $3$: shared middle already |
+| 1 | the right term of $4:3$ is $3$ and the left term of $3:2$ is $3$, so they already share a middle |
 | 2 | no rewriting needed |
 | 3 | chain $4,\;3,\;2$ |
-| 4 | ends: $4:2$ |
-| 5 | reduce: divide both by $2$, giving $2:1$, _dupla_ |
+| 4 | ends $4:2$ |
+| 5 | divide both terms by $2$, so $4:2\to2:1$, _dupla_ |
 | modern | $\tfrac43\times\tfrac32=\tfrac{12}{6}=2$ |
 
-**Example B: $2:1$ plus $2:1$** (_dupla_ plus _dupla_).
+**Example B. $2:1$ plus $2:1$** (_dupla_ plus _dupla_).
 
 | Step | Work |
 | --- | --- |
-| 1 | the first ends in $1$, the second starts with $2$: no shared middle |
-| 2 | multiply the first by $2$: $2:1$ becomes $4:2$, still _dupla_ (Rule 1). The second stays $2:1$. Now the first ends in $2$ and the second starts with $2$ |
+| 1 | the right term of the first $2:1$ is $1$, the left term of the second $2:1$ is $2$, so there is no shared middle |
+| 2 | multiply both terms of the first by $2$, so $2:1\to4:2$, still _dupla_ (Rule 1). The second stays $2:1$. Now the right term of the first and the left term of the second are both $2$ |
 | 3 | chain $4,\;2,\;1$ |
-| 4 | ends: $4:1$ |
-| 5 | already in lowest terms: _quadrupla_ |
+| 4 | ends $4:1$ |
+| 5 | already in lowest terms, _quadrupla_ |
 | modern | $2\times2=4$ |
 
-Dolz writes the same sum with larger terms: $8:4$ plus $4:2$, chain $8,4,2$, ends $8:2$, which reduces to $4:1$ (§19).
+Dolz writes the same sum with larger terms, $8:4$ plus $4:2$, chain $8,4,2$, ends $8:2$, which reduces to $4:1$ (§19).
 
-**Example C: $4:3$ plus $4:3$** (_sesquitertia_ added to itself).
+**Example C. $4:3$ plus $4:3$** (_sesquitertia_ added to itself).
 
 | Step | Work |
 | --- | --- |
-| 1 | the first ends in $3$, the second starts with $4$: no shared middle |
-| 2 | multiply the first by $4$: $16:12$. Multiply the second by $3$: $12:9$. Both are still _sesquitertia_; now they share $12$ |
+| 1 | the right term of the first $4:3$ is $3$, the left term of the second $4:3$ is $4$, so there is no shared middle |
+| 2 | multiply both terms of the first by $4$, so $4:3\to16:12$. Multiply both terms of the second by $3$, so $4:3\to12:9$. Both are still _sesquitertia_, and now they share $12$ |
 | 3 | chain $16,\;12,\;9$ |
-| 4 | ends: $16:9$ |
-| 5 | $16$ and $9$ have no common divisor: $16:9$, _superseptipartiens nonas_ (once and seven ninths) |
+| 4 | ends $16:9$ |
+| 5 | $16$ and $9$ have no common divisor, so $16:9$ stays, _superseptipartiens nonas_ (once and seven ninths) |
 | modern | $\tfrac43\times\tfrac43=\tfrac{16}9$ |
 
-**Example D: $3:2$ plus $4:3$** (fifth plus fourth, 40b).
+**Example D. $3:2$ plus $4:3$** (fifth plus fourth, 40b).
 
 | Step | Work |
 | --- | --- |
-| 1 | the first ends in $2$, the second starts with $4$: no shared middle |
-| 2 | multiply the first by $4$: $12:8$. Multiply the second by $2$: $8:6$. Shared middle $8$ |
+| 1 | the right term of $3:2$ is $2$, the left term of $4:3$ is $4$, so there is no shared middle |
+| 2 | multiply both terms of $3:2$ by $4$, so $3:2\to12:8$. Multiply both terms of $4:3$ by $2$, so $4:3\to8:6$. Shared middle $8$ |
 | 3 | chain $12,\;8,\;6$ |
-| 4 | ends: $12:6$ |
-| 5 | divide both by $6$: $2:1$, _dupla_, the octave |
+| 4 | ends $12:6$ |
+| 5 | divide both terms by $6$, so $12:6\to2:1$, _dupla_, the octave |
 | modern | $\tfrac32\times\tfrac43=2$ |
 
-A smaller rewriting also works: multiply only the first by $2$, giving $6:4$, which already ends in the $4$ of $4:3$. Chain $6,4,3$, ends $6:3=2:1$. This is Dolz's harmonic example (§19). Any rewriting that produces a shared middle gives the same answer.
+A smaller rewriting also works. Multiply both terms of $3:2$ by $2$, so $3:2\to6:4$, whose right term is already the left term $4$ of $4:3$. Chain $6,4,3$, ends $6:3$, which reduces to $2:1$. This is Dolz's harmonic example (§19). Any rewriting that produces a shared middle gives the same answer.
 
-**Example E: $2:1$ plus $3:2$** (_dupla_ plus _sesquialtera_).
+**Example E. $2:1$ plus $3:2$** (_dupla_ plus _sesquialtera_).
 
 | Step | Work |
 | --- | --- |
-| 1 | the first ends in $1$, the second starts with $3$: no shared middle |
-| 2 | multiply the first by $3$: $6:3$. The second stays $3:2$. Shared middle $3$ |
+| 1 | the right term of $2:1$ is $1$, the left term of $3:2$ is $3$, so there is no shared middle |
+| 2 | multiply both terms of $2:1$ by $3$, so $2:1\to6:3$. The $3:2$ stays. Shared middle $3$ |
 | 3 | chain $6,\;3,\;2$ |
-| 4 | ends: $6:2$ |
-| 5 | divide by $2$: $3:1$, _tripla_ |
+| 4 | ends $6:2$ |
+| 5 | divide both terms by $2$, so $6:2\to3:1$, _tripla_ |
 | modern | $2\times\tfrac32=3$ |
 
 Not to be confused with the species name _dupla sesquialtera_, which is $5:2$ (§11, §19).
 
-The order of adding does not matter: $4:3$ plus $3:2$ and $3:2$ plus $4:3$ both give $2:1$ (§16, _aequa_ direct and indirect).
+The order of adding does not matter. $4:3$ plus $3:2$ and $3:2$ plus $4:3$ both give $2:1$ (§16, _aequa_ direct and indirect).
 
 ### P5. Subtracting proportions
 
-Used on 40a (§19). To subtract, write the whole as a chain whose last link is the proportion to be removed, then drop that link (_discontinuare_).
+Used on 40a (§19). Subtracting is adding run backwards.
 
-Steps, for the whole $a:b$ minus $c:d$:
+- **The whole** is the proportion subtracted from, as in "take a fifth away from an octave", where the octave $2:1$ is the whole. It is called the whole because the answer and the part removed, added together (P4), make it up.
+- **The part removed** is the proportion taken away: here the fifth $3:2$.
+- **The question** is which proportion, followed by the part removed, makes the whole.
 
-1. Rewrite the whole and the removed proportion so that they **end** in the same term. One way always works: multiply both terms of the whole by $d$, and both terms of the removed proportion by $b$. The whole becomes $ad:bd$, the removed one $bc:bd$.
-2. Write the chain: first term of the whole, first term of the removed proportion, common last term.
-3. Drop the last link. What remains is the first link.
-4. Reduce and name.
-5. Check by adding back (P4).
+In ladder terms (P4), the whole is a stretch from a top rung to a bottom rung. The part removed is the **lower piece of that same stretch**; it runs down to the same bottom rung, starting from some rung inside the whole. What is left is the upper piece, from the whole's top rung down to the rung where the part removed begins.
 
-**Example A: $2:1$ minus $3:2$** (octave minus fifth).
+```text
+whole          4 ------------------ 2       4:2, the same proportion as 2:1
+part removed             3 -------- 2       3:2
 
-| Step | Work |
-| --- | --- |
-| 1 | whole $2:1$ times $2$: $4:2$. Removed $3:2$ stays. Both end in $2$ |
-| 2 | chain $4,\;3,\;2$ |
-| 3 | drop $3:2$; remains $4:3$ |
-| 4 | _sesquitertia_, the fourth |
-| 5 | $4:3$ plus $3:2$ gives $2:1$ (P4, example A) |
-| modern | $2\div\tfrac32=\tfrac43$, **not** $2-\tfrac32=\tfrac12$ |
+both together  4 ------- 3 -------- 2
+                  4:3        3:2
+               (left)    (removed)
+```
 
-**Example B: $2:1$ minus $4:3$** (octave minus fourth).
+This is why subtraction matches **right term with right term**: the whole and the part removed both end at the bottom rung. Addition instead matches the right term of the first proportion with the left term of the second, because there one step starts where the other ends. The $3$ is not a join between the whole and the part removed. It is the point inside the whole where the part removed begins, and so the point where the answer ends.
 
-| Step | Work |
-| --- | --- |
-| 1 | whole times $3$: $6:3$. Removed $4:3$ stays. Both end in $3$ |
-| 2 | chain $6,\;4,\;3$ |
-| 3 | drop $4:3$; remains $6:4$ |
-| 4 | divide by $2$: $3:2$, _sesquialtera_, the fifth |
-| modern | $2\div\tfrac43=\tfrac32$ |
+Steps for the whole $a:b$ minus the part removed $c:d$.
 
-**Example C: $3:2$ minus $4:3$** (fifth minus fourth).
+1. **Give both the same right term.** If the right terms differ, rescale both by Rule 1. Multiply both terms of the whole by $d$, and both terms of the part removed by $b$. So $a:b\to ad:bd$ and $c:d\to bc:bd$. Neither proportion changes. If the right terms are already equal, skip this step.
+2. **Draw both against the same bottom rung**, as in the diagram above. Three numbers appear. The left term of the whole is the top. The left term of the part removed is where the part removed begins. The shared right term is the bottom.
+3. **Read off the answer.** The bottom piece, from where the part removed begins down to the bottom, is the part removed; discard it. The top piece is the answer, the proportion of the whole's left term to the part removed's left term. Discarding the bottom piece removes a step, not a number: the number where the part removed begins stays, because the answer ends there. Dolz's word for breaking the chain is _discontinuare_.
+4. Reduce and name (P2).
+5. Check that the answer plus the part removed gives the whole (P4).
 
-| Step | Work |
-| --- | --- |
-| 1 | whole times $3$: $9:6$. Removed times $2$: $8:6$. Both end in $6$ |
-| 2 | chain $9,\;8,\;6$ |
-| 3 | drop $8:6$; remains $9:8$ |
-| 4 | _sesquioctava_, the tone (§19) |
-| modern | $\tfrac32\div\tfrac43=\tfrac98$ |
+In one line, $a:b$ minus $c:d$ is the proportion of $a\times d$ to $b\times c$.
 
-**Example D: $4:1$ minus $2:1$** (_quadrupla_ minus _dupla_).
+**Example A. $2:1$ minus $3:2$** (octave minus fifth).
 
-| Step | Work |
-| --- | --- |
-| 1 | both already end in $1$ |
-| 2 | chain $4,\;2,\;1$ |
-| 3 | drop $2:1$; remains $4:2$ |
-| 4 | divide by $2$: $2:1$, _dupla_ |
-| modern | $4\div2=2$ |
+The whole $2:1$ has right term $1$; the part removed $3:2$ has right term $2$. Multiply both terms of the whole by $2$, so $2:1\to4:2$. The part removed stays $3:2$. Both right terms are now $2$.
+
+```text
+whole          4 ------------------ 2
+part removed             3 -------- 2
+answer         4 ------- 3
+```
+
+The answer is $4:3$, _sesquitertia_, the fourth. Check by adding back, $4:3$ plus $3:2$ gives $2:1$ (P4, Example A). Modern check, $2\div\tfrac32=\tfrac43$, **not** $2-\tfrac32=\tfrac12$.
+
+**Example B. $2:1$ minus $4:3$** (octave minus fourth).
+
+Multiply both terms of the whole by $3$, so $2:1\to6:3$. The part removed stays $4:3$. Both right terms are now $3$.
+
+```text
+whole          6 ------------------ 3
+part removed             4 -------- 3
+answer         6 ------- 4
+```
+
+The answer is $6:4$; divide both terms by $2$, so $6:4\to3:2$, _sesquialtera_, the fifth. Modern check, $2\div\tfrac43=\tfrac32$.
+
+**Example C. $3:2$ minus $4:3$** (fifth minus fourth).
+
+Multiply both terms of the whole by $3$, so $3:2\to9:6$. Multiply both terms of the part removed by $2$, so $4:3\to8:6$. Both right terms are now $6$.
+
+```text
+whole          9 ------------------ 6
+part removed             8 -------- 6
+answer         9 ------- 8
+```
+
+The answer is $9:8$, _sesquioctava_, the tone (§19). Modern check, $\tfrac32\div\tfrac43=\tfrac98$.
+
+**Example D. $4:1$ minus $2:1$** (_quadrupla_ minus _dupla_).
+
+Both right terms are already $1$, so no rescaling.
+
+```text
+whole          4 ------------------ 1
+part removed             2 -------- 1
+answer         4 ------- 2
+```
+
+The answer is $4:2$; divide both terms by $2$, so $4:2\to2:1$, _dupla_. Modern check, $4\div2=2$.
+
+**Example E. $3:2$ minus $2:1$** (the part removed is greater than the whole).
+
+The whole $3:2$ has right term $2$; the part removed $2:1$ has right term $1$. Multiply both terms of the part removed by $2$, so $2:1\to4:2$. The whole stays $3:2$. Both right terms are now $2$.
+
+```text
+whole                    3 -------- 2
+part removed   4 ------------------ 2
+answer                   3 -> 4     (upward, from 3 to 4)
+```
+
+The part removed reaches above the top of the whole. The answer is still read from the whole's left term to the part removed's left term, giving $3:4$. Its lesser term is on the left, so it is _subsesquitertia_ (P2). Check by adding back, chain $3,4,2$ with ends $3:2$. A greater proportion cannot properly be taken from a lesser; the result is a proportion of lesser inequality. Modern check, $\tfrac32\div2=\tfrac34$.
 
 ### P6. Doubling, tripling, and halving a proportion
 
 Used on 40a and 43b (§19, §22). **Doubling** a proportion is adding it to itself (P4); **tripling** is adding it three times. **Halving** is the reverse: finding the proportion that, added to itself, makes the whole.
 
-**Doubling and tripling.**
+**Doubling and tripling.** To double $3:2$ we need three terms in which **each** link is _sesquialtera_. Starting from $3,2$ does not work: the next term would have to be a number that $2$ contains once and a half, and no whole number does. So rescale, exactly as in P4, Example C. Add $3:2$ to $3:2$ by multiplying both terms of the first copy by $3$, so $3:2\to9:6$, and both terms of the second copy by $2$, so $3:2\to6:4$. The chain is $9,6,4$. Neither link is written $3:2$, but each reduces to it ($9:6$ divided by $3$, $6:4$ divided by $2$).
 
-| Proportion | Doubled: chain | Doubled | Tripled: chain | Tripled | Modern |
-| --- | --- | --- | --- | --- | --- |
-| $2:1$ | $4,2,1$ | $4:1$ | $8,4,2,1$ | $8:1$ | $2^2=4$, $2^3=8$ |
-| $3:2$ | $9,6,4$ | $9:4$ | $27,18,12,8$ | $27:8$ | $(\tfrac32)^2$, $(\tfrac32)^3$ |
-| $4:3$ | $16,12,9$ | $16:9$ | $64,48,36,27$ | $64:27$ | $(\tfrac43)^2$, $(\tfrac43)^3$ |
+**Rule for building the chain.** For $a:b$ doubled, the three terms are $a\times a,\ a\times b,\ b\times b$. For tripled, the four terms are $a\times a\times a,\ a\times a\times b,\ a\times b\times b,\ b\times b\times b$. Each step replaces one $a$ by a $b$, so every link reduces to $a:b$.
 
-To build the chain, start from the last term and multiply by the proportion at each step: for $3:2$ tripled, $8\times\tfrac32=12$, $12\times\tfrac32=18$, $18\times\tfrac32=27$. Choose the last term so that every step gives a whole number ($8=2^3$ here).
+| Proportion $a:b$ | Doubled: chain | Links | Doubled | Tripled: chain | Links | Tripled |
+| --- | --- | --- | --- | --- | --- | --- |
+| $2:1$ | $4,2,1$ | $4:2$, $2:1$ | $4:1$ | $8,4,2,1$ | $8:4$, $4:2$, $2:1$ | $8:1$ |
+| $3:2$ | $9,6,4$ | $9:6$, $6:4$ | $9:4$ | $27,18,12,8$ | $27:18$, $18:12$, $12:8$ | $27:8$ |
+| $4:3$ | $16,12,9$ | $16:12$, $12:9$ | $16:9$ | $64,48,36,27$ | $64:48$, $48:36$, $36:27$ | $64:27$ |
 
-**Halving.** To halve $a:c$, find a middle $b$ with $a:b=b:c$, the _medium proportionale_ (43b, §22).
+Every link in a row reduces to the proportion in the first column (divide $27:18$ by $9$, $18:12$ by $6$, $12:8$ by $4$). Modern check, doubling squares the value, $(\tfrac32)^2=\tfrac94$, and tripling cubes it, $(\tfrac32)^3=\tfrac{27}8$.
 
-1. Multiply the two terms: $a\times c$.
-2. Find a whole number $b$ with $b\times b=a\times c$.
-3. If there is one, the half is $a:b$ (equally $b:c$). If not, try the same proportion with larger terms (Rule 1).
+**Halving.** The half of a proportion is the proportion which, added to itself, makes up the **full** proportion. To halve $a:c$, find a middle $b$ such that $a:b$ and $b:c$ are the same proportion, the _medium proportionale_ (43b, §22). The chain $a,b,c$ then has two equal links, and together they cover the full $a:c$.
 
-| Halve | Step 1: $a\times c$ | Step 2: $b$ | Half | Check |
+1. Multiply the two terms, $a\times c$.
+2. Find a whole number $b$ with $b\times b$ equal to $a\times c$.
+3. If there is one, the half is $a:b$, equally $b:c$. If not, try the same proportion with larger terms (Rule 1).
+
+| Halve | Step 1, $a\times c$ | Step 2, $b$ | Half | Check |
 | --- | --- | --- | --- | --- |
 | $4:1$ | $4$ | $2$ | $4:2=2:1$ | $4:2$ and $2:1$ both _dupla_ |
 | $8:2$ | $16$ | $4$ | $8:4=2:1$ | Dolz's example (43b) |
 | $9:4$ | $36$ | $6$ | $9:6=3:2$ | $9:6$ and $6:4$ both _sesquialtera_ |
 | $16:9$ | $144$ | $12$ | $16:12=4:3$ | $16:12$ and $12:9$ both _sesquitertia_ |
-| $2:1$ | $2$ | none | — | as $8:4$: $32$, none; no rescaling helps |
+| $2:1$ | $2$ | none | — | rescaled to $8:4$, product $32$, still none; no rescaling helps |
 | $9:8$ | $72$ | none | — | the tone has no half (§19) |
 
-When no whole number works, the half exists only as a modern irrational: the half of $2:1$ is $\sqrt2:1$ (§22).
+When no whole number works, the half exists only as a modern irrational. The half of $2:1$ is the proportion of $\sqrt2$ to $1$, with chain $2,\ \sqrt2,\ 1$. Both links are the same proportion, and together they make the full $2:1$, since $\sqrt2\times\sqrt2=2$ (§22).
 
-**_Medium rei_ is not _medium proportionale_.** Between $8$ and $2$:
+**_Medium rei_ is not _medium proportionale_.** Between $8$ and $2$ there are two different middles.
 
 | Middle | How found | Value | Links |
 | --- | --- | --- | --- |
-| _medium rei_ | equal distance: $(8+2)\div2$ | $5$ | $8:5$ and $5:2$, different proportions |
-| _medium proportionale_ | equal proportion: $b\times b=8\times2=16$ | $4$ | $8:4$ and $4:2$, both _dupla_ |
+| _medium rei_ | equal distance, $(8+2)\div2$ | $5$ | $8:5$ and $5:2$, different proportions |
+| _medium proportionale_ | equal proportion, $b\times b=8\times2=16$ | $4$ | $8:4$ and $4:2$, both _dupla_ |
 
-**How many times one proportion contains another.** Count the links of the smaller in a chain for the greater:
+**How many times one proportion contains another.** Write the greater proportion as a chain whose links are all the smaller proportion, and count the links.
 
-| Greater | Chain of _dupla_ links | Count | So |
-| --- | --- | --- | --- |
-| $4:1$ | $4,2,1$ | $2$ | _quadrupla_ is double the _dupla_ |
-| $8:1$ | $8,4,2,1$ | $3$ | _octupla_ is triple the _dupla_, not quadruple |
-| $16:1$ | $16,8,4,2,1$ | $4$ | quadruple the _dupla_; double the _quadrupla_ |
+| Greater | Chain | Links | Each link reduces to | Count | So |
+| --- | --- | --- | --- | --- | --- |
+| $4:1$ | $4,2,1$ | $4:2$, $2:1$ | $2:1$ | $2$ | _quadrupla_ is double the _dupla_ |
+| $8:1$ | $8,4,2,1$ | $8:4$, $4:2$, $2:1$ | $2:1$ | $3$ | _octupla_ is triple the _dupla_, not quadruple |
+| $16:1$ | $16,8,4,2,1$ | $16:8$, $8:4$, $4:2$, $2:1$ | $2:1$ | $4$ | quadruple the _dupla_ |
+| $16:1$ | $16,4,1$ | $16:4$, $4:1$ | $4:1$ | $2$ | double the _quadrupla_ |
 
 This is the comparison "by composition" of §20, not "by value" ($8\div2=4$).
 
 ### P7. Which proportion is greater?
 
-Used on 40a (§19). **Method:** reduce both and compare by the steps of P2, or use the modern check: $a:b$ is greater than $c:d$ when $a\times d$ is greater than $b\times c$.
+Used on 40a (§19). A proportion of greater inequality is **greater** when its left term contains its right term more times, that is, when it lies further from equality ($1:1$). $3:2$ is once and a half; $4:3$ is once and a third; a half is more than a third, so $3:2$ is the greater. In musical terms the fifth is a wider interval than the fourth, which is what "the fifth exceeds the fourth" means. How much wider is a subtraction (P5, Example C), the tone $9:8$.
 
-| First | Second | $a\times d$ | $b\times c$ | Greater |
-| --- | --- | --- | --- | --- |
-| $12:5$ | $8:4$ | $12\times4=48$ | $5\times8=40$ | $12:5$ |
-| $10:5$ | $8:4$ | $10\times4=40$ | $5\times8=40$ | neither: equal |
-| $3:2$ | $4:3$ | $3\times3=9$ | $2\times4=8$ | $3:2$: the fifth exceeds the fourth |
-| $8:5$ | $8:4$ | $8\times4=32$ | $5\times8=40$ | $8:4$ |
+**Method 1 (names).** Compare the whole times from P2. If they are equal, compare the leftovers.
+
+**Method 2 (same right term).**
+
+1. Rescale both proportions by Rule 1 so that they have the same right term, exactly as in P3. Multiply both terms of $a:b$ by $d$, and both terms of $c:d$ by $b$. Both right terms are now $b\times d$.
+2. Compare the two left terms. The proportion with the larger left term is the greater. If the left terms are equal, the proportions are the same (P3).
+
+That is all. No chain is formed and nothing is removed. The shared right term is only a common measure, like comparing nine sixths with eight sixths; once both are measured against it, it plays no further part. Because the new left terms are always $a\times d$ and $b\times c$, one can skip writing the rescaled proportions and compare $a\times d$ with $b\times c$ directly.
+
+| First | Second | Multiply both terms of the first by | First becomes | Multiply both terms of the second by | Second becomes | Left terms | Greater |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| $12:5$ | $8:4$ | $4$ | $48:20$ | $5$ | $40:20$ | $48$ larger than $40$ | $12:5$ |
+| $10:5$ | $8:4$ | $4$ | $40:20$ | $5$ | $40:20$ | equal | neither, same proportion |
+| $3:2$ | $4:3$ | $3$ | $9:6$ | $2$ | $8:6$ | $9$ larger than $8$ | $3:2$, the fifth |
+| $8:5$ | $8:4$ | $4$ | $32:20$ | $5$ | $40:20$ | $32$ smaller than $40$ | $8:4$ |
 
 ### P8. The three proportionalities
 
-Used on 33b–34b and 40b (§12, §13, §19). A proportionality is a sequence of terms with something kept constant.
+Used on 33b–34b and 40b (§12, §13, §19). A proportionality is a sequence of terms with something kept constant. Take three terms, greatest first, $a,b,c$.
 
-| Kind | Keep constant | How to continue | Example | Steps |
+| Kind | What is kept constant | Test for $a,b,c$ | Example |
+| --- | --- | --- | --- |
+| geometrical | the proportion | $a:b$ is the same proportion as $b:c$ | $8,4,2$, where $8:4$ and $4:2$ are both _dupla_ |
+| arithmetical | the excess | $a-b$ equals $b-c$ | $4,3,2$, with excesses $1$ and $1$ |
+| harmonic | a proportion between extremes and excesses | $a:c$ is the same proportion as $(a-b):(b-c)$ | $6,4,3$, worked below |
+
+**The harmonic test, step by step, for $6,4,3$.**
+
+1. The two extremes, greatest to least, give $6:3$, which reduces to $2:1$, _dupla_.
+2. The two excesses are $6-4=2$ and $4-3=1$.
+3. The first excess to the second gives $2:1$, _dupla_.
+4. Steps 1 and 3 give the same proportion, so $6,4,3$ is harmonic.
+
+The same test on the other two examples fails, which shows it is not automatic.
+
+| Terms | Extremes | Excesses | Proportion of excesses | Harmonic? |
 | --- | --- | --- | --- | --- |
-| geometrical | the proportion | multiply by the same number | $2,4,8,16$ | $\times2$, $\times2$, $\times2$ |
-| arithmetical | the excess | add the same number | $2,3,4,5$ | $+1$, $+1$, $+1$ |
-| harmonic | extremes' proportion = proportion of the two excesses | test, three terms | $6,4,3$ | $6:3=2$; $(6-4):(4-3)=2:1=2$ |
+| $6,4,3$ | $6:3$, _dupla_ | $2$ and $1$ | $2:1$, _dupla_ | yes |
+| $6,3,2$ | $6:2$, _tripla_ | $3$ and $1$ | $3:1$, _tripla_ | yes |
+| $4,3,2$ | $4:2$, _dupla_ | $1$ and $1$ | $1:1$, equality | no (arithmetical) |
+| $8,4,2$ | $8:2$, _quadrupla_ | $4$ and $2$ | $2:1$, _dupla_ | no (geometrical) |
 
-Each link of a geometrical sequence is the same proportion, so the whole sequence is that proportion added to itself repeatedly (P6): $16:2$ is _dupla_ three times, $16:2=8:1$.
+The name comes from music. $6,4,3$ contains the octave $6:3$, the fifth $6:4$, and the fourth $4:3$ (§19).
+
+Each link of a geometrical sequence is the same proportion, so the whole sequence is that proportion added to itself repeatedly (P6). In $16,8,4,2$ the ends $16:2$ are the _dupla_ three times, and $16:2$ reduces to $8:1$.
 
 ### P9. The modern bridge
 
-Adding proportions multiplies their values; doubling squares them; halving takes a square root. On a logarithmic scale these become ordinary addition, doubling and halving:
+This section is entirely modern notation. Adding proportions multiplies their values; doubling squares them; halving takes a square root. On a logarithmic scale these become ordinary addition, doubling and halving:
 
 | Medieval | Value | Number of _duplae_ ($\log_2$) | Cents ($1200\log_2$) |
 | --- | --- | --- | --- |
 | _dupla_ $2:1$ | $2$ | $1$ | $1200$ |
 | _quadrupla_ $4:1$ = _dupla_ twice | $4$ | $1+1=2$ | $2400$ |
 | _octupla_ $8:1$ = _dupla_ three times | $8$ | $3$ | $3600$ |
-| half of _dupla_, $\sqrt2:1$ | $1.414$ | $\tfrac12$ | $600$ |
+| half of _dupla_, $\sqrt2$ to $1$ | $1.414$ | $\tfrac12$ | $600$ |
 | fifth $3:2$ + fourth $4:3$ | $\tfrac32\times\tfrac43=2$ | $0.585+0.415=1$ | $702+498=1200$ |
 
+The half of the _dupla_ is half the distance of the full $2:1$ on this scale. Two halves, $\tfrac12+\tfrac12=1$, make the full _dupla_, just as $\sqrt2\times\sqrt2=2$ and the chain $2,\ \sqrt2,\ 1$ of P6.
+
 That is why the medieval word "add" fits: the size of a proportion behaves like a logarithm. Bradwardine's rule needs exactly this: to double a speed, double the proportion of power to resistance, i.e. square its value. $2:1$ becomes $4:1$, and $3:2$ becomes $9:4$ (§19; [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-and-Galileo.html), section 1.1).
+
+**A logarithm before logarithms?** In concept, largely yes. Treating proportions as magnitudes that add when chained is what a logarithm does: it turns multiplying into adding. Oresme's _De proportionibus proportionum_ (c. 1360) pushed the idea furthest, treating fractional parts of proportions, such as the half of the _dupla_, and asking whether one proportion is a rational part of another; $3:2$, for instance, is not a rational part of $2:1$. What was missing was the computing device: a **table** giving every proportion a number, so that a product is found by looking up two numbers, adding them, and looking up the result. The chain method of P4–P6 still multiplies whole numbers at every step and saves no labour. The tables came with Napier (1614) and Bürgi (1620), prepared by Stifel's (1544) pairing of a geometrical sequence $1,2,4,8,\dots$ with an arithmetical one $0,1,2,3,\dots$, which are the two proportionalities of P8 set side by side. The practical power of logarithms in astronomy, navigation, and later engineering came from the tables and the slide rule built on them, not from the concept alone.
+
+**Could the table have been written in the medieval vocabulary?** Yes. Bürgi's table can be read as a proportion table:
+
+1. Take a very small proportion as the unit. Bürgi used $10001:10000$, a _superparticularis_ (the greater term contains the lesser once, plus one ten-thousandth part of it).
+2. Add it to itself again and again (P6), giving the chain $1,\ 1.0001,\ 1.0001^2,\ 1.0001^3,\dots$
+3. For each proportion, record how many units it contains (the "how many times" of the Summary). The _dupla_ contains about $6932$ units, the _sesquialtera_ $3:2$ about $4055$, and the _sesquitertia_ $4:3$ about $2877$.
+4. To multiply, look up both counts, add them, and read the result back from the table. For $\tfrac32\times\tfrac43$: $4055+2877=6932$, the _dupla_.
+
+That is a logarithm table to base $1.0001$. Briggs's base-10 tables (1617–1624) took another medieval route: he extracted 54 successive square roots of $10$. Each extraction is a _halving_ of the proportion by the _medium proportionale_ (P6), so his method is the medieval operation repeated. Napier's own definition is kinematic: one point moves arithmetically while another moves geometrically. That is close to the kind of argument the Paris calculatores made.
+
+Four obstacles stood in the way:
+
+- **Irrational parts.** Most entries are approximations, because Oresme had shown that most proportions are not rational parts of one another. Medieval names covered only rational parts ("two thirds of a _dupla_"). Sexagesimal fractions from the astronomical tables could have carried the approximations; decimal fractions came only with Stevin (1585).
+- **Proportions were not numbers.** Only ratios of whole numbers had names. To use the table on a value like $0.8746$, it has to be treated as the proportion $8746:10000$. This is a small step, but it gives up the habit of keeping proportion and number apart.
+- **No demand yet.** The demand came from large trigonometric calculations in late-16th-century astronomy, which until then were handled by prosthaphaeresis (turning products into sums by trigonometric identities).
+- **The labour.** Bürgi and Napier each spent years computing their tables by hand.
 
 ### Summary
 
@@ -321,7 +481,7 @@ That is why the medieval word "add" fits: the size of a proportion behaves like 
 | same proportion | multiply or divide both terms | $8:4=2:1$ | equal fractions |
 | naming | count, remainder, reduce | $5:2$ _dupla sesquialtera_ | mixed number $2\tfrac12$ |
 | adding | chain through a shared middle | $4:3+3:2=2:1$ | multiply |
-| subtracting | drop the last link | $2:1-3:2=4:3$ | divide |
+| subtracting | remove the part from the end of the whole | $2:1-3:2=4:3$ | divide |
 | doubling, tripling | add to itself | $3:2$ doubled is $9:4$ | square, cube |
 | halving | _medium proportionale_ | half of $9:4$ is $3:2$ | square root |
 | comparing | reduce, or cross-multiply | $3:2>4:3$ | compare fractions |

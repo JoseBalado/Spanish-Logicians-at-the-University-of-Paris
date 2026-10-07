@@ -45,7 +45,7 @@ continere aliquod corpus. Ex quo sequitur quod in loco duo importantur, absolutu
 
 Absolutum est superficies, respectivum est talis habitudo, scilicet contineri
 illud corpus quod est superficiei ad ipsum corpus contentum. Unde locus sic se debet habere ad locatum quod debet uniri ipsi locato. Ex quo sequitur quod numquam se habet aliquid in
-ratione loci nisi in ratione superficiei, et ideo bene dicit Scotus in secundo, quod nihil locat nisi secundum quandam indivisibilitatem. Et ratio huius est quia locus, ea ratione qua est locus, debet esse inmediatus locato. Sed sic est quod nihil est inmediatum alicui ea parte qua est divisibile, et ratio quia omne divisibile habet partes. /4b/ Sic habet partes, una est propinquior alia.
+ratione loci nisi in ratione superficiei, et ideo bene dicit Scotus in *Secundo*, quod nihil locat nisi secundum quandam indivisibilitatem. Et ratio huius est quia locus, ea ratione qua est locus, debet esse inmediatus locato. Sed sic est quod nihil est inmediatum alicui ea parte qua est divisibile, et ratio quia omne divisibile habet partes. /4b/ Sic habet partes, una est propinquior alia.
 
 Notandum est ulterius quod duplex est superficies, quaedam est superficies concava, et alia est convexa. Unde superficies concava est quae nata est continere, secundum talem dispositionem, scilicet aliquod corpus. Sed superficies convexa est quae non est nata continere, secundum talem dispositionem, aliquod corpus.
 
@@ -112,9 +112,9 @@ Respondetur negando consequentiam, quia non volo dicere quod illa superficies es
 
 Tunc quaeritur talis quaestio: Quomodo debent esse corpora in loco, ad hoc quod naturaliter sint in loco?
 
-Respondetur per talem distinctionem, quia vel illa corpora sunt gravia, vel levia, vel nec gravia nec levia, sicut sunt caeli. Hoc modo dico, de mente Scoti in Quarto et aliorum doctorum, quod nec sunt in loco naturaliter vel violenter, sed neutraliter se habent ad locum. Unde dico quod si una particula caeli poneretur hic, quod nec moveretur sursum nec deorsum; ex quo sequitur quod si caelum non moveretur a Deo vel ab angelo /6b/ ibi maneret.
+Respondetur per talem distinctionem, quia vel illa corpora sunt gravia, vel levia, vel nec gravia nec levia, sicut sunt caeli. Hoc modo dico, de mente Scoti in *Quarto* et aliorum doctorum, quod nec sunt in loco naturaliter vel violenter, sed neutraliter se habent ad locum. Unde dico quod si una particula caeli poneretur hic, quod nec moveretur sursum nec deorsum; ex quo sequitur quod si caelum non moveretur a Deo vel ab angelo /6b/ ibi maneret.
 
-Ex quo sequitur secundo error aliquorum philosophorum, qui dicunt quod caelum movetur naturaliter circulariter, sicut lapis movetur deorsum naturaliter. Aut illa corpora sunt gravia vel levia, et tunc ponitur talis propositio secundum Albertum de Saxonia in De caelo, qualiter debent corpora signari vel situari, quod gravia sint sub levioribus et levia super gravia.
+Ex quo sequitur secundo error aliquorum philosophorum, qui dicunt quod caelum movetur naturaliter circulariter, sicut lapis movetur deorsum naturaliter. Aut illa corpora sunt gravia vel levia, et tunc ponitur talis propositio secundum Albertum de Saxonia in *De caelo*, qualiter debent corpora signari vel situari, quod gravia sint sub levioribus et levia super gravia.
 
 Ex quo sequitur quod si Deus poneret terram super aerem et aquam, et infra terram, illa aqua esset naturaliter sita. Et ponunt talem consequentiam philosophi naturales, scilicet quod nullum corpus in suo loco naturali trahit, id est, si aliquod sit naturaliter in loco suo naturali, non trahit plus deorsum; et si corpus leve sit naturaliter in loco suo naturali, non trahit plus sursum.
 
@@ -236,7 +236,7 @@ Sequitur de augmentatione, unde augmentatio est mutatio per quam acquiritur quan
 Alteratio est duplex: quaedam est acquisitiva et quaedam deperditiva. Acquisitiva est mutatio per quam acquiritur qualitas, sed diminutio est mutatio per quam deperditur qualitas. Sed loci mutatio est duplex, scilicet acquisitiva et deperditiva. Acquisitiva est mutatio qua res naturalis acquirit sibi /12a/ locum sive ubi. Sed deperditiva est mutatio qua res naturalis deperdit locum sive ubi. Notandum quod in generatione sive mutatione naturali, de qua loquitur Philosophus, debet esse subiectum commune sub utroque termino transmutationis quia in generatione est materia prima. Nam eadem materia in numero quae prius fuit sub privatione formae postea est sub forma quae generatur. Sed in augmentatione subiectum commune est totum compositum secundum doctrinam Scoti, et ratio est quia, secundum Scotum, quantitas non recipitur in materia prima, sed in composito, ut dictum est, et ponitur talis regula:
 > Tam in augmentatione quam in diminutione et alteratione et loci mutatione subiectum commune est res naturalis sive totum compositum.
 
-Ex quo sequitur quod bene dicit Aristoteles, Primo de Generatione, quod differentia est inter generationem et corruptionem et alias mutationes, quia subiectum in generatione et corruptione est ens in potentia, puta materia prima, sed subiectum in aliis mutationibus quatuor est hoc aliquid, id est, res naturalis. Et ideo habemus quod istae quatuor sunt rei naturalis et illa requirit duas mutationes, scilicet generationem et corruptionem.
+Ex quo sequitur quod bene dicit Aristoteles, primo *De generatione*, quod differentia est inter generationem et corruptionem et alias mutationes, quia subiectum in generatione et corruptione est ens in potentia, puta materia prima, sed subiectum in aliis mutationibus quatuor est hoc aliquid, id est, res naturalis. Et ideo habemus quod istae quatuor sunt rei naturalis et illa requirit duas mutationes, scilicet generationem et corruptionem.
 
 Secundo: Res naturalis habet quantitatem per augmentationem.
 
@@ -246,7 +246,7 @@ Quarto: Habet locum per loci mutationem.
 
 ## Nunc restat ostendere quot sunt species motus
 
-Unde dicit Aristoteles, Quinto Physicorum, quod "ad tria praedicamenta est motus per se, scilicet ad quantitatem et /12b/ qualitatem et ubi", vult dicere quod "ad quantitatem est motus", id est quantitas acquiritur per motum, id est successive, et pars post partem. Qualitas et successive acquiritur per motum, id est acquiritur pars post partem, et hoc vult dicere Aristoteles "Ad quantitatem est motus, et ad ubi est motus", id est motus sive ubi successive acquiritur.
+Unde dicit Aristoteles, quinto *Physicorum*, quod "ad tria praedicamenta est motus per se, scilicet ad quantitatem et /12b/ qualitatem et ubi", vult dicere quod "ad quantitatem est motus", id est quantitas acquiritur per motum, id est successive, et pars post partem. Qualitas et successive acquiritur per motum, id est acquiritur pars post partem, et hoc vult dicere Aristoteles "Ad quantitatem est motus, et ad ubi est motus", id est motus sive ubi successive acquiritur.
 
 ## Circa praedicta quaero aliquas quaestiones
 
@@ -314,7 +314,7 @@ Sed si quaeratur quae res sit tempus, dico quod de hoc sunt multae opiniones:
 - Et alii dicunt quod omne illud est tempus alicui per quod denotatur ad quantitatem operationis. Et ideo, secundum diversitatem horum, sic sunt diversa tempora. Nam /15a/ sunt aliqui homines sicut rustici qui, per motum Solis, veniunt in quantitatem operationis, et illis rusticis tempus est motus Solis.
 - Sunt alii, in civitatibus, qui per motum horologii deveniunt in quantitatem operationis, et illis motus horologii est tempus.
 
-Alia est mutatio instantanea quae fit tota simul in instanti, et ista mensuratur instanti. Unde instans est mensura indivisibilis, et de istis in *Tractatu de Intensione Formarum*, unde sic est imaginandum quod postquam illuminatio est indivisibilis, id est, tota simul debet sibi correspondere mensura indivisibilis. Si non sit illa mensura indivisibilis, per imaginationem debet mensurare, sed si sit indivisibilis, per
+Alia est mutatio instantanea quae fit tota simul in instanti, et ista mensuratur instanti. Unde instans est mensura indivisibilis, et de istis in *Tractatu de intensione formarum*, unde sic est imaginandum quod postquam illuminatio est indivisibilis, id est, tota simul debet sibi correspondere mensura indivisibilis. Si non sit illa mensura indivisibilis, per imaginationem debet mensurare, sed si sit indivisibilis, per
 eam mensurabitur mutatio indivisibilis.
 
 ## Sequitur de causis
@@ -512,7 +512,7 @@ Ut pater, sol et Deus concurrunt /22b/ ad producendum hominem.
 
 Dico quod sol est principalior quam pater quia potest plures effectus, et est illimitatior. Et Deus gloriosus dicitur esse principalior quam sol eadem ratione.
 
-Sed quaereret aliquis quid est unam causam agere in virtute alterius. Ad quod respondent aliqui quod habere talem ordinem in agendo quod una nullo modo possit facere sine alia. Sed istud improbatur quia si illa declaratio esset bona sequeretur quod illa definitio non esset bona. Ideo alli respondetur et melius quod unam causam agere in virtute alterius, est unam causam non agere nisi aliquid moveat ad agendum. Ut Deus et Sortes producunt aliquem effectum. Dico quod Deus duo facit: primo producitur illum effectum, secundo facit quod Sortes producat illum effectum. Ideo agit Duo De Causis qua una non agit in virtute alterius, ut obiectum et intellectus. Dico quod intellectus movet obiectum ad causandam notitiam, et hoc dicit Petrus de Aliaco in Quarto et optime.
+Sed quaereret aliquis quid est unam causam agere in virtute alterius. Ad quod respondent aliqui quod habere talem ordinem in agendo quod una nullo modo possit facere sine alia. Sed istud improbatur quia si illa declaratio esset bona sequeretur quod illa definitio non esset bona. Ideo alli respondetur et melius quod unam causam agere in virtute alterius, est unam causam non agere nisi aliquid moveat ad agendum. Ut Deus et Sortes producunt aliquem effectum. Dico quod Deus duo facit: primo producitur illum effectum, secundo facit quod Sortes producat illum effectum. Ideo agit Duo De Causis qua una non agit in virtute alterius, ut obiectum et intellectus. Dico quod intellectus movet obiectum ad causandam notitiam, et hoc dicit Petrus de Aliaco in *Quarto* et optime.
 
 Ex quo sequitur glosam Scoti prius recitatam non valere, quia illa dicta communia non possunt salvari, scilicet:
 
@@ -528,7 +528,7 @@ Ut sint duo homines portantes lapidem, dico quod quilibet portat suam partem.
 
 Circa istam regulam est unum magnum problema apud doctores, utrum sit possibile quod sint aliquae causae accidentaliter subordinatae totales, id est totaliter producentes aliquem effectum, ita quod una remota non minus effectus producatur ab illa eadem modo ac si esset cum alia, ut duo homines portantes lapidem ut dictum est.
 
-Scotus tenet quod non est possibile, Ockham vero tenet quod sic. Sed hoc tractatur in Secundo Physicorum.
+Scotus tenet quod non est possibile, Ockham vero tenet quod sic. Sed hoc tractatur in secundo *Physicorum*.
 
 Secunda regula:
 
@@ -594,7 +594,7 @@ Quae sic glossatur:
 
 Id est cuius effectus non est alicuius gratia sive non est notabilis bonitatis vel malitiae, ut fuit dictum superius. Ut si eundo ad cameram offendam lapidem vel offendatur a parvo lapide. Tunc sunt causae per accidens /26b/ neutra, id est nec casus nec fortuna.
 
-Item causarum quaedam vocantur propinquae, quaedam remota. Unde causa remota est quae communi nomine nominatur vel inter quam et suum effectum multae interiacent causae. Exemplum ut domificator dicitur causae remota domus, quia communi nomine nominatur. Et etiam effectus vocatur communisque communi nomine nominatur, dicendo domus, quia domificator et domus sunt termini communes. Notandum quod causa remota vocatur causa universalis et effectus etiam vocatur universalis, de quo effectu dat Aristoteles Secundo Physicorum talem regulam:
+Item causarum quaedam vocantur propinquae, quaedam remota. Unde causa remota est quae communi nomine nominatur vel inter quam et suum effectum multae interiacent causae. Exemplum ut domificator dicitur causae remota domus, quia communi nomine nominatur. Et etiam effectus vocatur communisque communi nomine nominatur, dicendo domus, quia domificator et domus sunt termini communes. Notandum quod causa remota vocatur causa universalis et effectus etiam vocatur universalis, de quo effectu dat Aristoteles secundo *Physicorum* talem regulam:
 
 > Si aliquis quaerat per causarum universalem respondens per effectum universalem, et e contra.
 
@@ -652,7 +652,7 @@ Dico quod forte difficile est salvare in philosophia quod ignis generat cineres,
 
 Secundum exemplum: manus habet decem gradus frigiditatis in isto loco et approximo manum igni. Detur ratio quare magis ignis corrumpit unum gradum quam alium, cum illi gradus aequaliter approximentur igni, et aeque immediate.
 
-Respondetur quod recurrendum est ad ipsum Deum qui taliter dirigit agens naturale quod prius corrumpat unum gradum quam alium, reliqua de causis in de intensione formarum.
+Respondetur quod recurrendum est ad ipsum Deum qui taliter dirigit agens naturale quod prius corrumpat unum gradum quam alium, reliqua de causis in *De intensione formarum*.
 
 ## FINIS PRINCIPIORUM PHYSICORUM
 
@@ -660,7 +660,7 @@ Respondetur quod recurrendum est ad ipsum Deum qui taliter dirigit agens natural
 
 # INTRODUCTIONES LIBRORUM ANIMAE
 
-Viso de ente naturali in communi, videndum est consequenter de speciebus entis naturalis. Unde entia naturalia sunt multiplicia: quaedam inanimata, alia vero animata. De inanimatis non faciemus specialem mentionem, sed applicentur ea quae dicta sunt; de animatis vero erit praesens speculatio, quae quidem non parvae utilitatis erit pro libris De anima.
+Viso de ente naturali in communi, videndum est consequenter de speciebus entis naturalis. Unde entia naturalia sunt multiplicia: quaedam inanimata, alia vero animata. De inanimatis non faciemus specialem mentionem, sed applicentur ea quae dicta sunt; de animatis vero erit praesens speculatio, quae quidem non parvae utilitatis erit pro libris *De anima*.
 
 ## Nunc videndum est quid est anima:
 
@@ -798,7 +798,7 @@ Quarta proprietas: Sensus exteriores requirunt debitam approximationem et distan
 
 > Sensibile positum supra sensum non facit sensationem, ut visibile positum supra visum non videtur.
 
-Pro cuius declaratione proprietas ista ponuntur, videlicet quod /36b/ sensus exteriores habent sua propria organa, et omnes conveniunt in hoc quod illa organa sunt quidam nervi supra quos est caro. Declaro hoc in quolibet sensu, nam sensus visus habet pro organo quemdam nervum vel quosdam nervos qui se habent per modum retinis. Similiter exponit Forlivio, dicendum de quorumque sensu, de quibus in libris *De Anima*.
+Pro cuius declaratione proprietas ista ponuntur, videlicet quod /36b/ sensus exteriores habent sua propria organa, et omnes conveniunt in hoc quod illa organa sunt quidam nervi supra quos est caro. Declaro hoc in quolibet sensu, nam sensus visus habet pro organo quemdam nervum vel quosdam nervos qui se habent per modum retinis. Similiter exponit Forlivio, dicendum de quorumque sensu, de quibus in libris *De anima*.
 
 Tunc ponitur talis propositio:
 
@@ -1039,8 +1039,5 @@ Page 39b: Primo ] emend. Tertio
 Page 39b: exteriorum ] del. et exterioris vel exteriorum
 Page 39b: organo ] conj. impo
 Page 42b: Sicut ] sic
-Page 46a: semper ] sic
-Page 46a: potentiae cognitivae ] del. potentiae appetitus cognitivae (struck through in ms)
-Page 46b: Scotistae ] conj. Scot)
 
 -->

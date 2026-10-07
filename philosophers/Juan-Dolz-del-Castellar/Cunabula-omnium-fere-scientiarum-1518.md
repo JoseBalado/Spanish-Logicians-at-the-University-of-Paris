@@ -1218,7 +1218,53 @@ Et propterea, praeter medium rationis, ponitur duplex medium apud mathematicos: 
 
 Ideo cogita qualiter aliquotas in proportionibus accipis. Et sic, sicut proportio est pars proportionis, ita et aliquota proportio dicitur. Non tamen datur proportio quae cuiuslibet sit pars aliquota, nec etiam cuiuslibet alterius a se.
 
-Quintum praeambulum: cum omne totum ex suis /44a/ partibus componatur...
+Quintum praeambulum: cum omne totum ex suis /44a/ partibus componatur, sequitur proportionem ex proportionibus componi.
+
+## De compositine proportionum
+
+### Aristoteles
+
+Et cum omne totum in suas partes sit divisibile, dicente Aristotele corpus est undiquaque divisibile in libris *De caelo*, sequitur proportionem in proportiones dividi. Et sic constat compositio cum divisione proportionum. Iam sequuntur quaedam principia geometriae praeambulis deducta, articulum declarantia.
+
+Primum est:
+
+> Omne totum est maius sua parte.
+
+Ex isto principio possumus inferre quod proportio dupla est maior sesquialtera, cum sesquialtera sit pars duplae. Consimiliter dicas de sesquitertia. Quod nec est probandum nec regulis dilucidandum in sensu geometrico.
+
+Tempus perdit qui ipsum voluit falsificare propter hominem, qui non apparet maior sua materia, cuius quantitatem, metas Nominalium non exeundo, ab ipso distingui ponunt, ut habes apud Bruxellensem. Similiter cribro aquam hauriunt ipsum conantes falsificare propter Brunellum, qui eo non videtur maior sua materia, quia non per spatii duplum protenditur ad spatium materiae. Similiter nodum in scirpo quaerunt qui illi adversari credunt ob lineam gyrativam, quae, quia infinite longa a multis dicta, maior toto videtur. Similiter litus aratur ab eis qui, posito digito fortis Romae et illic rarefacto, maiorem toto et principio adversari credunt. Item castra construunt in Hispania qui ob partem hominis indivisibilem non magnam volunt principium falsum arguere, quia ly 'sua parte' distribuit; patebit eius declaratio inferius.
+
+Mathematici procedunt in illo principio de parte quantitativa et magna. Et etiam naturaliter loquendo materia non est pars quantitativa, licet sit quanta, quia ibi dicitur pars quantitativa pars composita ex materia et forma, et integralis. Etiam posset sustentari Sortem esse maiorem illa parte quae ponitur in uno casu tacto, et quod eius dimensio toti attribuenda est; sed hoc non esset multum vero consonum.
+
+Etiam possumus dicere principium illud geometrice intelligi sic:
+
+> Omne totum continet quidquid continet sua pars quacumque data, et cum hoc aliquid ultra.
+
+Et si dicas: esset igitur maioritas improprie dicta totius ad partem, ut diximus de duobus infinitis, nam maioritas improprie dicta illo modo exprimitur in primo articulo, dico non est idem, quia ibi totius ad partem est certa proportio, et non illic. Licet /44b/ haec propositio communiter concedatur:
+
+> Omne totum in nulla proportione est maius sua parte.
+
+Propter determinatam suae contradictoriae in ly 'proportione' in ordine ad distributionem de parte, sufficit tamen quod quacumque parte totum illa in aliqua proportione sit maius.
+
+Secundum principium:
+
+> Omne compositum ex duobus aequalibus est duplum ad quodlibet illorum, et omne compositum ex tribus aequalibus est triplum ad quodlibet illorum, et sic consequenter.
+
+Ista non opus est probare, cum luce clariora sunt. Sed si vis, sic proba: omne bis aliquid continens est duplum ad illud, ex primo articulo; omne compositum ex duobus aequalibus bis illorum unum continet; ergo est duplum ad illud. Et si velles hoc falsum apparens reddere rationibus in praeambulum praecedens similibus ductis, habes evasionis viam.
+
+Tertium principium:
+
+> Omne compositum ex duobus inaequalibus est magis quam duplum ad minus illorum, et minus quam duplum ad maius illorum.
+
+Patet: minus illorum est medietate minus, ad medietatem est adaequate duplum, ergo ad illud minus magis quam duplum. Item maius illorum est medietate maius, [et] ad medietatem est adaequate duplum, ergo [ad] illud maius minus quam duplum. Ex his sequitur:
+
+> Omne compositum esse duplum ad quamlibet suam medietatem.
+
+Quia duae medietates sunt duo aequalia; triplum ad quamlibet suam tertiam, quia tertiae sunt tria aequalia; et sic consequenter.
+
+## De denominationibus proportionum
+
+Quartum principium: refert loqui de numeris a quibus proportiones denominantur et de terminis, nam numeri non includunt fractionem nec solam unitatem, secus termini. Melius a terminis suscipitur proportionis denominatio quam a numeris. Et est advertendum non a quibuscumque numeris sumenda est proportionis denominatio inter quos reperitur, nam a proportionis denominatione, ut confestim dicemus, sumitur proportionis aequalitas vel inaequalitas. Et si a quibuscumque numeris inter quos proportio sumeretur denominatio proportionis, esset nobis umbrosum et aenigmaticum videre maioritatem proportionum, nam non posset facile cognosci quadruplam maiorem duplam, nam dupla denominaretur 16 ad 8, et quadrupla a 4 et unitate, et primi essent maiores. Et si diceres: capiam numeros quadruple maiores illis duplae quibuscumque datis, ascendendo caperem numeros duple illis maiores, nisi velles dicere quod /46a/...
 
 
 <!--
@@ -1278,5 +1324,13 @@ Page 42b: improprie ] conj. proprie (iam dictam; cf. 39a and maioritas improprie
 Page 42b: assignari ] emend. assignare
 Page 43a: maximum et medium ] emend. maximum et minimum (cf. 8 ad 6 among the parts)
 Page 43a: 7 ad 5 ] transp. 5 ad 7
+Page 44a: scirpo ] emend. cyrpo
+Page 44a: gyrativam ] emend. girativam
+Page 44b: propositio ] emend. ꝓportio (the proposition omne totum in nulla proportione est maius sua parte)
+Page 44b: terminis, termini ] conj. teris, teri
+Page 44b: 16 ] emend. 6 (dupla; cf. primi essent maiores)
+Page 44b: quadruplo ] emend. quadruple
+Page 44b: duplae ] emend. duple
+Page 44b: duplae ] emend. duple
 
 -->

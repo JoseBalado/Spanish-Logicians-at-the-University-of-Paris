@@ -1327,7 +1327,8 @@ Page 43a: 7 ad 5 ] transp. 5 ad 7
 Page 44a: scirpo ] emend. cyrpo
 Page 44a: gyrativam ] emend. girativam
 Page 44b: propositio ] emend. ꝓportio (the proposition omne totum in nulla proportione est maius sua parte)
-Page 44b: terminis, termini ] conj. teris, teri
+Page 44b: terminis ] conj. teris
+Page 44b: termini ] conj. teri
 Page 44b: 16 ] emend. 6 (dupla; cf. primi essent maiores)
 Page 44b: quadruplo ] emend. quadruple
 Page 44b: duplae ] emend. duple

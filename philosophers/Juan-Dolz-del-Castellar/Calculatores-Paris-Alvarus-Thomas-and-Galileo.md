@@ -63,7 +63,7 @@ Lax's _Quaestiones physicales_ (1527) opens its question _de motu penes causam_ 
 
 ## 2. What Alvarus Thomas's _Liber de triplici motu_ (1509) contains
 
-Alvarus Thomas (Álvaro Tomás, _Ulisbonensis_) was a Portuguese master teaching at Paris. His _Liber de triplici motu proportionibus annexis_ (Paris, 1509) is the largest and most mathematical Parisian treatment of the subject in the early sixteenth century. Dolz names him among his predecessors (_si Aluarum_) and cites his _Proportiones_ II.1 and II.3 by chapter.
+Alvarus Thomas (Álvaro Tomás, _Ulisbonensis_) was a Portuguese master teaching at Paris. His _Liber de triplici motu proportionibus annexis_ (Paris, 1509) is the largest and most mathematical Parisian treatment of the subject in the early sixteenth century. Dolz names him among his predecessors (_si Aluarum_) and cites his _Proportiones_ II.1 and II.3 by chapter. What is known of his life is collected in section 8.
 
 ### 2.1 Velocity by its cause and by its effect
 
@@ -395,7 +395,7 @@ After about 1400 the calculatory tradition faded at Paris, where realism and the
 | **John Mair** (regent at Montaigu from 1496) | Organizer of the nominalist revival rather than a mathematician; teacher of the Coronels and Lax | [John Mair](../John-Mair/) |
 | **Jerónimo Pardo** (d. 1502/1505) | Mair's friend; announced a treatise _de intensione_ that was never written (section 7) | [Jerónimo Pardo](../Jeronimo-Pardo/) |
 | **Jean Dullaert of Ghent** (_Physics_ questions, 1506) | Physics of impetus; source for Coronel; cited by Dolz on _Physics_ III | — |
-| **Alvarus Thomas** (_Liber de triplici motu_, 1509) | The mathematical core: proportions, motion by cause and effect, mean speed, 1 : 3, series (section 2) | — |
+| **Alvarus Thomas** (_Liber de triplici motu_, 1509) | The mathematical core: proportions, motion by cause and effect, mean speed, 1 : 3, series (section 2) | Life: section 8 |
 | **Luis Coronel** (_Physicae perscrutationes_, 1511) | Physics shaped by Dullaert and Alvarus; impetus; cites Swineshead | [Luis Coronel](../Luis-Coronel/) |
 | **Gaspar Lax** (_Arithmetica_ and _Proportiones_, 1515; _Calculationes_, 1517; _Quaestiones physicales_, Zaragoza, 1527) | Systematic mathematics of proportions and calculations; teacher of Celaya, Dolz, Vitoria, Vives | [Gaspar Lax](../Gaspar-Lax/) |
 | **Juan de Celaya** (_Physics_, 1517) | Seventy-one folios on motion surveying the Mertonians, Paris, and Padua; calls Lax _regentis mei_; teacher of Soto and Vitoria | [Juan de Celaya](../Juan-de-Celaya/) |
@@ -441,11 +441,126 @@ Pardo is therefore not the founder of the revival. The tradition was older, and 
 
 ---
 
-## 8. Open questions and points to verify
+## 8. Alvarus Thomas: what is known of his life
+
+Alvarus has no page of his own on this site, since he was Portuguese, not Spanish. What is known of him is collected here. The documented facts cover only about twelve years, 1509–1521. The main modern summary is Leitão (2000), who draws the archival data from Matos (1950) and Villoslada (1938). The rest comes from the 1509 edition itself: its title, its explicit, and the letters and poems printed with it.
+
+| Name form | Where |
+|---|---|
+| _Alvarus Thomas_, genitive _Alvari Thome_ | Title page and dedication of 1509 |
+| _Ulixbonensis_ | "of Lisbon", title page and explicit |
+| Álvaro Tomás | Modern Portuguese |
+| Alvaro Thomaz | Wallace, _Dictionary of Scientific Biography_; English Wikipedia |
+| _Albarus_, _Neotericus Albarus_ | Spanish authors (Margalho) |
+
+### 8.1 Timeline
+
+| Date | Event | Source |
+|---|---|---|
+| c. 1480–1485 | Born in Lisbon | Birthplace: title page. Date: Leitão's estimate from the rest of the career |
+| c. 1500 | Arrives in Paris as a young arts student, at about 16–18 | Leitão's conjecture, by comparison with other Portuguese students at Paris |
+| before 1509 | Master of arts; regent at the Collège de Coqueret, where he has finished one complete course of teaching | Bruniau's letter (section 8.3): he wrote the book in six months _secundum in Coqueretico stadio curriculum expectans_, "while waiting for his second course at Coqueret" |
+| 7, 9, and 11 February 1509 (probably 1510 in modern reckoning) | Prefatory letters dated from Coqueret (7 and 9 February); explicit dated 11 February | 1509 edition |
+| 1513 | Still regent in arts at Coqueret; enrolls in the Faculty of Medicine | Leitão, after Matos and Villoslada |
+| c. 1515 | Licentiate examinations in medicine | Leitão |
+| 1518 | Doctor of medicine; appointed to teach in the Faculty of Medicine | Leitão |
+| 1521 | Last signature in the university records | Leitão |
+| after 1521 | Unknown. Place and date of death unknown | — |
+
+The explicit reads:
+
+> Explicit liber de triplici motu compositus per Magistrum Alvarum Thomam Ulixbonensem Regentem Parrhisius in Collegio Coquereti. Anno domini 1509. Die Februarii 11.
+
+**The date.** At Paris the year began at Easter, so 11 February 1509 in the explicit is 11 February 1510 by modern reckoning. Leitão keeps 1509, following most authors, and refers to Soares (2000, p. 225) for the problem. This page keeps 1509 as the conventional date of the book.
+
+**Regent of arts, then medicine.** A regent was usually a master of arts who paid for his studies in a higher faculty (theology, law, or medicine) by teaching the arts course in a college. A regent took one group of students through the whole course, which lasted about three and a half years. Bruniau's "second course" therefore means that Alvarus had already taken one group through the whole course at Coqueret before 1509. He wrote the _Liber de triplici motu_ in the gap before the next group began. His move to medicine in 1513 follows the usual pattern, and it also fits his age: a man who became doctor of medicine in 1518 was probably not much older than thirty-five at the time.
+
+**The Collège de Coqueret.** Founded in 1439, Coqueret never had the standing of Montaigu or Sainte-Barbe. In these years it had Alvarus and Juan de Celaya as teachers. Later, in the 1540s, it was the college of Jean Dorat, Ronsard, and Du Bellay.
+
+### 8.2 Was he a student of Mair?
+
+| Question | Answer | Evidence |
+|---|---|---|
+| Did he study under Mair? | No evidence that he did | Leitão: "There is no evidence of Thomas being directly associated with Major or of having been his direct disciple, but no doubt he benefited from the intellectual environment around the Scottish master." |
+| Same college? | No | Alvarus taught at Coqueret; Mair taught at Montaigu |
+| Who was his teacher? | A "Petrus de Alliaco" | Bruniau's letter: _praeceptorem tuum Petrum de Alliaco_ (see below) |
+| Does the _Liber de triplici motu_ cite Mair? | Not found by name | Wallace (DSB) counts Mair among the authors Alvarus knew. A search of the ECHO transcription for Mair's name found no citation; abbreviated forms may have been missed |
+| Which way did influence run? | Partly from Alvarus to Mair's circle | Luis Coronel, Mair's student, excerpted Alvarus in his _Physicae perscrutationes_ (1511) |
+| Was he part of the same milieu? | Yes | The same university, the same years, the same nominalist logic and physics; Mair's students held chairs in the other colleges |
+
+So the answer is no, as far as the documents show. Alvarus belongs to the same Parisian generation and the same nominalist milieu as Mair's students, but not to the circle of Mair's direct pupils. He came to the Calculators from a different direction. Mair's interest in the infinite and in the intension of forms came through logic and theology; Alvarus's came through mathematics.
+
+**"Petrus de Alliaco".** Bruniau writes that Alvarus has a better claim to the name of philosopher than anyone in that crowd of philosophers:
+
+> … ut praeceptorem tuum Petrum de Alliaco inter philosophiae professores dum viveret doctissimum aut aequaveris aut (quod potius crediderim) superaveris, quem si fata virum servassent huic Parisiorum academiae omnibus philosophiae studiosis fructus non parum (quod sperabant omnes) procul dubio attulisset.
+
+"… so that you have either equalled or (as I would rather believe) surpassed your teacher Pierre d'Ailly, the most learned of the professors of philosophy while he lived. Had the fates spared him, he would no doubt have brought great profit to all students of philosophy at this University of Paris, as everyone hoped."
+
+| Reading | For | Against |
+|---|---|---|
+| The cardinal Pierre d'Ailly (1351–1420), whose logic and physics were read and printed at Paris | Leitão takes it this way: "One of his contemporaries considered him to be superior to Pierre d'Ailly" | _praeceptorem tuum_ ("your teacher") and _dum viveret_ ("while he lived"); "had the fates spared him … as everyone hoped" fits a master who died young, not a cardinal who died at about seventy, ninety years earlier |
+| A recent Paris master of the same name, Alvarus's own teacher, who died before fulfilling his promise | The wording fits it better | No such master has been identified here |
+
+The question is left open in section 9.
+
+### 8.3 The people around the 1509 edition
+
+| Person | Role in the book | What the book says about him |
+|---|---|---|
+| **Pedro de Meneses** | Dedicatee: _asylo protectorique suo_, "his refuge and protector" | A Portuguese nobleman, learned in letters, whom Alvarus had known personally. He travelled to Paris to hear its masters. His brothers had won military fame in North Africa |
+| **Georgius Bruniau** of Vendôme | Letter to Alvarus, dated from Coqueret, 7 February | Praises Alvarus's learning in theology, both laws, moral and natural philosophy, the quadrivium, and Cicero and Livy. Says the book was written in six months |
+| **Hermann Lethmate** of Gouda | Addressee of two pieces by Ioannes de Haya | Procurator of the German nation, though "barely out of boyhood". He was Alvarus's pupil (_Alvaro Thomae … addictus es_) and saw the book into print |
+| **Ioannes de Haya** | Verses and a letter to Lethmate, dated from Coqueret, 9 February | Calls Alvarus "a second Gorgias of Leontini", who has an argument ready for anything |
+| **Dionysius Faber** of Vendôme | Eight-line poem to the reader | Read the book twice, and it will please more |
+| **Guillaume Anabat** | Printer, praised in verses at the end | — |
+
+Leitão calls the author of the letter "Gregoire Bruneau"; the ECHO transcription reads _Georgius Bruniau vindocinensis_. Hermann Lethmate of Gouda is probably Hermannus Lethmatius (c. 1492–1555), later a doctor of theology, dean of St Mary's at Utrecht, and a correspondent of Erasmus. A birth around 1492 fits "barely out of boyhood" in 1509–1510; the identification should be checked.
+
+The book had three Coqueret letters, a pupil from the German nation who paid attention to its printing, and a Portuguese patron. It was a college product, written by a regent in the time between two courses and seen through the press by his circle.
+
+### 8.4 Colleagues and readers
+
+| Person | Relation to Alvarus | Source |
+|---|---|---|
+| **Juan de Celaya** | Colleague at Coqueret. His _Physics_ (1517) draws on the _Liber de triplici motu_ without naming it | Leitão; Wallace 1969 |
+| **Robert Caubraith** | Scottish colleague at Coqueret | Wikipedia, after Wallace; not checked |
+| **Luis Coronel** | Excerpts Alvarus in the _Physicae perscrutationes_ (1511) | Wallace 1969 |
+| **Juan Dolz** | Names him (_si Aluarum_), cites his _Proportiones_ II.1 and II.3, and compares his terminology with that of Lax and Dullaert | [Analysis](Cunabula-analysis.html) |
+| **Pedro Margalho** (Portuguese) | Cites the "Neotericus Albarus" | Leitão; Wallace |
+| **Pedro de Espinosa**, **Diego de Astudillo** | Praise and cite him; Astudillo often, in his questions on _De generatione_ | Leitão; Wallace |
+| **Domingo de Soto** | Uses the substance of his treatises, seldom naming sources; possibly through Celaya, Soto's teacher at Paris | Wallace; Leitão |
+| **Alonso de la Veracruz** | Critic: applied to Alvarus's calculations the words of Luke 5:5, "we have laboured all the night and taken nothing" | Wallace |
+
+Two judgements give his standing among contemporaries. Wallace: "At Paris […] there can be little doubt that Thomaz was the calculator par excellence at the beginning of the sixteenth century, and the principal stimulus for the revival of interest there in the Mertonian approach to mathematical physics." Villoslada (p. 190, quoted after Leitão), comparing him with Celaya: "El maestro lusitano era, por su ecletismo, su erudición y dialética invencible, gemelo de Celaya e superior a él como matemático."
+
+### 8.5 Modern rediscovery
+
+| Year | Author | Contribution |
+|---|---|---|
+| 1741 | Barbosa Machado, _Bibliotheca Lusitana_ I, 114–115 | Bibliographical entry |
+| 1913 | Duhem, _Études sur Léonard de Vinci_ III, 532–543 | First modern analysis of the book |
+| 1914 | Wieleitner | His summation of infinite series |
+| 1926 | Rey Pastor, _Los matemáticos españoles del siglo XVI_ | A chapter on the book; calls him "digno precursor de Pedro Nunes" and asks Portuguese scholars to search the archives for his biography |
+| 1950 | Matos, _Les Portugais à l'Université de Paris_ | Archival data on his career |
+| 1959 | Clagett | Places him in the medieval mechanical tradition: "he has at his command the whole medieval mechanical tradition" |
+| 1969, 1976 | Wallace | BJHS article; DSB entry "Thomaz, Alvaro" |
+| 1989 | Sylla | The disputational context of his mathematics |
+| 2000 | Leitão | Collects the biographical evidence |
+
+The _Liber de triplici motu_ is, as far as is known, his only work: 141 folios in two columns of small gothic type. Wieleitner called it a _liber rarissimus_, but Leitão counted more than twenty surviving copies, which suggests a wide circulation for a book of 1509.
+
+Rey Pastor's 1926 request has still not been met. Leitão's warning also stands: references to Alvarus's life in the secondary literature often contain errors, so each claim should be traced to Matos, Villoslada, or the 1509 edition.
+
+---
+
+## 9. Open questions and points to verify
 
 - **Italian printing history** of Swineshead and Heytesbury before 1510, and the identity of Dolz's "Bassanus" (probably Bassano Politi), should be checked against a bibliography before citation.
 - **Soto's passage**: quote it from the 1551 edition rather than from secondary summaries; Wallace (1968) gives the text and context.
-- **Duhem's treatment of Alvarus**: the exact chapters and pages of _Études_ III on Alvarus (the site already cites pp. 135–141 and 242–246 for Celaya).
+- **Duhem's treatment of Alvarus**: Leitão gives _Études_ III, pp. 532–543; check the chapter and read it (the site already cites pp. 135–141 and 242–246 for Celaya).
+- **"Petrus de Alliaco"** in Bruniau's letter (section 8.2): the cardinal, or a recent Paris master who taught Alvarus? Élie (1950–51) and Villoslada may name such a master.
+- **Alvarus's archival record**: read Matos (1950) and Villoslada (1938) directly for the 1513 enrolment in medicine, the 1518 doctorate, and the last signature in 1521.
+- **Pedro de Meneses** and **Hermann Lethmate**: identify the dedicatee, and confirm that Lethmate is the later Utrecht theologian.
 - **Lax's _Calculationes_ (1517)** and **Coronel's _Physicae perscrutationes_ (1511)**: whether either contains the mean-speed rule, the 1 : 3 rule, or an application to falling bodies.
 - **Lax's _Quaestiones physicales_ (Zaragoza, 1527)**, not yet transcribed. Its sections are _de quantitate_, _de toto_, _de maximo et minimo_, _de infinito_, _de motu penes causam_ and _de raritate et densitate_; there is no section on motion _penes effectum_. The question _de motu penes causam_ opens by reviewing four erroneous positions on what speed follows. Near its end it compares speeds in equal and unequal times by what is acquired or lost, apparently the same composition of ratios as Alvarus p. 149. Printed at Zaragoza after Lax's return, it belongs to the Spanish phase of section 6.5. It appeared before Soto's _Physics_ questions (1545, 1551), so it is not chronologically excluded as a source for Soto.
 - **Mair**: whether his _Physics_ or _Sentences_ commentaries contain calculatory kinematics, or only the discussions of the infinite.
@@ -474,11 +589,20 @@ Pardo is therefore not the founder of the revival. The tradition was older, and 
 - Crosby, H. Lamar. _Thomas of Bradwardine: His Tractatus de Proportionibus_. Madison, 1955.
 - Drake, Stillman. "Galileo's Discovery of the Law of Free Fall." _Scientific American_ 228 (1973).
 - Duhem, Pierre. _Études sur Léonard de Vinci_. 3 vols. Paris, 1906–1913. Vol. III: _Les précurseurs parisiens de Galilée_ (1913).
+- Élie, Hubert. "Quelques maîtres de l'Université de Paris vers l'an 1500." _Archives d'histoire doctrinale et littéraire du Moyen Âge_ 18 (1950–51), 193–243.
 - Koyré, Alexandre. _Études galiléennes_. Paris, 1939.
+- Leitão, Henrique. "Notes on the life and work of Álvaro Tomás." _Boletim do Centro Internacional de Matemática_ 9 (2000), 10–15. [Archived copy](https://web.archive.org/web/20050527074241/http://at.yorku.ca/i/a/a/h/11.htm).
 - Maier, Anneliese. _Die Vorläufer Galileis im 14. Jahrhundert_. Rome, 1949.
+- Matos, Luís de. _Les Portugais à l'Université de Paris entre 1500 et 1550_. Coimbra, 1950.
+- Rey Pastor, Julio. _Los matemáticos españoles del siglo XVI_. Toledo, 1926.
+- Soares, Luís Ribeiro. _Pedro Margalho_. Lisbon, 2000.
+- Sylla, Edith D. "Alvarus Thomas and the Role of Logic and Calculations in Sixteenth Century Natural Philosophy." In S. Caroti (ed.), _Studies in Medieval Natural Philosophy_. Florence, 1989, 257–298.
+- Villoslada, Ricardo G. _La Universidad de París durante los estudios de Francisco de Vitoria, O.P. (1507–1522)_. Rome, 1938.
 - Wallace, William A. "The Enigma of Domingo de Soto: _Uniformiter difformis_ and Falling Bodies in Late Medieval Physics." _Isis_ 59 (1968), 384–401.
 - Wallace, William A. "The _Calculatores_ in Early Sixteenth-Century Physics." _British Journal for the History of Science_ 4 (1969), 221–232.
 - Wallace, William A. _Galileo's Early Notebooks: The Physical Questions_. Notre Dame, 1977.
 - Wallace, William A. _Galileo and His Sources: The Heritage of the Collegio Romano in Galileo's Science_. Princeton, 1984.
 - Wallace, William A. _Domingo de Soto and the Early Galileo_. Aldershot, 2004.
+- Wallace, William A. "Thomaz, Alvaro." In C. C. Gillispie (ed.), _Dictionary of Scientific Biography_, vol. 13, p. 350. New York, 1976.
+- Wieleitner, Heinrich. "Zur Geschichte der unendlichen Reihen im christlichen Mittelalter." _Bibliotheca Mathematica_, 3. Folge, 14 (1914), 150–168.
 - Whitney, Hassler. "The Mathematics of Physical Quantities." _American Mathematical Monthly_ 75 (1968), 115–138 and 227–256.

@@ -180,7 +180,7 @@ Used on 40a (§19) and 43b (§22). To add two proportions, chain them. **The rig
 Steps for adding $a:b$ and $c:d$.
 
 1. Check whether $b$, the right term of the first proportion, equals $c$, the left term of the second.
-2. If not, rescale both by Rule 1 so that they share a middle. One way always works. Multiply both terms of the first proportion by $c$, and both terms of the second by $b$. So $a:b\to ac:bc$ and $c:d\to bc:bd$, and both now have $bc$ at the join.
+2. If not, rescale both by Rule 1 so that they share a middle. One way always works, **crosswise**. Multiply both terms of the first proportion by $c$, the left term of the second. Multiply both terms of the second by $b$, the right term of the first. So $a:b\to ac:bc$ and $c:d\to bc:bd$, and both now have $bc$ at the join. If one of these multipliers is $1$, that proportion stays as it is.
 3. Write the chain of three terms.
 4. Read off the two ends, first to last.
 5. Reduce and name.
@@ -193,7 +193,7 @@ Steps for adding $a:b$ and $c:d$.
 | 2 | no rewriting needed |
 | 3 | chain $4,\;3,\;2$ |
 | 4 | ends $4:2$ |
-| 5 | divide both terms by $2$, so $4:2\to2:1$, _dupla_ |
+| 5 | divide both terms by $2$, the largest number dividing both, so $4:2\to2:1$, _dupla_ |
 | modern | $\tfrac43\times\tfrac32=\tfrac{12}{6}=2$ |
 
 **Example B. $2:1$ plus $2:1$** (_dupla_ plus _dupla_).
@@ -201,7 +201,7 @@ Steps for adding $a:b$ and $c:d$.
 | Step | Work |
 | --- | --- |
 | 1 | the right term of the first $2:1$ is $1$, the left term of the second $2:1$ is $2$, so there is no shared middle |
-| 2 | multiply both terms of the first by $2$, so $2:1\to4:2$, still _dupla_ (Rule 1). The second stays $2:1$. Now the right term of the first and the left term of the second are both $2$ |
+| 2 | multiply both terms of the first by $2$, the left term of the second, so $2:1\to4:2$, still _dupla_ (Rule 1). The second would be multiplied by $1$, the right term of the first, so it stays $2:1$. Now the right term of the first and the left term of the second are both $2$ |
 | 3 | chain $4,\;2,\;1$ |
 | 4 | ends $4:1$ |
 | 5 | already in lowest terms, _quadrupla_ |
@@ -214,7 +214,7 @@ Dolz writes the same sum with larger terms, $8:4$ plus $4:2$, chain $8,4,2$, end
 | Step | Work |
 | --- | --- |
 | 1 | the right term of the first $4:3$ is $3$, the left term of the second $4:3$ is $4$, so there is no shared middle |
-| 2 | multiply both terms of the first by $4$, so $4:3\to16:12$. Multiply both terms of the second by $3$, so $4:3\to12:9$. Both are still _sesquitertia_, and now they share $12$ |
+| 2 | multiply both terms of the first by $4$, the left term of the second, so $4:3\to16:12$. Multiply both terms of the second by $3$, the right term of the first, so $4:3\to12:9$. Both are still _sesquitertia_, and now they share $12$ |
 | 3 | chain $16,\;12,\;9$ |
 | 4 | ends $16:9$ |
 | 5 | $16$ and $9$ have no common divisor, so $16:9$ stays, _superseptipartiens nonas_ (once and seven ninths) |
@@ -225,23 +225,23 @@ Dolz writes the same sum with larger terms, $8:4$ plus $4:2$, chain $8,4,2$, end
 | Step | Work |
 | --- | --- |
 | 1 | the right term of $3:2$ is $2$, the left term of $4:3$ is $4$, so there is no shared middle |
-| 2 | multiply both terms of $3:2$ by $4$, so $3:2\to12:8$. Multiply both terms of $4:3$ by $2$, so $4:3\to8:6$. Shared middle $8$ |
+| 2 | multiply both terms of $3:2$ by $4$, the left term of $4:3$, so $3:2\to12:8$. Multiply both terms of $4:3$ by $2$, the right term of $3:2$, so $4:3\to8:6$. Shared middle $8$ |
 | 3 | chain $12,\;8,\;6$ |
 | 4 | ends $12:6$ |
-| 5 | divide both terms by $6$, so $12:6\to2:1$, _dupla_, the octave |
+| 5 | divide both terms by $6$, the largest number dividing both, so $12:6\to2:1$, _dupla_, the octave |
 | modern | $\tfrac32\times\tfrac43=2$ |
 
-A smaller rewriting also works. Multiply both terms of $3:2$ by $2$, so $3:2\to6:4$, whose right term is already the left term $4$ of $4:3$. Chain $6,4,3$, ends $6:3$, which reduces to $2:1$. This is Dolz's harmonic example (§19). Any rewriting that produces a shared middle gives the same answer.
+A smaller rewriting also works. The right term of $3:2$ is $2$ and the left term of $4:3$ is $4$; since $2\times2=4$, multiplying both terms of $3:2$ by $2$ is enough, so $3:2\to6:4$, whose right term is now the left term $4$ of $4:3$, which stays as it is. Chain $6,4,3$, ends $6:3$, which reduces to $2:1$. This is Dolz's harmonic example (§19). Any rewriting that produces a shared middle gives the same answer.
 
 **Example E. $2:1$ plus $3:2$** (_dupla_ plus _sesquialtera_).
 
 | Step | Work |
 | --- | --- |
 | 1 | the right term of $2:1$ is $1$, the left term of $3:2$ is $3$, so there is no shared middle |
-| 2 | multiply both terms of $2:1$ by $3$, so $2:1\to6:3$. The $3:2$ stays. Shared middle $3$ |
+| 2 | multiply both terms of $2:1$ by $3$, the left term of $3:2$, so $2:1\to6:3$. The $3:2$ would be multiplied by $1$, the right term of $2:1$, so it stays. Shared middle $3$ |
 | 3 | chain $6,\;3,\;2$ |
 | 4 | ends $6:2$ |
-| 5 | divide both terms by $2$, so $6:2\to3:1$, _tripla_ |
+| 5 | divide both terms by $2$, the largest number dividing both, so $6:2\to3:1$, _tripla_ |
 | modern | $2\times\tfrac32=3$ |
 
 Not to be confused with the species name _dupla sesquialtera_, which is $5:2$ (§11, §19).
@@ -271,7 +271,7 @@ This is why subtraction matches **right term with right term**: the whole and th
 
 Steps for the whole $a:b$ minus the part removed $c:d$.
 
-1. **Give both the same right term.** If the right terms differ, rescale both by Rule 1. Multiply both terms of the whole by $d$, and both terms of the part removed by $b$. So $a:b\to ad:bd$ and $c:d\to bc:bd$. Neither proportion changes. If the right terms are already equal, skip this step.
+1. **Give both the same right term.** If the right terms differ, rescale both by Rule 1, **right term by right term**. Multiply both terms of the whole by $d$, the right term of the part removed. Multiply both terms of the part removed by $b$, the right term of the whole. If one of these multipliers is $1$, that proportion stays as it is. So $a:b\to ad:bd$ and $c:d\to bc:bd$. Neither proportion changes. If the right terms are already equal, skip this step.
 2. **Draw both against the same bottom rung**, as in the diagram above. Three numbers appear. The left term of the whole is the top. The left term of the part removed is where the part removed begins. The shared right term is the bottom.
 3. **Read off the answer.** The bottom piece, from where the part removed begins down to the bottom, is the part removed; discard it. The top piece is the answer, the proportion of the whole's left term to the part removed's left term. Discarding the bottom piece removes a step, not a number: the number where the part removed begins stays, because the answer ends there. Dolz's word for breaking the chain is _discontinuare_.
 4. Reduce and name (P2).
@@ -281,7 +281,7 @@ In one line, $a:b$ minus $c:d$ is the proportion of $a\times d$ to $b\times c$.
 
 **Example A. $2:1$ minus $3:2$** (octave minus fifth).
 
-The whole $2:1$ has right term $1$; the part removed $3:2$ has right term $2$. Multiply both terms of the whole by $2$, so $2:1\to4:2$. The part removed stays $3:2$. Both right terms are now $2$.
+The whole $2:1$ has right term $1$; the part removed $3:2$ has right term $2$. Multiply both terms of the whole by $2$, the right term of the part removed, so $2:1\to4:2$. The part removed would be multiplied by $1$, the right term of the whole, so it stays $3:2$. Both right terms are now $2$.
 
 ```text
 whole          4 ------------------ 2
@@ -293,7 +293,7 @@ The answer is $4:3$, _sesquitertia_, the fourth. Check by adding back, $4:3$ plu
 
 **Example B. $2:1$ minus $4:3$** (octave minus fourth).
 
-Multiply both terms of the whole by $3$, so $2:1\to6:3$. The part removed stays $4:3$. Both right terms are now $3$.
+Multiply both terms of the whole by $3$, the right term of the part removed, so $2:1\to6:3$. The part removed would be multiplied by $1$, the right term of the whole, so it stays $4:3$. Both right terms are now $3$.
 
 ```text
 whole          6 ------------------ 3
@@ -301,11 +301,11 @@ part removed             4 -------- 3
 answer         6 ------- 4
 ```
 
-The answer is $6:4$; divide both terms by $2$, so $6:4\to3:2$, _sesquialtera_, the fifth. Modern check, $2\div\tfrac43=\tfrac32$.
+The answer is $6:4$; divide both terms by $2$, the largest number dividing both, so $6:4\to3:2$, _sesquialtera_, the fifth. Modern check, $2\div\tfrac43=\tfrac32$.
 
 **Example C. $3:2$ minus $4:3$** (fifth minus fourth).
 
-Multiply both terms of the whole by $3$, so $3:2\to9:6$. Multiply both terms of the part removed by $2$, so $4:3\to8:6$. Both right terms are now $6$.
+Multiply both terms of the whole by $3$, the right term of the part removed, so $3:2\to9:6$. Multiply both terms of the part removed by $2$, the right term of the whole, so $4:3\to8:6$. Both right terms are now $6$.
 
 ```text
 whole          9 ------------------ 6
@@ -325,11 +325,11 @@ part removed             2 -------- 1
 answer         4 ------- 2
 ```
 
-The answer is $4:2$; divide both terms by $2$, so $4:2\to2:1$, _dupla_. Modern check, $4\div2=2$.
+The answer is $4:2$; divide both terms by $2$, the largest number dividing both, so $4:2\to2:1$, _dupla_. Modern check, $4\div2=2$.
 
 **Example E. $3:2$ minus $2:1$** (the part removed is greater than the whole).
 
-The whole $3:2$ has right term $2$; the part removed $2:1$ has right term $1$. Multiply both terms of the part removed by $2$, so $2:1\to4:2$. The whole stays $3:2$. Both right terms are now $2$.
+The whole $3:2$ has right term $2$; the part removed $2:1$ has right term $1$. Multiply both terms of the part removed by $2$, the right term of the whole, so $2:1\to4:2$. The whole would be multiplied by $1$, the right term of the part removed, so it stays $3:2$. Both right terms are now $2$.
 
 ```text
 whole                    3 -------- 2
@@ -341,9 +341,9 @@ The part removed reaches above the top of the whole. The answer is still read fr
 
 ### P6. Doubling, tripling, and halving a proportion
 
-Used on 40a and 43b (§19, §22). **Doubling** a proportion is adding it to itself (P4); **tripling** is adding it three times. **Halving** is the reverse: finding the proportion that, added to itself, makes the whole.
+Used on 40a, 43b, and 44b (§19, §22, §23). **Doubling** a proportion is adding it to itself (P4); **tripling** is adding it three times. **Halving** is the reverse: finding the proportion that, added to itself, makes the whole.
 
-**Doubling and tripling.** To double $3:2$ we need three terms in which **each** link is _sesquialtera_. Starting from $3,2$ does not work: the next term would have to be a number that $2$ contains once and a half, and no whole number does. So rescale, exactly as in P4, Example C. Add $3:2$ to $3:2$ by multiplying both terms of the first copy by $3$, so $3:2\to9:6$, and both terms of the second copy by $2$, so $3:2\to6:4$. The chain is $9,6,4$. Neither link is written $3:2$, but each reduces to it ($9:6$ divided by $3$, $6:4$ divided by $2$).
+**Doubling and tripling.** To double $3:2$ we need three terms in which **each** link is _sesquialtera_. Starting from $3,2$ does not work: the next term would have to be a number that $2$ contains once and a half, and no whole number does. So rescale, exactly as in P4, Example C. Add $3:2$ to $3:2$ crosswise, as in P4, step 2: multiply both terms of the first copy by $3$, the left term of the second copy, so $3:2\to9:6$, and both terms of the second copy by $2$, the right term of the first copy, so $3:2\to6:4$. The chain is $9,6,4$. Neither link is written $3:2$, but each reduces to it ($9:6$ divided by $3$, $6:4$ divided by $2$).
 
 **Rule for building the chain.** For $a:b$ doubled, the three terms are $a\times a,\ a\times b,\ b\times b$. For tripled, the four terms are $a\times a\times a,\ a\times a\times b,\ a\times b\times b,\ b\times b\times b$. Each step replaces one $a$ by a $b$, so every link reduces to $a:b$.
 
@@ -353,7 +353,7 @@ Used on 40a and 43b (§19, §22). **Doubling** a proportion is adding it to itse
 | $3:2$ | $9,6,4$ | $9:6$, $6:4$ | $9:4$ | $27,18,12,8$ | $27:18$, $18:12$, $12:8$ | $27:8$ |
 | $4:3$ | $16,12,9$ | $16:12$, $12:9$ | $16:9$ | $64,48,36,27$ | $64:48$, $48:36$, $36:27$ | $64:27$ |
 
-Every link in a row reduces to the proportion in the first column (divide $27:18$ by $9$, $18:12$ by $6$, $12:8$ by $4$). Modern check, doubling squares the value, $(\tfrac32)^2=\tfrac94$, and tripling cubes it, $(\tfrac32)^3=\tfrac{27}8$.
+Every link in a row reduces to the proportion in the first column (divide both terms of $27:18$ by $9$, of $18:12$ by $6$, of $12:8$ by $4$, in each case the largest number dividing both). Modern check, doubling squares the value, $(\tfrac32)^2=\tfrac94$, and tripling cubes it, $(\tfrac32)^3=\tfrac{27}8$.
 
 **Halving.** The half of a proportion is the proportion which, added to itself, makes up the **full** proportion. To halve $a:c$, find a middle $b$ such that $a:b$ and $b:c$ are the same proportion, the _medium proportionale_ (43b, §22). The chain $a,b,c$ then has two equal links, and together they cover the full $a:c$.
 
@@ -390,25 +390,45 @@ When no whole number works, the half exists only as a modern irrational. The hal
 
 This is the comparison "by composition" of §20, not "by value" ($8\div2=4$).
 
+**Dolz's second and third principles (44b).** A proportion composed of two equal proportions is double each of them; one composed of three equal proportions is triple each. A proportion composed of two **unequal** proportions is more than double the lesser and less than double the greater. Take the octave, composed of the fifth and the fourth (P4, Example D).
+
+| Part | Doubled (table above) | Whole $2:1$ rescaled to the same right term (P7, Method 2) | Left terms | So the whole is |
+| --- | --- | --- | --- | --- |
+| lesser, $4:3$ | $16:9$ | both terms by $9$, the right term of $16:9$, so $2:1\to18:9$ | $18$ larger than $16$ | more than double the lesser |
+| greater, $3:2$ | $9:4$ | both terms by $4$, the right term of $9:4$, so $2:1\to8:4$ | $8$ smaller than $9$ | less than double the greater |
+
+Modern check, $\tfrac{16}9\approx1.78$, then $2$, then $\tfrac94=2.25$.
+
 ### P7. Which proportion is greater?
 
-Used on 40a (§19). A proportion of greater inequality is **greater** when its left term contains its right term more times, that is, when it lies further from equality ($1:1$). $3:2$ is once and a half; $4:3$ is once and a third; a half is more than a third, so $3:2$ is the greater. In musical terms the fifth is a wider interval than the fourth, which is what "the fifth exceeds the fourth" means. How much wider is a subtraction (P5, Example C), the tone $9:8$.
+Used on 40a (§19) and 44a–44b (§23). A proportion of greater inequality is **greater** when its left term contains its right term more times, that is, when it lies further from equality ($1:1$). $3:2$ is once and a half; $4:3$ is once and a third; a half is more than a third, so $3:2$ is the greater. In musical terms the fifth is a wider interval than the fourth, which is what "the fifth exceeds the fourth" means. How much wider is a subtraction (P5, Example C), the tone $9:8$.
 
 **Method 1 (names).** Compare the whole times from P2. If they are equal, compare the leftovers.
 
 **Method 2 (same right term).**
 
-1. Rescale both proportions by Rule 1 so that they have the same right term, exactly as in P3. Multiply both terms of $a:b$ by $d$, and both terms of $c:d$ by $b$. Both right terms are now $b\times d$.
+1. Rescale both proportions by Rule 1 so that they have the same right term, exactly as in P3, right term by right term. Multiply both terms of $a:b$ by $d$, the right term of the second. Multiply both terms of $c:d$ by $b$, the right term of the first. Both right terms are now $b\times d$.
 2. Compare the two left terms. The proportion with the larger left term is the greater. If the left terms are equal, the proportions are the same (P3).
 
 That is all. No chain is formed and nothing is removed. The shared right term is only a common measure, like comparing nine sixths with eight sixths; once both are measured against it, it plays no further part. Because the new left terms are always $a\times d$ and $b\times c$, one can skip writing the rescaled proportions and compare $a\times d$ with $b\times c$ directly.
 
-| First | Second | Multiply both terms of the first by | First becomes | Multiply both terms of the second by | Second becomes | Left terms | Greater |
+| First | Second | Multiply both terms of the first by the right term of the second | First becomes | Multiply both terms of the second by the right term of the first | Second becomes | Left terms | Greater |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | $12:5$ | $8:4$ | $4$ | $48:20$ | $5$ | $40:20$ | $48$ larger than $40$ | $12:5$ |
 | $10:5$ | $8:4$ | $4$ | $40:20$ | $5$ | $40:20$ | equal | neither, same proportion |
 | $3:2$ | $4:3$ | $3$ | $9:6$ | $2$ | $8:6$ | $9$ larger than $8$ | $3:2$, the fifth |
 | $8:5$ | $8:4$ | $4$ | $32:20$ | $5$ | $40:20$ | $32$ smaller than $40$ | $8:4$ |
+
+**Method 3 (whole and part).** Dolz's first principle on 44a: every whole is greater than its part. If one proportion is a part of another, that is, if adding something to it gives the other (P4), the other is the greater. The _dupla_ $2:1$ is the _sesquialtera_ $3:2$ plus the _sesquitertia_ $4:3$ (P4, Example D), so both are parts of it and both are lesser.
+
+**The size of the terms decides nothing (44b).** Dolz's fourth principle warns against judging a proportion by the numbers in which it happens to be found.
+
+| Proportion | Terms as found | Terms larger? | Reduced (Rule 1) | Name | Greater? |
+| --- | --- | --- | --- | --- | --- |
+| _dupla_ | $16:8$ | yes | $2:1$ | _dupla_ | no |
+| _quadrupla_ | $4:1$ | no | $4:1$ | _quadrupla_ | yes |
+
+Whatever terms are given for the _quadrupla_, larger terms can be found for the _dupla_. So the comparison must use the name, or terms rescaled to a common right term, never the raw numbers.
 
 ### P8. The three proportionalities
 
@@ -484,18 +504,18 @@ Four obstacles stood in the way:
 | subtracting | remove the part from the end of the whole | $2:1-3:2=4:3$ | divide |
 | doubling, tripling | add to itself | $3:2$ doubled is $9:4$ | square, cube |
 | halving | _medium proportionale_ | half of $9:4$ is $3:2$ | square root |
-| comparing | reduce, or cross-multiply | $3:2>4:3$ | compare fractions |
+| comparing | reduce, cross-multiply, or whole and part | $3:2>4:3$; $2:1>3:2$ | compare fractions |
 | how many times | count links | $8:1$ is three _duplae_ | ratio of logarithms |
 
 ### Still to come
 
-The prooemium (25a) announces further articles: the excess of one proportion over another, division by proportional parts, and the rules of motion. Operations needed for them will be added here as the transcription reaches them.
+The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles and first four principles (43a–44b, §22–§23) are covered by P4–P7. Dolz has promised next to take the equality and inequality of proportions from their denomination (_ut confestim dicemus_, 44b), and an account of _communicatio proportionum_, overlapping proportions (43a). The prooemium (25a) further announces the excess of one proportion over another, division by proportional parts, and the rules of motion. Operations needed for them will be added here as the transcription reaches them.
 
 ---
 
 # Preambles, proportion, and proportionality
 
-**Pages 25a–43b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals; the answers to the seven questions of page 29; the aliquot parts of the infinite, which close the first article; and the first four preambles of the second article, on the parts of a proportion.
+**Pages 25a–44b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals; the answers to the seven questions of page 29; the aliquot parts of the infinite, which close the first article; and the first four preambles of the second article, on the parts of a proportion; and its fifth preamble and first four principles, on the composition of proportions.
 
 ## 1. Why the metaphysics comes first
 
@@ -834,7 +854,7 @@ This definition should not yet be reduced to a Lean predicate over `Nat`. It ran
 
 ---
 
-## 8. Page 29: the strict mathematical proportion is too narrow
+## 8. The strict mathematical proportion is too narrow (29a–29b)
 
 Dolz opens the division of proportion with seven questions that set the agenda for what follows:
 
@@ -884,7 +904,7 @@ Dolz's argument on page 29 is therefore: (1) the strict account recognizes propo
 
 ---
 
-## 9. Page 30: philosophical proportion and its first division
+## 9. Philosophical proportion and its first division (30a–30b)
 
 Page 30 makes explicit how Dolz broadens the mathematical account without abandoning determinate comparability. Things are compared **properly** when the comparison is in multitude or dimension; they are compared **improperly** when it concerns another respect in which equality or inequality can be found, such as intensity, activity, resistance, velocity, or slowness. In either case, a proportion requires something common to both terms and an equality or a _magis vel minus_ within that respect.
 
@@ -982,7 +1002,7 @@ The definition of _superpartiens_ begins at the end of 30b and is completed on p
 
 ---
 
-## 10. Page 31: _superpartiens_ and its genuine species
+## 10. _Superpartiens_ and its genuine species (30b–31b)
 
 The completed definition is:
 
@@ -1061,7 +1081,7 @@ All the cases of page 31 in one table. $k$ is the number of added parts, $n$ the
 
 ---
 
-## 11. Page 32: the general test and composite proportions
+## 11. The general test and composite proportions (32a–32b)
 
 ### The general rule for _superpartiens_
 
@@ -1218,7 +1238,7 @@ The restriction $\gcd(k,n)=1$ expresses the classification after reduction. If $
 
 ---
 
-## 12. Page 33: from reciprocal proportions to proportionality
+## 12. From reciprocal proportions to proportionality (33a–33b)
 
 ### Completion of lesser inequality
 
@@ -1293,7 +1313,7 @@ The physical case “the mobile moves as $2$ in the first proportional part, as 
 
 ---
 
-## 13. Page 34: arithmetical proportionality and shared terms
+## 13. Arithmetical proportionality and shared terms (34a–34b)
 
 ### Equal excess rather than equal ratio
 
@@ -1341,7 +1361,7 @@ Page 37 sharpens the difficulty: the _talis… qualis_ propositions on which the
 
 ---
 
-## 14. Page 35: transformations of equal proportions and what makes them valid
+## 14. Transformations of equal proportions and what makes them valid (35a–35b)
 
 ### Adding and removing corresponding terms
 
@@ -1393,7 +1413,7 @@ The final qualification matters: Dolz calls these proportionalities _modi arguen
 
 ---
 
-## 15. Page 36: valid permutations, physical use, and conflicting names
+## 15. Valid permutations, physical use, and conflicting names (36a–36b)
 
 ### Converse and permuted proportionality
 
@@ -1438,7 +1458,7 @@ Finally, _aequa_ compares the extremes of chains of equal ratios after omitting 
 
 ---
 
-## 16. Page 37: direct and indirect _aequa_, and objections to the division of proportion
+## 16. Direct and indirect _aequa_, and objections to the division of proportion (36b–37b)
 
 ### Lax's two forms of _aequa_
 
@@ -1496,7 +1516,7 @@ The first reply is that the case cannot occur naturally; if admitted, one must s
 
 ---
 
-## 17. Page 38: solutions to the first two objections
+## 17. Solutions to the first two objections (38a–39a)
 
 ### The Socrates case
 
@@ -1601,7 +1621,7 @@ The sentence ends on 39a: _et si communiter oppositum dicatur, loquimur de aliis
 
 ---
 
-## 18. Page 39: the improperly greater, and the remaining solutions
+## 18. The improperly greater, and the remaining solutions (39a–39b)
 
 ### Not against the mathematicians
 
@@ -1727,7 +1747,7 @@ Every solution saves the division by restricting its domain rather than adding s
 
 ---
 
-## 19. Page 40: increasing, diminishing, and adding proportions; harmonic proportionality
+## 19. Increasing, diminishing, and adding proportions; harmonic proportionality (40a–40b)
 
 ### How a proportion is increased
 
@@ -1845,7 +1865,7 @@ In continuous proportionality the links must be similar; in addition they need n
 
 The name of a composite species adds an integer count and a fraction; adding two proportions multiplies them.
 
-The second alternative in Dolz's definition, _vel illam a qua subtrahi debet annihilari_, is obscure. One possible reading: subtracting a proportion from an equal one annihilates it and leaves equality, _sicut in quantitatibus_, as subtracting a quantity from an equal quantity leaves nothing. This is our guess (§24).
+The second alternative in Dolz's definition, _vel illam a qua subtrahi debet annihilari_, is obscure. One possible reading: subtracting a proportion from an equal one annihilates it and leaves equality, _sicut in quantitatibus_, as subtracting a quantity from an equal quantity leaves nothing. This is our guess (§25).
 
 The _continuatio_ of two dissimilar proportions through a shared term may bear on the _communicatio proportionum_ promised on 34b (§13), but Dolz does not connect them.
 
@@ -1986,7 +2006,7 @@ Why call the limma a semitone if it is not half a tone? _Semitonium_ should be r
 
 Cents also show the addition of 40a at work: compounding proportions **adds** cents. Fifth plus fourth is $701.96+498.04=1200$, the octave; fifth minus fourth is $701.96-498.04=203.91$, the tone. This is the logarithmic scale on which, as noted above, adding proportions becomes ordinary addition.
 
-Composite consonances are made from the simple ones, such as _bis diapason_, two octaves, $2\cdot2=4:1$. Dolz remarks that two octaves are rarely found in a human voice, _nisi rediret quid de quo loquitur Aristoteles septimo Politicorum capite quarto_. The phrase is corrupt. In _Politics_ VII.4 (1326b) Aristotle asks who could be herald to an excessively large multitude unless he had the voice of Stentor. The sense may be "unless Stentor, of whom Aristotle speaks, came back". This is a conjecture (§24). The passage itself is confirmed: in _Politics_ VII.4, beside Bekker page 1326b, Aristotle asks who could command an unwieldy multitude, "or who could be their herald but a Stentor?" (Ellis's translation, Project Gutenberg). Dolz's _septimo Politicorum capite quarto_ matches this chapter.
+Composite consonances are made from the simple ones, such as _bis diapason_, two octaves, $2\cdot2=4:1$. Dolz remarks that two octaves are rarely found in a human voice, _nisi rediret quid de quo loquitur Aristoteles septimo Politicorum capite quarto_. The phrase is corrupt. In _Politics_ VII.4 (1326b) Aristotle asks who could be herald to an excessively large multitude unless he had the voice of Stentor. The sense may be "unless Stentor, of whom Aristotle speaks, came back". This is a conjecture (§25). The passage itself is confirmed: in _Politics_ VII.4, beside Bekker page 1326b, Aristotle asks who could command an unwieldy multitude, "or who could be their herald but a Stentor?" (Ellis's translation, Project Gutenberg). Dolz's _septimo Politicorum capite quarto_ matches this chapter.
 
 Dolz justifies the digression by pedagogy: he adds these terms _non quia multum pertinentia philosophiae, sed ad minus ut calleas terminos_, not because they matter much to philosophy, but at least so that the student knows the terms. This matches the program of the introduction: only as much mathematics as philosophy requires, plus the vocabulary needed to read other authors.
 
@@ -2025,7 +2045,7 @@ The next question, whether a proportionality may be called a proportion, is answ
 
 ---
 
-## 20. Page 41: proportionality as proportion, and the first answers to the seven questions
+## 20. Proportionality as proportion, and the first answers to the seven questions (41a–41b)
 
 ### Every proportionality is a proportion
 
@@ -2127,7 +2147,7 @@ A final objection: degree $4$ is intense and degree $2$ remiss, they are in a pr
 | as intension against remission | no |
 | as containing degrees (_in ratione continentiae gradus_) | yes, $4:2$ |
 
-The proportion rests on the degrees contained, not on intensity and remissness as opposed qualities. This agrees with page 30, which admitted comparison _quoad intensionem_ as a multitude of degrees (§9). The following sentence, that it does not follow _quod intensionis ad intensionem et remissionis ad remissionem sit proportio_, is hard to square with page 30 and is noted in §24. Dolz defers the matter to philosophy.
+The proportion rests on the degrees contained, not on intensity and remissness as opposed qualities. This agrees with page 30, which admitted comparison _quoad intensionem_ as a multitude of degrees (§9). The following sentence, that it does not follow _quod intensionis ad intensionem et remissionis ad remissionem sit proportio_, is hard to square with page 30 and is noted in §25. Dolz defers the matter to philosophy.
 
 ### Ad quartam: line, surface, and body
 
@@ -2144,7 +2164,7 @@ Our observation: this is the principle of the third answer applied to geometry. 
 
 ---
 
-## 21. Page 42: the last answers to the seven questions, and the aliquot parts of the infinite
+## 21. The last answers to the seven questions, and the aliquot parts of the infinite (42a–42b)
 
 ### Ad quartam concluded: body, surface, and point
 
@@ -2214,7 +2234,7 @@ Greaterness, however, is posited both of infinite to finite and of infinite to i
 
 Dolz draws the general rule: _non oportet quod a qualibet maioritate abstrahatur proportio_, not every greaterness yields a proportion. This states generally the consequence denied on 38b. To say otherwise one would have to _mathematicos exire et satis extranee loqui_, leave the mathematicians and speak very strangely. Page 39a had said that Dolz does not oppose the mathematicians (§18).
 
-The print says that greaterness of infinite to finite and infinite to infinite is _iam proprie dicta_. This conflicts with 39a, where one infinite is greater than another only improperly, and with the next sentence, _maioritas improprie dicta inter unum infinitum et aliud infinitum_. _Iam … dictam_ ("already spoken of") points back to 39a, so the transcription adopts _improprie_ as a conjecture (§24).
+The print says that greaterness of infinite to finite and infinite to infinite is _iam proprie dicta_. This conflicts with 39a, where one infinite is greater than another only improperly, and with the next sentence, _maioritas improprie dicta inter unum infinitum et aliud infinitum_. _Iam … dictam_ ("already spoken of") points back to 39a, so the transcription adopts _improprie_ as a conjecture (§25).
 
 ### Does the infinite have an aliquot part?
 
@@ -2247,7 +2267,7 @@ Four observations of ours:
 
 ---
 
-## 22. Page 43: the first article concluded, and the parts of a proportion
+## 22. The first article concluded, and the parts of a proportion (42b–43b)
 
 ### An infinite part that is not aliquot
 
@@ -2278,7 +2298,7 @@ Four observations of ours:
 
 ### The second article
 
-The prooemium (25a) had announced that the second article _maioritatem, aequalitatem et minoritatem omnium proportionum aperiet_. This is the treatment of _maioritas proportionis_ promised on 42a (§21). As before, Dolz first sets out preambles; four fall on 43a–43b and the fifth begins on 44a.
+The prooemium (25a) had announced that the second article _maioritatem, aequalitatem et minoritatem omnium proportionum aperiet_. This is the treatment of _maioritas proportionis_ promised on 42a (§21). As before, Dolz first sets out preambles; four fall on 43a–43b, and the fifth, on 44a, opens §23.
 
 | Preamble | Page | Claim |
 | --- | --- | --- |
@@ -2291,7 +2311,7 @@ The prooemium (25a) had announced that the second article _maioritatem, aequalit
 
 Even if proportion were an indivisible respect, the Realist accident of 42a, geometry attributes composition to it. The composition is improper, _quia indivisibile proprie non componitur_, as was said of number in the first article (preambles 2–4, §1). So proportions have parts and can be divided, and among them there is equality and inequality.
 
-This supports the conjecture that the printed _compositio divisionis_ of 42b means _compositio \[et\] divisio_, composition and division (§24).
+This supports the conjecture that the printed _compositio divisionis_ of 42b means _compositio \[et\] divisio_, composition and division (§25). Preamble 5 on 44a says it outright: _constat compositio cum divisione proportionum_ (§23).
 
 ### Preamble 2: the parts of $8:4$
 
@@ -2325,9 +2345,9 @@ In a divisible, aliquot parts are taken by distance. In proportions they are not
 
 $6$ is the _medium rei_ of $8$ and $4$, but not proportional: $8:6$ is _sesquitertia_ and $6:4$ _sesquialtera_. $4$ is the proportional middle of $8$ and $2$, since $8:4$ and $4:2$ are both _dupla_, but not the _medium rei_: it lies $4$ from one extreme and $2$ from the other.
 
-Hence the half of $8:4$ is neither $8:6$ nor $6:4$, although $6$ is equidistant. Every half must be _subdupla_ to its whole, and _sesquitertia_ is not _subdupla_ to _dupla_; the proof is promised (_ut patebit_). The half of $8:2$ is $8:4$.
+Hence the half of $8:4$ is neither $8:6$ nor $6:4$, although $6$ is equidistant. Every half must be _subdupla_ to its whole, and _sesquitertia_ is not _subdupla_ to _dupla_; the proof is promised (_ut patebit_) and follows from the third principle on 44b (§23). The half of $8:2$ is $8:4$.
 
-In modern terms the _medium rei_ is the arithmetic mean, $\tfrac{a+b}2$, and the _medium proportionale_ the geometric mean, $\sqrt{ab}$. Aristotle's mean of the thing and mean relative to us is _Ethics_ II.6 (1106a26–b7). The citation of Biel is printed _xiii. dsti. tertii. ſniaꝝ_, that is, _decima tertia distinctione tertii Sententiarum_ (book III, d. 13). Distinction 13 treats the grace of Christ, so _xiii_ may be a misprint for _xxxiii_, where Peter Lombard treats the cardinal virtues and the mean of virtue belongs (unchecked, §24).
+In modern terms the _medium rei_ is the arithmetic mean, $\tfrac{a+b}2$, and the _medium proportionale_ the geometric mean, $\sqrt{ab}$. Aristotle's mean of the thing and mean relative to us is _Ethics_ II.6 (1106a26–b7). The citation of Biel is printed _xiii. dsti. tertii. ſniaꝝ_, that is, _decima tertia distinctione tertii Sententiarum_ (book III, d. 13). Distinction 13 treats the grace of Christ, so _xiii_ may be a misprint for _xxxiii_, where Peter Lombard treats the cardinal virtues and the mean of virtue belongs (unchecked, §25).
 
 The preamble ends: as a proportion is part of a proportion, so it is an aliquot part. But no proportion is an aliquot part of every proportion, nor even of every proportion other than itself.
 
@@ -2339,7 +2359,54 @@ Three observations of ours:
 
 ---
 
-## 23. Summary of the doctrine
+## 23. The composition of proportions and the first four principles (44a–44b)
+
+The fifth preamble completes the scaffolding: as every whole is composed of its parts and divisible into them, proportion is composed of proportions and divided into proportions. _Et sic constat compositio cum divisione proportionum._ Then come _principia geometriae_, axioms rather than preambles.
+
+| Item | Page | Claim | Primer |
+| --- | --- | --- | --- |
+| preamble 5 | 44a | proportions compose and divide into proportions | P4, P5 |
+| principle 1 | 44a | every whole is greater than its part, so _dupla_ is greater than _sesquialtera_ and _sesquitertia_ | P7, Method 3 |
+| principle 2 | 44b | composed of two equals, double each; of three equals, triple each | P6 |
+| principle 3 | 44b | composed of two unequals, more than double the lesser and less than double the greater | P6 |
+| principle 4 | 44b | the denomination is taken from the terms in lowest form, not from any numbers in which the proportion is found | P7 |
+
+### Principle 3 decides between value and composition
+
+This is the most important point of the page. Page 41 left open whether one proportion is measured against another by value or by composition (§20); 43b answered for halves (§22). Principle 3 forces the answer in general. Take the octave as the fifth plus the fourth.
+
+| "Double the fourth" read as | Double of $4:3$ | Octave $2:1$ against it | Principle 3 |
+| --- | --- | --- | --- |
+| composition: $4:3$ added to itself | $16:9$ | greater, $18:9$ against $16:9$ | holds |
+| value: twice $\tfrac43$ | $8:3$ | smaller, $6:3$ against $8:3$ | fails |
+
+So _duplum_ between proportions means added to itself. The same principle supplies the proof promised on 43b (_ut patebit_, §22): the _dupla_ is composed of the unequal _sesquitertia_ and _sesquialtera_, so it is more than double the _sesquitertia_, which is therefore less than its half and not _subdupla_ to it.
+
+### Five proverbs against the axiom
+
+Dolz dismisses the objections to _omne totum est maius sua parte_ with five proverbs of wasted labour. Each points to a stock case of the schools.
+
+| Proverb | Case | Why it seems to refute the axiom |
+| --- | --- | --- |
+| _tempus perdit_ | a man and his matter | some, even within Nominalist bounds (_metas Nominalium non exeundo_), distinguish the quantity from the thing (Georgius Bruxellensis), so the man does not seem greater than his matter |
+| _cribro aquam hauriunt_ | Brunellus, the ass of the logic books | the same, said of the ass |
+| _nodum in scirpo quaerunt_ | the spiral line (_linea gyrativa_) | drawn in a finite body, it is said to be infinitely long, so greater than the whole |
+| _litus aratur_ | a finger rarefied at Rome (_digito fortis Romae_, obscure) | the part is made greater than the whole |
+| _castra construunt in Hispania_ | an indivisible part of a man | _sua parte_ distributes over every part, including one that is not great |
+
+The last is the French _châteaux en Espagne_, castles in Spain, an odd image for an Aragonese to use.
+
+Dolz cites Bruxellensis for a Nominalist position, not a Realist one. Our observation: the Nominalists differed on quantity. Ockham identified quantity with the quantified thing; Buridan held it a distinct accident. Georgius Bruxellensis, a Paris master of the late fifteenth century, belongs to the Nominalist school, and the clause fits a Buridanian view. His text has not been checked.
+
+The replies: the mathematicians mean a **quantitative and great** part, and matter is not a quantitative part in that sense. Read geometrically, the axiom says that a whole contains whatever any of its parts contains, and something more. This is not the improper greaterness of one infinite over another (39a, §18), because here there is a determinate proportion of whole to part.
+
+### Principle 4: numbers and terms
+
+_Numeri_ are whole numbers greater than one; _termini_ may be fractions or unity. The name of a proportion is better taken from the terms, and not from whichever numbers the proportion happens to be found in. Otherwise the _dupla_ found as $16:8$ would seem greater than the _quadrupla_ $4:1$, and for any terms of a _quadrupla_ larger terms of a _dupla_ can always be found. The page breaks off as Dolz answers this objection; the promised rule that equality and inequality of proportions follow their denomination comes next.
+
+---
+
+## 24. Summary of the doctrine
 
 1. _Aliquot part_ is a **two-place relation** between a part and a whole, requiring exact measure and at least two repetitions.
 2. Dropping the second term of the relation is what generates every difficulty in preamble 8.
@@ -2407,10 +2474,13 @@ Three observations of ours:
 64. Other infinite parts, such as the whole less one foot, are not aliquot. A line infinite both ways has an aliquot part ending at each of its points. But parts of infinites are not called half, third, or fourth, and the species of proportion are not named from them; this is why no infinite is double another (39a).
 65. The second article, on greater, equal, and lesser proportions, begins on 43a. A proportion has parts, improperly, as number does: the proportions among its terms and the numbers between them, like the segments of a continuum. They overlap or not, and are aliquot or not.
 66. The half of a proportion is found at the _medium proportionale_, not the _medium rei_: it is the proportion that, added to itself, makes the whole. Proportions are therefore measured by composition, as Bradwardine's rule requires. No proportion is an aliquot part of every proportion.
+67. Proportions are composed of proportions and divided into them (44a). The whole is greater than its part, so the _dupla_ is greater than the _sesquialtera_ and the _sesquitertia_, which compose it.
+68. A proportion composed of two unequal proportions is more than double the lesser and less than double the greater. This holds only if "double" means added to itself, so the second article measures proportions by composition throughout.
+69. A proportion is named from its terms in lowest form, not from any numbers in which it is found: the _dupla_ $16:8$ is not greater than the _quadrupla_ $4:1$.
 
 ---
 
-## 24. Textual notes
+## 25. Textual notes
 
 Proposed emendations arising from the analysis. Those marked _insecure_ are recorded but not recommended for adoption.
 
@@ -2468,3 +2538,8 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 43a | **5 ad 7** | **7 ad 5** (adopted) | A lesser-inequality proportion cannot be a part of $8:4$; $7:5$ completes the list of all pairs from $4$ to $8$ |
 | 43b | aggregatum ex duabus tertiis **et** tribus quartis | _(left as printed)_ | Read distributively: as one aggregate, $\tfrac23+\tfrac34$ exceeds the whole |
 | 43b | **xiii. dsti. tertii. ſniaꝝ** | **decima tertia distinctione tertii** _Sententiarum_ (expanded); possibly **xxxiii** _(insecure)_ | III d. 13 treats the grace of Christ; III d. 33 treats the cardinal virtues, where the mean of virtue belongs; Biel's text not checked |
+| 44a | sit pars **dupla** | **duplae** (adopted) | _Sesquialtera_ is a part of the _dupla_; the genitive is required |
+| 44a | tempus **ꝑ diē** | **perdit** (adopted; conjectural) | The sentence opens a series of proverbs of wasted labour |
+| 44b | haec **ꝓportio** communiter concedatur | **propositio** (adopted) | What is conceded is a sentence, _omne totum in nulla proportione est maius sua parte_ |
+| 44b | **teris**, **teri** | **terminis**, **termini** (expanded) | Contrasted with _numeri_, which exclude fractions and unity |
+| 44b | dupla denominaretur **6** ad 8 | **16** ad 8 (adopted) | $6:8$ is not a _dupla_, and _primi essent maiores_ requires terms larger than $4$ and $1$ |

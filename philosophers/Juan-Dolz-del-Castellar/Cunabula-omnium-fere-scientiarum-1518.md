@@ -1220,7 +1220,7 @@ Ideo cogita qualiter aliquotas in proportionibus accipis. Et sic, sicut proporti
 
 Quintum praeambulum: cum omne totum ex suis /44a/ partibus componatur, sequitur proportionem ex proportionibus componi.
 
-## De compositine proportionum
+## De compositione proportionum
 
 ### Aristoteles
 
@@ -1264,7 +1264,7 @@ Quia duae medietates sunt duo aequalia; triplum ad quamlibet suam tertiam, quia 
 
 ## De denominationibus proportionum
 
-Quartum principium: refert loqui de numeris a quibus proportiones denominantur et de terminis, nam numeri non includunt fractionem nec solam unitatem, secus termini. Melius a terminis suscipitur proportionis denominatio quam a numeris. Et est advertendum non a quibuscumque numeris sumenda est proportionis denominatio inter quos reperitur, nam a proportionis denominatione, ut confestim dicemus, sumitur proportionis aequalitas vel inaequalitas. Et si a quibuscumque numeris inter quos proportio sumeretur denominatio proportionis, esset nobis umbrosum et aenigmaticum videre maioritatem proportionum, nam non posset facile cognosci quadruplam maiorem duplam, nam dupla denominaretur 16 ad 8, et quadrupla a 4 et unitate, et primi essent maiores. Et si diceres: capiam numeros quadruple maiores illis duplae quibuscumque datis, ascendendo caperem numeros duple illis maiores, nisi velles dicere quod /46a/...
+Quartum principium: refert loqui de numeris a quibus proportiones denominantur et de terminis, nam numeri non includunt fractionem nec solam unitatem, secus termini. Melius a terminis suscipitur proportionis denominatio quam a numeris. Et est advertendum non a quibuscumque numeris sumenda est proportionis denominatio inter quos reperitur, nam a proportionis denominatione, ut confestim dicemus, sumitur proportionis aequalitas vel inaequalitas. Et si a quibuscumque numeris inter quos proportio sumeretur denominatio proportionis, esset nobis umbrosum et aenigmaticum videre maioritatem proportionum, nam non posset facile cognosci quadruplam maiorem duplam, nam dupla denominaretur 16 ad 8, et quadrupla a 4 et unitate, et primi essent maiores. Et si diceres: capiam numeros quadruple maiores illis duplae quibuscumque datis, ascendendo caperem numeros duple illis maiores, nisi velles dicere quod /45a/...
 
 
 <!--

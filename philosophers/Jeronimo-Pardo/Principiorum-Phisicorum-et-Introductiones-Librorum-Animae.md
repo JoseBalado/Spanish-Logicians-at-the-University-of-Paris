@@ -986,7 +986,29 @@ Et si ulterius quaeras utrum intellectus habeat aliquem modum cognoscendi quem n
 
 Contra: experientia est in oppositum. Ergo antecedens patet quia experimur quia si volo cogitare de homine, repraesentatur in mihi unus homo cum tali figura, in tali loco et cum tali quantitate.
 
-Respondetur per auctoritatem Aristotelis secundo *De anima*, quod necesse est intelligentem phantasmata speculari, id est numquam intellectus intelligit quin phantasia adversetur circa illud: si sit singulare, et si universale, circa sum singularem /46a/
+Respondetur per auctoritatem Aristotelis secundo *De anima*, quod necesse est intelligentem phantasmata speculari, id est numquam intellectus intelligit quin phantasia adversetur circa illud: si sit singulare, et si universale, circa sum singularem /46a/ vel circa aliquid illius.
+
+Declaro hoc primo: si intellectus consideret de Sorte, phantasia versatur et circa Sortem, imaginando Sortem esse in tali loco et in tali situ et in tali figura. Exemplum de universali: ut si intellectus consideret universale semper conceptum communem de homine, tunc phantasia versatur circa aliquod singulare illius hominis.
+
+Ex quo patet quod bene dicitur communiter quod intellectus mei numquam intelligit universale nisi phantasia versetur circa aliquod singulare illius universalis. Et hoc provenit propter ordinem intellectus et phantasiae, et talis ordo est propter peccatum primi parentis.
+
+Ex quo sequitur quod causalis, quia apparet nobis quod antequam intelligamus universale, est quod necesse est intelligentem phantasmata speculare. Et quia phantasia semper phantasiatur circa aliquod singulare, ideo apparet nobis quod intellectus concipit singulare.
+
+Item potentia appetitiva rationalis dicitur esse voluntas, nam cuilibet potentiae cognitivae correspondet sua appetitiva. Sed sic quod intellectus est potentia cognitiva; ergo sibi correspondet aliqua appetitiva, et illam vocamus voluntatem. Quae quidem voluntas est idem realiter cum ipso intellectu, et distinguuntur formaliter secundum Reales, sed secundum Nominales solum distinguuntur ratione. Et ad videndum naturam istius potentiae appetitivae ponuntur eius proprietates.
+
+Prima proprietas voluntatis est quod voluntas habet idem obiectum, et sub eadem ratione, sicut intellectus. Unde ponitur regula, et de mente /46b/ Scoti:
+
+> Idem est obiectum alicuius potentiae cognitivae et obiectum suae appetitivae, et sub eadem ratione.
+
+Ut obiectum appetitus visivi est idem sicut potentiae visivae. Sic dico in proposito quod, si quis quaerat quid est obiectum voluntatis, dico quod illud idem quod est obiectum intellectus.
+
+Secunda proprietas voluntatis: voluntas habet duos actus, scilicet nolle et velle. Velle est idem quod amare et diligere; nolle idem est quod odire seu detestari. Velle est actus voluntatis quo voluntas prosequitur aliquid, sed nolle est actus voluntatis quo voluntas refugit aliquod obiectum.
+
+Tertia proprietas est: voluntas non naturaliter sed libere potest elicere suos actus, et eius libertas in hoc consistit, quia potest elicere actum vel non elicere.
+
+Contra: voluntas non potest non amare obiectum sibi conveniens; ergo non libere amat. Antecedens patet, quia bene sequitur: est sibi conveniens; ergo amat.
+
+Pro solutione est notandum quod, ut dicit Scotus in *Tertio*, magna differentia est inter aliquod obiectum respectu voluntatis et respectu appetitus sensitivi, quia aliquod obiectum ex natura sua habet quod sit conveniens vel disconveniens appetitui sensitivo, ita quod appetitus sensitivus non dat obiecto quod sit conveniens vel disconveniens. Sed voluntas dat obiecto suo convenientiam vel disconvenientiam, et non habet ex natura sua hoc obiectum. Sed aliquod obiectum est conveniens voluntati ut supra ipsum cadat actus volendi, et est disconveniens ut supra ipsum cadat actus nolendi, ut voluntas dicat /47a/ placet mihi esse in igne.
 
 
 
@@ -1017,5 +1039,8 @@ Page 39b: Primo ] emend. Tertio
 Page 39b: exteriorum ] del. et exterioris vel exteriorum
 Page 39b: organo ] conj. impo
 Page 42b: Sicut ] sic
+Page 46a: semper ] sic
+Page 46a: potentiae cognitivae ] del. potentiae appetitus cognitivae (struck through in ms)
+Page 46b: Scotistae ] conj. Scot)
 
 -->

@@ -1264,7 +1264,51 @@ Quia duae medietates sunt duo aequalia; triplum ad quamlibet suam tertiam, quia 
 
 ## De denominationibus proportionum
 
-Quartum principium: refert loqui de numeris a quibus proportiones denominantur et de terminis, nam numeri non includunt fractionem nec solam unitatem, secus termini. Melius a terminis suscipitur proportionis denominatio quam a numeris. Et est advertendum non a quibuscumque numeris sumenda est proportionis denominatio inter quos reperitur, nam a proportionis denominatione, ut confestim dicemus, sumitur proportionis aequalitas vel inaequalitas. Et si a quibuscumque numeris inter quos proportio sumeretur denominatio proportionis, esset nobis umbrosum et aenigmaticum videre maioritatem proportionum, nam non posset facile cognosci quadruplam maiorem duplam, nam dupla denominaretur 16 ad 8, et quadrupla a 4 et unitate, et primi essent maiores. Et si diceres: capiam numeros quadruple maiores illis duplae quibuscumque datis, ascendendo caperem numeros duple illis maiores, nisi velles dicere quod /45a/...
+Quartum principium: refert loqui de numeris a quibus proportiones denominantur et de terminis, nam numeri non includunt fractionem nec solam unitatem, secus termini. Melius a terminis suscipitur proportionis denominatio quam a numeris. Et est advertendum non a quibuscumque numeris sumenda est proportionis denominatio inter quos reperitur, nam a proportionis denominatione, ut confestim dicemus, sumitur proportionis aequalitas vel inaequalitas. Et si a quibuscumque numeris inter quos proportio sumeretur denominatio proportionis, esset nobis umbrosum et aenigmaticum videre maioritatem proportionum, nam non posset facile cognosci quadruplam maiorem duplam, nam dupla denominaretur 16 ad 8, et quadrupla a 4 et unitate, et primi essent maiores. Et si diceres: capiam numeros quadruple maiores illis duplae quibuscumque datis, ascendendo caperem numeros duple illis maiores, nisi velles dicere quod /45a/ multipliciter denominatur proportio, sed non a quacumque denominatione sumitur maioritas. Quia tamen hoc non esse mathematicis conforme, a quibus hoc in loco haud facile sponte censeo demandandum, dicemus ipsis consona, pro quo sit quintum praeambulum.
+
+Denominatio proportionis sumenda venit a minimis terminis eiusdem. Minimi termini alicuius proportionis sunt illi quorum maior est numerus et minor unitas, vel maior unitas cum fractione et minor unitas. Non intelligas unitatem dimidiam, sed vocamus fractiones partes aliquotas. Et inter illos a maiori semper denominatio emanat. Et ex hoc sequuntur corollaria.
+
+Primum: minimi termini alicuius proportionis sunt illi qui in illa proportione sunt minimi.
+
+Sequitur secundo quod proportio dupla suscipit suam denominationem a numero binario in ordine ad unitatem, et proportio tripla suscipit suam denominationem a numero ternario in ordine ad unitatem, et sic consequenter de aliis. Ex quo ultra infertur quod species proportionis multiplicis suscipiunt suas denominationes a naturali numerorum serie. Et vocatur naturalis series numerorum ibi quando incipimus a binario ascendendo in infinitum, nullum praetermittendo.
+
+Sequitur ultra quod proportio sesquialtera denominationem suscipit ab uno cum medio in ordine ad unum, et proportio sesquitertia suscipit denominationem ab uno cum tertia in ordine ad unum, et sic consequenter. Ex quo deducitur species superparticularis a partibus aliquotis denominari, eundo per seriem naturalem aliquotarum quae incipit a medietate, tendendo per tertiam, quartam, et sic de aliis.
+
+Proportio superbipartiens tertias denominatur ab uno cum duabus tertiis in ordine ad unum, et superbipartiens quintas ab uno cum duabus quintis in ordine ad unum, et sic consequenter. Et sic patet species superpartientis denominari a partibus aliquotis non facientibus unam aliquotam secundum earum exigentiam.
+
+Dupla sesquialtera denominatur a binario cum medietate in ordine ad unum, et dupla sesquitertia a binario cum tertia in ordine ad unum. Tripla sesquialtera a ternario cum medietate in ordine ad unum, et sic consequenter. Ex quo patet species multiplicis superparticularis partim denominari a numero, partim a partibus aliquotis secundum earum exigentiam.
+
+/45b/ Proportio dupla superbipartiens tertias denominatur a binario et duabus tertiis in ordine ad unum. Dupla superbipartiens quintas a binario et duabus quintis in ordine ad unum. Tripla superbipartiens tertias a ternario et duabus tertiis in ordine ad unum, et ita de aliis. Infertur ex his species multiplicis superpartientis partim denominari a numero, partim ab aliquotis non facientibus unam.
+
+Ex his iam claret quomodo debeant sumi denominationes proportionum minoris inaequalitatis. Debet enim sumi ordine converso, scilicet comparando minus ad maius quae comparabuntur in proportionibus maioris inaequalitatis. Ideo non opus earum specificatione.
+
+De proportione aequalitatis non est curae unde denominetur, quia eius species nec aequales nec inaequales reperiuntur. Ideo potest sumi indifferenter ab aequalibus.
+
+## De maioritate proportionum
+
+His suppositis, pono regulam generalem ad cognoscendum quae proportio est maior alia. Sit haec regula:
+
+### Regula
+
+> Omnis proportio cuius denominatio est maior alterius denominatione, etiam illa maior.
+
+Et sic maioritas proportionum penes earum denominationes attenditur.
+
+Ex hac regula generali plures particulares materiam enodantes inferimus.
+
+> Omnes proportiones eiusdem denominationis sunt aequales.
+
+Secunda:
+
+> Omnes proportiones diversarum denominationum sunt inaequales.
+
+Ex his sequuntur innumerae propositiones.
+
+Prima: omnes duplae sunt aequales, omnes triplae etiam, omnes sesquialterae etiam sunt aequales, et sic de singulis. Et si dicas: maior est proportio dupla 8 ad 4 quam duorum ad unum, quia inter maiora reperta. Nego illam causalitatem, ut patet ex dictis.
+
+Secunda: ascendendo in speciebus multiplicis semper maioratur proportio, et ex consequenti semper descendendo minoratur. Patet, quia continue ascendendo maioratur denominatio, ut patet ex dictis. Et sic tripla est maior dupla, et quadrupla est maior tripla. Habetur per regulam generalem quod minor inter multiplices est maior quam sit maior inter superparticulares. Minor inter multiplices est dupla, et maior inter superparticulares est sesquialtera; modo clarum est quod dupla est maior sesquialtera, et sic habetur regula verificata.
+
+Tertia propositio: continue ascendendo in speciebus superparticularibus minoratur proportio. Patet, quia continue minoratur denominatio, visis earum denominationibus. Et sic sesquialtera /46a/ maior sesquitertia. Sesquitertia maior sesquiquarta, et caetera.
 
 
 <!--
@@ -1333,5 +1377,12 @@ Page 44b: 16 ] emend. 6 (dupla; cf. primi essent maiores)
 Page 44b: quadruplo ] emend. quadruple
 Page 44b: duplae ] emend. duple
 Page 44b: duplae ] emend. duple
+Page 45a: denominatur ] emend. denominatio
+Page 45a: censeo ] conj. ceseo
+Page 45a: demando ] sic (dēmandō; reading obscure)
+Page 45a: tripla sesquialtera ] emend. tripla sexquitertia (a ternario cum medietate)
+Page 45b: maioris ] emend. maioribus
+Page 45b: propositiones ] conj. ꝓportiōes (cf. Prima, Secunda, Tertia propositio)
+Page 45b: generalem ] emend. generali
 
 -->

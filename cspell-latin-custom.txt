@@ -1640,6 +1640,7 @@ maiorabitur
 maioratio
 maioratione
 maiorationem
+maioratur
 maioritas
 maioritate
 maioritatem
@@ -2628,6 +2629,7 @@ specificantem
 specificari
 specificas
 specificat
+specificatione
 specificationis
 specificative
 specificatum

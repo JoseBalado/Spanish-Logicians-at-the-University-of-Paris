@@ -1008,7 +1008,32 @@ Tertia proprietas est: voluntas non naturaliter sed libere potest elicere suos a
 
 Contra: voluntas non potest non amare obiectum sibi conveniens; ergo non libere amat. Antecedens patet, quia bene sequitur: est sibi conveniens; ergo amat.
 
-Pro solutione est notandum quod, ut dicit Scotus in *Tertio*, magna differentia est inter aliquod obiectum respectu voluntatis et respectu appetitus sensitivi, quia aliquod obiectum ex natura sua habet quod sit conveniens vel disconveniens appetitui sensitivo, ita quod appetitus sensitivus non dat obiecto quod sit conveniens vel disconveniens. Sed voluntas dat obiecto suo convenientiam vel disconvenientiam, et non habet ex natura sua hoc obiectum. Sed aliquod obiectum est conveniens voluntati ut supra ipsum cadat actus volendi, et est disconveniens ut supra ipsum cadat actus nolendi, ut voluntas dicat /47a/ placet mihi esse in igne.
+Pro solutione est notandum quod, ut dicit Scotus in *Tertio*, magna differentia est inter aliquod obiectum respectu voluntatis et respectu appetitus sensitivi, quia aliquod obiectum ex natura sua habet quod sit conveniens vel disconveniens appetitui sensitivo, ita quod appetitus sensitivus non dat obiecto quod sit conveniens vel disconveniens. Sed voluntas dat obiecto suo convenientiam vel disconvenientiam, et non habet ex natura sua hoc obiectum. Sed aliquod obiectum est conveniens voluntati ut supra ipsum cadat actus volendi, et est disconveniens ut supra ipsum cadat actus nolendi, ut voluntas dicat /47a/ placet mihi esse in igne. Et ideo si quis quaerat utrum esse in igne sit conveniens voluntati, distinguo quod vel voluntas vult seu acceptat, et sic est conveniens, aut voluntas non vult, et sic est disconveniens.
+
+Quarta proprietas voluntatis est quod voluntas non potest elicere actum suum circa aliquod obiectum nisi illud obiectum sit prius cognitum ab intellectu, quia amamus invisa, sed incognita nequaquam. Et hoc est quod communiter dicitur: nihil volitum nisi prius cognitum. Modo dico numquam voluntas actualiter aliquod vult quin illud intellectus cognoscit actualiter.
+
+Contra, et pono per casum quod voluntas imperet intellectui quod intelligat aliquid incognitum, et tamen intellectus non intelligat; quo facto, aliquid est volitum quod non est cognitum. Ergo nego, immo dico quod, sicut voluntas vult quod intellectus intelligat incognitum, ita intellectus cognoscit illud idem incognitum, id est intellectus cognoscit se debere cognoscere incognitum.
+
+Quinta proprietas voluntatis est quod voluntas est potens, ut dicit Scotus in *Secundo*, quod facere nolitionem comparativam qua vellet unum in ordine ad aliud, ut intellectus non praesens habet notitiam comparativam. Et sub aliis verbis: voluntas potest componere ubi intellectus numquam composuit, ut ad hoc quod velim comedere panem non oportet quod prius cognoscerem panem me comedere, sed sufficit quod intellectus prius cognoverit panem et comedere. /47b/
+
+Ex quo sequitur quod, sicut intellectus est potentia collativa, ita et voluntas est potentia collativa, et ponitur talis regula:
+
+> Quandocumque aliqua potentia collativa est collativa, appetitiva suae correspondens est collativa. Et per oppositum: si cognitiva non sit collativa, nec erit appetitiva.
+
+Ex quo sequitur corollarium quod appetitus sensitivi exteriores non sunt collativi.
+
+Ex quo sequitur quod, sicut notitia dividitur in notitiam complexam vel incomplexam, sic et prosecutio vel fuga vel nolitio vel volitio dividitur in complexam vel incomplexam.
+
+Sexta proprietas voluntatis est: voluntas est perfectissima et regina omnium potentiarum. Pro quo est notandum quod est controversia inter Thomistas et Scotistas, nam Thomistae tenent quod intellectus est perfectior potentia quam voluntas, sed Scotistae et Nominales tenent quod voluntas est perfectior quam intellectus.
+
+### Proprietates voluntatis
+
+* Prima: voluntas habet idem obiectum sub eadem ratione qua intellectus.
+* Secunda: voluntas habet duos actus, scilicet nolle et velle.
+* Tertia: voluntas non naturaliter sed libere producit vel elicit suos actus.
+* Quarta: voluntas non potest elicere actum suum circa aliquod obiectum nisi sit prius cognitum.
+* Quinta: voluntas est tam potens quod potest habere nolitionem comparativam.
+* Sexta: voluntas est regina potentiarum.
 
 
 
@@ -1039,5 +1064,7 @@ Page 39b: Primo ] emend. Tertio
 Page 39b: exteriorum ] del. et exterioris vel exteriorum
 Page 39b: organo ] conj. impo
 Page 42b: Sicut ] sic
+Page 47b: potentia collativa est collativa ] sic
+Page 47b: in complexam ] del. in in complexam
 
 -->

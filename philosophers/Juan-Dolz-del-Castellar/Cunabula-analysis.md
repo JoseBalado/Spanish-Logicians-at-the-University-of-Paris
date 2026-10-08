@@ -45,7 +45,7 @@ The commentary below assumes a few elementary operations with proportions. They 
 - $A:B$ means "the proportion of $A$ to $B$". **A colon between two numbers always means a proportion and nothing else.** In this primer no colon is ever used as punctuation next to a number.
 - In $A:B$, $A$ is the **left term** (Dolz's _antecedens_) and $B$ the **right term** (_consequens_).
 - $\to$ means "becomes". An equals sign between two proportions, as in $8:4=2:1$, means "the same proportion" (Rule 1).
-- Dolz writes proportions in words and names ("_sesquialtera_", "as 3 to 2"). The colon notation is ours, but the method it records is his and uses only whole numbers. Fractions such as $\tfrac32$, multiplying proportions as numbers, powers, roots and logarithms are **modern**. They appear only in rows labelled "modern", for the leftover in naming (P2), and in P9.
+- Dolz writes proportions in words and names ("_sesquialtera_", "as 3 to 2"). The colon notation is ours, but the method it records is his. His own name for a proportion, its _denominatio_ (45a, §24), is a mixed number set against unity: _sesquialtera_ is $1\tfrac12$ to $1$, _dupla sesquialtera_ $2\tfrac12$ to $1$. So mixed numbers are his. Improper fractions such as $\tfrac32$, multiplying proportions as numbers, powers, roots and logarithms are **modern**. They appear only in rows labelled "modern" and in P9.
 
 ### P1. A proportion is a step between two terms
 
@@ -62,6 +62,42 @@ A proportion $A:B$ compares a left term $A$ with a right term $B$ (34b, §13). I
 | $9:6$ | divide both by $3$ | $3:2$ | yes, _sesquialtera_ | $\tfrac32$ |
 
 "Simplified" or "reduced" below means dividing both terms by the largest number that divides both. It changes the terms, not the proportion.
+
+Dolz's **least terms** (_minimi termini_, 45a, §24) go one step further: divide both terms by the lesser, so that the lesser becomes unity ($1$).
+
+**Worked example, $9:6$.**
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | which term is lesser? | $6$ is smaller than $9$ | lesser term $6$, greater term $9$ |
+| 2 | divide the lesser by itself | $6\div6$ | $1$ |
+| 3 | divide the greater by the lesser: how many whole times does $6$ go into $9$? | $6$ fits once; $6+6=12$ would be too much | $1$ |
+| 4 | what is left over? | $9-6$ | $3$ |
+| 5 | what part of the lesser term is the leftover? | $3$ is half of $6$ | $\tfrac12$ |
+| 6 | put steps 3 and 5 together | once and a half | $1\tfrac12$ |
+| 7 | least terms | step 6 to step 2 | $1\tfrac12$ to $1$ |
+
+So $9:6$, $3:2$, and $1\tfrac12$ to $1$ are the same proportion written in three ways (Rule 1). In the last way the lesser term is $1$, and the greater term, $1\tfrac12$, says on its own how big the proportion is. That greater term is the proportion's **denomination** (P2).
+
+**Reading "$1\tfrac12$ to $1$".** It is still a proportion of two terms, written greater first:
+
+| Original | Greater term | Lesser term | Written as |
+| --- | --- | --- | --- |
+| $9:6$ | $9$ | $6$ | $9$ to $6$ |
+| divide both by $6$ | $9\div6=1\tfrac12$ | $6\div6=1$ | $1\tfrac12$ to $1$ |
+
+So in $1\tfrac12$ to $1$, the $1\tfrac12$ is the greater term and the final $1$ is the lesser term. The lesser term is $1$ because it was divided by itself, and anything divided by itself is $1$.
+
+Why does the denomination say only $1\tfrac12$, not "$1\tfrac12$ to $1$"? Because in least terms the lesser term is **always** $1$: $2$ to $1$, $1\tfrac12$ to $1$, $2\tfrac12$ to $1$. Repeating "to $1$" every time adds nothing, so only the greater term is named. Dolz still writes _in ordine ad unum_, "in relation to one" (45a), to show that the $1$ is understood.
+
+The same steps for four proportions:
+
+| Proportion | Lesser term | Lesser ÷ lesser | Whole times it goes into the greater | Leftover | Leftover as a part of the lesser | Least terms | Denomination |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| $8:4$ | $4$ | $4\div4=1$ | $2$ ($4+4=8$) | $0$ | none | $2$ to $1$ | $2$ |
+| $9:6$ | $6$ | $6\div6=1$ | $1$ | $9-6=3$ | $3$ is half of $6$: $\tfrac12$ | $1\tfrac12$ to $1$ | $1\tfrac12$ |
+| $10:6$ | $6$ | $6\div6=1$ | $1$ | $10-6=4$ | a third of $6$ is $2$, and $4$ is two of them: $\tfrac23$ | $1\tfrac23$ to $1$ | $1\tfrac23$ |
+| $15:6$ | $6$ | $6\div6=1$ | $2$ ($6+6=12$) | $15-12=3$ | $3$ is half of $6$: $\tfrac12$ | $2\tfrac12$ to $1$ | $2\tfrac12$ |
 
 Rule 1 is the only tool the operations below need. Each of them works by rescaling the terms of proportions, without changing the proportions, until the terms fit together.
 
@@ -87,7 +123,30 @@ What the excess cannot do is stand in for the proportion. This matters in physic
 
 ### P2. Naming a proportion
 
-Used on 30a–33a (§9–§11). The name is the mixed number $A\div B$ said in Latin. Put the greater term on the left; the right term is then the **lesser term**, and the leftover is counted in equal parts of it.
+Used on 30a–33a (§9–§11) and 45a (§24). A proportion is named by answering one question: **how many times does the greater term contain the lesser?** The answer is a whole number, sometimes with a part left over, such as "once and a half" ($1\tfrac12$). Dolz calls this answer the proportion's _denominatio_; it is the greater of the least terms when the lesser is unity (P1). The Latin name says the same answer in words.
+
+Three words are used throughout:
+
+- **Greater term**: the larger of the two numbers. In $3:2$ it is $3$.
+- **Lesser term**: the smaller of the two numbers. In $3:2$ it is $2$.
+- **Leftover**: what remains of the greater term after the lesser has been taken out of it as many whole times as possible. In $3:2$, take $2$ out of $3$ once and $1$ remains.
+
+**Simplest example, $3:2$.**
+
+| Step | Question | Answer for $3:2$ |
+| --- | --- | --- |
+| 1 | greater term, lesser term? | greater $3$, lesser $2$ |
+| 2 | how many whole times does the lesser go into the greater? | once: $2$ fits in $3$, but $2+2=4$ is too much |
+| 3 | leftover? | $3-2=1$ |
+| 4 | what part of the lesser term is the leftover? | $1$ is half of $2$ |
+| 5 | denomination | once and a half, $1\tfrac12$ |
+| 6 | Latin | _sesqui-_ ("once and one part") + _altera_ ("the half") = _sesquialtera_ |
+
+**Second example, $4:3$.** Greater $4$, lesser $3$. $3$ goes into $4$ once; leftover $4-3=1$; $1$ is a third of $3$. Denomination $1\tfrac13$, once and a third: _sesquitertia_.
+
+**Third example, $6:2$.** Greater $6$, lesser $2$. $2$ goes into $6$ three times ($2+2+2=6$); leftover $0$. Denomination $3$: _tripla_.
+
+Put the greater term on the left; the right term is then the **lesser term**, and the leftover is counted in equal parts of it.
 
 **The words.**
 
@@ -401,9 +460,16 @@ Modern check, $\tfrac{16}9\approx1.78$, then $2$, then $\tfrac94=2.25$.
 
 ### P7. Which proportion is greater?
 
-Used on 40a (§19) and 44a–44b (§23). A proportion of greater inequality is **greater** when its left term contains its right term more times, that is, when it lies further from equality ($1:1$). $3:2$ is once and a half; $4:3$ is once and a third; a half is more than a third, so $3:2$ is the greater. In musical terms the fifth is a wider interval than the fourth, which is what "the fifth exceeds the fourth" means. How much wider is a subtraction (P5, Example C), the tone $9:8$.
+Used on 40a (§19), 44a–44b (§23), and 45b (§24). A proportion of greater inequality is **greater** when its left term contains its right term more times, that is, when it lies further from equality ($1:1$). $3:2$ is once and a half; $4:3$ is once and a third; a half is more than a third, so $3:2$ is the greater. In musical terms the fifth is a wider interval than the fourth, which is what "the fifth exceeds the fourth" means. How much wider is a subtraction (P5, Example C), the tone $9:8$.
 
-**Method 1 (names).** Compare the whole times from P2. If they are equal, compare the leftovers.
+**Method 1 (names).** Dolz's general rule (45b): the proportion with the greater denomination is the greater (P2). Compare the whole times; if they are equal, compare the leftovers.
+
+| First | Second | Denominations | Greater | Dolz, 45b |
+| --- | --- | --- | --- | --- |
+| _dupla_ $8:4$ | _dupla_ $2:1$ | $2$ and $2$ | neither | proposition 1 |
+| _tripla_ $3:1$ | _dupla_ $2:1$ | $3$ and $2$ | _tripla_ | proposition 2 |
+| _dupla_ $2:1$ | _sesquialtera_ $3:2$ | $2$ and $1\tfrac12$ | _dupla_, the least _multiplex_ over the greatest _superparticularis_ | proposition 2 |
+| _sesquialtera_ $3:2$ | _sesquitertia_ $4:3$ | $1\tfrac12$ and $1\tfrac13$ | _sesquialtera_ | proposition 3 |
 
 **Method 2 (same right term).**
 
@@ -429,6 +495,8 @@ That is all. No chain is formed and nothing is removed. The shared right term is
 | _quadrupla_ | $4:1$ | no | $4:1$ | _quadrupla_ | yes |
 
 Whatever terms are given for the _quadrupla_, larger terms can be found for the _dupla_. So the comparison must use the name, or terms rescaled to a common right term, never the raw numbers.
+
+**Value and composition agree here.** Methods 1 and 2 compare by value; Method 3 by composition. All three always pick the same proportion as greater. Value and composition differ only on how many times one proportion contains another (P6, §24).
 
 ### P8. The three proportionalities
 
@@ -499,7 +567,7 @@ Four obstacles stood in the way:
 | Medieval operation | Method | Example | Modern equivalent |
 | --- | --- | --- | --- |
 | same proportion | multiply or divide both terms | $8:4=2:1$ | equal fractions |
-| naming | count, remainder, reduce | $5:2$ _dupla sesquialtera_ | mixed number $2\tfrac12$ |
+| naming | count, remainder, reduce; lesser term to unity (45a) | $5:2$ _dupla sesquialtera_ | mixed number $2\tfrac12$ |
 | adding | chain through a shared middle | $4:3+3:2=2:1$ | multiply |
 | subtracting | remove the part from the end of the whole | $2:1-3:2=4:3$ | divide |
 | doubling, tripling | add to itself | $3:2$ doubled is $9:4$ | square, cube |
@@ -509,7 +577,7 @@ Four obstacles stood in the way:
 
 ### Still to come
 
-The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles and first four principles (43a–44b, §22–§23) are covered by P4–P7. Dolz has promised next to take the equality and inequality of proportions from their denomination (_ut confestim dicemus_, 44b), and an account of _communicatio proportionum_, overlapping proportions (43a). The prooemium (25a) further announces the excess of one proportion over another, division by proportional parts, and the rules of motion. Operations needed for them will be added here as the transcription reaches them.
+The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles, its principles, and the general rule of greater proportion (43a–45b, §22–§24) are covered by P1, P2, and P4–P7. Dolz has promised an account of _communicatio proportionum_, overlapping proportions (43a). The prooemium (25a) further announces the excess of one proportion over another, division by proportional parts, and the rules of motion. Operations needed for them will be added here as the transcription reaches them.
 
 ---
 
@@ -1865,7 +1933,7 @@ In continuous proportionality the links must be similar; in addition they need n
 
 The name of a composite species adds an integer count and a fraction; adding two proportions multiplies them.
 
-The second alternative in Dolz's definition, _vel illam a qua subtrahi debet annihilari_, is obscure. One possible reading: subtracting a proportion from an equal one annihilates it and leaves equality, _sicut in quantitatibus_, as subtracting a quantity from an equal quantity leaves nothing. This is our guess (§25).
+The second alternative in Dolz's definition, _vel illam a qua subtrahi debet annihilari_, is obscure. One possible reading: subtracting a proportion from an equal one annihilates it and leaves equality, _sicut in quantitatibus_, as subtracting a quantity from an equal quantity leaves nothing. This is our guess (§26).
 
 The _continuatio_ of two dissimilar proportions through a shared term may bear on the _communicatio proportionum_ promised on 34b (§13), but Dolz does not connect them.
 
@@ -2006,7 +2074,7 @@ Why call the limma a semitone if it is not half a tone? _Semitonium_ should be r
 
 Cents also show the addition of 40a at work: compounding proportions **adds** cents. Fifth plus fourth is $701.96+498.04=1200$, the octave; fifth minus fourth is $701.96-498.04=203.91$, the tone. This is the logarithmic scale on which, as noted above, adding proportions becomes ordinary addition.
 
-Composite consonances are made from the simple ones, such as _bis diapason_, two octaves, $2\cdot2=4:1$. Dolz remarks that two octaves are rarely found in a human voice, _nisi rediret quid de quo loquitur Aristoteles septimo Politicorum capite quarto_. The phrase is corrupt. In _Politics_ VII.4 (1326b) Aristotle asks who could be herald to an excessively large multitude unless he had the voice of Stentor. The sense may be "unless Stentor, of whom Aristotle speaks, came back". This is a conjecture (§25). The passage itself is confirmed: in _Politics_ VII.4, beside Bekker page 1326b, Aristotle asks who could command an unwieldy multitude, "or who could be their herald but a Stentor?" (Ellis's translation, Project Gutenberg). Dolz's _septimo Politicorum capite quarto_ matches this chapter.
+Composite consonances are made from the simple ones, such as _bis diapason_, two octaves, $2\cdot2=4:1$. Dolz remarks that two octaves are rarely found in a human voice, _nisi rediret quid de quo loquitur Aristoteles septimo Politicorum capite quarto_. The phrase is corrupt. In _Politics_ VII.4 (1326b) Aristotle asks who could be herald to an excessively large multitude unless he had the voice of Stentor. The sense may be "unless Stentor, of whom Aristotle speaks, came back". This is a conjecture (§26). The passage itself is confirmed: in _Politics_ VII.4, beside Bekker page 1326b, Aristotle asks who could command an unwieldy multitude, "or who could be their herald but a Stentor?" (Ellis's translation, Project Gutenberg). Dolz's _septimo Politicorum capite quarto_ matches this chapter.
 
 Dolz justifies the digression by pedagogy: he adds these terms _non quia multum pertinentia philosophiae, sed ad minus ut calleas terminos_, not because they matter much to philosophy, but at least so that the student knows the terms. This matches the program of the introduction: only as much mathematics as philosophy requires, plus the vocabulary needed to read other authors.
 
@@ -2147,7 +2215,7 @@ A final objection: degree $4$ is intense and degree $2$ remiss, they are in a pr
 | as intension against remission | no |
 | as containing degrees (_in ratione continentiae gradus_) | yes, $4:2$ |
 
-The proportion rests on the degrees contained, not on intensity and remissness as opposed qualities. This agrees with page 30, which admitted comparison _quoad intensionem_ as a multitude of degrees (§9). The following sentence, that it does not follow _quod intensionis ad intensionem et remissionis ad remissionem sit proportio_, is hard to square with page 30 and is noted in §25. Dolz defers the matter to philosophy.
+The proportion rests on the degrees contained, not on intensity and remissness as opposed qualities. This agrees with page 30, which admitted comparison _quoad intensionem_ as a multitude of degrees (§9). The following sentence, that it does not follow _quod intensionis ad intensionem et remissionis ad remissionem sit proportio_, is hard to square with page 30 and is noted in §26. Dolz defers the matter to philosophy.
 
 ### Ad quartam: line, surface, and body
 
@@ -2234,7 +2302,7 @@ Greaterness, however, is posited both of infinite to finite and of infinite to i
 
 Dolz draws the general rule: _non oportet quod a qualibet maioritate abstrahatur proportio_, not every greaterness yields a proportion. This states generally the consequence denied on 38b. To say otherwise one would have to _mathematicos exire et satis extranee loqui_, leave the mathematicians and speak very strangely. Page 39a had said that Dolz does not oppose the mathematicians (§18).
 
-The print says that greaterness of infinite to finite and infinite to infinite is _iam proprie dicta_. This conflicts with 39a, where one infinite is greater than another only improperly, and with the next sentence, _maioritas improprie dicta inter unum infinitum et aliud infinitum_. _Iam … dictam_ ("already spoken of") points back to 39a, so the transcription adopts _improprie_ as a conjecture (§25).
+The print says that greaterness of infinite to finite and infinite to infinite is _iam proprie dicta_. This conflicts with 39a, where one infinite is greater than another only improperly, and with the next sentence, _maioritas improprie dicta inter unum infinitum et aliud infinitum_. _Iam … dictam_ ("already spoken of") points back to 39a, so the transcription adopts _improprie_ as a conjecture (§26).
 
 ### Does the infinite have an aliquot part?
 
@@ -2311,7 +2379,7 @@ The prooemium (25a) had announced that the second article _maioritatem, aequalit
 
 Even if proportion were an indivisible respect, the Realist accident of 42a, geometry attributes composition to it. The composition is improper, _quia indivisibile proprie non componitur_, as was said of number in the first article (preambles 2–4, §1). So proportions have parts and can be divided, and among them there is equality and inequality.
 
-This supports the conjecture that the printed _compositio divisionis_ of 42b means _compositio \[et\] divisio_, composition and division (§25). Preamble 5 on 44a says it outright: _constat compositio cum divisione proportionum_ (§23).
+This supports the conjecture that the printed _compositio divisionis_ of 42b means _compositio \[et\] divisio_, composition and division (§26). Preamble 5 on 44a says it outright: _constat compositio cum divisione proportionum_ (§23).
 
 ### Preamble 2: the parts of $8:4$
 
@@ -2347,7 +2415,7 @@ $6$ is the _medium rei_ of $8$ and $4$, but not proportional: $8:6$ is _sesquite
 
 Hence the half of $8:4$ is neither $8:6$ nor $6:4$, although $6$ is equidistant. Every half must be _subdupla_ to its whole, and _sesquitertia_ is not _subdupla_ to _dupla_; the proof is promised (_ut patebit_) and follows from the third principle on 44b (§23). The half of $8:2$ is $8:4$.
 
-In modern terms the _medium rei_ is the arithmetic mean, $\tfrac{a+b}2$, and the _medium proportionale_ the geometric mean, $\sqrt{ab}$. Aristotle's mean of the thing and mean relative to us is _Ethics_ II.6 (1106a26–b7). The citation of Biel is printed _xiii. dsti. tertii. ſniaꝝ_, that is, _decima tertia distinctione tertii Sententiarum_ (book III, d. 13). Distinction 13 treats the grace of Christ, so _xiii_ may be a misprint for _xxxiii_, where Peter Lombard treats the cardinal virtues and the mean of virtue belongs (unchecked, §25).
+In modern terms the _medium rei_ is the arithmetic mean, $\tfrac{a+b}2$, and the _medium proportionale_ the geometric mean, $\sqrt{ab}$. Aristotle's mean of the thing and mean relative to us is _Ethics_ II.6 (1106a26–b7). The citation of Biel is printed _xiii. dsti. tertii. ſniaꝝ_, that is, _decima tertia distinctione tertii Sententiarum_ (book III, d. 13). Distinction 13 treats the grace of Christ, so _xiii_ may be a misprint for _xxxiii_, where Peter Lombard treats the cardinal virtues and the mean of virtue belongs (unchecked, §26).
 
 The preamble ends: as a proportion is part of a proportion, so it is an aliquot part. But no proportion is an aliquot part of every proportion, nor even of every proportion other than itself.
 
@@ -2369,7 +2437,7 @@ The fifth preamble completes the scaffolding: as every whole is composed of its 
 | principle 1 | 44a | every whole is greater than its part, so _dupla_ is greater than _sesquialtera_ and _sesquitertia_ | P7, Method 3 |
 | principle 2 | 44b | composed of two equals, double each; of three equals, triple each | P6 |
 | principle 3 | 44b | composed of two unequals, more than double the lesser and less than double the greater | P6 |
-| principle 4 | 44b | the denomination is taken from the terms in lowest form, not from any numbers in which the proportion is found | P7 |
+| principle 4 | 44b | the denomination is better taken from the terms than from whole numbers, and not from any numbers in which the proportion is found; the rule of least terms follows on 45a (§24) | P7 |
 
 ### Principle 3 decides between value and composition
 
@@ -2402,11 +2470,94 @@ The replies: the mathematicians mean a **quantitative and great** part, and matt
 
 ### Principle 4: numbers and terms
 
-_Numeri_ are whole numbers greater than one; _termini_ may be fractions or unity. The name of a proportion is better taken from the terms, and not from whichever numbers the proportion happens to be found in. Otherwise the _dupla_ found as $16:8$ would seem greater than the _quadrupla_ $4:1$, and for any terms of a _quadrupla_ larger terms of a _dupla_ can always be found. The page breaks off as Dolz answers this objection; the promised rule that equality and inequality of proportions follow their denomination comes next.
+_Numeri_ are whole numbers greater than one; _termini_ may be fractions or unity. The name of a proportion is better taken from the terms, and not from whichever numbers the proportion happens to be found in. Otherwise the _dupla_ found as $16:8$ would seem greater than the _quadrupla_ $4:1$, and for any terms of a _quadrupla_ larger terms of a _dupla_ can always be found. The page breaks off as Dolz answers this objection; the answer, the least terms, and the promised rule that equality and inequality follow the denomination are on 45a–45b (§24).
 
 ---
 
-## 24. Summary of the doctrine
+## 24. Least terms and the general rule of greater proportion (45a–45b)
+
+Little here is new to a reader of pages 30–33. Dolz ties each species name to one number, the _denominatio_, and reads greater, equal, and lesser off it.
+
+### The least terms
+
+Dolz declines the escape left open on 44b, that a proportion is denominated in many ways but greaterness is not taken from every denomination. That would not agree with the mathematicians. Instead (printed _quintum praeambulum_, §26):
+
+> Denominatio proportionis sumenda venit a minimis terminis eiusdem.
+
+That is: **"The denomination of a proportion is to be taken from its least terms."**
+
+The _minimi termini_ have unity as the lesser term; the greater is a number, or unity with a fraction. By fractions he means aliquot parts, not "half a unity" as a term. The denomination comes from the greater term.
+
+**What are the least terms of a proportion?** The same proportion can be written with many pairs of terms (Rule 1). Take the _dupla_:
+
+| Terms in which the _dupla_ is found | Lesser term | Divide both by the lesser | Least terms |
+| --- | --- | --- | --- |
+| $16:8$ | $8$ | $16\div8=2$, $8\div8=1$ | $2$ to $1$ |
+| $8:4$ | $4$ | $8\div4=2$, $4\div4=1$ | $2$ to $1$ |
+| $4:2$ | $2$ | $4\div2=2$, $2\div2=1$ | $2$ to $1$ |
+| $2:1$ | $1$ | already $1$ | $2$ to $1$ |
+
+Every row ends at the same pair, $2$ to $1$. Those are the least terms, and the greater of them, $2$, is the denomination. The other pairs are terms **in which the proportion is found**; they are not further denominations of it. So each proportion has exactly one denomination.
+
+The same for a proportion with a leftover, the _sesquialtera_:
+
+| Terms | Lesser term | Greater ÷ lesser | Lesser ÷ lesser | Least terms | Denomination |
+| --- | --- | --- | --- | --- | --- |
+| $12:8$ | $8$ | $8$ goes in once, $4$ left, $4$ is half of $8$: $1\tfrac12$ | $8\div8=1$ | $1\tfrac12$ to $1$ | $1\tfrac12$ |
+| $9:6$ | $6$ | $6$ goes in once, $3$ left, $3$ is half of $6$: $1\tfrac12$ | $6\div6=1$ | $1\tfrac12$ to $1$ | $1\tfrac12$ |
+| $3:2$ | $2$ | $2$ goes in once, $1$ left, $1$ is half of $2$: $1\tfrac12$ | $2\div2=1$ | $1\tfrac12$ to $1$ | $1\tfrac12$ |
+
+In every row the least terms are "greater ÷ lesser" to "lesser ÷ lesser", and the denomination is the first of them, since the second is always $1$.
+
+**Why Dolz needs this (44b).** If any pair of terms could serve as the denomination, the _dupla_ found as $16:8$ would seem greater than the _quadrupla_ $4:1$, because $16$ is larger than $4$. Taken from the least terms, the _dupla_ is $2$ to $1$ and the _quadrupla_ $4$ to $1$; $2$ is less than $4$, so the _quadrupla_ is greater, as it should be.
+
+| Family | Least terms | Denominated from | Page |
+| --- | --- | --- | --- |
+| _multiplex_ | $2$ to $1$, $3$ to $1$ | a number, in the natural series from the binary, none omitted | 45a |
+| _superparticularis_ | $1\tfrac12$ to $1$, $1\tfrac13$ to $1$ | unity and one aliquot part, in the natural series of aliquots from the half | 45a |
+| _superpartiens_ | $1\tfrac23$ to $1$, $1\tfrac25$ to $1$ | unity and aliquot parts not making one aliquot | 45a |
+| _multiplex superparticularis_ | $2\tfrac12$, $2\tfrac13$, $3\tfrac12$ to $1$ | partly a number, partly one aliquot part | 45a |
+| _multiplex superpartiens_ | $2\tfrac23$, $2\tfrac25$, $3\tfrac23$ to $1$ | partly a number, partly aliquots not making one | 45b |
+| lesser inequality | $1$ to $2$, $1$ to $1\tfrac12$ | the same, compared lesser to greater; no list needed | 45b |
+| equality | any equal terms | indifferently | 45b |
+
+This is the taxonomy of §9–§11, now with one number per species. The printed _tripla sesquitertia_ for $3\tfrac12$ is corrected in the transcription to _sesquialtera_ (§26).
+
+### The general rule
+
+> Omnis proportio cuius denominatio est maior alterius denominatione, etiam illa maior.
+
+| Statement | Claim | Example |
+| --- | --- | --- |
+| rule | greater denomination, greater proportion | $9:6$ has denomination $1\tfrac12$, $8:6$ has $1\tfrac13$; $1\tfrac12$ is greater, so $9:6$ is the greater proportion |
+| particular 1 | same denomination, equal proportions | $8:4$ and $6:3$ both have denomination $2$, so they are equal |
+| particular 2 | different denominations, unequal proportions | $3:2$ ($1\tfrac12$) and $4:3$ ($1\tfrac13$) are unequal |
+| proposition 1 | all _duplae_ are equal, all _triplae_, all _sesquialterae_ | $8:4$ is not greater than $2:1$ for being found in greater numbers |
+| proposition 2 | ascending through the _multiplex_ species, the proportion grows | _quadrupla_ $>$ _tripla_ $>$ _dupla_; the least _multiplex_, $2$, exceeds the greatest _superparticularis_, $1\tfrac12$ |
+| proposition 3 | ascending through the _superparticularis_ species, the proportion shrinks | _sesquialtera_ $>$ _sesquitertia_ $>$ _sesquiquarta_, as $\tfrac12>\tfrac13>\tfrac14$ |
+
+Proposition 3 breaks off at 46a.
+
+**How to compare two denominations.** First compare the whole numbers; if they are equal, compare the leftovers.
+
+| First | Second | Denominations | Whole numbers | Leftovers | Greater |
+| --- | --- | --- | --- | --- | --- |
+| $5:2$ | $7:4$ | $2\tfrac12$ and $1\tfrac34$ | $2$ against $1$ | not needed | $5:2$ |
+| $3:2$ | $4:3$ | $1\tfrac12$ and $1\tfrac13$ | equal, $1$ | a half against a third | $3:2$ |
+| $4:3$ | $5:4$ | $1\tfrac13$ and $1\tfrac14$ | equal, $1$ | a third against a fourth | $4:3$ |
+
+A half is more than a third, and a third more than a fourth, because the same unity is cut into fewer pieces. This is proposition 3: going up the series _sesquialtera_, _sesquitertia_, _sesquiquarta_, the leftover shrinks and so does the proportion. Leftovers that are not single parts, such as $\tfrac34$ against $\tfrac23$, are compared as in P7, Method 2.
+
+Four observations of ours:
+
+- **Least terms are not lowest whole-number terms.** §23 and the Primer took "lowest form" as the reduced pair of whole numbers, $3:2$. Dolz instead puts the lesser term at unity, $1\tfrac12$ to $1$. Both give the same name, but Dolz's form makes the denomination a single number, the mixed number we write as the value $A\div B$. The mixed numbers of P2 are therefore his own, not a modern addition (P1, P2 corrected). The first corollary, that the least terms are those least in that proportion, holds because unity is not divided into a term. For example, $\tfrac34$ to $\tfrac12$ is also _sesquialtera_: $\tfrac12$ goes into $\tfrac34$ once, and the leftover $\tfrac14$ is half of $\tfrac12$. Its terms are smaller than $1\tfrac12$ and $1$, but it is excluded, because the lesser term must be unity itself, not a part of it.
+- **Value for order, composition for counting.** The denomination is the value, so 45b compares proportions by value, while 43b–44b measured them by composition (§22, §23). There is no conflict. Of two proportions of greater inequality, the one with the greater value always contains the other as a part plus something more (P7, Method 3), so the two measures agree on which is greater. They differ only on how many times one contains the other: by value $8:1$ is four times $2:1$, by composition three times (§20). Principle 3 (44b) is a claim about how many times; the rule of 45b only about which is greater.
+- **Lesser inequality is left open.** The rule is stated without restriction, but its propositions concern greater inequality only. Dolz does not say whether _subdupla_ or _subtripla_ is the greater.
+- **Equality.** Its denomination does not matter _quia eius species nec aequales nec inaequales reperiuntur_. The sense is perhaps that equality has no species differing in size, so there is nothing to compare; as printed, the clause is odd (§26).
+
+---
+
+## 25. Summary of the doctrine
 
 1. _Aliquot part_ is a **two-place relation** between a part and a whole, requiring exact measure and at least two repetitions.
 2. Dropping the second term of the relation is what generates every difficulty in preamble 8.
@@ -2475,12 +2626,17 @@ _Numeri_ are whole numbers greater than one; _termini_ may be fractions or unity
 65. The second article, on greater, equal, and lesser proportions, begins on 43a. A proportion has parts, improperly, as number does: the proportions among its terms and the numbers between them, like the segments of a continuum. They overlap or not, and are aliquot or not.
 66. The half of a proportion is found at the _medium proportionale_, not the _medium rei_: it is the proportion that, added to itself, makes the whole. Proportions are therefore measured by composition, as Bradwardine's rule requires. No proportion is an aliquot part of every proportion.
 67. Proportions are composed of proportions and divided into them (44a). The whole is greater than its part, so the _dupla_ is greater than the _sesquialtera_ and the _sesquitertia_, which compose it.
-68. A proportion composed of two unequal proportions is more than double the lesser and less than double the greater. This holds only if "double" means added to itself, so the second article measures proportions by composition throughout.
-69. A proportion is named from its terms in lowest form, not from any numbers in which it is found: the _dupla_ $16:8$ is not greater than the _quadrupla_ $4:1$.
+68. A proportion composed of two unequal proportions is more than double the lesser and less than double the greater. This holds only if "double" means added to itself, so the second article counts how many times one proportion contains another by composition.
+69. A proportion is not named from whichever numbers it is found in: the _dupla_ $16:8$ is not greater than the _quadrupla_ $4:1$. Terms, which may include unity and fractions, are better than whole numbers (44b).
+70. The denomination is taken from the least terms: unity as the lesser, and as the greater a number, or a number or unity with aliquot parts (45a). It is the mixed number we write as the value.
+71. _Multiplex_ species are named from the natural series of numbers from $2$, _superparticulares_ from the series of aliquot parts from the half; the other species combine numbers and aliquots; lesser inequality takes the same denominations in converse order; equality may be named from any equal terms.
+72. A proportion with a greater denomination is greater; the same denomination makes equal proportions, different ones unequal (45b). The _dupla_ $8:4$ equals $2:1$.
+73. _Multiplex_ species grow upward and the least of them exceeds the greatest _superparticularis_; _superparticulares_ shrink upward.
+74. Value and composition agree on which proportion is greater and differ only on how many times one contains another.
 
 ---
 
-## 25. Textual notes
+## 26. Textual notes
 
 Proposed emendations arising from the analysis. Those marked _insecure_ are recorded but not recommended for adoption.
 
@@ -2543,3 +2699,6 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 44b | haec **ꝓportio** communiter concedatur | **propositio** (adopted) | What is conceded is a sentence, _omne totum in nulla proportione est maius sua parte_ |
 | 44b | **teris**, **teri** | **terminis**, **termini** (expanded) | Contrasted with _numeri_, which exclude fractions and unity |
 | 44b | dupla denominaretur **6** ad 8 | **16** ad 8 (adopted) | $6:8$ is not a _dupla_, and _primi essent maiores_ requires terms larger than $4$ and $1$ |
+| 45a | pro quo sit **quintum praeambulum** | possibly **quintum principium** _(insecure)_ | The fifth preamble was given on 44a, and four principles precede; what follows is a principle of denomination |
+| 45a | tripla **sexquitertia** a ternario cum medietate | **sesquialtera** (adopted) | _Cum medietate_ requires _sesquialtera_ |
+| 45b | eius species nec aequales nec inaequales reperiuntur | _(obscure; left as printed)_ | Perhaps: equality has no species differing in size. One would expect all equalities to be equal |

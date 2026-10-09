@@ -1312,7 +1312,7 @@ Tertia propositio: continue ascendendo in speciebus superparticularibus minoratu
 
 Quarta: ascendendo in speciebus superpartientis aut superbi aut tri aut quadri, et caetera, minoratur proportio. Vide quid volo dicere: superbipartiens tertias maior est superbipartiente quintas, et superbipartiens quintas maior est superbipartiente septimas, et sic consequenter. Item supertripartiens quartas maior supertripartiente quintas, et ita de aliis. Ratio est, nam maior est denominatio: duae tertiae duabus quintis eiusdem totius, maiores sunt duae quintae duabus septimis, tres quartae tribus quintis, et sic consequenter.
 
-Sed sine illo ordine non posset bene responderi quae superpartiens esset maior. Et ratio est, nam aliqua superpartiens aliqua supertripartiente est maior et aliqua minor. Nam superbipartiens tertias maior est supertripartiente tredecimas, et superbipartiens undecimas minor est supertripartiente quartas. Ideo, ut prius, via doctrinae procedendum est.
+Sed sine illo ordine non posset bene responderi quae superpartiens esset maior. Et ratio est, nam aliqua superbipartiens aliqua supertripartiente est maior et aliqua minor. Nam superbipartiens tertias maior est supertripartiente tredecimas, et superbipartiens undecimas minor est supertripartiente quartas. Ideo, ut prius, via doctrinae procedendum est.
 
 Quinta propositio: in speciebus multiplicis superparticularis incipiendo ab eadem denominatione multiplici continue minoratur proportio. Dupla sesquialtera maior est dupla sesquitertia, et haec maior dupla sesquiquarta, et sic consequenter. Item tripla sesquialtera maior tripla sesquitertia, quae maior tripla sesquiquarta, et sic consequenter. Hoc patet, continue ascendendo denominatio est minor, ut claret intuenti.
 
@@ -1405,6 +1405,7 @@ Page 45a: demando ] sic (dēmandō; reading obscure)
 Page 45a: tripla sesquialtera ] emend. tripla sexquitertia (a ternario cum medietate)
 Page 45b: maioris ] emend. maioribus
 Page 45b: propositiones ] conj. ꝓportiōes (cf. Prima, Secunda, Tertia propositio)
+Page 46a: superbipartiens ] emend. superpartiens (aliqua superbipartiens aliqua supertripartiente; cf. the examples superbipartiens tertias, superbipartiens undecimas)
 Page 46b: 5 ad 2 ] emend. 5 ad 3 (dupla sesquialtera; part of 8 ad 2)
 
 -->

@@ -1310,6 +1310,28 @@ Secunda: ascendendo in speciebus multiplicis semper maioratur proportio, et ex c
 
 Tertia propositio: continue ascendendo in speciebus superparticularibus minoratur proportio. Patet, quia continue minoratur denominatio, visis earum denominationibus. Et sic sesquialtera /46a/ maior sesquitertia. Sesquitertia maior sesquiquarta, et caetera.
 
+Quarta: ascendendo in speciebus superpartientis aut superbi aut tri aut quadri, et caetera, minoratur proportio. Vide quid volo dicere: superbipartiens tertias maior est superbipartiente quintas, et superbipartiens quintas maior est superbipartiente septimas, et sic consequenter. Item supertripartiens quartas maior supertripartiente quintas, et ita de aliis. Ratio est, nam maior est denominatio: duae tertiae duabus quintis eiusdem totius, maiores sunt duae quintae duabus septimis, tres quartae tribus quintis, et sic consequenter.
+
+Sed sine illo ordine non posset bene responderi quae superpartiens esset maior. Et ratio est, nam aliqua superpartiens aliqua supertripartiente est maior et aliqua minor. Nam superbipartiens tertias maior est supertripartiente tredecimas, et superbipartiens undecimas minor est supertripartiente quartas. Ideo, ut prius, via doctrinae procedendum est.
+
+Quinta propositio: in speciebus multiplicis superparticularis incipiendo ab eadem denominatione multiplici continue minoratur proportio. Dupla sesquialtera maior est dupla sesquitertia, et haec maior dupla sesquiquarta, et sic consequenter. Item tripla sesquialtera maior tripla sesquitertia, quae maior tripla sesquiquarta, et sic consequenter. Hoc patet, continue ascendendo denominatio est minor, ut claret intuenti.
+
+Sed nisi procedas incipiendo ab eadem denominatione, non posses aliam regulam praeter generalem assignare, nisi poneretur isto modo: semper species multiplicis superparticularis inchoando a maiori denominatione multiplici est maior quacumque alia minoris denominationis multiplicis, qualiscumque sit denominatio superparticularis. Declaro: maior est tripla sesquialtera quam quacumque dupla sesquialtera aut sesquitertia, et sic consequenter. Similiter maior est tripla sesquitertia dupla sesquialtera aut sesquitertia, et caetera. Item quadrupla sesquialtera quacumque tripla sesquialtera aut sesquitertia, et sic consequenter. Et sic in speciebus multiplicis superparticularis ascendendo continue per denominationem multiplicem semper maioratur proportio.
+
+Sexta propositio: in speciebus multiplicis superpartientis continue ascendendo ab eadem denominatione multiplici minoratur proportio. /46b/ Dupla superbipartiens tertias maior dupla superbipartiente quintas, et haec maior dupla superbipartiente septimas, et sic consequenter. Item tripla superbipartiens tertias maior tripla superbipartiente quintas, et sic in infinitum. Item in talibus speciebus continue ascendendo per species multiplicis maioratur proportio. Exemplum: tripla cuiuscumque denominationis superpartientis maior est dupla cuiuscumque denominationis superpartientis, et quadrupla superpartiens quaecumque quacumque tripla superpartienti est maior, et sic consequenter in abyssum.
+
+Septima propositio: comparando species unius ad species alterius etiam consurgit inaequalitas. Patet, nam quaelibet multiplicis species quacumque superparticulari maior, constat ex denominationibus. Item quaelibet species multiplicis superparticularis aliqua specie multiplici maior est; patet inductive de omnibus. Sed non quaelibet multiplex superparticularis quacumque multiplici est maior. Patet: quadrupla maior dupla sesquialtera; patet ex denominationibus. Item est eius pars: 8 ad 2, quae est quadrupla, includit 5 ad 2, quae est dupla sesquialtera. Nec est inconveniens simplicem compositam esse maiorem. Item quaelibet multiplex superparticularis quacumque superparticulari est maior, nec dabis in hoc falsam descendentem.
+
+Si tempus pateret, libenter super haec principia geometrica examen fecissem, scilicet: omne totum est maius sua parte; si ab aequalibus aequalia demas, remanentia sunt aequalia; si ab inaequalibus aequalia demas, remanentia sunt inaequalia; et de multis aliis quae iuvant multum ad physicalia intelligenda. Et magnum processum libenter fecissem, sed compellor certis de causis opus abbreviare. Tamen alibi non praetermittam. Nihilominus, ne silentio praeteream, pauca argumenta deducam, quibus vir ingeniosus facile cognoscet alia quae ibi applicari possent.
+
+### Dullaert
+
+Primo arguitur deducendo aliqua quae ponuntur in philosophia Dullaert in materia de toto, quae in his oris Aquitaniae declarare multi nesciverunt, et alii nitentes exponere nihil ad propositum adducebant, ut certe scio.
+
+### Argumentum
+
+Sequeretur quod hae copulativae essent ponibiles: a est aequale b, et tamen nullum b est aequale a. Similiter quod b differt ab a, et tamen a non differt a b. Similiter quod a est aequale c, cui b est aequale, tamen a non est aequale b. Ista sunt contra propositiones nostras et principia geometriae /47a/.
+
 
 <!--
 ## Apparatus Criticus Reference
@@ -1383,6 +1405,6 @@ Page 45a: demando ] sic (dēmandō; reading obscure)
 Page 45a: tripla sesquialtera ] emend. tripla sexquitertia (a ternario cum medietate)
 Page 45b: maioris ] emend. maioribus
 Page 45b: propositiones ] conj. ꝓportiōes (cf. Prima, Secunda, Tertia propositio)
-Page 45b: generalem ] emend. generali
+Page 46b: 5 ad 2 ] emend. 5 ad 3 (dupla sesquialtera; part of 8 ad 2)
 
 -->

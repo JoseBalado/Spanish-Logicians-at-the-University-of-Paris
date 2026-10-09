@@ -1037,6 +1037,79 @@ Sexta proprietas voluntatis est: voluntas est perfectissima et regina omnium pot
 
 /48a/
 
+Alia est potentia motiva localiter, quae potentia non est aliud quam ipsa anima intellectiva in hominibus. Est duplex: quaedam est motiva organica, alia est motiva non organica.
+
+Unde potentia motiva organica est quae habet movere unam partem post aliam, id est mediante alia, progressive. Et ista potentia organica utitur ipsa anima in vita mortali. Unde dico quod anima non movet unam partem corporis nisi mediante alia.
+
+Alia est potentia motiva non organica, et est quae movet omnes partes simul, et non unam mediante alia, ubicumque pro libito voluntatis.
+
+Contra: non est in anima ponenda, ergo. Antecedens patet, quia nullus est qui sic possit moveri; ergo non est ponenda. Nego consequentiam, et ratio est quia nunc non exercet actum suum, tamen aliquando in beatitudine. Unde dicunt omnes theologi quod beatus movebitur per potentiam motivam non organicam, modo capio unam propositionem Aristotelis, secundo *De generatione*, naturae [ac glorificandae], in quantum potest, nisi manifestative appareat contrarium.
+
+Sed sic est quod magna est dignitas in anima rationali quod habeat istam potentiam motivam non organicam; ergo ponenda est potentia motiva non organica in anima rationali. Licet in ista vita potentia motiva non organica non exerceat actum, non sequitur quod non est ponenda. Et haec de prima figura potentiarum.
+
+## Sequitur de divisione animae quo ad eius potentias
+
+/48b/
+
+* **Potentiarum animae**
+  * alia vegetativa
+    * nutritiva
+    * augmentativa
+    * generativa
+  * alia sensitiva
+  * alia intellectiva
+
+* **Potentiarum sensitivarum**
+  * digestiva
+  * attractiva
+  * retentiva
+  * expulsiva
+
+* **Item sensitivarum**
+  * cognitiva
+    * interior
+    * exterior
+  * appetitiva
+
+* **Potentiarum exteriorum**
+  * visiva
+  * tactiva
+  * auditiva
+  * gustativa
+  * olfactiva
+
+* **Appetitivarum**
+  * interior
+  * exterior
+    * visiva
+    * auditiva
+    * olfactiva
+    * gustativa
+    * tactiva
+
+* **Potentiarum appetitivarum**
+  * irascibilis
+  * concupiscibilis
+
+* **Intellectus**
+  * agens
+  * possibilis
+
+* **Potentiarum apprehensivarum interiorum**
+  * phantasia
+  * intellectus
+
+* **Potentiarum rationalium**
+  * voluntas
+  * intellectus
+  * memoria
+
+* **Potentiarum motivarum localiter**
+  * organica
+  * non organica
+
+/49a/
+
 
 <!--
 ## Apparatus Criticus Reference
@@ -1067,5 +1140,6 @@ Page 39b: organo ] conj. impo
 Page 42b: Sicut ] sic
 Page 47b: potentia collativa est collativa ] sic
 Page 47b: in complexam ] del. in in complexam
+Page 49b: apprehensivarum ] conj. appe
 
 -->

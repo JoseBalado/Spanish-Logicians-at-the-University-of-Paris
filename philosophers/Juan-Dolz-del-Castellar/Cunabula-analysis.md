@@ -303,7 +303,7 @@ A smaller rewriting also works. The right term of $3:2$ is $2$ and the left term
 | 5 | divide both terms by $2$, the largest number dividing both, so $6:2\to3:1$, _tripla_ |
 | modern | $2\times\tfrac32=3$ |
 
-Not to be confused with the species name _dupla sesquialtera_, which is $5:2$ (§11, §19).
+Not to be confused with the species name _dupla sesquialtera_, which is $5:2$ (§11, §19). By chaining, $5:2$ is the _dupla_ plus the _sesquiquarta_: chain $5,4,2$, links $5:4$ and $4:2$ (46b, §25).
 
 The order of adding does not matter. $4:3$ plus $3:2$ and $3:2$ plus $4:3$ both give $2:1$ (§16, _aequa_ direct and indirect).
 
@@ -460,16 +460,86 @@ Modern check, $\tfrac{16}9\approx1.78$, then $2$, then $\tfrac94=2.25$.
 
 ### P7. Which proportion is greater?
 
-Used on 40a (§19), 44a–44b (§23), and 45b (§24). A proportion of greater inequality is **greater** when its left term contains its right term more times, that is, when it lies further from equality ($1:1$). $3:2$ is once and a half; $4:3$ is once and a third; a half is more than a third, so $3:2$ is the greater. In musical terms the fifth is a wider interval than the fourth, which is what "the fifth exceeds the fourth" means. How much wider is a subtraction (P5, Example C), the tone $9:8$.
+Used on 40a (§19), 44a–44b (§23), 45b (§24), and 46a–46b (§25). A proportion of greater inequality is **greater** when its left term contains its right term more times, that is, when it lies further from equality ($1:1$). $3:2$ is once and a half; $4:3$ is once and a third; a half is more than a third, so $3:2$ is the greater. In musical terms the fifth is a wider interval than the fourth, which is what "the fifth exceeds the fourth" means. How much wider is a subtraction (P5, Example C), the tone $9:8$.
 
 **Method 1 (names).** Dolz's general rule (45b): the proportion with the greater denomination is the greater (P2). Compare the whole times; if they are equal, compare the leftovers.
 
-| First | Second | Denominations | Greater | Dolz, 45b |
+| First | Second | Denominations | Greater | Dolz, 45b–46b |
 | --- | --- | --- | --- | --- |
 | _dupla_ $8:4$ | _dupla_ $2:1$ | $2$ and $2$ | neither | proposition 1 |
 | _tripla_ $3:1$ | _dupla_ $2:1$ | $3$ and $2$ | _tripla_ | proposition 2 |
 | _dupla_ $2:1$ | _sesquialtera_ $3:2$ | $2$ and $1\tfrac12$ | _dupla_, the least _multiplex_ over the greatest _superparticularis_ | proposition 2 |
 | _sesquialtera_ $3:2$ | _sesquitertia_ $4:3$ | $1\tfrac12$ and $1\tfrac13$ | _sesquialtera_ | proposition 3 |
+| _superbipartiens tertias_ $5:3$ | _superbipartiens quintas_ $7:5$ | $1\tfrac23$ and $1\tfrac25$ | _superbipartiens tertias_ | proposition 4 |
+| _dupla sesquialtera_ $5:2$ | _dupla sesquitertia_ $7:3$ | $2\tfrac12$ and $2\tfrac13$ | _dupla sesquialtera_ | proposition 5 |
+| _tripla sesquitertia_ $10:3$ | _dupla sesquialtera_ $5:2$ | $3\tfrac13$ and $2\tfrac12$ | _tripla sesquitertia_: the whole number decides | proposition 5 |
+| _dupla superbipartiens tertias_ $8:3$ | _dupla superbipartiens quintas_ $12:5$ | $2\tfrac23$ and $2\tfrac25$ | _dupla superbipartiens tertias_ | proposition 6 |
+| _quadrupla_ $4:1$ | _dupla sesquialtera_ $5:2$ | $4$ and $2\tfrac12$ | _quadrupla_ | proposition 7 |
+
+**Why the whole number decides first.** Every leftover is less than one unity: once the added parts make a whole, the count of whole times goes up by one (§11). So a leftover can never carry a denomination past the next whole number.
+
+**Worked example, _tripla sesquitertia_ $10:3$ against _dupla sesquialtera_ $5:2$.**
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | how many whole times does $3$ go into $10$? | $3+3+3=9$; one more $3$ would make $12$, too much | $3$ times |
+| 2 | leftover of $10:3$ | $10-9$ | $1$ |
+| 3 | what part of the lesser term $3$ is the leftover? | $3$ cut into $3$ equal parts gives parts of $1$; the leftover $1$ is one of them | $\tfrac13$ |
+| 4 | denomination of $10:3$ | steps 1 and 3 together | $3\tfrac13$ |
+| 5 | how many whole times does $2$ go into $5$? | $2+2=4$; one more $2$ would make $6$, too much | $2$ times |
+| 6 | leftover of $5:2$ | $5-4$ | $1$ |
+| 7 | what part of the lesser term $2$ is the leftover? | $2$ cut into $2$ equal parts gives parts of $1$; the leftover $1$ is one of them, the half | $\tfrac12$ |
+| 8 | denomination of $5:2$ | steps 5 and 7 together | $2\tfrac12$ |
+| 9 | compare the whole numbers | $3$ against $2$ | $3$ is larger |
+| 10 | how much would $2\tfrac12$ need to reach $3$? | $3-2=1$, so a leftover of a whole $1$ | a whole unity |
+| 11 | does its leftover reach that? | $\tfrac12$ is less than $1$ | no, $2\tfrac12$ stays below $3$ |
+| 12 | greater | | _tripla sesquitertia_ |
+
+**When the names do not decide (46a).** With the same whole number, Method 1 compares the leftovers. That is easy when the leftovers have the same number of parts, as two thirds against two fifths: the same unity cut into more pieces gives smaller pieces. It is not easy when both the number and the kind of parts differ. Dolz says so himself: _aliqua superbipartiens aliqua supertripartiente est maior et aliqua minor_ (the print has _superpartiens_ for the first). Two parts can outweigh three, or not.
+
+The way through: each leftover is a part of the same unity. Cut that unity into small units such that both kinds of part come out as a whole number of units, then count the units in each leftover.
+
+The smallest such number of units is the **least common multiple** of the two kinds of part: the smallest number that both divide without remainder. When the two kinds share no factor, as $3$ and $13$, it is their product, $3\times13=39$. When they share one, the product still works but is not the least: for fourths and sixths, $4\times6=24$, but $12$ already works ($12\div4=3$, $12\div6=2$). All the examples below share no factor, so the product is the least common multiple.
+
+**Example 1, _superbipartiens tertias_ $5:3$ against _supertripartiens tredecimas_ $16:13$.**
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | how many whole times does $3$ go into $5$? | $3$ fits once; $3+3=6$ is too much | once |
+| 2 | leftover of $5:3$ | $5-3$ | $2$ |
+| 3 | what part of the lesser term $3$ is the leftover? | $3$ cut into $3$ equal parts gives parts of $1$; the leftover $2$ is two of them | $\tfrac23$ |
+| 4 | how many whole times does $13$ go into $16$? | $13$ fits once; $13+13=26$ is too much | once |
+| 5 | leftover of $16:13$ | $16-13$ | $3$ |
+| 6 | what part of the lesser term $13$ is the leftover? | $13$ cut into $13$ equal parts gives parts of $1$; the leftover $3$ is three of them | $\tfrac3{13}$ |
+| 7 | the whole numbers | both once | equal, so the leftovers decide |
+| 8 | least common multiple of $3$ and $13$: into how many units to cut unity so that thirds and thirteenths both come out whole? | $3$ and $13$ share no factor, so multiply: $3\times13$ | $39$ units |
+| 9 | the leftover $\tfrac23$ in units | one third is $39\div3=13$ units; take $2$ of them: $2\times13$ | $26$ units |
+| 10 | the leftover $\tfrac3{13}$ in units | one thirteenth is $39\div13=3$ units; take $3$ of them: $3\times3$ | $9$ units |
+| 11 | compare the leftovers | $26$ units against $9$ units | two thirds larger |
+| 12 | how many times does $9$ go into $26$? | $9+9=18$; one more $9$ would make $27$, too much; leftover $26-18=8$, eight ninths of $9$ | $2\tfrac89$ times, just short of $3$ |
+| 13 | greater proportion | | _superbipartiens tertias_ $5:3$ |
+
+Shortcut. In steps 9 and 10, one part of each kind is always as many units as the other kind ($39\div3=13$, $39\div13=3$). So the two counts are: parts in the first leftover times the kind of the second, $2\times13=26$; parts in the second leftover times the kind of the first, $3\times3=9$.
+
+**Example 2, _superbipartiens undecimas_ $13:11$ against _supertripartiens quartas_ $7:4$.**
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | how many whole times does $11$ go into $13$? | $11$ fits once; $11+11=22$ is too much | once |
+| 2 | leftover of $13:11$ | $13-11$ | $2$ |
+| 3 | what part of the lesser term $11$ is the leftover? | $11$ cut into $11$ equal parts gives parts of $1$; the leftover $2$ is two of them | $\tfrac2{11}$ |
+| 4 | how many whole times does $4$ go into $7$? | $4$ fits once; $4+4=8$ is too much | once |
+| 5 | leftover of $7:4$ | $7-4$ | $3$ |
+| 6 | what part of the lesser term $4$ is the leftover? | $4$ cut into $4$ equal parts gives parts of $1$; the leftover $3$ is three of them | $\tfrac34$ |
+| 7 | the whole numbers | both once | equal, so the leftovers decide |
+| 8 | least common multiple of $11$ and $4$: into how many units to cut unity so that elevenths and fourths both come out whole? | $11$ and $4$ share no factor, so multiply: $11\times4$ | $44$ units |
+| 9 | the leftover $\tfrac2{11}$ in units | one eleventh is $44\div11=4$ units; take $2$ of them: $2\times4$ | $8$ units |
+| 10 | the leftover $\tfrac34$ in units | one fourth is $44\div4=11$ units; take $3$ of them: $3\times11$ | $33$ units |
+| 11 | compare the leftovers | $8$ units against $33$ units | three fourths larger |
+| 12 | how many times does $8$ go into $33$? | $8+8+8+8=32$; one more $8$ would make $40$, too much; leftover $33-32=1$, one eighth of $8$ | $4\tfrac18$ times |
+| 13 | greater proportion | | _supertripartiens quartas_ $7:4$ |
+
+Shortcut: $2\times4=8$ against $3\times11=33$. This is the cross-multiplication of Method 2, applied to the leftovers.
 
 **Method 2 (same right term).**
 
@@ -487,6 +557,20 @@ That is all. No chain is formed and nothing is removed. The shared right term is
 
 **Method 3 (whole and part).** Dolz's first principle on 44a: every whole is greater than its part. If one proportion is a part of another, that is, if adding something to it gives the other (P4), the other is the greater. The _dupla_ $2:1$ is the _sesquialtera_ $3:2$ plus the _sesquitertia_ $4:3$ (P4, Example D), so both are parts of it and both are lesser.
 
+Dolz's own example on 46b: _8 ad 2, quae est quadrupla, includit 5 ad 2_ (§25).
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | terms of the _quadrupla_ ending in $2$ | the _quadrupla_ is $4:1$; multiply both terms by $2$: $4\times2=8$, $1\times2=2$ | $8:2$ |
+| 2 | terms of the _dupla sesquialtera_ ending in $2$ | $2$ goes into $5$ twice ($2+2=4$), leftover $5-4=1$, half of $2$ | $5:2$ |
+| 3 | does $5$ lie between $8$ and $2$? | $8>5>2$ | yes |
+| 4 | chain | $8$, then $5$, then $2$ | links $8:5$ and $5:2$ |
+| 5 | name the other link, $8:5$ | $5$ fits once into $8$; leftover $8-5=3$; $5$ cut into $5$ equal parts gives parts of $1$, and $3$ is three of them | $1\tfrac35$, _supertripartiens quintas_ |
+| 6 | add the two links | the right term of $8:5$ is the left term of $5:2$, so the ends are $8$ and $2$ | $8:2$ |
+| 7 | reduce | divide both terms by $2$: $8\div2=4$, $2\div2=1$ | $4:1$, the _quadrupla_ |
+| 8 | conclusion | $5:2$ is a part of $8:2$ | _quadrupla_ greater |
+| modern | | $\tfrac85\times\tfrac52=\tfrac{40}{10}$ | $4$ |
+
 **The size of the terms decides nothing (44b).** Dolz's fourth principle warns against judging a proportion by the numbers in which it happens to be found.
 
 | Proportion | Terms as found | Terms larger? | Reduced (Rule 1) | Name | Greater? |
@@ -496,7 +580,7 @@ That is all. No chain is formed and nothing is removed. The shared right term is
 
 Whatever terms are given for the _quadrupla_, larger terms can be found for the _dupla_. So the comparison must use the name, or terms rescaled to a common right term, never the raw numbers.
 
-**Value and composition agree here.** Methods 1 and 2 compare by value; Method 3 by composition. All three always pick the same proportion as greater. Value and composition differ only on how many times one proportion contains another (P6, §24).
+**Value and composition agree here.** Methods 1 and 2 compare by value; Method 3 by composition. All three always pick the same proportion as greater. Value and composition differ only on how many times one proportion contains another (P6, §24). On 46b Dolz uses both for one comparison: the _quadrupla_ is greater than the _dupla sesquialtera_ _ex denominationibus_ (Method 1) and because it contains it (Method 3).
 
 ### P8. The three proportionalities
 
@@ -572,18 +656,18 @@ Four obstacles stood in the way:
 | subtracting | remove the part from the end of the whole | $2:1-3:2=4:3$ | divide |
 | doubling, tripling | add to itself | $3:2$ doubled is $9:4$ | square, cube |
 | halving | _medium proportionale_ | half of $9:4$ is $3:2$ | square root |
-| comparing | reduce, cross-multiply, or whole and part | $3:2>4:3$; $2:1>3:2$ | compare fractions |
+| comparing | denomination, whole number first (46a–46b); cross-multiply; or whole and part | $3:2>4:3$; $2:1>3:2$; $10:3>5:2$ | compare fractions |
 | how many times | count links | $8:1$ is three _duplae_ | ratio of logarithms |
 
 ### Still to come
 
-The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles, its principles, and the general rule of greater proportion (43a–45b, §22–§24) are covered by P1, P2, and P4–P7. Dolz has promised an account of _communicatio proportionum_, overlapping proportions (43a). The prooemium (25a) further announces the excess of one proportion over another, division by proportional parts, and the rules of motion. Operations needed for them will be added here as the transcription reaches them.
+The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles, its principles, the general rule of greater proportion, and the order of the species (43a–46b, §22–§25) are covered by P1, P2, and P4–P7. Dolz has promised an account of _communicatio proportionum_, overlapping proportions (43a). The prooemium (25a) further announces the excess of one proportion over another, division by proportional parts, and the rules of motion. Operations needed for them will be added here as the transcription reaches them.
 
 ---
 
 # Preambles, proportion, and proportionality
 
-**Pages 25a–44b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals; the answers to the seven questions of page 29; the aliquot parts of the infinite, which close the first article; and the first four preambles of the second article, on the parts of a proportion; and its fifth preamble and first four principles, on the composition of proportions.
+**Pages 25a–46b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals; the answers to the seven questions of page 29; the aliquot parts of the infinite, which close the first article; and the first four preambles of the second article, on the parts of a proportion; and its fifth preamble and first four principles, on the composition of proportions; the least terms and the general rule of greater proportion; and the order of the species by size, with the opening of an argument from Dullaert.
 
 ## 1. Why the metaphysics comes first
 
@@ -1264,30 +1348,65 @@ Dolz defines _subdupla_ $2:4$ and _subsesquialtera_ $2:3$ on this page and the r
 
 The following table gives each kind, an exact species, and an expandable numerical example. Multiplying both terms by the same positive number preserves the proportion, so the examples may be adapted to integer, geometric, or musical quantities.
 
-| Direction and kind | Exact species | Example and decomposition |
+How each word of a name becomes a number, in least terms:
+
+| Word | Says | Number |
 | --- | --- | --- |
-| equality | _aequalitas_ | $4:4$ |
-| greater, simple multiplex | _dupla_ | $4:2$, since $4=2(2)$ |
-| greater, simple multiplex | _tripla_ | $6:2$, since $6=3(2)$ |
-| greater, simple superparticular | _sesquialtera_ | $3:2$, since $3=2+2/2$ |
-| greater, simple superparticular | _sesquitertia_ | $4:3$, since $4=3+3/3$ |
-| greater, simple superpartient | _superbipartiens tertias_ | $5:3$, since $5=3+2(3/3)$ |
-| greater, simple superpartient | _superbipartiens quintas_ | $7:5$, since $7=5+2(5/5)$ |
-| greater, simple superpartient | _supertripartiens quartas_ | $7:4$, since $7=4+3(4/4)$ |
-| greater, simple superpartient | _supertripartiens octavas_ | $11:8$, since $11=8+3(8/8)$ |
-| greater, composite superparticular | _dupla sesquialtera_ | $5:2$, since $5=2(2)+2/2$ |
-| greater, composite superparticular | _dupla sesquitertia_ | $7:3$, since $7=2(3)+3/3$ |
-| greater, composite superparticular | _tripla sesquialtera_ | $7:2$, since $7=3(2)+2/2$ |
-| greater, composite superpartient | _dupla superbipartiens tertias_ | $8:3$, since $8=2(3)+2(3/3)$ |
-| lesser, simple submultiple | _subdupla_ | $2:4$, the reciprocal of $4:2$ |
-| lesser, simple submultiple | _subtripla_ | $2:6$, the reciprocal of $6:2$ |
-| lesser, simple subsuperparticular | _subsesquialtera_ | $2:3$, the reciprocal of $3:2$ |
-| lesser, simple subsuperparticular | _subsesquitertia_ | $3:4$, the reciprocal of $4:3$ |
-| lesser, simple subsuperpartient | _subsuperbipartiens tertias_ | $3:5$, the reciprocal of $5:3$ |
-| lesser, simple subsuperpartient | _subsupertripartiens quartas_ | $4:7$, the reciprocal of $7:4$ |
-| lesser, composite subsuperparticular | _subdupla sesquialtera_ | $2:5$, the reciprocal of $5:2$ |
-| lesser, composite subsuperparticular | _subdupla sesquitertia_ | $3:7$, the reciprocal of $7:3$ |
-| lesser, composite subsuperpartient | _subdupla superbipartiens tertias_ | $3:8$, the reciprocal of $8:3$ |
+| kind of part: _altera_, _tertia(s)_, _quarta(s)_ … | the lesser term is cut into that many parts; in least terms the lesser term is that number, so each part is $1$ | lesser term $2$, $3$, $4$ … |
+| multiple: _dupla_, _tripla_ … or no word | the lesser term is taken that many times; no word means once | $2\times$, $3\times$ … or $1\times$ the lesser |
+| _sesqui-_ | over that, one part | $+1$ |
+| _super-_ … _-partiens_, with _bi-_, _tri-_ … | over that, that many parts | $+2$, $+3$ … |
+
+| Direction and kind | Exact species | Example | Word by word |
+| --- | --- | --- | --- |
+| equality | _aequalitas_ | $4:4$ | both terms the same |
+| greater, simple multiplex | _dupla_ | $4:2$ | _dupla_: $2\times2=4$ |
+| greater, simple multiplex | _tripla_ | $6:2$ | _tripla_: $3\times2=6$ |
+| greater, simple superparticular | _sesquialtera_ | $3:2$ | _altera_: lesser $2$; no multiple: $2$ once; _sesqui-_: $+1$; $2+1=3$ |
+| greater, simple superparticular | _sesquitertia_ | $4:3$ | _tertia_: lesser $3$; no multiple: $3$ once; _sesqui-_: $+1$; $3+1=4$ |
+| greater, simple superpartient | _superbipartiens tertias_ | $5:3$ | _tertias_: lesser $3$; no multiple: $3$ once; _super-bi-_: $+2$; $3+2=5$ |
+| greater, simple superpartient | _superbipartiens quintas_ | $7:5$ | _quintas_: lesser $5$; no multiple: $5$ once; _super-bi-_: $+2$; $5+2=7$ |
+| greater, simple superpartient | _supertripartiens quartas_ | $7:4$ | _quartas_: lesser $4$; no multiple: $4$ once; _super-tri-_: $+3$; $4+3=7$ |
+| greater, simple superpartient | _supertripartiens octavas_ | $11:8$ | _octavas_: lesser $8$; no multiple: $8$ once; _super-tri-_: $+3$; $8+3=11$ |
+| greater, composite superparticular | _dupla sesquialtera_ | $5:2$ | _altera_: lesser $2$; _dupla_: $2\times2=4$; _sesqui-_: $+1$; $4+1=5$ |
+| greater, composite superparticular | _dupla sesquitertia_ | $7:3$ | _tertia_: lesser $3$; _dupla_: $2\times3=6$; _sesqui-_: $+1$; $6+1=7$ |
+| greater, composite superparticular | _tripla sesquialtera_ | $7:2$ | _altera_: lesser $2$; _tripla_: $3\times2=6$; _sesqui-_: $+1$; $6+1=7$ |
+| greater, composite superpartient | _dupla superbipartiens tertias_ | $8:3$ | _tertias_: lesser $3$; _dupla_: $2\times3=6$; _super-bi-_: $+2$; $6+2=8$ |
+| lesser, simple submultiple | _subdupla_ | $2:4$ | reverse _dupla_ $4:2$, add _sub-_ |
+| lesser, simple submultiple | _subtripla_ | $2:6$ | reverse _tripla_ $6:2$, add _sub-_ |
+| lesser, simple subsuperparticular | _subsesquialtera_ | $2:3$ | reverse _sesquialtera_ $3:2$, add _sub-_ |
+| lesser, simple subsuperparticular | _subsesquitertia_ | $3:4$ | reverse _sesquitertia_ $4:3$, add _sub-_ |
+| lesser, simple subsuperpartient | _subsuperbipartiens tertias_ | $3:5$ | reverse _superbipartiens tertias_ $5:3$, add _sub-_ |
+| lesser, simple subsuperpartient | _subsupertripartiens quartas_ | $4:7$ | reverse _supertripartiens quartas_ $7:4$, add _sub-_ |
+| lesser, composite subsuperparticular | _subdupla sesquialtera_ | $2:5$ | reverse _dupla sesquialtera_ $5:2$, add _sub-_ |
+| lesser, composite subsuperparticular | _subdupla sesquitertia_ | $3:7$ | reverse _dupla sesquitertia_ $7:3$, add _sub-_ |
+| lesser, composite subsuperpartient | _subdupla superbipartiens tertias_ | $3:8$ | reverse _dupla superbipartiens tertias_ $8:3$, add _sub-_ |
+
+**Reading a name as numbers, _supertripartiens quartas_.**
+
+| Step | Word | What it says | Number |
+| --- | --- | --- | --- |
+| 1 | _quartas_ | the parts are fourths; in least terms the lesser term is $4$ | lesser term $4$ |
+| 2 | no multiple | no _dupla_ or _tripla_ in front, so the lesser is taken once: $1\times4$ | $4$ |
+| 3 | _super-_ | "over": what follows is added on top of step 2 | $+$ |
+| 4 | _tri-_ … _-partiens_ | three parts; one fourth of $4$ is $4\div4=1$, so three fourths are $3\times1$ | $3$ |
+| 5 | greater term | steps 2 to 4: $4+3$ | $7$ |
+| 6 | proportion | greater term to lesser term | $7:4$ |
+
+In least terms one part is always $1$, so the parts add as a plain count: $7=4+3$. The size of a part matters only when the terms are multiplied up. In $14:8$, the same proportion, one fourth of $8$ is $8\div4=2$, so three fourths are $3\times2=6$, and $8+6=14$.
+
+**The same reading with a multiple, _dupla superbipartiens tertias_.** _Super-_ stays in the name; only the count of whole times changes.
+
+| Step | Word | What it says | Number |
+| --- | --- | --- | --- |
+| 1 | _tertias_ | the parts are thirds; in least terms the lesser term is $3$ | lesser term $3$ |
+| 2 | _dupla_ | the lesser is taken twice: $2\times3$ | $6$ |
+| 3 | _super-_ | "over": what follows is added on top of step 2 | $+$ |
+| 4 | _bi-_ … _-partiens_ | two parts; one third of $3$ is $3\div3=1$, so two thirds are $2\times1$ | $2$ |
+| 5 | greater term | steps 2 to 4: $6+2$ | $8$ |
+| 6 | proportion | greater term to lesser term | $8:3$ |
+
+_Sesqui-_ works the same way with a single part: _dupla sesquialtera_ is halves, lesser $2$; _dupla_, $2\times2=4$; _sesqui-_, $+1$; $4+1=5$; proportion $5:2$.
 
 Two practical rules prevent most misclassifications. First divide the greater by the lesser to obtain the integer count and remainder; then reduce the fractional remainder before naming it. Finally preserve direction: $3:2$ is sesquialteral, whereas $2:3$ is subsesquialteral. This vocabulary is especially reusable in musical arithmetic, where $3:2$ and $4:3$ are the standard ratios of the fifth and fourth, but Dolz's classification itself applies to any comparable quantities. Dolz gives these intervals himself on 40b (§19).
 
@@ -1310,7 +1429,7 @@ The restriction $\gcd(k,n)=1$ expresses the classification after reduction. If $
 
 ### Completion of lesser inequality
 
-Page 33 completes the reciprocal definitions: _subsuperpartiens_, _submultiplex superparticularis_, and _submultiplex superpartiens_, with $2:5$ for _subdupla sesquialtera_ and $3:8$ for _subdupla superbipartiens tertias_, the reciprocals of $5:2$ and $8:3$. The print gives $2:5$ also for _subsuperbipartiens tertias_; the transcription emends to $3:5$, the reciprocal of $5:3=3+2(3/3)$. The printed $2:5$ probably anticipates the next example.
+Page 33 completes the reciprocal definitions: _subsuperpartiens_, _submultiplex superparticularis_, and _submultiplex superpartiens_, with $2:5$ for _subdupla sesquialtera_ and $3:8$ for _subdupla superbipartiens tertias_, the reciprocals of $5:2$ and $8:3$. The print gives $2:5$ also for _subsuperbipartiens tertias_; the transcription emends to $3:5$, the reciprocal of $5:3$, where $5=3+2$. The printed $2:5$ probably anticipates the next example.
 
 Dolz also closes one branch completely: equality has no species **as equality**. Equal things can differ in species as things, but that belongs to the nature of the relata, not to the proportion of equality itself.
 
@@ -1933,7 +2052,7 @@ In continuous proportionality the links must be similar; in addition they need n
 
 The name of a composite species adds an integer count and a fraction; adding two proportions multiplies them.
 
-The second alternative in Dolz's definition, _vel illam a qua subtrahi debet annihilari_, is obscure. One possible reading: subtracting a proportion from an equal one annihilates it and leaves equality, _sicut in quantitatibus_, as subtracting a quantity from an equal quantity leaves nothing. This is our guess (§26).
+The second alternative in Dolz's definition, _vel illam a qua subtrahi debet annihilari_, is obscure. One possible reading: subtracting a proportion from an equal one annihilates it and leaves equality, _sicut in quantitatibus_, as subtracting a quantity from an equal quantity leaves nothing. This is our guess (§27).
 
 The _continuatio_ of two dissimilar proportions through a shared term may bear on the _communicatio proportionum_ promised on 34b (§13), but Dolz does not connect them.
 
@@ -2074,7 +2193,7 @@ Why call the limma a semitone if it is not half a tone? _Semitonium_ should be r
 
 Cents also show the addition of 40a at work: compounding proportions **adds** cents. Fifth plus fourth is $701.96+498.04=1200$, the octave; fifth minus fourth is $701.96-498.04=203.91$, the tone. This is the logarithmic scale on which, as noted above, adding proportions becomes ordinary addition.
 
-Composite consonances are made from the simple ones, such as _bis diapason_, two octaves, $2\cdot2=4:1$. Dolz remarks that two octaves are rarely found in a human voice, _nisi rediret quid de quo loquitur Aristoteles septimo Politicorum capite quarto_. The phrase is corrupt. In _Politics_ VII.4 (1326b) Aristotle asks who could be herald to an excessively large multitude unless he had the voice of Stentor. The sense may be "unless Stentor, of whom Aristotle speaks, came back". This is a conjecture (§26). The passage itself is confirmed: in _Politics_ VII.4, beside Bekker page 1326b, Aristotle asks who could command an unwieldy multitude, "or who could be their herald but a Stentor?" (Ellis's translation, Project Gutenberg). Dolz's _septimo Politicorum capite quarto_ matches this chapter.
+Composite consonances are made from the simple ones, such as _bis diapason_, two octaves, $2\cdot2=4:1$. Dolz remarks that two octaves are rarely found in a human voice, _nisi rediret quid de quo loquitur Aristoteles septimo Politicorum capite quarto_. The phrase is corrupt. In _Politics_ VII.4 (1326b) Aristotle asks who could be herald to an excessively large multitude unless he had the voice of Stentor. The sense may be "unless Stentor, of whom Aristotle speaks, came back". This is a conjecture (§27). The passage itself is confirmed: in _Politics_ VII.4, beside Bekker page 1326b, Aristotle asks who could command an unwieldy multitude, "or who could be their herald but a Stentor?" (Ellis's translation, Project Gutenberg). Dolz's _septimo Politicorum capite quarto_ matches this chapter.
 
 Dolz justifies the digression by pedagogy: he adds these terms _non quia multum pertinentia philosophiae, sed ad minus ut calleas terminos_, not because they matter much to philosophy, but at least so that the student knows the terms. This matches the program of the introduction: only as much mathematics as philosophy requires, plus the vocabulary needed to read other authors.
 
@@ -2215,7 +2334,7 @@ A final objection: degree $4$ is intense and degree $2$ remiss, they are in a pr
 | as intension against remission | no |
 | as containing degrees (_in ratione continentiae gradus_) | yes, $4:2$ |
 
-The proportion rests on the degrees contained, not on intensity and remissness as opposed qualities. This agrees with page 30, which admitted comparison _quoad intensionem_ as a multitude of degrees (§9). The following sentence, that it does not follow _quod intensionis ad intensionem et remissionis ad remissionem sit proportio_, is hard to square with page 30 and is noted in §26. Dolz defers the matter to philosophy.
+The proportion rests on the degrees contained, not on intensity and remissness as opposed qualities. This agrees with page 30, which admitted comparison _quoad intensionem_ as a multitude of degrees (§9). The following sentence, that it does not follow _quod intensionis ad intensionem et remissionis ad remissionem sit proportio_, is hard to square with page 30 and is noted in §27. Dolz defers the matter to philosophy.
 
 ### Ad quartam: line, surface, and body
 
@@ -2302,7 +2421,7 @@ Greaterness, however, is posited both of infinite to finite and of infinite to i
 
 Dolz draws the general rule: _non oportet quod a qualibet maioritate abstrahatur proportio_, not every greaterness yields a proportion. This states generally the consequence denied on 38b. To say otherwise one would have to _mathematicos exire et satis extranee loqui_, leave the mathematicians and speak very strangely. Page 39a had said that Dolz does not oppose the mathematicians (§18).
 
-The print says that greaterness of infinite to finite and infinite to infinite is _iam proprie dicta_. This conflicts with 39a, where one infinite is greater than another only improperly, and with the next sentence, _maioritas improprie dicta inter unum infinitum et aliud infinitum_. _Iam … dictam_ ("already spoken of") points back to 39a, so the transcription adopts _improprie_ as a conjecture (§26).
+The print says that greaterness of infinite to finite and infinite to infinite is _iam proprie dicta_. This conflicts with 39a, where one infinite is greater than another only improperly, and with the next sentence, _maioritas improprie dicta inter unum infinitum et aliud infinitum_. _Iam … dictam_ ("already spoken of") points back to 39a, so the transcription adopts _improprie_ as a conjecture (§27).
 
 ### Does the infinite have an aliquot part?
 
@@ -2379,7 +2498,7 @@ The prooemium (25a) had announced that the second article _maioritatem, aequalit
 
 Even if proportion were an indivisible respect, the Realist accident of 42a, geometry attributes composition to it. The composition is improper, _quia indivisibile proprie non componitur_, as was said of number in the first article (preambles 2–4, §1). So proportions have parts and can be divided, and among them there is equality and inequality.
 
-This supports the conjecture that the printed _compositio divisionis_ of 42b means _compositio \[et\] divisio_, composition and division (§26). Preamble 5 on 44a says it outright: _constat compositio cum divisione proportionum_ (§23).
+This supports the conjecture that the printed _compositio divisionis_ of 42b means _compositio \[et\] divisio_, composition and division (§27). Preamble 5 on 44a says it outright: _constat compositio cum divisione proportionum_ (§23).
 
 ### Preamble 2: the parts of $8:4$
 
@@ -2415,7 +2534,7 @@ $6$ is the _medium rei_ of $8$ and $4$, but not proportional: $8:6$ is _sesquite
 
 Hence the half of $8:4$ is neither $8:6$ nor $6:4$, although $6$ is equidistant. Every half must be _subdupla_ to its whole, and _sesquitertia_ is not _subdupla_ to _dupla_; the proof is promised (_ut patebit_) and follows from the third principle on 44b (§23). The half of $8:2$ is $8:4$.
 
-In modern terms the _medium rei_ is the arithmetic mean, $\tfrac{a+b}2$, and the _medium proportionale_ the geometric mean, $\sqrt{ab}$. Aristotle's mean of the thing and mean relative to us is _Ethics_ II.6 (1106a26–b7). The citation of Biel is printed _xiii. dsti. tertii. ſniaꝝ_, that is, _decima tertia distinctione tertii Sententiarum_ (book III, d. 13). Distinction 13 treats the grace of Christ, so _xiii_ may be a misprint for _xxxiii_, where Peter Lombard treats the cardinal virtues and the mean of virtue belongs (unchecked, §26).
+In modern terms the _medium rei_ is the arithmetic mean, $\tfrac{a+b}2$, and the _medium proportionale_ the geometric mean, $\sqrt{ab}$. Aristotle's mean of the thing and mean relative to us is _Ethics_ II.6 (1106a26–b7). The citation of Biel is printed _xiii. dsti. tertii. ſniaꝝ_, that is, _decima tertia distinctione tertii Sententiarum_ (book III, d. 13). Distinction 13 treats the grace of Christ, so _xiii_ may be a misprint for _xxxiii_, where Peter Lombard treats the cardinal virtues and the mean of virtue belongs (unchecked, §27).
 
 The preamble ends: as a proportion is part of a proportion, so it is an aliquot part. But no proportion is an aliquot part of every proportion, nor even of every proportion other than itself.
 
@@ -2480,7 +2599,7 @@ Little here is new to a reader of pages 30–33. Dolz ties each species name to 
 
 ### The least terms
 
-Dolz declines the escape left open on 44b, that a proportion is denominated in many ways but greaterness is not taken from every denomination. That would not agree with the mathematicians. Instead (printed _quintum praeambulum_, §26):
+Dolz declines the escape left open on 44b, that a proportion is denominated in many ways but greaterness is not taken from every denomination. That would not agree with the mathematicians. Instead (printed _quintum praeambulum_, §27):
 
 > Denominatio proportionis sumenda venit a minimis terminis eiusdem.
 
@@ -2521,7 +2640,7 @@ In every row the least terms are "greater ÷ lesser" to "lesser ÷ lesser", and 
 | lesser inequality | $1$ to $2$, $1$ to $1\tfrac12$ | the same, compared lesser to greater; no list needed | 45b |
 | equality | any equal terms | indifferently | 45b |
 
-This is the taxonomy of §9–§11, now with one number per species. The printed _tripla sesquitertia_ for $3\tfrac12$ is corrected in the transcription to _sesquialtera_ (§26).
+This is the taxonomy of §9–§11, now with one number per species. The printed _tripla sesquitertia_ for $3\tfrac12$ is corrected in the transcription to _sesquialtera_ (§27).
 
 ### The general rule
 
@@ -2536,9 +2655,9 @@ This is the taxonomy of §9–§11, now with one number per species. The printed
 | proposition 2 | ascending through the _multiplex_ species, the proportion grows | _quadrupla_ $>$ _tripla_ $>$ _dupla_; the least _multiplex_, $2$, exceeds the greatest _superparticularis_, $1\tfrac12$ |
 | proposition 3 | ascending through the _superparticularis_ species, the proportion shrinks | _sesquialtera_ $>$ _sesquitertia_ $>$ _sesquiquarta_, as $\tfrac12>\tfrac13>\tfrac14$ |
 
-Proposition 3 breaks off at 46a.
+Proposition 3 runs on to 46a, where Dolz adds four more (§25).
 
-**How to compare two denominations.** First compare the whole numbers; if they are equal, compare the leftovers.
+**How to compare two denominations.** First compare the whole numbers; if they are equal, compare the leftovers. This was our reconstruction from 45b; Dolz states the order himself on 46a–46b, in propositions 5 and 6 (§25).
 
 | First | Second | Denominations | Whole numbers | Leftovers | Greater |
 | --- | --- | --- | --- | --- | --- |
@@ -2546,18 +2665,223 @@ Proposition 3 breaks off at 46a.
 | $3:2$ | $4:3$ | $1\tfrac12$ and $1\tfrac13$ | equal, $1$ | a half against a third | $3:2$ |
 | $4:3$ | $5:4$ | $1\tfrac13$ and $1\tfrac14$ | equal, $1$ | a third against a fourth | $4:3$ |
 
-A half is more than a third, and a third more than a fourth, because the same unity is cut into fewer pieces. This is proposition 3: going up the series _sesquialtera_, _sesquitertia_, _sesquiquarta_, the leftover shrinks and so does the proportion. Leftovers that are not single parts, such as $\tfrac34$ against $\tfrac23$, are compared as in P7, Method 2.
+A half is more than a third, and a third more than a fourth, because the same unity is cut into fewer pieces. This is proposition 3: going up the series _sesquialtera_, _sesquitertia_, _sesquiquarta_, the leftover shrinks and so does the proportion. Leftovers that are not single parts, such as $\tfrac34$ against $\tfrac23$, are compared as in P7, Method 2. On 46a Dolz admits that the names alone do not settle such cases (§25).
 
 Four observations of ours:
 
 - **Least terms are not lowest whole-number terms.** §23 and the Primer took "lowest form" as the reduced pair of whole numbers, $3:2$. Dolz instead puts the lesser term at unity, $1\tfrac12$ to $1$. Both give the same name, but Dolz's form makes the denomination a single number, the mixed number we write as the value $A\div B$. The mixed numbers of P2 are therefore his own, not a modern addition (P1, P2 corrected). The first corollary, that the least terms are those least in that proportion, holds because unity is not divided into a term. For example, $\tfrac34$ to $\tfrac12$ is also _sesquialtera_: $\tfrac12$ goes into $\tfrac34$ once, and the leftover $\tfrac14$ is half of $\tfrac12$. Its terms are smaller than $1\tfrac12$ and $1$, but it is excluded, because the lesser term must be unity itself, not a part of it.
-- **Value for order, composition for counting.** The denomination is the value, so 45b compares proportions by value, while 43b–44b measured them by composition (§22, §23). There is no conflict. Of two proportions of greater inequality, the one with the greater value always contains the other as a part plus something more (P7, Method 3), so the two measures agree on which is greater. They differ only on how many times one contains the other: by value $8:1$ is four times $2:1$, by composition three times (§20). Principle 3 (44b) is a claim about how many times; the rule of 45b only about which is greater.
-- **Lesser inequality is left open.** The rule is stated without restriction, but its propositions concern greater inequality only. Dolz does not say whether _subdupla_ or _subtripla_ is the greater.
-- **Equality.** Its denomination does not matter _quia eius species nec aequales nec inaequales reperiuntur_. The sense is perhaps that equality has no species differing in size, so there is nothing to compare; as printed, the clause is odd (§26).
+- **Value for order, composition for counting.** The denomination is the value, so 45b compares proportions by value, while 43b–44b measured them by composition (§22, §23). There is no conflict. Of two proportions of greater inequality, the one with the greater value always contains the other as a part plus something more (P7, Method 3), so the two measures agree on which is greater. They differ only on how many times one contains the other: by value $8:1$ is four times $2:1$, by composition three times (§20). Principle 3 (44b) is a claim about how many times; the rule of 45b only about which is greater. Page 46b confirms the agreement: Dolz proves the _quadrupla_ greater than the _dupla sesquialtera_ both _ex denominationibus_ and because $8:2$ contains $5:2$ as a part (§25).
+- **Lesser inequality is left open.** The rule is stated without restriction, but its propositions concern greater inequality only. Dolz does not say whether _subdupla_ or _subtripla_ is the greater. The propositions of 46a–46b do not say either (§25).
+- **Equality.** Its denomination does not matter _quia eius species nec aequales nec inaequales reperiuntur_. The sense is perhaps that equality has no species differing in size, so there is nothing to compare; as printed, the clause is odd (§27).
 
 ---
 
-## 25. Summary of the doctrine
+## 25. The order of the species, and an argument from Dullaert (46a–46b)
+
+Page 46 completes the general rule of 45b. Dolz states four more propositions on how the species are ordered by size, gives up a planned examination of the geometrical principles for lack of time, and opens an argument from Dullaert's treatment of the whole. Every comparison on the page is read off the denominations of 45a (§24).
+
+### The seven propositions
+
+| Proposition | Page | Family | Claim | Dolz's example | Denominations |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 45b | any | the same species are equal | _dupla_ $8:4$ and $2:1$ | $2$ and $2$ |
+| 2 | 45b | _multiplex_ | ascending, the proportion grows | _quadrupla_ $>$ _tripla_ $>$ _dupla_ | $4>3>2$ |
+| 3 | 45b–46a | _superparticularis_ | ascending, the proportion shrinks | _sesquialtera_ $>$ _sesquitertia_ $>$ _sesquiquarta_ | $1\tfrac12>1\tfrac13>1\tfrac14$ |
+| 4 | 46a | _superpartiens_, same number of parts | ascending through the kind of part, the proportion shrinks | _superbipartiens tertias_ $>$ _quintas_ $>$ _septimas_; _supertripartiens quartas_ $>$ _quintas_ | $1\tfrac23>1\tfrac25>1\tfrac27$; $1\tfrac34>1\tfrac35$ |
+| 5 | 46a | _multiplex superparticularis_ | same multiple: shrinks as the part shrinks; greater multiple: always greater | _dupla sesquialtera_ $>$ _dupla sesquitertia_; _tripla sesquitertia_ $>$ _dupla sesquialtera_ | $2\tfrac12>2\tfrac13$; $3\tfrac13>2\tfrac12$ |
+| 6 | 46a–46b | _multiplex superpartiens_ | as proposition 5 | _dupla superbipartiens tertias_ $>$ _dupla superbipartiens quintas_; every _tripla_ superpartiens $>$ every _dupla_ superpartiens | $2\tfrac23>2\tfrac25$; $3$ and a leftover $>$ $2$ and a leftover |
+| 7 | 46b | across families | some families are ordered, some are not | _quadrupla_ $>$ _dupla sesquialtera_ | $4>2\tfrac12$ |
+
+Propositions 3–6 repeat one pattern: the same whole number, a shrinking leftover. Propositions 5 and 6 add the other half of the method of §24: a greater whole number wins whatever the leftover.
+
+### Proposition 4: the same number of parts
+
+Dolz's reason is _duae tertiae duabus quintis eiusdem totius_ [_maiores_]: two thirds are more than two fifths **of the same whole**. The whole is the unity of the least terms (45a, §24). Every leftover is a part of the same $1$, which is why leftovers can be compared at all.
+
+**Worked example, $\tfrac23$ against $\tfrac25$.**
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | how many whole times does $3$ go into $5$? | $3$ fits once; $3+3=6$ is too much | once |
+| 2 | leftover of $5:3$ | $5-3$ | $2$ |
+| 3 | what part of the lesser term $3$ is the leftover? | $3$ cut into $3$ equal parts gives parts of $1$; the leftover $2$ is two of them | $\tfrac23$ |
+| 4 | how many whole times does $5$ go into $7$? | $5$ fits once; $5+5=10$ is too much | once |
+| 5 | leftover of $7:5$ | $7-5$ | $2$ |
+| 6 | what part of the lesser term $5$ is the leftover? | $5$ cut into $5$ equal parts gives parts of $1$; the leftover $2$ is two of them | $\tfrac25$ |
+| 7 | of what whole are both leftovers parts? | divide both terms by the lesser: $5:3$ becomes $1\tfrac23$ to $1$, $7:5$ becomes $1\tfrac25$ to $1$ | the same unity, $1$ |
+| 8 | least common multiple of $3$ and $5$ (P7): into how many units to cut that unity so that thirds and fifths both come out whole? | $3$ and $5$ share no factor, so multiply: $3\times5$ | $15$ units |
+| 9 | the leftover $\tfrac23$ in units | one third is $15\div3=5$ units; take $2$ of them: $2\times5$ | $10$ units |
+| 10 | the leftover $\tfrac25$ in units | one fifth is $15\div5=3$ units; take $2$ of them: $2\times3$ | $6$ units |
+| 11 | compare the leftovers | $10$ units against $6$ units | two thirds larger |
+| 12 | how many times does $6$ go into $10$? | $6$ fits once; $6+6=12$ is too much; leftover $10-6=4$, four sixths of $6$, which reduce to two thirds | $1\tfrac23$ times |
+| 13 | greater proportion | | _superbipartiens tertias_ $5:3$ |
+
+Shortcut. In steps 9 and 10, one part of each kind is always as many units as the other kind ($15\div3=5$, $15\div5=3$). So the two counts are: parts in the first leftover times the kind of the second, $2\times5=10$; parts in the second leftover times the kind of the first, $2\times3=6$.
+
+**The series skips.** Dolz's _superbipartiens_ series runs _tertias, quintas, septimas_, with no fourths or sixths:
+
+| Kind of part | Two such parts | Reduced | Name of the proportion | In Dolz's series? |
+| --- | --- | --- | --- | --- |
+| thirds | $\tfrac23$ | $\tfrac23$ | _superbipartiens tertias_, $5:3$ | yes |
+| fourths | $\tfrac24$ | $\tfrac12$ | _sesquialtera_, $3:2$ | no |
+| fifths | $\tfrac25$ | $\tfrac25$ | _superbipartiens quintas_, $7:5$ | yes |
+| sixths | $\tfrac26$ | $\tfrac13$ | _sesquitertia_, $4:3$ | no |
+| sevenths | $\tfrac27$ | $\tfrac27$ | _superbipartiens septimas_, $9:7$ | yes |
+
+Two fourths make one aliquot part, the half, so the proportion is superparticular; the same for two sixths. This is the rule of 32a (§11). The _superbipartiens_ series therefore uses odd kinds of part only, and the _supertripartiens_ series skips sixths, ninths, and every other multiple of three. Dolz's _et sic consequenter_ has to be read with that rule.
+
+### The number of parts decides nothing
+
+Without that order the name does not tell which _superpartiens_ is greater: _aliqua superbipartiens aliqua supertripartiente est maior et aliqua minor_. The print has _superpartiens_ for the first; the examples require _superbipartiens_ (§27). Two parts can outweigh three, or not. Both leftovers are parts of the same unity, so cut that unity into small units in which both kinds of part come out whole, and count.
+
+**Dolz's first example, _superbipartiens tertias_ $5:3$ against _supertripartiens tredecimas_ $16:13$.**
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | how many whole times does $3$ go into $5$? | $3$ fits once; $3+3=6$ is too much | once |
+| 2 | leftover of $5:3$ | $5-3$ | $2$ |
+| 3 | what part of the lesser term $3$ is the leftover? | $3$ cut into $3$ equal parts gives parts of $1$; the leftover $2$ is two of them | $\tfrac23$ |
+| 4 | how many whole times does $13$ go into $16$? | $13$ fits once; $13+13=26$ is too much | once |
+| 5 | leftover of $16:13$ | $16-13$ | $3$ |
+| 6 | what part of the lesser term $13$ is the leftover? | $13$ cut into $13$ equal parts gives parts of $1$; the leftover $3$ is three of them | $\tfrac3{13}$ |
+| 7 | the whole numbers | both once | equal, so the leftovers decide |
+| 8 | least common multiple of $3$ and $13$ (P7): into how many units to cut unity so that thirds and thirteenths both come out whole? | $3$ and $13$ share no factor, so multiply: $3\times13$ | $39$ units |
+| 9 | the leftover $\tfrac23$ in units | one third is $39\div3=13$ units; take $2$ of them: $2\times13$ | $26$ units |
+| 10 | the leftover $\tfrac3{13}$ in units | one thirteenth is $39\div13=3$ units; take $3$ of them: $3\times3$ | $9$ units |
+| 11 | compare the leftovers | $26$ units against $9$ units | two thirds larger |
+| 12 | how many times does $9$ go into $26$? | $9+9=18$; one more $9$ would make $27$, too much; leftover $26-18=8$, eight ninths of $9$ | $2\tfrac89$ times, just short of $3$ |
+| 13 | greater proportion | | _superbipartiens tertias_ $5:3$, as Dolz says |
+
+Here two parts beat three, because thirds are much bigger pieces than thirteenths: one third is $13$ units, one thirteenth only $3$.
+
+**Dolz's second example, _superbipartiens undecimas_ $13:11$ against _supertripartiens quartas_ $7:4$.**
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | how many whole times does $11$ go into $13$? | $11$ fits once; $11+11=22$ is too much | once |
+| 2 | leftover of $13:11$ | $13-11$ | $2$ |
+| 3 | what part of the lesser term $11$ is the leftover? | $11$ cut into $11$ equal parts gives parts of $1$; the leftover $2$ is two of them | $\tfrac2{11}$ |
+| 4 | how many whole times does $4$ go into $7$? | $4$ fits once; $4+4=8$ is too much | once |
+| 5 | leftover of $7:4$ | $7-4$ | $3$ |
+| 6 | what part of the lesser term $4$ is the leftover? | $4$ cut into $4$ equal parts gives parts of $1$; the leftover $3$ is three of them | $\tfrac34$ |
+| 7 | the whole numbers | both once | equal, so the leftovers decide |
+| 8 | least common multiple of $11$ and $4$ (P7): into how many units to cut unity so that elevenths and fourths both come out whole? | $11$ and $4$ share no factor, so multiply: $11\times4$ | $44$ units |
+| 9 | the leftover $\tfrac2{11}$ in units | one eleventh is $44\div11=4$ units; take $2$ of them: $2\times4$ | $8$ units |
+| 10 | the leftover $\tfrac34$ in units | one fourth is $44\div4=11$ units; take $3$ of them: $3\times11$ | $33$ units |
+| 11 | compare the leftovers | $8$ units against $33$ units | three fourths larger |
+| 12 | how many times does $8$ go into $33$? | $8+8+8+8=32$; one more $8$ would make $40$, too much; leftover $33-32=1$, one eighth of $8$ | $4\tfrac18$ times |
+| 13 | greater proportion | | _supertripartiens quartas_ $7:4$, as Dolz says |
+
+Here three parts beat two, because fourths are bigger pieces than elevenths: one fourth is $11$ units, one eleventh only $4$.
+
+Three parts can be smaller than two, if they are parts of a finer cut. So, Dolz says, _ut prius, via doctrinae procedendum est_: compare within an ordered series, or fall back on the general rule. He gives no procedure for leftovers that differ both in the number and in the kind of parts; counting units, as in the two tables above, supplies one.
+
+### Whole number first
+
+Propositions 5 and 6 add that a greater multiple wins whatever the leftover. _Tripla sesquialtera_ exceeds every _dupla sesquialtera_ or _sesquitertia_; _tripla sesquitertia_ exceeds _dupla sesquialtera_; _tripla cuiuscumque denominationis superpartientis maior est dupla cuiuscumque_.
+
+**Worked example, _tripla sesquitertia_ $10:3$ against _dupla sesquialtera_ $5:2$.** The smallest leftover of the first against the largest superparticular leftover of the second.
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | how many whole times does $3$ go into $10$? | $3+3+3=9$; one more $3$ would make $12$, too much | $3$ times |
+| 2 | leftover of $10:3$ | $10-9$ | $1$ |
+| 3 | what part of the lesser term $3$ is the leftover? | $3$ cut into $3$ equal parts gives parts of $1$; the leftover $1$ is one of them | $\tfrac13$ |
+| 4 | denomination of $10:3$ | steps 1 and 3 together | $3\tfrac13$ |
+| 5 | how many whole times does $2$ go into $5$? | $2+2=4$; one more $2$ would make $6$, too much | $2$ times |
+| 6 | leftover of $5:2$ | $5-4$ | $1$ |
+| 7 | what part of the lesser term $2$ is the leftover? | $2$ cut into $2$ equal parts gives parts of $1$; the leftover $1$ is one of them, the half | $\tfrac12$ |
+| 8 | denomination of $5:2$ | steps 5 and 7 together | $2\tfrac12$ |
+| 9 | compare the whole numbers | $3$ against $2$ | $3$ larger |
+| 10 | how much would $2\tfrac12$ need to reach $3$? | $3-2=1$, so a leftover of a whole $1$ | a whole unity |
+| 11 | does its leftover reach that? | $\tfrac12$ is less than $1$; every leftover is less than $1$ | no, $2\tfrac12$ stays below $3$ |
+| 12 | greater | | _tripla sesquitertia_ |
+
+Step 11 always holds because of a restriction made on 31a–32a (§10, §11): the added parts must be fewer than make a whole ($k<n$), for otherwise the count of whole times goes up by one. Dolz's rejection of "three halves" as a leftover is what makes the whole-number-first rule safe.
+
+This confirms the method set out under _How to compare two denominations_ in §24. There it was our reconstruction from the rule of 45b; here it is Dolz's own statement.
+
+### Proposition 7: across families
+
+| Families compared | Whole numbers of the denominations | Verdict | Dolz |
+| --- | --- | --- | --- |
+| _multiplex_ against _superparticularis_ | $2$ or more against $1$ | _multiplex_ always greater | 46b, _constat ex denominationibus_ |
+| _multiplex superparticularis_ against _superparticularis_ | $2$ or more against $1$ | the first always greater | 46b, _nec dabis in hoc falsam descendentem_ |
+| _multiplex superparticularis_ against _multiplex_ | may be equal | greater than its own multiple, less than any higher one | 46b: _dupla sesquialtera_ $>$ _dupla_, $<$ _quadrupla_ |
+| _superpartiens_ against _superparticularis_ | both $1$ | neither family always greater: $1\tfrac23>1\tfrac12$, but $1\tfrac27<1\tfrac12$ | not stated |
+| _multiplex_ or _multiplex superpartiens_ against _superpartiens_ | $2$ or more against $1$ | the first always greater | not stated; follows |
+
+The rule behind the table, ours: when the whole numbers of two families can never coincide, the family with the greater whole number is always greater. When they can coincide, neither is always greater.
+
+_Nec dabis in hoc falsam descendentem_ uses the word of 39b, _quaelibet descendens est vera_ (§18). A _descendens_ is a singular reached by descent under a distributed term. So: take any _multiplex superparticularis_ and any _superparticularis_, and the singular comparison is true. _Patet inductive de omnibus_ in the previous sentence is the same method: the universal is shown through its singulars.
+
+### The _quadrupla_ contains the _dupla sesquialtera_
+
+Dolz gives a second proof that the _quadrupla_ is greater: _est eius pars: 8 ad 2, quae est quadrupla, includit 5 ad 2, quae est dupla sesquialtera_. This is the first principle (44a, §23), whole greater than its part, applied to the parts of a proportion as defined in preamble 2 (43a, §22).
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | terms of the _quadrupla_ ending in $2$ | the _quadrupla_ is $4:1$; multiply both terms by $2$: $4\times2=8$, $1\times2=2$ | $8:2$ |
+| 2 | terms of the _dupla sesquialtera_ ending in $2$ | $2$ goes into $5$ twice ($2+2=4$), leftover $5-4=1$, half of $2$ | $5:2$ |
+| 3 | does $5$ lie between $8$ and $2$? | $8>5>2$ | yes |
+| 4 | chain | $8$, then $5$, then $2$ | links $8:5$ and $5:2$ |
+| 5 | name the other link, $8:5$ | $5$ fits once into $8$; leftover $8-5=3$; $5$ cut into $5$ equal parts gives parts of $1$, and $3$ is three of them | $1\tfrac35$, _supertripartiens quintas_ |
+| 6 | add the two links | the right term of $8:5$ is the left term of $5:2$, so the ends are $8$ and $2$ | $8:2$ |
+| 7 | reduce | divide both terms by $2$: $8\div2=4$, $2\div2=1$ | $4:1$, the _quadrupla_ |
+| 8 | conclusion | $5:2$ is a part of $8:2$ | _quadrupla_ greater |
+| modern | | $\tfrac85\times\tfrac52=\tfrac{40}{10}$ | $4$ |
+
+The print has _5 ad 3_, emended to _5 ad 2_ (§27). $5:3$ is also a part of $8:2$ by preamble 2, since $5$ and $3$ both lie between $8$ and $2$. But it is _superbipartiens tertias_, not the _dupla sesquialtera_ the sentence names.
+
+So Dolz proves one comparison in both ways: by value, _patet ex denominationibus_ (45b), and by composition, _est eius pars_ (44a). This bears out the observation of §24 that the two measures agree on which proportion is greater.
+
+**"Composite" in two senses.** _Nec est inconveniens simplicem compositam esse maiorem_: it is no difficulty that a simple proportion, the _quadrupla_, is greater than a composite one, the _dupla sesquialtera_. "Composite" here is the classification of 32a (§11): the name joins a _multiplex_ and a _superparticularis_. It is not composition by chaining (P4).
+
+| Sense of "composite" | Work | Result |
+| --- | --- | --- |
+| by name (32a): twice, and a half left over | $2+\tfrac12$ | $2\tfrac12$, that is $5:2$ |
+| by chaining a _dupla_ and a _sesquialtera_ (P4, Example E) | chain $6,3,2$ | $6:2=3:1$, the _tripla_, not $5:2$ |
+| what $5:2$ contains by chaining | chain $5,4,2$, links $5:4$ and $4:2$ | _sesquiquarta_ plus _dupla_ |
+
+The _dupla sesquialtera_ thus contains the _dupla_ as a part, but its other part is the _sesquiquarta_, not the _sesquialtera_. This also proves the second claim of proposition 7 by the first principle: every _multiplex superparticularis_ contains its own multiple as a part, and so is greater than it. A second example: _dupla sesquitertia_ $7:3$ is _dupla_ plus _sesquisexta_, chain $7,6,3$. In modern terms, $m+\tfrac1n=m\times\tfrac{mn+1}{mn}$.
+
+### The geometrical principles left unexamined
+
+| Principle | Dolz's wording | Euclid, common notions | Used so far |
+| --- | --- | --- | --- |
+| whole greater than part | _omne totum est maius sua parte_ | 5 | 44a, principle 1 (§23); 46b |
+| equals from equals | _si ab aequalibus aequalia demas, remanentia sunt aequalia_ | 3 | — |
+| equals from unequals | _si ab inaequalibus aequalia demas, remanentia sunt inaequalia_ | not among the five genuine common notions; one of the axioms added in later versions (unchecked) | — |
+
+Dolz says he would gladly have examined these principles, _quae iuvant multum ad physicalia intelligenda_, at length, _sed compellor certis de causis opus abbreviare. Tamen alibi non praetermittam._ Instead he gives _pauca argumenta_ from which _vir ingeniosus_ can work out the rest.
+
+Three observations of ours:
+
+- **The book was shortened under pressure.** This is the first explicit statement of it. The reasons are not given. It agrees with the prooemium, _Si vis mathematicus fieri, residua alibi quaeres_, and with the brisk dismissal by proverbs of the objections to the first principle on 44a (§23).
+- **_Alibi non praetermittam_ is a promise**, not evidence of an existing work. It does not belong with the writings attested in §13.
+- **The principles are about quantities, the application about proportions.** Applied to proportions, "taking away" is subtraction by breaking the chain (P5), not taking away an amount. The examination Dolz omits would have had to say this.
+
+### An argument from Dullaert's _de toto_
+
+Dolz turns to positions _in philosophia Dullaert in materia de toto_, which many _in his oris Aquitaniae_ could not explain, while others who tried _nihil ad propositum adducebant, ut certe scio_. They would make three copulatives _ponibiles_:
+
+| Copulative | What it denies | Principle |
+| --- | --- | --- |
+| _a est aequale b, et tamen nullum b est aequale a_ | equality holds both ways | if $a$ is equal to $b$, $b$ is equal to $a$ |
+| _b differt ab a, et tamen a non differt a b_ | difference holds both ways | if $b$ differs from $a$, $a$ differs from $b$ |
+| _a est aequale c, cui b est aequale, tamen a non est aequale b_ | things equal to the same are equal to each other | Euclid, common notion 1 |
+
+_Ista sunt contra propositiones nostras et principia geometriae._ The reply begins on 47a.
+
+Three observations of ours:
+
+- **_Ponibilis_ is a term of the art of obligations**: a proposition that can be admitted as _positum_ without contradiction. The art has appeared once before, in preamble 8 (27b, §5). The charge is that Dullaert's doctrine makes consistent what geometry forbids.
+- **_In his oris Aquitaniae_** places Dolz in Aquitaine, as the dedication does, and repeats the complaint of the Introduction about the teaching there.
+- **A guess, to be checked on 47a.** The first copulative is not contradictory if _b_ stands for several things: _a_ may be equal to them together and to none of them singly, while _nullum b_ distributes over them. This is the aggregate case of 39b (§18). Dullaert's text has not been checked.
+
+---
+
+## 26. Summary of the doctrine
 
 1. _Aliquot part_ is a **two-place relation** between a part and a whole, requiring exact measure and at least two repetitions.
 2. Dropping the second term of the relation is what generates every difficulty in preamble 8.
@@ -2633,10 +2957,17 @@ Four observations of ours:
 72. A proportion with a greater denomination is greater; the same denomination makes equal proportions, different ones unequal (45b). The _dupla_ $8:4$ equals $2:1$.
 73. _Multiplex_ species grow upward and the least of them exceeds the greatest _superparticularis_; _superparticulares_ shrink upward.
 74. Value and composition agree on which proportion is greater and differ only on how many times one contains another.
+75. Within a family the proportion shrinks as the kind of part rises: _superparticulares_, _superpartientes_ with the same number of parts, and composite species with the same multiple (46a–46b).
+76. Leftovers are compared as parts of the same whole, the unity of the least terms. The _superbipartiens_ series uses odd kinds of part only, since two fourths or two sixths make one aliquot part.
+77. The number of parts decides nothing: some _superbipartiens_ is greater than some _supertripartiens_, and some is less.
+78. A greater multiple wins whatever the leftover, because every leftover is less than unity. Dolz compares denominations whole number first, then leftover.
+79. Every _multiplex_ and every _multiplex superparticularis_ exceeds every _superparticularis_. A _multiplex superparticularis_ exceeds its own multiple but not higher ones: the _quadrupla_ $8:2$ contains the _dupla sesquialtera_ $5:2$ as a part.
+80. A simple species may be greater than a composite one. "Composite" in the naming sense, $2+\tfrac12$, is not composition by chaining: the _dupla sesquialtera_ is the _dupla_ plus the _sesquiquarta_.
+81. Dolz shortens the work for unnamed reasons and postpones an examination of the geometrical principles. He opens an argument that Dullaert's doctrine of the whole would make consistent (_ponibiles_) denials of the symmetry of equality and of Euclid's first common notion.
 
 ---
 
-## 26. Textual notes
+## 27. Textual notes
 
 Proposed emendations arising from the analysis. Those marked _insecure_ are recorded but not recommended for adoption.
 
@@ -2698,6 +3029,13 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 44a | tempus **ꝑ diē** | **perdit** (adopted; conjectural) | The sentence opens a series of proverbs of wasted labour |
 | 44b | haec **ꝓportio** communiter concedatur | **propositio** (adopted) | What is conceded is a sentence, _omne totum in nulla proportione est maius sua parte_ |
 | 44b | **teris**, **teri** | **terminis**, **termini** (expanded) | Contrasted with _numeri_, which exclude fractions and unity |
+| 45a | haud facile sponte censeo **demandandum** | _(obscure; left as printed)_ | The abbreviation _dēmandō_ is uncertain |
+| 45a | pro quo sit **quintum** praeambulum | possibly **sextum** _(insecure; left as printed)_ | The fifth preamble of the second article is already on 44a (§23) |
+| 45a | tripla **sesquitertia** | **sesquialtera** (adopted) | Denominated _a ternario cum medietate_, $3\tfrac12$ |
+| 45b | quia eius species nec aequales nec inaequales reperiuntur | _(left as printed)_ | Equality has no species as equality (33a, §12); perhaps only that there is nothing to compare |
+| 46a | aliqua **superpartiens** aliqua supertripartiente est maior | **superbipartiens** (adopted) | A _supertripartiens_ is itself a _superpartiens_; both examples set a _superbipartiens_ against a _supertripartiens_ |
+| 46b | includit **5 ad 3** | **5 ad 2** (adopted) | _Quae est dupla sesquialtera_; $5:3$ is _superbipartiens tertias_. Both are parts of $8:2$ by preamble 2 (43a), so only the name decides |
+| 46b | simplicem **compositam** esse maiorem | _(left as printed)_ | Read: a simple proportion greater than a composite one. _Composita_, ablative of comparison, would be regular, but Dolz also writes _quam quacumque_ on 46a, so the construction may be his |
 | 44b | dupla denominaretur **6** ad 8 | **16** ad 8 (adopted) | $6:8$ is not a _dupla_, and _primi essent maiores_ requires terms larger than $4$ and $1$ |
 | 45a | pro quo sit **quintum praeambulum** | possibly **quintum principium** _(insecure)_ | The fifth preamble was given on 44a, and four principles precede; what follows is a principle of denomination |
 | 45a | tripla **sexquitertia** a ternario cum medietate | **sesquialtera** (adopted) | _Cum medietate_ requires _sesquialtera_ |

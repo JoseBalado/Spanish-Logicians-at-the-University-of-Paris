@@ -397,7 +397,7 @@ After about 1400 the calculatory tradition faded at Paris, where realism and the
 | **Jean Dullaert of Ghent** (_Physics_ questions, 1506) | Physics of impetus; source for Coronel; cited by Dolz on _Physics_ III | — |
 | **Alvarus Thomas** (_Liber de triplici motu_, 1509) | The mathematical core: proportions, motion by cause and effect, mean speed, 1 : 3, series (section 2) | Life: section 8 |
 | **Luis Coronel** (_Physicae perscrutationes_, 1511) | Physics shaped by Dullaert and Alvarus; impetus; cites Swineshead | [Luis Coronel](../Luis-Coronel/) |
-| **Gaspar Lax** (_Arithmetica_ and _Proportiones_, 1515; _Calculationes_, 1517; _Quaestiones physicales_, Zaragoza, 1527) | Systematic mathematics of proportions and calculations; teacher of Celaya, Dolz, Vitoria, Vives | [Gaspar Lax](../Gaspar-Lax/) |
+| **Gaspar Lax** (_Arithmetica_ and _Proportiones_, 1515; _Calculationes_, Zaragoza, 1517; _Quaestiones physicales_, Zaragoza, 1527) | Systematic mathematics of proportions and calculations; teacher of Celaya, Dolz, Vitoria, Vives | [Gaspar Lax](../Gaspar-Lax/) |
 | **Juan de Celaya** (_Physics_, 1517) | Seventy-one folios on motion surveying the Mertonians, Paris, and Padua; calls Lax _regentis mei_; teacher of Soto and Vitoria | [Juan de Celaya](../Juan-de-Celaya/) |
 | **Juan Dolz** (_Cunabula_, 1518) | Elementary textbook; names Bradwardine, Oresme, Bassano, Alvarus, Lax; compares Alvarus, Lax, and Dullaert on terminology | [Juan Dolz](index.html) |
 | **Domingo de Soto** (_Physics_ questions, 1545; revised 1551) | Applies uniformly difform motion to falling bodies | [Domingo de Soto](../Domingo-de-Soto/) |
@@ -407,7 +407,7 @@ Schematically:
 1. Oxford Calculators and Oresme (fourteenth century)
 2. Italian commentaries and printed editions (fifteenth century)
 3. Mair's circle at Montaigu; Pardo's announcement (c. 1500)
-4. Alvarus (1509) → Luis Coronel (1511), Lax (1515–1517)
+4. Alvarus (1509) → Luis Coronel (1511), Lax (Paris, 1515; _Calculationes_, Zaragoza, 1517)
 5. Celaya (1517), Dolz (1518); Lax's _Quaestiones physicales_ at Zaragoza (1527)
 6. Soto (1545, 1551) → Jesuits of the Collegio Romano → Galileo's early notebooks
 
@@ -425,6 +425,43 @@ Mostly systematization and teaching, with some genuine advances:
 The tradition nearly disappeared from Paris a second time. Humanists attacked the whole calculatory style; Juan Luis Vives, himself a student of Lax, published _In pseudodialecticos_ in 1519–1520. By the 1530s the calculatory physics had largely faded at Paris. It survived because the Spaniards took it home: Lax to Zaragoza, Celaya to Valencia, Soto to Salamanca, and through Salamanca and Alcalá into the Jesuit curriculum. The rescue came less from any single Parisian than from this Spanish return.
 
 Lax is the clearest case. Self-taught in mathematics (_nullo doctore_, as he wrote to his student E. de Melo), he left Paris around 1521 and continued to publish calculatory material at Zaragoza. His _Quaestiones physicales_ (Zaragoza, 1527) treat quantity, the whole, _de maximo et minimo_, the infinite, motion _penes causam_, and rarity and density. The question on motion opens with the "famous difficulty" of what the speed of any motion follows as its cause (_penes quid tanquam penes causam cuiuscumque motus velocitas attendatur_) and rejects four positions before giving his own. Near its end it compares speeds in equal and unequal times by what the mobile acquires or loses (_quod acquiret vel deperdet_). The book has no section on motion _penes effectum_, so the mean-speed rule and the question of falling bodies should not be expected there.
+
+### 6.6 Two rankings: sophistication and influence
+
+Two questions are easily confused: how technically sophisticated a work is, and how much it was read afterwards. For this group they give nearly opposite orders.
+
+**Genre.** The physics books of the group are of two kinds.
+
+| Kind | Works | Organized around |
+|---|---|---|
+| Problem-driven treatise | Alvarus, _Liber de triplici motu_ (1509); Lax, _Arithmetica_ and _Proportiones_ (1515), _Calculationes_ (Zaragoza, 1517), and _Quaestiones physicales_ (Zaragoza, 1527); Dolz, _Cunabula_ (1518) | The problems and their mathematical analysis; Aristotle is at most a backdrop |
+| Commentary on the _Physics_ | Dullaert (1506), Luis Coronel (1511), Celaya (1517), Soto (1545, 1551) | Aristotle's text; the mathematics enters where the text allows it |
+
+Despite their title, Lax's _Quaestiones physicales_ do not follow the books of Aristotle's _Physics_. They are arranged by problem: quantity, the whole, _maximum_ and _minimum_, the infinite, motion _penes causam_, rarity and density (section 6.5). From a first inspection their content is mostly mathematical; this remains to be confirmed by transcription. Dolz goes furthest. He leaves Aristotle aside, places the material in the bachelor's course, gives a numerical example for every topic, and presents it as the cradle of "almost all sciences": physics, and music as the physics of vibrating bodies.
+
+**Not a return to Heytesbury.** Heytesbury's _Regulae solvendi sophismata_ (1335) were also written for beginners, but they are a book of logic: insolubles, _scire et dubitare_, relative terms, _incipit_ and _desinit_, _maxima_ and _minima_. Only chapter 6, _de motu locali_, works with latitudes of motion, and it states rules with proofs rather than running numerical examples. Dolz shares Heytesbury's audience, not his project.
+
+**Order by sophistication** (provisional, until the transcriptions of section 10 allow direct comparison):
+
+1. **Alvarus**: the most original and the most mathematical.
+2. **Lax**: the _Calculationes_, where proportions are applied to motion and natural philosophy, probably above the _Quaestiones physicales_.
+3. **Dolz**: an elementary textbook, but mathematical throughout and explicitly programmatic.
+4. **Celaya**: by far the most mathematical of the commentators. His seventy-one folios on motion draw on Alvarus, and probably on Lax's teaching at Montaigu.
+5. **Luis Coronel**: his mathematical passages are largely excerpts from Alvarus. His importance lies in method (Wallace: _suppositio_, reasoning _ex suppositione_), a different question from the one pursued here.
+6. **Dullaert**: wrote before Alvarus's book was printed; mostly a physics of impetus.
+7. **Soto**: keeps a few results and drops the rest of the calculatory apparatus.
+
+**Celaya, a step backwards.** In one sense Celaya moves in the opposite direction from Alvarus, Lax, and Dolz. He returns the material to a commentary on Aristotle's _Physics_, rather than treating physics and mathematics on their own terms. If most of his mathematics is taken from Alvarus and Lax, as it appears to be, his place is with the commentators, whatever the quantity of mathematics he includes. His high rank among them measures what he borrowed, not a new direction.
+
+**The last of the treatises.** The _Cunabula_ (Montauban, 1518) is the last problem-driven book of the circle printed during the Paris years; neither it nor Lax's later books were printed at Paris. Since Lax's _Quaestiones physicales_ (Zaragoza, 1527) are arranged by problem rather than by Aristotle's books, and appear to be mostly mathematical, they probably close the series. Their mathematical character should be confirmed by transcription (section 10). Humanist criticism began the year after the _Cunabula_ (section 6.5).
+
+**Order by influence** roughly reverses this. Soto comes first: through his student Francisco de Toledo, whose _Physics_ commentary (Venice, 1573) became a Jesuit text, and through the Collegio Romano lectures that Galileo's early notebooks draw on (section 5). Coronel follows, for method, and Celaya as Soto's teacher. Alvarus was read by specialists (section 8.4). Lax's Zaragoza books circulated little outside Aragon. Dolz's _Cunabula_ has hardly been studied at all.
+
+**Soto.** His _Physics_ looks backward: it preserves a reduced form of what Celaya and the Paris masters had built. His logic follows the same course. The _Summulae_ of 1529 already reads as a compendium of a science being lost; Soto dismisses the _obligationes_, and later editions cut the terminist material further. His application of uniformly difform motion to falling bodies (section 6.4) is short and illustrative. It can be read as a near-accident, closer to Sylla's view, or, with Wallace, as the Paris tradition filtered through Thomist realism. For the mathematics of motion, Soto is a reducer, not a contributor.
+
+**Dolz and Celaya.** The _Cunabula_ opens with an _Invectiva … in Iohannem de Celaya_ in eighteen _reprehensiones_. They concern logic and the defence of Lax's definitions. Dolz never mentions Celaya's _Physics_, printed the year before, although both were Lax's students.
+
+**Villoslada.** His judgements on Mair's circle (Lax, Dolz, the Coronels) are hostile. They are written from the humanist and Thomist side of Vives's critique, without mathematical or logical training, and carry little weight on technical questions. The modern recovery of the circle came from historians of logic with formal training: Ashworth, Muñoz Delgado, and Ángel d'Ors. His remark that Alvarus was superior to Celaya as a mathematician (section 8.4) is nevertheless supported independently by Wallace.
 
 ---
 
@@ -531,7 +568,7 @@ The book had three Coqueret letters, a pupil from the German nation who paid att
 | **Domingo de Soto** | Uses the substance of his treatises, seldom naming sources; possibly through Celaya, Soto's teacher at Paris | Wallace; Leitão |
 | **Alonso de la Veracruz** | Critic: applied to Alvarus's calculations the words of Luke 5:5, "we have laboured all the night and taken nothing" | Wallace |
 
-Two judgements give his standing among contemporaries. Wallace: "At Paris […] there can be little doubt that Thomaz was the calculator par excellence at the beginning of the sixteenth century, and the principal stimulus for the revival of interest there in the Mertonian approach to mathematical physics." Villoslada (p. 190, quoted after Leitão), comparing him with Celaya: "El maestro lusitano era, por su ecletismo, su erudición y dialética invencible, gemelo de Celaya e superior a él como matemático."
+Two judgements give his standing among contemporaries. Wallace: "At Paris […] there can be little doubt that Thomaz was the calculator par excellence at the beginning of the sixteenth century, and the principal stimulus for the revival of interest there in the Mertonian approach to mathematical physics." Villoslada (p. 190, quoted after Leitão), comparing him with Celaya: "El maestro lusitano era, por su ecletismo, su erudición y dialética invencible, gemelo de Celaya e superior a él como matemático." On Villoslada's reliability for this circle, see section 6.6.
 
 ### 8.5 Modern rediscovery
 
@@ -561,10 +598,48 @@ Rey Pastor's 1926 request has still not been met. Leitão's warning also stands:
 - **"Petrus de Alliaco"** in Bruniau's letter (section 8.2): the cardinal, or a recent Paris master who taught Alvarus? Élie (1950–51) and Villoslada may name such a master.
 - **Alvarus's archival record**: read Matos (1950) and Villoslada (1938) directly for the 1513 enrolment in medicine, the 1518 doctorate, and the last signature in 1521.
 - **Pedro de Meneses** and **Hermann Lethmate**: identify the dedicatee, and confirm that Lethmate is the later Utrecht theologian.
-- **Lax's _Calculationes_ (1517)** and **Coronel's _Physicae perscrutationes_ (1511)**: whether either contains the mean-speed rule, the 1 : 3 rule, or an application to falling bodies.
+- **Lax's _Calculationes_ (Zaragoza, 1517)** and **Coronel's _Physicae perscrutationes_ (1511)**: whether either contains the mean-speed rule, the 1 : 3 rule, or an application to falling bodies.
 - **Lax's _Quaestiones physicales_ (Zaragoza, 1527)**, not yet transcribed. Its sections are _de quantitate_, _de toto_, _de maximo et minimo_, _de infinito_, _de motu penes causam_ and _de raritate et densitate_; there is no section on motion _penes effectum_. The question _de motu penes causam_ opens by reviewing four erroneous positions on what speed follows. Near its end it compares speeds in equal and unequal times by what is acquired or lost, apparently the same composition of ratios as Alvarus p. 149. Printed at Zaragoza after Lax's return, it belongs to the Spanish phase of section 6.5. It appeared before Soto's _Physics_ questions (1545, 1551), so it is not chronologically excluded as a source for Soto.
 - **Mair**: whether his _Physics_ or _Sentences_ commentaries contain calculatory kinematics, or only the discussions of the infinite.
 - **Alvarus**: whether the treatise anywhere extends the 1 : 3 result to thirds, quarters, or the odd-number series.
+- **Printing of Lax's _Calculationes_**: printed at Zaragoza in 1517, while Lax was still teaching at Paris. By whom and why there? Did it circulate outside Aragon? Dolz, also Aragonese, may have had a copy, or known the material from Lax's lectures.
+- **Lax's two physics books**: whether the _Quaestiones physicales_ are less mathematical than the _Calculationes_ (section 6.6).
+- **Dolz's technical level**: whether the _Cunabula_ matches Alvarus and Lax on the comparison topics of section 10, or whether its elementary level costs depth.
+- **Celaya's sources**: whether his calculatory material comes from Lax's teaching at Montaigu rather than from the printed _Calculationes_, which appeared in the same year as his _Physics_.
+- **Celaya's originality**: how much of his mathematics on motion is copied from Alvarus and Lax, and whether anything in it is his own (section 6.6).
+- **The last treatise**: confirm that Lax's _Quaestiones physicales_ (1527) are mostly mathematical, which would make them, not the _Cunabula_, the last of the problem-driven series; and check whether any other such treatise by the circle appeared after 1518.
+- **Dolz's silence on Celaya's _Physics_**: deliberate rivalry, or did he not know it before 1518?
+- **Soto's logic**: compare the _Summulae_ of 1529 with the later editions, and with Ashworth's assessment of them.
+- **Soto and Celaya**: how much of Soto's _Physics_ on motion derives from Celaya's.
+- **Villoslada**: check his judgements against the texts before citing them (section 6.6).
+
+---
+
+## 10. Transcription plan
+
+The priority is the problem-driven treatises, plus Celaya as the most mathematical commentator. The other authors are consulted later, on specific points, once enough of these are transcribed. Little is lost by this: Coronel's mathematics is largely Alvarus's, Dullaert precedes Alvarus, and Soto reduces Celaya.
+
+| Order | Work | Status | Focus |
+|---|---|---|---|
+| — | Alvarus, _Liber de triplici motu_ (Paris, 1509) | Transcribed (paleographic) | Reference |
+| 1 | Dolz, _Cunabula_ (Montauban, 1518) | Nearly finished | Reference terminology for proportions |
+| 2 | Celaya, _Physics_ (1517), folios on motion | To transcribe | Begin with motion _penes causam_, directly comparable with Dolz's proportions |
+| 3 | Lax, _Calculationes_ (Zaragoza, 1517) | To transcribe | The second genre, _intensio_ and _remissio_; compare with Alvarus |
+| 4 | Lax, _Quaestiones physicales_ (Zaragoza, 1527) | To transcribe | Whether the mathematics thins out; the four _erroneae positiones_ (section 1.1) |
+
+**Deferred, on specific points only:**
+
+- **Dullaert**: the passages Dolz cites, on _Physics_ III and on the terminology of proportion.
+- **Luis Coronel**: his method (Wallace); his mathematics only to confirm what he takes from Alvarus.
+- **Soto**: the passage on uniformly difform motion and falling bodies (section 9).
+
+**Reference, not for transcription:** Swineshead's _Liber calculationum_ and chapter 6 of Heytesbury's _Regulae_. Lax and Alvarus constantly assume them, and checking against them shows what each Parisian added.
+
+**Comparison topics**, to be read side by side in Alvarus, Lax, Celaya, and Dolz:
+
+- proportions of velocities: Bradwardine's rule and its handling;
+- _intensio_ and _remissio formarum_, and the uniform and difform distinction;
+- _maxima_ and _minima_, _incipit_ and _desinit_.
 
 ---
 

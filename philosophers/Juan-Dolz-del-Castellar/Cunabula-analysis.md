@@ -400,7 +400,7 @@ The part removed reaches above the top of the whole. The answer is still read fr
 
 ### P6. Doubling, tripling, and halving a proportion
 
-Used on 40a, 43b, and 44b (§19, §22, §23). **Doubling** a proportion is adding it to itself (P4); **tripling** is adding it three times. **Halving** is the reverse: finding the proportion that, added to itself, makes the whole.
+Used on 40a, 43b, 44b, and 47b (§19, §22, §23, §26). **Doubling** a proportion is adding it to itself (P4); **tripling** is adding it three times. **Halving** is the reverse: finding the proportion that, added to itself, makes the whole.
 
 **Doubling and tripling.** To double $3:2$ we need three terms in which **each** link is _sesquialtera_. Starting from $3,2$ does not work: the next term would have to be a number that $2$ contains once and a half, and no whole number does. So rescale, exactly as in P4, Example C. Add $3:2$ to $3:2$ crosswise, as in P4, step 2: multiply both terms of the first copy by $3$, the left term of the second copy, so $3:2\to9:6$, and both terms of the second copy by $2$, the right term of the first copy, so $3:2\to6:4$. The chain is $9,6,4$. Neither link is written $3:2$, but each reduces to it ($9:6$ divided by $3$, $6:4$ divided by $2$).
 
@@ -457,6 +457,32 @@ This is the comparison "by composition" of §20, not "by value" ($8\div2=4$).
 | greater, $3:2$ | $9:4$ | both terms by $4$, the right term of $9:4$, so $2:1\to8:4$ | $8$ smaller than $9$ | less than double the greater |
 
 Modern check, $\tfrac{16}9\approx1.78$, then $2$, then $\tfrac94=2.25$.
+
+**One proportion per dimension (47b).** A body two feet long, wide, and deep against a body one foot each way. In each dimension the proportion is the _dupla_ $2:1$. Dolz cuts the larger body into one-foot pieces and counts eight, so the bodies stand in the _octupla_ $8:1$ (§26). Each cut in half doubles the count and adds one _dupla_ to the chain.
+
+| Dimensions compared | Count of one-foot pieces | Chain | Proportion | Composition |
+| --- | --- | --- | --- | --- |
+| length (two lines) | $2$ | $2,1$ | $2:1$ | the _dupla_ once |
+| length and breadth (two squares) | $2\times2=4$ | $4,2,1$ | $4:1$ | the _dupla_ doubled |
+| length, breadth, and depth (two cubes) | $2\times2\times2=8$ | $8,4,2,1$ | $8:1$ | the _dupla_ tripled |
+
+The same holds for any proportion of sides. **Worked example: a body three feet each way against one two feet each way**, sides in the _sesquialtera_ $3:2$.
+
+Count one-foot cubes in each, as Dolz does.
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | one-foot cubes in one layer of the larger body | $3$ rows of $3$: $3\times3$ | $9$ |
+| 2 | layers in the larger body | it is $3$ feet deep | $3$ |
+| 3 | one-foot cubes in the larger body | $3$ layers of $9$: $9\times3$ | $27$ |
+| 4 | one-foot cubes in one layer of the smaller body | $2$ rows of $2$: $2\times2$ | $4$ |
+| 5 | one-foot cubes in the smaller body | $2$ layers of $4$: $4\times2$ | $8$ |
+| 6 | proportion of the bodies | step 3 to step 5 | $27:8$ |
+| 7 | name it (P2) | $8$ goes into $27$ three times ($24$), leftover $3$, three eighths of $8$ | _tripla supertripartiens octavas_, $3\tfrac38$ |
+| 8 | check by composition | $3:2$ tripled is $27:8$ (table above, chain $27,18,12,8$) | the _sesquialtera_ tripled |
+| modern | | $(\tfrac32)^3=\tfrac{27}8$ | |
+
+So the bodies are $3\tfrac38$ times one another by value, but their proportion is the side's proportion added three times by composition. Surfaces take it twice: squares on sides $3$ and $2$ are as $9:4$, the _sesquialtera_ doubled. This is Euclid's duplicate and triplicate proportion (VI.20, XI.33).
 
 ### P7. Which proportion is greater?
 
@@ -655,13 +681,14 @@ Four obstacles stood in the way:
 | adding | chain through a shared middle | $4:3+3:2=2:1$ | multiply |
 | subtracting | remove the part from the end of the whole | $2:1-3:2=4:3$ | divide |
 | doubling, tripling | add to itself | $3:2$ doubled is $9:4$ | square, cube |
+| bodies and surfaces | one link per dimension (47b) | sides $2:1$, cubes $8:1$ | cube of the side ratio |
 | halving | _medium proportionale_ | half of $9:4$ is $3:2$ | square root |
 | comparing | denomination, whole number first (46a–46b); cross-multiply; or whole and part | $3:2>4:3$; $2:1>3:2$; $10:3>5:2$ | compare fractions |
 | how many times | count links | $8:1$ is three _duplae_ | ratio of logarithms |
 
 ### Still to come
 
-The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles, its principles, the general rule of greater proportion, and the order of the species (43a–46b, §22–§25) are covered by P1, P2, and P4–P7. Dolz has promised an account of _communicatio proportionum_, overlapping proportions (43a). The prooemium (25a) further announces the excess of one proportion over another, division by proportional parts, and the rules of motion. Operations needed for them will be added here as the transcription reaches them.
+The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles, its principles, the general rule of greater proportion, and the order of the species (43a–46b, §22–§25) are covered by P1, P2, and P4–P7; the cube of 47b (§26) by P6. Dolz has promised an account of _communicatio proportionum_, overlapping proportions (43a). The prooemium (25a) further announces the excess of one proportion over another, division by proportional parts, and the rules of motion. Operations needed for them will be added here as the transcription reaches them.
 
 ---
 
@@ -2052,7 +2079,7 @@ In continuous proportionality the links must be similar; in addition they need n
 
 The name of a composite species adds an integer count and a fraction; adding two proportions multiplies them.
 
-The second alternative in Dolz's definition, _vel illam a qua subtrahi debet annihilari_, is obscure. One possible reading: subtracting a proportion from an equal one annihilates it and leaves equality, _sicut in quantitatibus_, as subtracting a quantity from an equal quantity leaves nothing. This is our guess (§27).
+The second alternative in Dolz's definition, _vel illam a qua subtrahi debet annihilari_, is obscure. One possible reading: subtracting a proportion from an equal one annihilates it and leaves equality, _sicut in quantitatibus_, as subtracting a quantity from an equal quantity leaves nothing. This is our guess (see the textual notes).
 
 The _continuatio_ of two dissimilar proportions through a shared term may bear on the _communicatio proportionum_ promised on 34b (§13), but Dolz does not connect them.
 
@@ -2193,7 +2220,7 @@ Why call the limma a semitone if it is not half a tone? _Semitonium_ should be r
 
 Cents also show the addition of 40a at work: compounding proportions **adds** cents. Fifth plus fourth is $701.96+498.04=1200$, the octave; fifth minus fourth is $701.96-498.04=203.91$, the tone. This is the logarithmic scale on which, as noted above, adding proportions becomes ordinary addition.
 
-Composite consonances are made from the simple ones, such as _bis diapason_, two octaves, $2\cdot2=4:1$. Dolz remarks that two octaves are rarely found in a human voice, _nisi rediret quid de quo loquitur Aristoteles septimo Politicorum capite quarto_. The phrase is corrupt. In _Politics_ VII.4 (1326b) Aristotle asks who could be herald to an excessively large multitude unless he had the voice of Stentor. The sense may be "unless Stentor, of whom Aristotle speaks, came back". This is a conjecture (§27). The passage itself is confirmed: in _Politics_ VII.4, beside Bekker page 1326b, Aristotle asks who could command an unwieldy multitude, "or who could be their herald but a Stentor?" (Ellis's translation, Project Gutenberg). Dolz's _septimo Politicorum capite quarto_ matches this chapter.
+Composite consonances are made from the simple ones, such as _bis diapason_, two octaves, $2\cdot2=4:1$. Dolz remarks that two octaves are rarely found in a human voice, _nisi rediret quid de quo loquitur Aristoteles septimo Politicorum capite quarto_. The phrase is corrupt. In _Politics_ VII.4 (1326b) Aristotle asks who could be herald to an excessively large multitude unless he had the voice of Stentor. The sense may be "unless Stentor, of whom Aristotle speaks, came back". This is a conjecture (see the textual notes). The passage itself is confirmed: in _Politics_ VII.4, beside Bekker page 1326b, Aristotle asks who could command an unwieldy multitude, "or who could be their herald but a Stentor?" (Ellis's translation, Project Gutenberg). Dolz's _septimo Politicorum capite quarto_ matches this chapter.
 
 Dolz justifies the digression by pedagogy: he adds these terms _non quia multum pertinentia philosophiae, sed ad minus ut calleas terminos_, not because they matter much to philosophy, but at least so that the student knows the terms. This matches the program of the introduction: only as much mathematics as philosophy requires, plus the vocabulary needed to read other authors.
 
@@ -2334,7 +2361,7 @@ A final objection: degree $4$ is intense and degree $2$ remiss, they are in a pr
 | as intension against remission | no |
 | as containing degrees (_in ratione continentiae gradus_) | yes, $4:2$ |
 
-The proportion rests on the degrees contained, not on intensity and remissness as opposed qualities. This agrees with page 30, which admitted comparison _quoad intensionem_ as a multitude of degrees (§9). The following sentence, that it does not follow _quod intensionis ad intensionem et remissionis ad remissionem sit proportio_, is hard to square with page 30 and is noted in §27. Dolz defers the matter to philosophy.
+The proportion rests on the degrees contained, not on intensity and remissness as opposed qualities. This agrees with page 30, which admitted comparison _quoad intensionem_ as a multitude of degrees (§9). The following sentence, that it does not follow _quod intensionis ad intensionem et remissionis ad remissionem sit proportio_, is hard to square with page 30 and is noted in the textual notes. Dolz defers the matter to philosophy.
 
 ### Ad quartam: line, surface, and body
 
@@ -2421,7 +2448,7 @@ Greaterness, however, is posited both of infinite to finite and of infinite to i
 
 Dolz draws the general rule: _non oportet quod a qualibet maioritate abstrahatur proportio_, not every greaterness yields a proportion. This states generally the consequence denied on 38b. To say otherwise one would have to _mathematicos exire et satis extranee loqui_, leave the mathematicians and speak very strangely. Page 39a had said that Dolz does not oppose the mathematicians (§18).
 
-The print says that greaterness of infinite to finite and infinite to infinite is _iam proprie dicta_. This conflicts with 39a, where one infinite is greater than another only improperly, and with the next sentence, _maioritas improprie dicta inter unum infinitum et aliud infinitum_. _Iam … dictam_ ("already spoken of") points back to 39a, so the transcription adopts _improprie_ as a conjecture (§27).
+The print says that greaterness of infinite to finite and infinite to infinite is _iam proprie dicta_. This conflicts with 39a, where one infinite is greater than another only improperly, and with the next sentence, _maioritas improprie dicta inter unum infinitum et aliud infinitum_. _Iam … dictam_ ("already spoken of") points back to 39a, so the transcription adopts _improprie_ as a conjecture (see the textual notes).
 
 ### Does the infinite have an aliquot part?
 
@@ -2498,7 +2525,7 @@ The prooemium (25a) had announced that the second article _maioritatem, aequalit
 
 Even if proportion were an indivisible respect, the Realist accident of 42a, geometry attributes composition to it. The composition is improper, _quia indivisibile proprie non componitur_, as was said of number in the first article (preambles 2–4, §1). So proportions have parts and can be divided, and among them there is equality and inequality.
 
-This supports the conjecture that the printed _compositio divisionis_ of 42b means _compositio \[et\] divisio_, composition and division (§27). Preamble 5 on 44a says it outright: _constat compositio cum divisione proportionum_ (§23).
+This supports the conjecture that the printed _compositio divisionis_ of 42b means _compositio \[et\] divisio_, composition and division (see the textual notes). Preamble 5 on 44a says it outright: _constat compositio cum divisione proportionum_ (§23).
 
 ### Preamble 2: the parts of $8:4$
 
@@ -2534,7 +2561,7 @@ $6$ is the _medium rei_ of $8$ and $4$, but not proportional: $8:6$ is _sesquite
 
 Hence the half of $8:4$ is neither $8:6$ nor $6:4$, although $6$ is equidistant. Every half must be _subdupla_ to its whole, and _sesquitertia_ is not _subdupla_ to _dupla_; the proof is promised (_ut patebit_) and follows from the third principle on 44b (§23). The half of $8:2$ is $8:4$.
 
-In modern terms the _medium rei_ is the arithmetic mean, $\tfrac{a+b}2$, and the _medium proportionale_ the geometric mean, $\sqrt{ab}$. Aristotle's mean of the thing and mean relative to us is _Ethics_ II.6 (1106a26–b7). The citation of Biel is printed _xiii. dsti. tertii. ſniaꝝ_, that is, _decima tertia distinctione tertii Sententiarum_ (book III, d. 13). Distinction 13 treats the grace of Christ, so _xiii_ may be a misprint for _xxxiii_, where Peter Lombard treats the cardinal virtues and the mean of virtue belongs (unchecked, §27).
+In modern terms the _medium rei_ is the arithmetic mean, $\tfrac{a+b}2$, and the _medium proportionale_ the geometric mean, $\sqrt{ab}$. Aristotle's mean of the thing and mean relative to us is _Ethics_ II.6 (1106a26–b7). The citation of Biel is printed _xiii. dsti. tertii. ſniaꝝ_, that is, _decima tertia distinctione tertii Sententiarum_ (book III, d. 13). Distinction 13 treats the grace of Christ, so _xiii_ may be a misprint for _xxxiii_, where Peter Lombard treats the cardinal virtues and the mean of virtue belongs (unchecked; see the textual notes).
 
 The preamble ends: as a proportion is part of a proportion, so it is an aliquot part. But no proportion is an aliquot part of every proportion, nor even of every proportion other than itself.
 
@@ -2576,9 +2603,9 @@ Dolz dismisses the objections to _omne totum est maius sua parte_ with five prov
 | Proverb | Case | Why it seems to refute the axiom |
 | --- | --- | --- |
 | _tempus perdit_ | a man and his matter | some, even within Nominalist bounds (_metas Nominalium non exeundo_), distinguish the quantity from the thing (Georgius Bruxellensis), so the man does not seem greater than his matter |
-| _cribro aquam hauriunt_ | Brunellus, the ass of the logic books | the same, said of the ass |
+| _cribro aquam hauriunt_ | Brunellus, the ass of the logic books | he does not extend through double the space of his matter (_non per spatii duplum protenditur_); taken up on 47a–47b (§26) |
 | _nodum in scirpo quaerunt_ | the spiral line (_linea gyrativa_) | drawn in a finite body, it is said to be infinitely long, so greater than the whole |
-| _litus aratur_ | a finger rarefied at Rome (_digito fortis Romae_, obscure) | the part is made greater than the whole |
+| _litus aratur_ | a finger rarefied at Rome (_digito fortis Romae_, obscure) | the part is made greater than the whole; 47b concedes that a body can grow by rarefaction without containing more (§26) |
 | _castra construunt in Hispania_ | an indivisible part of a man | _sua parte_ distributes over every part, including one that is not great |
 
 The last is the French _châteaux en Espagne_, castles in Spain, an odd image for an Aragonese to use.
@@ -2599,7 +2626,7 @@ Little here is new to a reader of pages 30–33. Dolz ties each species name to 
 
 ### The least terms
 
-Dolz declines the escape left open on 44b, that a proportion is denominated in many ways but greaterness is not taken from every denomination. That would not agree with the mathematicians. Instead (printed _quintum praeambulum_, §27):
+Dolz declines the escape left open on 44b, that a proportion is denominated in many ways but greaterness is not taken from every denomination. That would not agree with the mathematicians. Instead (printed _quintum praeambulum_; see the textual notes):
 
 > Denominatio proportionis sumenda venit a minimis terminis eiusdem.
 
@@ -2640,7 +2667,7 @@ In every row the least terms are "greater ÷ lesser" to "lesser ÷ lesser", and 
 | lesser inequality | $1$ to $2$, $1$ to $1\tfrac12$ | the same, compared lesser to greater; no list needed | 45b |
 | equality | any equal terms | indifferently | 45b |
 
-This is the taxonomy of §9–§11, now with one number per species. The printed _tripla sesquitertia_ for $3\tfrac12$ is corrected in the transcription to _sesquialtera_ (§27).
+This is the taxonomy of §9–§11, now with one number per species. The printed _tripla sesquitertia_ for $3\tfrac12$ is corrected in the transcription to _sesquialtera_ (see the textual notes).
 
 ### The general rule
 
@@ -2672,7 +2699,7 @@ Four observations of ours:
 - **Least terms are not lowest whole-number terms.** §23 and the Primer took "lowest form" as the reduced pair of whole numbers, $3:2$. Dolz instead puts the lesser term at unity, $1\tfrac12$ to $1$. Both give the same name, but Dolz's form makes the denomination a single number, the mixed number we write as the value $A\div B$. The mixed numbers of P2 are therefore his own, not a modern addition (P1, P2 corrected). The first corollary, that the least terms are those least in that proportion, holds because unity is not divided into a term. For example, $\tfrac34$ to $\tfrac12$ is also _sesquialtera_: $\tfrac12$ goes into $\tfrac34$ once, and the leftover $\tfrac14$ is half of $\tfrac12$. Its terms are smaller than $1\tfrac12$ and $1$, but it is excluded, because the lesser term must be unity itself, not a part of it.
 - **Value for order, composition for counting.** The denomination is the value, so 45b compares proportions by value, while 43b–44b measured them by composition (§22, §23). There is no conflict. Of two proportions of greater inequality, the one with the greater value always contains the other as a part plus something more (P7, Method 3), so the two measures agree on which is greater. They differ only on how many times one contains the other: by value $8:1$ is four times $2:1$, by composition three times (§20). Principle 3 (44b) is a claim about how many times; the rule of 45b only about which is greater. Page 46b confirms the agreement: Dolz proves the _quadrupla_ greater than the _dupla sesquialtera_ both _ex denominationibus_ and because $8:2$ contains $5:2$ as a part (§25).
 - **Lesser inequality is left open.** The rule is stated without restriction, but its propositions concern greater inequality only. Dolz does not say whether _subdupla_ or _subtripla_ is the greater. The propositions of 46a–46b do not say either (§25).
-- **Equality.** Its denomination does not matter _quia eius species nec aequales nec inaequales reperiuntur_. The sense is perhaps that equality has no species differing in size, so there is nothing to compare; as printed, the clause is odd (§27).
+- **Equality.** Its denomination does not matter _quia eius species nec aequales nec inaequales reperiuntur_. The sense is perhaps that equality has no species differing in size, so there is nothing to compare; as printed, the clause is odd (see the textual notes).
 
 ---
 
@@ -2732,7 +2759,7 @@ Two fourths make one aliquot part, the half, so the proportion is superparticula
 
 ### The number of parts decides nothing
 
-Without that order the name does not tell which _superpartiens_ is greater: _aliqua superbipartiens aliqua supertripartiente est maior et aliqua minor_. The print has _superpartiens_ for the first; the examples require _superbipartiens_ (§27). Two parts can outweigh three, or not. Both leftovers are parts of the same unity, so cut that unity into small units in which both kinds of part come out whole, and count.
+Without that order the name does not tell which _superpartiens_ is greater: _aliqua superbipartiens aliqua supertripartiente est maior et aliqua minor_. The print has _superpartiens_ for the first; the examples require _superbipartiens_ (see the textual notes). Two parts can outweigh three, or not. Both leftovers are parts of the same unity, so cut that unity into small units in which both kinds of part come out whole, and count.
 
 **Dolz's first example, _superbipartiens tertias_ $5:3$ against _supertripartiens tredecimas_ $16:13$.**
 
@@ -2831,7 +2858,7 @@ Dolz gives a second proof that the _quadrupla_ is greater: _est eius pars: 8 ad 
 | 8 | conclusion | $5:2$ is a part of $8:2$ | _quadrupla_ greater |
 | modern | | $\tfrac85\times\tfrac52=\tfrac{40}{10}$ | $4$ |
 
-The print has _5 ad 3_, emended to _5 ad 2_ (§27). $5:3$ is also a part of $8:2$ by preamble 2, since $5$ and $3$ both lie between $8$ and $2$. But it is _superbipartiens tertias_, not the _dupla sesquialtera_ the sentence names.
+The print has _5 ad 3_, emended to _5 ad 2_ (see the textual notes). $5:3$ is also a part of $8:2$ by preamble 2, since $5$ and $3$ both lie between $8$ and $2$. But it is _superbipartiens tertias_, not the _dupla sesquialtera_ the sentence names.
 
 So Dolz proves one comparison in both ways: by value, _patet ex denominationibus_ (45b), and by composition, _est eius pars_ (44a). This bears out the observation of §24 that the two measures agree on which proportion is greater.
 
@@ -2877,11 +2904,96 @@ Three observations of ours:
 
 - **_Ponibilis_ is a term of the art of obligations**: a proposition that can be admitted as _positum_ without contradiction. The art has appeared once before, in preamble 8 (27b, §5). The charge is that Dullaert's doctrine makes consistent what geometry forbids.
 - **_In his oris Aquitaniae_** places Dolz in Aquitaine, as the dedication does, and repeats the complaint of the Introduction about the teaching there.
-- **A guess, to be checked on 47a.** The first copulative is not contradictory if _b_ stands for several things: _a_ may be equal to them together and to none of them singly, while _nullum b_ distributes over them. This is the aggregate case of 39b (§18). Dullaert's text has not been checked.
+- **The guess made here was wrong.** We guessed that _b_ stands for several things taken as an aggregate (39b, §18). Page 47a shows instead that each letter stands for a quantified phrase, and the copulatives come out true by the order of the quantifiers (§26). Dullaert's text has not been checked.
 
 ---
 
-## 26. Summary of the doctrine
+## 26. The copulatives answered, and two bodies that seem double (47a–47b)
+
+Page 47 answers the three copulatives of 46b and adds two physical objections. The copulatives are true because of what the letters are made to stand for, not because of aggregates. The physical objections test the definition of _dupla_ by containment, _quando aliquid continet aliud bis praecise_ (30a, §9).
+
+### The copulatives are true by imposition
+
+Dolz makes each letter stand for a whole phrase, quantifier included (_Volo quod a valeat hoc totum…_). Put the phrase in place of the letter and read the quantifiers in the order they stand.
+
+| Copulative | Letters | Conjunct | Reads | True because |
+| --- | --- | --- | --- | --- |
+| 1 | _a_ = 'every quantitative part of Socrates', _b_ = 'some quantitative part of Socrates' | _a est aequale b_ | every part of Socrates is equal to some part of Socrates | each part is equal to itself |
+| | | _nullum b est aequale a_ | no part of Socrates is equal to every part of Socrates | the parts differ in size |
+| 2 | _a_ = 'animal', _b_ = 'man' | _a differt a b_ | an animal differs from man | an ass |
+| | | _nullum b differt ab a_ | no man differs from animal | every man is an animal |
+| 3 | _a_ and _c_ as _a_ in 1, _b_ as in 1 | _a est aequale b_, _c est aequale b_ | every part is equal to some part, twice over (_idem sensus_) | as in 1 |
+| | | _a non est aequale c_ (emended from _b_) | every part of Socrates is not equal to every part | its contradictory, _some part is equal to every part_, is false |
+
+**The same in modern notation.** The symbols:
+
+| Symbol | Means |
+| --- | --- |
+| $x$, $y$ | any quantitative part of Socrates |
+| $E(x,y)$ | "$x$ is equal to $y$" (_E_ for equal; one symbol for the two-place relation, as $x<y$ is one for "$x$ is less than $y$") |
+| $\forall x$ | "for every part $x$" (_quaelibet_) |
+| $\exists y$ | "there is some part $y$" (_aliqua_) |
+| $\neg$ | "it is not the case that" |
+
+| Latin | Formula | Read aloud | True? |
+| --- | --- | --- | --- |
+| _a est aequale b_ | $\forall x\,\exists y\,E(x,y)$ | for every part $x$ there is some part $y$ such that $x$ is equal to $y$ | yes: take $y$ to be $x$ itself |
+| _b est aequale a_, the sentence turned round | $\exists y\,\forall x\,E(y,x)$ | there is some part $y$ such that, for every part $x$, $y$ is equal to $x$ | no: no part is equal to all the others |
+| _nullum b est aequale a_ | $\neg\exists y\,\forall x\,E(y,x)$ | it is not the case that some part is equal to every part | yes: the denial of the row above |
+
+The first two rows differ only in the order of "every" and "some". Turning _a est aequale b_ round into _b est aequale a_ swaps that order, so the symmetry of equality only seems to fail. Between two single parts, $E(x,y)$ and $E(y,x)$ stand or fall together. Copulative 3 is the same: _a_ and _c_ are each equal to some part, but not to the same one, so Euclid's first common notion is not touched.
+
+Four observations of ours:
+
+- **Scope again.** This is the device of 38a, _every quantity is reached by some part_ against _some part reaches every quantity_ (§17), and of the fourth objection (39b, §18).
+- **Copulative 2 rests on _differt_.** Here the letters stand for plain terms. The rule of the _summulae_ that a verb containing a negation, as _differt_ contains _non est idem_, distributes the term after it explains the result: _animal differt ab homine_ says some animal is no man; _nullus homo differt ab animali_ says no man is outside every animal. Dolz does not state the rule; he says only that the copulative _multipliciter potest verificari_.
+- **The letters are not used as on 46b.** There the second copulative is _b differt ab a, et tamen a non differt a b_, and the third _a est aequale c, cui b est aequale_. The proofs on 47a have the letters the other way round, and copulative 2 is proved in the form of copulative 1 (_nullum b_). Within the proof of copulative 3, the printed _a non aequale b_ is glossed _non est aequalis cuilibet parti_, which is the sense of _c_; with _b_ (_alicui parti_) the clause would say that every part is equal to no part, which is false. The transcription reads _c_ (see the textual notes).
+- **The reply.** Dolz concedes all three _in sensibus pro quibus fiunt_ and denies that they touch geometry: _proportiones et principia geometriae non procedunt secundum tales impositiones sed in rebus simplicibus_. The principles concern single things, not quantified phrases. This is the strategy of the six objections, which saved the division of proportion by restricting it to single, determinate terms (§18).
+
+### Brunellus: double his matter, but not in double space
+
+The second objection takes up the case of 44a (§23), where Brunellus _non per spatii duplum protenditur ad spatium materiae_. Brunellus contains twice as much as his matter: the matter, and the form extended to the extension of the matter, _quidquid Paulus Venetus censeat in libris De anima_. So, by the definition, he is double his matter. But he does not extend through double the space, real or imaginary. The same holds of a corpse and its matter.
+
+| Question | First solution | Second solution |
+| --- | --- | --- |
+| is Brunellus double his matter? | yes, conceded: _non est magnum inconveniens_ | no, the sequela is denied |
+| what _duplum_ requires | containing twice (30a) | containing twice **and** extending through double space, real or imaginary |
+| the places | two things, one double the other, have naturally equal places | — |
+| Aristotle, place equal to the located (_Physics_ IV) | not a proportion of equality, but that the proper place contains nothing other than the located or its parts | — |
+| consequences conceded | _multa corollaria… quae facilia sunt_ | two bodies, one containing as much as the other, yet unequal; a body that will be greater than it is without containing anything it does not now contain |
+
+Three observations of ours:
+
+- **Two measures of size.** One measures what a thing contains, the other how much space it fills. The definitions of 30a measure by content; the second solution adds extension. Dolz leaves the choice open, as he left open the Nominalist and Realist answers of 41b–42a (§20, §21).
+- **The last consequence is rarefaction**, the finger rarefied at Rome of 44a (§23): a body grows without gaining anything.
+- **_Imaginarium_.** _Hoc addo si ponerentur in vacuo_: in a void a body has no real place, so its space must be imaginary. What Paulus Venetus held on the extension of the form has not been checked.
+
+### The two-foot cube is eightfold
+
+The third objection: take a body one foot long, wide, and deep, and another two feet in every dimension. The second contains the first eight times, so it would be _octuplum_ to it, _quod non videtur verum_. Dolz proves the sequela by cutting and concedes the conclusion, _respiciendo omnes dimensiones_.
+
+**What the cutting does.** Dolz wants to count how many one-foot bodies the two-foot body holds. Every side of the larger body is two feet, and half of two feet is one foot. So he cuts the body through the middle once in each of the three directions, like slicing a cake: once horizontally, once front to back, once left to right. Each cut goes through every piece already made, so it **doubles the number of pieces**. Each cut also **halves the pieces in one direction only**, the direction of the cut; the other two directions stay as they were.
+
+| After | What is cut | Number of pieces | Each piece: depth × breadth × length |
+| --- | --- | --- | --- |
+| start | nothing | $1$ | $2\times2\times2$ feet |
+| first cut | the body, through the middle of its depth | $2$ | $\mathbf{1}\times2\times2$: only the depth is halved |
+| second cut | each of the $2$ pieces, through the middle of its breadth | $2\times2=4$ | $1\times\mathbf{1}\times2$: now the breadth is halved |
+| third cut | each of the $4$ pieces, through the middle of its length | $4\times2=8$ | $1\times1\times\mathbf{1}$: the length is halved; each piece is now the smaller body |
+
+So the pieces do get smaller at every row, but one dimension at a time. After three cuts all three dimensions are one foot, and there are eight pieces. Dolz first describes each cut on its own, from the whole body: a cut by length alone gives two pieces one foot long, two feet wide, and two feet deep. The print says _pedaliter lata et pedaliter profunda_ there; the transcription reads _bipedaliter_, as in the parallel cuts (see the textual notes).
+
+Three observations of ours:
+
+- **The respect decides.** In each dimension alone the bodies stand in a _dupla_. Compared in length only, as the Realists compare line and body (§21), the larger is double; compared in all three dimensions, octuple. _Respiciendo omnes dimensiones_ names the respect, as the answers of 41b required (§20).
+- **One _dupla_ per dimension.** By composition, $8:1$ is the _dupla_ added to itself three times, chain $8,4,2,1$ (P6). Each cut in the table adds one link. So the larger body is eight times the smaller, and its proportion to it is three times the _dupla_; both are true, in the two senses of "how many times" (§20, §24). This is Euclid's rule that similar solids are in the triplicate proportion of their sides (XI.33), and surfaces in the duplicate (VI.20). Dolz does not cite it.
+- **Why it seemed false.** Probably because the bodies differ only by a _dupla_ in each dimension, and "twice as big" is the natural description. Dolz's reply, _respiciendo omnes dimensiones_, keeps both: twice the side, eight times the body.
+
+Dolz ends the objections: _multa alia argumenta deducerem, sed in philosophia reperies_. He chose these because they belong to the matter of proportions.
+
+---
+
+## Summary of the doctrine
 
 1. _Aliquot part_ is a **two-place relation** between a part and a whole, requiring exact measure and at least two repetitions.
 2. Dropping the second term of the relation is what generates every difficulty in preamble 8.
@@ -2964,10 +3076,13 @@ Three observations of ours:
 79. Every _multiplex_ and every _multiplex superparticularis_ exceeds every _superparticularis_. A _multiplex superparticularis_ exceeds its own multiple but not higher ones: the _quadrupla_ $8:2$ contains the _dupla sesquialtera_ $5:2$ as a part.
 80. A simple species may be greater than a composite one. "Composite" in the naming sense, $2+\tfrac12$, is not composition by chaining: the _dupla sesquialtera_ is the _dupla_ plus the _sesquiquarta_.
 81. Dolz shortens the work for unnamed reasons and postpones an examination of the geometrical principles. He opens an argument that Dullaert's doctrine of the whole would make consistent (_ponibiles_) denials of the symmetry of equality and of Euclid's first common notion.
+82. The copulatives are true when the letters stand for quantified phrases, because the order of the quantifiers changes when the sentence is turned round (47a). Dolz concedes them and denies that they touch geometry, whose principles concern single things, not such impositions.
+83. Brunellus contains twice as much as his matter but does not fill double the space. Dolz allows two answers: he is double, and place need not be in proportion to the located; or _duplum_ requires double extension as well as double content.
+84. A body two feet in every dimension is eightfold a body of one foot, _respiciendo omnes dimensiones_: one _dupla_ per dimension, chained three times.
 
 ---
 
-## 27. Textual notes
+## Textual notes
 
 Proposed emendations arising from the analysis. Those marked _insecure_ are recorded but not recommended for adoption.
 
@@ -3040,3 +3155,7 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 45a | pro quo sit **quintum praeambulum** | possibly **quintum principium** _(insecure)_ | The fifth preamble was given on 44a, and four principles precede; what follows is a principle of denomination |
 | 45a | tripla **sexquitertia** a ternario cum medietate | **sesquialtera** (adopted) | _Cum medietate_ requires _sesquialtera_ |
 | 45b | eius species nec aequales nec inaequales reperiuntur | _(obscure; left as printed)_ | Perhaps: equality has no species differing in size. One would expect all equalities to be equal |
+| 46b–47a | _b differt ab a, et tamen a non differt a b_; _a est aequale c, cui b est aequale_ | _(left as printed; sic in apparatus)_ | The proofs on 47a use the letters the other way round: _a differt a b… nullum b differt ab a_, and _a_ and _c_ equal to _b_ |
+| 47a | Tamen a non aequale **b** | **c** (adopted) | The gloss _non est aequalis cuilibet parti_ is the sense of _c_ ('quaelibet pars'); with _b_ ('aliqua pars') the clause would be false |
+| 47b | Divide secundum longitudinem: reperies duo pedaliter longa, **pedaliter** lata et **pedaliter** profunda | **bipedaliter** lata et **bipedaliter** profunda (adopted) | A single cut by length leaves breadth and depth at two feet, as the parallel cuts by breadth and depth state |
+| 47b | Divide quoad profunditatem, **prius ea** quamlibet medietatem quoad latitudinem | **postea** (adopted; conjectural) | The sequence is depth, then breadth, then (_postea_) length |

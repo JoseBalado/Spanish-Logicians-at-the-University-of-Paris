@@ -1330,8 +1330,33 @@ Primo arguitur deducendo aliqua quae ponuntur in philosophia Dullaert in materia
 
 ### Argumentum
 
-Sequeretur quod hae copulativae essent ponibiles: a est aequale b, et tamen nullum b est aequale a. Similiter quod b differt ab a, et tamen a non differt a b. Similiter quod a est aequale c, cui b est aequale, tamen a non est aequale b. Ista sunt contra propositiones nostras et principia geometriae /47a/.
+Sequeretur quod hae copulativae essent ponibiles: a est aequale b, et tamen nullum b est aequale a. Similiter quod b differt ab a, et tamen a non differt a b. Similiter quod a est aequale c, cui b est aequale, tamen a non est aequale b.
 
+## Argumenta contra principia geometriae
+
+Ista sunt contra propositiones nostras et principia geometriae /47a/, maxime contra illud: quaecumque sunt aequalia uni tertio sunt aequalia inter se, igitur. Copulative verificantur. Volo quod a valeat hoc totum 'quaelibet pars quantitativa Sortis', b hoc totum 'aliqua pars quantitativa Sortis'. Tunc a est aequale b, id est quaelibet pars quantitativa Sortis est aequalis alicui parti quantitativae Sortis; tamen nullum b est aequale a, id est nulla pars quantitativa Sortis est aequalis cuilibet parti quantitativae Sortis. Omnia haec constat esse vera.
+
+Secunda multipliciter potest verificari, in ea non est magna difficultas. Nam valeat ly 'a' ly 'animal', ly 'b' ly 'homo'. Tunc a differt a b, id est animal differt ab homine; tamen nullum b differt ab a, id est nullus homo differt ab animali. Haec manifesta sunt.
+
+Tertia probatur. Valeat ly 'a' ut in prima, ly 'b' etiam ut in prima, c ut ly 'a'. Tunc a est aequale b, id est quaelibet pars quantitativa Sortis est aequalis alicui parti quantitativae Sortis cui c est aequale, quia sensus est 'c est aequale b' est idem sensus, et sic oportet ipsum accipere. Tamen a non aequale c, id est quaelibet pars quantitativa Sortis non est aequalis cuilibet parti quantitativae Sortis. Et hoc est verum, quia sua contradictoria est falsa: aliqua pars quantitativa Sortis est aequalis cuilibet parti quantitativae Sortis, ut constat.
+
+### Responsio
+
+Ad ista respondetur breviter concedendo omnes illas in sensibus pro quibus fiunt et ad propositum illius cuius inferimur. Et quando dicis talia sunt contra proportiones et principia geometrica, inficior, nam proportiones et principia geometriae non procedunt secundum tales impositiones sed in rebus simplicibus, ut constat.
+
+### Secundum argumentum
+
+Secundo arguitur: si dicta essent vera, sequeretur quod Brunelli ad suam materiam esset proportio dupla. Sed hoc est falsum, igitur. Sequela patet: Brunellus continet bis tantum ut est materia, scilicet ipsam materiam et ipsam formam extensam ad extensionem materiae, quidquid Paulus Venetus censeat in libris *De anima*. Igitur habet proportionem duplam ad suam materiam. Sed quod hoc sit falsum patet, nam tunc Brunellus esset duplus ad suam materiam, quod non communiter concederetur. Item non protenditur per duplum spatium verum vel imaginarium quam sua materia, igitur non est duplus ad illam. Idem est argumentum de cadavere in ordine ad suam materiam.
+
+### Responsio
+
+Ad hoc argumentum duplex potest defendi solutio. Una concedendo illam sequelam et quod Brunellus est duplus ad suam materiam; hoc non est magnum inconveniens /47b/. Et concedo quod non protenditur per spatium duplum. Dico quod illud non oportet, et sic dantur duo quorum unum est duplum ad aliud, tamen loca eorum sunt aequalia naturaliter. Et multa corollaria concedenda possunt inferri ex hac opinione quae facilia sunt. Et si dicas locus debet esse aequalis locato ex Aristotele quarto *Physicorum*, dico quod hoc non debet sic intelligi, id est debet habere proportionem aequalitatis cum locato, sed sic, id est non continet aliud a locato vel eius partibus, loquendo de loco proprio. Sed de hoc in philosophia.
+
+Alio modo potest dici ad argumentum negando illam sequelam, et ad probationem dico quod illud non sufficit. Et si probes per dicta, dico quod dicta sunt intelligenda cum limitatione quam iam superaddam: oportet quod per duplum spatium protendatur verum vel imaginarium. Hoc addo si ponerentur in vacuo. Et sic concedendum est dantur duo corpora quorum unum tantum continet quantum aliud, tamen non sunt aequalia. Item concedendum est quod datur unum corpus quod erit maius quam iam est, tamen nihil continebit quod iam non contineat, et multa similia.
+
+Tertio arguitur: sequeretur, si dicta essent vera, quod datis duobus corporibus quorum unum est pedaliter longum, pedaliter latum et pedaliter profundum, aliud vero est bipedale secundum omnem dimensionem, secundi ad primum esset proportio octupla, et esset octuplum ad primum, quod non videtur verum. Sequela patet: continet octies tantum, ut illud patet. Continet duo aeque longa, duo aeque lata, duo aeque profunda; quodlibet istorum est aeque longum et latum et profundum. Divide secundum longitudinem: reperies duo pedaliter longa, bipedaliter lata et bipedaliter profunda. Divide secundum latitudinem et habebis duo lata pedaliter, bipedaliter longa et bipedaliter profunda. Divide quoad profunditatem et reperies duo pedaliter profunda, bipedaliter longa, bipedaliter lata. Continet igitur, si respicias, octies tantum ut aliud. Divide quoad profunditatem, postea quamlibet medietatem quoad latitudinem: habebis quattuor partes. Postea quamlibet illarum secundum longitudinem, et habebis octo quorum quodlibet est pedaliter longum, latum et profundum, ut aliud est. Igitur ad hoc concedo illud quod infertur, respiciendo omnes dimensiones.
+
+Multa alia argumenta deducerem, sed in philosophia reperies. Ista adduxi quia, si bene respicias, sunt ad nostram materiam pertinentia. /48a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1407,5 +1432,13 @@ Page 45b: maioris ] emend. maioribus
 Page 45b: propositiones ] conj. ꝓportiōes (cf. Prima, Secunda, Tertia propositio)
 Page 46a: superbipartiens ] emend. superpartiens (aliqua superbipartiens aliqua supertripartiente; cf. the examples superbipartiens tertias, superbipartiens undecimas)
 Page 46b: 5 ad 2 ] emend. 5 ad 3 (dupla sesquialtera; part of 8 ad 2)
+Page 46b: b differt ab a, et tamen a non differt a b ] sic (the proof on 47a has a differt a b ... nullum b differt ab a)
+Page 46b: a est aequale c, cui b est aequale, tamen a non est aequale b ] sic (the proof on 47a has a and c equal to b, and a non aequale c)
+Page 47a: Volo quod a valeat ] Volo quod valeat
+Page 47a: c ] emend. b (a non aequale c; the gloss cuilibet parti is the sense of c)
+Page 47b: multa ] emend. nulla
+Page 47b: bipedaliter ] emend. pedaliter (lata, after a cut by length only)
+Page 47b: bipedaliter ] emend. pedaliter (profunda, after a cut by length only)
+Page 47b: postea ] conj. prius ea
 
 -->

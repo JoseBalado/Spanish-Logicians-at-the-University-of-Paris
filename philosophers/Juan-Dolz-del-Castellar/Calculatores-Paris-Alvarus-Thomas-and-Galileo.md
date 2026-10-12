@@ -1,6 +1,6 @@
 ---
 title: The Paris calculatores, Alvarus Thomas, and Galileo
-description: How the kinematics of the Oxford Calculators reached Paris around 1500, what Alvarus Thomas's Liber de triplici motu (1509) contains, how it compares with Galileo's Discorsi, what Duhem claimed, and where Pardo, Mair, Lax, Coronel, Celaya, Dolz, and Soto fit.
+description: How the kinematics of the Oxford Calculators reached Paris around 1500, what Alvarus Thomas's Liber de triplici motu (1509) contains, how it compares with Galileo's Discorsi, what Duhem claimed, and where Pardo, Mair, Lax, Coronel, Celaya, Dolz, and Soto fit, and how little of this has been studied.
 keywords: Alvarus Thomas, Liber de triplici motu, Galileo, Duhem, precursors of Galileo, Oxford Calculators, Swineshead, Heytesbury, Bradwardine, Oresme, mean speed theorem, uniformiter difformis, Domingo de Soto, Gaspar Lax, Juan Dolz, Jerónimo Pardo, John Mair, Collège de Montaigu
 ---
 
@@ -461,7 +461,7 @@ Despite their title, Lax's _Quaestiones physicales_ do not follow the books of A
 
 **Dolz and Celaya.** The _Cunabula_ opens with an _Invectiva … in Iohannem de Celaya_ in eighteen _reprehensiones_. They concern logic and the defence of Lax's definitions. Dolz never mentions Celaya's _Physics_, printed the year before, although both were Lax's students.
 
-**Villoslada.** His judgements on Mair's circle (Lax, Dolz, the Coronels) are hostile. They are written from the humanist and Thomist side of Vives's critique, without mathematical or logical training, and carry little weight on technical questions. The modern recovery of the circle came from historians of logic with formal training: Ashworth, Muñoz Delgado, and Ángel d'Ors. His remark that Alvarus was superior to Celaya as a mathematician (section 8.4) is nevertheless supported independently by Wallace.
+**Villoslada.** His judgements on Mair's circle (Lax, Dolz, the Coronels) are hostile. They are written from the humanist and Thomist side of Vives's critique, without mathematical or logical training, and carry little weight on technical questions. The technical recovery of the circle's logic came from historians of logic with formal training, above all Ashworth and Ángel d'Ors; Muñoz Delgado supplied the bio-bibliographical groundwork (section 11.3). His remark that Alvarus was superior to Celaya as a mathematician (section 8.4) is nevertheless supported independently by Wallace.
 
 ---
 
@@ -612,6 +612,7 @@ Rey Pastor's 1926 request has still not been met. Leitão's warning also stands:
 - **Soto's logic**: compare the _Summulae_ of 1529 with the later editions, and with Ashworth's assessment of them.
 - **Soto and Celaya**: how much of Soto's _Physics_ on motion derives from Celaya's.
 - **Villoslada**: check his judgements against the texts before citing them (section 6.6).
+- **State of research on Lax and Dolz** (section 11.3): add the details of the doctoral thesis on Lax's _obligationes_; check whether Rey Pastor (1926) treats Lax's _Arithmetica_ and _Proportiones_ or only Ciruelo and Silíceo; check whether Duhem mentions Dolz or Lax's mathematical and physical works at all; search Ashworth's bibliography (1978) for any entry on either; check what Élie says about them.
 
 ---
 
@@ -643,6 +644,135 @@ The priority is the problem-driven treatises, plus Celaya as the most mathematic
 
 ---
 
+## 11. State of research and approach
+
+### 11.1 An uneven field
+
+Sixteenth-century scholasticism has been studied very unevenly. There is no bibliometric count, but the order is broadly accepted:
+
+| Field | Extent of study | Examples |
+|---|---|---|
+| Theology, law, political thought | By far the most studied | The School of Salamanca (Vitoria, Soto, Molina, Suárez): natural law, _ius gentium_, the conquest of America, early economics |
+| Logic | Much less; a revival since the 1960s | Ashworth, Ángel d'Ors; Muñoz Delgado's inventories. Most texts of Mair's circle still have no modern edition |
+| Natural philosophy | Less again | Read mostly for the Galileo question (section 5) |
+| Mathematical natural philosophy and speculative mathematics | The least studied | Alvarus (Duhem, Wieleitner, Sylla); almost nothing on Lax and Dolz |
+
+The mathematical part is neglected for structural reasons:
+
+- **It falls between disciplines.** Philosophers tend to avoid the mathematics; historians of science tend to pass over it as pre-scientific. Reading it requires Latin, scholastic logic, and the theory of proportions at once.
+- **Attention went to the fourteenth-century originals.** Bradwardine, Heytesbury, Swineshead, Dumbleton, and Oresme have a technical literature (Clagett, Murdoch, Molland, Sylla). Their sixteenth-century Parisian continuators mostly appear in footnotes.
+- **The humanist verdict stuck.** Vives's mockery of the _sophismata_ (section 6.5) was repeated by later historians, Villoslada among them (section 6.6).
+- **There are no editions.** Nearly all these books survive only in their early printings.
+
+### 11.2 Read through Galileo
+
+Since Duhem the main question put to this physics has been whether it anticipated Galileo (section 5). The passages that point forward (the mean-speed rule, the 1 : 3 rule, accelerated fall) have been studied; the rest (the logical apparatus, the _sophismata_, proportion theory for its own sake) has been largely ignored.
+
+This is why **Soto** is the most studied author of the group for physics: his statement about falling bodies (section 4.1), and Wallace's path from Soto to the Collegio Romano and Galileo's early notebooks (section 5). Even so, his physics is a small part of Soto scholarship, which is mainly about theology, _De iustitia et iure_, grace, and Trent.
+
+The main exception is Sylla (1989), who reads Alvarus's calculations within logic and disputation rather than as anticipations.
+
+### 11.3 By author
+
+Two kinds of secondary literature should be kept apart:
+
+- **Bio-bibliographical and descriptive**: Villoslada (1938), Matos (1950), Élie (1950–51), Muñoz Delgado. Indispensable for locating texts, dates, colleges, and teachers, but it does not reconstruct arguments or check the mathematics. Villoslada is moreover hostile to the circle (section 6.6). How far Élie goes into doctrine remains to be checked.
+- **Technical**: work that reconstructs the logic or the mathematics. For logic: Ashworth, d'Ors, and the formal studies of section 11.5. For proportions and kinematics: Clagett, Murdoch, Molland, and Sylla, almost all on the fourteenth century.
+
+| Author | Technical study known | Notes |
+|---|---|---|
+| **Alvarus Thomas** | Some | Duhem, Wieleitner (series), Clagett, Wallace, Sylla (section 8.5) |
+| **Soto** | Some, for physics | Through the Galileo question (Wallace) |
+| **Celaya** | A little | Duhem on his _Physics_; some modern studies of his logic, especially _obligationes_ |
+| **Dullaert** | Very little | Flemish, not Spanish; teacher of several of the Spaniards. Discussed by Duhem |
+| **Luis Coronel** | Very little | Duhem; Wallace on method |
+| **Lax** | Almost none | A doctoral thesis on his _obligationes_. Possibly a chapter in Rey Pastor (1926) on his mathematics (to verify). Nothing known on the _Calculationes_ or the _Quaestiones physicales_ |
+| **Dolz** | None known | Mentioned in surveys; no study of the _Cunabula_ |
+
+Duhem, the only author to survey the Parisian physics as a whole, does not appear to have read Dolz or Lax's mathematical and physical works (to verify, section 9).
+
+### 11.4 Mathematics
+
+The mathematics of this milieu is arguably even less studied than its physics.
+
+| Author | Work | State of study |
+|---|---|---|
+| **Pedro Ciruelo** | _Cursus quattuor mathematicarum artium liberalium_ (Alcalá, 1516); commentary on Sacrobosco's _Sphere_ | The best known; treated by historians of Spanish science |
+| **Juan Martínez Silíceo** | _Ars arithmetica_ (Paris, 1514) | A little, partly because he later became archbishop of Toledo |
+| **Gaspar Lax** | _Arithmetica speculativa_ and _De proportionibus arithmeticis_ (Paris, 1515) | Almost none |
+
+The reasons:
+
+- This mathematics is **speculative and Boethian**, or **proportion theory** after Bradwardine and Oresme, not algebra or practical arithmetic. Histories of mathematics follow the line that leads to algebra and analysis, and this one looks like a dead end.
+- It was written **for the calculatory physics**: ratios of speeds, of powers to resistances, of intensities. It cannot be understood without the physics, and the physics not without the logic.
+- The practical Spanish arithmetic of later in the century (Marco Aurel, Valencia, 1552; Pérez de Moya, Salamanca, 1562) has drawn more interest.
+
+Three points of this mathematics recur throughout the texts:
+
+- A **_proportio_** is a relation between two magnitudes of the same kind, not a number (section 2.2), classified in the Boethian way: _dupla_, _sesquialtera_ (3 : 2), _superparticularis_, and so on.
+- **Adding** ratios means compounding them, which is what is now called multiplying: $2:1$ "added" to $2:1$ gives $4:1$. Accordingly, **half** of a ratio is what is now a square root, and **double** a ratio is a square.
+- This is what makes **Bradwardine's rule** (section 1.1) exponential: to double a speed, the ratio of power to resistance must be squared, $v \propto \log(F/R)$, almost three centuries before Napier's logarithms (1614).
+
+### 11.5 Approach of this site
+
+**Earlier formal readings.** Applying modern logic to medieval texts has a tradition:
+
+- Łukasiewicz (1951) reconstructed Aristotle's syllogistic in modern formal logic.
+- Spade (1982) reconstructed theories of _obligationes_.
+- Dutilh Novaes (2007) formalized _suppositio_, consequence, and _obligationes_, reading the last as games.
+- Uckelman (2009) applied modal and dynamic logic to medieval modalities and _obligationes_.
+
+These readers came from formal logic and asked what a medieval theory amounts to in modern terms. Historians of science came, after Duhem, looking for precursors of their own field. As far as is known, none of these approaches has been applied to the physics and mathematics of Lax and Dolz.
+
+**This site starts from the texts.**
+
+- There is no thesis to defend: the aim is neither to find precursors nor to show that there are none. Whether these texts are related to later physics is to be decided after reading them, not before.
+- The concepts the texts presuppose are learned from the texts. The theory of proportions, for instance, was learned here from Dolz's _Cunabula_, as his students learned it, and not from a modern reconstruction.
+- Modern tools (algebra, analysis, modal logic and Kripke models, type theory) come **after** reading, as aids to understanding. They may have to be adapted, or new ones devised, if the texts require it.
+
+Two levels are kept apart and labelled:
+
+| Level | Question | Example on this page |
+|---|---|---|
+| Historical reconstruction | What does the text say, in its own terms? | Alvarus's three propositions on distance, time, and speed (section 2.2) |
+| Rational reconstruction | How can it be stated or tested with modern tools? | The same propositions as $\frac{s_1}{s_2} = \frac{t_1}{t_2}\cdot\frac{v_1}{v_2}$ |
+
+No reader starts without a lens. The working hunch of this site, that the calculatory tradition is a kind of theoretical physics, is itself one, and the texts may correct it.
+
+**Theoretical physics?** Mathematical physics as such is older than the fourteenth century: Archimedes on statics and hydrostatics, and the medieval _scientia de ponderibus_ of Jordanus. What begins with Bradwardine, Heytesbury, and Swineshead is a mathematics of **change**: speeds, accelerations, and intensities of qualities, with limits, first and last instants, _maxima_ and _minima_, and infinite series. Because the Calculators reasoned _secundum imaginationem_ (section 4.1), deriving conditionals about imagined cases without asking whether nature satisfies them, the comparison with theoretical physics is less forced than it first seems. Whether Lax and Dolz go beyond Alvarus, and through him beyond Heytesbury and Swineshead, is the open question of section 6.6.
+
+### 11.6 Form and content
+
+The calculatory books are written in the forms of the disputation: a _casus_ is posited (_ponatur quod a moveatur …_), a _sophisma_ is proved and disproved, and Heytesbury's book is titled _Regulae solvendi sophismata_. Sylla (1989) places Alvarus's calculations in the logical and disputational training of the arts faculty. Read as a claim about **context**, this is right. Read as a claim that the **content** is therefore not mathematics or physics, it confuses form with content.
+
+**The format is not the content.** Mathematics has often been written in dialogue: Recorde's _Ground of Artes_ (1543) is a conversation between master and scholar, and Galileo's _Dialogo_ (1632) and _Discorsi_ (1638) are dialogues. No one concludes that these are plays rather than mathematics. The opposite mistake is Vives's: judging a syllogism by whether Cicero would have approved of its prose (section 6.5).
+
+**What the form does affect.** Disputation was more than a way of presenting material. It was the working practice of the university: bachelors disputed _sophismata_ in public. It therefore shaped **which problems were chosen**: paradoxes, limit cases, first and last instants, _maxima_ and _minima_, the border between finite and infinite. A modern parallel is olympiad problems, written for training and competition and biased toward tricky borderline cases, yet real mathematics, and sometimes the start of real questions.
+
+| | Form | Content |
+|---|---|---|
+| What it is | Disputation, _casus_, _sophisma_ | Proportions, latitudes, series |
+| What it decides | Which problems are chosen and how they are presented | Whether the results are correct |
+| Can it be judged by the other? | No | No |
+
+**Only the _casus_ is hypothetical.** The comparison with _obligationes_ is instructive. There, a _positio_ is admitted and the respondent answers _concedo_, _nego_, or _dubito_ under explicit rules; the rules of logic are not themselves in dispute. In a calculation the same holds for mathematics. What is posited is always a **physical case** (a uniform medium, a constant power, a speed increasing uniformly), never a mathematical falsehood: no _casus_ posits that two and two make five. The mathematics is the fixed rule by which the case is judged. And _obligationes_ also aim at something true: whether the answers remain consistent, and what follows from what. The calculations aim at true **conditionals**: if the motion is such, then the distance is such (section 4.1).
+
+**_Secundum imaginationem_ is not fantasy.** Medieval _imaginatio_ is not the modern faculty of free invention:
+
+- In Aristotelian and Avicennian psychology it is an **internal sense**. It retains images received from **experience** and recombines them; it does not create from nothing. Pardo's physics text gives the same impression.
+- An imagined case must be **possible**: free of contradiction, even if nature never realizes it.
+- In Oresme, "imagining" an intensity as a geometric figure is a **representation**, not a fiction.
+
+Imagined cases are therefore constrained twice, by experience and by logic. The nearest modern equivalent is the **idealized model**: the frictionless plane or the point mass, built from experience, exact under stated conditions, and known not to hold exactly in the world. A laboratory result that fails in mass production is a related case, though a laboratory measures and the Calculators did not. They knew that reality interferes: Alvarus appeals to swimmers' experience of a river's resistance (section 2.7). Galileo still reasons the same way, proving theorems about ideal motions and excusing deviations by _impedimenti_.
+
+| Stage | What is claimed |
+|---|---|
+| The Calculators | An imagined case, within experience and logic, and what follows from it |
+| Galileo | An idealized model, asserted to approximate a real motion (falling bodies) |
+| Galileo's inclined plane | A measured check of that approximation (section 4.3) |
+
+---
+
 ## References
 
 ### Primary sources
@@ -652,26 +782,36 @@ The priority is the problem-driven treatises, plus Celaya as the most mathematic
 - Euclid. _Elements_. Book V, definitions 3–4.
 - Fibonacci (Leonardo of Pisa). _Liber abaci_. 1202.
 - Galilei, Galileo. Letter to Paolo Sarpi, 16 October 1604. _Le Opere di Galileo Galilei_, Edizione Nazionale, X, 115–116.
+- Galilei, Galileo. _Dialogo sopra i due massimi sistemi del mondo_. Florence, 1632.
 - Galilei, Galileo. _Discorsi e dimostrazioni matematiche intorno a due nuove scienze_. Leiden, 1638. Third Day.
 - Newton, Isaac. _Arithmetica universalis_. Cambridge, 1707.
 - Pardo, Jerónimo. _Medulla Dyalectices_. Paris, 1505. [Transcription](../Jeronimo-Pardo/Medulla-Dyalectices-1505.html).
 - Pardo, Jerónimo (attr.). _Principiorum Phisicorum et Introductiones Librorum Animae_. Institución Colombina, MS 7-2-29. [Transcription](../Jeronimo-Pardo/Principiorum-Phisicorum-et-Introductiones-Librorum-Animae.html).
+- Recorde, Robert. _The Ground of Artes_. London, 1543.
 - Soto, Domingo de. _Super octo libros Physicorum Aristotelis quaestiones_. Salamanca, 1545; revised edition, 1551.
 
 ### Secondary literature
 
+- Ashworth, E. J. _Language and Logic in the Post-Medieval Period_. Dordrecht, 1974.
+- Ashworth, E. J. _The Tradition of Medieval Logic and Speculative Grammar from Anselm to the End of the Seventeenth Century: A Bibliography from 1836 Onwards_. Toronto, 1978.
 - Clagett, Marshall. _The Science of Mechanics in the Middle Ages_. Madison, 1959.
 - Crosby, H. Lamar. _Thomas of Bradwardine: His Tractatus de Proportionibus_. Madison, 1955.
 - Drake, Stillman. "Galileo's Discovery of the Law of Free Fall." _Scientific American_ 228 (1973).
+- Dutilh Novaes, Catarina. _Formalizing Medieval Logical Theories: Suppositio, Consequentiae and Obligationes_. Dordrecht, 2007.
 - Duhem, Pierre. _Études sur Léonard de Vinci_. 3 vols. Paris, 1906–1913. Vol. III: _Les précurseurs parisiens de Galilée_ (1913).
 - Élie, Hubert. "Quelques maîtres de l'Université de Paris vers l'an 1500." _Archives d'histoire doctrinale et littéraire du Moyen Âge_ 18 (1950–51), 193–243.
 - Koyré, Alexandre. _Études galiléennes_. Paris, 1939.
 - Leitão, Henrique. "Notes on the life and work of Álvaro Tomás." _Boletim do Centro Internacional de Matemática_ 9 (2000), 10–15. [Archived copy](https://web.archive.org/web/20050527074241/http://at.yorku.ca/i/a/a/h/11.htm).
+- Łukasiewicz, Jan. _Aristotle's Syllogistic from the Standpoint of Modern Formal Logic_. Oxford, 1951.
 - Maier, Anneliese. _Die Vorläufer Galileis im 14. Jahrhundert_. Rome, 1949.
 - Matos, Luís de. _Les Portugais à l'Université de Paris entre 1500 et 1550_. Coimbra, 1950.
+- Molland, A. G. "The Geometrical Background to the 'Merton School'." _British Journal for the History of Science_ 4 (1968), 108–125.
+- Murdoch, John E. "The Medieval Language of Proportions." In A. C. Crombie (ed.), _Scientific Change_. London, 1963, 237–271.
 - Rey Pastor, Julio. _Los matemáticos españoles del siglo XVI_. Toledo, 1926.
 - Soares, Luís Ribeiro. _Pedro Margalho_. Lisbon, 2000.
+- Spade, Paul Vincent. "Three Theories of _Obligationes_: Burley, Kilvington and Swyneshed on Counterfactual Reasoning." _History and Philosophy of Logic_ 3 (1982), 1–32.
 - Sylla, Edith D. "Alvarus Thomas and the Role of Logic and Calculations in Sixteenth Century Natural Philosophy." In S. Caroti (ed.), _Studies in Medieval Natural Philosophy_. Florence, 1989, 257–298.
+- Uckelman, Sara L. _Modalities in Medieval Logic_. PhD thesis, ILLC, University of Amsterdam, 2009.
 - Villoslada, Ricardo G. _La Universidad de París durante los estudios de Francisco de Vitoria, O.P. (1507–1522)_. Rome, 1938.
 - Wallace, William A. "The Enigma of Domingo de Soto: _Uniformiter difformis_ and Falling Bodies in Late Medieval Physics." _Isis_ 59 (1968), 384–401.
 - Wallace, William A. "The _Calculatores_ in Early Sixteenth-Century Physics." _British Journal for the History of Science_ 4 (1969), 221–232.

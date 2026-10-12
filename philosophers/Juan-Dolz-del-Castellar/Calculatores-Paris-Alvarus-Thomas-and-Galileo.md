@@ -612,6 +612,7 @@ Rey Pastor's 1926 request has still not been met. Leitão's warning also stands:
 - **Soto's logic**: compare the _Summulae_ of 1529 with the later editions, and with Ashworth's assessment of them.
 - **Soto and Celaya**: how much of Soto's _Physics_ on motion derives from Celaya's.
 - **Villoslada**: check his judgements against the texts before citing them (section 6.6).
+- **Sylla's thesis** (section 11.6): read Sylla (1989) to confirm whether she holds that the calculations were disputational exercises rather than mathematics or physics, and how much mathematical analysis the article contains.
 - **State of research on Lax and Dolz** (section 11.3): add the details of the doctoral thesis on Lax's _obligationes_; check whether Rey Pastor (1926) treats Lax's _Arithmetica_ and _Proportiones_ or only Ciruelo and Silíceo; check whether Duhem mentions Dolz or Lax's mathematical and physical works at all; search Ashworth's bibliography (1978) for any entry on either; check what Élie says about them.
 
 ---
@@ -670,7 +671,7 @@ Since Duhem the main question put to this physics has been whether it anticipate
 
 This is why **Soto** is the most studied author of the group for physics: his statement about falling bodies (section 4.1), and Wallace's path from Soto to the Collegio Romano and Galileo's early notebooks (section 5). Even so, his physics is a small part of Soto scholarship, which is mainly about theology, _De iustitia et iure_, grace, and Trent.
 
-The main exception is Sylla (1989), who reads Alvarus's calculations within logic and disputation rather than as anticipations.
+The main exception is Sylla (1989), who reads Alvarus's calculations within logic and disputation rather than as anticipations; on the limits of that reading, see section 11.6.
 
 ### 11.3 By author
 
@@ -743,11 +744,11 @@ No reader starts without a lens. The working hunch of this site, that the calcul
 
 ### 11.6 Form and content
 
-The calculatory books are written in the forms of the disputation: a _casus_ is posited (_ponatur quod a moveatur …_), a _sophisma_ is proved and disproved, and Heytesbury's book is titled _Regulae solvendi sophismata_. Sylla (1989) places Alvarus's calculations in the logical and disputational training of the arts faculty. Read as a claim about **context**, this is right. Read as a claim that the **content** is therefore not mathematics or physics, it confuses form with content.
+The calculatory books are written in the forms of the disputation: a _casus_ is posited (_ponatur quod a moveatur …_), a _sophisma_ is proved and disproved, and Heytesbury's book is titled _Regulae solvendi sophismata_. Sylla (1989) is usually summarized as arguing that Alvarus's calculations were exercises in the logical and disputational training of the arts faculty, reasoning _secundum imaginationem_, rather than an attempt at mathematics or physics of the real world. This page has not yet checked that summary against her article (section 9). **If that is her thesis, this page rejects it**: it takes the form of exposition for the content, and the objections below are directed against it. That the books were written for and within the disputational practice of the university is not in question; that this makes their content something other than mathematics and physics is.
 
 **The format is not the content.** Mathematics has often been written in dialogue: Recorde's _Ground of Artes_ (1543) is a conversation between master and scholar, and Galileo's _Dialogo_ (1632) and _Discorsi_ (1638) are dialogues. No one concludes that these are plays rather than mathematics. The opposite mistake is Vives's: judging a syllogism by whether Cicero would have approved of its prose (section 6.5).
 
-**What the form does affect.** Disputation was more than a way of presenting material. It was the working practice of the university: bachelors disputed _sophismata_ in public. It therefore shaped **which problems were chosen**: paradoxes, limit cases, first and last instants, _maxima_ and _minima_, the border between finite and infinite. A modern parallel is olympiad problems, written for training and competition and biased toward tricky borderline cases, yet real mathematics, and sometimes the start of real questions.
+**What the form does affect.** This does not concede the thesis. Disputation was more than a way of presenting material. It was the working practice of the university: bachelors disputed _sophismata_ in public. It therefore shaped **which problems were chosen**: paradoxes, limit cases, first and last instants, _maxima_ and _minima_, the border between finite and infinite. A modern parallel is olympiad problems, written for training and competition and biased toward tricky borderline cases, yet real mathematics, and sometimes the start of real questions.
 
 | | Form | Content |
 |---|---|---|

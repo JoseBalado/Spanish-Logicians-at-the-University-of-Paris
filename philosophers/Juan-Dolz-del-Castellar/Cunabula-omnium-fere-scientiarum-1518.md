@@ -1358,6 +1358,31 @@ Tertio arguitur: sequeretur, si dicta essent vera, quod datis duobus corporibus 
 
 Multa alia argumenta deducerem, sed in philosophia reperies. Ista adduxi quia, si bene respicias, sunt ad nostram materiam pertinentia. /48a/
 
+## De comparatione proportionum
+
+### Dubia
+
+Incidunt duo dubia circa praedicta. Primum: videtur quod proportio maioris inaequalitatis sit infinite magna eo modo quo proportio dicitur magna. Secundum: quid dicendum est si proportio maioris inaequalitatis et minoris inaequalitatis et aequalitatis inter se comparentur super maioritate vel minoritate inter eas.
+
+Ad primum sic arguitur: proportio maioris inaequalitatis continet infinitas inaequales non communicantes, igitur est infinita. Pro solutione nota quod haec solutio dependet ex solutione secundi dubii, ideo ad ambo simul respondetur.
+
+### Lax
+
+Lax in suis proportionibus tenet quod proportio maioris inaequalitatis est maior quacumque aequalitatis aut minoris inaequalitatis, et proportio aequalitatis maior proportione minoris inaequalitatis. Sed dicit quod in nulla proportione est maior, sic quod nulla est proportio alicuius illarum ad aliam. Sed licet hic praeceptor meus, cui condignum eruditionis nunquam referam, subtiliter loquatur, loquar tamen facilius pro his quibus scribo: quod illa non sunt comparabilia inter se, ideo non est proportio.
+
+### Suisset
+
+Et ista videtur esse sententia Suisset in plerisque locis, sicut de aliquibus aliis exemplificatum est, sicut etiam reperitur simile frequenter in philosophia et etiam in theologia in comparatione mortalis et venialis et aliorum plurium. Ubi non est comparatio ibi non est proportio, nec maioritas, minoritas aut aequalitas. Et si velis habere recursum ad denominationes positas in hoc tractatu, dico quod illa sunt intelligenda dum eodem modo sumantur et eodem ordine. Argumentum factum iam non currit contra nos; negandum est antecedens, nec unquam probabis.
+
+Item quaelibet multiplex superpartiens aliqua multiplici est maior, sed non qualibet. Patet: quadrupla maior est dupla superbipartiente quintas, nam denominatio est, ut constat, maior. Item quaelibet multiplex superpartiens quacumque superpartiente est maior; non instabis de aliqua.
+
+Et si petas quid comparando superparticulares ad superpartientes dicendum erit, habeas recursum ad regulam generalem. Vides superbipartientem tertias sesquialteram maiorem, cum duae tertiae medietate totius maius efficiant, et superbipartiens quintas /48b/ est sesquialtera minor, duae quintae minus constituunt medietate. Et multas tales sic reperies. Verum superbipartiens tertias quacumque superparticulari est maior, quia est maior sesquialtera, quae est maior inter omnes superparticulares. Et superbipartiens quintas non est maior quacumque superparticulari, nam non est maior sesquialtera, quia medietas maior est duabus quintis, nam medietas est duae quartae, et duae quartae sunt maiores duabus quintis. Sed superbipartiens quintas quacumque superparticulari dempta sesquialtera est maior, nam est maior sesquitertia, quae quacumque alia superparticulari seclusa sesquialtera maior est. Patet, sic: una tertia est duae sextae, quae sunt minores duabus quintis. Et sic poteris facere omnes alias inter se comparare.
+
+Et si petas quid dicendum erit comparando multiplicem superparticularem et multiplicem superpartientem, respondeo: quaelibet multiplex superparticularis denominata a maiori denominatione multiplici quacumque superpartiente multiplici maior est minoris denominationis multiplicis, qualiscumque sit denominatio superparticularis. Declaro exemplo: quaelibet tripla superparticularis quacumque dupla superpartienti est maior, et quaelibet quadrupla superparticularis quacumque tripla superpartiente est maior, et sic consequenter. Similiter quaelibet multiplex superpartiens maioris denominationis multiplicis quacumque multiplici superparticulari minoris denominationis multiplicis, qualiscumque sit denominatio superparticularium, maior est. Patet: tripla quaelibet superpartiens quacumque dupla superparticulari maior est. Similiter quaelibet quadrupla superpartiens quacumque tripla superparticulari est maior, et sic consequenter.
+
+Et si petas quid dicendum erit comparando unam compositam ad aliam compositam cum eadem denominatione multiplici, respondeo: dupla sesquialtera minor est dupla superbipartiente tertias, quia binarius cum medietate minor est binario cum duabus tertiis. Sed dupla sesquialtera maior est dupla superbipartiente quintas, quia binarius cum medietate maior est binario cum duabus quintis, et sic dupla sesquialtera /49a/ quacumque dupla superpartienti eundo semper per bi est maior, dempta superbipartiente tertias.
+
+
 <!--
 ## Apparatus Criticus Reference
 * conj.    (coniectura)  : Text is unreadable; this is an educated guess.
@@ -1440,5 +1465,6 @@ Page 47b: multa ] emend. nulla
 Page 47b: bipedaliter ] emend. pedaliter (lata, after a cut by length only)
 Page 47b: bipedaliter ] emend. pedaliter (profunda, after a cut by length only)
 Page 47b: postea ] conj. prius ea
+Page 48b: superbipartiens ] emend. superpartiens (quintas; cf. superbipartiens quintas in the preceding sentences)
 
 -->

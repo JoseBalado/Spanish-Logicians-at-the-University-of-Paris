@@ -146,6 +146,35 @@ Three words are used throughout:
 
 **Third example, $6:2$.** Greater $6$, lesser $2$. $2$ goes into $6$ three times ($2+2+2=6$); leftover $0$. Denomination $3$: _tripla_.
 
+**The five families.** Every proportion of greater inequality falls into one of five families, according to the answers to steps 2 and 4: how many whole times, and what leftover (30a–32b, §9–§11).
+
+| Family | Whole times | Leftover | Simplest examples | In words |
+| --- | --- | --- | --- | --- |
+| _multiplex_ | $2$ or more | none | $2:1$, $3:1$, $6:2$ | exactly twice, three times, … |
+| _superparticularis_ | once | **one** part of the lesser term | $3:2$, $4:3$, $5:4$ | once and a half, once and a third, once and a fourth |
+| _superpartiens_ | once | **several** parts that do not make one part | $5:3$, $7:5$ | once and two thirds, once and two fifths |
+| _multiplex superparticularis_ | $2$ or more | one part | $5:2$, $7:3$ | twice and a half, twice and a third |
+| _multiplex superpartiens_ | $2$ or more | several parts | $8:3$, $12:5$ | twice and two thirds, twice and two fifths |
+
+**_Superparticularis_, step by step.** A proportion is _superparticularis_ when the greater term contains the lesser once, plus exactly **one** part of it. The easiest examples are two neighbouring numbers:
+
+- $3:2$ is $2$ plus $1$, and $1$ is half of $2$: "once and a half".
+- $4:3$ is $3$ plus $1$, a third of $3$: "once and a third".
+- $5:4$ is $4$ plus $1$, a fourth of $4$: "once and a fourth".
+
+The name says the same: _super_, "over", and _particularis_, "one part".
+
+| Proportion | Lesser term | Left over after taking the lesser from the greater | That is, of the lesser term | So |
+| --- | --- | --- | --- | --- |
+| $3:2$ | $2$ | $3-2=1$ | one half | _sesquialtera_, once and a half |
+| $4:3$ | $3$ | $4-3=1$ | one third | _sesquitertia_, once and a third |
+| $5:4$ | $4$ | $5-4=1$ | one fourth | _sesquiquarta_, once and a fourth |
+| $6:4$ | $4$ | $6-4=2$ | two fourths, which together are one half | _sesquialtera_ again, the same as $3:2$ |
+| $5:3$ | $3$ | $5-3=2$ | two thirds, which are not one part | not superparticular: _superpartiens_ |
+| $4:2$ | $2$ | $4-2=2$ | the whole lesser term again | not superparticular: _dupla_ |
+
+With two neighbouring numbers the leftover is always $1$, and $1$ is always one part of the lesser: $6:5$, $7:6$, and so on. The musical fifth $3:2$ and fourth $4:3$ are both superparticular.
+
 Put the greater term on the left; the right term is then the **lesser term**, and the leftover is counted in equal parts of it.
 
 **The words.**
@@ -486,11 +515,11 @@ So the bodies are $3\tfrac38$ times one another by value, but their proportion i
 
 ### P7. Which proportion is greater?
 
-Used on 40a (§19), 44a–44b (§23), 45b (§24), and 46a–46b (§25). A proportion of greater inequality is **greater** when its left term contains its right term more times, that is, when it lies further from equality ($1:1$). $3:2$ is once and a half; $4:3$ is once and a third; a half is more than a third, so $3:2$ is the greater. In musical terms the fifth is a wider interval than the fourth, which is what "the fifth exceeds the fourth" means. How much wider is a subtraction (P5, Example C), the tone $9:8$.
+Used on 40a (§19), 44a–44b (§23), 45b (§24), 46a–46b (§25), and 48a–49a (§27). A proportion of greater inequality is **greater** when its left term contains its right term more times, that is, when it lies further from equality ($1:1$). $3:2$ is once and a half; $4:3$ is once and a third; a half is more than a third, so $3:2$ is the greater. In musical terms the fifth is a wider interval than the fourth, which is what "the fifth exceeds the fourth" means. How much wider is a subtraction (P5, Example C), the tone $9:8$.
 
 **Method 1 (names).** Dolz's general rule (45b): the proportion with the greater denomination is the greater (P2). Compare the whole times; if they are equal, compare the leftovers.
 
-| First | Second | Denominations | Greater | Dolz, 45b–46b |
+| First | Second | Denominations | Greater | Dolz |
 | --- | --- | --- | --- | --- |
 | _dupla_ $8:4$ | _dupla_ $2:1$ | $2$ and $2$ | neither | proposition 1 |
 | _tripla_ $3:1$ | _dupla_ $2:1$ | $3$ and $2$ | _tripla_ | proposition 2 |
@@ -501,6 +530,9 @@ Used on 40a (§19), 44a–44b (§23), 45b (§24), and 46a–46b (§25). A propor
 | _tripla sesquitertia_ $10:3$ | _dupla sesquialtera_ $5:2$ | $3\tfrac13$ and $2\tfrac12$ | _tripla sesquitertia_: the whole number decides | proposition 5 |
 | _dupla superbipartiens tertias_ $8:3$ | _dupla superbipartiens quintas_ $12:5$ | $2\tfrac23$ and $2\tfrac25$ | _dupla superbipartiens tertias_ | proposition 6 |
 | _quadrupla_ $4:1$ | _dupla sesquialtera_ $5:2$ | $4$ and $2\tfrac12$ | _quadrupla_ | proposition 7 |
+| _quadrupla_ $4:1$ | _dupla superbipartiens quintas_ $12:5$ | $4$ and $2\tfrac25$ | _quadrupla_ | 48a |
+| _superbipartiens tertias_ $5:3$ | _sesquialtera_ $3:2$ | $1\tfrac23$ and $1\tfrac12$ | _superbipartiens tertias_ | 48a |
+| _dupla sesquialtera_ $5:2$ | _dupla superbipartiens tertias_ $8:3$ | $2\tfrac12$ and $2\tfrac23$ | _dupla superbipartiens tertias_ | 48b |
 
 **Why the whole number decides first.** Every leftover is less than one unity: once the added parts make a whole, the count of whole times goes up by one (§11). So a leftover can never carry a denomination past the next whole number.
 
@@ -566,6 +598,55 @@ Shortcut. In steps 9 and 10, one part of each kind is always as many units as th
 | 13 | greater proportion | | _supertripartiens quartas_ $7:4$ |
 
 Shortcut: $2\times4=8$ against $3\times11=33$. This is the cross-multiplication of Method 2, applied to the leftovers.
+
+**Dolz's own way: the same number of parts (48b).** The units method makes the kind of part the same and counts the parts. Dolz does the reverse: he rewrites a leftover so that both have the **same number of parts**, and then the kind of part decides. Of the same number of parts, those of the finer cut are smaller (proposition 4, 46a). He compares the _superbipartiens quintas_ $7:5$, leftover $\tfrac25$, with the _sesquialtera_ and the _sesquitertia_ (§27).
+
+**Example 3, _sesquialtera_ $3:2$ against _superbipartiens quintas_ $7:5$.**
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | leftover of $3:2$ | $2$ fits once into $3$; $3-2=1$, half of $2$ | $\tfrac12$, one part |
+| 2 | leftover of $7:5$ | $5$ fits once into $7$; $7-5=2$, two fifths of $5$ | $\tfrac25$, two parts |
+| 3 | the whole numbers | both once | equal, so the leftovers decide |
+| 4 | how many parts in each leftover? | the half is one piece; two fifths are two pieces | not the same number, so not yet comparable by kind |
+| 5 | write the half as two pieces, **without changing its size** | the unity has two halves; cut each half into two equal pieces, and the unity is in four equal pieces, fourths; the half we have is two of them | $\tfrac12=\tfrac24$, the same amount counted in two pieces |
+| 6 | compare two fourths with two fifths | now both are two pieces; a fourth is a bigger piece than a fifth (unity in four pieces against unity in five) | two fourths larger |
+| 7 | greater proportion | | _sesquialtera_ $3:2$ |
+
+Step 5 does **not** halve the leftover. It cuts it into two pieces and keeps **both**, as a cake cut in two is still the whole cake. Only the counting changes: "one half" becomes "two fourths".
+
+```text
+unity            |---------------------------------------|
+one half         |===================|
+two fourths      |=========|=========|     same length as one half
+two fifths       |=======|=======|         shorter
+```
+
+**Why not change $\tfrac25$ into $\tfrac4{10}$ instead?** That also keeps the size, but it does not help: the half is one piece and four tenths are four, so the numbers of pieces still differ. To compare with four tenths, the half must also become four pieces, $\tfrac48$ (cut each half of the unity into four equal pieces, eighths). Then $\tfrac48$ against $\tfrac4{10}$: eighths are bigger than tenths, so the half is larger again. Same verdict, more work. Dolz takes the short way: rewrite only the one-piece leftover, into as many pieces as the other already has.
+
+**Example 4, _sesquitertia_ $4:3$ against _superbipartiens quintas_ $7:5$.**
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | leftover of $4:3$ | $3$ fits once into $4$; $4-3=1$, a third of $3$ | $\tfrac13$, one part |
+| 2 | leftover of $7:5$ | as above | $\tfrac25$, two parts |
+| 3 | write the third as two pieces, without changing its size | as in Example 3: the unity has three thirds; cut each into two equal pieces and the unity is in six pieces, sixths; the third we have is two of them | $\tfrac13=\tfrac26$ |
+| 4 | compare two sixths with two fifths | now both are two pieces; a sixth is a smaller piece than a fifth (unity in six pieces against unity in five) | two fifths larger |
+| 5 | greater proportion | | _superbipartiens quintas_ $7:5$ |
+
+So $7:5$ lies between them: below the _sesquialtera_, above the _sesquitertia_, and so above every other _superparticularis_ (proposition 3).
+
+In general, for leftovers $\tfrac{k}{n}$ and $\tfrac{j}{m}$, cut each part of the first into $j$ pieces and each part of the second into $k$. Both then have $k\times j$ parts, of kinds $n\times j$ and $m\times k$; the smaller kind gives the larger leftover. In Example 3, $k=1$, $n=2$, $j=2$, $m=5$: kinds $2\times2=4$ and $5\times1=5$, so the half is larger. It is the same cross-multiplication again, read from the other side.
+
+**Only within one kind (48a).** All these methods compare two proportions of greater inequality, or two of lesser inequality. Dolz denies that a greater inequality, an equality, and a lesser inequality can be compared at all: _non sunt comparabilia inter se, ideo non est proportio_ (§27). The modern measures show why the question has no single answer.
+
+| Proportion | Kind | Value (modern) | Distance from equality, $\log_2$ (modern) |
+| --- | --- | --- | --- |
+| $2:1$ | greater inequality | $2$ | $1$ |
+| $1:1$ | equality | $1$ | $0$ |
+| $1:2$ | lesser inequality | $\tfrac12$ | $-1$, as far from equality as $2:1$ |
+
+By value the order is $2:1$, $1:1$, $1:2$, which is Lax's. By distance from equality, $2:1$ and $1:2$ are equally large and equality is no size at all. Dolz takes neither.
 
 **Method 2 (same right term).**
 
@@ -683,18 +764,18 @@ Four obstacles stood in the way:
 | doubling, tripling | add to itself | $3:2$ doubled is $9:4$ | square, cube |
 | bodies and surfaces | one link per dimension (47b) | sides $2:1$, cubes $8:1$ | cube of the side ratio |
 | halving | _medium proportionale_ | half of $9:4$ is $3:2$ | square root |
-| comparing | denomination, whole number first (46a–46b); cross-multiply; or whole and part | $3:2>4:3$; $2:1>3:2$; $10:3>5:2$ | compare fractions |
+| comparing | denomination, whole number first (46a–46b); leftovers to the same number of parts (48b); cross-multiply; or whole and part; only within one kind (48a) | $3:2>4:3$; $2:1>3:2$; $10:3>5:2$; $\tfrac24>\tfrac25$ | compare fractions |
 | how many times | count links | $8:1$ is three _duplae_ | ratio of logarithms |
 
 ### Still to come
 
-The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles, its principles, the general rule of greater proportion, and the order of the species (43a–46b, §22–§25) are covered by P1, P2, and P4–P7; the cube of 47b (§26) by P6. Dolz has promised an account of _communicatio proportionum_, overlapping proportions (43a). The prooemium (25a) further announces the excess of one proportion over another, division by proportional parts, and the rules of motion. Operations needed for them will be added here as the transcription reaches them.
+The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles, its principles, the general rule of greater proportion, and the order of the species (43a–46b, §22–§25) are covered by P1, P2, and P4–P7; the cube of 47b (§26) by P6; the comparisons of 48a–49a (§27) by P7. Dolz has promised an account of _communicatio proportionum_, overlapping proportions (43a). The prooemium (25a) further announces the excess of one proportion over another, division by proportional parts, and the rules of motion. Operations needed for them will be added here as the transcription reaches them.
 
 ---
 
 # Preambles, proportion, and proportionality
 
-**Pages 25a–46b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals; the answers to the seven questions of page 29; the aliquot parts of the infinite, which close the first article; and the first four preambles of the second article, on the parts of a proportion; and its fifth preamble and first four principles, on the composition of proportions; the least terms and the general rule of greater proportion; and the order of the species by size, with the opening of an argument from Dullaert.
+**Pages 25a–49a.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals; the answers to the seven questions of page 29; the aliquot parts of the infinite, which close the first article; and the first four preambles of the second article, on the parts of a proportion; and its fifth preamble and first four principles, on the composition of proportions; the least terms and the general rule of greater proportion; and the order of the species by size, with an argument from Dullaert and its answer; two physical objections to the definition of _dupla_; and the incomparability of greater inequality, equality, and lesser inequality, with the remaining orders of the species.
 
 ## 1. Why the metaphysics comes first
 
@@ -1717,12 +1798,12 @@ Dolz now opens a disputation against the division of pages 30–33. Each objecti
 
 1. **A quantity without a determinate value.** A body $a$ is placed in infinitely many places, with magnitude $7$ in the first, $7\tfrac12$ in the second, $7\tfrac34$ in the third, and so on, reaching every magnitude below $8$ but never $8$; $b$ is $8$. They are comparable, so $b:a$ is a proportion, but no species can be named. The successive magnitudes add the Calculators' proportional parts $\tfrac12,\tfrac14,\ldots$ (page 33) to $7$.
 2. **Infinite to finite.** The ratio is not double, triple, or any multiple. This is the seventh question of page 29.
-3. **An eight-foot body to an aggregate of a four-foot and a two-foot body.** Arithmetically $8:6=4:3$ is sesquitertian, which the division covers. The objection must therefore turn on $b$'s being an aggregate of two separate bodies rather than one quantity (compare the second and fourth questions of page 29). The solution on 39b confirms this: the numbers are sound.
-4. **A whole to each of its parts.** The whole has some proportion to every part, yet it has no proportion of greater inequality, nor any other, to every part. The solution on 39b shows that the objection plays on quantifier scope, not on incommensurable parts.
+3. **An eight-foot body to an aggregate of a four-foot and a two-foot body.** Arithmetically $8:6=4:3$ is sesquitertian, which the division covers. The objection turns on $b$'s being an aggregate of two separate bodies rather than one quantity (compare the second and fourth questions of page 29).
+4. **A whole to each of its parts.** The whole has some proportion to every part, yet it has no proportion of greater inequality, nor any other, to every part. The objection plays on quantifier scope (39b, §18).
 5. **Whole and part.** The whole is greater than its part, therefore greater in some proportion, which cannot be named.
 6. **Ox and ass.** Introduced by _Item_ under the fifth heading, but Dolz answers it _ad sextum_. If the ox is more perfect than the ass in some proportion, say double, then a brute twice as perfect as the ass could exist, which would equal the ox. The argument assumes that no brute of another species can equal the ox in perfection, and uses the rule that two things in the same proportion to the same term are equal. It tests the requirement of page 28 that proportion needs a common respect admitting more and less, here specific perfection.
 
-A first reading suggested that objections 1, 2, and 4 share one target: the species of pages 30–33 are ratios of whole numbers, so an infinite quantity and an incommensurable part fall outside them. The solutions do not bear this out. Every ratio Dolz assigns in the first objection is a ratio of whole numbers (§17), and the fourth is solved by a scope distinction (§18). Incommensurable parts, which Bradwardine and Oresme handled with irrational proportions, are not discussed in any of the solutions. What the solutions share is the requirement that each term be **one determinate thing**, together with a denial that _greater_ entails _greater in some proportion_ (§18).
+What the solutions share is the requirement that each term be **one determinate thing**, together with a denial that _greater_ entails _greater in some proportion_ (§18).
 
 ### The solution begins: against the rule of the _minimum quod non_
 
@@ -1884,9 +1965,7 @@ The objection that follows is a serious one. Take a body infinite in both direct
 
 The modern parallel is Euclid, _Elements_ V, def. 4 (our comparison): magnitudes have a ratio to one another when each, multiplied, can exceed the other. A finite and an infinite magnitude fail this test, and Dolz denies them a proportion on the same grounds.
 
-Page 42b supports this reading and also complicates it (§21). There _finite_ does qualify the number of repetitions (_aliquotiens reddat finite sive infinite_), and an infinite strip is said to have an infinite half that, taken twice, makes the whole. That strip contains its half _bis adaequate_, which is the definition of double. So the restriction on 39a cannot mean only "a finite number of times". It must exclude infinite terms, or else the half of 42b does not make its whole double.
-
-Page 43a settles it (§22). Dolz returns to this very body, infinite east and west, and grants that its eastern part is aliquot. But the names half, third, fourth are not given to parts of infinites, so the whole is not called double its part.
+The restriction excludes infinite terms, not only an infinite number of repetitions. On 42b an infinite strip has an infinite half that, taken twice, makes the whole (§21); on 43a Dolz returns to this very body, infinite east and west, and grants that its eastern part is aliquot. But the names half, third, fourth are not given to parts of infinites, so the whole is not called double its part (§22).
 
 ### Ad tertium: an aggregate is not one term
 
@@ -1911,7 +1990,7 @@ The text does not say whether an aggregate of **equal** bodies would also lack a
 
 The first proposition is true because _quaelibet descendens est vera_: under the distributive term _quamlibet suam partem_, every descent to a singular, "the whole has some proportion to this part", is true. The terminist logic of the Paris schools reads scope from the order of the terms, and Dolz uses that rule here. The whole has no single proportion to every part: not double, for example, because some parts are greater than the half, and double holds only to the half. Likewise it has some proportion of greater inequality to each part, but no one species of greater inequality to all.
 
-This is the same scope distinction as in preamble 8 (§5) and in the first solution, _omnem quantitatem infra 8 aliqua pars b attingit, licet nulla pars b attingit omnem quantitatem infra 8_ (§17). The objection is a fallacy of scope; it has nothing to do with incommensurable parts. The guess in §16 that it does is not confirmed.
+This is the same scope distinction as in preamble 8 (§5) and in the first solution, _omnem quantitatem infra 8 aliqua pars b attingit, licet nulla pars b attingit omnem quantitatem infra 8_ (§17). The objection is a fallacy of scope.
 
 ### Ad quintum: _excedit improportionabiliter_
 
@@ -2470,13 +2549,13 @@ The example of an infinite aliquot part:
 | the whole | infinite toward the east | $1$ foot |
 | its half by breadth | infinite toward the east | $\tfrac12$ foot |
 
-Two such halves side by side make the whole, so the half is an aliquot part: _bis sumpta reddit totum_. Thus _alicuius infiniti, aliqua pars finite sumpta, reddit totum_. The sentence continues on 43a, and the qualification that _aliqua videtur aliquota_ suggested does follow (§22).
+Two such halves side by side make the whole, so the half is an aliquot part: _bis sumpta reddit totum_. Thus _alicuius infiniti, aliqua pars finite sumpta, reddit totum_. The sentence continues on 43a with a qualification (§22).
 
 Four observations of ours:
 
 - **The strict sense is the Lean `Aliquot` of §2**, where the number of repetitions is a natural number $n\ge2$. The wide sense allows an infinite number of repetitions. It is a new description of the term, which preamble 8 permits (_descriptio termini spontanea est_), provided one speaks consistently.
 - **The wide sense changes the uniqueness of the count.** In the strict sense a part of a given whole is aliquot in one way: the half twice, the third three times. In the wide sense a one-foot and a two-foot part are both aliquot to the same infinite body, each taken infinitely many times.
-- **Tension with 39a.** The whole strip contains its half _bis adaequate_, which is the definition of double. Yet 39a denied that any infinite is double another and required _bis_ to be read _finite_ (§18). Here the half is taken twice, finitely, and is still infinite. Either the aliquot half of an infinite does not make the whole its double, which would break the link between aliquot parts and the species of pages 30–31, or 43a qualifies the case. Page 43a takes the first way, and says so: the names half, third, fourth are not given to parts of infinites (§22).
+- **The link with 39a.** The whole strip contains its half _bis adaequate_, which is the definition of double. Yet 39a denied that any infinite is double another (§18). Page 43a resolves this: the names half, third, fourth are not given to parts of infinites, so the aliquot half of an infinite does not make the whole its double (§22).
 - **The contrast with 42a.** Infinitely many finite parts make an infinite whole, but no number of lines, finite or infinite, makes a body. The excess of body over line is therefore of another kind than the excess of infinite over finite.
 
 ---
@@ -2684,7 +2763,7 @@ This is the taxonomy of §9–§11, now with one number per species. The printed
 
 Proposition 3 runs on to 46a, where Dolz adds four more (§25).
 
-**How to compare two denominations.** First compare the whole numbers; if they are equal, compare the leftovers. This was our reconstruction from 45b; Dolz states the order himself on 46a–46b, in propositions 5 and 6 (§25).
+**How to compare two denominations.** First compare the whole numbers; if they are equal, compare the leftovers. Dolz states this order on 46a–46b, in propositions 5 and 6 (§25).
 
 | First | Second | Denominations | Whole numbers | Leftovers | Greater |
 | --- | --- | --- | --- | --- | --- |
@@ -2696,9 +2775,9 @@ A half is more than a third, and a third more than a fourth, because the same un
 
 Four observations of ours:
 
-- **Least terms are not lowest whole-number terms.** §23 and the Primer took "lowest form" as the reduced pair of whole numbers, $3:2$. Dolz instead puts the lesser term at unity, $1\tfrac12$ to $1$. Both give the same name, but Dolz's form makes the denomination a single number, the mixed number we write as the value $A\div B$. The mixed numbers of P2 are therefore his own, not a modern addition (P1, P2 corrected). The first corollary, that the least terms are those least in that proportion, holds because unity is not divided into a term. For example, $\tfrac34$ to $\tfrac12$ is also _sesquialtera_: $\tfrac12$ goes into $\tfrac34$ once, and the leftover $\tfrac14$ is half of $\tfrac12$. Its terms are smaller than $1\tfrac12$ and $1$, but it is excluded, because the lesser term must be unity itself, not a part of it.
+- **Least terms are not lowest whole-number terms.** The reduced pair of whole numbers is $3:2$; Dolz instead puts the lesser term at unity, $1\tfrac12$ to $1$. Both give the same name, but Dolz's form makes the denomination a single number, the mixed number we write as the value $A\div B$. The mixed numbers of P2 are therefore his own, not a modern addition. The first corollary, that the least terms are those least in that proportion, holds because unity is not divided into a term. For example, $\tfrac34$ to $\tfrac12$ is also _sesquialtera_: $\tfrac12$ goes into $\tfrac34$ once, and the leftover $\tfrac14$ is half of $\tfrac12$. Its terms are smaller than $1\tfrac12$ and $1$, but it is excluded, because the lesser term must be unity itself, not a part of it.
 - **Value for order, composition for counting.** The denomination is the value, so 45b compares proportions by value, while 43b–44b measured them by composition (§22, §23). There is no conflict. Of two proportions of greater inequality, the one with the greater value always contains the other as a part plus something more (P7, Method 3), so the two measures agree on which is greater. They differ only on how many times one contains the other: by value $8:1$ is four times $2:1$, by composition three times (§20). Principle 3 (44b) is a claim about how many times; the rule of 45b only about which is greater. Page 46b confirms the agreement: Dolz proves the _quadrupla_ greater than the _dupla sesquialtera_ both _ex denominationibus_ and because $8:2$ contains $5:2$ as a part (§25).
-- **Lesser inequality is left open.** The rule is stated without restriction, but its propositions concern greater inequality only. Dolz does not say whether _subdupla_ or _subtripla_ is the greater. The propositions of 46a–46b do not say either (§25).
+- **Lesser inequality is left open.** The rule is stated without restriction, but its propositions concern greater inequality only. Dolz does not say whether _subdupla_ or _subtripla_ is the greater. The propositions of 46a–46b do not say either (§25). Page 48a restricts the rule: denominations are compared only when taken in the same way and order, so never a greater inequality against a lesser (§27). Which _sub-_ species is greater is still not stated.
 - **Equality.** Its denomination does not matter _quia eius species nec aequales nec inaequales reperiuntur_. The sense is perhaps that equality has no species differing in size, so there is nothing to compare; as printed, the clause is odd (see the textual notes).
 
 ---
@@ -2801,7 +2880,7 @@ Here two parts beat three, because thirds are much bigger pieces than thirteenth
 
 Here three parts beat two, because fourths are bigger pieces than elevenths: one fourth is $11$ units, one eleventh only $4$.
 
-Three parts can be smaller than two, if they are parts of a finer cut. So, Dolz says, _ut prius, via doctrinae procedendum est_: compare within an ordered series, or fall back on the general rule. He gives no procedure for leftovers that differ both in the number and in the kind of parts; counting units, as in the two tables above, supplies one.
+Three parts can be smaller than two, if they are parts of a finer cut. So, Dolz says, _ut prius, via doctrinae procedendum est_: compare within an ordered series, or fall back on the general rule. For leftovers that differ both in the number and in the kind of parts, Dolz gives a method on 48b: give both leftovers the same number of parts and compare the kind (§27; P7).
 
 ### Whole number first
 
@@ -2826,7 +2905,7 @@ Propositions 5 and 6 add that a greater multiple wins whatever the leftover. _Tr
 
 Step 11 always holds because of a restriction made on 31a–32a (§10, §11): the added parts must be fewer than make a whole ($k<n$), for otherwise the count of whole times goes up by one. Dolz's rejection of "three halves" as a leftover is what makes the whole-number-first rule safe.
 
-This confirms the method set out under _How to compare two denominations_ in §24. There it was our reconstruction from the rule of 45b; here it is Dolz's own statement.
+This is the method set out under _How to compare two denominations_ in §24.
 
 ### Proposition 7: across families
 
@@ -2835,8 +2914,8 @@ This confirms the method set out under _How to compare two denominations_ in §2
 | _multiplex_ against _superparticularis_ | $2$ or more against $1$ | _multiplex_ always greater | 46b, _constat ex denominationibus_ |
 | _multiplex superparticularis_ against _superparticularis_ | $2$ or more against $1$ | the first always greater | 46b, _nec dabis in hoc falsam descendentem_ |
 | _multiplex superparticularis_ against _multiplex_ | may be equal | greater than its own multiple, less than any higher one | 46b: _dupla sesquialtera_ $>$ _dupla_, $<$ _quadrupla_ |
-| _superpartiens_ against _superparticularis_ | both $1$ | neither family always greater: $1\tfrac23>1\tfrac12$, but $1\tfrac27<1\tfrac12$ | not stated |
-| _multiplex_ or _multiplex superpartiens_ against _superpartiens_ | $2$ or more against $1$ | the first always greater | not stated; follows |
+| _superpartiens_ against _superparticularis_ | both $1$ | neither family always greater: $1\tfrac23>1\tfrac12$, but $1\tfrac27<1\tfrac12$ | not stated here; 48a–48b (§27) |
+| _multiplex_ or _multiplex superpartiens_ against _superpartiens_ | $2$ or more against $1$ | the first always greater | not stated here; 48a for _multiplex superpartiens_ (§27) |
 
 The rule behind the table, ours: when the whole numbers of two families can never coincide, the family with the greater whole number is always greater. When they can coincide, neither is always greater.
 
@@ -2900,17 +2979,16 @@ Dolz turns to positions _in philosophia Dullaert in materia de toto_, which many
 
 _Ista sunt contra propositiones nostras et principia geometriae._ The reply begins on 47a.
 
-Three observations of ours:
+Two observations of ours:
 
 - **_Ponibilis_ is a term of the art of obligations**: a proposition that can be admitted as _positum_ without contradiction. The art has appeared once before, in preamble 8 (27b, §5). The charge is that Dullaert's doctrine makes consistent what geometry forbids.
 - **_In his oris Aquitaniae_** places Dolz in Aquitaine, as the dedication does, and repeats the complaint of the Introduction about the teaching there.
-- **The guess made here was wrong.** We guessed that _b_ stands for several things taken as an aggregate (39b, §18). Page 47a shows instead that each letter stands for a quantified phrase, and the copulatives come out true by the order of the quantifiers (§26). Dullaert's text has not been checked.
 
 ---
 
 ## 26. The copulatives answered, and two bodies that seem double (47a–47b)
 
-Page 47 answers the three copulatives of 46b and adds two physical objections. The copulatives are true because of what the letters are made to stand for, not because of aggregates. The physical objections test the definition of _dupla_ by containment, _quando aliquid continet aliud bis praecise_ (30a, §9).
+Page 47 answers the three copulatives of 46b and adds two physical objections. The copulatives are true because of what the letters are made to stand for. The physical objections test the definition of _dupla_ by containment, _quando aliquid continet aliud bis praecise_ (30a, §9).
 
 ### The copulatives are true by imposition
 
@@ -2993,6 +3071,61 @@ Dolz ends the objections: _multa alia argumenta deducerem, sed in philosophia re
 
 ---
 
+## 27. Greater inequality, equality, and lesser inequality are not comparable; more orders of the species (48a–49a)
+
+Page 48 raises two doubts about the rule of 45b and then fills in the comparisons across families that 46b left out.
+
+### The two doubts
+
+| Doubt | Question | Argument |
+| --- | --- | --- |
+| 1 | is a proportion of greater inequality infinitely great, _eo modo quo proportio dicitur magna_? | it contains infinitely many unequal, non-overlapping (_non communicantes_) proportions, so it is infinite |
+| 2 | how do greater inequality, equality, and lesser inequality compare as greater or lesser? | — |
+
+The answer to the first depends on the second, so Dolz answers them together.
+
+### Lax and Dolz
+
+| | Is greater inequality greater than equality and lesser inequality? | Is there a proportion between them? |
+| --- | --- | --- |
+| Lax, _Proportiones_ | yes: greater inequality exceeds every equality and lesser inequality, and equality exceeds lesser inequality | no: _in nulla proportione est maior_ |
+| Dolz | no: _non sunt comparabilia inter se_ | no: _ideo non est proportio_ |
+| Swineshead, _in plerisque locis_ | where there is no comparison there is no proportion, and no greaterness, lesserness, or equality | — |
+
+Dolz calls Lax _praeceptor meus, cui condignum eruditionis nunquam referam_. This is Dolz's own testimony that he studied under Lax. He presents his position as only a simpler way of saying what Lax says _subtiliter_, for the beginners he writes for. It is more than that: Lax keeps the greaterness and denies only the proportion; Dolz, with Swineshead, denies both. Dolz adds the theological parallel of mortal and venial sin, a stock case of things not comparable.
+
+The rule of 45b is restricted accordingly. The denominations of 45a are compared only _dum eodem modo sumantur et eodem ordine_: two denominations of greater inequality, or two of lesser inequality, never one of each. So the first argument _non currit contra nos_. Dolz denies its antecedent, _nec unquam probabis_.
+
+Three observations of ours:
+
+- **Why Dolz does not use his own improper greaterness.** On 39a one infinite is greater than another _improprie_, by containing it and something more (§18), which is close to Lax's "greater in no proportion". Dolz does not apply it here. Our reading: improper greaterness needs containment, and a proportion of greater inequality does not contain equality or lesser inequality as a part. Every part of $8:4$ in preamble 2 is itself of greater inequality (43a, §22).
+- **How the first doubt depends on the second.** Read as a claim about parts, the antecedent is defensible: a continuum-like division of $2:1$ gives infinitely many non-overlapping parts. The natural answer would then be to deny the consequence, as for a finite line. Dolz denies the antecedent instead, and makes it depend on the second doubt. That suggests the infinitely many unequal proportions are the equalities and lesser inequalities ($1:2$, $1:3$, $1:4$, …) which greater inequality would exceed, and so contain, if Lax's order held. Once they are not comparable, it contains none of them. This is our conjecture; the text does not spell it out.
+- **Two modern measures disagree here.** By value, $2:1>1:1>1:2$, Lax's order. By distance from equality, the size that matters for composition (P9), $2:1$ and $1:2$ are equally large and $1:1$ is nothing, since $\log_2 2=1$, $\log_2 1=0$, $\log_2\tfrac12=-1$. Dolz's refusal to compare across the three kinds avoids having to choose. Within one kind the two measures agree (§24).
+
+The same principle was used on 41b for intension and remission (§20). It still leaves open whether _subdupla_ or _subtripla_ is the greater (§24); it only forbids comparing either with a _dupla_.
+
+### The families compared
+
+Dolz then completes the comparisons of proposition 7 (46b, §25). Each follows from the general rule: compare whole numbers first, then leftovers.
+
+| Comparison | Dolz | Example | Denominations |
+| --- | --- | --- | --- |
+| _multiplex superpartiens_ against _multiplex_ | greater than some, not than every | _quadrupla_ $>$ _dupla superbipartiens quintas_ | $4>2\tfrac25$ |
+| _multiplex superpartiens_ against _superpartiens_ | always greater, _non instabis de aliqua_ | — | $2$ or more against $1$ |
+| _superpartiens_ against _superparticularis_ | neither always greater; _habeas recursum ad regulam generalem_ | _superbipartiens tertias_ $>$ _sesquialtera_ $>$ _superbipartiens quintas_ | $1\tfrac23>1\tfrac12>1\tfrac25$ |
+| | _superbipartiens tertias_ exceeds every _superparticularis_ | greater than the _sesquialtera_, the greatest of them | $1\tfrac23>1\tfrac12$ |
+| | _superbipartiens quintas_ exceeds every _superparticularis_ except the _sesquialtera_ | greater than the _sesquitertia_, the greatest after it | $1\tfrac13<1\tfrac25<1\tfrac12$ |
+| _multiplex superparticularis_ against _multiplex superpartiens_, different multiples | the greater multiple wins, either way round | _tripla_ superparticular $>$ any _dupla_ superpartiens; _tripla_ superpartiens $>$ any _dupla_ superparticular | $3+\dots>2+\dots$ |
+| the same, same multiple | the leftovers decide | _dupla superbipartiens tertias_ $>$ _dupla sesquialtera_ $>$ _dupla superbipartiens quintas_ | $2\tfrac23>2\tfrac12>2\tfrac25$ |
+
+The last row ends on 49a: the _dupla sesquialtera_ exceeds every _dupla superpartiens_ _eundo semper per bi_, except the _superbipartiens tertias_. The restriction to the _bi-_ series is needed: the _dupla supertripartiens quartas_, $2\tfrac34$, also exceeds it.
+
+**Dolz's method for leftovers of different kinds.** He gives the two leftovers the same number of parts and then compares the kind of part, as in proposition 4 (46a): _medietas est duae quartae, et duae quartae sunt maiores duabus quintis_; _una tertia est duae sextae, quae sunt minores duabus quintis_. The unit-counting method of §25 makes the kind of part the same and compares the number; Dolz's makes the number the same and compares the kind. Both come to the same cross-multiplication (P7).
+
+The print has _superpartiens quintas_ where the preceding sentences have _superbipartiens quintas_; the transcription reads _superbipartiens_ (see the textual notes). This is the same slip as on 46a.
+
+---
+
 ## Summary of the doctrine
 
 1. _Aliquot part_ is a **two-place relation** between a part and a whole, requiring exact measure and at least two repetitions.
@@ -3025,7 +3158,7 @@ Dolz ends the objections: _multa alia argumenta deducerem, sed in philosophia re
 28. The names come from Euclid V. Alvarus (II.1), Dullaert, and Argyropoulos's Aristotle use _coniuncta/disiuncta_ (or _seiuncta_) for what Dolz calls _continua/discontinua_; Lax and Alvarus II.3 agree with Dolz. Identify each operation by its definition, not its name.
 29. _Aequa_ infers the ratio of the extremes from chains of equal links. Lax's direct and indirect forms differ only in the order in which the links correspond; both are valid, and Lax's criterion cannot tell them apart when all the links are equal.
 30. In the modes of argument only the ratios joined by _talis… qualis_ must be similar, because the premise must be true; the conclusion may have a different denomination.
-31. Page 37 opens six objections against the exhaustiveness of the division of proportion: a quantity without a determinate value, the infinite, an aggregate, the whole to its parts (twice), and degrees of perfection. Their solutions show that they do not turn on the species being ratios of whole numbers.
+31. Page 37 opens six objections against the exhaustiveness of the division of proportion: a quantity without a determinate value, the infinite, an aggregate, the whole to its parts (twice), and degrees of perfection.
 32. The reply to the first objection begins by relegating the case to the supernatural and turning it against the rule that an active power is bounded by a _minimum quod non_; Dolz defers that argument (_Sed de hoc alibi_).
 33. The multilocated quantity is answered by splitting the term. Relative to one place it stands in a determinate superparticular ratio, which saves the division. Relative to all places it _tenet locum plurium_ and needs no proportion, because the division concerns terms each holding the place of one thing.
 34. Dolz accepts the consequences: two things with infinitely many unequal proportions, several unequal halves of one thing, and a scope distinction between _every quantity is reached by some part_ and _some part reaches every quantity_.
@@ -3079,6 +3212,9 @@ Dolz ends the objections: _multa alia argumenta deducerem, sed in philosophia re
 82. The copulatives are true when the letters stand for quantified phrases, because the order of the quantifiers changes when the sentence is turned round (47a). Dolz concedes them and denies that they touch geometry, whose principles concern single things, not such impositions.
 83. Brunellus contains twice as much as his matter but does not fill double the space. Dolz allows two answers: he is double, and place need not be in proportion to the located; or _duplum_ requires double extension as well as double content.
 84. A body two feet in every dimension is eightfold a body of one foot, _respiciendo omnes dimensiones_: one _dupla_ per dimension, chained three times.
+85. Greater inequality, equality, and lesser inequality are not comparable with one another, and so have no proportion (48a). Lax, Dolz's teacher, held greater inequality greater in no proportion; Dolz, with Swineshead, denies the greaterness too. Denominations are compared only within the same kind and order.
+86. Every _multiplex superpartiens_ exceeds every _superpartiens_, and some but not every _multiplex_. Some _superpartientes_ exceed every _superparticularis_, others only some. Between composite species a greater multiple always wins.
+87. Dolz compares leftovers of different kinds by giving them the same number of parts: the half is two fourths, more than two fifths; the third is two sixths, less than two fifths (48b).
 
 ---
 
@@ -3112,7 +3248,7 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 36a | Euclidem **sexto** _Elementorum_ | _(left as printed)_ | The general theory of proportion and these transformations are in book V; possibly a slip for _quinto_ |
 | 36a–36b | id quod nos vocavimus… coniunctam sive disiunctam, praenominati **appellant** | _(lacuna suspected; left as printed)_ | The verb lacks its complement; the following sentences make the sense clear |
 | 36b | **94**, 32, 16 | **64** (adopted) | $64:32=32:16=2:1$, matching $8:4=4:2$ and the inferred $64:16=8:2=4:1$; $94$ breaks the first chain and the inference |
-| 37b | a corpus octupedale, b aggregatum ex uno **quadrupedali et uno bipedali** | _(left as printed; confirmed)_ | $8:6$ is sesquitertian, which the division covers; the solution on 39b confirms that the objection turns on $b$ being an aggregate, so the numbers are sound |
+| 37b | a corpus octupedale, b aggregatum ex uno **quadrupedali et uno bipedali** | _(left as printed)_ | $8:6$ is sesquitertian, which the division covers; the objection turns on $b$ being an aggregate (39b), so the numbers are sound |
 | 37b | **Item** bos est perfectior asino, under the heading _Quintum argumentum_ | _(left as printed)_ | Dolz answers it _ad sextum_ (39b), so it is a sixth objection. The transcription's heading covers both |
 | 38a | considerando **b** prout est in primo loco | **a** (adopted) | $a$ is the multilocated term; $b$ is $8$ in one place, and the preceding solution takes _a in primo loco_ |
 | 38a | nulla pars maioris esset **inaequalis** minori | **aequalis** (adopted) | The proof of the sequela is _nulla pars b est aequalis a_, and the reply is _aliqua pars b est aequalis a_ |
@@ -3159,3 +3295,4 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 47a | Tamen a non aequale **b** | **c** (adopted) | The gloss _non est aequalis cuilibet parti_ is the sense of _c_ ('quaelibet pars'); with _b_ ('aliqua pars') the clause would be false |
 | 47b | Divide secundum longitudinem: reperies duo pedaliter longa, **pedaliter** lata et **pedaliter** profunda | **bipedaliter** lata et **bipedaliter** profunda (adopted) | A single cut by length leaves breadth and depth at two feet, as the parallel cuts by breadth and depth state |
 | 47b | Divide quoad profunditatem, **prius ea** quamlibet medietatem quoad latitudinem | **postea** (adopted; conjectural) | The sequence is depth, then breadth, then (_postea_) length |
+| 48b | et **superpartiens** quintas est sesquialtera minor | **superbipartiens** (adopted) | The preceding and following sentences have _superbipartiens quintas_, $1\tfrac25$; the same slip as on 46a |

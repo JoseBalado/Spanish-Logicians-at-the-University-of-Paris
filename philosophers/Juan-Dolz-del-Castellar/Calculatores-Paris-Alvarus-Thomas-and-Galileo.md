@@ -730,6 +730,7 @@ These readers came from formal logic and asked what a medieval theory amounts to
 - There is no thesis to defend: the aim is neither to find precursors nor to show that there are none. Whether these texts are related to later physics is to be decided after reading them, not before.
 - The concepts the texts presuppose are learned from the texts. The theory of proportions, for instance, was learned here from Dolz's _Cunabula_, as his students learned it, and not from a modern reconstruction.
 - Modern tools (algebra, analysis, modal logic and Kripke models, type theory) come **after** reading, as aids to understanding. They may have to be adapted, or new ones devised, if the texts require it.
+- The [analysis](Cunabula-analysis.html) of the _Cunabula_ is written as a **working textbook**, so that the reader can actually carry out the calculations, not only read about them. Its primer states the rules once, distilled from Dolz's examples, and every operation is then shown step by step in worked examples: the medieval method first, the modern check after. Studies of medieval logic and physics rarely do this. They usually describe a doctrine, or formalize it, but seldom teach the reader to perform its procedures. Here the method follows Dolz's own: he too gives numerical examples for every topic (section 6.6).
 
 Two levels are kept apart and labelled:
 
@@ -747,6 +748,19 @@ No reader starts without a lens. The working hunch of this site, that the calcul
 The calculatory books are written in the forms of the disputation: a _casus_ is posited (_ponatur quod a moveatur …_), a _sophisma_ is proved and disproved, and Heytesbury's book is titled _Regulae solvendi sophismata_. Sylla (1989) is usually summarized as arguing that Alvarus's calculations were exercises in the logical and disputational training of the arts faculty, reasoning _secundum imaginationem_, rather than an attempt at mathematics or physics of the real world. This page has not yet checked that summary against her article (section 9). **If that is her thesis, this page rejects it**: it takes the form of exposition for the content, and the objections below are directed against it. That the books were written for and within the disputational practice of the university is not in question; that this makes their content something other than mathematics and physics is.
 
 **The format is not the content.** Mathematics has often been written in dialogue: Recorde's _Ground of Artes_ (1543) is a conversation between master and scholar, and Galileo's _Dialogo_ (1632) and _Discorsi_ (1638) are dialogues. No one concludes that these are plays rather than mathematics. The opposite mistake is Vives's: judging a syllogism by whether Cicero would have approved of its prose (section 6.5).
+
+**Dolz states his purpose.** For the _Cunabula_, at least, the purpose need not be guessed: the _Prooemium in proportiones_ (24) states it, and it is not disputational training.
+
+| What Dolz says | Where | What it shows |
+|---|---|---|
+| The Aquitanian students neglect the **basis** of natural philosophy, _in proportionum et proportionalitatum peritia consistentem_, and the fault lies with their teachers | 24 | Proportions are taught as the foundation of natural philosophy |
+| _non quantum mathematices scientia expostulat, sed quantum philosophia naturalis praequirit_; _non … mathematicos, sed philosophos reddere studeo_ | 24 | The mathematics is selected by what physics needs |
+| Without proportions no one can understand _Physics_ III, VII, and VIII, nor Aristotle on commutative and distributive justice (_Ethics_ V), the physicians (Avicenna, Galen), or the jurists (Bartolus on the division of islands and inheritances) | 24 | The aim is understanding real subjects, natural and human |
+| Against those who call the science _nullius utilitatis_: _Deus etiam omnia pondere et mensura creavit_ | 24 | He defends its usefulness, and grounds it in the structure of creation |
+| Fifth article: _regulas motus tam penes causam quam effectum, aliasque difficultates physicas … facile intelligere valeas_ | 25a | The goal is the rules of motion |
+| Sixth article: _facile physicas difficultates callere valebis. Si vis mathematicus fieri, residua alibi quaeres_ | 25a | The goal is mastering physical difficulties, not disputation |
+
+A book written by an author who says that he teaches proportions so that students can understand motion, justice, medicine, and law, and that God made all things by weight and measure, cannot be read as an exercise without a purpose beyond the disputation. If the thesis of Sylla summarized above is meant to cover the Paris tradition generally, the _Cunabula_ is a counterexample.
 
 **What the form does affect.** This does not concede the thesis. Disputation was more than a way of presenting material. It was the working practice of the university: bachelors disputed _sophismata_ in public. It therefore shaped **which problems were chosen**: paradoxes, limit cases, first and last instants, _maxima_ and _minima_, the border between finite and infinite. A modern parallel is olympiad problems, written for training and competition and biased toward tricky borderline cases, yet real mathematics, and sometimes the start of real questions.
 

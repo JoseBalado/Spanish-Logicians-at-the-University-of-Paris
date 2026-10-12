@@ -16,7 +16,7 @@ $$
 \mathrm{rules\ of\ motion\ and\ other\ physical\ difficulties}.
 $$
 
-For these predecessors, the Parisian transmission of the Calculators, and the comparison with Galileo, see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-and-Galileo.html).
+For these predecessors, the Parisian transmission of the Calculators, and the comparison with Galileo, see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-Alvarus-Thomas-and-Galileo.html).
 
 The order of exposition is therefore not determined by the sequence of Aristotle's _Physics_. Dolz retains Aristotelian questions and explicitly intends his mathematics to clarify the third, seventh, and eighth books, but access to those questions is reconstructed through proportion. Mathematics becomes the route by which the student enters physical inquiry, rather than an occasional instrument introduced inside a conventional commentary. The title expresses the same program by calling these principles the _cunabula_, the rudiments or cradle, of almost all sciences and especially of physical difficulties.
 
@@ -119,7 +119,7 @@ Same proportion, different excess (first two rows); same excess, different propo
 - **Harmonic proportionality** compares two excesses (P8; 40b, §19).
 - **The _medium rei_** is the middle at equal excess from both ends (P6).
 
-What the excess cannot do is stand in for the proportion. This matters in physics: Bradwardine rejected the view that speed follows the excess of power over resistance, and made it follow their proportion ([The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-and-Galileo.html), section 1.1).
+What the excess cannot do is stand in for the proportion. This matters in physics: Bradwardine rejected the view that speed follows the excess of power over resistance, and made it follow their proportion ([The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-Alvarus-Thomas-and-Galileo.html), section 1.1).
 
 ### P2. Naming a proportion
 
@@ -733,7 +733,7 @@ This section is entirely modern notation. Adding proportions multiplies their va
 
 The half of the _dupla_ is half the distance of the full $2:1$ on this scale. Two halves, $\tfrac12+\tfrac12=1$, make the full _dupla_, just as $\sqrt2\times\sqrt2=2$ and the chain $2,\ \sqrt2,\ 1$ of P6.
 
-That is why the medieval word "add" fits: the size of a proportion behaves like a logarithm. Bradwardine's rule needs exactly this: to double a speed, double the proportion of power to resistance, i.e. square its value. $2:1$ becomes $4:1$, and $3:2$ becomes $9:4$ (§19; [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-and-Galileo.html), section 1.1).
+That is why the medieval word "add" fits: the size of a proportion behaves like a logarithm. Bradwardine's rule needs exactly this: to double a speed, double the proportion of power to resistance, i.e. square its value. $2:1$ becomes $4:1$, and $3:2$ becomes $9:4$ (§19; [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-Alvarus-Thomas-and-Galileo.html), section 1.1).
 
 **A logarithm before logarithms?** In concept, largely yes. Treating proportions as magnitudes that add when chained is what a logarithm does: it turns multiplying into adding. Oresme's _De proportionibus proportionum_ (c. 1360) pushed the idea furthest, treating fractional parts of proportions, such as the half of the _dupla_, and asking whether one proportion is a rational part of another; $3:2$, for instance, is not a rational part of $2:1$. What was missing was the computing device: a **table** giving every proportion a number, so that a product is found by looking up two numbers, adding them, and looking up the result. The chain method of P4–P6 still multiplies whole numbers at every step and saves no labour. The tables came with Napier (1614) and Bürgi (1620), prepared by Stifel's (1544) pairing of a geometrical sequence $1,2,4,8,\dots$ with an arithmetical one $0,1,2,3,\dots$, which are the two proportionalities of P8 set side by side. The practical power of logarithms in astronomy, navigation, and later engineering came from the tables and the slide rule built on them, not from the concept alone.
 
@@ -2098,7 +2098,7 @@ In mode 5 the absolute reading happens to work: if the lesser term loses more th
 | $8:4\to12:5$ | $4\to7$: speed increases | $2\to2.4$: speed increases |
 | $8:4\to16:11$ | $4\to5$: speed increases | $2\to1.\overline{45}$: speed decreases |
 
-The positions are those of [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-and-Galileo.html), section 1.1; the rows are our examples.
+The positions are those of [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-Alvarus-Thomas-and-Galileo.html), section 1.1; the rows are our examples.
 
 Dolz says that this will serve in philosophy when the power (_potentia_) increases with the resistance unchanged, or the resistance with the power unchanged, and when both increase or both decrease, one more than the other _proportionaliter_. From these rules the student will know whether the proportion is made greater or less, _et an velocitas augebitur motus vel diminuetur_.
 
@@ -2367,7 +2367,7 @@ He does not say how one proportion is to be measured against another. Two readin
 | _quadrupla_ $4:1$ to _dupla_ $2:1$ | $4\div2=2$, double | _quadrupla_ is _dupla_ added to _dupla_, so double |
 | _octupla_ $8:1$ to _dupla_ $2:1$ | $8\div2=4$, quadruple | _octupla_ is three _duplae_, so triple |
 
-The two readings agree in the first row and differ in the second. Bradwardine's rule, that speed follows the proportion of proportions, needs the second (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-and-Galileo.html), section 1.1). The addition of proportions on 40a points the same way, but page 41 does not choose. On 42a Dolz promises a later treatment of _maioritas proportionis_, how one proportion is greater than another (§21). Page 43b chooses the second reading: the half of a proportion is the proportion that, added to itself, makes the whole (§22).
+The two readings agree in the first row and differ in the second. Bradwardine's rule, that speed follows the proportion of proportions, needs the second (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-Alvarus-Thomas-and-Galileo.html), section 1.1). The addition of proportions on 40a points the same way, but page 41 does not choose. On 42a Dolz promises a later treatment of _maioritas proportionis_, how one proportion is greater than another (§21). Page 43b chooses the second reading: the half of a proportion is the proportion that, added to itself, makes the whole (§22).
 
 ### Aristotle: _rationum comparatio_
 
@@ -2646,7 +2646,7 @@ The preamble ends: as a proportion is part of a proportion, so it is an aliquot 
 
 Three observations of ours:
 
-- **Proportions are measured by composition.** The half of a proportion is the one that, added to itself in the sense of 40a, makes the whole. $8:4$ added to $4:2$ makes $8:2$, so _dupla_ is half of _quadrupla_; $4:3$ added to itself makes $16:9$, not $2:1$. To add a proportion to itself, find three terms in which the first is to the second, and the second to the third, in that proportion. For $4:3$ these are $16, 12, 9$: $16:12$ and $12:9$ are both _sesquitertia_, and the chain runs from $16$ to $9$, so $4:3 + 4:3 = 16:12 + 12:9 = 16:9$. "Adding" here is linking proportions through a shared middle term, as $8:6$ and $6:4$ make $8:4$ on 40a; in modern terms it is multiplying the ratios, $\tfrac43\cdot\tfrac43=\tfrac{16}9$. Measured by value, the half of $2:1$ would be $1:1$, equality, which is no part of it. This answers the question of §20 for the parts of a proportion, and it is the measure Bradwardine's rule needs (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-and-Galileo.html), section 1.1).
+- **Proportions are measured by composition.** The half of a proportion is the one that, added to itself in the sense of 40a, makes the whole. $8:4$ added to $4:2$ makes $8:2$, so _dupla_ is half of _quadrupla_; $4:3$ added to itself makes $16:9$, not $2:1$. To add a proportion to itself, find three terms in which the first is to the second, and the second to the third, in that proportion. For $4:3$ these are $16, 12, 9$: $16:12$ and $12:9$ are both _sesquitertia_, and the chain runs from $16$ to $9$, so $4:3 + 4:3 = 16:12 + 12:9 = 16:9$. "Adding" here is linking proportions through a shared middle term, as $8:6$ and $6:4$ make $8:4$ on 40a; in modern terms it is multiplying the ratios, $\tfrac43\cdot\tfrac43=\tfrac{16}9$. Measured by value, the half of $2:1$ would be $1:1$, equality, which is no part of it. This answers the question of §20 for the parts of a proportion, and it is the measure Bradwardine's rule needs (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-Alvarus-Thomas-and-Galileo.html), section 1.1).
 - **The half of $8:4$ has no whole-number terms.** It needs $b$ with $8:b=b:4$, so $b\cdot b=32$, and no whole number squared gives $32$. In modern terms the half of the double is $\sqrt2:1$, the ratio of the diagonal of a square to its side, which preamble 9 showed to have no common measure (§6). The tone $9:8$ fails to be halved in the same way (§19). In fact none of the nine parts of preamble 2 is aliquot to $8:4$: an aliquot part $r$ would need $r^n=2$ for some $n\ge2$, and no ratio of whole numbers satisfies that. This is presumably why Dolz moves to $8:2$ for his example. He does not say so.
 - **Proportions are like the continuum, not like number.** No proportion is aliquot to every proportion. This is the claim of 27a about continuous quantity: there is no analogue of unity (§3). _Nec etiam cuiuslibet alterius a se_ echoes the exception of 26b, where the binary is aliquot to every even number except itself (§2); for proportions not even that holds.
 

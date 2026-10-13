@@ -57,8 +57,6 @@ The section is highly personal: Celaya reportedly called Dolz blind, ignorant, f
 
 The *Cunabula* also attests to two further teaching works or activities, neither represented here by an identified printed edition: Dolz says he had written his *Exponibilia* and given its solution to students (23a), and refers to an explanation given in his *Analyticorum lectura* (34a). The latter reference establishes lectures or a commentary on the *Analytics*, not necessarily a completed, separately published book.[^8]
 
-See also the [analysis of the *Cunabula*](Cunabula-analysis.html).
-
 ## Notes
 
 [^1]: [*Cunabula* transcription](Cunabula-omnium-fere-scientiarum-1518.html), preliminary addresses, PDF pp. 12, 14, and 17; proemium, PDF p. 24.
@@ -68,7 +66,7 @@ See also the [analysis of the *Cunabula*](Cunabula-analysis.html).
 [^5]: *Cunabula*, *Invectiva*, third and seventeenth criticisms, PDF pp. 19a and 23a.
 [^6]: *Cunabula*, *Invectiva*, opening and first criticism, PDF p. 18a. For Celaya's publication history, see the [Juan de Celaya works list](../Juan-de-Celaya/#works).
 [^7]: *Cunabula*, *Invectiva*, fourth criticism and conclusion, PDF pp. 20a and 23b.
-[^8]: *Cunabula*, discussion of geometrical corruption of assent, transcription marker 34a (Google Books PDF page 34, column a); see also the [analysis of page 34](Cunabula-analysis.html).
+[^8]: *Cunabula*, discussion of geometrical corruption of assent, transcription marker 34a (Google Books PDF page 34, column a).
 
 ## Bibliography
 

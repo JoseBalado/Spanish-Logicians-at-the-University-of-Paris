@@ -173,7 +173,7 @@ Haec est quae habentis intentionem certificat, difficilia facilitant, naturae co
 
 > Licitum est mihi ut me ipsum cognoscam, sustinere non possum ut me habeam incognitum.
 
-Non sufficeret calamus et tempus deesset, etiam si aeternum foret, si omnes huius laudes evomere deberem. Quibus pensitatis, colendissime eruditionis parens, nunquam persuasum, ut ab huius studio desisterem, mihi a genitore caeterisque meis affinibus fieri valuit. Quo, quaeso, honore, qua laude, qua memoria, qua auctoritate, quo pretio philosophi prisci habentur? Ita ut eis ac fidei doctoribus fere fides, haud immodica, praebeatur, qui Deo viventium appropinquant in hoc saeculo atque immortalitatem accedunt. Quam ipsi philosophiae incumbentes, Deus, ex Aristotele in *Ethicis*, non emptores, non venditores, non caeterorum agibilium humanorum quibus caeteri student, sed philosophiae exemplum et ideam, dum terris incederet, in principio et semper dedit, erigit et impendet.
+Non sufficeret calamus et tempus deesset, etiam si aeternum foret, si omnes huius laudes evomere deberem. Quibus pensitatis, colendissime eruditionis parens, numquam persuasum, ut ab huius studio desisterem, mihi a genitore caeterisque meis affinibus fieri valuit. Quo, quaeso, honore, qua laude, qua memoria, qua auctoritate, quo pretio philosophi prisci habentur? Ita ut eis ac fidei doctoribus fere fides, haud immodica, praebeatur, qui Deo viventium appropinquant in hoc saeculo atque immortalitatem accedunt. Quam ipsi philosophiae incumbentes, Deus, ex Aristotele in *Ethicis*, non emptores, non venditores, non caeterorum agibilium humanorum quibus caeteri student, sed philosophiae exemplum et ideam, dum terris incederet, in principio et semper dedit, erigit et impendet.
 
 Qua de re his, ut ita dicam, expulsus et haerere, aliis praetermissis, censui. Et non tibi permittere, mi praeceptor existimo, tam eruditum me caeterosque sodales diu noctuque laborans: insequendo Alexandrum, Macedoniae principem, Aristotelem suum praeceptorem, quam Philippum parentem, maiori amore prosequendo. Munera plurima mortalia praeceptoris aiunt immortaliter essendo, et cum vulgo dicatur: ubi fundamentum non est, ibi aedificari non posse.
 
@@ -235,7 +235,7 @@ Dico: quando dicis dictum meum esse contra definitionem Petri Hispani, in qua di
 
 Petrus Hispanus, dum illam dedit definitionem, nihil aliud voluit dicere nisi quod significare naturaliter erat unum significare quod aeque bene repraesentasset, et omnes repraesentationes terminorum naturaliter significantium aut rerum cognovisset, et eis repraesentationes factae fuissent, dato quod nulla fuisset impositio.
 
-Sicut iam multa nobis repraesentant nondum imposita, vides si hoc nobis adversetur. Alios sensus posset etiam dare, sed iste te obmutescere facit; non fuisti bene oculatus, etsi poetae in te solum animadvertissent nunquam Argum fixissent, non fuisses idoneus ad custodiendas vaccas Iunonis.
+Sicut iam multa nobis repraesentant nondum imposita, vides si hoc nobis adversetur. Alios sensus posset etiam dare, sed iste te obmutescere facit; non fuisti bene oculatus, etsi poetae in te solum animadvertissent numquam Argum fixissent, non fuisses idoneus ad custodiendas vaccas Iunonis.
 
 Ad aliud quod dicis, me mihi contradicere in eodem loco, sed videant neutri an hoc sit verum. Et quando dicis in definitione de ly 'significare naturaliter communiter' me ponere hanc particulam 'adaequate', iam respondi in *Terminis* qualiter una causatione una res potest esse obiectum adaequatum conceptus communis, licet in aliis plures concurrat. In ratione obiectorum, obiectum est terminus partim collectivus; non igitur mihi repugno si intelligar, sed solum tuae falsitati repugno. Vide *Terminos*.
 
@@ -349,7 +349,7 @@ Attribuit mihi in *Modalibus* me istam concedere "Sortes et Plato possibiliter s
 
 ### Decima septima reprehensio
 
-Impugnat me super uno casu decimi argumenti *Modalium de possibili*, in *Modalibus* meis positi, quem dicitur in solvendum, et ideo dicit me non scire solvere et quod nunquam edam *Exponibilia*. Iam scripsi et scholaribus meis solutionem praebui. Ipsi sint testes. Nonne vides te inconsiderate loqui cum oppositum tuorum dictorum constet?
+Impugnat me super uno casu decimi argumenti *Modalium de possibili*, in *Modalibus* meis positi, quem dicitur in solvendum, et ideo dicit me non scire solvere et quod numquam edam *Exponibilia*. Iam scripsi et scholaribus meis solutionem praebui. Ipsi sint testes. Nonne vides te inconsiderate loqui cum oppositum tuorum dictorum constet?
 
 ### Decima octava reprehensio
 
@@ -1212,7 +1212,7 @@ Item sicut in divisibili dantur medietates, tertiae, quartae, ita et in proporti
 
 Quartum praeambulum: licet in divisibili capiantur partes aliquotae penes distantiam, ut Aristoteles 2 *Ethicorum* de medio rei contra medium rationis enucleat, et apud professores theologiae, decima tertia distinctione, tertii *Sententiarum*, ut patet ex Gabriele, dicit medium reale quod aequaliter distat ab extremis, medium rationis quod nec excedit nec deficit contra rationis dictamen, cui aliquando magis appropinquatur excessus quam defectus, aliquando econtra, ut dicitur in expositione *Ethices*. In proportionibus tamen ad assumendas aliquotas non debes respicere ad aequalem distantiam numerorum.
 
-Exemplificor: medietas proportionis 8 ad 4 non est 8 ad 6 vel 6 ad 4, dato quod aeque distent. Hoc patet: omnis medietas debet esse subdupla ad totum; sed proportio 8 ad 6 non est subdupla ad proportionem 8 ad 4, quia sesquitertia non est subdupla ad duplam, ut patebit; igitur. Et consimiliter potes idem de aliis aliquotis.
+Exemplificor: medietas proportionis 8 ad 4 non est 8 ad 6 vel 6 ad 4, dato quod aeque distent. Hoc patet: omnis medietas debet esse subdupla ad totum; sed proportio 8 ad 6 non est subdupla ad proportionem 8 ad 4, quia sesquitertia non est subdupla ad duplam, ut patebit, igitur. Et consimiliter potes idem de aliis aliquotis.
 
 Et propterea, praeter medium rationis, ponitur duplex medium apud mathematicos: medium rei. Quod aequali distantia distat ab extremis. Medium proportionale: quod aequali proportione distat ab extremis. Exemplum: 8 ad 4, 6 est medium rei sed non proportionabile, nam 8 ad 6 est sesquitertia, 6 ad 4 sesquialtera; ideo non aequalis proportio. Sed inter 8 ad 2 medium proportionabile est 4; aequalis enim est proportio 8 ad 4 et 4 ad 2, quia utraque dupla; sic non est medium rei.
 
@@ -1368,7 +1368,7 @@ Ad primum sic arguitur: proportio maioris inaequalitatis continet infinitas inae
 
 ### Lax
 
-Lax in suis proportionibus tenet quod proportio maioris inaequalitatis est maior quacumque aequalitatis aut minoris inaequalitatis, et proportio aequalitatis maior proportione minoris inaequalitatis. Sed dicit quod in nulla proportione est maior, sic quod nulla est proportio alicuius illarum ad aliam. Sed licet hic praeceptor meus, cui condignum eruditionis nunquam referam, subtiliter loquatur, loquar tamen facilius pro his quibus scribo: quod illa non sunt comparabilia inter se, ideo non est proportio.
+Lax in suis proportionibus tenet quod proportio maioris inaequalitatis est maior quacumque aequalitatis aut minoris inaequalitatis, et proportio aequalitatis maior proportione minoris inaequalitatis. Sed dicit quod in nulla proportione est maior, sic quod nulla est proportio alicuius illarum ad aliam. Sed licet hic praeceptor meus, cui condignum eruditionis numquam referam, subtiliter loquatur, loquar tamen facilius pro his quibus scribo: quod illa non sunt comparabilia inter se, ideo non est proportio.
 
 ### Suisset
 
@@ -1380,7 +1380,29 @@ Et si petas quid comparando superparticulares ad superpartientes dicendum erit, 
 
 Et si petas quid dicendum erit comparando multiplicem superparticularem et multiplicem superpartientem, respondeo: quaelibet multiplex superparticularis denominata a maiori denominatione multiplici quacumque superpartiente multiplici maior est minoris denominationis multiplicis, qualiscumque sit denominatio superparticularis. Declaro exemplo: quaelibet tripla superparticularis quacumque dupla superpartienti est maior, et quaelibet quadrupla superparticularis quacumque tripla superpartiente est maior, et sic consequenter. Similiter quaelibet multiplex superpartiens maioris denominationis multiplicis quacumque multiplici superparticulari minoris denominationis multiplicis, qualiscumque sit denominatio superparticularium, maior est. Patet: tripla quaelibet superpartiens quacumque dupla superparticulari maior est. Similiter quaelibet quadrupla superpartiens quacumque tripla superparticulari est maior, et sic consequenter.
 
-Et si petas quid dicendum erit comparando unam compositam ad aliam compositam cum eadem denominatione multiplici, respondeo: dupla sesquialtera minor est dupla superbipartiente tertias, quia binarius cum medietate minor est binario cum duabus tertiis. Sed dupla sesquialtera maior est dupla superbipartiente quintas, quia binarius cum medietate maior est binario cum duabus quintis, et sic dupla sesquialtera /49a/ quacumque dupla superpartienti eundo semper per bi est maior, dempta superbipartiente tertias.
+Et si petas quid dicendum erit comparando unam compositam ad aliam compositam cum eadem denominatione multiplici, respondeo: dupla sesquialtera minor est dupla superbipartiente tertias, quia binarius cum medietate minor est binario cum duabus tertiis. Sed dupla sesquialtera maior est dupla superbipartiente quintas, quia binarius cum medietate maior est binario cum duabus quintis, et sic dupla sesquialtera /49a/ quacumque dupla superpartienti eundo semper per bi est maior, dempta dupla superbipartiente tertias. Notanter addo eundo semper per bi, nam secus non oportet. Probo sic: nam dupla sesquialtera non est maior dupla superquadripartiente quintas, quia quattuor quintae sunt maiores medietate. Ideo in hac variatione vide exigentiam proportionis. Sed dupla sesquitertia non maior dupla superbipartiente tertias, nec etiam maior dupla superbipartiente quintas, nam binarius cum tertia minor est binario cum duabus tertiis, et etiam binario cum duabus quintis. Sed illis duabus exceptis, dupla sesquitertia quacumque dupla superpartienti eundo semper per bi est maior. Et poteris proportionabiliter alias comparare, quia sunt infinitae; numquam haberetur finis, ideo sis contentus aliquarum specificatione; illae aperiunt tibi materiam in aliis.
+
+## De proportione proportionum
+
+Octava propositio: quandocumque una proportio est maior alia, etiam medietas illius est maior medietate alterius, et tertia illius tertia alterius, et sic consequenter; et sic, postquam tripla est maior dupla, medietas triplae maior est medietate duplae.
+
+Nona propositio: proportio quadrupla est dupla ad duplam. Patet: quadrupla componitur ex duabus duplis, patet 4 ad 1, ex 4 ad 2 et duorum ad unum. Omnes duplae sunt aequales ex dictis, et omne compositum ex duobus aequalibus est duplum ad quodlibet illorum ex praeambulo. Ergo omnis quadrupla est dupla ad duplam.
+
+Decima propositio: octupla est tripla ad duplam. Patet: componitur ex tribus duplis, scilicet 8 ad 4, 4 ad 2 et duorum ad unum, et omne compositum ex tribus aequalibus est triplum ad quodlibet illorum.
+
+### Regula aliquorum destruitur
+
+Igitur per hanc proportionem destruitur una regula quam aliqui posuerunt, dicentes quod in eadem proportione una proportio est maior alia, in qua numerus denominationis eius est maior numero denominationis alterius. Quod sit falsa, patet: numerus denominationis octuplae est 8, et duplae est binarius. 8 ad 2 est quadrupla, tamen octupla non est quadrupla ad duplam, patet ex probatione facta.
+
+Undecima propositio: sexdecupla est /49b/ quadrupla ad duplam. Patet: sexdecim ad unum est sexdecupla, et componitur ex sexdecim, 8 est una dupla; 8 ad 4, altera dupla; 4 ad 2, alia; duorum ad unum, alia; et omne compositum ex 4 aequalibus est quadruplum ad quodlibet illorum ex praeambulo, igitur.
+
+Duodecima propositio: proportio sexdecupla est dupla ad quadruplam. Patet, cum componatur ex duabus quadruplis, nam sexdecim ad unum, quae est sexdecupla, componitur ex proportione sexdecim ad 4, quae est quadrupla, et 4 ad unum, quae est iterum quadrupla; et omne compositum ex duobus aequalibus est duplum ad illud, igitur.
+
+Decimatertia propositio: proportio nonupla est dupla ad triplam. Patet: nam proportio 9 ad 1, quae est nonupla, componitur ex proportione 9 ad 3, quae est tripla, et 3 ad unum, quae est tripla; igitur ex praeambulis est dupla ad triplam. Et per istas proportiones poteris facile alias multiplices comparare, et videre in qua proportione una multiplex est maior alia.
+
+Decimaquarta propositio: proportio dupla nec est dupla ad sesquialteram nec dupla ad sesquitertiam. Patet: numquam proportio dupla componitur ex duabus sesquialteris, nec ex duabus sesquitertiis, ut patet inductive in omnibus. Igitur numquam est dupla ad quamlibet illarum, sed est magis quam dupla ad sesquitertiam et minus quam dupla ad sesquialteram. Patet: dupla componitur ex sesquitertia et sesquialtera, nam 4 ad 2, quae est dupla, componitur ex 4 ad 3, quae est sesquitertia, et trium ad duo, quae est sesquialtera, et illae sunt inaequales, quia, ut dictum est, sesquialtera est maior, et ex praeambulo omne compositum ex duobus inaequalibus est minus quam duplum ad maius illorum et magis quam duplum ad minus illorum. Igitur propositio vera.
+
+Decimaquinta propositio: proportio quadrupla non est dupla ad triplam, numquam ex duabus triplis componitur. Patet inductive; sed est minus quam dupla ad triplam. Patet: componitur ex tripla et sesquitertia, patet 4 ad unum, quae est quadrupla, componitur ex quattuor ad tria, quae est sesquitertia, et trium ad unum, quae est tripla /50a/.
 
 
 <!--
@@ -1466,5 +1488,9 @@ Page 47b: bipedaliter ] emend. pedaliter (lata, after a cut by length only)
 Page 47b: bipedaliter ] emend. pedaliter (profunda, after a cut by length only)
 Page 47b: postea ] conj. prius ea
 Page 48b: superbipartiens ] emend. superpartiens (quintas; cf. superbipartiens quintas in the preceding sentences)
+Page 49b: 9 ] emend. 6 (6 ad 3, quae est tripla)
+Page 49b: sesquialteram ] emend. sesquitertiam (minus quam dupla ad sesquialteram; the first sesquitertiam stands)
+Page 49b: est ] sic (om.; proportio quadrupla non dupla ad triplam)
+Page 49b: numquam ] emend. nonnumquam (dupla ad triplam nonnumquam; the sense requires numquam; cf. the preceding proposition)
 
 -->

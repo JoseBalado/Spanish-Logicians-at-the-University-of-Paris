@@ -1110,6 +1110,35 @@ Sed sic est quod magna est dignitas in anima rationali quod habeat istam potenti
 
 /49a/
 
+Nunc sequitur alia divisio in qua ostendentur accidentia ipsius animae. Ideo ponitur talis divisio: accidentium quaedam dicuntur species, quaedam vero actus seu operationes, alia autem passiones, alia habitus.
+
+Et primo est intelligendum quid intelligimus per speciem, pro cuius declaratione ponuntur aliquae propositiones.
+
+Quarum prima est: species non est aliquis actus seu aliqua cognitio, et ratio est quia cognitio actualiter repraesentat obiectum quod cognoscitur, sed species non actualiter repraesentat obiectum. Patet, quia me dormiente habeo speciem patris mei, et tamen non repraesentatur mihi actualiter pater meus, quia non cognosco actualiter patrem meum.
+
+Secunda propositio: species non est aliquis habitus. Patet, quia non producitur quandocumque generatur actus, immo habitus generatur ex pluribus actibus. Sed species non generatur ex actibus, immo quandocumque producitur aliquis actus cognoscendi, tunc producitur species; ergo species non est habitus. Item habitus generatur ex actibus, sed species generatur ab obiecto; ergo species non est habitus.
+
+Tertia propositio responsiva ad quaestionem: species est una qualitas quae sic se habet quod remanet in organo vel in potentia, obiecto absente, a quo causatur ipsa, poterit causare cognitionem illius obiecti absentis. Ut sic imaginor ut intelligo albedinem: illa albedo causat unam qualitatem in intellectum, quae qualitas dicitur similitudo albedinis seu species albedinis, quae sic se habet quod, absente albedine, potest causare /49b/ in me notitiam albedinis.
+
+Ex isto sequitur quod bene dixerunt aliqui quod species est similitudo habitualis sui obiecti.
+
+Contra: non est habitus; ergo non est similitudo habitualis.
+
+Nego consequentiam, et ratio est quia non vocatur similitudo habitualis eo quod sit habitus, sed quia nata est causare notitiam actualem illius obiecti absentis, et ideo vocatur similitudo et imago obiecti.
+
+Ex quo sequitur error illorum qui dicebant quod species est similitudo actualis sui obiecti, unde nihil est similitudo actualis nisi cognitio per quam actualiter cognoscitur obiectum. Et ideo si quis quaerat utrum species repraesentet obiectum suum, distinguo: aut actualiter, et sic dico quod non; aut habitualiter, et sic dico quod sic, quia vult dicere quod ipsa nata est causare notitiam actualem sui obiecti etiam obiecto absente. Et ponitur talis regula generalis:
+
+> Omnis notitia causata mediante specie alicuius rei est quaedam notitia obscura et aenigmatica.
+
+Ratio est quia illa notitia non vocatur immediate a re, sed ab imagine rei. Ista regula postea pertractabitur magis ad longum.
+
+Notandum quod species dividitur, quia quaedam est species sensibilis sensus exterioris, alia est species phantastica seu sensus interioris, alia est species intelligibilis seu intellectus.
+
+* **Species**
+  * sensibilis sensus exterioris
+  * phantastica sensus interioris
+  * intelligibilis seu intellectus
+
 
 <!--
 ## Apparatus Criticus Reference
@@ -1140,6 +1169,7 @@ Page 39b: organo ] conj. impo
 Page 42b: Sicut ] sic
 Page 47b: potentia collativa est collativa ] sic
 Page 47b: in complexam ] del. in in complexam
-Page 49b: apprehensivarum ] conj. appe
+Page 48b: apprehensivarum ] conj. appe
+Page 49b: pertractabitur ] conj. praticabit'
 
 -->

@@ -8,7 +8,7 @@ keywords: Alvarus Thomas, Liber de triplici motu, Galileo, Duhem, precursors of 
 
 This page gathers the historical context behind Dolz's _Cunabula_ (see the [analysis](Cunabula-analysis.html)): what the Parisian authors around 1500–1530 actually knew about motion, how much of what is usually credited to Galileo is already in print in Alvarus Thomas's _Liber de triplici motu_ (Paris, 1509), what Galileo nevertheless contributed, what Pierre Duhem argued, and how the material passed between Pardo, Mair, Alvarus, Lax, Luis Coronel, Celaya, Dolz, and Soto.
 
-References to Alvarus are to the ECHO XML transcription of the 1509 edition, by the page number of its `<pb n="…">` markers (images, not printed folios).
+References to Alvarus are to the ECHO XML transcription of the 1509 edition, by the page number of its `<pb n="…">` markers (images, not printed folios). Latin quotations are given with abbreviations expanded. An edited text with facsimile is in Trzeciok (2016), vol. II.
 
 ---
 
@@ -273,9 +273,69 @@ $$
 s = \sum_{n=1}^{\infty} v_n\,2^{-n}.
 $$
 
-The distance is finite when the speeds grow arithmetically, $v_n = n + 1$ (Dolz's $2, 3, 4, \ldots$; the sum is $3$), and infinite when they grow geometrically, $v_n = 2^n$ (every term is $1$). Deciding which such series converge is exactly what these cases required.
+The distance is finite when the speeds grow arithmetically, $v_n = n + 1$ (Dolz's $2, 3, 4, \ldots$; the sum is $3$), and infinite when they grow geometrically, $v_n = 2^n$ (every term is $1$). Deciding which such series converge is exactly what these cases required. Both of Dolz's cases are in Alvarus: the first is his eleventh conclusion, the second a corollary of his sixth (below).
 
 The example also shows how thoroughly the two genres of section 1 are fused: a problem about the intension of a quality is solved by summing a geometric series of proportions.
+
+#### The rules of the series chapter (pp. 155–167)
+
+The series for local motion are concentrated in one chapter of the treatise on motion _penes effectum_. Its conclusions are general rules, stated for a division of the hour "by whatever ratio you like" (_quavis libuerit proportione_), and then illustrated by examples. Write $g$ for the ratio of division (each proportional part is to the next as $g:1$), $t_n$ and $v_n$ for the time and speed of the $n$-th part, and $s_n = v_n t_n$.
+
+| Conclusion | Page | What it says | Modern form |
+|---|---|---|---|
+| First | 155 | _totum illud corpus sive latitudo se habet ad residuum a prima parte proportionali in ea proportione qua ipsum … dividitur_ | $\dfrac{T}{T-t_1} = g$, hence $\dfrac{T}{t_1} = \dfrac{g}{g-1}$: the sum of a geometric series |
+| Fourth | 156 | speeds $1, 2, 3, \ldots$ times the first: _totalis velocitas se habebit ad velocitatem primae partis … in qua se habebit totum tempus ad primam partem_, and the distance to the first part's distance _in proportione duplicata_ | $\dfrac{S}{s_1} = \sum n\,x^{n-1} = \left(\dfrac{1}{1-x}\right)^{2} = \left(\dfrac{T}{t_1}\right)^{2}$, with $x = 1/g$ |
+| Sixth | 158 | if each speed exceeds the preceding one in the same ratio as the times, or a greater one, _spacium pertransitum … infinitum erit_ | $v_{n+1}/v_n = f \ge g \implies s_{n+1} \ge s_n$, so $S = \infty$ |
+| Seventh | 159 | if the speeds increase in a ratio $f$ smaller than $g$, the distance is to the first part's distance as a whole divided in the ratio by which $g$ exceeds $f$ is to its first part | $\dfrac{S}{s_1} = \dfrac{1}{1 - f/g} = \dfrac{h}{h-1}$, with $h = g/f$ |
+| Tenth, eleventh | 163–165 | speeds that do not grow in a single ratio, reduced to earlier cases by removing a uniform speed (below) | — |
+| Propositions after the twelfth | 166 | a series can be summed when the speeds keep _aliquam coherentiam sive proportionem_; otherwise not by a finite intellect | — |
+
+The fourth conclusion is Swineshead's famous case (double division, speeds $1, 2, 3, \ldots$, total speed $2$) **generalized to any ratio of division**; Leitão (2000) states it as $1 + 2x + 3x^2 + \cdots = (1 + x + x^2 + \cdots)^2$. With $g = 2$ the distance is four times the first part's and the total speed double the first: $\sum n/2^n = 2$. With the sesquialtera division ($g = 3/2$) the total speed is triple the first, which Alvarus notes equals the speed of the third part.
+
+The sixth and seventh conclusions together amount to a convergence test for series of geometric type: the series converges exactly when the ratio of the speeds is smaller than the ratio of the times. The corollary of the sixth is Dolz's divergent case (double division, doubling speeds). The seventh is stated so densely that Alvarus himself adds that _hoc theorema multiplicibus verbis implicitum et intricatum familiarem et exemplarem enucleationem efflagitat_, and explains it by an example (quadruple division, doubling speeds: the distance is double that of the first part).
+
+The ratio of division need not be rational. In the treatise on alteration (pp. 270–271) a body is divided by "the irrational ratio of the diagonal to the side, which is half of the double", i.e. $g = \sqrt2$, and by the half of the triple, $g = \sqrt3$. The same treatise considers bodies whose intensity is infinite, or becomes infinite through a finite rarefaction (pp. 271, 275).
+
+#### Removing a uniform speed (pp. 163–165)
+
+When the speeds do not grow in one ratio, Alvarus subtracts a uniform speed that lasts the whole hour, sums what is left by an earlier conclusion, and adds the subtracted part back. The **eleventh conclusion** takes speeds $2, 3, 4, \ldots$ in double proportional parts (Dolz's case) and gives the method in words (p. 165):
+
+> Alio tamen modo poterit tale spacium adinveniri, primo imaginando medietatem velocitatis primae partis esse se motam per totam horam: et tunc invenitur spacium pertransitum in totali hora mediante residua velocitate manente ex quarta conclusione huius … deinde illo spacio sic adinvento adiunge spacium natum pertransiri a velocitate quam subtraxeris.
+
+Remove "in the imagination" one degree from every part. The remainder is $1, 2, 3, \ldots$, the case of the fourth conclusion: it covers four times what speed $1$ covers in the first half hour. The removed degree, lasting the whole hour, covers twice that. In modern terms, with speed $2$ covering $2$ feet in the hour:
+
+$$
+\sum_{n\ge1}\frac{n+1}{2^n}
+= \underbrace{\sum_{n\ge1}\frac{n}{2^n}}_{\text{fourth conclusion: }2}
++ \underbrace{\sum_{n\ge1}\frac{1}{2^n}}_{\text{removed degree: }1}
+= 3,
+$$
+
+three times the first part's distance, as the eleventh conclusion states.
+
+The **tenth conclusion** (p. 163) makes the same move with a decreasing excess. The speed in the second part is _sesquialtera_ to the first, in the third _sesquiquarta_, in the fifth _sesquisextadecima_, and so on, so $v_n = v_1\left(1 + 2^{-(n-1)}\right)$. With $v_1$ "as two" and $2$ feet in the first half hour, the uniform speed $2$ over the whole hour gives $4$ feet, and the excesses over it give _duas tertias pedalis_:
+
+$$
+4 + 2\sum_{n\ge2} 2^{\,2-n}\cdot 2^{-n} = 4 + 2\left(\tfrac14 + \tfrac1{16} + \cdots\right) = 4 + \tfrac23 ,
+$$
+
+so the whole distance is to the first part's as $4\tfrac23 : 2$, _proportio dupla sesquitertia_ ($7:3$). This is one of the series Leitão reports from Rey Pastor, $1 + \tfrac32\cdot\tfrac12 + \tfrac54\cdot\tfrac1{2^2} + \tfrac98\cdot\tfrac1{2^3} + \cdots$.
+
+Three things follow for the reading of these pages:
+
+- The decomposition is **verbal and done once**: a single uniform speed is removed and the remainder is referred to a conclusion already proved. There is no drawing. Leitão (2000, n. 25) notes that the book has no velocity–time figures; the marginal figures it does have show ratios (pp. 7–72), a medium (p. 111), wheels (pp. 130–134), and squares of a quality (pp. 264, 275). Oresme had proved $\sum n/2^n = 2$ with a figure of stacked rectangles (_De configurationibus_ III.8); a geometric version of two of Alvarus's propositions in Oresme's manner is a modern reconstruction (Correia de Sá 2010).
+- **Numbers and fractions are used** in the examples: _ut duo_, _bipedale_, _duas tertias pedalis_, and on p. 276 _ut duo cum duabus tertiis_.
+- The **foundation** is the first conclusion, which refers back to chapter 5 of the first part.
+
+#### The disputation in the text (pp. 166–167)
+
+The chapter ends by admitting that only series with a regular order can be summed: those _quae continuum ordinem alicuius proportionis observant_ can be demonstrated _infallibiliter_; _cetera vero sicut nullum ordinem servant ita nullis regulis scientiae astringi valent_. Alvarus then asks what one should answer to a calculator who proposes such cases "in the public and famous literary arena":
+
+> Sed petes quid igitur calculatori proponenti tales casus in publica et celebri litteraria palaestra respondendum sit.
+
+His answer follows "Nicholaus Horen" (Oresme): where no ratio among the many ratios is easily found, many of them should be judged irrational, and the respondent should answer that the distance is incommensurable with that of the first part. Against an opponent who insists _inflata bucca, supercilio elevato, rugata fronte_, he gives two _cautelae_. First, the respondent should ask for pen and ink (_petatur calamus et atramentarium_), so that the speed in the proposed case can be calculated by multiplication and the other operations of algorism. Second, he should say that such a speed cannot be calculated with certainty, and propose a similar case to the opponent.
+
+The passage confirms from the text itself the point Sylla makes about the disputational context of Alvarus's mathematics (section 11.6). It also shows that the disputation pushed toward the general question of which series can be summed at all.
 
 ### 2.7 What Alvarus says about falling bodies
 
@@ -455,9 +515,9 @@ Despite their title, Lax's _Quaestiones physicales_ do not follow the books of A
 
 **The last of the treatises.** The _Cunabula_ (Montauban, 1518) is the last problem-driven book of the circle printed during the Paris years; neither it nor Lax's later books were printed at Paris. Since Lax's _Quaestiones physicales_ (Zaragoza, 1527) are arranged by problem rather than by Aristotle's books, and appear to be mostly mathematical, they probably close the series. Their mathematical character should be confirmed by transcription (section 10). Humanist criticism began the year after the _Cunabula_ (section 6.5).
 
-**Order by influence** roughly reverses this. Soto comes first: through his student Francisco de Toledo, whose _Physics_ commentary (Venice, 1573) became a Jesuit text, and through the Collegio Romano lectures that Galileo's early notebooks draw on (section 5). Coronel follows, for method, and Celaya as Soto's teacher. Alvarus was read by specialists (section 8.4). Lax's Zaragoza books circulated little outside Aragon. Dolz's _Cunabula_ has hardly been studied at all.
+**Order by influence** roughly reverses this. Soto comes first: through his student Francisco de Toledo, whose _Physics_ commentary (Venice, 1573) became a Jesuit text, and through the Collegio Romano lectures that Galileo's early notebooks draw on (section 5). Coronel follows, for method, and Celaya as Soto's teacher. Alvarus was read by specialists, as far as Harriot in England (section 8.4). Lax's Zaragoza books circulated little outside Aragon. Dolz's _Cunabula_ has hardly been studied at all.
 
-**Soto.** His _Physics_ looks backward: it preserves a reduced form of what Celaya and the Paris masters had built. His logic follows the same course. The _Summulae_ of 1529 already reads as a compendium of a science being lost; Soto dismisses the _obligationes_, and later editions cut the terminist material further. His application of uniformly difform motion to falling bodies (section 6.4) is short and illustrative. It can be read as a near-accident, closer to Sylla's view, or, with Wallace, as the Paris tradition filtered through Thomist realism. For the mathematics of motion, Soto is a reducer, not a contributor.
+**Soto.** His _Physics_ looks backward: it preserves a reduced form of what Celaya and the Paris masters had built. His logic follows the same course. The _Summulae_ of 1529 already reads as a compendium of a science being lost; Soto dismisses the _obligationes_, and later editions cut the terminist material further. His application of uniformly difform motion to falling bodies (section 6.4) is short and illustrative. It can be read as a near-accident, an example Soto did not develop, or, with Wallace, as the Paris tradition filtered through Thomist realism. For the mathematics of motion, Soto is a reducer, not a contributor.
 
 **Dolz and Celaya.** The _Cunabula_ opens with an _Invectiva … in Iohannem de Celaya_ in eighteen _reprehensiones_. They concern logic and the defence of Lax's definitions. Dolz never mentions Celaya's _Physics_, printed the year before, although both were Lax's students.
 
@@ -567,6 +627,7 @@ The book had three Coqueret letters, a pupil from the German nation who paid att
 | **Pedro de Espinosa**, **Diego de Astudillo** | Praise and cite him; Astudillo often, in his questions on _De generatione_ | Leitão; Wallace |
 | **Domingo de Soto** | Uses the substance of his treatises, seldom naming sources; possibly through Celaya, Soto's teacher at Paris | Wallace; Leitão |
 | **Alonso de la Veracruz** | Critic: applied to Alvarus's calculations the words of Luke 5:5, "we have laboured all the night and taken nothing" | Wallace |
+| **Thomas Harriot** (1560–1621) | Owned a copy (_ex libris_; Biblioteca Pública Municipal do Porto, Y1-3-40) and used its results on infinite series in unpublished notes (British Library, Add. MS 6789, f. 42r) | Brioist and Brioist 2008; Schemmel 2008; _De triplici motu_ project |
 
 Two judgements give his standing among contemporaries. Wallace: "At Paris […] there can be little doubt that Thomaz was the calculator par excellence at the beginning of the sixteenth century, and the principal stimulus for the revival of interest there in the Mertonian approach to mathematical physics." Villoslada (p. 190, quoted after Leitão), comparing him with Celaya: "El maestro lusitano era, por su ecletismo, su erudición y dialética invencible, gemelo de Celaya e superior a él como matemático." On Villoslada's reliability for this circle, see section 6.6.
 
@@ -580,9 +641,16 @@ Two judgements give his standing among contemporaries. Wallace: "At Paris […] 
 | 1926 | Rey Pastor, _Los matemáticos españoles del siglo XVI_ | A chapter on the book; calls him "digno precursor de Pedro Nunes" and asks Portuguese scholars to search the archives for his biography |
 | 1950 | Matos, _Les Portugais à l'Université de Paris_ | Archival data on his career |
 | 1959 | Clagett | Places him in the medieval mechanical tradition: "he has at his command the whole medieval mechanical tradition" |
+| 1962 | Busard | Infinite series in the Middle Ages, including Alvarus |
 | 1969, 1976 | Wallace | BJHS article; DSB entry "Thomaz, Alvaro" |
-| 1989 | Sylla | The disputational context of his mathematics |
-| 2000 | Leitão | Collects the biographical evidence |
+| 1989 | Sylla | The disputative context "apparently motivates Alvarus to many of his mathematical results", with a positive effect (section 11.6) |
+| 1990 | Calderón | "The 16th century Iberian calculators" |
+| 2000 | Leitão | Collects the biographical evidence; summarizes the series |
+| 2004 | Sylla | "Mathematics in the _Liber de triplici motu_": the mathematics of the book in detail |
+| 2005, 2010 | Correia de Sá | The summation of series; a geometric version "à la Oresme" of two propositions |
+| 2008 | Sylla | Swineshead and Alvarus on _calculationes de motu locali_ |
+| 2008 | Brioist and Brioist; Schemmel | Harriot as a reader of Alvarus |
+| 2016 | Trzeciok | Monograph (vol. I) and edited text with facsimile (vol. II), Edition Open Sources, freely available |
 
 The _Liber de triplici motu_ is, as far as is known, his only work: 141 folios in two columns of small gothic type. Wieleitner called it a _liber rarissimus_, but Leitão counted more than twenty surviving copies, which suggests a wide circulation for a book of 1509.
 
@@ -612,7 +680,8 @@ Rey Pastor's 1926 request has still not been met. Leitão's warning also stands:
 - **Soto's logic**: compare the _Summulae_ of 1529 with the later editions, and with Ashworth's assessment of them.
 - **Soto and Celaya**: how much of Soto's _Physics_ on motion derives from Celaya's.
 - **Villoslada**: check his judgements against the texts before citing them (section 6.6).
-- **Sylla's thesis** (section 11.6): read Sylla (1989) to confirm whether she holds that the calculations were disputational exercises rather than mathematics or physics, and how much mathematical analysis the article contains.
+- **Sylla's thesis** (section 11.6): her main claim is now known through Leitão's quotation. Read Sylla (1989) itself for the argument, and Sylla (2004, 2008) for her mathematical analysis; check whether she discusses the series chapter (pp. 155–167) and the disputation passage of p. 167.
+- **Trzeciok (2016)**: compare his edited text with the ECHO transcription for the passages quoted on this page.
 - **State of research on Lax and Dolz** (section 11.3): add the details of the doctoral thesis on Lax's _obligationes_; check whether Rey Pastor (1926) treats Lax's _Arithmetica_ and _Proportiones_ or only Ciruelo and Silíceo; check whether Duhem mentions Dolz or Lax's mathematical and physical works at all; search Ashworth's bibliography (1978) for any entry on either; check what Élie says about them.
 
 ---
@@ -623,7 +692,7 @@ The priority is the problem-driven treatises, plus Celaya as the most mathematic
 
 | Order | Work | Status | Focus |
 |---|---|---|---|
-| — | Alvarus, _Liber de triplici motu_ (Paris, 1509) | Transcribed (paleographic) | Reference |
+| — | Alvarus, _Liber de triplici motu_ (Paris, 1509) | Transcribed (paleographic, ECHO); edited by Trzeciok (2016) | Reference |
 | 1 | Dolz, _Cunabula_ (Montauban, 1518) | Nearly finished | Reference terminology for proportions |
 | 2 | Celaya, _Physics_ (1517), folios on motion | To transcribe | Begin with motion _penes causam_, directly comparable with Dolz's proportions |
 | 3 | Lax, _Calculationes_ (Zaragoza, 1517) | To transcribe | The second genre, _intensio_ and _remissio_; compare with Alvarus |
@@ -656,7 +725,7 @@ Sixteenth-century scholasticism has been studied very unevenly. There is no bibl
 | Theology, law, political thought | By far the most studied | The School of Salamanca (Vitoria, Soto, Molina, Suárez): natural law, _ius gentium_, the conquest of America, early economics |
 | Logic | Much less; a revival since the 1960s | Ashworth, Ángel d'Ors; Muñoz Delgado's inventories. Most texts of Mair's circle still have no modern edition |
 | Natural philosophy | Less again | Read mostly for the Galileo question (section 5) |
-| Mathematical natural philosophy and speculative mathematics | The least studied | Alvarus (Duhem, Wieleitner, Sylla); almost nothing on Lax and Dolz |
+| Mathematical natural philosophy and speculative mathematics | The least studied | Alvarus (Duhem, Wieleitner, Sylla, Trzeciok); almost nothing on Lax and Dolz |
 
 The mathematical part is neglected for structural reasons:
 
@@ -671,7 +740,7 @@ Since Duhem the main question put to this physics has been whether it anticipate
 
 This is why **Soto** is the most studied author of the group for physics: his statement about falling bodies (section 4.1), and Wallace's path from Soto to the Collegio Romano and Galileo's early notebooks (section 5). Even so, his physics is a small part of Soto scholarship, which is mainly about theology, _De iustitia et iure_, grace, and Trent.
 
-The main exception is Sylla (1989), who reads Alvarus's calculations within logic and disputation rather than as anticipations; on the limits of that reading, see section 11.6.
+The main exception is Sylla (1989, 2004, 2008), who reads Alvarus's calculations in their context of logic and disputation, and his mathematics on its own terms rather than as anticipations (section 11.6).
 
 ### 11.3 By author
 
@@ -682,7 +751,7 @@ Two kinds of secondary literature should be kept apart:
 
 | Author | Technical study known | Notes |
 |---|---|---|
-| **Alvarus Thomas** | Some | Duhem, Wieleitner (series), Clagett, Wallace, Sylla (section 8.5) |
+| **Alvarus Thomas** | Some | Duhem, Wieleitner (series), Clagett, Wallace, Sylla, Correia de Sá, Trzeciok's edition (section 8.5) |
 | **Soto** | Some, for physics | Through the Galileo question (Wallace) |
 | **Celaya** | A little | Duhem on his _Physics_; some modern studies of his logic, especially _obligationes_ |
 | **Dullaert** | Very little | Flemish, not Spanish; teacher of several of the Spaniards. Discussed by Duhem |
@@ -745,7 +814,11 @@ No reader starts without a lens. The working hunch of this site, that the calcul
 
 ### 11.6 Form and content
 
-The calculatory books are written in the forms of the disputation: a _casus_ is posited (_ponatur quod a moveatur …_), a _sophisma_ is proved and disproved, and Heytesbury's book is titled _Regulae solvendi sophismata_. Sylla (1989) is usually summarized as arguing that Alvarus's calculations were exercises in the logical and disputational training of the arts faculty, reasoning _secundum imaginationem_, rather than an attempt at mathematics or physics of the real world. This page has not yet checked that summary against her article (section 9). **If that is her thesis, this page rejects it**: it takes the form of exposition for the content, and the objections below are directed against it. That the books were written for and within the disputational practice of the university is not in question; that this makes their content something other than mathematics and physics is.
+The calculatory books are written in the forms of the disputation: a _casus_ is posited (_ponatur quod a moveatur …_), a _sophisma_ is proved and disproved, and Heytesbury's book is titled _Regulae solvendi sophismata_.
+
+**Sylla's thesis.** Sylla (1989), as quoted by Leitão (2000, n. 25): "it is the disputative context that apparently motivates Alvarus to many of his mathematical results". She concludes that this context had a **positive** impact on Alvarus's mathematical physics. Alvarus's own text supports her: his chapter on series ends by asking what to answer a calculator who proposes such cases _in publica et celebri litteraria palaestra_ (p. 167, section 2.6). Her later studies (2004, 2008) treat the mathematics of the book in detail.
+
+The opposite view, that the form empties the content, is the humanist verdict of Vives (section 6.5), repeated by Villoslada (section 6.6). That the books were written for and within the disputational practice of the university is not in question; that this makes their content something other than mathematics and physics is.
 
 **The format is not the content.** Mathematics has often been written in dialogue: Recorde's _Ground of Artes_ (1543) is a conversation between master and scholar, and Galileo's _Dialogo_ (1632) and _Discorsi_ (1638) are dialogues. No one concludes that these are plays rather than mathematics. The opposite mistake is Vives's: judging a syllogism by whether Cicero would have approved of its prose (section 6.5).
 
@@ -760,9 +833,9 @@ The calculatory books are written in the forms of the disputation: a _casus_ is 
 | Fifth article: _regulas motus tam penes causam quam effectum, aliasque difficultates physicas … facile intelligere valeas_ | 25a | The goal is the rules of motion |
 | Sixth article: _facile physicas difficultates callere valebis. Si vis mathematicus fieri, residua alibi quaeres_ | 25a | The goal is mastering physical difficulties, not disputation |
 
-A book written by an author who says that he teaches proportions so that students can understand motion, justice, medicine, and law, and that God made all things by weight and measure, cannot be read as an exercise without a purpose beyond the disputation. If the thesis of Sylla summarized above is meant to cover the Paris tradition generally, the _Cunabula_ is a counterexample.
+A book written by an author who says that he teaches proportions so that students can understand motion, justice, medicine, and law, and that God made all things by weight and measure, cannot be read as an exercise without a purpose beyond the disputation. Against the humanist verdict, the _Cunabula_ is a counterexample.
 
-**What the form does affect.** This does not concede the thesis. Disputation was more than a way of presenting material. It was the working practice of the university: bachelors disputed _sophismata_ in public. It therefore shaped **which problems were chosen**: paradoxes, limit cases, first and last instants, _maxima_ and _minima_, the border between finite and infinite. A modern parallel is olympiad problems, written for training and competition and biased toward tricky borderline cases, yet real mathematics, and sometimes the start of real questions.
+**What the form does affect.** This is Sylla's point. Disputation was more than a way of presenting material. It was the working practice of the university: bachelors disputed _sophismata_ in public. It therefore shaped **which problems were chosen**: paradoxes, limit cases, first and last instants, _maxima_ and _minima_, the border between finite and infinite. A modern parallel is olympiad problems, written for training and competition and biased toward tricky borderline cases, yet real mathematics, and sometimes the start of real questions.
 
 | | Form | Content |
 |---|---|---|
@@ -800,6 +873,7 @@ Imagined cases are therefore constrained twice, by experience and by logic. The 
 - Galilei, Galileo. _Dialogo sopra i due massimi sistemi del mondo_. Florence, 1632.
 - Galilei, Galileo. _Discorsi e dimostrazioni matematiche intorno a due nuove scienze_. Leiden, 1638. Third Day.
 - Newton, Isaac. _Arithmetica universalis_. Cambridge, 1707.
+- Oresme, Nicole. _Tractatus de configurationibus qualitatum et motuum_. Ed. and trans. M. Clagett, _Nicole Oresme and the Medieval Geometry of Qualities and Motions_. Madison, 1968.
 - Pardo, Jerónimo. _Medulla Dyalectices_. Paris, 1505. [Transcription](../Jeronimo-Pardo/Medulla-Dyalectices-1505.html).
 - Pardo, Jerónimo (attr.). _Principiorum Phisicorum et Introductiones Librorum Animae_. Institución Colombina, MS 7-2-29. [Transcription](../Jeronimo-Pardo/Principiorum-Phisicorum-et-Introductiones-Librorum-Animae.html).
 - Recorde, Robert. _The Ground of Artes_. London, 1543.
@@ -809,7 +883,13 @@ Imagined cases are therefore constrained twice, by experience and by logic. The 
 
 - Ashworth, E. J. _Language and Logic in the Post-Medieval Period_. Dordrecht, 1974.
 - Ashworth, E. J. _The Tradition of Medieval Logic and Speculative Grammar from Anselm to the End of the Seventeenth Century: A Bibliography from 1836 Onwards_. Toronto, 1978.
+- Biard, Joël, and Sabine Rommevaux (eds.). _Mathématiques et théorie du mouvement, XIVe–XVIe siècles_. Villeneuve d'Ascq, 2008.
+- Brioist, Pascal, and Jean-Jacques Brioist. "Harriot, lecteur d'Alvarus Thomas et de Niccolò Tartaglia." In Biard and Rommevaux (eds.), 2008, 147–172.
+- Busard, H. L. L. "Über unendliche Reihen im Mittelalter." _L'Enseignement mathématique_ 8 (1962), 281–290.
+- Calderón, Calixto P. "The 16th century Iberian calculators." _Revista de la Unión Matemática Argentina_ 35 (1990), 245–258.
 - Clagett, Marshall. _The Science of Mechanics in the Middle Ages_. Madison, 1959.
+- Correia de Sá, Carlos. "A soma de séries na obra _De triplici motu_ de Álvaro Tomás." In J. A. Fossa (ed.), _IV Encontro Luso-Brasileiro de História da Matemática_, Anais. Natal, 2005, 59–80.
+- Correia de Sá, Carlos. "Geometrical version (à la Nicole Oresme) of two propositions of Álvaro Tomás." _Proceedings of the Research Seminar on History and Epistemology of Mathematics_, CMAT, Universidade do Minho, 2010, 115–126.
 - Crosby, H. Lamar. _Thomas of Bradwardine: His Tractatus de Proportionibus_. Madison, 1955.
 - Drake, Stillman. "Galileo's Discovery of the Law of Free Fall." _Scientific American_ 228 (1973).
 - Dutilh Novaes, Catarina. _Formalizing Medieval Logical Theories: Suppositio, Consequentiae and Obligationes_. Dordrecht, 2007.
@@ -823,9 +903,13 @@ Imagined cases are therefore constrained twice, by experience and by logic. The 
 - Molland, A. G. "The Geometrical Background to the 'Merton School'." _British Journal for the History of Science_ 4 (1968), 108–125.
 - Murdoch, John E. "The Medieval Language of Proportions." In A. C. Crombie (ed.), _Scientific Change_. London, 1963, 237–271.
 - Rey Pastor, Julio. _Los matemáticos españoles del siglo XVI_. Toledo, 1926.
+- Schemmel, Matthias. _The English Galileo: Thomas Harriot's Work on Motion as an Example of Preclassical Mechanics_. Boston Studies in the Philosophy of Science 268. Berlin, 2008.
 - Soares, Luís Ribeiro. _Pedro Margalho_. Lisbon, 2000.
 - Spade, Paul Vincent. "Three Theories of _Obligationes_: Burley, Kilvington and Swyneshed on Counterfactual Reasoning." _History and Philosophy of Logic_ 3 (1982), 1–32.
 - Sylla, Edith D. "Alvarus Thomas and the Role of Logic and Calculations in Sixteenth Century Natural Philosophy." In S. Caroti (ed.), _Studies in Medieval Natural Philosophy_. Florence, 1989, 257–298.
+- Sylla, Edith D. "Mathematics in the _Liber de triplici motu_ of Alvarus Thomas of Lisbon." In _The Practice of Mathematics in Portugal_. Coimbra, 2004, 109–161.
+- Sylla, Edith D. "_Calculationes de motu locali_ in Richard Swineshead and Alvarus Thomas." In Biard and Rommevaux (eds.), 2008, 131–146.
+- Trzeciok, Stefan Paul. _Alvarus Thomas und sein Liber de triplici motu_. 2 vols. (I: _Naturphilosophie an der Pariser Artistenfakultät_; II: _Bearbeiteter Text und Faksimile_). Berlin: Edition Open Sources, 2016.
 - Uckelman, Sara L. _Modalities in Medieval Logic_. PhD thesis, ILLC, University of Amsterdam, 2009.
 - Villoslada, Ricardo G. _La Universidad de París durante los estudios de Francisco de Vitoria, O.P. (1507–1522)_. Rome, 1938.
 - Wallace, William A. "The Enigma of Domingo de Soto: _Uniformiter difformis_ and Falling Bodies in Late Medieval Physics." _Isis_ 59 (1968), 384–401.

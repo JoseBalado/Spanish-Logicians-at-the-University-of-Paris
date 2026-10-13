@@ -465,7 +465,7 @@ Lax's mathematical works — the *Arithmetica speculativa* and *Proportiones* (P
 
 [^10]: Enciclopedia Espasa, vol. 29, col. 1206.
 
-[^11]: Dolz, [*Cunabula omnium fere scientiarum*](../Juan-Dolz-del-Castellar/Cunabula-omnium-fere-scientiarum-1518.html) (Montauban, 1518), proemium and the discussion of proportionalities (36b–37a); see the [analysis](../Juan-Dolz-del-Castellar/Cunabula-analysis.html), sections 15–16.
+[^11]: Dolz, [*Cunabula omnium fere scientiarum*](../Juan-Dolz-del-Castellar/Cunabula-omnium-fere-scientiarum-1518.html) (Montauban, 1518), proemium and the discussion of proportionalities (36b–37a).
 
 ---
 

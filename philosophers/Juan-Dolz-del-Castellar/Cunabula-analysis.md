@@ -429,7 +429,7 @@ The part removed reaches above the top of the whole. The answer is still read fr
 
 ### P6. Doubling, tripling, and halving a proportion
 
-Used on 40a, 43b, 44b, and 47b (§19, §22, §23, §26). **Doubling** a proportion is adding it to itself (P4); **tripling** is adding it three times. **Halving** is the reverse: finding the proportion that, added to itself, makes the whole.
+Used on 40a, 43b, 44b, 47b, and 49a–49b (§19, §22, §23, §26, §28). **Doubling** a proportion is adding it to itself (P4); **tripling** is adding it three times. **Halving** is the reverse: finding the proportion that, added to itself, makes the whole.
 
 **Doubling and tripling.** To double $3:2$ we need three terms in which **each** link is _sesquialtera_. Starting from $3,2$ does not work: the next term would have to be a number that $2$ contains once and a half, and no whole number does. So rescale, exactly as in P4, Example C. Add $3:2$ to $3:2$ crosswise, as in P4, step 2: multiply both terms of the first copy by $3$, the left term of the second copy, so $3:2\to9:6$, and both terms of the second copy by $2$, the right term of the first copy, so $3:2\to6:4$. The chain is $9,6,4$. Neither link is written $3:2$, but each reduces to it ($9:6$ divided by $3$, $6:4$ divided by $2$).
 
@@ -460,6 +460,8 @@ Every link in a row reduces to the proportion in the first column (divide both t
 
 When no whole number works, the half exists only as a modern irrational. The half of $2:1$ is the proportion of $\sqrt2$ to $1$, with chain $2,\ \sqrt2,\ 1$. Both links are the same proportion, and together they make the full $2:1$, since $\sqrt2\times\sqrt2=2$ (§22).
 
+**Halves keep the order (proposition 8, 49a).** If one proportion is greater than another, its half is greater than the other's half. With whole numbers: $16:1$ is greater than $9:1$; their halves are $4:1$ ($4\times4=16$) and $3:1$ ($3\times3=9$), and $4:1$ is greater than $3:1$. Dolz's own example, the _tripla_ and the _dupla_, has halves without whole-number terms ($\sqrt3$ and $\sqrt2$, modern), but the order holds the same way (§28).
+
 **_Medium rei_ is not _medium proportionale_.** Between $8$ and $2$ there are two different middles.
 
 | Middle | How found | Value | Links |
@@ -467,16 +469,17 @@ When no whole number works, the half exists only as a modern irrational. The hal
 | _medium rei_ | equal distance, $(8+2)\div2$ | $5$ | $8:5$ and $5:2$, different proportions |
 | _medium proportionale_ | equal proportion, $b\times b=8\times2=16$ | $4$ | $8:4$ and $4:2$, both _dupla_ |
 
-**How many times one proportion contains another.** Write the greater proportion as a chain whose links are all the smaller proportion, and count the links.
+**How many times one proportion contains another.** Write the greater proportion as a chain whose links are all the smaller proportion, and count the links. These are Dolz's propositions 9–13 (49a–49b, §28).
 
-| Greater | Chain | Links | Each link reduces to | Count | So |
+| Greater | Smaller | Chain | Links | Count (Dolz) | Denomination ÷ denomination (the rule Dolz destroys) |
 | --- | --- | --- | --- | --- | --- |
-| $4:1$ | $4,2,1$ | $4:2$, $2:1$ | $2:1$ | $2$ | _quadrupla_ is double the _dupla_ |
-| $8:1$ | $8,4,2,1$ | $8:4$, $4:2$, $2:1$ | $2:1$ | $3$ | _octupla_ is triple the _dupla_, not quadruple |
-| $16:1$ | $16,8,4,2,1$ | $16:8$, $8:4$, $4:2$, $2:1$ | $2:1$ | $4$ | quadruple the _dupla_ |
-| $16:1$ | $16,4,1$ | $16:4$, $4:1$ | $4:1$ | $2$ | double the _quadrupla_ |
+| $4:1$ | $2:1$ | $4,2,1$ | $4:2$, $2:1$ | $2$: _quadrupla_ is double the _dupla_ | $4\div2=2$ |
+| $8:1$ | $2:1$ | $8,4,2,1$ | $8:4$, $4:2$, $2:1$ | $3$: _octupla_ is triple the _dupla_ | $8\div2=4$, wrong |
+| $16:1$ | $2:1$ | $16,8,4,2,1$ | $16:8$, $8:4$, $4:2$, $2:1$ | $4$: quadruple the _dupla_ | $16\div2=8$, wrong |
+| $16:1$ | $4:1$ | $16,4,1$ | $16:4$, $4:1$ | $2$: double the _quadrupla_ | $16\div4=4$, wrong |
+| $9:1$ | $3:1$ | $9,3,1$ | $9:3$, $3:1$ | $2$: _nonupla_ is double the _tripla_ | $9\div3=3$, wrong |
 
-This is the comparison "by composition" of §20, not "by value" ($8\div2=4$).
+Every link in a row reduces to the smaller proportion ($16:8$, $8:4$, $4:2$ all to $2:1$; $9:3$ to $3:1$). This is the comparison "by composition" of §20. Dividing the denominations is the comparison "by value"; it agrees in the first row only by coincidence, and Dolz rejects it (49a).
 
 **Dolz's second and third principles (44b).** A proportion composed of two equal proportions is double each of them; one composed of three equal proportions is triple each. A proportion composed of two **unequal** proportions is more than double the lesser and less than double the greater. Take the octave, composed of the fifth and the fourth (P4, Example D).
 
@@ -485,7 +488,26 @@ This is the comparison "by composition" of §20, not "by value" ($8\div2=4$).
 | lesser, $4:3$ | $16:9$ | both terms by $9$, the right term of $16:9$, so $2:1\to18:9$ | $18$ larger than $16$ | more than double the lesser |
 | greater, $3:2$ | $9:4$ | both terms by $4$, the right term of $9:4$, so $2:1\to8:4$ | $8$ smaller than $9$ | less than double the greater |
 
-Modern check, $\tfrac{16}9\approx1.78$, then $2$, then $\tfrac94=2.25$.
+Modern check, $\tfrac{16}9\approx1.78$, then $2$, then $\tfrac94=2.25$. This is Dolz's proposition 14 (49b, §28).
+
+**When the count is not a whole number (49b).** Adding the _tripla_ to itself gives $3:1$, $9:1$, $27:1$, …, never $4:1$. So the _quadrupla_ does not contain the _tripla_ a whole number of times. Dolz finds the two whole numbers it lies between (proposition 15).
+
+**Worked example, the _quadrupla_ $4:1$ against the _tripla_ $3:1$.**
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | does $3$ lie between the terms of $4:1$? | $4>3>1$ | yes |
+| 2 | chain through it (P4) | $4,\;3,\;1$ | links $4:3$ and $3:1$ |
+| 3 | name the links (P2) | $4:3$ is once and a third; $3:1$ is three times | _sesquitertia_ and _tripla_ |
+| 4 | so how many times at least? | the _quadrupla_ is the _tripla_ plus the _sesquitertia_ | more than once |
+| 5 | double the _tripla_ (rule for building the chain, $a\times a,\ a\times b,\ b\times b$) | $3\times3=9$, $3\times1=3$, $1\times1=1$: chain $9,3,1$ | $9:1$ |
+| 6 | compare $9:1$ with $4:1$ (P7, Method 2) | right terms already both $1$; left terms $9$ and $4$ | $9:1$ is greater |
+| 7 | so how many times at most? | two _triplae_ already overshoot the _quadrupla_ | less than twice |
+| 8 | conclusion | | the _quadrupla_ contains the _tripla_ more than once and less than twice |
+| Dolz's shortcut | principle 3 | the _quadrupla_ is composed of two unequal links, the _tripla_ the greater | less than double the greater |
+| modern | | $\log4\div\log3$ | about $1.26$, not a fraction of whole numbers |
+
+A whole count exists only when both proportions are built from one common proportion: $4:1$, $8:1$, $16:1$ from the _dupla_; $9:1$ from the _tripla_. The _quadrupla_ and the _tripla_ share none.
 
 **One proportion per dimension (47b).** A body two feet long, wide, and deep against a body one foot each way. In each dimension the proportion is the _dupla_ $2:1$. Dolz cuts the larger body into one-foot pieces and counts eight, so the bodies stand in the _octupla_ $8:1$ (§26). Each cut in half doubles the count and adds one _dupla_ to the chain.
 
@@ -533,6 +555,9 @@ Used on 40a (§19), 44a–44b (§23), 45b (§24), 46a–46b (§25), and 48a–49
 | _quadrupla_ $4:1$ | _dupla superbipartiens quintas_ $12:5$ | $4$ and $2\tfrac25$ | _quadrupla_ | 48a |
 | _superbipartiens tertias_ $5:3$ | _sesquialtera_ $3:2$ | $1\tfrac23$ and $1\tfrac12$ | _superbipartiens tertias_ | 48a |
 | _dupla sesquialtera_ $5:2$ | _dupla superbipartiens tertias_ $8:3$ | $2\tfrac12$ and $2\tfrac23$ | _dupla superbipartiens tertias_ | 48b |
+| _dupla sesquialtera_ $5:2$ | _dupla superquadripartiens quintas_ $14:5$ | $2\tfrac12$ and $2\tfrac45$ | _dupla superquadripartiens quintas_ | 49a |
+| _dupla sesquitertia_ $7:3$ | _dupla superbipartiens quintas_ $12:5$ | $2\tfrac13$ and $2\tfrac25$ | _dupla superbipartiens quintas_ | 49a |
+| _dupla sesquitertia_ $7:3$ | _dupla superbipartiens septimas_ $16:7$ | $2\tfrac13$ and $2\tfrac27$ | _dupla sesquitertia_ | 49a |
 
 **Why the whole number decides first.** Every leftover is less than one unity: once the added parts make a whole, the count of whole times goes up by one (§11). So a leftover can never carry a denomination past the next whole number.
 
@@ -765,11 +790,11 @@ Four obstacles stood in the way:
 | bodies and surfaces | one link per dimension (47b) | sides $2:1$, cubes $8:1$ | cube of the side ratio |
 | halving | _medium proportionale_ | half of $9:4$ is $3:2$ | square root |
 | comparing | denomination, whole number first (46a–46b); leftovers to the same number of parts (48b); cross-multiply; or whole and part; only within one kind (48a) | $3:2>4:3$; $2:1>3:2$; $10:3>5:2$; $\tfrac24>\tfrac25$ | compare fractions |
-| how many times | count links | $8:1$ is three _duplae_ | ratio of logarithms |
+| how many times | count links (49a–49b), never divide denominations; if no whole count, bound it by principle 3 | $8:1$ is three _duplae_, not four; $4:1$ is between one and two _triplae_ | ratio of logarithms, not of values |
 
 ### Still to come
 
-The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles, its principles, the general rule of greater proportion, and the order of the species (43a–46b, §22–§25) are covered by P1, P2, and P4–P7; the cube of 47b (§26) by P6; the comparisons of 48a–49a (§27) by P7. Dolz has promised an account of _communicatio proportionum_, overlapping proportions (43a). The prooemium (25a) further announces the excess of one proportion over another, division by proportional parts, and the rules of motion. Operations needed for them will be added here as the transcription reaches them.
+The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles, its principles, the general rule of greater proportion, and the order of the species (43a–46b, §22–§25) are covered by P1, P2, and P4–P7; the cube of 47b (§26) by P6; the comparisons of 48a–49a (§27) by P7; the proportion of proportions of 49a–49b (§28) by P6. Dolz has promised an account of _communicatio proportionum_, overlapping proportions (43a). The prooemium (25a) further announces the excess of one proportion over another, division by proportional parts, and the rules of motion. Operations needed for them will be added here as the transcription reaches them.
 
 ---
 
@@ -2367,7 +2392,7 @@ He does not say how one proportion is to be measured against another. Two readin
 | _quadrupla_ $4:1$ to _dupla_ $2:1$ | $4\div2=2$, double | _quadrupla_ is _dupla_ added to _dupla_, so double |
 | _octupla_ $8:1$ to _dupla_ $2:1$ | $8\div2=4$, quadruple | _octupla_ is three _duplae_, so triple |
 
-The two readings agree in the first row and differ in the second. Bradwardine's rule, that speed follows the proportion of proportions, needs the second (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-Alvarus-Thomas-and-Galileo.html), section 1.1). The addition of proportions on 40a points the same way, but page 41 does not choose. On 42a Dolz promises a later treatment of _maioritas proportionis_, how one proportion is greater than another (§21). Page 43b chooses the second reading: the half of a proportion is the proportion that, added to itself, makes the whole (§22).
+The two readings agree in the first row and differ in the second. Bradwardine's rule, that speed follows the proportion of proportions, needs the second (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-Alvarus-Thomas-and-Galileo.html), section 1.1). The addition of proportions on 40a points the same way, but page 41 does not choose. On 42a Dolz promises a later treatment of _maioritas proportionis_, how one proportion is greater than another (§21). Page 43b chooses the second reading: the half of a proportion is the proportion that, added to itself, makes the whole (§22). Page 49a rejects the first reading by name, with the _octupla_ and _dupla_ of this table (§28).
 
 ### Aristotle: _rationum comparatio_
 
@@ -2776,7 +2801,7 @@ A half is more than a third, and a third more than a fourth, because the same un
 Four observations of ours:
 
 - **Least terms are not lowest whole-number terms.** The reduced pair of whole numbers is $3:2$; Dolz instead puts the lesser term at unity, $1\tfrac12$ to $1$. Both give the same name, but Dolz's form makes the denomination a single number, the mixed number we write as the value $A\div B$. The mixed numbers of P2 are therefore his own, not a modern addition. The first corollary, that the least terms are those least in that proportion, holds because unity is not divided into a term. For example, $\tfrac34$ to $\tfrac12$ is also _sesquialtera_: $\tfrac12$ goes into $\tfrac34$ once, and the leftover $\tfrac14$ is half of $\tfrac12$. Its terms are smaller than $1\tfrac12$ and $1$, but it is excluded, because the lesser term must be unity itself, not a part of it.
-- **Value for order, composition for counting.** The denomination is the value, so 45b compares proportions by value, while 43b–44b measured them by composition (§22, §23). There is no conflict. Of two proportions of greater inequality, the one with the greater value always contains the other as a part plus something more (P7, Method 3), so the two measures agree on which is greater. They differ only on how many times one contains the other: by value $8:1$ is four times $2:1$, by composition three times (§20). Principle 3 (44b) is a claim about how many times; the rule of 45b only about which is greater. Page 46b confirms the agreement: Dolz proves the _quadrupla_ greater than the _dupla sesquialtera_ both _ex denominationibus_ and because $8:2$ contains $5:2$ as a part (§25).
+- **Value for order, composition for counting.** The denomination is the value, so 45b compares proportions by value, while 43b–44b measured them by composition (§22, §23). There is no conflict. Of two proportions of greater inequality, the one with the greater value always contains the other as a part plus something more (P7, Method 3), so the two measures agree on which is greater. They differ only on how many times one contains the other: by value $8:1$ is four times $2:1$, by composition three times (§20). Principle 3 (44b) is a claim about how many times; the rule of 45b only about which is greater. Page 46b confirms the agreement: Dolz proves the _quadrupla_ greater than the _dupla sesquialtera_ both _ex denominationibus_ and because $8:2$ contains $5:2$ as a part (§25). Page 49a confirms the difference: counting by denominations is a _regula aliquorum_ that Dolz destroys (§28).
 - **Lesser inequality is left open.** The rule is stated without restriction, but its propositions concern greater inequality only. Dolz does not say whether _subdupla_ or _subtripla_ is the greater. The propositions of 46a–46b do not say either (§25). Page 48a restricts the rule: denominations are compared only when taken in the same way and order, so never a greater inequality against a lesser (§27). Which _sub-_ species is greater is still not stated.
 - **Equality.** Its denomination does not matter _quia eius species nec aequales nec inaequales reperiuntur_. The sense is perhaps that equality has no species differing in size, so there is nothing to compare; as printed, the clause is odd (see the textual notes).
 
@@ -3118,11 +3143,81 @@ Dolz then completes the comparisons of proposition 7 (46b, §25). Each follows f
 | _multiplex superparticularis_ against _multiplex superpartiens_, different multiples | the greater multiple wins, either way round | _tripla_ superparticular $>$ any _dupla_ superpartiens; _tripla_ superpartiens $>$ any _dupla_ superparticular | $3+\dots>2+\dots$ |
 | the same, same multiple | the leftovers decide | _dupla superbipartiens tertias_ $>$ _dupla sesquialtera_ $>$ _dupla superbipartiens quintas_ | $2\tfrac23>2\tfrac12>2\tfrac25$ |
 
-The last row ends on 49a: the _dupla sesquialtera_ exceeds every _dupla superpartiens_ _eundo semper per bi_, except the _superbipartiens tertias_. The restriction to the _bi-_ series is needed: the _dupla supertripartiens quartas_, $2\tfrac34$, also exceeds it.
+The last row ends on 49a: the _dupla sesquialtera_ exceeds every _dupla superpartiens_ _eundo semper per bi_, except the _superbipartiens tertias_. The restriction to the _bi-_ series is needed, and Dolz says why (_notanter addo_): the _dupla superquadripartiens quintas_, $2\tfrac45$, also exceeds it (§28).
 
 **Dolz's method for leftovers of different kinds.** He gives the two leftovers the same number of parts and then compares the kind of part, as in proposition 4 (46a): _medietas est duae quartae, et duae quartae sunt maiores duabus quintis_; _una tertia est duae sextae, quae sunt minores duabus quintis_. The unit-counting method of §25 makes the kind of part the same and compares the number; Dolz's makes the number the same and compares the kind. Both come to the same cross-multiplication (P7).
 
 The print has _superpartiens quintas_ where the preceding sentences have _superbipartiens quintas_; the transcription reads _superbipartiens_ (see the textual notes). This is the same slip as on 46a.
+
+---
+
+## 28. The proportion of proportions (49a–49b)
+
+Page 49 finishes the comparisons of 48b and opens a new heading, _De proportione proportionum_. Its propositions continue the numbering of 45b–46b (§25), from the eighth to the fifteenth; the fifteenth runs on to 50a. The question left open on 41a (§20), how many times one proportion contains another, is now answered outright: by composition. The answer by value is rejected as _regula aliquorum_.
+
+### The comparisons concluded (49a)
+
+| Comparison | Dolz | Denominations |
+| --- | --- | --- |
+| _dupla sesquialtera_ against the _dupla superpartientes_ of the _bi-_ series | greater than all except the _dupla superbipartiens tertias_ | $2\tfrac12$ against $2\tfrac23$, $2\tfrac25$, $2\tfrac27$, … |
+| _dupla sesquialtera_ against the _dupla superquadripartiens quintas_ | not greater; hence _notanter addo eundo semper per bi, nam secus non oportet_ | $2\tfrac12<2\tfrac45$ |
+| _dupla sesquitertia_ against the _dupla superpartientes_ of the _bi-_ series | greater than all except the _superbipartiens tertias_ and _quintas_ | $2\tfrac13<2\tfrac23$, $2\tfrac13<2\tfrac25$; $2\tfrac13>2\tfrac27$ |
+
+All three follow from Dolz's method of 48b (§27): $\tfrac13$ is $\tfrac26$, less than $\tfrac25$ and more than $\tfrac27$. Our general form: one part of kind $n$ exceeds two parts of kind $m$ when $m>2n$. So the half beats the _bi-_ series from fifths on, the third from sevenths on. Dolz stops here: the cases are infinite, _sis contentus aliquarum specificatione_.
+
+### Proposition 8: halves keep the order
+
+_Quandocumque una proportio est maior alia, etiam medietas illius est maior medietate alterius, et tertia illius tertia alterius._ His example: the _tripla_ is greater than the _dupla_, so the half of the _tripla_ is greater than the half of the _dupla_.
+
+Our observation: neither half has whole-number terms. The half of $3:1$ needs $b\times b=3$, the half of $2:1$ needs $b\times b=2$ (P6). Dolz speaks of these halves as freely as of the half of $8:2$, as he did of the unnamed half of $8:4$ on 43b (§22). In modern terms, $\sqrt3>\sqrt2$.
+
+### Propositions 9–13: how many times, by composition
+
+| Proposition | Claim | Chain | Equal links | Ground |
+| --- | --- | --- | --- | --- |
+| 9 | _quadrupla_ is _dupla ad duplam_ | $4,2,1$ | two _duplae_ | principle 2 (44b) |
+| 10 | _octupla_ is _tripla ad duplam_ | $8,4,2,1$ | three _duplae_ | principle 2 |
+| 11 | _sexdecupla_ is _quadrupla ad duplam_ | $16,8,4,2,1$ | four _duplae_ | principle 2, extended to four |
+| 12 | _sexdecupla_ is _dupla ad quadruplam_ | $16,4,1$ | two _quadruplae_ | principle 2 |
+| 13 | _nonupla_ is _dupla ad triplam_ | $9,3,1$ | two _triplae_ | principle 2 |
+
+Each proof writes the greater proportion as a chain of equal links and counts them (P6). The proportion between two proportions is named with the ordinary species names, _dupla ad_, _tripla ad_. This is the claim of 41a, that proportions are quantities and can themselves stand in proportion (§20), now put to work.
+
+Dolz cites principles 2 and 3 of 44b as _ex praeambulo_. He uses _praeambulum_ for the principles too, which bears on the _quintum praeambulum_ of 45a (see the textual notes).
+
+### A rule destroyed
+
+_Per hanc proportionem destruitur una regula quam aliqui posuerunt_: that one proportion is greater than another in the proportion in which its denomination is greater than the other's. The _octupla_ has denomination $8$, the _dupla_ $2$, and $8:2$ is _quadrupla_; but proposition 10 has shown the _octupla_ to be _tripla_, not _quadrupla_, to the _dupla_.
+
+| Proportions | By the rule: denomination to denomination | By composition: Dolz |
+| --- | --- | --- |
+| _quadrupla_ to _dupla_ | $4:2$, _dupla_ | _dupla_ |
+| _octupla_ to _dupla_ | $8:2$, _quadrupla_ | _tripla_ |
+| _sexdecupla_ to _dupla_ | $16:2$, _octupla_ | _quadrupla_ |
+| _sexdecupla_ to _quadrupla_ | $16:4$, _quadrupla_ | _dupla_ |
+| _nonupla_ to _tripla_ | $9:3$, _tripla_ | _dupla_ |
+
+The rule is the reading "by value" of §20, refuted with the very example used there. The two agree only in the first row, by coincidence. In modern terms Dolz's count is the ratio of the logarithms ($\log8/\log2=3$), the rule's the ratio of the values ($8/2=4$). Dolz does not name the _aliqui_; they have not been identified.
+
+Three observations of ours:
+
+- **This settles what §20–§24 inferred.** Page 43b measured halves by composition (§22), principle 3 required it for "double" (§23), and 45b–46b showed value and composition agreeing on which proportion is greater (§24). Page 49 says it in so many words: for how many times, only composition counts.
+- **It is the measure of Bradwardine's rule.** To make a speed three times a speed produced by a _dupla_, the rule needs the _octupla_, the _dupla_ tripled. The refuted rule would give the _sextupla_, $6:1$, since $6=3\times2$ (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-Alvarus-Thomas-and-Galileo.html), section 1.1). Dolz does not draw the consequence on this page.
+- **Only some _multiplices_ compare in whole counts.** _Per istas proportiones poteris facile alias multiplices comparare._ All the examples are powers of one proportion: $2,4,8,16$ of the _dupla_, $3,9$ of the _tripla_. The _tripla_ and the _dupla_ have no such common measure, and propositions 14 and 15 show what Dolz does then.
+
+### Propositions 14–15: when there is no whole count
+
+| Proposition | Claim | Chain | Unequal links | Check (P6) |
+| --- | --- | --- | --- | --- |
+| 14 | the _dupla_ is neither double the _sesquialtera_ nor double the _sesquitertia_; more than double the _sesquitertia_, less than double the _sesquialtera_ | $4,3,2$ | _sesquitertia_ $4:3$ and _sesquialtera_ $3:2$ | $4:3$ doubled is $16:9$, less than $2:1=18:9$; $3:2$ doubled is $9:4$, more than $2:1=8:4$ |
+| 15 | the _quadrupla_ is not double the _tripla_, but less than double | $4,3,1$ | _sesquitertia_ $4:3$ and _tripla_ $3:1$ | $3:1$ doubled is $9:1$, more than $4:1$ |
+
+Both rest on principle 3 (44b): a proportion composed of two unequal proportions is more than double the lesser and less than double the greater. The _dupla_ of proposition 14 is the example of P6.
+
+Two observations of ours:
+
+- **_Inductive_, but one case suffices.** That the _dupla_ is never made of two _sesquialterae_ _patet inductive in omnibus_. By proposition 1 (45b) all _sesquialterae_ are equal, so two of them make $9:4$ whatever terms they are found in; one case decides all.
+- **The answers Dolz does not give.** In modern terms the _dupla_ is about $1.71$ times the _sesquialtera_ and $2.41$ times the _sesquitertia_, and the _quadrupla_ about $1.26$ times the _tripla_. None of these is a ratio of whole numbers, since no power of $3$ is a power of $2$. These are Oresme's irrational proportions of proportions (_De proportionibus proportionum_). Dolz gives only bounds, which is all the elementary method of chains can give.
 
 ---
 
@@ -3215,6 +3310,11 @@ The print has _superpartiens quintas_ where the preceding sentences have _superb
 85. Greater inequality, equality, and lesser inequality are not comparable with one another, and so have no proportion (48a). Lax, Dolz's teacher, held greater inequality greater in no proportion; Dolz, with Swineshead, denies the greaterness too. Denominations are compared only within the same kind and order.
 86. Every _multiplex superpartiens_ exceeds every _superpartiens_, and some but not every _multiplex_. Some _superpartientes_ exceed every _superparticularis_, others only some. Between composite species a greater multiple always wins.
 87. Dolz compares leftovers of different kinds by giving them the same number of parts: the half is two fourths, more than two fifths; the third is two sixths, less than two fifths (48b).
+88. Comparisons within the _bi-_ series do not carry over to other series: the _dupla sesquialtera_ exceeds every _dupla superbipartiens_ except _tertias_, but not the _dupla superquadripartiens quintas_ (49a).
+89. If one proportion is greater than another, its half is greater than the other's half, its third than the other's third (49a, proposition 8), even when the halves have no whole-number terms.
+90. How many times one proportion contains another is counted by composition: the _quadrupla_ is double the _dupla_, the _octupla_ triple, the _sexdecupla_ quadruple; the _sexdecupla_ is double the _quadrupla_, the _nonupla_ double the _tripla_ (49a–49b). Proportions of proportions take the ordinary species names.
+91. Dolz destroys the rule that one proportion exceeds another in the proportion of their denominations: by it the _octupla_ would be quadruple the _dupla_, but it is triple. This is the measure by value, rejected in so many words.
+92. Where no whole count exists, principle 3 gives bounds: the _dupla_ is more than double the _sesquitertia_ and less than double the _sesquialtera_; the _quadrupla_ is less than double the _tripla_ (49b). The exact counts are irrational, and Dolz does not give them.
 
 ---
 
@@ -3288,7 +3388,7 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 46b | includit **5 ad 3** | **5 ad 2** (adopted) | _Quae est dupla sesquialtera_; $5:3$ is _superbipartiens tertias_. Both are parts of $8:2$ by preamble 2 (43a), so only the name decides |
 | 46b | simplicem **compositam** esse maiorem | _(left as printed)_ | Read: a simple proportion greater than a composite one. _Composita_, ablative of comparison, would be regular, but Dolz also writes _quam quacumque_ on 46a, so the construction may be his |
 | 44b | dupla denominaretur **6** ad 8 | **16** ad 8 (adopted) | $6:8$ is not a _dupla_, and _primi essent maiores_ requires terms larger than $4$ and $1$ |
-| 45a | pro quo sit **quintum praeambulum** | possibly **quintum principium** _(insecure)_ | The fifth preamble was given on 44a, and four principles precede; what follows is a principle of denomination |
+| 45a | pro quo sit **quintum praeambulum** | possibly **quintum principium** _(insecure; probably unnecessary)_ | The fifth preamble was given on 44a, and four principles precede; what follows is a principle of denomination. But on 49a–49b Dolz cites principles 2 and 3 of 44b _ex praeambulo_, so he calls principles preambles, and _quintum praeambulum_ may be his own name for a fifth principle |
 | 45a | tripla **sexquitertia** a ternario cum medietate | **sesquialtera** (adopted) | _Cum medietate_ requires _sesquialtera_ |
 | 45b | eius species nec aequales nec inaequales reperiuntur | _(obscure; left as printed)_ | Perhaps: equality has no species differing in size. One would expect all equalities to be equal |
 | 46b–47a | _b differt ab a, et tamen a non differt a b_; _a est aequale c, cui b est aequale_ | _(left as printed; sic in apparatus)_ | The proofs on 47a use the letters the other way round: _a differt a b… nullum b differt ab a_, and _a_ and _c_ equal to _b_ |
@@ -3296,3 +3396,6 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 47b | Divide secundum longitudinem: reperies duo pedaliter longa, **pedaliter** lata et **pedaliter** profunda | **bipedaliter** lata et **bipedaliter** profunda (adopted) | A single cut by length leaves breadth and depth at two feet, as the parallel cuts by breadth and depth state |
 | 47b | Divide quoad profunditatem, **prius ea** quamlibet medietatem quoad latitudinem | **postea** (adopted; conjectural) | The sequence is depth, then breadth, then (_postea_) length |
 | 48b | et **superpartiens** quintas est sesquialtera minor | **superbipartiens** (adopted) | The preceding and following sentences have _superbipartiens quintas_, $1\tfrac25$; the same slip as on 46a |
+| 49b | proportione **6** ad 3, quae est tripla | **9** (adopted) | $6:3$ is _dupla_; the _nonupla_ $9:1$ is made of $9:3$ and $3:1$ |
+| 49b | minus quam dupla ad **sesquitertiam** (the second) | **sesquialteram** (adopted) | Principle 3: less than double the greater link, and the _sesquialtera_ is the greater; the first _sesquitertiam_ (_magis quam dupla_) stands |
+| 49b | **nonnumquam** ex duabus triplis componitur | **numquam** (adopted) | The proposition denies that the _quadrupla_ is double the _tripla_; cf. _numquam proportio dupla componitur ex duabus sesquialteris_ in proposition 14 |

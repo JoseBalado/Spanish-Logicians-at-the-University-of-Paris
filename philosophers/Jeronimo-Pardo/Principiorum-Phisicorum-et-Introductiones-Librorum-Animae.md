@@ -1095,7 +1095,7 @@ Sed sic est quod magna est dignitas in anima rationali quod habeat istam potenti
   * agens
   * possibilis
 
-* **Potentiarum apprehensivarum interiorum**
+* **Potentiarum appetitivarum interiorum**
   * phantasia
   * intellectus
 
@@ -1169,7 +1169,6 @@ Page 39b: organo ] conj. impo
 Page 42b: Sicut ] sic
 Page 47b: potentia collativa est collativa ] sic
 Page 47b: in complexam ] del. in in complexam
-Page 48b: apprehensivarum ] conj. appe
 Page 49b: pertractabitur ] conj. praticabit'
 
 -->

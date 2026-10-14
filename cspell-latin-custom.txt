@@ -2438,6 +2438,7 @@ respectivorum
 respectivum
 respondenter
 Respondenter
+Respondo
 responsionarii
 responsionario
 responsionarius

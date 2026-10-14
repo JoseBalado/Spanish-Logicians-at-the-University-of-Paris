@@ -427,13 +427,38 @@ answer                   3 -> 4     (upward, from 3 to 4)
 
 The part removed reaches above the top of the whole. The answer is still read from the whole's left term to the part removed's left term, giving $3:4$. Its lesser term is on the left, so it is _subsesquitertia_ (P2). Check by adding back, chain $3,4,2$ with ends $3:2$. A greater proportion cannot properly be taken from a lesser; the result is a proportion of lesser inequality. Modern check, $\tfrac32\div2=\tfrac34$.
 
+**Example F. $3:1$ minus $2:1$** (_tripla_ minus _dupla_, 50b).
+
+Both right terms are already $1$, so no rescaling.
+
+```text
+whole          3 ------------------ 1
+part removed             2 -------- 1
+answer         3 ------- 2
+```
+
+The answer is $3:2$, _sesquialtera_. Check by adding back, $3:2$ plus $2:1$, chain $3,2,1$, ends $3:1$. Modern check, $3\div2=\tfrac32$.
+
+Dolz's phrase for the answer of a subtraction is _excedit per_: _tripla excedit duplam per sesquialteram_ (50b, §29). The answer says what the greater exceeds the lesser **by**. It does not say how many times the greater contains the lesser: the _tripla_ is **not** _sesquialtera_ to the _dupla_ (P6).
+
 ### P6. Doubling, tripling, and halving a proportion
 
-Used on 40a, 43b, 44b, 47b, and 49a–49b (§19, §22, §23, §26, §28). **Doubling** a proportion is adding it to itself (P4); **tripling** is adding it three times. **Halving** is the reverse: finding the proportion that, added to itself, makes the whole.
+Used on 40a, 43b, 44b, 47b, 49a–49b, and 50a–50b (§19, §22, §23, §26, §28, §29). **Doubling** a proportion is adding it to itself (P4); **tripling** is adding it three times. **Halving** is the reverse: finding the proportion that, added to itself, makes the whole.
 
 **Doubling and tripling.** To double $3:2$ we need three terms in which **each** link is _sesquialtera_. Starting from $3,2$ does not work: the next term would have to be a number that $2$ contains once and a half, and no whole number does. So rescale, exactly as in P4, Example C. Add $3:2$ to $3:2$ crosswise, as in P4, step 2: multiply both terms of the first copy by $3$, the left term of the second copy, so $3:2\to9:6$, and both terms of the second copy by $2$, the right term of the first copy, so $3:2\to6:4$. The chain is $9,6,4$. Neither link is written $3:2$, but each reduces to it ($9:6$ divided by $3$, $6:4$ divided by $2$).
 
-**Rule for building the chain.** For $a:b$ doubled, the three terms are $a\times a,\ a\times b,\ b\times b$. For tripled, the four terms are $a\times a\times a,\ a\times a\times b,\ a\times b\times b,\ b\times b\times b$. Each step replaces one $a$ by a $b$, so every link reduces to $a:b$.
+**Rule for building the chain.** To double a proportion $a:b$, build a chain of three numbers: $a\times a$ for the first member, $a\times b$ for the second, and $b\times b$ for the third. For the _sesquialtera_ $3:2$, $a=3$ and $b=2$, so the first member is $3\times3=9$, the second $3\times2=6$, and the last $2\times2=4$.
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | first member, $a\times a$ | $3\times3$ | $9$ |
+| 2 | second member, $a\times b$ | $3\times2$ | $6$ |
+| 3 | third member, $b\times b$ | $2\times2$ | $4$ |
+| 4 | upper link $9:6$ | $9$ is $3\times3$, $6$ is $3\times2$; both have the factor $3$; divide both by $3$: $9\div3=3$, $6\div3=2$ | $3:2$ |
+| 5 | lower link $6:4$ | $6$ is $3\times2$, $4$ is $2\times2$; both have the factor $2$; divide both by $2$: $6\div2=3$, $4\div2=2$ | $3:2$ |
+| 6 | ends | $9$ to $4$ | $9:4$, the double of $3:2$ |
+
+The same in letters: the upper link $a\times a : a\times b$ has the factor $a$ in both terms, and dividing it out leaves $a:b$; the lower link $a\times b : b\times b$ has the factor $b$ in both terms, and dividing it out leaves $a:b$. For tripled, the four terms are $a\times a\times a,\ a\times a\times b,\ a\times b\times b,\ b\times b\times b$. Each step replaces one $a$ by a $b$, so every link reduces to $a:b$.
 
 | Proportion $a:b$ | Doubled: chain | Links | Doubled | Tripled: chain | Links | Tripled |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -443,22 +468,79 @@ Used on 40a, 43b, 44b, 47b, and 49a–49b (§19, §22, §23, §26, §28). **Doub
 
 Every link in a row reduces to the proportion in the first column (divide both terms of $27:18$ by $9$, of $18:12$ by $6$, of $12:8$ by $4$, in each case the largest number dividing both). Modern check, doubling squares the value, $(\tfrac32)^2=\tfrac94$, and tripling cubes it, $(\tfrac32)^3=\tfrac{27}8$.
 
+**Every proportion has a double (50a–50b).** The rule for building the chain uses only multiplication of whole numbers, so it never fails. Every proportion can be doubled, tripled, quadrupled. Dolz shows it family by family (propositions 16–19, §29).
+
+The names in the last column are built by the rule of P2. They are the standard names of the Boethian vocabulary shared by all the authors Dolz cites, not names of his own. Dolz gives them only when the reader asks (_si petas quomodo vocatur_, 50a–50b).
+
+| Proposition | Proportion $a:b$ | Chain $a\times a,\ a\times b,\ b\times b$ | Double | Whole times the lesser goes into the greater | Leftover | Name by the rule of P2 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 16 | _sesquialtera_ $3:2$ | $3\times3=9$, $3\times2=6$, $2\times2=4$ | $9:4$ | $2\times4=8$: twice | $9-8=1$, a fourth of $4$ | _dupla sesquiquarta_, $2\tfrac14$ |
+| 17 | _sesquitertia_ $4:3$ | $4\times4=16$, $4\times3=12$, $3\times3=9$ | $16:9$ | $1\times9=9$: once | $16-9=7$, seven ninths of $9$ | _superseptipartiens nonas_, $1\tfrac79$ |
+| 18 | _dupla sesquialtera_ $5:2$ | $5\times5=25$, $5\times2=10$, $2\times2=4$ | $25:4$ | $6\times4=24$: six times | $25-24=1$, a fourth of $4$ | _sextupla sesquiquarta_, $6\tfrac14$ |
+| 19 | _dupla superbipartiens tertias_ $8:3$ | $8\times8=64$, $8\times3=24$, $3\times3=9$ | $64:9$ | $7\times9=63$: seven times | $64-63=1$, a ninth of $9$ | _septupla sesquinona_, $7\tfrac19$ |
+
+**Worked example, proposition 19: double the _dupla superbipartiens tertias_ $8:3$.**
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | first term of the chain | $8\times8$ | $64$ |
+| 2 | middle term | $8\times3$ | $24$ |
+| 3 | last term | $3\times3$ | $9$ |
+| 4 | is the lower link $24:9$ twice and two thirds? | $9+9=18$; $24-18=6$; a third of $9$ is $9\div3=3$, and $6$ is two of them ($3+3$) | yes; Dolz: _bis novem et duos ternarios_ |
+| 5 | is the upper link $64:24$ twice and two thirds? | $24+24=48$; $64-48=16$; a third of $24$ is $24\div3=8$, and $16$ is two of them ($8+8$) | yes; Dolz: _bis 24 et cum hoc bis 8_ |
+| 6 | the ends | $64$ to $9$ | $64:9$, the double |
+| 7 | name it (P2) | $9$ goes into $64$ seven times ($7\times9=63$); leftover $64-63=1$, one ninth of $9$ | _septupla sesquinona_, $7\tfrac19$ |
+| modern | | $(\tfrac83)^2=\tfrac{64}9$ | |
+
+**The name of the double is not the double of the name.** Doubling a proportion does not double its denomination.
+
+| Proportion | Denomination | Denomination $\times2$ (by value) | Double by composition | Its denomination | Agree? |
+| --- | --- | --- | --- | --- | --- |
+| _dupla_ $2:1$ | $2$ | $2\times2=4$ | $4:1$ | $4$ | yes, by coincidence |
+| _sesquialtera_ $3:2$ | $1\tfrac12$ | $1\tfrac12\times2=3$ | $9:4$ | $2\tfrac14$ | no |
+| _dupla sesquialtera_ $5:2$ | $2\tfrac12$ | $2\tfrac12\times2=5$ | $25:4$ | $6\tfrac14$ | no |
+| _dupla superbipartiens tertias_ $8:3$ | $2\tfrac23$ | $2\tfrac23\times2=5\tfrac13$ | $64:9$ | $7\tfrac19$ | no |
+
+The first row agrees only because $2+2$ and $2\times2$ are both $4$; it is the coincidence of the rule Dolz destroys on 49a (§28). Note also that the double of the _sesquialtera_ is the _dupla sesquiquarta_ $9:4$, not the _dupla sesquialtera_ $5:2$: the _dupla_ in a species name is not the _dupla_ of a proportion of proportions.
+
+**Doubling always works; halving does not.**
+
+| Operation | What must be found | Always whole numbers? | Example that works | Example that fails |
+| --- | --- | --- | --- | --- |
+| doubling $a:b$ | the three terms $a\times a$, $a\times b$, $b\times b$ | yes: whole numbers multiplied give whole numbers | $3:2$: $3\times3=9$, $3\times2=6$, $2\times2=4$ | none |
+| halving $a:c$ | a middle $b$ with $b\times b$ equal to $a\times c$ | no | $9:4$: $9\times4=36$, and $6\times6=36$, so $b=6$ | $2:1$: $2\times1=2$, but $1\times1=1$ and $2\times2=4$, so no whole $b$ gives $2$ |
+| halving $a:c$ | the same | no | $16:9$: $16\times9=144$, and $12\times12=144$, so $b=12$ | the tone $9:8$: $9\times8=72$, but $8\times8=64$ and $9\times9=81$, so no whole $b$ gives $72$ |
+
 **Halving.** The half of a proportion is the proportion which, added to itself, makes up the **full** proportion. To halve $a:c$, find a middle $b$ such that $a:b$ and $b:c$ are the same proportion, the _medium proportionale_ (43b, §22). The chain $a,b,c$ then has two equal links, and together they cover the full $a:c$.
+
+**Why the middle $b$ must have $b\times b$ equal to $a\times c$.** Halving runs the rule for building the chain backwards. If the half is $x:y$, doubling it gives the chain $x\times x,\ x\times y,\ y\times y$. Multiply the first member by the last: $x\times x\times y\times y$. Multiply the middle member by itself: $x\times y\times x\times y$. Both products are made of the same four factors, two $x$ and two $y$, so they are equal. In every doubled chain, middle $\times$ middle equals first $\times$ last.
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | double $3:2$ by the rule | first $3\times3=9$, middle $3\times2=6$, last $2\times2=4$ | chain $9,6,4$ |
+| 2 | first $\times$ last | $9\times4$ | $36$ |
+| 3 | middle $\times$ middle | $6\times6$ | $36$, the same |
+| 4 | double $2:1$ by the rule | first $2\times2=4$, middle $2\times1=2$, last $1\times1=1$ | chain $4,2,1$ |
+| 5 | first $\times$ last | $4\times1$ | $4$ |
+| 6 | middle $\times$ middle | $2\times2$ | $4$, the same |
+| 7 | the chain multiplied through by $2$ (Rule 1) | $4\times2=8$, $2\times2=4$, $1\times2=2$: chain $8,4,2$; first $\times$ last $8\times2=16$; middle $\times$ middle $4\times4=16$ | still the same |
+
+So to halve $a:c$, take $a$ as the first member and $c$ as the last, and look for the middle: it must be a number $b$ with $b\times b$ equal to $a\times c$.
 
 1. Multiply the two terms, $a\times c$.
 2. Find a whole number $b$ with $b\times b$ equal to $a\times c$.
 3. If there is one, the half is $a:b$, equally $b:c$. If not, try the same proportion with larger terms (Rule 1).
 
-| Halve | Step 1, $a\times c$ | Step 2, $b$ | Half | Check |
+| Halve | Step 1, $a\times c$ | Step 2, $b$ with $b\times b$ equal to it | Half | Check |
 | --- | --- | --- | --- | --- |
-| $4:1$ | $4$ | $2$ | $4:2=2:1$ | $4:2$ and $2:1$ both _dupla_ |
-| $8:2$ | $16$ | $4$ | $8:4=2:1$ | Dolz's example (43b) |
-| $9:4$ | $36$ | $6$ | $9:6=3:2$ | $9:6$ and $6:4$ both _sesquialtera_ |
-| $16:9$ | $144$ | $12$ | $16:12=4:3$ | $16:12$ and $12:9$ both _sesquitertia_ |
-| $2:1$ | $2$ | none | — | rescaled to $8:4$, product $32$, still none; no rescaling helps |
-| $9:8$ | $72$ | none | — | the tone has no half (§19) |
+| $4:1$ | $4\times1=4$ | $2$, since $2\times2=4$ | $4:2$, reduced $2:1$ | $4:2$ and $2:1$ both _dupla_ |
+| $8:2$ | $8\times2=16$ | $4$, since $4\times4=16$ | $8:4$, reduced $2:1$ | Dolz's example (43b) |
+| $9:4$ | $9\times4=36$ | $6$, since $6\times6=36$ | $9:6$, reduced $3:2$ | $9:6$ and $6:4$ both _sesquialtera_ |
+| $16:9$ | $16\times9=144$ | $12$, since $12\times12=144$ | $16:12$, reduced $4:3$ | $16:12$ and $12:9$ both _sesquitertia_ |
+| $2:1$ | $2\times1=2$ | none: $1\times1=1$ is too small, $2\times2=4$ too large | — | rescaled to $8:4$: $8\times4=32$, but $5\times5=25$ and $6\times6=36$, still none; no rescaling helps |
+| $9:8$ | $9\times8=72$ | none: $8\times8=64$ is too small, $9\times9=81$ too large | — | the tone has no half (§19) |
 
-When no whole number works, the half exists only as a modern irrational. The half of $2:1$ is the proportion of $\sqrt2$ to $1$, with chain $2,\ \sqrt2,\ 1$. Both links are the same proportion, and together they make the full $2:1$, since $\sqrt2\times\sqrt2=2$ (§22).
+When no whole number works, the half has no terms in numbers. Dolz says so of the half of the _dupla_ on 50b: it _non dicatur rationalis, nec inter numeros reperiatur_ (§29). The word _rationalis_ is his; the root notation is modern. The half of $2:1$ is the proportion of $\sqrt2$ to $1$, with chain $2,\ \sqrt2,\ 1$. Both links are the same proportion, and together they make the full $2:1$, since $\sqrt2\times\sqrt2=2$ (§22).
 
 **Halves keep the order (proposition 8, 49a).** If one proportion is greater than another, its half is greater than the other's half. With whole numbers: $16:1$ is greater than $9:1$; their halves are $4:1$ ($4\times4=16$) and $3:1$ ($3\times3=9$), and $4:1$ is greater than $3:1$. Dolz's own example, the _tripla_ and the _dupla_, has halves without whole-number terms ($\sqrt3$ and $\sqrt2$, modern), but the order holds the same way (§28).
 
@@ -507,7 +589,104 @@ Modern check, $\tfrac{16}9\approx1.78$, then $2$, then $\tfrac94=2.25$. This is 
 | Dolz's shortcut | principle 3 | the _quadrupla_ is composed of two unequal links, the _tripla_ the greater | less than double the greater |
 | modern | | $\log4\div\log3$ | about $1.26$, not a fraction of whole numbers |
 
-A whole count exists only when both proportions are built from one common proportion: $4:1$, $8:1$, $16:1$ from the _dupla_; $9:1$ from the _tripla_. The _quadrupla_ and the _tripla_ share none.
+A count in whole numbers needs both proportions built from one common proportion: $4:1$, $8:1$, $16:1$ from the _dupla_; $9:1$ from the _tripla_. The _quadrupla_ and the _tripla_ share none. A common proportion is needed but is not enough for a **whole** count: the _octupla_ (three _duplae_) against the _quadrupla_ (two _duplae_) gives three to two, once and a half (50b, below).
+
+**A proportion one and a half times another (50b).** First the idea with plain numbers. $3$ is _sesquialtera_ to $2$ because $3$ contains $2$ once and the half of $2$ besides.
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | the lesser number | | $2$ |
+| 2 | its half | $2\div2$ | $1$ |
+| 3 | the lesser number and its half together | $2+1$ | $3$ |
+| 4 | so | $3$ is $2$ and the half of $2$ | $3$ is _sesquialtera_ to $2$ |
+
+Proportions of proportions take the same names (49a, §28). The _quadrupla_ is _dupla ad duplam_ because it contains the _dupla_ twice. In the same way a proportion is _sesquialtera ad_ another proportion when it contains that other proportion once **and its half** besides. Between proportions, "contains" and "together" mean adding by chaining (P4), and "half" means the proportion that, added to itself, makes the whole (halving, above). Dolz's proposition 20: not every proportion has one (§29).
+
+**Worked example: which proportion is _sesquialtera_ to the _quadrupla_ $4:1$?** The same four steps as for $3$ and $2$, with proportions in place of numbers.
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | the lesser proportion | | the _quadrupla_ $4:1$ |
+| 2a | its half: what does the chain look like? | if the half is $x:y$, doubling it gives three members: $x\times x$ first, $x\times y$ middle, $y\times y$ last (rule for building the chain, P6) | the first member is $4$, the last $1$, the middle unknown, call it $b$ |
+| 2b | what must the middle satisfy? | first $\times$ last is $x\times x\times y\times y$; middle $\times$ middle is $x\times y\times x\times y$; the same four factors | $b\times b$ equals first $\times$ last |
+| 2c | first $\times$ last | $4\times1$ | $4$ |
+| 2d | a whole $b$ with $b\times b=4$ | $1\times1=1$, too small; $2\times2=4$ | $b=2$ |
+| 2e | chain and links | $4,\;2,\;1$; upper link $4:2$, divide both by $2$: $4\div2=2$, $2\div2=1$; lower link $2:1$ | both _dupla_; the half is the _dupla_ $2:1$ |
+| 3 | check the half | add $2:1$ to itself: chain $4,2,1$, ends $4:1$ | the _quadrupla_ again, so the _dupla_ is its half |
+| 4 | add the _quadrupla_ and its half (P4): is the right term of $4:1$ the left term of $2:1$? | right term $1$, left term $2$ | no, so rescale |
+| 5 | rescale crosswise (P4, step 2) | multiply both terms of $4:1$ by $2$, the left term of $2:1$: $4\times2=8$, $1\times2=2$, so $4:1\to8:2$. The $2:1$ would be multiplied by $1$, the right term of $4:1$, so it stays $2:1$ | $8:2$ and $2:1$ now share $2$ |
+| 6 | chain | $8,\;2,\;1$ | links $8:2$, the _quadrupla_, and $2:1$, the _dupla_ |
+| 7 | ends | $8$ to $1$ | $8:1$, the _octupla_ |
+| 8 | answer | the _octupla_ is the _quadrupla_ and its half | the _octupla_ is _sesquialtera_ to the _quadrupla_ |
+
+**Where Dolz's chain $16,8,2$ comes from.** It is the same addition, with the half put first and the _quadrupla_ second, and with every term doubled.
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | first link, the half | | the _dupla_ $2:1$ |
+| 2 | second link, the _quadrupla_ | | $4:1$ |
+| 3 | is the right term of $2:1$ the left term of $4:1$? | right term $1$, left term $4$ | no, so rescale |
+| 4 | rescale crosswise | multiply both terms of $2:1$ by $4$, the left term of $4:1$: $2\times4=8$, $1\times4=4$, so $2:1\to8:4$. The $4:1$ would be multiplied by $1$, so it stays $4:1$ | $8:4$ and $4:1$ now share $4$ |
+| 5 | chain | $8,\;4,\;1$ | ends $8:1$, the _octupla_ |
+| 6 | Dolz's terms: multiply every term by $2$ (Rule 1) | $8\times2=16$, $4\times2=8$, $1\times2=2$ | chain $16,8,2$ |
+| 7 | Dolz's upper link $16:8$ | divide both terms by $8$: $16\div8=2$, $8\div8=1$ | $2:1$, the _dupla_: _sexdecim ad 8, quae est dupla_ |
+| 8 | Dolz's lower link $8:2$ | divide both terms by $2$: $8\div2=4$, $2\div2=1$ | $4:1$, the _quadrupla_: _8 ad 2, quae est quadrupla_ |
+| 9 | ends | $16:2$; divide both terms by $2$: $16\div2=8$, $2\div2=1$ | $8:1$, the _octupla_, as before |
+
+The order of adding does not matter (P4), and multiplying every term of a chain by the same number changes no link (Rule 1). Why Dolz multiplied by $2$ is not said; the result writes the _quadrupla_ as $8:2$, the terms he used for it on 46b.
+
+**Check by counting _duplae_, as a picture.** Lay the _duplae_ out as equal steps. Every step is a _dupla_: $2:1$, $4:2$, $8:4$.
+
+```text
+one dupla per step    1 ------ 2 ------ 4 ------ 8
+quadrupla 4:1         1 --------------- 4                2 steps
+octupla 8:1           1 ------------------------ 8       3 steps
+```
+
+The _octupla_ is three steps long, the _quadrupla_ two. Three to two is _sesquialtera_: $2$ goes into $3$ once, leftover $3-2=1$, the half of $2$. It is the same as $3$ to $2$ in the first table, now counted in steps. The steps are measured by how many _duplae_ they hold, not by how far apart the numbers are: from $4$ to $8$ is as long as from $1$ to $2$.
+
+The modern check, $\log8\div\log4=1\tfrac12$, does exactly this count: $\log_2 8=3$ steps, $\log_2 4=2$ steps.
+
+**Where it fails.** Step 2 needs the half in whole numbers.
+
+| Proportion | Step 2c: $a\times c$ | A whole $b$ with $b\times b$ equal to it? | _Sesquialtera_ to it? | Dolz |
+| --- | --- | --- | --- | --- |
+| _dupla_ $2:1$ | $2\times1=2$ | no: $1\times1=1$ is too small, $2\times2=4$ too large | none among rational proportions | _medietas duplae non dicatur rationalis_ |
+| _tripla_ $3:1$ | $3\times1=3$ | no: $1\times1=1$ is too small, $2\times2=4$ too large | none | _nulla datur quae contineat triplam et medietatem eius_ |
+| _quadrupla_ $4:1$ | $4\times1=4$ | yes: $2\times2=4$ | the _octupla_ | _eius medietas est dupla_ |
+
+The same holds for a _sesquitertia_ of proportions, which needs a third: the _dupla_ has none, since no proportion of whole numbers tripled makes $2:1$.
+
+**The trap of the _sextupla_.** Before the _octupla_, Dolz tries the _sextupla_. His recipe is the one above: write the _quadrupla_ as the lower link $8:2$, and put a second link on top of it, from a greater number down to $8$. Everything depends on which upper link.
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | the _quadrupla_ as the lower link | multiply both terms of $4:1$ by $2$: $4\times2=8$, $1\times2=2$ | $8:2$ |
+| 2 | the upper link Dolz chooses | from $12$ down to $8$ | $12:8$ |
+| 3 | name the upper link (P2) | $8$ goes into $12$ once; leftover $12-8=4$; $4$ is half of $8$ | _sesquialtera_; reduced, divide both terms by $4$: $3:2$ |
+| 4 | chain | $12,\;8,\;2$ | upper link $12:8$, lower link $8:2$ |
+| 5 | ends | $12:2$; divide both terms by $2$: $12\div2=6$, $2\div2=1$ | $6:1$, the _sextupla_ |
+| 6 | what the upper link had to be | the half of the _quadrupla_ (worked example, step 2) | the _dupla_ $2:1$ |
+| 7 | what it is | step 3 | a _sesquialtera_ $3:2$, not the _dupla_ |
+| 8 | verdict | the _sextupla_ is the _quadrupla_ plus a _sesquialtera_ | it exceeds the _quadrupla_ **by** a _sesquialtera_ (P5), but is not _sesquialtera_ **to** it |
+
+The word _sesquialtera_ turns up in the chain, but in the wrong place: it names the upper link, when it should name how the whole stands to the _quadrupla_. Dolz states the objection himself, _12 ad 8 non est medietas quadruplae_, and falls back on the _octupla_. The two chains side by side, both with the _quadrupla_ $8:2$ as the lower link:
+
+| Chain | Upper link | Upper link reduced | Is the upper link the half of the _quadrupla_, $2:1$? | Ends | Result |
+| --- | --- | --- | --- | --- | --- |
+| $12,8,2$ | $12:8$ | divide both terms by $4$: $3:2$, _sesquialtera_ | no | $12:2$, reduced $6:1$ | _sextupla_, not _sesquialtera_ to the _quadrupla_ |
+| $16,8,2$ | $16:8$ | divide both terms by $8$: $2:1$, _dupla_ | yes | $16:2$, reduced $8:1$ | _octupla_, _sesquialtera_ to the _quadrupla_ |
+
+In the picture of steps, $6$ is not on the line of _duplae_ at all: it falls between $4$ and $8$, so the _sextupla_ is more than two steps and less than three, not a whole or half count of them.
+
+**_Excedit per_ and _est ad_ (50b).** Two questions, both answered with the name of a proportion.
+
+| Phrase | Question | Method | _Tripla_ against _dupla_ | _Octupla_ against _quadrupla_ |
+| --- | --- | --- | --- | --- |
+| _excedit per_ | what must be added to the lesser to make the greater? | subtract (P5) | $3:1$ minus $2:1$ is $3:2$ (P5, Example F): by a _sesquialtera_ | $8:1$ minus $4:1$: both right terms $1$, answer $8:4$, which is $2:1$: by a _dupla_ |
+| _est ad_, _in hac proportione est maior_ | how many times does the greater contain the lesser? | count links | not _sesquialtera_, since the _dupla_ has none | three _duplae_ to two: _sesquialtera_ |
+
+The same pair, _octupla_ and _quadrupla_, gets two different names: it differs **by** a _dupla_ and stands **in** a _sesquialtera_. This is Rule 2 one level up: for numbers, $3$ exceeds $2$ by $1$ and is _sesquialtera_ to it.
 
 **One proportion per dimension (47b).** A body two feet long, wide, and deep against a body one foot each way. In each dimension the proportion is the _dupla_ $2:1$. Dolz cuts the larger body into one-foot pieces and counts eight, so the bodies stand in the _octupla_ $8:1$ (§26). Each cut in half doubles the count and adds one _dupla_ to the chain.
 
@@ -786,21 +965,22 @@ Four obstacles stood in the way:
 | naming | count, remainder, reduce; lesser term to unity (45a) | $5:2$ _dupla sesquialtera_ | mixed number $2\tfrac12$ |
 | adding | chain through a shared middle | $4:3+3:2=2:1$ | multiply |
 | subtracting | remove the part from the end of the whole | $2:1-3:2=4:3$ | divide |
-| doubling, tripling | add to itself | $3:2$ doubled is $9:4$ | square, cube |
+| exceeding by (_excedit per_) | subtract (50b) | the _tripla_ exceeds the _dupla_ by a _sesquialtera_ | divide |
+| doubling, tripling | add to itself; always possible (50a–50b) | $3:2$ doubled is $9:4$, _dupla sesquiquarta_; $5:2$ doubled is $25:4$ | square, cube |
 | bodies and surfaces | one link per dimension (47b) | sides $2:1$, cubes $8:1$ | cube of the side ratio |
-| halving | _medium proportionale_ | half of $9:4$ is $3:2$ | square root |
+| halving | _medium proportionale_; not always possible, the half of the _dupla_ is not rational (50b) | half of $9:4$ is $3:2$ | square root |
 | comparing | denomination, whole number first (46a–46b); leftovers to the same number of parts (48b); cross-multiply; or whole and part; only within one kind (48a) | $3:2>4:3$; $2:1>3:2$; $10:3>5:2$; $\tfrac24>\tfrac25$ | compare fractions |
-| how many times | count links (49a–49b), never divide denominations; if no whole count, bound it by principle 3 | $8:1$ is three _duplae_, not four; $4:1$ is between one and two _triplae_ | ratio of logarithms, not of values |
+| how many times (_est ad_) | count links (49a–49b), never divide denominations; if no whole count, bound it by principle 3; a count may be a _sesquialtera_ (50b) | $8:1$ is three _duplae_, not four; $4:1$ is between one and two _triplae_; $8:1$ is _sesquialtera_ to $4:1$ | ratio of logarithms, not of values |
 
 ### Still to come
 
-The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles, its principles, the general rule of greater proportion, and the order of the species (43a–46b, §22–§25) are covered by P1, P2, and P4–P7; the cube of 47b (§26) by P6; the comparisons of 48a–49a (§27) by P7; the proportion of proportions of 49a–49b (§28) by P6. Dolz has promised an account of _communicatio proportionum_, overlapping proportions (43a). The prooemium (25a) further announces the excess of one proportion over another, division by proportional parts, and the rules of motion. Operations needed for them will be added here as the transcription reaches them.
+The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles, its principles, the general rule of greater proportion, and the order of the species (43a–46b, §22–§25) are covered by P1, P2, and P4–P7; the cube of 47b (§26) by P6; the comparisons of 48a–49a (§27) by P7; the proportion of proportions of 49a–50b (§28–§29) by P5 and P6. Dolz has promised an account of _communicatio proportionum_, overlapping proportions (43a), and of proportions that are not rational (_ut dicemus inferius_, 50b). The prooemium (25a) gives the third article the excess of one proportion over another and the proportion in which one is greater than another; page 50 has separated the two (P5, Example F; P6). It further announces division by proportional parts and the rules of motion. Operations needed for them will be added here as the transcription reaches them.
 
 ---
 
 # Preambles, proportion, and proportionality
 
-**Pages 25a–49a.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals; the answers to the seven questions of page 29; the aliquot parts of the infinite, which close the first article; and the first four preambles of the second article, on the parts of a proportion; and its fifth preamble and first four principles, on the composition of proportions; the least terms and the general rule of greater proportion; and the order of the species by size, with an argument from Dullaert and its answer; two physical objections to the definition of _dupla_; and the incomparability of greater inequality, equality, and lesser inequality, with the remaining orders of the species.
+**Pages 25a–50b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals; the answers to the seven questions of page 29; the aliquot parts of the infinite, which close the first article; and the first four preambles of the second article, on the parts of a proportion; and its fifth preamble and first four principles, on the composition of proportions; the least terms and the general rule of greater proportion; and the order of the species by size, with an argument from Dullaert and its answer; two physical objections to the definition of _dupla_; and the incomparability of greater inequality, equality, and lesser inequality, with the remaining orders of the species; and the proportion of proportions, with the double of every proportion, the _sesquialtera_ of proportions, and the difference between exceeding by a proportion and being in one.
 
 ## 1. Why the metaphysics comes first
 
@@ -3169,7 +3349,7 @@ All three follow from Dolz's method of 48b (§27): $\tfrac13$ is $\tfrac26$, les
 
 _Quandocumque una proportio est maior alia, etiam medietas illius est maior medietate alterius, et tertia illius tertia alterius._ His example: the _tripla_ is greater than the _dupla_, so the half of the _tripla_ is greater than the half of the _dupla_.
 
-Our observation: neither half has whole-number terms. The half of $3:1$ needs $b\times b=3$, the half of $2:1$ needs $b\times b=2$ (P6). Dolz speaks of these halves as freely as of the half of $8:2$, as he did of the unnamed half of $8:4$ on 43b (§22). In modern terms, $\sqrt3>\sqrt2$.
+Our observation: neither half has whole-number terms. The half of $3:1$ needs $b\times b=3$, the half of $2:1$ needs $b\times b=2$ (P6). Dolz speaks of these halves as freely as of the half of $8:2$, as he did of the unnamed half of $8:4$ on 43b (§22). In modern terms, $\sqrt3>\sqrt2$. He knows what kind of proportion they are: on 50b the half of the _dupla_ _non dicatur rationalis, nec inter numeros reperiatur_ (§29). Not rational, but not denied to exist.
 
 ### Propositions 9–13: how many times, by composition
 
@@ -3203,7 +3383,7 @@ Three observations of ours:
 
 - **This settles what §20–§24 inferred.** Page 43b measured halves by composition (§22), principle 3 required it for "double" (§23), and 45b–46b showed value and composition agreeing on which proportion is greater (§24). Page 49 says it in so many words: for how many times, only composition counts.
 - **It is the measure of Bradwardine's rule.** To make a speed three times a speed produced by a _dupla_, the rule needs the _octupla_, the _dupla_ tripled. The refuted rule would give the _sextupla_, $6:1$, since $6=3\times2$ (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-Alvarus-Thomas-and-Galileo.html), section 1.1). Dolz does not draw the consequence on this page.
-- **Only some _multiplices_ compare in whole counts.** _Per istas proportiones poteris facile alias multiplices comparare._ All the examples are powers of one proportion: $2,4,8,16$ of the _dupla_, $3,9$ of the _tripla_. The _tripla_ and the _dupla_ have no such common measure, and propositions 14 and 15 show what Dolz does then.
+- **Only some _multiplices_ compare in whole counts.** _Per istas proportiones poteris facile alias multiplices comparare._ All the examples are powers of one proportion: $2,4,8,16$ of the _dupla_, $3,9$ of the _tripla_. The _tripla_ and the _dupla_ have no such common measure, and propositions 14 and 15 show what Dolz does then. A common measure does not guarantee a whole count: on 50b the _octupla_, three _duplae_, is _sesquialtera_ to the _quadrupla_, two _duplae_ (§29).
 
 ### Propositions 14–15: when there is no whole count
 
@@ -3217,7 +3397,204 @@ Both rest on principle 3 (44b): a proportion composed of two unequal proportions
 Two observations of ours:
 
 - **_Inductive_, but one case suffices.** That the _dupla_ is never made of two _sesquialterae_ _patet inductive in omnibus_. By proposition 1 (45b) all _sesquialterae_ are equal, so two of them make $9:4$ whatever terms they are found in; one case decides all.
-- **The answers Dolz does not give.** In modern terms the _dupla_ is about $1.71$ times the _sesquialtera_ and $2.41$ times the _sesquitertia_, and the _quadrupla_ about $1.26$ times the _tripla_. None of these is a ratio of whole numbers, since no power of $3$ is a power of $2$. These are Oresme's irrational proportions of proportions (_De proportionibus proportionum_). Dolz gives only bounds, which is all the elementary method of chains can give.
+- **The answers Dolz does not give.** In modern terms the _dupla_ is about $1.71$ times the _sesquialtera_ and $2.41$ times the _sesquitertia_, and the _quadrupla_ about $1.26$ times the _tripla_. None of these is a ratio of whole numbers, since no power of $3$ is a power of $2$. These are Oresme's irrational proportions of proportions (_De proportionibus proportionum_). Dolz gives only bounds, which is all the elementary method of chains can give. He is not unaware of the irrational: on 50b he calls the half of the _dupla_ not rational and promises to say more (_ut dicemus inferius_, §29).
+
+---
+
+## 29. Every proportion has a double; not every one has a _sesquialtera_ (50a–50b)
+
+Page 50 ends proposition 15 and adds propositions 16 to 20. Propositions 16–19 show that every proportion has a double; proposition 20, that not every proportion has a _sesquialtera_ or a _sesquitertia_. A closing note separates exceeding by a proportion from being in a proportion. The transcription breaks off at the turn to 51a, in the middle of that note's proof.
+
+### Proposition 15 concluded (50a)
+
+_Eodem modo poteris probare_ the same of the _tripla_: it is more than double the _sesquialtera_ and less than double the _dupla_.
+
+**Worked example, the _tripla_ $3:1$.**
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | a whole number between $3$ and $1$ | $3>2>1$ | $2$; chain $3,2,1$ |
+| 2 | name the upper link $3:2$ (P2) | $2$ goes into $3$ once; leftover $3-2=1$, half of $2$ | _sesquialtera_ |
+| 3 | name the lower link $2:1$ | $1$ goes into $2$ twice; no leftover | _dupla_ |
+| 4 | which link is greater? (P7, Method 2) | give both the same right term: multiply both terms of $3:2$ by $1$, the right term of $2:1$, so it stays $3:2$; multiply both terms of $2:1$ by $2$, the right term of $3:2$: $2\times2=4$, $1\times2=2$, so $4:2$. Left terms $3$ and $4$ | $4>3$: the _dupla_ is the greater link |
+| 5 | double the lesser link, $3:2$ (P6) | chain $3\times3=9$, $3\times2=6$, $2\times2=4$ | $9:4$ |
+| 6 | give the _tripla_ the right term $4$, to compare with $9:4$ | multiply both terms of $3:1$ by $4$: $3\times4=12$, $1\times4=4$ | $12:4$, still the _tripla_ (Rule 1) |
+| 7 | compare left terms | $12$ against $9$ | $12>9$: the _tripla_ is greater than the double of the _sesquialtera_ |
+| 8 | double the greater link, $2:1$ (P6) | chain $2\times2=4$, $2\times1=2$, $1\times1=1$ | $4:1$ |
+| 9 | compare with the _tripla_ | right terms already both $1$; left terms $3$ and $4$ | $3<4$: the _tripla_ is less than the double of the _dupla_ |
+| 10 | conclusion | | more than double the _sesquialtera_, less than double the _dupla_ |
+| modern | | $\log3\div\log\tfrac32\approx2.71$; $\log3\div\log2\approx1.58$ | between $2$ and $3$ _sesquialterae_; between $1$ and $2$ _duplae_ |
+
+As in 49b, the ground is principle 3 (44b), cited _ex illo praeambulo_: a proportion made of two unequal links is more than double the lesser link and less than double the greater.
+
+### Propositions 16–19: every proportion has a double
+
+To double a proportion $a:b$ is to add it to itself: find three terms in which the first is to the second, and the second to the third, as $a$ is to $b$. To do it, build a chain of three numbers: $a\times a$ for the first member, $a\times b$ for the second, and $b\times b$ for the third. For the _sesquialtera_ $3:2$, the first member is $3\times3=9$, the second $3\times2=6$, and the last $2\times2=4$: chain $9,6,4$. Each step from one term to the next replaces one $a$ by one $b$, so each link reduces to $a:b$: $9:6$ is $3\times3$ to $3\times2$, divide both by $3$, $3:2$; $6:4$ is $3\times2$ to $2\times2$, divide both by $2$, $3:2$ (P6).
+
+| Proposition | Proportion $a:b$ | Chain $a\times a,\ a\times b,\ b\times b$ | Links | Double | Name by the rule of P2 | Denomination |
+| --- | --- | --- | --- | --- | --- | --- |
+| 16 | _sesquialtera_ $3:2$ | $3\times3=9$, $3\times2=6$, $2\times2=4$ | $9:6$, $6:4$ | $9:4$ | _dupla sesquiquarta_ | $2\tfrac14$ |
+| 17 | _sesquitertia_ $4:3$ | $4\times4=16$, $4\times3=12$, $3\times3=9$ | $16:12$, $12:9$ | $16:9$ | _superseptipartiens nonas_ | $1\tfrac79$ |
+| 18 | _dupla sesquialtera_ $5:2$ | $5\times5=25$, $5\times2=10$, $2\times2=4$ | $25:10$, $10:4$ | $25:4$ | _sextupla sesquiquarta_ | $6\tfrac14$ |
+| 19 | _dupla superbipartiens tertias_ $8:3$ | $8\times8=64$, $8\times3=24$, $3\times3=9$ | $64:24$, $24:9$ | $64:9$ | _septupla sesquinona_ | $7\tfrac19$ |
+
+The names are not Dolz's coinage. They follow the rule of P2 and belong to the Boethian vocabulary common to all the authors he cites. He gives them when the reader asks for them: _si petas quomodo vocatur illa 16 ad 9, dico quod superseptipartiens nonas_ (proposition 17), and likewise in propositions 18 and 19.
+
+Each proof finds the three terms, checks that both links have the name of the given proportion, and names the ends. The four proofs in full:
+
+**Proposition 16: double the _sesquialtera_ $3:2$.**
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | first term of the chain | $3\times3$ | $9$ |
+| 2 | middle term | $3\times2$ | $6$ |
+| 3 | last term | $2\times2$ | $4$ |
+| 4 | is the upper link $9:6$ once and a half? | $6$ fits once into $9$; $9-6=3$; half of $6$ is $6\div2=3$ | yes; Dolz: _novem ad sex, quae est sesquialtera_ |
+| 5 | is the lower link $6:4$ once and a half? | $4$ fits once into $6$; $6-4=2$; half of $4$ is $4\div2=2$ | yes; Dolz: _sex ad 4, quae est etiam sesquialtera_ |
+| 6 | the ends | $9$ to $4$ | $9:4$, the double |
+| 7 | name it (P2) | $4$ goes into $9$ twice ($2\times4=8$); leftover $9-8=1$; $4$ cut into $4$ equal parts gives parts of $1$, so $1$ is one fourth of $4$ | _dupla sesquiquarta_, $2\tfrac14$ |
+| modern | | $(\tfrac32)^2=\tfrac94$ | |
+
+**Proposition 17: double the _sesquitertia_ $4:3$.**
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | first term of the chain | $4\times4$ | $16$ |
+| 2 | middle term | $4\times3$ | $12$ |
+| 3 | last term | $3\times3$ | $9$ |
+| 4 | is the upper link $16:12$ once and a third? | $12$ fits once into $16$; $16-12=4$; a third of $12$ is $12\div3=4$ | yes; Dolz: _16 ad 12, quae est sesquitertia_ |
+| 5 | is the lower link $12:9$ once and a third? | $9$ fits once into $12$; $12-9=3$; a third of $9$ is $9\div3=3$ | yes; Dolz: _12 ad 9, quae est etiam sesquitertia_ |
+| 6 | the ends | $16$ to $9$ | $16:9$, the double |
+| 7 | name it (P2) | $9$ goes into $16$ once ($1\times9=9$); leftover $16-9=7$; $9$ cut into $9$ equal parts gives parts of $1$, so $7$ is seven ninths of $9$ | _superseptipartiens nonas_, $1\tfrac79$; Dolz: _continet 9 et septem nonas eius_ |
+| modern | | $(\tfrac43)^2=\tfrac{16}9$ | |
+
+**Proposition 18: double the _dupla sesquialtera_ $5:2$.**
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | first term of the chain | $5\times5$ | $25$ |
+| 2 | middle term | $5\times2$ | $10$ |
+| 3 | last term | $2\times2$ | $4$ |
+| 4 | is the upper link $25:10$ twice and a half? | $10+10=20$; $25-20=5$; half of $10$ is $10\div2=5$ | yes; Dolz: _25 ad 10, quae est dupla sesquialtera_ |
+| 5 | is the lower link $10:4$ twice and a half? | $4+4=8$; $10-8=2$; half of $4$ is $4\div2=2$ | yes; Dolz: _10 ad 4, quae est etiam dupla sesquialtera_ |
+| 6 | the ends | $25$ to $4$ | $25:4$, the double |
+| 7 | name it (P2) | $4$ goes into $25$ six times ($6\times4=24$); leftover $25-24=1$, one fourth of $4$ | _sextupla sesquiquarta_, $6\tfrac14$; Dolz: _continet 6 4 et quartam eius_ |
+| modern | | $(\tfrac52)^2=\tfrac{25}4$ | |
+
+**Proposition 19: double the _dupla superbipartiens tertias_ $8:3$.**
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | first term of the chain | $8\times8$ | $64$ |
+| 2 | middle term | $8\times3$ | $24$ |
+| 3 | last term | $3\times3$ | $9$ |
+| 4 | is the upper link $64:24$ twice and two thirds? | $24+24=48$; $64-48=16$; a third of $24$ is $24\div3=8$, and $16$ is two of them ($8+8$) | yes; Dolz: _bis 24 et cum hoc bis 8_ |
+| 5 | is the lower link $24:9$ twice and two thirds? | $9+9=18$; $24-18=6$; a third of $9$ is $9\div3=3$, and $6$ is two of them ($3+3$) | yes; Dolz: _bis novem et duos ternarios_ |
+| 6 | the ends | $64$ to $9$ | $64:9$, the double |
+| 7 | name it (P2) | $9$ goes into $64$ seven times ($7\times9=63$); leftover $64-63=1$, one ninth of $9$ | _septupla sesquinona_, $7\tfrac19$ |
+| modern | | $(\tfrac83)^2=\tfrac{64}9$ | |
+
+The print has _64 ad 6_ in proposition 19 and _septupla_ for _sextupla_ in proposition 18 (see the textual notes).
+
+Dolz concludes: _omnibus visis non erit dabilis aliqua proportio quin possit habere duplam in ordine ad ipsam_, and likewise a triple or a quadruple.
+
+Four observations of ours:
+
+- **One example per family.** The _multiplices_ were doubled on 49a–49b (propositions 9–13); 16 and 17 are _superparticulares_, 18 a _multiplex superparticularis_, 19 a _multiplex superpartiens_. The simple _superpartiens_ is not given. It goes the same way. For _superbipartiens tertias_ $5:3$: chain $5\times5=25$, $5\times3=15$, $3\times3=9$; links $25:15$ and $15:9$, each once and two thirds ($15+10=25$, and $10$ is two thirds of $15$; $9+6=15$, and $6$ is two thirds of $9$); double $25:9$; $9$ goes into $25$ twice ($2\times9=18$), leftover $25-18=7$, seven ninths of $9$: _dupla superseptipartiens nonas_, $2\tfrac79$.
+- **Why doubling never fails.** The chain $a\times a,\ a\times b,\ b\times b$ uses only multiplication, so its terms are always whole numbers. Halving needs a $b$ with $b\times b=a\times c$, which usually does not exist (43b, §22). Proposition 20 rests on this asymmetry, though Dolz does not state it.
+- **The name of the double is not the double of the name.** Doubled, $2\tfrac12$ gives $6\tfrac14$, not $5$; $2\tfrac23$ gives $7\tfrac19$, not $5\tfrac13$. Only the _dupla_, $2\to4$, agrees, by the same coincidence as in the rule destroyed on 49a (§28; P6).
+- **_Dupla_ in two senses in one sentence.** _Proportio dupla sesquiquarta est dupla ad sesquialteram._ The first _dupla_ is part of a species name, $2\tfrac14$; the second is a proportion of proportions, two _sesquialterae_. The double of the _sesquialtera_ is the _dupla sesquiquarta_ $9:4$, not the _dupla sesquialtera_ $5:2$.
+
+### Proposition 20: not every proportion has a _sesquialtera_
+
+First the idea with plain numbers: $3$ is _sesquialtera_ to $2$ because $3$ is $2$ and the half of $2$, $2+1=3$. A proportion is _sesquialtera ad_ another proportion in the same way: when it contains that other proportion and the half of it, as the _quadrupla_ is _dupla ad duplam_ because it contains the _dupla_ twice (49a, §28). _Non tamen oportebit quod quaelibet proportio habeat sesquialteram aut sesquitertiam in ordine ad ipsam._
+
+| Proportion | What is needed | Its half: a whole $b$ with $b\times b$ equal to the product of the terms? | Found? | Dolz |
+| --- | --- | --- | --- | --- |
+| _dupla_ $2:1$ | the _dupla_ and its half | $2\times1=2$; $1\times1=1$ too small, $2\times2=4$ too large: no | no | _medietas duplae non dicatur rationalis, nec inter numeros reperiatur_ |
+| _dupla_ $2:1$, for a _sesquitertia_ | the _dupla_ and its third | a third would be a proportion that, added three times, makes $2:1$; none in whole numbers | no | _nulla reperitur quae contineat ipsam et tertiam partem eius, ut patet discurrendo_ |
+| _tripla_ $3:1$ | the _tripla_ and its half | $3\times1=3$; $1\times1=1$ too small, $2\times2=4$ too large: no | no | _nulla datur quae contineat triplam et medietatem eius_ |
+| _quadrupla_ $4:1$ | the _quadrupla_ and its half | $4\times1=4$; $2\times2=4$: yes, the half is $2:1$, the _dupla_ | yes: the _octupla_ $8:1$, chain $16,8,2$ | _ad minus hoc constat de octupla_ |
+
+**Worked example, the _quadrupla_ and its half.** The same as in P6, repeated here.
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | the half of the _quadrupla_ $4:1$ | $4\times1=4$; $2\times2=4$, so the middle is $2$; chain $4,2,1$ | the _dupla_ $2:1$; Dolz: _eius medietas est dupla_ |
+| 2 | the half first, the _quadrupla_ second: is the right term of $2:1$ the left term of $4:1$? | right term $1$, left term $4$ | no, so rescale |
+| 3 | rescale crosswise (P4) | multiply both terms of $2:1$ by $4$: $2\times4=8$, $1\times4=4$, so $8:4$; the $4:1$ stays | chain $8,4,1$ |
+| 4 | Dolz's terms: every term times $2$ (Rule 1) | $8\times2=16$, $4\times2=8$, $1\times2=2$ | chain $16,8,2$ |
+| 5 | upper link $16:8$ | divide both terms by $8$ | $2:1$, the _dupla_: _sexdecim ad 8, quae est dupla_ |
+| 6 | lower link $8:2$ | divide both terms by $2$ | $4:1$, the _quadrupla_: _8 ad 2, quae est quadrupla_ |
+| 7 | ends | $16:2$; divide both terms by $2$ | $8:1$, the _octupla_ |
+| 8 | count the _duplae_ | _octupla_: chain $8,4,2,1$, three _duplae_; _quadrupla_: chain $4,2,1$, two _duplae_ | three to two: _sesquialtera_ |
+
+```text
+one dupla per step    1 ------ 2 ------ 4 ------ 8
+quadrupla 4:1         1 --------------- 4                2 steps
+octupla 8:1           1 ------------------------ 8       3 steps
+```
+
+The _octupla_ is three steps, the _quadrupla_ two (propositions 9 and 10); three to two is _sesquialtera_, as $3$ is to $2$.
+
+**_Rationalis._** This is the first time the transcription calls a proportion _rationalis_. The claim is limited: _maxime de rationali et de numero praedictarum_. Dolz denies that a _sesquialtera_ of the _dupla_ is found among rational proportions, not that one exists, and he defers the matter (_ut dicemus inferius_).
+
+In modern terms it exists and is the proportion of $2\sqrt2$ to $1$. Here $2\sqrt2$ is one number, $2\times\sqrt2$, about $2.83$; it is the left term of the proportion, and $1$ the right term. It is found exactly as the _octupla_ was found for the _quadrupla_:
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | the half of the _dupla_ $2:1$ | a middle $b$ with $b\times b=2\times1=2$; no whole number works, so (modern) $b=\sqrt2$, about $1.414$ | chain $2,\sqrt2,1$; the half is $\sqrt2:1$ |
+| 2 | add the _dupla_ $2:1$ and its half $\sqrt2:1$: is the right term of $2:1$ the left term of $\sqrt2:1$? | right term $1$, left term $\sqrt2$ | no, so rescale |
+| 3 | rescale crosswise (P4) | multiply both terms of $2:1$ by $\sqrt2$: $2\times\sqrt2=2\sqrt2$, $1\times\sqrt2=\sqrt2$; the $\sqrt2:1$ stays | $2\sqrt2:\sqrt2$ and $\sqrt2:1$ share $\sqrt2$ |
+| 4 | chain | $2\sqrt2,\ \sqrt2,\ 1$ | ends $2\sqrt2:1$ |
+| 5 | size | $2\times1.414\approx2.83$ | between the _dupla_ $2:1$ and the _tripla_ $3:1$ |
+
+In the picture of steps, each step is now a half-_dupla_:
+
+```text
+one half-dupla per step   1 ------ √2 ------ 2 ------ 2√2
+dupla 2:1                 1 ---------------- 2                 2 steps
+sesquialtera to it        1 -------------------------- 2√2     3 steps
+```
+
+Three half-steps to two: _sesquialtera_. The middle terms $\sqrt2$ and $2\sqrt2$ are not whole numbers, and no rescaling makes them whole, which is what Dolz means by _nec inter numeros reperiatur_.
+
+**The _sextupla_ that fails.** Before the _octupla_, Dolz offers another example: _sextupla, quae est 12 ad 2, componitur ex proportione 12 ad 8 et 8 ad 2_. The recipe is the one above: the _quadrupla_ as the lower link $8:2$, and a second link on top of it. Everything depends on which upper link.
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | the _quadrupla_ as the lower link | multiply both terms of $4:1$ by $2$: $4\times2=8$, $1\times2=2$ | $8:2$ |
+| 2 | the upper link Dolz chooses | from $12$ down to $8$ | $12:8$ |
+| 3 | name the upper link (P2) | $8$ goes into $12$ once; leftover $12-8=4$; $4$ is half of $8$ | _sesquialtera_; reduced, divide both terms by $4$: $3:2$ |
+| 4 | chain | $12,\;8,\;2$ | upper link $12:8$, lower link $8:2$ |
+| 5 | ends | $12:2$; divide both terms by $2$: $12\div2=6$, $2\div2=1$ | $6:1$, the _sextupla_ |
+| 6 | what the upper link had to be | the half of the _quadrupla_ | the _dupla_ $2:1$ |
+| 7 | what it is | step 3 | a _sesquialtera_ $3:2$, not the _dupla_ |
+| 8 | verdict | the _sextupla_ is the _quadrupla_ plus a _sesquialtera_ | it exceeds the _quadrupla_ **by** a _sesquialtera_, but is not _sesquialtera_ **to** it |
+
+| Chain | Upper link | Upper link reduced | Is the upper link the half of the _quadrupla_, $2:1$? | Ends | Result |
+| --- | --- | --- | --- | --- | --- |
+| $12,8,2$ | $12:8$ | divide both terms by $4$: $3:2$, _sesquialtera_ | no | $12:2$, reduced $6:1$ | _sextupla_, not _sesquialtera_ to the _quadrupla_ |
+| $16,8,2$ | $16:8$ | divide both terms by $8$: $2:1$, _dupla_ | yes | $16:2$, reduced $8:1$ | _octupla_, _sesquialtera_ to the _quadrupla_ |
+
+Dolz raises the objection himself: _si dicis: nihil probas, quia 12 ad 8 non est medietas quadruplae_. He does not answer it; he falls back on the _octupla_ with _ad minus_. The _sextupla_ example mistakes an upper link whose name is _sesquialtera_ for a _sesquialtera_ of proportions, the very confusion of the note that follows. In the picture of steps, $6$ lies between $4$ and $8$: the _sextupla_ is more than two _duplae_ and less than three, about $2.58$ (modern, $\log6\div\log2$), and about $1.29$ times the _quadrupla_ ($\log6\div\log4$), not $1\tfrac12$. The print has _septupla_ for $12:2$ in both places; the transcription reads _sextupla_, and even so the example fails, as Dolz admits (see the textual notes).
+
+### Exceeding by a proportion and being in a proportion
+
+_Notandum tamen quod refert dicere: haec proportio per hanc proportionem excedit illam, et: in hac proportione est maior illa._
+
+| Phrase | Question | Method | _Tripla_ against _dupla_ | _Octupla_ against _quadrupla_ |
+| --- | --- | --- | --- | --- |
+| _per hanc proportionem excedit illam_ | what must be added to the lesser to make the greater? | subtraction (P5) | $3:1$ minus $2:1$ is $3:2$: exceeds by a _sesquialtera_ | $8:1$ minus $4:1$ is $2:1$: exceeds by a _dupla_ |
+| _in hac proportione est maior illa_ | how many times does the greater contain the lesser? | counting links (P6) | not _sesquialtera_, by proposition 20 | _sesquialtera_: three _duplae_ to two |
+
+_Nos dicimus quod tripla excedit duplam per sesquialteram, et tamen non est sesquialtera ad duplam._ The proof begins: the second part follows from the propositions (proposition 20); the first because _omne compositum ex aliquibus quodcumque illorum per aliud excedit_, and the _tripla_ is composed of the _dupla_ and the _sesquialtera_, chain $3,2,1$. The text breaks off here.
+
+Three observations of ours:
+
+- **The third article announced.** The prooemium (25a) gave the third article two tasks: _cuiuslibet excessum super aliam enucleabit, et qua in proportione una alia proportione erit maior_. These are the two rows of the table. Page 50 separates them before any heading for a third article, and the propositions still continue the numbering of the second. Whether the third article begins on 51 is not yet visible.
+- **Rule 2 one level up.** For numbers, the excess is a difference and the proportion a ratio: $3$ exceeds $2$ by $1$ and is _sesquialtera_ to it (P1, Rule 2). For proportions, the excess is found by subtraction and is itself a proportion; the proportion between them is found by counting. Both answers use the same names, which is why the slip of the _sextupla_ is easy: the _octupla_ exceeds the _quadrupla_ by a _dupla_ and is _sesquialtera_ to it.
+- **What it means for Bradwardine's rule.** A speed one and a half times the speed produced by a _dupla_ needs a proportion _sesquialtera_ to the _dupla_, and proposition 20 says none is found among numbers. Double, triple, and quadruple speeds can always be reached in whole numbers (propositions 16–19); one and a half times, not in general (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-Alvarus-Thomas-and-Galileo.html), section 1.1). Dolz does not draw this consequence; the rules of motion belong to his fifth article.
 
 ---
 
@@ -3315,6 +3692,12 @@ Two observations of ours:
 90. How many times one proportion contains another is counted by composition: the _quadrupla_ is double the _dupla_, the _octupla_ triple, the _sexdecupla_ quadruple; the _sexdecupla_ is double the _quadrupla_, the _nonupla_ double the _tripla_ (49a–49b). Proportions of proportions take the ordinary species names.
 91. Dolz destroys the rule that one proportion exceeds another in the proportion of their denominations: by it the _octupla_ would be quadruple the _dupla_, but it is triple. This is the measure by value, rejected in so many words.
 92. Where no whole count exists, principle 3 gives bounds: the _dupla_ is more than double the _sesquitertia_ and less than double the _sesquialtera_; the _quadrupla_ is less than double the _tripla_ (49b). The exact counts are irrational, and Dolz does not give them.
+93. The _tripla_, composed of the _dupla_ and the _sesquialtera_, is more than double the _sesquialtera_ and less than double the _dupla_ (50a).
+94. Every proportion has a double, a triple, a quadruple, because doubling needs only multiplication: the _sesquialtera_ doubled is the _dupla sesquiquarta_ $9:4$, the _sesquitertia_ the _superseptipartiens nonas_ $16:9$, the _dupla sesquialtera_ the _sextupla sesquiquarta_ $25:4$, the _dupla superbipartiens tertias_ the _septupla sesquinona_ $64:9$ (50a–50b). Not every proportion has a half (43b).
+95. Doubling a proportion does not double its denomination: $2\tfrac12$ doubled is $6\tfrac14$, not $5$.
+96. Not every proportion has a _sesquialtera_ or _sesquitertia_ of proportions, one containing it and its half or third. The _dupla_ and _tripla_ have none among rational proportions, since the half of the _dupla_ _non dicatur rationalis, nec inter numeros reperiatur_; the _quadrupla_ has one, the _octupla_ (50b). The irrational is deferred (_ut dicemus inferius_).
+97. The _sextupla_ $12:2$, made of $12:8$ and $8:2$, exceeds the _quadrupla_ by a _sesquialtera_ but is not _sesquialtera_ to it; Dolz states the objection and falls back on the _octupla_.
+98. To exceed by a proportion and to be greater in a proportion differ: the _tripla_ exceeds the _dupla_ by a _sesquialtera_ but is not _sesquialtera_ to it. The first is subtraction, the second counting by composition; they are the two tasks the prooemium gave the third article (25a).
 
 ---
 
@@ -3399,3 +3782,8 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 49b | proportione **6** ad 3, quae est tripla | **9** (adopted) | $6:3$ is _dupla_; the _nonupla_ $9:1$ is made of $9:3$ and $3:1$ |
 | 49b | minus quam dupla ad **sesquitertiam** (the second) | **sesquialteram** (adopted) | Principle 3: less than double the greater link, and the _sesquialtera_ is the greater; the first _sesquitertiam_ (_magis quam dupla_) stands |
 | 49b | **nonnumquam** ex duabus triplis componitur | **numquam** (adopted) | The proposition denies that the _quadrupla_ is double the _tripla_; cf. _numquam proportio dupla componitur ex duabus sesquialteris_ in proposition 14 |
+| 50a | 25 ad 4… est **septupla** sesquiquarta | **sextupla** (adopted) | $25=6\times4+1$; Dolz's own gloss _continet 6 4 et quartam eius_ |
+| 50b | Igitur **64 ad 6** | **64 ad 9** (adopted) | The chain is $64,24,9$; the name _septupla sesquinona_ fits $64:9$ only |
+| 50b | est dupla ad **superbipartientem tertiam** | _(left as printed)_ | Short for _ad duplam superbipartientem tertias_, $8:3$. Double the simple _superbipartiens tertias_ $5:3$ would be $25:9$ |
+| 50b | **septupla** est sesquialtera ad quadruplam; **septupla**, quae est 12 ad 2 | **sextupla** (adopted) | $12:2=6:1$, made of $12:8$ and $8:2$. Even emended the claim fails, as Dolz's own objection says (_12 ad 8 non est medietas quadruplae_); the valid example is the _octupla_ |
+| 50b | Secunda pars patet ex **proportionibus** | **propositionibus** (adopted; conjectural) | The second part, that the _tripla_ is not _sesquialtera_ to the _dupla_, follows from proposition 20. On 45b the same word was read _propositiones_ |

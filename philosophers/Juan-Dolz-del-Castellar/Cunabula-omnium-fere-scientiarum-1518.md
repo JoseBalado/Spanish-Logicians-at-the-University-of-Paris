@@ -1414,7 +1414,7 @@ Decimanona propositio: dupla superbipartiens tertias etiam habet duplam in ordin
 
 Vigesima propositio: non tamen oportebit quod quaelibet proportio habeat sesquialteram aut sesquitertiam in ordine ad ipsam. Hoc patet: dupla non habet sesquialteram ad ipsam. Patet, quia illa deberet continere duplam et medietatem eius, sed nulla reperitur quae contineat duplam et eius medietatem, maxime de rationali et de numero praedictarum, cum medietas duplae non dicatur rationalis, nec inter numeros reperiatur, ut dicemus inferius. Et etiam non poterit habere aliquam talem sesquitertiam ad ipsam, nam nulla reperitur quae contineat ipsam et tertiam partem eius, ut patet discurrendo. Similiter proportio tripla non habet aliquam sesquialteram ad ipsam, nam nulla datur quae contineat triplam et medietatem eius. Secus est de quadrupla, quae bene habet sesquialteram ad ipsam, nam datur aliqua continens ipsam et eius medietatem, nam, ut patet ex dictis, eius medietas est dupla. Modo sextupla est sesquialtera ad quadruplam, nam sextupla, quae est 12 ad 2, componitur ex proportione 12 ad 8 et 8 ad 2. Si dicis: nihil probas, quia 12 ad 8 non est medietas quadruplae; ad minus hoc constat de octupla, quae continet quadruplam et duplam: sexdecim ad 8, quae est dupla, et 8 ad 2, quae est quadrupla.
 
-Notandum tamen quod refert dicere: haec proportio per hanc proportionem excedit illam, et: in hac proportione est maior illa. Nam nos dicimus quod tripla excedit duplam per sesquialteram, et tamen non est sesquialtera ad duplam. Secunda pars patet ex proportionibus; prima patet: omne compositum ex aliquibus /51a/ quodcumque illorum per aliud excedit tripla componitur ex dupla sesquialtera. 
+Notandum tamen quod refert dicere: haec proportio per hanc proportionem excedit illam, et: in hac proportione est maior illa. Nam nos dicimus quod tripla excedit duplam per sesquialteram, et tamen non est sesquialtera ad duplam. Secunda pars patet ex propositionibus; prima patet: omne compositum ex aliquibus /51a/ quodcumque illorum per aliud excedit tripla componitur ex dupla et sesquialtera. 
 
 
 <!--
@@ -1509,5 +1509,6 @@ Page 50a: continet 6 4 ] sic (i.e. sexies 4)
 Page 50b: 64 ad 9 ] emend. 64 ad 6 (septupla sesquinona; composed of 64 ad 24 and 24 ad 9)
 Page 50b: sextupla ] emend. septupla, (septupla est sexquialtera ad quadruplam)
 Page 50b: sextupla ] emend. septupla, (septupla quae est 12 ad 2)
+Page 50b: propositionibus ] conj. proportionibus (secunda pars follows from propositio vigesima; cf. 45b)
 
 -->

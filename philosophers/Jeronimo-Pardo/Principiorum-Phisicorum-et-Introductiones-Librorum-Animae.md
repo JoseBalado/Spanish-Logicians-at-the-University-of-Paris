@@ -1139,6 +1139,31 @@ Notandum quod species dividitur, quia quaedam est species sensibilis sensus exte
   * phantastica sensus interioris
   * intelligibilis seu intellectus
 
+/50a/
+
+Unde pro declaratione speciei sensibilis sensus exterioris ponuntur aliquae proprietates.
+
+Prima proprietas: cogimur ponere species sensibiles sensuum exteriorum, hoc probatur per aliquas experientias quas videmus. Prima experientia est de speculo, nam nos videmus per experientiam quod video me in speculo, et non nisi gratia me causatur aliquae species; igitur opus est ponere species. Secunda experientia: res aliqua, secundum quod videtur per alium et alium medium, apparet maior vel minor, ut capiatur pyramis et ponatur in aqua: apparet maior quam in exemplum aquam. Et hoc non est nisi propter diversum modum causandi suas species.
+
+Unde dico quod multi doctores discordaverunt in hoc, scilicet an essent ponendae species sensibiles sensus exterioris. Dico tamen quod diversitas est inter doctores an istae species sensibiles sint eiusdem speciei cum obiecto a quo causantur. Nam tenet Guilhelmus Ockham in *Quodlibeto* quod sint eiusdem speciei cum obiecto, ut albedo causat suas species, id est albedines quasdam inesse remisso. Sed ista opinio reprehenditur ab omnibus bonis doctoribus, et signanter a Gregorio in *Primo*, et ideo tenebimus quod illae species sunt alterius speciei cum obiecto a quo causantur.
+
+Secunda proprietas: species sensibilis sensus exterioris a solo obiecto causantur, saltem primae. Ex quo sequitur quod nullo modo causatur a sensu exteriori, hoc postea declarabitur.
+
+Tertia proprietas: species sensibiles sensus exterioris non recipiuntur /50b/ in anima nec in sensu exteriori.
+
+Quarta proprietas: species sensibiles sensus exterioris recipiuntur in organo sensus exterioris, id est in illis nervis qui sunt organum sensus exterioris.
+
+Quinta proprietas: prius causantur species sensibiles in medio per quod potentia sentit quam causentur in ipso organo. Et pro declaratione istius materiae veniendum est ad sensus exteriores et videre de obiecto cuiuslibet.
+
+Et primo videndum est de visu, et gratia exempli capiatur color; tunc dico quod iste est ordo: nam color causat species visibiles in aere, secundo causat species visibiles in organo, et tertio causat visionem in potentia visiva. Et de tali visione est difficultas utrum illa visio quae tertio causatur causetur ab aliqua specie visiva.
+
+Respondo ponendo talem regulam:
+
+> Omnis notitia inquantum causatur a specie est aenigmatica et obscura.
+
+Ergo si illa visio causaretur a specie albedinis, non esset clara et intuitiva, sed esset solum obscura et abstractiva. Et ideo notandum quod notitia ideo vocatur abstractiva eo quod causatur a specie et a similitudine rei.
+
+Sed pro fundamento huius est quod omnes doctores communes volunt negare quod sensus exterior causet notitias abstractivas. Ex quo sequitur quod probabile est negare notitias sensitivas sensus exterioris posse causari a speciebus sensibilibus, et ratio est quia si causaretur a speciebus sensibilibus, iam essent abstractivae et obscurae. Et si quaeratur quid ergo facit species illa sensibilis sensus exterioris, respondetur quod non est causa sed /51a/
 
 <!--
 ## Apparatus Criticus Reference

@@ -1175,7 +1175,21 @@ Ex quo sequitur quod differunt lux et lumen, quia lux recipitur in corpore denso
 
 Sed quaeritur una quaestio quam quaerunt philosophi, videlicet utrum quando non aspicio caelum, videam illam lucem solis. Diceret aliquis quod sic. Sed contra: impossibile est videre accidens nisi videatur eius subiectum per accidens; sed non video subiectum; ergo. Patet quia si viderem solem, viderem eius rotunditatem.
 
-Pro solutione notandum est quod opinio domini de Aliaco et multorum philosophorum: quod non existens directe versus solem videt lucem solis. Sed nolumus tenere istam opinionem propter argumentum quod venit ad oppositum. Et probatur sic: quia si videat solem, videbit lucem, et ultra ergo videbit aliquam rem. Sed hoc est falsum, igitur. Sed si quaeratur quid ergo videtur, respondetur quod videtur istud lumen. Contra: si istud lumen videretur, diffunderet suas species visibiles. Concedo. /52a/
+Pro solutione notandum est quod opinio domini de Aliaco et multorum philosophorum: quod non existens directe versus solem videt lucem solis. Sed nolumus tenere istam opinionem propter argumentum quod venit ad oppositum. Et probatur sic: quia si videat solem, videbit lucem, et ultra ergo videbit aliquam rem. Sed hoc est falsum, igitur. Sed si quaeratur quid ergo videtur, respondetur quod videtur istud lumen. Contra: si istud lumen videretur, diffunderet suas species visibiles. Concedo. /52a/ Immo non est inconveniens; immo dico quod lumen videtur mediantibus suis speciebus. Ex quo sequitur quod falsa est illa opinio quae dicit quod aliquod commune ad lucem et ad colorem est obiectum visus, immo quod lumen etiam cadit sub obiecto visus.
+
+Sed de colore dico quod est una qualitas quae recipitur subiective in corpore denso et terminato et opaco. Unde corpora opaca sunt quaedam loca obscura et tenebrosa, et in istis recipitur color subiective. Et de colore dico quod diffundit suos radios visuales sive suas species visibiles.
+
+Sed dubium est an radii visuales qui diffunduntur a colore possint videri. Et de hoc est magna difficultas apud doctores, et Scotus tenet in *Quodlibeto* quod possunt videri, et ad hoc adduco experientiam: nam quando sol transit per ulnam rubeam, tunc apparent species rubedinis seu radii rubedinis. Ex hoc sumitur [ulterius argumentum/olram] ad probandum quod species sunt eiusdem speciei cum obiecto cuius sunt species. Patet quia illa rubedo quae est in pariete videtur eiusdem speciei cum rubedine vitrine, et illa est species; ergo species sunt eiusdem speciei cum obiecto.
+
+Notandum est ulterius quod color non potest causare suas species visibiles nisi mediante lumine, et ideo dicitur communiter quod lumen requiritur ad videndum. Et ideo difficultas est an lumen concurrat partialiter cum colore ad producendum species coloris. Gregorius tenet quod sic, et alii tenent quod non. Et teneatur quidquid /52b/ placuerit de hoc.
+
+Nunc consequenter pro maiori declaratione quaero aliquas quaestiones, quarum prima est quis modus causandi species visibiles, an videlicet causentur per lineam rectam vel quomodo causantur.
+
+Pro solutione est notandum quod triplex est linea: quaedam est linea recta, alia est linea reflexa, alia vero refracta. Linea recta est quae procedit in longum continuo sine aliqua reversione. Sed linea reflexa est illa quae procedit ut ad aliquod punctum, et per illud punctum revertitur alia quae componit unam totam lineam. Sed linea refracta est linea quae revertitur modo fracto et curvo.
+
+Tunc dico quod rei physicae causatur species visibiles uno modo per lineam rectam, alio modo per lineam reflexam. Unde tunc multiplicantur per lineam rectam: quando visibile causat suas species per aliquod medium perspicuum seu sibi conveniens ad agendum, ita quod non invenit aliquod obstaculum donec ad illum locum ad quem potest agere, seu donec ad illum locum ad quem virtus sua se extendit, tunc causat suas species visibiles per lineam rectam.
+
+Pro quo est notandum quod nullum agens naturale potest agere per infinitam distantiam. Et ideo quia agit per medium uniforme et non invenit obstaculum, agit quantum potest per lineam rectam donec ad certum punctum. Ideo dicunt mathematici quod linea recta est brevis inter lineas omnes, et ideo agens naturale maxime inclinatur agere secundum lineam /53a/ rectam.
 
 <!--
 ## Apparatus Criticus Reference
@@ -1207,5 +1221,9 @@ Page 42b: Sicut ] sic
 Page 47b: potentia collativa est collativa ] sic
 Page 47b: in complexam ] del. in in complexam
 Page 49b: pertractabitur ] conj. praticabit'
+Page 52a: videri ] emend. videre
+Page 52a: Quodlibeto ] conj. cohbeto
+Page 52b: quis ] conj. qms
+Page 52b: physicae ] conj. phr
 
 -->

@@ -38,7 +38,7 @@ The surviving text therefore supports the conclusion that Dolz deliberately atte
 
 ## Primer: calculating with proportions
 
-The commentary below assumes a few elementary operations with proportions. They are set out here once, with every step shown. In each case the medieval method comes first and the modern check after it. The rules are ours, distilled from Dolz's examples; the page and section references show where each is used.
+The commentary below assumes a few elementary operations with proportions. They are set out here once, with every step shown. In each case the medieval method comes first and the modern check after it. The rules are ours, distilled from Dolz's examples, except where Dolz states one himself, as the rule of excess on 51a (P5); the page and section references show where each is used.
 
 **Notation.**
 
@@ -338,7 +338,7 @@ The order of adding does not matter. $4:3$ plus $3:2$ and $3:2$ plus $4:3$ both 
 
 ### P5. Subtracting proportions
 
-Used on 40a (§19). Subtracting is adding run backwards.
+Used on 40a (§19) and 50b–51a (§29–§30). Subtracting is adding run backwards.
 
 - **The whole** is the proportion subtracted from, as in "take a fifth away from an octave", where the octave $2:1$ is the whole. It is called the whole because the answer and the part removed, added together (P4), make it up.
 - **The part removed** is the proportion taken away: here the fifth $3:2$.
@@ -365,7 +365,7 @@ Steps for the whole $a:b$ minus the part removed $c:d$.
 4. Reduce and name (P2).
 5. Check that the answer plus the part removed gives the whole (P4).
 
-In one line, $a:b$ minus $c:d$ is the proportion of $a\times d$ to $b\times c$.
+In one line, $a:b$ minus $c:d$ is the proportion of $a\times d$ to $b\times c$. This one-line form is not ours: it is the received _regula_ Dolz gives on 51a (§30, Example G).
 
 **Example A. $2:1$ minus $3:2$** (octave minus fifth).
 
@@ -440,6 +440,22 @@ answer         3 ------- 2
 The answer is $3:2$, _sesquialtera_. Check by adding back, $3:2$ plus $2:1$, chain $3,2,1$, ends $3:1$. Modern check, $3\div2=\tfrac32$.
 
 Dolz's phrase for the answer of a subtraction is _excedit per_: _tripla excedit duplam per sesquialteram_ (50b, §29). The answer says what the greater exceeds the lesser **by**. It does not say how many times the greater contains the lesser: the _tripla_ is **not** _sesquialtera_ to the _dupla_ (P6).
+
+**Example G. Dolz's _regula_ (51a).** _Capiendi sunt numeri illarum proportionum, et multiplicare maximum unius cum minimo alterius et maximum alterius cum minimo illius, et videre qualis erit proportio inter numeros multiplicatos._ His example is the _tripla_, which he writes as $12:4$, against the _dupla_ $2:1$.
+
+| Step | Dolz's words | Work | Result |
+| --- | --- | --- | --- |
+| 1 | _numeros triplae, scilicet 12 ad 4_ | greatest $12$, least $4$ | |
+| 2 | _numeros duplae, scilicet duorum ad unum_ | greatest $2$, least $1$ | |
+| 3 | _maximum unius cum minimo alterius_ | $12\times1$ | $12$ |
+| 4 | _maximum alterius cum minimo illius_ | $2\times4$ | $8$ |
+| 5 | _qualis erit proportio inter numeros multiplicatos_ | $12:8$; divide both terms by $4$ | $3:2$, _sesquialtera_ |
+| ladder | the same by the steps above | the right terms are $4$ and $1$: the _tripla_ stays $12:4$, the _dupla_ times $4$ is $8:4$; chain $12,8,4$ | answer $12:8$, the same numbers |
+| modern | | $3\div2=\tfrac32$ | |
+
+The _regula_ is the ladder method with the drawing left out: the two products are exactly the two left terms after both proportions are given the same right term. Dolz's choice of $12:4$ instead of $3:1$ changes nothing (Rule 1): $3\times1=3$ and $2\times1=2$ give $3:2$ at once. The _regula_ does not say which product goes on the left; the one containing the greater proportion's greatest term must, or the answer comes out reversed, a lesser inequality (Example E).
+
+Dolz's analogy from quantities: _quinquepedale per tripedale excedit bipedale, tamen non propterea est triplum ad bipedale_. Five feet exceed two feet by three feet without being triple two feet, just as the _tripla_ exceeds the _dupla_ by a _sesquialtera_ without being _sesquialtera_ to it.
 
 ### P6. Doubling, tripling, and halving a proportion
 
@@ -686,7 +702,7 @@ In the picture of steps, $6$ is not on the line of _duplae_ at all: it falls bet
 | _excedit per_ | what must be added to the lesser to make the greater? | subtract (P5) | $3:1$ minus $2:1$ is $3:2$ (P5, Example F): by a _sesquialtera_ | $8:1$ minus $4:1$: both right terms $1$, answer $8:4$, which is $2:1$: by a _dupla_ |
 | _est ad_, _in hac proportione est maior_ | how many times does the greater contain the lesser? | count links | not _sesquialtera_, since the _dupla_ has none | three _duplae_ to two: _sesquialtera_ |
 
-The same pair, _octupla_ and _quadrupla_, gets two different names: it differs **by** a _dupla_ and stands **in** a _sesquialtera_. This is Rule 2 one level up: for numbers, $3$ exceeds $2$ by $1$ and is _sesquialtera_ to it.
+The same pair, _octupla_ and _quadrupla_, gets two different names: it differs **by** a _dupla_ and stands **in** a _sesquialtera_. This is Rule 2 one level up: for numbers, $3$ exceeds $2$ by $1$ and is _sesquialtera_ to it. Dolz draws the same analogy on 51a with feet: five feet exceed two by three feet, but are not triple two feet (P5, Example G).
 
 **One proportion per dimension (47b).** A body two feet long, wide, and deep against a body one foot each way. In each dimension the proportion is the _dupla_ $2:1$. Dolz cuts the larger body into one-foot pieces and counts eight, so the bodies stand in the _octupla_ $8:1$ (§26). Each cut in half doubles the count and adds one _dupla_ to the chain.
 
@@ -957,6 +973,54 @@ Four obstacles stood in the way:
 - **No demand yet.** The demand came from large trigonometric calculations in late-16th-century astronomy, which until then were handled by prosthaphaeresis (turning products into sums by trigonometric identities).
 - **The labour.** Bürgi and Napier each spent years computing their tables by hand.
 
+### P10. Dividing a body by proportional parts
+
+Used on 51a–51b (§30). The fourth article divides a body _per partes proportionales_. Dolz's first preamble: parts _eiusdem quantitatis_ are equal in extension; parts _eiusdem proportionis_ each stand to the next in one and the same proportion, _secundum ordinem proportionis duplae vel triplae et caetera_. Dolz has not yet shown how the division is made (_ut patebit inferius_, 51b). The construction below is the usual one in the Calculators' literature and will be checked against his when the transcription reaches it.
+
+Steps for dividing a whole by proportional parts in a proportion $p:q$ of greater inequality.
+
+1. Cut the whole so that **the whole is to what is left** as $p:q$. The piece cut off is the first part.
+2. Cut what is left in the same way, so that it is to its own remainder as $p:q$. The piece cut off is the second part.
+3. Go on without end.
+
+Each remainder is to the next as $p:q$, and each part is the same share of its remainder, so the parts are to one another as $p:q$ too.
+
+**Worked example: a line of one foot divided by the _sesquialtera_ $3:2$.**
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | what is left after the first cut? | the foot must be to it as $3$ to $2$: two thirds of the foot | two thirds |
+| 2 | first part | the foot less two thirds | one third |
+| 3 | what is left after the second cut? | two thirds of the two thirds: $\tfrac23$ is $\tfrac69$, and two thirds of six ninths is four ninths | four ninths |
+| 4 | second part | six ninths less four ninths | two ninths |
+| 5 | is the first part to the second a _sesquialtera_? | one third is three ninths; three ninths to two ninths is $3:2$ | yes |
+| 6 | third part | four ninths is twelve twenty-sevenths; what is left is two thirds of it, eight twenty-sevenths; twelve less eight | four twenty-sevenths; two ninths (six twenty-sevenths) to four is $3:2$ |
+
+The same for the two species Dolz names:
+
+| Proportion | What is left after the first cut | First part | Second part | Third part | First part to second |
+| --- | --- | --- | --- | --- | --- |
+| _dupla_ $2:1$ | one half | one half | one fourth | one eighth | two fourths to one fourth, $2:1$ |
+| _tripla_ $3:1$ | one third | **two thirds** | two ninths | two twenty-sevenths | six ninths to two ninths, $3:1$ |
+| _sesquialtera_ $3:2$ | two thirds | one third | two ninths | four twenty-sevenths | three ninths to two ninths, $3:2$ |
+
+In the _tripla_ the first part is two thirds, not one third: the third is what is left. The proportion fixes the parts to one another, not the size of the first part as a fraction named after the species.
+
+**The picture, _minoribus terminatis versus b_** (fourth preamble), for the _dupla_:
+
+```text
+a |------------ 1/2 ------------|----- 1/4 -----|- 1/8 -|-|-|...| b
+   first (greatest) part          second          third     smaller and smaller toward b
+```
+
+Read from $a$, the order of the division, there is a first part, the greatest, and no last: every part has a smaller one after it toward $b$ (fifth preamble). After any number of cuts something is still left, half, a fourth, an eighth of the foot, and it becomes less than any given part but never nothing. So the parts are infinitely many, and all together they make up the whole. A body of one foot and one of a hundred feet have equally many _dupla_ parts, infinitely many each; in the larger each part is a hundred times bigger (second preamble).
+
+| Medieval | Modern |
+| --- | --- |
+| _dupla_ parts make up the foot | $\tfrac12+\tfrac14+\tfrac18+\dots=1$ |
+| parts in any $p:q$ make up the whole | $\tfrac{p-q}{p}\left(1+\tfrac qp+\left(\tfrac qp\right)^2+\dots\right)=1$ |
+| no last part toward $b$ | the series has no last term |
+
 ### Summary
 
 | Medieval operation | Method | Example | Modern equivalent |
@@ -965,22 +1029,23 @@ Four obstacles stood in the way:
 | naming | count, remainder, reduce; lesser term to unity (45a) | $5:2$ _dupla sesquialtera_ | mixed number $2\tfrac12$ |
 | adding | chain through a shared middle | $4:3+3:2=2:1$ | multiply |
 | subtracting | remove the part from the end of the whole | $2:1-3:2=4:3$ | divide |
-| exceeding by (_excedit per_) | subtract (50b) | the _tripla_ exceeds the _dupla_ by a _sesquialtera_ | divide |
+| exceeding by (_excedit per_) | subtract (50b); Dolz's _regula_: greatest term of each times least term of the other (51a) | the _tripla_ $12:4$ against the _dupla_ $2:1$: $12\times1$ to $2\times4$, $12:8$, a _sesquialtera_ | divide |
 | doubling, tripling | add to itself; always possible (50a–50b) | $3:2$ doubled is $9:4$, _dupla sesquiquarta_; $5:2$ doubled is $25:4$ | square, cube |
 | bodies and surfaces | one link per dimension (47b) | sides $2:1$, cubes $8:1$ | cube of the side ratio |
 | halving | _medium proportionale_; not always possible, the half of the _dupla_ is not rational (50b) | half of $9:4$ is $3:2$ | square root |
 | comparing | denomination, whole number first (46a–46b); leftovers to the same number of parts (48b); cross-multiply; or whole and part; only within one kind (48a) | $3:2>4:3$; $2:1>3:2$; $10:3>5:2$; $\tfrac24>\tfrac25$ | compare fractions |
 | how many times (_est ad_) | count links (49a–49b), never divide denominations; if no whole count, bound it by principle 3; a count may be a _sesquialtera_ (50b) | $8:1$ is three _duplae_, not four; $4:1$ is between one and two _triplae_; $8:1$ is _sesquialtera_ to $4:1$ | ratio of logarithms, not of values |
+| dividing by proportional parts | cut so that the whole is to what is left as the proportion; repeat without end (51a–51b; P10) | _dupla_: $\tfrac12,\tfrac14,\tfrac18,\dots$; _tripla_: $\tfrac23,\tfrac29,\tfrac2{27},\dots$ | geometric series |
 
 ### Still to come
 
-The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles, its principles, the general rule of greater proportion, and the order of the species (43a–46b, §22–§25) are covered by P1, P2, and P4–P7; the cube of 47b (§26) by P6; the comparisons of 48a–49a (§27) by P7; the proportion of proportions of 49a–50b (§28–§29) by P5 and P6. Dolz has promised an account of _communicatio proportionum_, overlapping proportions (43a), and of proportions that are not rational (_ut dicemus inferius_, 50b). The prooemium (25a) gives the third article the excess of one proportion over another and the proportion in which one is greater than another; page 50 has separated the two (P5, Example F; P6). It further announces division by proportional parts and the rules of motion. Operations needed for them will be added here as the transcription reaches them.
+The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles, its principles, the general rule of greater proportion, and the order of the species (43a–46b, §22–§25) are covered by P1, P2, and P4–P7; the cube of 47b (§26) by P6; the comparisons of 48a–49a (§27) by P7; the proportion of proportions of 49a–51b (§28–§30) by P5 and P6. Dolz has promised an account of _communicatio proportionum_, overlapping proportions (43a), and of proportions that are not rational (_ut dicemus inferius_, 50b). The prooemium (25a) gives the third article the excess of one proportion over another and the proportion in which one is greater than another, and asks _quae regula dari valeat_. Page 50 separated the two questions (P5, Example F; P6); page 51a gives the rule for the first (P5, Example G) and closes both articles. The fourth article, division by proportional parts, begins on 51a with six preambles (P10); Dolz has not yet shown how the division is made. The rules of motion belong to the fifth article. Operations needed for them will be added here as the transcription reaches them.
 
 ---
 
 # Preambles, proportion, and proportionality
 
-**Pages 25a–50b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals; the answers to the seven questions of page 29; the aliquot parts of the infinite, which close the first article; and the first four preambles of the second article, on the parts of a proportion; and its fifth preamble and first four principles, on the composition of proportions; the least terms and the general rule of greater proportion; and the order of the species by size, with an argument from Dullaert and its answer; two physical objections to the definition of _dupla_; and the incomparability of greater inequality, equality, and lesser inequality, with the remaining orders of the species; and the proportion of proportions, with the double of every proportion, the _sesquialtera_ of proportions, and the difference between exceeding by a proportion and being in one.
+**Pages 25a–51b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals; the answers to the seven questions of page 29; the aliquot parts of the infinite, which close the first article; and the first four preambles of the second article, on the parts of a proportion; and its fifth preamble and first four principles, on the composition of proportions; the least terms and the general rule of greater proportion; and the order of the species by size, with an argument from Dullaert and its answer; two physical objections to the definition of _dupla_; and the incomparability of greater inequality, equality, and lesser inequality, with the remaining orders of the species; and the proportion of proportions, with the double of every proportion, the _sesquialtera_ of proportions, and the difference between exceeding by a proportion and being in one; the received rule for the excess of one proportion over another, which closes the second and third articles; and the six preambles of the fourth article, on division by proportional parts.
 
 ## 1. Why the metaphysics comes first
 
@@ -3403,7 +3468,7 @@ Two observations of ours:
 
 ## 29. Every proportion has a double; not every one has a _sesquialtera_ (50a–50b)
 
-Page 50 ends proposition 15 and adds propositions 16 to 20. Propositions 16–19 show that every proportion has a double; proposition 20, that not every proportion has a _sesquialtera_ or a _sesquitertia_. A closing note separates exceeding by a proportion from being in a proportion. The transcription breaks off at the turn to 51a, in the middle of that note's proof.
+Page 50 ends proposition 15 and adds propositions 16 to 20. Propositions 16–19 show that every proportion has a double; proposition 20, that not every proportion has a _sesquialtera_ or a _sesquitertia_. A closing note separates exceeding by a proportion from being in a proportion; its proof runs on to 51a (§30).
 
 ### Proposition 15 concluded (50a)
 
@@ -3588,13 +3653,119 @@ _Notandum tamen quod refert dicere: haec proportio per hanc proportionem excedit
 | _per hanc proportionem excedit illam_ | what must be added to the lesser to make the greater? | subtraction (P5) | $3:1$ minus $2:1$ is $3:2$: exceeds by a _sesquialtera_ | $8:1$ minus $4:1$ is $2:1$: exceeds by a _dupla_ |
 | _in hac proportione est maior illa_ | how many times does the greater contain the lesser? | counting links (P6) | not _sesquialtera_, by proposition 20 | _sesquialtera_: three _duplae_ to two |
 
-_Nos dicimus quod tripla excedit duplam per sesquialteram, et tamen non est sesquialtera ad duplam._ The proof begins: the second part follows from the propositions (proposition 20); the first because _omne compositum ex aliquibus quodcumque illorum per aliud excedit_, and the _tripla_ is composed of the _dupla_ and the _sesquialtera_, chain $3,2,1$. The text breaks off here.
+_Nos dicimus quod tripla excedit duplam per sesquialteram, et tamen non est sesquialtera ad duplam._ The proof begins: the second part follows from the propositions (proposition 20); the first because _omne compositum ex aliquibus quodcumque illorum per aliud excedit_, and the _tripla_ is composed of the _dupla_ and the _sesquialtera_, chain $3,2,1$. The proof is completed on 51a (§30): _ergo excedit duplam per sesquialteram_.
 
 Three observations of ours:
 
-- **The third article announced.** The prooemium (25a) gave the third article two tasks: _cuiuslibet excessum super aliam enucleabit, et qua in proportione una alia proportione erit maior_. These are the two rows of the table. Page 50 separates them before any heading for a third article, and the propositions still continue the numbering of the second. Whether the third article begins on 51 is not yet visible.
-- **Rule 2 one level up.** For numbers, the excess is a difference and the proportion a ratio: $3$ exceeds $2$ by $1$ and is _sesquialtera_ to it (P1, Rule 2). For proportions, the excess is found by subtraction and is itself a proportion; the proportion between them is found by counting. Both answers use the same names, which is why the slip of the _sextupla_ is easy: the _octupla_ exceeds the _quadrupla_ by a _dupla_ and is _sesquialtera_ to it.
+- **The third article announced.** The prooemium (25a) gave the third article two tasks: _cuiuslibet excessum super aliam enucleabit, et qua in proportione una alia proportione erit maior_. These are the two rows of the table. Page 50 separates them before any heading for a third article, and the propositions still continue the numbering of the second. Page 51a confirms that no heading follows: Dolz gives the rule the prooemium asked for and closes _his articulis_, the second and third together (§30).
+- **Rule 2 one level up.** For numbers, the excess is a difference and the proportion a ratio: $3$ exceeds $2$ by $1$ and is _sesquialtera_ to it (P1, Rule 2). For proportions, the excess is found by subtraction and is itself a proportion; the proportion between them is found by counting. Both answers use the same names, which is why the slip of the _sextupla_ is easy: the _octupla_ exceeds the _quadrupla_ by a _dupla_ and is _sesquialtera_ to it. On 51a Dolz makes the comparison himself, with five feet and two (§30).
 - **What it means for Bradwardine's rule.** A speed one and a half times the speed produced by a _dupla_ needs a proportion _sesquialtera_ to the _dupla_, and proposition 20 says none is found among numbers. Double, triple, and quadruple speeds can always be reached in whole numbers (propositions 16–19); one and a half times, not in general (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-Alvarus-Thomas-and-Galileo.html), section 1.1). Dolz does not draw this consequence; the rules of motion belong to his fifth article.
+
+---
+
+## 30. The rule of excess, and the fourth article: division by proportional parts (51a–51b)
+
+Page 51 completes the proof of the note of 50b. It then gives a received rule for the excess of one proportion over another, with three corollaries, and declares the articles finished: _Et sic patet quid de his articulis dicendum sit_. The fourth article, division by proportional parts, opens with six preambles, as the prooemium said every article would (_In his articulis praeambula semper praemittam_, 25a). Dolz then goes back to the proportion of proportions for a twenty-first proposition, and stops because such propositions could be multiplied without end. The sentence runs on to 52a.
+
+### The note concluded (51a)
+
+| | Dolz |
+| --- | --- |
+| major | _omne compositum ex aliquibus quodcumque illorum per aliud excedit_ |
+| minor | _tripla componitur ex dupla et sesquialtera ex dictis_ (chain $3,2,1$, 50b) |
+| conclusion | _ergo excedit duplam per sesquialteram_ |
+
+The major is the composition of proportions of 44a (§23) read as subtraction: if the whole is made of two parts, taking one away leaves the other (P5).
+
+### The _regula_ of excess
+
+_Solet tamen poni una regula ad cognoscendum per quam proportionem una proportio excedat aliam_: take the terms of both proportions, multiply the greatest term of each by the least of the other, and the proportion between the two products is the excess. The prooemium had said of the third article _sed quae regula dari valeat inquiremus_ (25a). This is the rule, and _solet poni_ marks it as received, not Dolz's own. It is our one-line subtraction of P5, $a:b$ minus $c:d$ is $a\times d$ to $b\times c$; Dolz's example is worked there (Example G).
+
+| The greater | The lesser | Greatest of the greater times least of the lesser | Greatest of the lesser times least of the greater | Excess | Source |
+| --- | --- | --- | --- | --- | --- |
+| _tripla_ $12:4$ | _dupla_ $2:1$ | $12\times1=12$ | $2\times4=8$ | $12:8$, reduced $3:2$, _sesquialtera_ | Dolz |
+| _octupla_ $8:1$ | _quadrupla_ $4:1$ | $8\times1=8$ | $4\times1=4$ | $8:4$, reduced $2:1$, _dupla_ | ours (50b, §29) |
+| _dupla_ $2:1$ | _sesquialtera_ $3:2$ | $2\times2=4$ | $3\times1=3$ | $4:3$, _sesquitertia_: the octave exceeds the fifth by the fourth | ours (40b, §19) |
+
+_Sed non propterea est maior dupla in sesquialtera_, and the analogy: _quinquepedale per tripedale excedit bipedale, tamen non propterea est triplum ad bipedale_. Five feet exceed two feet by three feet but are not triple two feet. This is the analogy we drew on 50b (§29, Rule 2 one level up), now in Dolz's own words.
+
+Two observations of ours:
+
+- **One rule, not two.** The prooemium gave the third article two questions and asked what rule could be given. Page 51a answers the first with a rule. For the second, how many times one proportion contains another, the only rule offered, by denominations, was destroyed on 49a (§28), and propositions 14, 15, and 20 showed that the count is often not a ratio of numbers. There Dolz has no rule, only counting by composition and bounds by principle 3.
+- **Subtraction stays in whole numbers.** Like addition (P4), the _regula_ only multiplies, so the excess of one rational proportion over another is always rational. Halving needs a _medium proportionale_, which usually does not exist (43b, §22; 50b, §29). The asymmetry is the ground of proposition 21 below.
+
+### Three corollaries
+
+| Corollary | Dolz | Example (ours): the _quadrupla_, chain $4,3,2,1$, links $4:3$, $3:2$, $2:1$ | Check by the _regula_ |
+| --- | --- | --- | --- |
+| 1 | _quandocumque aliqua proportio componitur ex duabus, per quamlibet illarum alteram excedit_ | the _tripla_, chain $3,2,1$: exceeds the _dupla_ by the _sesquialtera_ and the _sesquialtera_ by the _dupla_ | $3\times2$ to $1\times3$, $6:3$, reduced $2:1$ |
+| 2a | composed of three, _per quamlibet illarum excedit aggregatum ex aliis duabus_ | exceeds $4:3$ plus $3:2$, which is $4:2$ or $2:1$, by the _dupla_ | $4\times1$ to $2\times1$, $4:2$, reduced $2:1$ |
+| 2a | | exceeds $3:2$ plus $2:1$, which is $3:1$, by the _sesquitertia_ | $4\times1$ to $3\times1$, $4:3$ |
+| 2a | | exceeds $4:3$ plus $2:1$, which is $8:3$ (chain $8,6,3$, P4), by the _sesquialtera_ | $4\times3$ to $8\times1$, $12:8$, reduced $3:2$ |
+| 2b | _per quascumque duas illarum excedit alteram_ | exceeds the _dupla_ by $4:3$ plus $3:2$, the _sesquitertia_ by $3:2$ plus $2:1$, the _sesquialtera_ by $4:3$ plus $2:1$ | the same products, read the other way |
+| 3 | _si aliqua proportio per aliquam proportionem excedat alteram, opus est quod sit tanta ut eius pars aliqua…_ | the _tripla_ exceeds the _dupla_, and the _dupla_ is a part of it | |
+
+Both halves of the second corollary are the first corollary applied to one split of three links into one and two. The third is obscure as printed. It seems to be the converse of the first: what exceeds by a proportion must contain the lesser as a part, _idem contingit in numeris et continuis_, as five feet contain two (see the textual notes).
+
+### _De his articulis_: the second and third articles closed
+
+_Et sic patet quid de his articulis dicendum sit. Per deductionem quam feci de istis poteris practicare de aliis._ The plural covers the second article (43a) and the third, which has had no heading of its own (§29). The prooemium's two tasks for the third article were taken up within the numbered propositions of the second, and Dolz leaves the remaining cases to the reader's practice. The next sentence turns to the fourth: _Quartus: divisionem quamlibet per partes proportionales quacunque proportione in uno quoque divisibili impendet_ (25a).
+
+### The fourth article: six preambles (51a–51b)
+
+_Iam accedo ad divisionem corporis per partes proportionales quacumque proportione dividere volueris._ The arithmetic is set out in P10.
+
+| Preamble | Dolz | Content |
+| --- | --- | --- |
+| 1 | _partes eiusdem proportionis… quae in aequali proportione se habent; partes vero eiusdem quantitatis quae aequalis extensionis sunt_ | two kinds of division. Only the first is in question: parts _secundum ordinem proportionis duplae vel triplae_ |
+| 2 | _omne corpus quacumque specie proportionis potest dividi per partes proportionales_ | in every species, and a small body into as many parts as a large one |
+| 3 | _non intelligas quod realiter fiat divisio actualiter, sed procedimus ad imaginationem_ | the division is never finished, since the parts are infinite; but the case is not to be denied, since God sees each part distinctly |
+| 4 | _partes proportionales accipi minoribus terminatis versus aliquod extremum_ | means only that the smaller parts are taken toward that extreme, the greater correspondingly toward the other |
+| 5 | _numquam datur ultima pars proportionalis secundum ordinem sive secundum extremum versus quod capiuntur minores_ | no last part toward the small end; see below |
+| 6 | _solum corpus finitum potest dividi per partes proportionales_ | the proof breaks off; see below |
+
+**_Ad imaginationem_ (preamble 3).** The cases of the Calculators set a body or an hour divided into infinitely many proportional parts and ask what happens in each. Dolz grants that no one can perform the division, and still forbids denying the case: _Deus distincte quamlibet partem videt; quare poterit casum per partes proportionales deducere_. The divine intellect is what makes the infinite case a determinate one. The appeal recalls 37b–38a, where the multilocated body could be admitted only by speaking supernaturally (§16).
+
+**No last part (preamble 5).** Take the hour that follows the present instant, divided by _dupla_ parts _minoribus terminatis versus hoc instans_:
+
+```text
+now                                                            end of the hour
+ |.|.|-1/8-|---- 1/4 ----|---------------- 1/2 ----------------|
+  smaller and smaller toward now               greatest part
+```
+
+| Order | Where it starts | First part | Last part |
+| --- | --- | --- | --- |
+| of the division (Dolz) | at the greatest part, moving toward the extreme where the parts grow smaller | the greatest, the half at the end of the hour | none |
+| from us (_aliqui_) | at the present instant, moving through the hour | none | the greatest, which they call _ultima, incipiendo a nobis_ |
+
+The same part is first for Dolz and last for the _aliqui_; the dispute is about names. Hence _notanter addo_: there is no last part _secundum ordinem sive secundum extremum versus quod capiuntur minores_. Of the first part he adds that it is first _secundum talem divisionem, licet non simpliciter, quia quacumque data alia secundum aliam divisionem est illa prior_. Our reading: the greatest part is first only relative to this division, since another division gives a part prior to it. Questions of first and last parts and instants are the matter of the treatises on beginning and ceasing (_de incipit et desinit_), and this preamble fixes the vocabulary for them.
+
+**Only a finite body (preamble 6).** The proof reads _Patet, quia, ut patebit inferius, divisio partis proportionalis debet fieri_, and stops. The next sentence, _Et sic octupla est sesquialtera ad quadruplam, et proportionabiliter poteris de aliis probare_, repeats the conclusion of proposition 20 (50b, §29) and has nothing to do with dividing bodies. Something seems to be missing or displaced (see the textual notes). Dolz's earlier doctrine supplies a reason, which is ours, not his text's: the first cut needs the whole to stand to what is left in the given proportion (P10). Cut from an infinite body, what is left is still infinite, and one infinite is not double, or in any other proper proportion to, another (39a, §18).
+
+### Proposition 21: no third, no _superbipartiens tertias_
+
+_Sed addo adhuc aliqua super alio articulo._ The proposition, _multum generalis_, is elliptical as printed. Dolz's gloss gives the sense: _postquam dupla non habet sesquitertiam propter defectum tertiae eius rationalis, etiam non habebit superbipartientem tertias, et ita in aliis_. A proportion _sesquitertia_ to the _dupla_ would contain the _dupla_ and a third of it, as on 50b the _sesquialtera_ of proportions contained it and its half. One _superbipartiens tertias_ to it would contain the _dupla_ and two thirds of it. The _dupla_ has no rational third, so it has neither.
+
+Dolz gives no proof. The _regula_ of 51a supplies one, by our reconstruction:
+
+| Step | Supposition or operation | Result |
+| --- | --- | --- |
+| 1 | suppose a rational proportion contains the _dupla_ and two thirds of the _dupla_ | |
+| 2 | subtract the _dupla_ (the _regula_, whole numbers only) | two thirds of the _dupla_, rational |
+| 3 | subtract these two thirds from the _dupla_ | one third of the _dupla_, rational |
+| 4 | but the _dupla_ has no rational third (proposition 20) | contradiction: no such proportion |
+
+The proposition needs the species to be genuine. The _quadrupla_ has no rational fourth, since its fourth would be the half of the _dupla_ (50b). But two of its fourths make its half, the _dupla_, which is rational, and the _quadrupla_ with two fourths of itself is the _octupla_, _sesquialtera_ to it on 50b. "_Superbipartiens quartas_" is no species, because two fourths make one aliquot part (46a–46b, §25), and Dolz names species in least terms (45a, §24). In modern terms: if $\sqrt[3]2$ is irrational, so is $2^{5/3}$; in general, if the $n$-th root is irrational, any $k$-th power of it with $k$ and $n$ sharing no factor is irrational too.
+
+### _In abyssum_
+
+_Vides, possemus in abyssum multiplicare propositiones de proportione proportionum, quia infinitae sunt species. Nihilominus iam supersedeo, quia forsan haec ab aliis derelicta prolixa reperies. Sed studendum utilitati materiae, et posui de omni genere…_ The sentence continues on 52a. The propositions, now twenty-one, could go on forever, because each species gives new ones (_et ita in aliis_). Dolz stops for the reason the prooemium gave: only as much mathematics as philosophy needs (see the Introduction). _Ab aliis derelicta_ says that others left these matters aside. Oresme's _De proportionibus proportionum_ had treated them at length, so either Dolz means the authors of elementary introductions, or the phrase must wait for its continuation on 52a.
+
+Two observations of ours:
+
+- **Why proportional parts.** The objection of 37b already built a case from proportional parts, $7$, $7\tfrac12$, $7\tfrac34$, … (§16). Sums over proportional parts are the Calculators' main tool for intensities and motions (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-Alvarus-Thomas-and-Galileo.html)). The fourth article gives the student this tool before the rules of motion of the fifth.
+- **The order of the articles.** First the species and their names (first article), then greater and lesser (second), then excess and how many times (third), and only then division by proportional parts. The division in a given proportion presupposes all three: the parts must stand in a named proportion, each must be less than the one before, and the remainder must be the whole less the parts taken.
 
 ---
 
@@ -3698,6 +3869,17 @@ Three observations of ours:
 96. Not every proportion has a _sesquialtera_ or _sesquitertia_ of proportions, one containing it and its half or third. The _dupla_ and _tripla_ have none among rational proportions, since the half of the _dupla_ _non dicatur rationalis, nec inter numeros reperiatur_; the _quadrupla_ has one, the _octupla_ (50b). The irrational is deferred (_ut dicemus inferius_).
 97. The _sextupla_ $12:2$, made of $12:8$ and $8:2$, exceeds the _quadrupla_ by a _sesquialtera_ but is not _sesquialtera_ to it; Dolz states the objection and falls back on the _octupla_.
 98. To exceed by a proportion and to be greater in a proportion differ: the _tripla_ exceeds the _dupla_ by a _sesquialtera_ but is not _sesquialtera_ to it. The first is subtraction, the second counting by composition; they are the two tasks the prooemium gave the third article (25a).
+99. Whatever is composed of some proportions exceeds any one of them by the rest: the _tripla_, made of the _dupla_ and the _sesquialtera_, exceeds the _dupla_ by the _sesquialtera_ (51a).
+100. The received rule of excess (_solet poni_): multiply the greatest term of each proportion by the least term of the other; the proportion of the products is the excess. It is the subtraction of 40a in one line and always stays in whole numbers. It answers the prooemium's _quae regula dari valeat_ for the excess; for how many times no such rule exists (49a).
+101. Five feet exceed two feet by three without being triple them: exceeding by and being in a proportion differ for quantities as for proportions.
+102. A proportion composed of two exceeds each by the other; one composed of three exceeds any one of them by the other two together, and any two by the third. What exceeds by a proportion must contain the lesser as a part.
+103. The second and third articles end together on 51a, without a heading for the third. The fourth article, on division by proportional parts, begins with preambles, as the prooemium promised.
+104. Parts of the same proportion stand each to the next in one proportion; parts of the same quantity are equal. Every body can be divided by proportional parts in every species, a small body into as many as a large one.
+105. The division is imagined, not performed, since the parts are infinite; the case is not to be denied, because God sees each part distinctly.
+106. Toward the extreme where the parts grow smaller there is no last part. The greatest part is first, but only relative to the division. Some authors count from the other end and call the greatest part the last.
+107. Only a finite body can be divided by proportional parts; the proof breaks off in the print.
+108. A proportion without a rational third has no rational _superbipartiens tertias_ of proportions either, and so in other cases (51b, proposition 21). This depends on naming species in least terms: the _quadrupla_ has no rational fourth, but its two fourths are its half, the _dupla_.
+109. Propositions on the proportion of proportions could be multiplied without end, since the species are infinite; Dolz stops for the sake of usefulness.
 
 ---
 
@@ -3787,3 +3969,8 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 50b | est dupla ad **superbipartientem tertiam** | _(left as printed)_ | Short for _ad duplam superbipartientem tertias_, $8:3$. Double the simple _superbipartiens tertias_ $5:3$ would be $25:9$ |
 | 50b | **septupla** est sesquialtera ad quadruplam; **septupla**, quae est 12 ad 2 | **sextupla** (adopted) | $12:2=6:1$, made of $12:8$ and $8:2$. Even emended the claim fails, as Dolz's own objection says (_12 ad 8 non est medietas quadruplae_); the valid example is the _octupla_ |
 | 50b | Secunda pars patet ex **proportionibus** | **propositionibus** (adopted; conjectural) | The second part, that the _tripla_ is not _sesquialtera_ to the _dupla_, follows from proposition 20. On 45b the same word was read _propositiones_ |
+| 51a | **quintipedale** | **quinquepedale** (adopted) | The regular form, as _bipedale_ and _tripedale_ beside it; the sense, five feet, is fixed by the analogy: it exceeds two feet by three |
+| 51a | opus est quod sit tanta ut eius pars aliqua idem contingit in numeris et continuis | _(obscure; left as printed)_ | Probably _ut \[altera sit\] eius pars aliqua. Idem contingit in numeris et continuis_: the lesser must be a part of the greater, as in numbers and continua |
+| 51b | divisio partis proportionalis debet fieri. **Et sic octupla est sesquialtera ad quadruplam, et proportionabiliter poteris de aliis probare** | _(lacuna or displacement suspected; left as printed)_ | The proof of the sixth preamble breaks off; the next sentence repeats the conclusion of proposition 20 (50b) and has no place in a preamble on dividing bodies |
+| 51b | quandocumque datur aliqua proportio quae non habet aliquam super se a duabus vel tribus partibus aliquotis, et etiam denominatam | _(elliptical; left as printed)_ | The conditional has no main clause. Dolz's gloss (_Volo dicere…_) gives the sense: a proportion without a rational third has no _superbipartiens tertias_ of proportions either |
+| 51b | in abyssum multiplicare **propositiones** de proportione proportionum | _(left as printed)_ | _Proportiones_ is tempting after _quia infinitae sunt species_, but the print makes sense: the numbered propositions, the twenty-first just given, with _de proportione proportionum_ naming their topic, the heading of 49a |

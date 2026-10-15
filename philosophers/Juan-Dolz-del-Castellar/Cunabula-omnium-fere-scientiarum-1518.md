@@ -1414,7 +1414,34 @@ Decimanona propositio: dupla superbipartiens tertias etiam habet duplam in ordin
 
 Vigesima propositio: non tamen oportebit quod quaelibet proportio habeat sesquialteram aut sesquitertiam in ordine ad ipsam. Hoc patet: dupla non habet sesquialteram ad ipsam. Patet, quia illa deberet continere duplam et medietatem eius, sed nulla reperitur quae contineat duplam et eius medietatem, maxime de rationali et de numero praedictarum, cum medietas duplae non dicatur rationalis, nec inter numeros reperiatur, ut dicemus inferius. Et etiam non poterit habere aliquam talem sesquitertiam ad ipsam, nam nulla reperitur quae contineat ipsam et tertiam partem eius, ut patet discurrendo. Similiter proportio tripla non habet aliquam sesquialteram ad ipsam, nam nulla datur quae contineat triplam et medietatem eius. Secus est de quadrupla, quae bene habet sesquialteram ad ipsam, nam datur aliqua continens ipsam et eius medietatem, nam, ut patet ex dictis, eius medietas est dupla. Modo sextupla est sesquialtera ad quadruplam, nam sextupla, quae est 12 ad 2, componitur ex proportione 12 ad 8 et 8 ad 2. Si dicis: nihil probas, quia 12 ad 8 non est medietas quadruplae; ad minus hoc constat de octupla, quae continet quadruplam et duplam: sexdecim ad 8, quae est dupla, et 8 ad 2, quae est quadrupla.
 
-Notandum tamen quod refert dicere: haec proportio per hanc proportionem excedit illam, et: in hac proportione est maior illa. Nam nos dicimus quod tripla excedit duplam per sesquialteram, et tamen non est sesquialtera ad duplam. Secunda pars patet ex propositionibus; prima patet: omne compositum ex aliquibus /51a/ quodcumque illorum per aliud excedit tripla componitur ex dupla et sesquialtera. 
+Notandum tamen quod refert dicere: haec proportio per hanc proportionem excedit illam, et: in hac proportione est maior illa. Nam nos dicimus quod tripla excedit duplam per sesquialteram, et tamen non est sesquialtera ad duplam. Secunda pars patet ex propositionibus; prima patet: omne compositum ex aliquibus /51a/ quodcumque illorum per aliud excedit. Tripla componitur ex dupla et sesquialtera ex dictis; ergo excedit duplam per sesquialteram.
+
+### Regula
+
+Solet tamen poni una regula ad cognoscendum per quam proportionem una proportio excedat aliam, quae talis est: capiendi sunt numeri illarum proportionum, et multiplicare maximum unius cum minimo alterius et maximum alterius cum minimo illius, et videre qualis erit proportio inter numeros multiplicatos, et per talem proportionem una proportio excedit. Etiam exemplum regulae: si vis videre per quam proportionem proportio tripla excedit duplam, vide numeros triplae, scilicet 12 ad 4, et numeros duplae, scilicet duorum ad unum. Multiplica 12 per unum, habebis 12; postea multiplica 4 per 2, habebis 8. 12 ad 8 est sesquialtera. Igitur conclude quod tripla excedit duplam per sesquialteram, sed non propterea est maior dupla in sesquialtera. Et do tibi analogiam in quantitatibus: quinquepedale per tripedale excedit bipedale, tamen non propterea est triplum ad bipedale. Ex hoc sequitur corollaria.
+
+Primum: quandocumque aliqua proportio componitur ex duabus, per quamlibet illarum alteram excedit.
+
+Secundum: quandocumque aliqua proportio componitur ex tribus, per quamlibet illarum excedit aggregatum ex aliis duabus, et per quascumque duas illarum excedit alteram.
+
+Tertium: si aliqua proportio per aliquam proportionem excedat alteram, opus est quod sit tanta ut eius pars aliqua idem contingit in numeris et continuis. Et sic patet quid de his articulis dicendum sit. Per deductionem quam feci de istis poteris practicare de aliis.
+
+Iam accedo ad divisionem corporis per partes proportionales quacumque proportione dividere volueris, et ponam aliqua praeambula. Primum:
+
+Partes eiusdem proportionis dicuntur illae quae in aequali proportione se habent; partes vero eiusdem quantitatis quae aequalis extensionis sunt. Ibi non est quaestio de divisione corporis in partes eiusdem quantitatis. Et si procedant ordinate secundum ordinem proportionis duplae vel triplae et caetera, dicuntur partes eiusdem proportionis. /51b/
+
+Secundum praeambulum: omne corpus quacumque specie proportionis potest dividi per partes proportionales. Patet inductive. Et sic in tot partes proportionales potest dividi corpus parvum ut magnum, et omni consimili proportione.
+
+Tertium: quando ponitur casus de divisione alicuius corporis per partes proportionales aliqua proportione, non intelligas quod realiter fiat divisio actualiter, sed procedimus ad imaginationem, quia numquam finires, cum sint infinitae. Nihilominus non debes casus negare, nam Deus distincte quamlibet partem videt; quare poterit casum per partes proportionales deducere.
+
+Quartum praeambulum: partes proportionales accipi minoribus terminatis versus aliquod extremum nihil est aliud quam capi minores versus illud extremum, et proportionabiliter de maioribus.
+
+Quintum praeambulum: numquam datur ultima pars proportionalis secundum ordinem sive secundum extremum versus quod capiuntur minores. Quod notanter addo, quia aliqui dicunt quod, divisa hora sequenti per partes proportionales minoribus terminatis versus hoc instans, quae est prima ordine e converso versus nos vocatur ab eis ultima, incipiendo a nobis; prima vero semper datur incipiendo a maioribus, saltem prima secundum talem divisionem, licet non simpliciter, quia quacumque data alia secundum aliam divisionem est illa prior.
+
+Sextum praeambulum: solum corpus finitum potest dividi per partes proportionales. Patet, quia, ut patebit inferius, divisio partis proportionalis debet fieri. Et sic octupla est sesquialtera ad quadruplam, et proportionabiliter poteris de aliis probare. Sed addo adhuc aliqua super alio articulo.
+
+Vigesima prima propositio multum generalis: quandocumque datur aliqua proportio quae non habet aliquam super se a duabus vel tribus partibus aliquotis, et etiam denominatam. Volo dicere: postquam dupla non habet sesquitertiam propter defectum tertiae eius rationalis, etiam non habebit superbipartientem tertias, et ita in aliis. Vides, possemus in abyssum multiplicare proportiones de proportione proportionum, quia infinitae sunt species. Nihilominus iam supersedeo, quia forsan haec ab aliis derelicta prolixa reperies. Sed studendum utilitati materiae, et posui de omni genere /52a/
+
 
 
 <!--

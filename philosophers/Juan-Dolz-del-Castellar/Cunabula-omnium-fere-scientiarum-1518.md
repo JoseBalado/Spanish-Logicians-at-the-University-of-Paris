@@ -1256,7 +1256,7 @@ Tertium principium:
 
 > Omne compositum ex duobus inaequalibus est magis quam duplum ad minus illorum, et minus quam duplum ad maius illorum.
 
-Patet: minus illorum est medietate minus, ad medietatem est adaequate duplum, ergo ad illud minus magis quam duplum. Item maius illorum est medietate maius, [et] ad medietatem est adaequate duplum, ergo [ad] illud maius minus quam duplum. Ex his sequitur:
+Patet: minus illorum est medietate minus, ad medietatem est adaequate duplum, ergo ad illud minus magis quam duplum. Item maius illorum est medietate maius, et ad medietatem est adaequate duplum, ergo ad illud maius minus quam duplum. Ex his sequitur:
 
 > Omne compositum esse duplum ad quamlibet suam medietatem.
 
@@ -1440,7 +1440,31 @@ Quintum praeambulum: numquam datur ultima pars proportionalis secundum ordinem s
 
 Sextum praeambulum: solum corpus finitum potest dividi per partes proportionales. Patet, quia, ut patebit inferius, divisio partis proportionalis debet fieri. Et sic octupla est sesquialtera ad quadruplam, et proportionabiliter poteris de aliis probare. Sed addo adhuc aliqua super alio articulo.
 
-Vigesima prima propositio multum generalis: quandocumque datur aliqua proportio quae non habet aliquam super se a duabus vel tribus partibus aliquotis, et etiam denominatam. Volo dicere: postquam dupla non habet sesquitertiam propter defectum tertiae eius rationalis, etiam non habebit superbipartientem tertias, et ita in aliis. Vides, possemus in abyssum multiplicare propositiones de proportione proportionum, quia infinitae sunt species. Nihilominus iam supersedeo, quia forsan haec ab aliis derelicta prolixa reperies. Sed studendum utilitati materiae, et posui de omni genere /52a/
+Vigesima prima propositio multum generalis: quandocumque datur aliqua proportio quae non habet aliquam super se a duabus vel tribus partibus aliquotis, et etiam denominatam. Volo dicere: postquam dupla non habet sesquitertiam propter defectum tertiae eius rationalis, etiam non habebit superbipartientem tertias, et ita in aliis. Vides, possemus in abyssum multiplicare propositiones de proportione proportionum, quia infinitae sunt species. Nihilominus iam supersedeo, quia forsan haec ab aliis derelicta prolixa reperies. Sed studendum utilitati materiae, et posui de omni genere /52a/ proportionis aliqua exempla, et de proportione proportionum etiam nonnulla, ut his cognitis facile in aliis valeas iudicare si occurrant. Per haec habes viam patentem ad iudicandum quam proportionem habeat una proportio supra se, et in qua proportione una proportio alia sit maior; ideo non opus est tibi in hoc.
+
+Alia regula etiam vix posset dari una generalis omnes comprehendens, nisi daretur hoc modo: ad cognoscendum in qua proportione una sit maior alia, vide quomodo continet illam proportionem vel aliquotiens adaequate, et sic in multiplici erit ea maior discurrendo per multiplices secundum numerum continentiae; si se ad partem aliquotam solum, in superparticulari; et ita in aliis. Nec aliter posses eam dare.
+
+Video alios fateri non posse reperiri penes denominationes numerorum; fallax aut nulla est regula, ut probavimus. Quo igitur modo posset dari, si non penes earum denominationem? Igitur per earum compositionem, ut dixi, vel nullo modo posset dari; ideo pondera bene qualiter sic locutus sum.
+
+Notandum est tamen quod aliud est dictu haec proportio per hanc proportionem excedit illam secundum partes aliquotas, puta medietatem, tertiam, quartam, et caetera, quam dictum sit in proportionibus; sed istae non reperiuntur in infinitis, ut dictum est. Et haec intellige ea ratione qua sunt infinita.
+
+## De divisione continui per partes proportionales
+
+His praeambulis positis ponuntur regulae generales quibus cognosces facillime quomodo unaquaque proportione corpus debeat dividi per partes proportionales.
+
+Prima: si vis dividere corpus per partes proportionales quacumque proportione volueris, opus est ut totum ad residuum a prima parte proportionali habeat talem proportionem qualis est proportio in qua vis facere divisionem. Et ex hac regula infero plures propositiones, quibus dabo exempla in unoquoque proportionis genere qualiter facienda est divisio.
+
+Prima propositio: si vis dividere in proportione dupla, opus est pro residuo a prima parte proportionali capere medietatem totius. Hoc patet, quoniam ad illam medietatem totum habet duplam. Et ex consequenti sequitur quod in illa divisione pro prima parte proportionali debet capi medietas. Et sic in hac divisione eandem proportionem habet totum ad residuum a prima parte proportionali ut ad primam.
+
+Secunda propositio: si vis dividere proportione tripla, /52b/ debes pro residuo a prima parte proportionali capere unam tertiam, quoniam totum ad unam tertiam habet triplam. Et ex consequenti in hac divisione debes pro prima parte proportionali capere duas tertias totius. Sequitur quod in hac divisione non eandem proportionem habet totum ad residuum a prima parte proportionali qualem habet ad primam; totum ibi ad primam habet proportionem sesquialteram.
+
+Tertia propositio: si vis dividere proportione quadrupla, debes pro residuo a prima parte proportionali capere unam quartam. Patet, nam totum ad quartam habet quadruplam; et pro prima parte proportionali tres quartas. Infertur quod hac divisione non est similis proportio totius ad primam partem proportionalem et ad residuum a prima parte; ad primam habet sesquitertiam. Et sic poteris dividere quacumque alia multiplici simplici. Infero quod, dividendo partes proportionales specie multiplici, quamdiu ascendimus in talibus speciebus maioratur prima pars proportionalis et minoratur residuum a prima parte proportionali.
+
+Quarta propositio: dividendo proportione sesquialtera debes pro residuo a prima parte proportionali capere duas tertias, nam totius ad duas tertias est proportio sesquialtera; et ex consequenti pro prima unam tertiam. Ex quo patet quod hac divisione non est eadem proportio totius ad residuum a prima et ad primam, nam ad primam est tripla.
+
+Quinta propositio: si vis dividere proportione sesquitertia, debes pro residuo a prima parte proportionali accipere tres quartas, et pro prima unam quartam. Patet, nam totius ad tres quartas est sesquitertia, et ibi totius ad primam est quadrupla. Et sic in hac specie non est similis proportio totius ad primam et ad residuum a prima. Et sic poteris dividere unaquaque superparticulari simplici. Infertur quod, dividendo speciebus superparticularis proportionis, quamdiu per illas species ascendimus minoratur prima pars proportionalis et maioratur residuum a prima.
+
+Sexta propositio: si vis dividere proportione superbipartiente tertias, debes pro residuo a prima parte proportionali capere tres quintas, nam totius ad tres quintas est superbipartiens tertias; et pro prima parte duas quintas. Et sic in hac divisione totius ad primam est dupla sesquialtera, et /53a/ non est eadem totius ad primam ad residuum a prima.
 
 
 
@@ -1510,6 +1534,8 @@ Page 44b: 16 ] emend. 6 (dupla; cf. primi essent maiores)
 Page 44b: quadruplo ] emend. quadruple
 Page 44b: duplae ] emend. duple
 Page 44b: duplae ] emend. duple
+Page 44b: ad ] emend. ergo [ad] illud maius minus quam duplum
+Page 44b: et ] emend. medietate maius, [et] ad medietatem
 Page 45a: denominatur ] emend. denominatio
 Page 45a: censeo ] conj. ceseo
 Page 45a: demando ] sic (dēmandō; reading obscure)
@@ -1537,5 +1563,7 @@ Page 50b: 64 ad 9 ] emend. 64 ad 6 (septupla sesquinona; composed of 64 ad 24 an
 Page 50b: sextupla ] emend. septupla, (septupla est sexquialtera ad quadruplam)
 Page 50b: sextupla ] emend. septupla, (septupla quae est 12 ad 2)
 Page 50b: propositionibus ] conj. proportionibus (secunda pars follows from propositio vigesima; cf. 45b)
-
+Page 52a: unaquaque ] emend. (unaquaeque proportione corpus debeat dividi)
+Page 52a: quomodo ] conj. quõ (vide quomodo continet illam proportionem; possibly quotiens, cf. aliquotiens)
+Page 52b: est ] emend. et (et ibi totius ad primam est quadrupla; cf. Quarta propositio: nam ad primam est tripla)
 -->

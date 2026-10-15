@@ -1440,7 +1440,7 @@ Quintum praeambulum: numquam datur ultima pars proportionalis secundum ordinem s
 
 Sextum praeambulum: solum corpus finitum potest dividi per partes proportionales. Patet, quia, ut patebit inferius, divisio partis proportionalis debet fieri. Et sic octupla est sesquialtera ad quadruplam, et proportionabiliter poteris de aliis probare. Sed addo adhuc aliqua super alio articulo.
 
-Vigesima prima propositio multum generalis: quandocumque datur aliqua proportio quae non habet aliquam super se a duabus vel tribus partibus aliquotis, et etiam denominatam. Volo dicere: postquam dupla non habet sesquitertiam propter defectum tertiae eius rationalis, etiam non habebit superbipartientem tertias, et ita in aliis. Vides, possemus in abyssum multiplicare proportiones de proportione proportionum, quia infinitae sunt species. Nihilominus iam supersedeo, quia forsan haec ab aliis derelicta prolixa reperies. Sed studendum utilitati materiae, et posui de omni genere /52a/
+Vigesima prima propositio multum generalis: quandocumque datur aliqua proportio quae non habet aliquam super se a duabus vel tribus partibus aliquotis, et etiam denominatam. Volo dicere: postquam dupla non habet sesquitertiam propter defectum tertiae eius rationalis, etiam non habebit superbipartientem tertias, et ita in aliis. Vides, possemus in abyssum multiplicare propositiones de proportione proportionum, quia infinitae sunt species. Nihilominus iam supersedeo, quia forsan haec ab aliis derelicta prolixa reperies. Sed studendum utilitati materiae, et posui de omni genere /52a/
 
 
 

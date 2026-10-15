@@ -45,7 +45,7 @@ The commentary below assumes a few elementary operations with proportions. They 
 - $A:B$ means "the proportion of $A$ to $B$". **A colon between two numbers always means a proportion and nothing else.** In this primer no colon is ever used as punctuation next to a number.
 - In $A:B$, $A$ is the **left term** (Dolz's _antecedens_) and $B$ the **right term** (_consequens_).
 - $\to$ means "becomes". An equals sign between two proportions, as in $8:4=2:1$, means "the same proportion" (Rule 1).
-- Dolz writes proportions in words and names ("_sesquialtera_", "as 3 to 2"). The colon notation is ours, but the method it records is his. His own name for a proportion, its _denominatio_ (45a, §24), is a mixed number set against unity: _sesquialtera_ is $1\tfrac12$ to $1$, _dupla sesquialtera_ $2\tfrac12$ to $1$. So mixed numbers are his. Improper fractions such as $\tfrac32$, multiplying proportions as numbers, powers, roots and logarithms are **modern**. They appear only in rows labelled "modern" and in P9.
+- Dolz writes proportions in words and names ("_sesquialtera_", "as 3 to 2"). The colon notation is ours, but the method it records is his. His own name for a proportion, its _denominatio_ (45a, §24), is a mixed number set against unity: _sesquialtera_ is $1\tfrac12$ to $1$, _dupla sesquialtera_ $2\tfrac12$ to $1$. So mixed numbers are his. A mixed number is a sum: $1\tfrac12$ is one and a half, $1+\tfrac12$, not $1\times\tfrac12$. Improper fractions such as $\tfrac32$, multiplying proportions as numbers, powers, roots and logarithms are **modern**. They appear only in rows labelled "modern" and in P9.
 
 ### P1. A proportion is a step between two terms
 
@@ -188,6 +188,18 @@ Put the greater term on the left; the right term is then the **lesser term**, an
 | several parts left over | numerator 2 or more | _super-_ + how many + _-partiens_ + kind of part in the plural, as in _superbipartiens tertias_ |
 | lesser term on the left | | _sub-_ before the whole name |
 
+**_Sesqui-_ and _altera_.** In ordinary Latin _sesqui_ (from _semis-que_, "and a half") means one and a half, as in _sesquipedalis_, a foot and a half long. In the names of proportions it is widened to "once and one part", and the ending says which part: _sesquitertia_ is once and a third, _sesquiquarta_ once and a fourth. _Altera_ is "the second, the other of two": _pars altera_ is one of two equal parts, a half. So only _sesquialtera_ keeps the everyday sense of _sesqui_. The part is always a part of the **lesser** term, not of unity:
+
+```text
+sesquialtera 3:2     lesser   ■ ■
+                     greater  ■ ■ | ■        the lesser once, and half of the lesser
+
+sesquitertia 4:3     lesser   ■ ■ ■
+                     greater  ■ ■ ■ | ■      the lesser once, and a third of the lesser
+```
+
+The size of the blocks does not matter. $12:8$ is _sesquialtera_ because $12$ is $8$ and half of $8$ again; one foot to two thirds of a foot is _sesquialtera_ because one foot is two thirds and one third, which is half of two thirds (P10).
+
 **The same words filled in, for $8:3$.**
 
 | Piece | Value | Latin |
@@ -226,6 +238,20 @@ With the lesser term on the left, name the reversed proportion and put _sub-_ in
 | --- | --- | --- | --- | --- |
 | $2:3$ | $3:2$ | _sesquialtera_ | _subsesquialtera_ | $\tfrac23$ |
 | $7:9$ | $9:7$ | _superbipartiens septimas_ | _subsuperbipartiens septimas_ | $\tfrac79$ |
+
+**The same pair read both ways.** $3:2$ and $2:3$ compare the same two quantities. What changes is which one is taken as the measure:
+
+```text
+A  ■ ■ ■
+B  ■ ■
+```
+
+| Measure | Reading | Name | Modern |
+| --- | --- | --- | --- |
+| $A$, cut into three equal parts | $B$ is two of them | _subsesquialtera_, $2:3$ | $B\div A=\tfrac23$ |
+| $B$, taken as one whole | $A$ is $B$ once, and half of $B$ | _sesquialtera_, $3:2$ | $A\div B=1\tfrac12$ |
+
+The usual reading of $\tfrac23$, "three parts, take two", measures by the greater; Dolz's names measure by the lesser (_in ordine ad unum_, P1). Both readings state one fact.
 
 **Reading a name back into terms.** Take the parts as the lesser term; add the counted copies and the leftover parts to get the greater:
 
@@ -979,7 +1005,7 @@ Used on 51a–51b (§30). The fourth article divides a body _per partes proporti
 
 Steps for dividing a whole by proportional parts in a proportion $p:q$ of greater inequality.
 
-1. Cut the whole so that **the whole is to what is left** as $p:q$. The piece cut off is the first part.
+1. Cut the whole so that **the whole is to what is left** as $p:q$. In practice: split the whole into $p$ equal pieces, keep $q$ of them, and cut off the other $p-q$. The piece cut off is the first part. Modern: whole $\div$ what is left $=p\div q$, so what is left is $\tfrac qp$ of the whole.
 2. Cut what is left in the same way, so that it is to its own remainder as $p:q$. The piece cut off is the second part.
 3. Go on without end.
 
@@ -995,6 +1021,16 @@ Each remainder is to the next as $p:q$, and each part is the same share of its r
 | 4 | second part | six ninths less four ninths | two ninths |
 | 5 | is the first part to the second a _sesquialtera_? | one third is three ninths; three ninths to two ninths is $3:2$ | yes |
 | 6 | third part | four ninths is twelve twenty-sevenths; what is left is two thirds of it, eight twenty-sevenths; twelve less eight | four twenty-sevenths; two ninths (six twenty-sevenths) to four is $3:2$ |
+
+**Why thirds.** The line is not cut into three parts but into infinitely many. The thirds come from the $3$ of $3:2$: at every cut, what you have is split into three equal pieces; two are kept and one is cut off. What you have is then the kept piece once and half of it again (P2), which is the _sesquialtera_.
+
+| Cut | What you have | Split into three | Kept, two pieces | Cut off, one piece | What you have = kept + half of kept |
+| --- | --- | --- | --- | --- | --- |
+| 1 | $1$ | thirds | two thirds | **one third** | two thirds and one third |
+| 2 | two thirds | ninths | four ninths | **two ninths** | four ninths and two ninths, six ninths |
+| 3 | four ninths | twenty-sevenths | eight twenty-sevenths | **four twenty-sevenths** | eight and four twenty-sevenths, twelve |
+
+Each part cut off is half of what is kept at that cut. Modern check of step 5: $\tfrac13\div\tfrac29=\tfrac13\times\tfrac92=\tfrac96=\tfrac32$. This $3:2$ is not the _sesquialtera_ by which the _tripla_ exceeds the _dupla_ (P5, Examples F and G). There $3:2$ is the answer of a subtraction of proportions; here it is given and used to cut a line.
 
 The same for the two species Dolz names:
 

@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+# Commit in the future:
+# GIT_AUTHOR_DATE="2027-10-17T18:32:15" GIT_COMMITTER_DATE="2027-10-17T18:32:15" git commit -m "Message"
+
 # Reload branch when they have diverged
 #
 # git fetch origin

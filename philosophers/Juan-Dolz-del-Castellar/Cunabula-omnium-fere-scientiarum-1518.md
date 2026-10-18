@@ -67,7 +67,7 @@ Ut tradit Ovidius *Nono Metamorphoseos*, Ulixes contra Herculem, Graeciae lucife
 
 > Si laudas virum, inquit, quia dives, hoc fortunae debetur; si quia fortis, infirmitate depauperabitur; si quia pulcher, eius elegantia canitie eliminabitur. Sed si laudas virum quia sapiens et bonis farcitus disciplinis, ipsum ingenti laude, fucato sermone reiecto extolles.
 
-Haec profecto, superflua verborum supellectili procul eiecta, disciplina aetate haud est caduca casuve pendula, nec a genitoribus hereditas, ut falso et perperam aliqui olim arbitrabantur poetae, utpote Hesiodus [et] Ennius, quos tamen satiricus Persius ille delirasse sua praefatione manifeste monstrat, innuens neminem nucum consequi posse gustationem, quin testudinis fractui citius curaverit, non si perosi vigiliam amplecti.
+Haec profecto, superflua verborum supellectili procul eiecta, disciplina aetate haud est caduca casuve pendula, nec a genitoribus hereditas, ut falso et perperam aliqui olim arbitrabantur poetae, utpote Hesiodus et Ennius, quos tamen satiricus Persius ille delirasse sua praefatione manifeste monstrat, innuens neminem nucum consequi posse gustationem, quin testudinis fractui citius curaverit, non si perosi vigiliam amplecti.
 
 Cui si adhaeremus, dubio procul Neronem, admodum scientiae cultorem, qui, etsi crudelis esset, elegit tamen sibi in praeceptorem Senecam, ut continue studeret, sapientiae studio cumulabimur. Quae autem imbecillis adeo natura, quae per vigiliam atque laborem ad grandes non augeatur vires?
 
@@ -440,7 +440,7 @@ Quartum praeambulum unius obiectionis in praedicta solutione. Non obstante numer
 
 ### Quod unus numerus sit alio maior
 
-Prima [conclusio]: Numerus alio maior dicitur quia plures unitates praesupponit pluribusque inhaeret atque ex pluribus resultat sine compositione. Ubi nota quod numerus hic unitates praedicamentales praesupponit ex ipsisque resultat.
+Prima conclusio: Numerus alio maior dicitur quia plures unitates praesupponit pluribusque inhaeret atque ex pluribus resultat sine compositione. Ubi nota quod numerus hic unitates praedicamentales praesupponit ex ipsisque resultat.
 
 An autem unitates illae, sive numerus, remanere queant ut dixi non nostra iam, sed physica aut metaphysica est indagatio. Nec est absonum apud hos indivisibile indivisibili inhaerere. Hoc dico propter numerum ex numeris resultantem, ut ex rebus ipsis ut alias late prosecutus sum. An uni rei indivisibili ob plures partes insint unitates aut numeri tales, mathematicus, metaphysico aut philosopho relinquit. Non sua interest dum tamen numerus sit unde resultet.
 
@@ -448,7 +448,7 @@ Sed quia haec imaginatio non est rigorosa, sed phantastica et voluntaria in his 
 
 Secunda conclusio: Numerus alio modo dicitur minor quia pauciores illas unitates praesupponit et ex paucioribus resultat incomponibiliter, id est sine compositione, quia non componitur sed bene resultat ex pluribus diversis.
 
-Tertia [conclusio]: Unus numerus alteri aequalis dicitur quia aequales unitates praesupponit, id est non plures nec pauciores, et ex tot resultat. Et sic patet ternarium maiorem binario, quaternarium maiorem ternario, et sic in infinitum. Et sic aliquantulum improprie maioritas, minoritas, et aequalitas illis numeris attribuitur.
+Tertia conclusio: Unus numerus alteri aequalis dicitur quia aequales unitates praesupponit, id est non plures nec pauciores, et ex tot resultat. Et sic patet ternarium maiorem binario, quaternarium maiorem ternario, et sic in infinitum. Et sic aliquantulum improprie maioritas, minoritas, et aequalitas illis numeris attribuitur.
 
 Quare numerum unitate maiorem poni hic non debet reputari absurdum. Vide cui proprie attribuitur  'maius', 'minus', aut 'aequale', et audi praedicta et haec nostra adverabis. Secus si hoc bene audire nolueris, dicam tibi id quod adagio fertur: incassum surdo fabula canitur. Nihil alicui aio proprie attribui quod non ratione sui sed alterius /26b/ convenit. Nec nobis obviat proprietas quantitatis ab Aristotele posita in *Praedicamentis*: maxime proprium est quantitati secundum eam aequale vel inaequale dici.
 
@@ -708,13 +708,13 @@ Quintum documentum: Procedendo per 'quadri' et partes aliquotas numeri paris, al
 
 Proportio composita partitur, nam quaedam est multiplex superparticularis, quaedam multiplex superpartiens.
 
-> Multiplex superparticularis: [est] quando aliquid continet aliud pluries quam semel, et cum hoc partem aliquotam eius adaequate, ut 5 ad 2.
+> Multiplex superparticularis: est quando aliquid continet aliud pluries quam semel, et cum hoc partem aliquotam eius adaequate, ut 5 ad 2.
 
 Haec etiam dividi potest in species, et triplici modo ipsae sumi possunt, et sint tria documenta.
 
 Primum: Species possunt sumi ex parte de ly 'multiplex' remanente ly 'superparticularis', et daretur sic dupla superparticularis, tripla superparticularis, et sic consequenter. Prima esset quando aliquid continet aliud bis solum, et cum hoc partem aliquotam eius adaequate, ut 10 ad 4, simili modo poteris alias definire.
 
-Secundum documentum: Species possunt sumi ex parte de ly 'superparticularis' retento ly 'multiplex', ut multiplex sesquialtera, multiplex sesquitertia, et sic de aliis. Prima est quando aliquid continet aliud pluries quam semel, et cum hoc medietatem eius, exemplum 15 ad sex, [et] similiter de aliis.
+Secundum documentum: Species possunt sumi ex parte de ly 'superparticularis' retento ly 'multiplex', ut multiplex sesquialtera, multiplex sesquitertia, et sic de aliis. Prima est quando aliquid continet aliud pluries quam semel, et cum hoc medietatem eius, exemplum 15 ad sex, et similiter de aliis.
 
 Tertium documentum: Species possunt sumi ex parte utriusque, et ibi servari multiplex ordo. Primum cum dupla capere species superparticularis non solum una. Secundus cum tripla capere etiam omnes superparticulares, et sic consequenter. Dupla sesquialtera est quando aliquid continet aliud bis solum, et cum hoc medietatem. Dupla sesquitertia est quando aliquid continet aliud bis solum, et tertiam eius, ut 7 ad 3. Tripla sesquialtera est quando aliquid continet aliud ter solum, et cum hoc medietatem eius, ut 7 ad 2, et consimiliter poteris omnes definire, et isto ultimo modo proprie assignantur species, quia hae sunt specialissimae, et per specialissimas respondendum est quando quaeritur quae proportio est huius ad illud.
 
@@ -787,7 +787,7 @@ Exemplum: 1, 2, 4, 8. Ibi continue servatur similis proportio, quia continue ser
 
 Et ex hoc sequitur unum documentum in naturali philosophia, quandocumque ponitur casus in philosophia quod mobile in prima parte proportionali moveatur ut duo, in secunda ut 4, et sic consequenter geometrice, iam intelliges quod debes consequenter servare habitudinem proportionis, et si non excessus similitudinem.
 
-Patet ultra [quod] haec proportionalitas geometrica multipliciter potest fieri, scilicet ascendendo per duplam aut per subduplam, ut in exemplo dato, similiter per triplam aut per subtriplam, ut ibi, 1, 3, 9, 27, similiter per quadruplam aut subquadruplam, ut ibi, 1, 4, 16, 64, et sic consequenter.
+Patet ultra quod haec proportionalitas geometrica multipliciter potest fieri, scilicet ascendendo per duplam aut per subduplam, ut in exemplo dato, similiter per triplam aut per subtriplam, ut ibi, 1, 3, 9, 27, similiter per quadruplam aut subquadruplam, ut ibi, 1, 4, 16, 64, et sic consequenter.
 
 ### Pro *Posterioribus*
 
@@ -839,7 +839,7 @@ Vel si vis, ut dixi:
 
 > Similitudo proportionum inter quas non capitur idem commune, sive inter quas non est consequens unius antecedens alterius.
 
-Exemplum ut qualis est proportio 8 ad 4, talis est 2 ad 1. Et haec proportionalitas non reperitur in paucioribus terminis [quam] 4, sed in pluribus reperiri valet. Patet in exemplo qualis est 3 ad 6, talis est 8 ad 4, et 2 ad 1. Et si petas utrum ibi sit proportionalitas discontinua, qualis est proportio 3 ad 6, talis 8 /35a/ ad 4, dico quod sic, nec inconvenit in proportionalitate discontinua communicationem reperiri inter proportiones eo modo ut inferius loquimur de communicatione proportionum.
+Exemplum ut qualis est proportio 8 ad 4, talis est 2 ad 1. Et haec proportionalitas non reperitur in paucioribus terminis quam 4, sed in pluribus reperiri valet. Patet in exemplo qualis est 3 ad 6, talis est 8 ad 4, et 2 ad 1. Et si petas utrum ibi sit proportionalitas discontinua, qualis est proportio 3 ad 6, talis 8 /35a/ ad 4, dico quod sic, nec inconvenit in proportionalitate discontinua communicationem reperiri inter proportiones eo modo ut inferius loquimur de communicatione proportionum.
 
 ### Proportionalitas coniuncta
 
@@ -863,7 +863,7 @@ Proportionalitas eversa: potest bifariam sumi, uno modo potest sumitur eversa ad
 
 ### Proportionalitas eversa ad disiunctam
 
-> Eversa [ad] disiunctam: est quando ex similitudine proportionis antecedentis et consequentis unius ad antecedens eiusdem, et antecedentis et consequentis alterius ad antecedens ipsius infertur similitudo proportionis antecedentis ad consequentis unius, et antecedentis ad consequens alterius.
+> Eversa ad disiunctam: est quando ex similitudine proportionis antecedentis et consequentis unius ad antecedens eiusdem, et antecedentis et consequentis alterius ad antecedens ipsius infertur similitudo proportionis antecedentis ad consequentis unius, et antecedentis ad consequens alterius.
 
 Exemplum: qualis est proportio a et b ad a, talis est c et d ad c; igitur qualis est proportio a ad b talis est c ad d. Et hoc patet ex praemissae in numeris, qualis est proportio 8 et 4 ad 8, talis est duorum et unius ad duo; ergo qualis est 8 ad 4, talis est 2 ad unum.
 
@@ -1033,7 +1033,7 @@ Et si petas an corpus septem pedum cum dimidio sit illo maius, aliqui forsan dic
 
 Ad secundum argumentum dicitur quod infiniti ad finitum et e contra, aut infiniti ad infinitum nulla est proportio proprie loquendo, ut sermo communis philosophicus testatur. Et hoc verum habet loquendo de proportionibus de quibus superius locuti sumus, quia certum est illa proportio in nulla specierum assignatarum contineretur. Et ex consequenti haec consequentia est neganda: "a est maius et b est minus; ergo a ad b est proportio maioris inaequalitatis". Nec etiam sequitur: "a est minus et b maius; ergo a ad b est proportio minoris inaequalitatis". Patet in proposito.
 
-Et si arguas: "ipsum finitum aliquoties sumptum reddit infinitum; ergo est multiplex proportio inter illa, patet ex definitione proportionis multiplicis, vel ad minus aliqua alia proportio", non negando consequentiam, nam in definitionibus superius positis nos loquebamur de continentia finitarum [ad] finitum, qualiter non est ibi. Nisi velis tenere unum quod superius dictum est, quod esset proportio infinita, et quod proportio primo posset dividi in proportionem finitam et infinitam, et quod processus factus sit de proportione finita, nisi etiam velles dicere quod esset proportio aequalitatis infiniti ad infinitum, de qua diximus ipsam nullas habere species, et si communiter oppositum dicatur loquimur /39a/ de aliis. In istis non obviamus mathematicis, quia de istis casibus et istis difficultatibus non curarunt. Sufficit rationabiliter loqui et consequenter.
+Et si arguas: "ipsum finitum aliquoties sumptum reddit infinitum; ergo est multiplex proportio inter illa, patet ex definitione proportionis multiplicis, vel ad minus aliqua alia proportio", non negando consequentiam, nam in definitionibus superius positis nos loquebamur de continentia finitarum ad finitum, qualiter non est ibi. Nisi velis tenere unum quod superius dictum est, quod esset proportio infinita, et quod proportio primo posset dividi in proportionem finitam et infinitam, et quod processus factus sit de proportione finita, nisi etiam velles dicere quod esset proportio aequalitatis infiniti ad infinitum, de qua diximus ipsam nullas habere species, et si communiter oppositum dicatur loquimur /39a/ de aliis. In istis non obviamus mathematicis, quia de istis casibus et istis difficultatibus non curarunt. Sufficit rationabiliter loqui et consequenter.
 
 Notandum tamen est super materia subiecta quod, licet concedatur unum infinitum esse maius alio improprie, non tamen proprie loquendo, nec minus. Et ideo inter talia non est opus proportionem reperiri, nisi velis dicere modis tactis.
 
@@ -1464,7 +1464,25 @@ Quarta propositio: dividendo proportione sesquialtera debes pro residuo a prima 
 
 Quinta propositio: si vis dividere proportione sesquitertia, debes pro residuo a prima parte proportionali accipere tres quartas, et pro prima unam quartam. Patet, nam totius ad tres quartas est sesquitertia, et ibi totius ad primam est quadrupla. Et sic in hac specie non est similis proportio totius ad primam et ad residuum a prima. Et sic poteris dividere unaquaque superparticulari simplici. Infertur quod, dividendo speciebus superparticularis proportionis, quamdiu per illas species ascendimus minoratur prima pars proportionalis et maioratur residuum a prima.
 
-Sexta propositio: si vis dividere proportione superbipartiente tertias, debes pro residuo a prima parte proportionali capere tres quintas, nam totius ad tres quintas est superbipartiens tertias; et pro prima parte duas quintas. Et sic in hac divisione totius ad primam est dupla sesquialtera, et /53a/ non est eadem totius ad primam ad residuum a prima.
+Sexta propositio: si vis dividere proportione superbipartiente tertias, debes pro residuo a prima parte proportionali capere tres quintas, nam totius ad tres quintas est superbipartiens tertias; et pro prima parte duas quintas. Et sic in hac divisione totius ad primam est dupla sesquialtera, et /53a/ sic non est eadem totius ad primam et ad residuum a prima.
+
+Septima propositio: si vis dividere proportione superbipartiente quintas, debes capere pro residuo a prima quinque septimas, nam totius ad quinque septimas est superbipartiens quintas; et pro prima duas septimas. Et sic ibi ad primam est tripla sesquialtera, quare non est etiam eadem ad primam ut ad residuum a prima. Et sic isto ordine procedendo semper maioratur residuum a prima et minoratur prima, et per haec patet de aliis.
+
+Octava propositio: si vis dividere proportione supertripartiente quartas, debes pro residuo a prima parte proportionali capere quattuor septimas, et pro prima tres. Totius enim ad quattuor septimas est supertripartiens quartas, et sic ibi totius ad primam est dupla sesquitertia. Et sic patet de aliis omnibus superpartientibus.
+
+Nona propositio: si vis dividere proportione dupla sesquialtera, debes capere pro residuo a prima parte proportionali duas quintas; totius ad duas quintas est dupla sesquialtera; et pro prima tres. Et sic in hac divisione totius ad primam est superbipartiens tertias.
+
+Decima propositio: si vis dividere tripla sesquialtera, debes pro residuo a prima capere duas septimas, et pro prima quinque septimas, nam totius ad duas septimas est tripla sesquialtera, et ibi ad primam est superbipartiens quintas. Et sic consequenter poteris dividere unaquaque multiplici superparticulari.
+
+Undecima propositio: si vis dividere aliquod continuum per partes proportionales proportione dupla superbipartiente tertias, debes capere pro residuo a prima parte proportionali tres octavas, cum totum contineat bis tres octavas, et cum hoc duas, quae sunt duae tertiae trium octavarum, et per consequens totum habet ad tres octavas illam proportionem. Et quia supersunt 5, debes pro prima capere 5.
+
+Duodecima propositio: si vis dividere per partes proportionales proportione /53b/ dupla superbipartiente quintas, debes capere pro residuo a prima parte proportionali quinque duodecimas, nam totum ad eas habet illam proportionem, nam continet bis eas, et cum hoc duas quae sunt duae quintae 5 duodecimarum; et ex consequenti pro prima debes capere septem duodecimas. Et sic consequenter poteris procedere in aliis multiplicibus superpartientibus.
+
+His praelibatis facile ex consequenti poteris cognoscere quid pro secunda parte proportionali unaquaque specie sumendum sit, et quid pro tertia, sic consequenter. Et do tibi praxim de aliquibus, ex quibus indicium in aliis facile inferre valebis. Postquam enim partes proportionales sunt partes eiusdem proportionis, debes in aliis incedere proportionatis proportione a qua incipis divisionem, sicque sicut in ordine ad totum primam cepisti, taliter in ordine ad residuum ceterae sunt accipiendae.
+
+Accipe exempla: sicut in dupla proportione accipiendo primam capis totius medietatem, ita accipiendo secundam debes residui medietatem accipere, quae quidem medietas residui erit subdupla ad primam; et pro tertia medietatem residui a prima et secunda, quae etiam erit subdupla ad secundam, et sic consequenter. Et sicut dividendo proportione tripla capis pro prima parte proportionali duas tertias totius, debes pro secunda parte accipere duas tertias residui a prima, et pro tertia parte duas tertias residui a prima et a secunda, et sic consequenter, quae proportionabuntur proportione a qua incipis. Et sicut dividendo proportione sesquialtera pro prima parte proportionali accipis unam tertiam totius, debes ex consequenti pro secunda parte proportionali capere unam tertiam residui a prima, et pro tertia unam tertiam residui a prima et secunda, et sic consequenter.
+
+Et sic constat regula quod sicut capis primam in ordine ad totum, debes alias capere in ordine ad residua remanentia. Quo intellecto in simplicibus, valebis applicare in compositis, quas quia tempus non patitur omittimus. /54a/
 
 
 
@@ -1479,7 +1497,17 @@ Sexta propositio: si vis dividere proportione superbipartiente tertias, debes pr
 * transp.  (transposito) : Printer accidentally swapped word or letter order.
 * sic                    : Error left exactly as printed in the original.
 
+Format: edited reading ] siglum original reading (context)
+* The context in parentheses quotes the passage as printed in the original,
+  so the source reading stays visible. To find the passage in the edited text,
+  substitute the reading before the ] into the context.
+* Editorial explanations follow the context after a semicolon or "cf.".
+* For om., the context quotes the original and marks the supplied word
+  in [ ], e.g. a ] om. (Volo quod [a] valeat). Everything outside the
+  brackets is as printed.
+
 ## Log
+Page 12: et ] om. (Hesiodus [et] Ennius)
 Page 12: Ennius ] emend. Echenius
 Page 12: satiricus ] emend. sathericus
 Page 12: amorem ] emend. morem
@@ -1497,31 +1525,38 @@ Page 19b: falcem ] emend. falſā
 Page 20b: sibilatus ] emend. sibilitus
 Page 24: Bradwardinum ] emend. Brauardinum 
 Page 24: Forliviensem ] emend. Forlumensem 
+Page 26a: conclusio ] om. (Prima [conclusio]: Numerus alio maior)
 Page 26a: phantastica ] emend. fantastica 
 Page 26a: aequalis ] emend. et qualis 
+Page 26a: conclusio ] om. (Tertia [conclusio]: Unus numerus alteri aequalis)
 Page 27a: sesquipedalitatis ] emend. se imipedalitatis
 Page 27a: sesquipedalitas ] emend. se imipedalitas
 Page 28a: sexies ] emend. septies
+Page 32a: est ] om. (Multiplex superparticularis: [est] quando)
 Page 32a: 15 ] emend. 16
+Page 32a: et ] om. (exemplum 15 ad sex, [et] similiter)
 Page 32b: capias ] emend. tcapiaε
 Page 32b: Similiter ] conj. Simplex
 Page 33a: commutativa ] emend. commitativa
 Page 33a: 3 ] emend. 2
+Page 33b: quod ] om. (Patet ultra [quod] haec proportionalitas)
 Page 34a: 1 ] emend. 2 (initial term of 1, 3, 5, 7, 9)
 Page 34a: licet ] conj. 13
+Page 34b: quam ] om. (non reperitur in paucioribus terminis [quam] 4)
+Page 35a: ad ] om. (Eversa [ad] disiunctam)
 Page 36a: 1 ] emend. 2
 Page 36a: conclusione ] conj. ꝯōe
 Page 36b: 64 ] emend. 94
 Page 37b: octupedale ] emend. octupedalo
 Page 38a: si ] emend. f
-Page 38a: a ] emend. b (considerando a prout est in primo loco; a is the multilocated term)
-Page 38a: aequalis ] emend. inaequalis (nulla pars maioris esset aequalis minori; cf. nulla pars b est aequalis a)
+Page 38a: a ] emend. b (considerando b prout est in primo loco; a is the multilocated term)
+Page 38a: aequalis ] emend. inaequalis (nulla pars maioris esset inaequalis minori; cf. nulla pars b est aequalis a)
 Page 38a: septempedalis ] leg. septupedalis
-Page 38b: [ad] ] om.
+Page 38b: ad ] om. (de continentia finitarum [ad] finitum)
 Page 38b: finitum ] conj. vituū
 Page 39b: proprie ] emend. ꝓprio
-Page 40b: 4 ] emend. 3 (qua 6 excedit 4; prima differentia est binarius)
-Page 42b: improprie ] conj. proprie (iam dictam; cf. 39a and maioritas improprie dicta in the next sentence)
+Page 40b: 4 ] emend. 3 (qua 6 excedit 3; prima differentia est binarius)
+Page 42b: improprie ] emend. iam proprie (maioritatem iam proprie dictam, printed iā pprie, i.e. im-proprie split in two; cf. 39a and maioritas improprie dicta in the next sentence)
 Page 42b: assignari ] emend. assignare
 Page 43a: maximum et medium ] emend. maximum et minimum (cf. 8 ad 6 among the parts)
 Page 43a: 7 ad 5 ] transp. 5 ad 7
@@ -1534,36 +1569,42 @@ Page 44b: 16 ] emend. 6 (dupla; cf. primi essent maiores)
 Page 44b: quadruplo ] emend. quadruple
 Page 44b: duplae ] emend. duple
 Page 44b: duplae ] emend. duple
-Page 44b: ad ] emend. ergo [ad] illud maius minus quam duplum
-Page 44b: et ] emend. medietate maius, [et] ad medietatem
+Page 44b: ad ] om. (ergo [ad] illud maius minus quam duplum)
+Page 44b: et ] om. (medietate maius, [et] ad medietatem)
 Page 45a: denominatur ] emend. denominatio
 Page 45a: censeo ] conj. ceseo
 Page 45a: demando ] sic (dēmandō; reading obscure)
 Page 45a: tripla sesquialtera ] emend. tripla sexquitertia (a ternario cum medietate)
 Page 45b: maioris ] emend. maioribus
 Page 45b: propositiones ] conj. ꝓportiōes (cf. Prima, Secunda, Tertia propositio)
-Page 46a: superbipartiens ] emend. superpartiens (aliqua superbipartiens aliqua supertripartiente; cf. the examples superbipartiens tertias, superbipartiens undecimas)
+Page 46a: superbipartiens ] emend. superpartiens (aliqua superpartiens aliqua supertripartiente; cf. the examples superbipartiens tertias, superbipartiens undecimas)
 Page 46b: 5 ad 2 ] emend. 5 ad 3 (dupla sesquialtera; part of 8 ad 2)
 Page 46b: b differt ab a, et tamen a non differt a b ] sic (the proof on 47a has a differt a b ... nullum b differt ab a)
 Page 46b: a est aequale c, cui b est aequale, tamen a non est aequale b ] sic (the proof on 47a has a and c equal to b, and a non aequale c)
-Page 47a: Volo quod a valeat ] Volo quod valeat
-Page 47a: c ] emend. b (a non aequale c; the gloss cuilibet parti is the sense of c)
+Page 47a: a ] om. (Volo quod [a] valeat)
+Page 47a: c ] emend. b (a non aequale b; the gloss cuilibet parti is the sense of c)
 Page 47b: multa ] emend. nulla
 Page 47b: bipedaliter ] emend. pedaliter (lata, after a cut by length only)
 Page 47b: bipedaliter ] emend. pedaliter (profunda, after a cut by length only)
 Page 47b: postea ] conj. prius ea
 Page 48b: superbipartiens ] emend. superpartiens (quintas; cf. superbipartiens quintas in the preceding sentences)
 Page 49b: 9 ] emend. 6 (6 ad 3, quae est tripla)
-Page 49b: sesquialteram ] emend. sesquitertiam (minus quam dupla ad sesquialteram; the first sesquitertiam stands)
+Page 49b: sesquialteram ] emend. sesquitertiam (magis quam dupla ad sesquitertiam et minus quam dupla ad sesquitertiam; the first sesquitertiam stands)
 Page 49b: est ] sic (om.; proportio quadrupla non dupla ad triplam)
 Page 49b: numquam ] emend. nonnumquam (dupla ad triplam nonnumquam; the sense requires numquam; cf. the preceding proposition)
 Page 50a: sextupla ] emend. septupla (25 ad 4; continet 6 4 et quartam eius)
 Page 50a: continet 6 4 ] sic (i.e. sexies 4)
 Page 50b: 64 ad 9 ] emend. 64 ad 6 (septupla sesquinona; composed of 64 ad 24 and 24 ad 9)
-Page 50b: sextupla ] emend. septupla, (septupla est sexquialtera ad quadruplam)
-Page 50b: sextupla ] emend. septupla, (septupla quae est 12 ad 2)
+Page 50b: sextupla ] emend. septupla (septupla est sexquialtera ad quadruplam)
+Page 50b: sextupla ] emend. septupla (septupla quae est 12 ad 2)
 Page 50b: propositionibus ] conj. proportionibus (secunda pars follows from propositio vigesima; cf. 45b)
-Page 52a: unaquaque ] emend. (unaquaeque proportione corpus debeat dividi)
-Page 52a: quomodo ] conj. quõ (vide quomodo continet illam proportionem; possibly quotiens, cf. aliquotiens)
-Page 52b: est ] emend. et (et ibi totius ad primam est quadrupla; cf. Quarta propositio: nam ad primam est tripla)
+Page 52a: unaquaque ] emend. unaquaeque (unaquaeque proportione corpus debeat dividi)
+Page 52a: quomodo ] conj. quõ (vide quõ continet illam proportionem; possibly quotiens, cf. aliquotiens)
+Page 52b: est ] emend. et (et ibi totius ad primam et quadrupla; cf. Quarta propositio: nam ad primam est tripla)
+Page 53a: quinque ] emend. quandoque (pro residuo a prima quandoque septimas)
+Page 53a: quinque ] emend. quandoque (totius ad quandoque septimas est superbipartiens quintas)
+Page 53b: praxim ] conj. pracsim
+Page 53b: residui ] emend. residuum (debes residuum medietatem accipere)
+Page 53b: a prima ] emend. ad primam (duas tertias residui ad primam)
+Page 53b: debes ] emend. dedes
 -->

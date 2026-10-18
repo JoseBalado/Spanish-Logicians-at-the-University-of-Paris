@@ -1009,7 +1009,7 @@ Four obstacles stood in the way:
 
 ### P10. Dividing a body by proportional parts
 
-Used on 51a–52b (§30, §31). The fourth article divides a body _per partes proportionales_. Dolz's first preamble: parts _eiusdem quantitatis_ are equal in extension; parts _eiusdem proportionis_ each stand to the next in one and the same proportion, _secundum ordinem proportionis duplae vel triplae et caetera_. On 52a he gives the rule for making the division, and it is step 1 below: _opus est ut totum ad residuum a prima parte proportionali habeat talem proportionem qualis est proportio in qua vis facere divisionem_.
+Used on 51a–53b (§30–§32). The fourth article divides a body _per partes proportionales_. Dolz's first preamble: parts _eiusdem quantitatis_ are equal in extension; parts _eiusdem proportionis_ each stand to the next in one and the same proportion, _secundum ordinem proportionis duplae vel triplae et caetera_. On 52a he gives the rule for making the division, and it is step 1 below: _opus est ut totum ad residuum a prima parte proportionali habeat talem proportionem qualis est proportio in qua vis facere divisionem_. On 53b he adds the rule for the later parts, step 2: _sicut capis primam in ordine ad totum, debes alias capere in ordine ad residua remanentia_.
 
 **The picture first.** Take a foot, from $a$ to $b$, and divide it by the _dupla_, _minoribus terminatis versus b_ (fourth preamble): the smaller parts are taken toward $b$. Count the foot as 32 small squares, so that the first three cuts come out in whole squares. □ is what is left, still to be cut; ■ is a part, cut off and set aside for good.
 
@@ -1071,7 +1071,7 @@ Read from $a$, the order of the division, there is a first part, the greatest, a
 Steps for dividing a whole by proportional parts in a proportion $p:q$ of greater inequality.
 
 1. Cut the whole so that **the whole is to what is left** as $p:q$. In practice: split the whole into $p$ equal pieces, keep $q$ of them, and cut off the other $p-q$. The piece cut off is the first part. Modern: whole $\div$ what is left $=p\div q$, so what is left is $\tfrac qp$ of the whole.
-2. Cut what is left in the same way, so that it is to its own remainder as $p:q$. The piece cut off is the second part.
+2. Cut what is left in the same way, so that it is to its own remainder as $p:q$. The piece cut off is the second part. Dolz's second rule (53b) says the same from the side of the parts: whatever share of the whole the first part was, take that share of what is left.
 3. Go on without end.
 
 Each remainder is to the next as $p:q$, and each part is the same share of its remainder, so the parts are to one another as $p:q$ too.
@@ -1097,7 +1097,7 @@ Each remainder is to the next as $p:q$, and each part is the same share of its r
 
 Each part cut off is half of what is kept at that cut. Modern check of step 5: $\tfrac13\div\tfrac29=\tfrac13\times\tfrac92=\tfrac96=\tfrac32$. This $3:2$ is not the _sesquialtera_ by which the _tripla_ exceeds the _dupla_ (P5, Examples F and G). There $3:2$ is the answer of a subtraction of proportions; here it is given and used to cut a line.
 
-The same for the six species of Dolz's propositions (52a–52b). He gives what is left and the first part, and adds how the whole stands to the first part. All fractions are of the whole.
+The same for the twelve species of Dolz's propositions (52a–53b). He gives what is left and the first part, and in all but the last two adds how the whole stands to the first part. All fractions are of the whole.
 
 | Column | Meaning |
 | --- | --- |
@@ -1112,14 +1112,20 @@ The same for the six species of Dolz's propositions (52a–52b). He gives what i
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | _dupla_ $2:1$ | one half | one half | one fourth | two fourths to one fourth, $2:1$ | _dupla_, the same |
 | 2 | _tripla_ $3:1$ | one third | **two thirds** | two ninths | six ninths to two ninths, $3:1$ | _sesquialtera_ $3:2$ |
-| 3 | _quadrupla_ $4:1$ | one fourth | three fourths | three sixteenths | twelve sixteenths to three, $4:1$ | _sesquitertia_ $4:3$ |
+| 3 | _quadrupla_ $4:1$ | one fourth | **three fourths** | three sixteenths | twelve sixteenths to three, $4:1$ | _sesquitertia_ $4:3$ |
 | 4 | _sesquialtera_ $3:2$ | two thirds | one third | two ninths | three ninths to two ninths, $3:2$ | _tripla_ $3:1$ |
 | 5 | _sesquitertia_ $4:3$ | three fourths | one fourth | three sixteenths | four sixteenths to three, $4:3$ | _quadrupla_ $4:1$ |
 | 6 | _superbipartiens tertias_ $5:3$ | three fifths | two fifths | six twenty-fifths | ten twenty-fifths to six, $5:3$ | _dupla sesquialtera_ $5:2$ |
+| 7 | _superbipartiens quintas_ $7:5$ | five sevenths | two sevenths | ten forty-ninths | fourteen forty-ninths to ten, $7:5$ | _tripla sesquialtera_ $7:2$ |
+| 8 | _supertripartiens quartas_ $7:4$ | four sevenths | three sevenths | twelve forty-ninths | twenty-one forty-ninths to twelve, $7:4$ | _dupla sesquitertia_ $7:3$ |
+| 9 | _dupla sesquialtera_ $5:2$ | two fifths | **three fifths** | six twenty-fifths | fifteen twenty-fifths to six, $5:2$ | _superbipartiens tertias_ $5:3$ |
+| 10 | _tripla sesquialtera_ $7:2$ | two sevenths | **five sevenths** | ten forty-ninths | thirty-five forty-ninths to ten, $7:2$ | _superbipartiens quintas_ $7:5$ |
+| 11 | _dupla superbipartiens tertias_ $8:3$ | three eighths | **five eighths** | fifteen sixty-fourths | forty sixty-fourths to fifteen, $8:3$ | not stated; $8:5$, _supertripartiens quintas_ |
+| 12 | _dupla superbipartiens quintas_ $12:5$ | five twelfths | **seven twelfths** | thirty-five one-hundred-forty-fourths | eighty-four to thirty-five, $12:5$ | not stated; $12:7$ |
 
-In the _tripla_ the first part is two thirds, not one third: the third is what is left. The proportion fixes the parts to one another, not the size of the first part as a fraction named after the species.
+In the _tripla_ the first part is two thirds, not one third: the third is what is left. The proportion fixes the parts to one another, not the size of the first part as a fraction named after the species. In bold are the first parts greater than what is left; see below for when this happens.
 
-**Whole to first part.** If the whole is split into $p$ pieces and $q$ are left, the first part is $p-q$ pieces. So the whole is to what is left as $p:q$, and to the first part as $p:(p-q)$. Only in the _dupla_ are the two the same, because only there is $p-q$ equal to $q$ (proposition 1). The pairs swap: dividing by the _tripla_, the whole is _sesquialtera_ to the first part; dividing by the _sesquialtera_, it is _tripla_ to it (propositions 2 and 4); the _quadrupla_ and the _sesquitertia_ likewise (propositions 3 and 5). In general a _multiplex_ $n:1$ gives the _superparticularis_ $n:(n-1)$, and the reverse.
+**Whole to first part.** If the whole is split into $p$ pieces and $q$ are left, the first part is $p-q$ pieces. So the whole is to what is left as $p:q$, and to the first part as $p:(p-q)$. Only in the _dupla_ are the two the same, because only there is $p-q$ equal to $q$ (proposition 1). The pairs swap: dividing by the _tripla_, the whole is _sesquialtera_ to the first part; dividing by the _sesquialtera_, it is _tripla_ to it (propositions 2 and 4); the _quadrupla_ and the _sesquitertia_ likewise (propositions 3 and 5). In general a _multiplex_ $n:1$ gives the _superparticularis_ $n:(n-1)$, and the reverse. A _superpartiens_ gives a composite species, and the reverse: $5:3$ and $5:2$ (propositions 6 and 9), $7:5$ and $7:2$ (7 and 10), $8:3$ and $8:5$ (11).
 
 | Dividing by | What is left | First part | Whole to first part | Modern |
 | --- | --- | --- | --- | --- |
@@ -1127,7 +1133,32 @@ In the _tripla_ the first part is two thirds, not one third: the third is what i
 | $3:1$ | $\tfrac13$ | $\tfrac23$ | $3:2$ | $\tfrac13+\tfrac23=1$ |
 | $3:2$ | $\tfrac23$ | $\tfrac13$ | $3:1$ | $\tfrac23+\tfrac13=1$ |
 
-Hence Dolz's two inferences. Going up the _multiplices_, $2:1$, $3:1$, $4:1$, what is left is a half, a third, a fourth: it shrinks and the first part grows. Going up the _superparticulares_, $3:2$, $4:3$, $5:4$, what is left is two thirds, three fourths, four fifths: it grows and the first part, a third, a fourth, a fifth, shrinks. The greater the proportion of division, the greater the first part.
+Hence Dolz's three inferences. Going up the _multiplices_, $2:1$, $3:1$, $4:1$, what is left is a half, a third, a fourth: it shrinks and the first part grows. Going up the _superparticulares_, $3:2$, $4:3$, $5:4$, what is left is two thirds, three fourths, four fifths: it grows and the first part, a third, a fourth, a fifth, shrinks. Going up the _superbipartientes_, $5:3$, $7:5$, $9:7$, what is left is three fifths, five sevenths, seven ninths: it grows and the first part, two fifths, two sevenths, two ninths, shrinks (53a). The greater the proportion of division, the greater the first part.
+
+**More or less than half?** The _dupla_ is the dividing line. The first part is $\tfrac{p-q}p$ of the whole, and this is more than half exactly when $p$ is more than twice $q$, that is, when the proportion of division is greater than the _dupla_.
+
+| Proportion of division | First part | Species | Propositions |
+| --- | --- | --- | --- |
+| the _dupla_ | exactly half | _dupla_ | 1 |
+| less than the _dupla_ | less than half; what is left is greater | _superparticularis_, _superpartiens_ | 4–8 |
+| greater than the _dupla_ | more than half; what is left is less | _multiplex_ from the _tripla_, the composite species | 2–3, 9–12 |
+
+A _multiplex_ or composite species contains the lesser term at least twice, a _superparticularis_ or _superpartiens_ only once (P2), so the rows split along Dolz's genera, with the _dupla_, the least _multiplex_, on the line. The mirror of a division always lies on the other side of the half: $5:3$ cuts off two fifths, $5:2$ three fifths.
+
+**Worked example: a composite species, the _dupla superbipartiens tertias_ $8:3$ (proposition 11).** The name gives the numbers (P2), the numbers give the cut, and Dolz checks the cut against the name.
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | what numbers does the name give? | _tertias_: the lesser term is $3$; _dupla_: $3$ twice is $6$; _superbipartiens tertias_: two thirds of $3$ more, that is $2$; $6+2$ | $8:3$ |
+| 2 | what is left after the first cut? | the whole must be to it as $8$ to $3$: split the whole into eight eighths and keep three | three eighths |
+| 3 | Dolz's check: is the whole to three eighths a _dupla superbipartiens tertias_? | the whole, eight eighths, contains three eighths twice, six eighths, and two eighths more; two eighths are two thirds of three eighths | yes: twice and two thirds |
+| 4 | first part | eight eighths less three eighths | five eighths |
+| 5 | second part (second rule, 53b) | five eighths of what is left: three eighths is twenty-four sixty-fourths; an eighth of it is three sixty-fourths; five of these | fifteen sixty-fourths |
+| 6 | what is left after the second cut? | twenty-four sixty-fourths less fifteen | nine sixty-fourths, three eighths of three eighths |
+| 7 | is the first part to the second $8:3$? | five eighths is forty sixty-fourths; $40:15$, both divided by $5$ | $8:3$, yes |
+| 8 | third part | five eighths of nine sixty-fourths | forty-five five-hundred-twelfths; fifteen sixty-fourths is one hundred twenty of them, and $120:45=8:3$ |
+
+Modern check: $\tfrac58\times\tfrac38=\tfrac{15}{64}$ and $\tfrac58\div\tfrac{15}{64}=\tfrac58\times\tfrac{64}{15}=\tfrac{40}{15}=\tfrac83$. The proportion is greater than the _dupla_, so the first part, five eighths, is more than half. The whole is to it as $8:5$, a _superpartiens_: the mirror swaps a composite species for a _superpartiens_.
 
 ### Summary
 
@@ -1143,17 +1174,17 @@ Hence Dolz's two inferences. Going up the _multiplices_, $2:1$, $3:1$, $4:1$, wh
 | halving | _medium proportionale_; not always possible, the half of the _dupla_ is not rational (50b) | half of $9:4$ is $3:2$ | square root |
 | comparing | denomination, whole number first (46a–46b); leftovers to the same number of parts (48b); cross-multiply; or whole and part; only within one kind (48a) | $3:2>4:3$; $2:1>3:2$; $10:3>5:2$; $\tfrac24>\tfrac25$ | compare fractions |
 | how many times (_est ad_) | count links (49a–49b), never divide denominations; if no whole count, bound it by principle 3; a count may be a _sesquialtera_ (50b); Dolz's rule: _per earum compositionem_ (52a) | $8:1$ is three _duplae_, not four; $4:1$ is between one and two _triplae_; $8:1$ is _sesquialtera_ to $4:1$ | ratio of logarithms, not of values |
-| dividing by proportional parts | Dolz's rule: cut so that the whole is to what is left as the proportion; repeat without end (52a; P10) | _dupla_: $\tfrac12,\tfrac14,\tfrac18,\dots$; _tripla_: $\tfrac23,\tfrac29,\tfrac2{27},\dots$; _sesquitertia_: $\tfrac14,\tfrac3{16},\dots$ | geometric series |
+| dividing by proportional parts | Dolz's first rule: cut so that the whole is to what is left as the proportion (52a); second rule: take each later part from what is left as the first from the whole (53b); repeat without end (P10) | _dupla_: $\tfrac12,\tfrac14,\tfrac18,\dots$; _tripla_: $\tfrac23,\tfrac29,\tfrac2{27},\dots$; _sesquitertia_: $\tfrac14,\tfrac3{16},\dots$; _dupla superbipartiens tertias_: $\tfrac58,\tfrac{15}{64},\dots$ | geometric series |
 
 ### Still to come
 
-The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles, its principles, the general rule of greater proportion, and the order of the species (43a–46b, §22–§25) are covered by P1, P2, and P4–P7; the cube of 47b (§26) by P6; the comparisons of 48a–49a (§27) by P7; the proportion of proportions of 49a–51b (§28–§30) by P5 and P6. Dolz has promised an account of _communicatio proportionum_, overlapping proportions (43a), and of proportions that are not rational (_ut dicemus inferius_, 50b). The prooemium (25a) gives the third article the excess of one proportion over another and the proportion in which one is greater than another, and asks _quae regula dari valeat_. Page 50 separated the two questions (P5, Example F; P6); page 51a gives the rule for the first (P5, Example G) and closes both articles, and 52a adds that the second has no rule except counting by composition (P6). The fourth article, division by proportional parts, begins on 51a with six preambles; its rule and first six propositions follow on 52a–52b (P10). The rules of motion belong to the fifth article. Operations needed for them will be added here as the transcription reaches them.
+The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles, its principles, the general rule of greater proportion, and the order of the species (43a–46b, §22–§25) are covered by P1, P2, and P4–P7; the cube of 47b (§26) by P6; the comparisons of 48a–49a (§27) by P7; the proportion of proportions of 49a–51b (§28–§30) by P5 and P6. Dolz has promised an account of _communicatio proportionum_, overlapping proportions (43a), and of proportions that are not rational (_ut dicemus inferius_, 50b). The prooemium (25a) gives the third article the excess of one proportion over another and the proportion in which one is greater than another, and asks _quae regula dari valeat_. Page 50 separated the two questions (P5, Example F; P6); page 51a gives the rule for the first (P5, Example G) and closes both articles, and 52a adds that the second has no rule except counting by composition (P6). The fourth article, division by proportional parts, begins on 51a with six preambles; its first rule and twelve propositions, through all five genera of greater inequality, follow on 52a–53b, and its second rule, for the later parts, on 53b (P10). Dolz omits the later parts for the composite species (_quia tempus non patitur_); P10 works one. The rules of motion belong to the fifth article. Operations needed for them will be added here as the transcription reaches them.
 
 ---
 
 # Preambles, proportion, and proportionality
 
-**Pages 25a–52b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals; the answers to the seven questions of page 29; the aliquot parts of the infinite, which close the first article; and the first four preambles of the second article, on the parts of a proportion; and its fifth preamble and first four principles, on the composition of proportions; the least terms and the general rule of greater proportion; and the order of the species by size, with an argument from Dullaert and its answer; two physical objections to the definition of _dupla_; and the incomparability of greater inequality, equality, and lesser inequality, with the remaining orders of the species; and the proportion of proportions, with the double of every proportion, the _sesquialtera_ of proportions, and the difference between exceeding by a proportion and being in one; the received rule for the excess of one proportion over another, which closes the second and third articles; and the six preambles of the fourth article, on division by proportional parts; Dolz's rule for how many times one proportion contains another; and the rule of division by proportional parts, with its first six propositions.
+**Pages 25a–53b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals; the answers to the seven questions of page 29; the aliquot parts of the infinite, which close the first article; and the first four preambles of the second article, on the parts of a proportion; and its fifth preamble and first four principles, on the composition of proportions; the least terms and the general rule of greater proportion; and the order of the species by size, with an argument from Dullaert and its answer; two physical objections to the definition of _dupla_; and the incomparability of greater inequality, equality, and lesser inequality, with the remaining orders of the species; and the proportion of proportions, with the double of every proportion, the _sesquialtera_ of proportions, and the difference between exceeding by a proportion and being in one; the received rule for the excess of one proportion over another, which closes the second and third articles; and the six preambles of the fourth article, on division by proportional parts; Dolz's rule for how many times one proportion contains another; and the two rules of division by proportional parts, with twelve propositions covering every genus of greater inequality.
 
 ## 1. Why the metaphysics comes first
 
@@ -3927,11 +3958,11 @@ _Istae non reperiuntur in infinitis_: such aliquot parts of proportions are lack
 
 ### The rule of division (52a)
 
-_His praeambulis positis ponuntur regulae generales quibus cognosces facillime quomodo unaquaque proportione corpus debeat dividi per partes proportionales._ The plural _regulae_ announces more than one; only the first is given on this page.
+_His praeambulis positis ponuntur regulae generales quibus cognosces facillime quomodo unaquaque proportione corpus debeat dividi per partes proportionales._ The plural _regulae_ announces more than one; only the first is given on this page. The second, for the later parts, comes on 53b (§32).
 
 > _Prima: si vis dividere corpus per partes proportionales quacumque proportione volueris, opus est ut totum ad residuum a prima parte proportionali habeat talem proportionem qualis est proportio in qua vis facere divisionem._
 
-This is step 1 of P10, the regular construction of the Calculators. The rule names only the first cut; that every later remainder is cut the same way is implicit in _partes eiusdem proportionis_ (first preamble, 51a).
+This is step 1 of P10, the regular construction of the Calculators. The rule names only the first cut. That every later remainder is cut the same way follows from _partes eiusdem proportionis_ (first preamble, 51a), and on 53b Dolz states it as a rule of its own, on that very ground (§32).
 
 ### Six propositions (52a–52b)
 
@@ -3955,9 +3986,76 @@ The two inferences look opposite but say one thing. Going up the species, the pr
 
 Three observations of ours:
 
-- **The mirror pairs.** Propositions 2 and 4, and 3 and 5, mirror each other: dividing by the _tripla_ the whole is _sesquialtera_ to the first part, dividing by the _sesquialtera_ it is _tripla_. If the whole is split into $p$ pieces and $q$ are left, it is to what is left as $p:q$ and to the first part as $p:(p-q)$, so the pairs swap. Proposition 6 has its mirror in the _dupla sesquialtera_ $5:2$: what is left is two fifths, the first part three fifths, and the whole is _superbipartiens tertias_ to it. Dolz states each case but not the pairing; he leaves it to the reader (_et sic poteris dividere quacumque alia_).
+- **The mirror pairs.** Propositions 2 and 4, and 3 and 5, mirror each other: dividing by the _tripla_ the whole is _sesquialtera_ to the first part, dividing by the _sesquialtera_ it is _tripla_. If the whole is split into $p$ pieces and $q$ are left, it is to what is left as $p:q$ and to the first part as $p:(p-q)$, so the pairs swap. Proposition 6 has its mirror in the _dupla sesquialtera_ $5:2$: what is left is two fifths, the first part three fifths, and the whole is _superbipartiens tertias_ to it. On 53a Dolz gives this mirror as proposition 9, and proposition 10 mirrors proposition 7 (§32). He states the paired cases but never the pairing itself.
 - **Only the _dupla_ is symmetric.** Proposition 1 is the only case where the first part and what is left are equal. It is the division the Calculators use most, an hour or a foot into halves, fourths, eighths; Dolz's preamble 5 used it for the hour (§30). The other propositions warn the student that this symmetry does not carry over.
 - **Why the whole to the first part matters.** In the cases of the Calculators a quality or a speed is often set on each proportional part, and what counts is the size of each part relative to the whole. In the _dupla_ the parts are a half, a fourth, an eighth of the whole; in the _tripla_ two thirds, two ninths, two twenty-sevenths (P10). The column _whole to first part_ is the first step of that calculation.
+
+---
+
+## 32. Twelve propositions across the five genera, and the rule for the later parts (53a–53b)
+
+Page 53 completes the propositions on the first proportional part. The sixth closes on 53a, and six more carry the division through the _superpartientes_, the _multiplices superparticulares_, and the _multiplices superpartientes_. Every genus of greater inequality now has its examples. Dolz then gives the second rule, for the second, third, and later parts, with three examples, and leaves the composite species to the reader because time does not allow more (_quia tempus non patitur_).
+
+### Propositions 7–12 (53a–53b)
+
+| Proposition | Genus | Proportion | Left after the first part (_residuum a prima_) | First part | Whole to first part |
+| --- | --- | --- | --- | --- | --- |
+| 6 (52b–53a) | _superpartiens_ | _superbipartiens tertias_ $5:3$ | three fifths | two fifths | _dupla sesquialtera_ $5:2$ |
+| 7 | _superpartiens_ | _superbipartiens quintas_ $7:5$ | five sevenths | two sevenths | _tripla sesquialtera_ $7:2$ |
+| 8 | _superpartiens_ | _supertripartiens quartas_ $7:4$ | four sevenths | three sevenths | _dupla sesquitertia_ $7:3$ |
+| 9 | _multiplex superparticularis_ | _dupla sesquialtera_ $5:2$ | two fifths | three fifths | _superbipartiens tertias_ $5:3$ |
+| 10 | _multiplex superparticularis_ | _tripla sesquialtera_ $7:2$ | two sevenths | five sevenths | _superbipartiens quintas_ $7:5$ |
+| 11 | _multiplex superpartiens_ | _dupla superbipartiens tertias_ $8:3$ | three eighths | five eighths | not stated (ours: _supertripartiens quintas_ $8:5$) |
+| 12 | _multiplex superpartiens_ | _dupla superbipartiens quintas_ $12:5$ | five twelfths | seven twelfths | not stated (ours: $12:7$, a _superpartiens_ with five sevenths over) |
+
+Every entry checks (P10). The twelve propositions follow Dolz's own division of greater inequality (30b–32a, §9–§11): the _multiplex_ (1–3), the _superparticularis_ (4–5), the _superpartiens_ (6–8), and the two composite genera (9–10, 11–12). Each family closes with a pointer to the rest: _per haec patet de aliis_ (7), _sic patet de aliis omnibus superpartientibus_ (8), _sic consequenter poteris dividere unaquaque multiplici superparticulari_ (10), _sic consequenter poteris procedere in aliis multiplicibus superpartientibus_ (12).
+
+After proposition 7 comes a third inference of the kind made on 52a–52b: _isto ordine procedendo semper maioratur residuum a prima et minoratur prima_. In the _superbipartiens_ series, _tertias_, _quintas_, _septimas_, what is left is three fifths, five sevenths, seven ninths and grows; the first part is two fifths, two sevenths, two ninths and shrinks. It is the same rule as before: going up the series the proportions shrink, $5:3>7:5>9:7$ (46a, §25), and the less the proportion of division, the less the first part.
+
+**The proofs change in propositions 11 and 12.** Propositions 7–10 are proved like 1–6: the whole to what is left is the proportion of the division, _patet_. For the composite _superpartientes_ Dolz names the proportion by its definition (32a–32b, §11; P2). The whole contains three eighths twice, six eighths, _et cum hoc duas, quae sunt duae tertiae trium octavarum_: twice and two thirds, the _dupla superbipartiens tertias_. Likewise the whole contains five twelfths twice and two twelfths more, _duae quintae 5 duodecimarum_. Here Dolz also stops giving the whole to the first part. Computed, it is $8:5$ and $12:7$, both _superpartientes_.
+
+### The mirror pairs (53a)
+
+Propositions 9 and 10 are the mirrors of 6 and 7. Dividing by the _superbipartiens tertias_, the whole is _dupla sesquialtera_ to the first part; dividing by the _dupla sesquialtera_, it is _superbipartiens tertias_ to it. The same holds for the _superbipartiens quintas_ and the _tripla sesquialtera_. Proposition 8 has no mirror among the twelve (it would be the _dupla sesquitertia_ $7:3$), and neither do 11 and 12.
+
+| Paired propositions | Dividing by | Whole to first part |
+| --- | --- | --- |
+| 1 | _dupla_ $2:1$ | _dupla_ $2:1$, itself |
+| 2 and 4 | _tripla_ $3:1$ / _sesquialtera_ $3:2$ | _sesquialtera_ / _tripla_ |
+| 3 and 5 | _quadrupla_ $4:1$ / _sesquitertia_ $4:3$ | _sesquitertia_ / _quadrupla_ |
+| 6 and 9 | _superbipartiens tertias_ $5:3$ / _dupla sesquialtera_ $5:2$ | _dupla sesquialtera_ / _superbipartiens tertias_ |
+| 7 and 10 | _superbipartiens quintas_ $7:5$ / _tripla sesquialtera_ $7:2$ | _tripla sesquialtera_ / _superbipartiens quintas_ |
+
+An observation of ours: the pairing runs along Dolz's division of the genera. If the whole is to what is left as $p:q$, it is to the first part as $p:(p-q)$ (P10). Dividing by a _multiplex_, the whole is _superparticularis_ to the first part, and the reverse. Dividing by a _superpartiens_, it is a composite species, _multiplex superparticularis_ or _multiplex superpartiens_, and the reverse: $8:3$ gives $8:5$, and $8:5$ gives $8:3$. Only the _dupla_ is its own mirror. Dolz's order, simple species first and their composite mirrors after, follows this pairing, though he never states it.
+
+### The second rule: the later parts (53b)
+
+_His praelibatis facile ex consequenti poteris cognoscere quid pro secunda parte proportionali unaquaque specie sumendum sit, et quid pro tertia, sic consequenter._ The ground is the first preamble of 51a: _Postquam enim partes proportionales sunt partes eiusdem proportionis, debes in aliis incedere proportionatis proportione a qua incipis divisionem._ Then the rule:
+
+> _Et sic constat regula quod sicut capis primam in ordine ad totum, debes alias capere in ordine ad residua remanentia._
+
+This is the second of the _regulae generales_ announced on 52a (§31), and step 2 of P10. Whatever share of the whole the first part is, each later part is that share of what is left. Dolz's examples:
+
+| Proportion | Each part, of what is left before it is cut | Parts, as fractions of the whole | Dolz |
+| --- | --- | --- | --- |
+| _dupla_ | the half | $\tfrac12$, $\tfrac14$, $\tfrac18$, … | the second _erit subdupla ad primam_, the third _subdupla ad secundam_ |
+| _tripla_ | two thirds | $\tfrac23$, $\tfrac29$, $\tfrac2{27}$, … | _quae proportionabuntur proportione a qua incipis_ |
+| _sesquialtera_ | one third | $\tfrac13$, $\tfrac29$, $\tfrac4{27}$, … | _et sic consequenter_ |
+
+Two formulations of one construction:
+
+| Rule | Says | Gives directly |
+| --- | --- | --- |
+| first rule, repeated (52a) | each remainder is to the next remainder as the proportion of division | what is left |
+| second rule (53b) | each part is the same share of what is left as the first part was of the whole | the parts |
+
+They agree. In the _sesquialtera_ the first rule leaves two thirds of what there was, and the second cuts off one third of it; together they are the whole of it.
+
+Three observations of ours:
+
+- **_Subdupla_.** Dolz names the second part to the first in lesser inequality. The division is named from the greater inequality, because the whole is greater than what is left (52a); read from a later part back to an earlier one, each stands in the reciprocal _sub-_ species (33a, §12). Every one of the twelve propositions is of greater inequality for this reason.
+- **_In simplicibus… in compositis_.** _Quo intellecto in simplicibus, valebis applicare in compositis, quas quia tempus non patitur omittimus._ The three examples are all simple species, and Dolz divided greater inequality into simple and composite on 30b (_quaedam simplex, quaedam composita_), the composite being the _multiplex superparticularis_ and _multiplex superpartiens_ (32a). Our reading is that the omitted _compositae_ are these species, propositions 9–12, whose later parts he does not work out. The rule does not change: dividing by the _dupla superbipartiens tertias_, every part is five eighths of what is left, $\tfrac58$, $\tfrac{15}{64}$, $\tfrac{45}{512}$, … (P10, worked example).
+- **Two rules, not a formula.** Dolz gives no rule for the size of the $n$-th part as a share of the whole. The student reaches it by repetition, one remainder at a time. The modern form, the first part times the $(n-1)$-th power of $\tfrac qp$, is the geometric series of P10. The Calculators' cases set a quality or a speed on each such part, and with the two rules the student can find every part they need.
 
 ---
 
@@ -4078,7 +4176,11 @@ Three observations of ours:
 113. Dolz's rule of division: the whole must stand to what is left after the first proportional part in the proportion of the division (52a).
 114. Dividing by the _dupla_, the first part and what is left are both halves; by the _tripla_, two thirds and a third; by the _quadrupla_, three fourths and a fourth; by the _sesquialtera_, a third and two thirds; by the _sesquitertia_, a fourth and three fourths; by the _superbipartiens tertias_, two fifths and three fifths (52a–52b).
 115. Only in the _dupla_ is the whole in the same proportion to the first part as to what is left. Otherwise the whole stands to the first part as $p:(p-q)$, and the _multiplex_ and _superparticularis_ cases pair off: _tripla_ with _sesquialtera_, _quadrupla_ with _sesquitertia_.
-116. The greater the proportion of division, the greater the first part: it grows going up the _multiplices_ and shrinks going up the _superparticulares_.
+116. The greater the proportion of division, the greater the first part: it grows going up the _multiplices_ and shrinks going up the _superparticulares_ and the _superbipartientes_ (52a–53a).
+117. Twelve propositions on the first part cover every genus of greater inequality: _multiplex_, _superparticularis_, _superpartiens_, _multiplex superparticularis_, _multiplex superpartiens_ (52a–53b). For the composite _superpartientes_ Dolz checks the proportion by its definition: the whole contains three eighths twice and two thirds of them.
+118. Dolz gives the mirror cases in pairs, 2 and 4, 3 and 5, 6 and 9, 7 and 10, without stating the pairing. Dividing by a _multiplex_ the whole is _superparticularis_ to the first part, by a _superpartiens_ a composite species, and the reverse; the _dupla_ is its own mirror.
+119. The second rule of division: as the first part is taken from the whole, so each later part is taken from what is left (53b). Its ground is that proportional parts are parts of the same proportion (51a). Each part is then to the next as the proportion of division, read in reverse as the _sub-_ species: the second part of the _dupla_ is _subdupla_ to the first.
+120. Dolz works the later parts only for simple species and omits the composite ones for lack of time; the rule is the same.
 
 ---
 
@@ -4176,3 +4278,7 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 52a | quomodo **unaquaeque** proportione corpus debeat dividi | **unaquaque** (adopted) | The ablative is required with _proportione_; cf. _quacumque proportione_ in the first rule |
 | 52a | et ita in aliis… ea ratione qua sunt **infinita** | _(obscure; left as printed)_ | Probably: aliquot parts of proportions are lacking in infinitely many cases, not in all (the _quadrupla_ has a half) |
 | 52b | et ibi totius ad primam **et** quadrupla | **est** (adopted) | _Et_ leaves the clause without a verb; cf. proposition 4, _nam ad primam est tripla_. Adverbial _et_, "also", is excluded: the proportion just named is the _sesquitertia_, not the _quadrupla_. Possibly the compositor misread a contracted _ē_ (_est_) |
+| 53a | pro residuo a prima **quandoque** septimas; totius ad **quandoque** septimas | **quinque** (adopted) | Proposition 7 divides by the _superbipartiens quintas_ $7:5$: what is left is five sevenths, and _pro prima duas septimas_ |
+| 53b | do tibi **pracsim** | **praxim** (adopted; conjectural) | _Praxis_, practice; cf. _poteris practicare de aliis_ (51a) |
+| 53b | debes **residuum** medietatem accipere | **residui** (adopted) | The half is the half of what is left, as in _pro tertia medietatem residui_ in the same sentence |
+| 53b | duas tertias residui **ad primam** | **a prima** (adopted) | _Residuum a prima_ is Dolz's fixed phrase, used for every proposition; the next clause has _residui a prima et a secunda_ |

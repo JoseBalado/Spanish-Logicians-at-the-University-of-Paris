@@ -38,7 +38,7 @@ The surviving text therefore supports the conclusion that Dolz deliberately atte
 
 ## Primer: calculating with proportions
 
-The commentary below assumes a few elementary operations with proportions. They are set out here once, with every step shown. In each case the medieval method comes first and the modern check after it. The rules are ours, distilled from Dolz's examples, except where Dolz states one himself, as the rule of excess on 51a (P5), the rule of counting by composition on 52a (P6), and the rule of division by proportional parts on 52a (P10); the page and section references show where each is used.
+The commentary below assumes a few elementary operations with proportions. They are set out here once, with every step shown. In each case the medieval method comes first and the modern check after it. The rules are ours, distilled from Dolz's examples, except where Dolz states one himself, as the rule of excess on 51a (P5), the rule of counting by composition on 52a (P6), the rule of division by proportional parts on 52a (P10), and the definition of irrational proportion on 54a (P11); the page and section references show where each is used.
 
 **Notation.**
 
@@ -582,7 +582,7 @@ So to halve $a:c$, take $a$ as the first member and $c$ as the last, and look fo
 | $2:1$ | $2\times1=2$ | none: $1\times1=1$ is too small, $2\times2=4$ too large | — | rescaled to $8:4$: $8\times4=32$, but $5\times5=25$ and $6\times6=36$, still none; no rescaling helps |
 | $9:8$ | $9\times8=72$ | none: $8\times8=64$ is too small, $9\times9=81$ too large | — | the tone has no half (§19) |
 
-When no whole number works, the half has no terms in numbers. Dolz says so of the half of the _dupla_ on 50b: it _non dicatur rationalis, nec inter numeros reperiatur_ (§29). The word _rationalis_ is his; the root notation is modern. The half of $2:1$ is the proportion of $\sqrt2$ to $1$, with chain $2,\ \sqrt2,\ 1$. Both links are the same proportion, and together they make the full $2:1$, since $\sqrt2\times\sqrt2=2$ (§22).
+When no whole number works, the half has no terms in numbers. Dolz says so of the half of the _dupla_ on 50b: it _non dicatur rationalis, nec inter numeros reperiatur_ (§29). On 54b he gives it a body: it is the proportion of the diagonal of a square to its side, _solet vocari medietas duplae_ (§33, P11). The word _rationalis_ is his; the root notation is modern. The half of $2:1$ is the proportion of $\sqrt2$ to $1$, with chain $2,\ \sqrt2,\ 1$. Both links are the same proportion, and together they make the full $2:1$, since $\sqrt2\times\sqrt2=2$ (§22).
 
 **Halves keep the order (proposition 8, 49a).** If one proportion is greater than another, its half is greater than the other's half. With whole numbers: $16:1$ is greater than $9:1$; their halves are $4:1$ ($4\times4=16$) and $3:1$ ($3\times3=9$), and $4:1$ is greater than $3:1$. Dolz's own example, the _tripla_ and the _dupla_, has halves without whole-number terms ($\sqrt3$ and $\sqrt2$, modern), but the order holds the same way (§28).
 
@@ -1160,6 +1160,95 @@ A _multiplex_ or composite species contains the lesser term at least twice, a _s
 
 Modern check: $\tfrac58\times\tfrac38=\tfrac{15}{64}$ and $\tfrac58\div\tfrac{15}{64}=\tfrac58\times\tfrac{64}{15}=\tfrac{40}{15}=\tfrac83$. The proportion is greater than the _dupla_, so the first part, five eighths, is more than half. The whole is to it as $8:5$, a _superpartiens_: the mirror swaps a composite species for a _superpartiens_.
 
+### P11. Rational or irrational: is there a common measure?
+
+Used on 28a (§6), 50b (§29), and 54a–54b (§33). Dolz's definition (54a): a proportion is **irrational** when nothing is an aliquot part of both terms. An aliquot part is one that, taken some number of times (at least twice), makes the whole exactly (preamble 6, §2). A common aliquot part is a **common measure**.
+
+**Rule 3. If one thing measures $A$ exactly $m$ times and $B$ exactly $n$ times, then $A$ is to $B$ as $m$ to $n$.** So a common measure turns a proportion of quantities into a proportion of numbers, which can be named (P2). This is why Dolz can call the half of the _dupla_ both "not rational" and "not found among numbers" (50b): the two say the same thing.
+
+Steps:
+
+1. Look for a quantity that measures both terms exactly.
+2. If there is one, count how many times it goes into each term: $m$ and $n$.
+3. The proportion is $m:n$. Reduce it and name it (P2). It is rational.
+4. If nothing measures both, the proportion is irrational and has no name from numbers.
+
+| Terms | Common measure | Counts | Proportion | Dolz |
+| --- | --- | --- | --- | --- |
+| three feet, two feet | the foot | $3$ and $2$ | $3:2$, _sesquialtera_ | _idem est pars aliquota utriusque, scilicet pedalitas_ (54a) |
+| two feet (diagonal of one square), four feet (side of another) | the foot | $2$ and $4$ | $2:4$, _subdupla_ | _bene posset esse proportio rationalis_ (54a) |
+| two feet and two thirds, a foot and a half | the sixth of a foot: $2\tfrac23$ is $16$ sixths, $1\tfrac12$ is $9$ sixths | $16$ and $9$ | $16:9$, _superseptipartiens nonas_ (50a) | |
+| the numbers $6$ and $4$ | unity, and here also $2$ | $3$ and $2$ (counting by $2$) | $3:2$ | unity measures every number (54a) |
+| diagonal and side of the same square | none | — | irrational, _medietas duplae_ | _exemplum commune_ (54a) |
+
+Rows 1 to 4 are rational. In row 3 the measure is not given by the terms; it has to be found by bringing the fractions to the same kind of part (P7, Method 2).
+
+**Why the diagonal and the side have no common measure.** Dolz states it as the common example and does not prove it on page 54. The proof below is the classical one, which Aristotle cites (_Prior Analytics_ I.23); every step uses only the operations already in this primer.
+
+The figure first. Four small squares, each with side $1$, make a large square. The tilted square inside is drawn on the diagonals of the small squares.
+
+```text
++-------+-------+
+|      /|\      |
+|    /  |  \    |
+|  /    |    \  |
+|/      |      \|
++-------+-------+
+|\      |      /|
+|  \    |    /  |
+|    \  |  /    |
+|      \|/      |
++-------+-------+
+```
+
+The tilted square is made of four triangles, each half of a small square. Four halves are two whole squares. So **the square on the diagonal is double the square on the side**: Dolz's _propositio in geometria_ (54b), Euclid I.47, and the figure Socrates draws in Plato's _Meno_.
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | suppose there is a common measure | let it go $m$ times into the diagonal and $n$ times into the side; reduce $m:n$ to least terms (45a) | diagonal to side is $m:n$ (Rule 3) |
+| 2 | the squares on them | squares stand in the side proportion doubled (P6, one proportion per dimension) | $m\times m$ to $n\times n$ |
+| 3 | the figure | the square on the diagonal is double the square on the side | $m\times m$ must equal $2\times n\times n$ |
+| 4 | try numbers | see the table below | always one too many or one too few |
+| 5 | why never: is $m$ even? | $m\times m$ is $2\times n\times n$, an even number; an odd number times itself is odd | $m$ is even, $m=2k$ |
+| 6 | is $n$ even? | $2k\times2k=4\times k\times k$ equals $2\times n\times n$, so $n\times n=2\times k\times k$, even | $n$ is even too |
+| 7 | contradiction | both terms even: $m:n$ was not in least terms after all | no common measure; the proportion is irrational |
+
+The near misses of step 4. Each misses by exactly one:
+
+| $m:n$ | Name (P2) | $m\times m$ | $2\times n\times n$ | Value |
+| --- | --- | --- | --- | --- |
+| $3:2$ | _sesquialtera_ | $9$ | $8$ | $1.5$ |
+| $7:5$ | _superbipartiens quintas_ | $49$ | $50$ | $1.4$ |
+| $17:12$ | _superquinquepartiens duodecimas_ | $289$ | $288$ | $1.4167$ |
+| $41:29$ | a _superpartiens_: once and twelve twenty-ninths | $1681$ | $1682$ | $1.4138$ |
+| diagonal : side | none | | | $1.4142\ldots$ (modern, $\sqrt2$) |
+
+The table repeats the last two rows of the halving table of P6 in another form: no whole-number $b$ with $b\times b=2\times1$, and no rescaling helps. The half of the _dupla_ is the proportion of the diagonal to the side, which is why it _solet vocari medietas duplae_ (54b).
+
+**Halves keep it (propositions 4 and 5, 54b).** If something goes $k$ times into a half, it goes $2k$ times into the whole (preamble 9, §6). So a common measure of the halves would be a common measure of the wholes.
+
+| Terms | Rational? | Why |
+| --- | --- | --- |
+| three feet, two feet | yes | the foot |
+| their halves, a foot and a half, a foot | yes | the half-foot: $3$ and $2$ times |
+| diagonal, side | no | step 7 |
+| half the diagonal, the side | no | a common measure would go into the diagonal twice as often, and into the side as before |
+| half the diagonal, half the side | no | a common measure would go into each whole twice as often |
+
+Halving, doubling, or taking any whole-number part of a term never changes rational into irrational or the reverse.
+
+**Equals are always rational (proposition 6, 54b).** The half of one of two equal quantities is the half of the other, so equal quantities always have a common measure. An irrational proportion is always one of inequality.
+
+**The _sesquialtera_ of the _dupla_ (50b).** It exists, though not among numbers. Each link of the chain below is the half of the _dupla_:
+
+| Chain | Link | Is it the diagonal to the side? |
+| --- | --- | --- |
+| twice the diagonal, twice the side | doubling both terms (Rule 1) | yes |
+| twice the side, the diagonal | the square on twice the side is four small squares, the square on the diagonal two; as in steps 2–3, its double is the _dupla_ | yes |
+| the diagonal, the side | itself | yes |
+
+Three half-_duplae_ to the two that make the _dupla_: twice the diagonal is to the side in the _sesquialtera_ of the _dupla_, the $2\sqrt2:1$ of §29 (modern notation). Dolz does not draw this conclusion.
+
 ### Summary
 
 | Medieval operation | Method | Example | Modern equivalent |
@@ -1175,16 +1264,17 @@ Modern check: $\tfrac58\times\tfrac38=\tfrac{15}{64}$ and $\tfrac58\div\tfrac{15
 | comparing | denomination, whole number first (46a–46b); leftovers to the same number of parts (48b); cross-multiply; or whole and part; only within one kind (48a) | $3:2>4:3$; $2:1>3:2$; $10:3>5:2$; $\tfrac24>\tfrac25$ | compare fractions |
 | how many times (_est ad_) | count links (49a–49b), never divide denominations; if no whole count, bound it by principle 3; a count may be a _sesquialtera_ (50b); Dolz's rule: _per earum compositionem_ (52a) | $8:1$ is three _duplae_, not four; $4:1$ is between one and two _triplae_; $8:1$ is _sesquialtera_ to $4:1$ | ratio of logarithms, not of values |
 | dividing by proportional parts | Dolz's first rule: cut so that the whole is to what is left as the proportion (52a); second rule: take each later part from what is left as the first from the whole (53b); repeat without end (P10) | _dupla_: $\tfrac12,\tfrac14,\tfrac18,\dots$; _tripla_: $\tfrac23,\tfrac29,\tfrac2{27},\dots$; _sesquitertia_: $\tfrac14,\tfrac3{16},\dots$; _dupla superbipartiens tertias_: $\tfrac58,\tfrac{15}{64},\dots$ | geometric series |
+| rational or irrational | look for a common aliquot part and count it into each term (54a); numbers always have unity; halves keep the result (54b) (P11) | three feet to two feet, by the foot, $3:2$; diagonal to side, none: _medietas duplae_ | rational or irrational number; $\sqrt2$ |
 
 ### Still to come
 
-The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles, its principles, the general rule of greater proportion, and the order of the species (43a–46b, §22–§25) are covered by P1, P2, and P4–P7; the cube of 47b (§26) by P6; the comparisons of 48a–49a (§27) by P7; the proportion of proportions of 49a–51b (§28–§30) by P5 and P6. Dolz has promised an account of _communicatio proportionum_, overlapping proportions (43a), and of proportions that are not rational (_ut dicemus inferius_, 50b). The prooemium (25a) gives the third article the excess of one proportion over another and the proportion in which one is greater than another, and asks _quae regula dari valeat_. Page 50 separated the two questions (P5, Example F; P6); page 51a gives the rule for the first (P5, Example G) and closes both articles, and 52a adds that the second has no rule except counting by composition (P6). The fourth article, division by proportional parts, begins on 51a with six preambles; its first rule and twelve propositions, through all five genera of greater inequality, follow on 52a–53b, and its second rule, for the later parts, on 53b (P10). Dolz omits the later parts for the composite species (_quia tempus non patitur_); P10 works one. The rules of motion belong to the fifth article. Operations needed for them will be added here as the transcription reaches them.
+The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles, its principles, the general rule of greater proportion, and the order of the species (43a–46b, §22–§25) are covered by P1, P2, and P4–P7; the cube of 47b (§26) by P6; the comparisons of 48a–49a (§27) by P7; the proportion of proportions of 49a–51b (§28–§30) by P5 and P6. Dolz has promised an account of _communicatio proportionum_, overlapping proportions (43a), and of proportions that are not rational (_ut dicemus inferius_, 50b). The prooemium (25a) gives the third article the excess of one proportion over another and the proportion in which one is greater than another, and asks _quae regula dari valeat_. Page 50 separated the two questions (P5, Example F; P6); page 51a gives the rule for the first (P5, Example G) and closes both articles, and 52a adds that the second has no rule except counting by composition (P6). The fourth article, division by proportional parts, begins on 51a with six preambles; its first rule and twelve propositions, through all five genera of greater inequality, follow on 52a–53b, and its second rule, for the later parts, on 53b (P10). Dolz omits the later parts for the composite species (_quia tempus non patitur_); P10 works one. The irrational proportions promised on 28a and 50b begin on 54a: the definition by a common measure, six propositions, and the name _medietas duplae_ for the diagonal to the side (P11, §33); why it bears that name continues on 55a. The account of _communicatio proportionum_ promised on 43a has not yet come. The rules of motion belong to the fifth article. Operations needed for them will be added here as the transcription reaches them.
 
 ---
 
 # Preambles, proportion, and proportionality
 
-**Pages 25a–53b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals; the answers to the seven questions of page 29; the aliquot parts of the infinite, which close the first article; and the first four preambles of the second article, on the parts of a proportion; and its fifth preamble and first four principles, on the composition of proportions; the least terms and the general rule of greater proportion; and the order of the species by size, with an argument from Dullaert and its answer; two physical objections to the definition of _dupla_; and the incomparability of greater inequality, equality, and lesser inequality, with the remaining orders of the species; and the proportion of proportions, with the double of every proportion, the _sesquialtera_ of proportions, and the difference between exceeding by a proportion and being in one; the received rule for the excess of one proportion over another, which closes the second and third articles; and the six preambles of the fourth article, on division by proportional parts; Dolz's rule for how many times one proportion contains another; and the two rules of division by proportional parts, with twelve propositions covering every genus of greater inequality.
+**Pages 25a–54b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_ and _pars non aliquota_; the definition and division of proportion; proportionality and its modes of argument; the six objections against the division of proportion with their solutions; the increase, diminution, addition, and subtraction of proportions, with harmonic proportionality and the musical intervals; the answers to the seven questions of page 29; the aliquot parts of the infinite, which close the first article; and the first four preambles of the second article, on the parts of a proportion; and its fifth preamble and first four principles, on the composition of proportions; the least terms and the general rule of greater proportion; and the order of the species by size, with an argument from Dullaert and its answer; two physical objections to the definition of _dupla_; and the incomparability of greater inequality, equality, and lesser inequality, with the remaining orders of the species; and the proportion of proportions, with the double of every proportion, the _sesquialtera_ of proportions, and the difference between exceeding by a proportion and being in one; the received rule for the excess of one proportion over another, which closes the second and third articles; and the six preambles of the fourth article, on division by proportional parts; Dolz's rule for how many times one proportion contains another; and the two rules of division by proportional parts, with twelve propositions covering every genus of greater inequality; and the definition of irrational proportion, its six propositions, and the _medietas duplae_.
 
 ## 1. Why the metaphysics comes first
 
@@ -1442,7 +1532,7 @@ The final clause — "ibi praesupponimus, quantum ad quantitatem, idem esse quod
 
 Page 28 opens by applying the preceding machinery to a distinction attributed to Dullaert. In numbers, every non-aliquot part can nevertheless be resolved into parts aliquot both to itself and to the relevant whole: unity supplies the common measure. Thus $2$ is non-aliquot to $3$, but both result from units. Dolz again warns that _componere_ here means _resultare_, preserving the resultancy account of predicamental number developed in preambles 2–4.
 
-Continuous magnitudes behave differently. The side and diagonal of the same square have no common aliquot measure. Dolz takes half the diagonal as non-aliquot to the side and argues that it cannot be resolved into parts aliquot to both magnitudes. The example invokes the classical incommensurability of a square's side and diagonal and sharpens the earlier claim that continuous magnitude has no universal analogue of numerical unity.
+Continuous magnitudes behave differently. The side and diagonal of the same square have no common aliquot measure. Dolz takes half the diagonal as non-aliquot to the side and argues that it cannot be resolved into parts aliquot to both magnitudes. The example invokes the classical incommensurability of a square's side and diagonal and sharpens the earlier claim that continuous magnitude has no universal analogue of numerical unity. Page 54 returns to it: it defines irrational proportion by the lack of a common aliquot part, gives the side and diagonal as its common example, and derives the claim about half the diagonal from the transitivity of the ninth preamble (§33).
 
 ### Aliquot is transitive
 
@@ -1615,7 +1705,7 @@ Dolz next divides greater inequality into simple and composite, and simple great
 | _multiplex_ | $A=nB$, for an integer $n\ge 2$ | double $4:2$; triple $6:2$ |
 | _superparticularis_ | $A=B+B/n$; the excess is one aliquot part of $B$ | sesquialteral $3:2$, $6:4$; sesquitertian $4:3$, $8:6$ |
 
-The species are determined exactly by the repetition count introduced in preambles 6–7. A double contains the lesser twice, a triple three times, and so forth. A sesquialteral proportion contains the lesser once plus its half; a sesquitertian contains it once plus its third. The early discussion of aliquot parts was therefore not preliminary arithmetic for its own sake: it supplies the differentiae from which the species of proportion are constructed.
+The species are determined exactly by the repetition count introduced in preambles 6–7. A double contains the lesser twice, a triple three times, and so forth. A sesquialteral proportion contains the lesser once plus its half; a sesquitertian contains it once plus its third. The early discussion of aliquot parts was therefore not preliminary arithmetic for its own sake: it supplies the differentiae from which the species of proportion are constructed. On 54b Dolz adds that this whole division must be understood of **rational** proportion: greater inequality is first divided into rational and irrational, and only the rational branch into the genera given here (§33).
 
 ### Worked examples: building and naming superparticular ratios
 
@@ -1938,7 +2028,7 @@ For reuse in mathematical and musical texts, the whole classification can be gen
 | _multiplex superparticularis_ | $(mn+1):n$ | _tripla sesquitertia_ $10:3$ | _subtripla sesquitertia_ $3:10$ |
 | _multiplex superpartiens_ | $(mn+k):n$, $1<k<n$, $\gcd(k,n)=1$ | _tripla superbipartiens quintas_ $17:5$ | _subtripla superbipartiens quintas_ $5:17$ |
 
-The restriction $\gcd(k,n)=1$ expresses the classification after reduction. If $k/n$ reduces to $1/d$, the ratio is superparticular rather than superpartient. These six rows therefore cover equality and all five genera in each direction; the named species are generated by changing $m$, $k$, and $n$.
+The restriction $\gcd(k,n)=1$ expresses the classification after reduction. If $k/n$ reduces to $1/d$, the ratio is superparticular rather than superpartient. These six rows therefore cover equality and all five genera in each direction; the named species are generated by changing $m$, $k$, and $n$. They cover **rational** proportions only, those whose terms have a common measure. Page 54b adds the irrational proportions, such as the diagonal of a square to its side, as a separate first branch of inequality (§33, P11).
 
 ---
 
@@ -2445,7 +2535,7 @@ Two qualifications follow:
 | 5 | whole greater than part | greater _improportionabiliter_ than its parts taken together | 39b |
 | 6 | ox and ass | species differ _in infinitum et improportionabiliter_ | 39b |
 
-Every solution saves the division by restricting its domain rather than adding species. Proportion holds between two single, determinate, finite terms compared in a common respect, as the definition of 28b requires. Outside that domain Dolz grants _greater_ but denies _greater in a proportion_.
+Every solution saves the division by restricting its domain rather than adding species. Proportion holds between two single, determinate, finite terms compared in a common respect, as the definition of 28b requires. Outside that domain Dolz grants _greater_ but denies _greater in a proportion_. This holds of the six objections, but it is not Dolz's last word on the division. On 54b he adds a branch himself: greater inequality is first divided into rational and irrational, and the genera of 30b–32b belong to the rational branch (§33). The side and diagonal of a square are single, determinate, finite terms that the original division did not cover.
 
 ---
 
@@ -2896,7 +2986,7 @@ The saying is not about the respect in which body and line are compared, for in 
 
 Three observations of ours:
 
-- _Incommensurabiliter_ here is not the incommensurability of side and diagonal (§6). Side and diagonal are magnitudes of one kind that lack a common measure. Line and body are of different dimension, and no multiple of the one reaches the other. Dolz treats the word as a synonym of _improportionabiliter_.
+- _Incommensurabiliter_ here is not the incommensurability of side and diagonal (§6). Side and diagonal are magnitudes of one kind that lack a common measure. Line and body are of different dimension, and no multiple of the one reaches the other. Dolz treats the word as a synonym of _improportionabiliter_. Page 54 confirms the distinction: there _incommensurabilia_ in the strict sense, the side and diagonal, **have** a proportion, an irrational one (§33). Body and line, taken as body and line, have none.
 - This is the failure of Euclid V, def. 4 already seen for the angle of contingence (§20) and for finite and infinite (§18).
 - The excess is stronger than that of the infinite over the finite. On 42b infinitely many finite parts **do** make an infinite whole; infinitely many lines do not make a body. On the Realist premise of the second proposition, _linea non est lata_, so no aggregate of lines has breadth. This is close to Aristotle's denial that a continuum is composed of indivisibles (_Physics_ VI.1), but Dolz does not cite it.
 
@@ -3741,7 +3831,7 @@ octupla 8:1           1 ------------------------ 8       3 steps
 
 The _octupla_ is three steps, the _quadrupla_ two (propositions 9 and 10); three to two is _sesquialtera_, as $3$ is to $2$.
 
-**_Rationalis._** This is the first time the transcription calls a proportion _rationalis_. The claim is limited: _maxime de rationali et de numero praedictarum_. Dolz denies that a _sesquialtera_ of the _dupla_ is found among rational proportions, not that one exists, and he defers the matter (_ut dicemus inferius_).
+**_Rationalis._** This is the first time the transcription calls a proportion _rationalis_. The claim is limited: _maxime de rationali et de numero praedictarum_. Dolz denies that a _sesquialtera_ of the _dupla_ is found among rational proportions, not that one exists, and he defers the matter (_ut dicemus inferius_). Page 54 confirms this reading. The half of the _dupla_ is the proportion of a square's diagonal to its side, called _medietas duplae_, and _rationalis_ means commensurable: two terms with a common aliquot part, which is the same as having terms in numbers (54a–54b, §33; P11).
 
 In modern terms it exists and is the proportion of $2\sqrt2$ to $1$. Here $2\sqrt2$ is one number, $2\times\sqrt2$, about $2.83$; it is the left term of the proportion, and $1$ the right term. It is found exactly as the _octupla_ was found for the _quadrupla_:
 
@@ -4059,6 +4149,135 @@ Three observations of ours:
 
 ---
 
+## 33. Irrational proportion (54a–54b)
+
+Page 54 leaves division by proportional parts behind, closed on 53b, and takes up a subject Dolz has promised twice. On 28a he wrote _postea probabimus nihil fore partem aliquotam diametri et costae eiusdem quadrati_ (§6); on 50b, _medietas duplae non dicatur rationalis, nec inter numeros reperiatur, ut dicemus inferius_ (§29). He now gives a definition, the common example of the side and diagonal of a square, six propositions, and the common name of that example, _medietas duplae_, the half of the _dupla_. Why it is so called is explained in an argument that runs on to 55a. The transcription's heading _De proportione irrationali_ stands at the head of 54a, where the new subject begins. The prooemium gives irrational proportion no article of its own (25a), and the fifth article, on the rules of motion, has not yet begun. By its content the page completes the first article, which promised the definitions of every proportion _cum omnium specierum assignatione sufficienti_: proposition 6 adds a division that the first article's list of species lacked.
+
+### _Sufficit probatio aliqua_ (54a)
+
+_De proportione irrationali longus potest fieri processus, sed sufficit probatio aliqua circa eam intelligere._ This is the restraint of _in abyssum_ (51b, §30) again: a long treatment is possible, but a short one is enough for philosophy. The expansion _probatio_ is uncertain, and the construction is loose. _Aliqua circa eam intelligere_ reads naturally as the subject of _sufficit_, "it is enough to understand some things about it", which leaves _probatio_ outside the construction (textual notes). Either way the sense is clear: only what philosophy needs will be given.
+
+### The definition (54a)
+
+> _Proportio irrationalis est proportio aliquorum incommensurabilium inter se, id est proportio aliquorum quorum nihil idem est pars aliquota utriusque._
+
+| Dolz | Sense | Ground |
+| --- | --- | --- |
+| _aliquorum incommensurabilium inter se_ | of things that have no common measure | |
+| _quorum nihil idem est pars aliquota utriusque_ | no one thing is an aliquot part of both | preamble 6 (26b, §2) |
+| _nihil quod aliquotiens sumptum reddit diametrum aliquotiens sumptum reddit costam_ | nothing that makes the diagonal when taken some number of times also makes the side when taken some number of times | the definition of _pars aliquota_ written out |
+
+The _exemplum commune_ is the diagonal of a square to its side, and the converse (_nec econtra_). _Dico notanter eiusdem quadrati_: the diagonal of one square and the side of another may well stand in a rational proportion. If the diagonal of one is two feet and the side of the other four feet, the foot is an aliquot part of both.
+
+Two observations of ours:
+
+- **A two-place relation again.** Being irrational belongs to a pair of quantities, not to the diagonal by itself, just as being aliquot belongs to a part together with a whole (§2, summary item 1). A diagonal of two feet has an irrational proportion to its own side and a rational one, $2:4$, to a side of four feet.
+- **The two senses of _rationalis_ are one.** On 50b a rational proportion is one found among numbers (_inter numeros_); on 54a it is one between commensurables. These agree. If one thing taken $m$ times makes $A$ and taken $n$ times makes $B$, then $A$ is to $B$ as $m$ to $n$, a proportion of numbers named as in P2. Conversely, if $A$ is to $B$ as $m$ to $n$, the $2m$-th part of $A$ is the $2n$-th part of $B$ and is aliquot to both (taken $2m$ and $2n$ times, so at least twice, as preamble 6 requires). So the half of the _dupla_ has no terms in numbers (50b; P6) exactly because the side and diagonal have no common measure (P11).
+
+The promise of 28a is not yet kept. On 54a the side and diagonal are given as the common example, without proof. What 54b proves is that further pairs are irrational _if_ these are (propositions 4 and 5).
+
+### Six propositions (54a–54b)
+
+| Proposition | Claim | Ground | Page |
+| --- | --- | --- | --- |
+| 1 | the proportion is not called irrational because the intellect does not make it | rational and irrational proportions alike can be had by an operation of the intellect | 54a |
+| 2 | it is not enough that something aliquot to one term is not aliquot to the other | otherwise two feet to three feet would be irrational, though the foot measures both | 54a |
+| 3 | there is no irrational proportion among numbers | unity is an aliquot part of every number | 54a–54b |
+| 4 | half the diagonal to the side, and half the side to the diagonal, are irrational | whatever measures a half also measures the whole | 54b |
+| 5 | half the diagonal to half the side, and the converse, are irrational | a common measure of the halves would measure the wholes | 54b |
+| 6 | irrational proportion is a proportion of greater inequality | equals always have a common aliquot part | 54b |
+
+#### Proposition 1: not an _ens rationis_
+
+_Non dicitur esse proportio irrationalis quia non fiat operatione intellectus, et rationalis operatione intellectus, sicut dicunt reales quod ens rationis dicitur ens causatum per operationem intellectus._ The proposition rules out a pun. _Ratio_ is also reason, and the Realists call a being of reason one caused by an operation of the intellect. Dolz denies that _rationalis_ marks that division: both kinds of proportion can be had by an operation of the intellect. He does not give the positive sense. Our reading is that the definition supplies it: _rationalis_ goes with _ratio_ in the sense of proportion, a proportion that can be expressed in numbers (50b).
+
+#### Proposition 2: the scope of the negation
+
+The proposition rejects a weaker formulation for the one in the definition:
+
+| Formulation | Says | Two feet and three feet | Diagonal and side |
+| --- | --- | --- | --- |
+| _aliquid quod est pars aliquota unius non est pars aliquota alterius_ | **some** aliquot part of one term fails to measure the other | true | true |
+| _nihil idem est pars aliquota utriusque_ | **no** aliquot part of one term measures the other | false: the foot (_pedalitas_) measures both | true |
+
+This is the lesson of preamble 8 (27b, §5) applied to a new definition: where the negation stands relative to the quantifier decides what the words pick out. _Ideo non sufficit dicere aliquid et caetera, sed assumere oportet nihil idem est pars aliquota utriusque._
+
+Two observations of ours:
+
+- **The weak formulation fits every inequality.** Take two unequal quantities and the half of the greater one. The half is aliquot to the greater, but it cannot be aliquot to the lesser, because taken twice or more it is at least the greater. So the weak formulation does not just misclassify two feet and three feet: it would make every proportion of inequality irrational. It fails for equal quantities only, and that is proposition 6.
+- **Dolz's instance.** _Binarius aut quantitas bipedalis est pars aliquota ternarii et non bipedalis_ does not fit as printed. Two is not an aliquot part of three (28a calls it _pars non aliquota ternarii_, §6), and nothing is an aliquot part of itself. What the argument needs is the half of three feet, a foot and a half: it is aliquot to three feet (taken twice) and not to two feet. The passage is left as printed (textual notes).
+
+#### Proposition 3: numbers and the Nominalists
+
+_Omnium numerorum idem est pars aliquota, ut puta unitas._ Unity measures every number (§2, summary item 3), so any two numbers are commensurable. Dolz then rejects an argument against this: the side and diagonal have an irrational proportion; on the Nominalist view these quantities are numbers; so numbers have an irrational proportion. His reply has two parts:
+
+- _Ille modus procedendi non est mathematicalis._ The mathematician does not take a continuous quantity as a number.
+- _Numerorum non est proportio irrationalis inquantum numeri sunt._ The side and diagonal have their proportion as continuous quantities, not as numbers.
+
+The Nominalist premise is the one recorded on 41a: a continuum is also discrete (§20, _ad secundam_). The reply is the device of that page too. There discrete and continuous quantities had no proportion _qua_ discrete and continuous, but could have one in another common respect. Here the side and diagonal, if numbers at all, do not have their irrational proportion _qua_ numbers. Dolz keeps the Nominalist view and blocks its consequence with a reduplicative _inquantum_.
+
+#### Propositions 4 and 5: halves keep the irrationality
+
+The proofs use the transitivity of the aliquot relation, preamble 9 (28a, §6): _si aliquid aliquotiens sumptum reddat medietatem diametri, etiam aliquotiens sumptum reddit diametrum_. If something taken $k$ times makes half the diagonal, taken $2k$ times it makes the diagonal. So a common measure of half the diagonal and the side would be a common measure of the diagonal and the side, which there is none of. Proposition 5 halves both terms with the same argument. _Eodem modo possunt poni propositiones de aliis partibus aliquotis_: thirds, fourths, and the rest behave the same way.
+
+Three observations of ours:
+
+- **What 28a needed.** On 28a Dolz took half the diagonal as a non-aliquot part of the side, and claimed that _nihil quod est pars aliquota ipsius medietatis est pars aliqua costae_. Proposition 4 now derives that from the side and diagonal. 28a also announced the proof of this claim for the _sequens praeambulum_, the ninth; proposition 4 is the place where preamble 9 is actually used for it.
+- **In modern terms.** Multiplying or dividing either term by a whole number never turns an irrational proportion into a rational one, nor a rational one into an irrational one. The halves of three feet and two feet, a foot and a half and a foot, still have the half-foot as a common measure (P11).
+- **Both cases of proposition 4 are lesser inequality.** Half the diagonal is about seven tenths of the side, and half the side is less than the diagonal. This bears on proposition 6.
+
+#### Proposition 6: only inequality, and a revised division
+
+_Proportio irrationalis est proportio maioris inaequalitatis, nam numquam reperitur inter aequalia, cum aequalium semper idem sit pars aliquota._ Equal quantities share every aliquot part: the half of one is the half of the other. Dolz draws the consequence for his division of proportion:
+
+> _Et cum superius dividebatur proportio maioris inaequalitatis, oportebat subintelligere ly 'rationalis', ita quod proportio maioris inaequalitatis primo dividenda est in proportionem rationalem et irrationalem, et rationalis subdividenda est ut factum est._
+
+| Level | Division |
+| --- | --- |
+| proportion | equality; inequality (30a, §9) |
+| greater inequality, **first** | rational; irrational (54b) |
+| rational greater inequality | simple and composite: _multiplex_, _superparticularis_, _superpartiens_, _multiplex superparticularis_, _multiplex superpartiens_ (30b–32b, §9–§11) |
+| irrational greater inequality | _plures species_, unnamed; one of them is the _medietas duplae_ |
+| lesser inequality | the reciprocal of greater inequality (33a, §12) |
+
+Three observations of ours:
+
+- **Lesser inequality too.** The proof excludes only equality. The definition includes the converse (_nec econtra_), and both cases of proposition 4 are of lesser inequality. So _maioris inaequalitatis_ must be read as "of inequality", with greater inequality standing for both directions, as on 33a every species of lesser inequality is the reciprocal of one of greater (textual notes).
+- **A correction to §18.** There we concluded that every solution of the six objections saves the division of proportion by restricting its domain, never by adding species. That remains true of the six objections. But page 54 shows that the division of 30b–32b was not exhaustive even for single, finite, determinate terms. Dolz himself now adds a branch above the five genera, and says the five were species of _rational_ greater inequality all along. None of the six objections raised the side and diagonal: the ratios of the first objection were all of whole numbers (§17).
+- **_Plures species_.** Dolz names only one irrational species. In modern terms every half, third, and so on that P6 cannot find in whole numbers is irrational, such as the half of the _tripla_ and the third of the _dupla_ (50b, §29).
+
+### _Medietas duplae_ (54b)
+
+_Ista quae est diametri ad costam solet vocari medietas duplae. Iam habes ex dictis quae proportio habet medietatem rationalem et quae non._ The proportion of the diagonal to the side is the half of the _dupla_ that 50b denied to numbers. _Ex dictis_ points back to those pages, where the half was sought among numbers: the _quadrupla_ has a rational half, the _dupla_ and the _tripla_ have none (50b; the test of P6).
+
+Then Dolz asks why it has this name. Take a square $a$ and make another whose diameter is the side of $a$. _Iam est una propositio in geometria quod quadratum diametri ad quadratum costae est proportio dupla_, and the sentence breaks off at _quam_, to continue on 55a. Our reconstruction of the step, pending 55a:
+
+| Step | Claim | Ground |
+| --- | --- | --- |
+| 1 | the square on the diagonal is double the square on the side | the _propositio in geometria_ (Euclid I.47; the figure of Plato's _Meno_, P11) |
+| 2 | two squares stand in the proportion of their sides, doubled | one proportion per dimension (47b, §26; P6; Euclid VI.20) |
+| 3 | so the diagonal to the side, doubled, is the _dupla_ | steps 1 and 2 |
+| 4 | so the diagonal to the side is the half of the _dupla_ | the half is the proportion that, added to itself, makes the whole (43b, §22) |
+
+With Dolz's second square, whose diagonal is the side of $a$, the same holds: $a$ is double the second square, and the side of $a$ is to the side of the second as a diagonal to its side.
+
+Two observations of ours:
+
+- **What §29 left open.** There we said that Dolz denies a rational _sesquialtera_ of the _dupla_, not that one exists. Page 54 confirms it: the half of the _dupla_ exists as a proportion of magnitudes and has a name. So the _sesquialtera_ of the _dupla_ exists too, as twice the diagonal to the side. In the chain twice the diagonal, twice the side, the diagonal, the side, each link is the half of the _dupla_; the first two links make the _dupla_, twice the diagonal to the diagonal, and the third adds its half (P11). Dolz does not draw this conclusion.
+- **The modern value.** The diagonal is to the side as $\sqrt2$ to $1$ (P6, P9). The root is modern; the proportion and its name are Dolz's.
+
+### What page 54 settles
+
+| Earlier | Claim | After page 54 |
+| --- | --- | --- |
+| §6 (28a) | half the diagonal is not aliquot to the side; _postea probabimus_ | proposition 4 derives it from the side and diagonal; the side and diagonal are still assumed, not proved |
+| §21 (42a) | _incommensurabiliter_ in the saying about body and line is not the incommensurability of side and diagonal, but a synonym of _improportionabiliter_ | confirmed and sharpened: on 54a incommensurable quantities **have** a proportion, an irrational one; a body and a line, taken as body and line, have none |
+| §18 (39b) | the division of proportion is saved by restricting its domain, not by adding species | true of the six objections; but 54b adds rational and irrational as the first division of greater inequality |
+| §29 (50b) | Dolz denies a rational half of the _dupla_, not that it exists | confirmed: it exists, as the diagonal to the side, and is called _medietas duplae_ |
+| P6, P9 | the half of the _dupla_ is $\sqrt2:1$ | Dolz's own instance is the diagonal and side of a square |
+
+---
+
 ## Summary of the doctrine
 
 1. _Aliquot part_ is a **two-place relation** between a part and a whole, requiring exact measure and at least two repetitions.
@@ -4103,7 +4322,7 @@ Three observations of ours:
 40. A proportion holds between one thing and one thing, not between a body and an aggregate of bodies.
 41. The fourth objection is a fallacy of scope: the whole has some proportion to each part, but no one proportion to every part.
 42. Where there is excess without proportion, the proper term is _excedit improportionabiliter_, not _excessu indivisibili_. The whole exceeds its parts taken together in this way, and one species exceeds another in perfection _in infinitum et improportionabiliter_.
-43. Every solution saves the division by restricting it to single, determinate, finite terms rather than by adding species.
+43. Every solution saves the division by restricting it to single, determinate, finite terms rather than by adding species. This holds of the six objections; on 54b Dolz himself adds the division into rational and irrational (item 127).
 44. A proportion of greater inequality is increased when a proportion of greater inequality is added to it, in five ways: by changing either term or both. It is diminished in the five mirror-image ways.
 45. When both terms change, "more" means proportionally more: $8:4$ to $10:5$ changes both terms but not the proportion.
 46. The direction of change in velocity follows the direction of change in the proportion of power to resistance. This is a qualitative rule; the quantitative law is still to come.
@@ -4156,7 +4375,7 @@ Three observations of ours:
 93. The _tripla_, composed of the _dupla_ and the _sesquialtera_, is more than double the _sesquialtera_ and less than double the _dupla_ (50a).
 94. Every proportion has a double, a triple, a quadruple, because doubling needs only multiplication: the _sesquialtera_ doubled is the _dupla sesquiquarta_ $9:4$, the _sesquitertia_ the _superseptipartiens nonas_ $16:9$, the _dupla sesquialtera_ the _sextupla sesquiquarta_ $25:4$, the _dupla superbipartiens tertias_ the _septupla sesquinona_ $64:9$ (50a–50b). Not every proportion has a half (43b).
 95. Doubling a proportion does not double its denomination: $2\tfrac12$ doubled is $6\tfrac14$, not $5$.
-96. Not every proportion has a _sesquialtera_ or _sesquitertia_ of proportions, one containing it and its half or third. The _dupla_ and _tripla_ have none among rational proportions, since the half of the _dupla_ _non dicatur rationalis, nec inter numeros reperiatur_; the _quadrupla_ has one, the _octupla_ (50b). The irrational is deferred (_ut dicemus inferius_).
+96. Not every proportion has a _sesquialtera_ or _sesquitertia_ of proportions, one containing it and its half or third. The _dupla_ and _tripla_ have none among rational proportions, since the half of the _dupla_ _non dicatur rationalis, nec inter numeros reperiatur_; the _quadrupla_ has one, the _octupla_ (50b). The irrational is deferred (_ut dicemus inferius_) and taken up on 54a–54b, where the half of the _dupla_ is the diagonal of a square to its side (items 121–128).
 97. The _sextupla_ $12:2$, made of $12:8$ and $8:2$, exceeds the _quadrupla_ by a _sesquialtera_ but is not _sesquialtera_ to it; Dolz states the objection and falls back on the _octupla_.
 98. To exceed by a proportion and to be greater in a proportion differ: the _tripla_ exceeds the _dupla_ by a _sesquialtera_ but is not _sesquialtera_ to it. The first is subtraction, the second counting by composition; they are the two tasks the prooemium gave the third article (25a).
 99. Whatever is composed of some proportions exceeds any one of them by the rest: the _tripla_, made of the _dupla_ and the _sesquialtera_, exceeds the _dupla_ by the _sesquialtera_ (51a).
@@ -4181,6 +4400,14 @@ Three observations of ours:
 118. Dolz gives the mirror cases in pairs, 2 and 4, 3 and 5, 6 and 9, 7 and 10, without stating the pairing. Dividing by a _multiplex_ the whole is _superparticularis_ to the first part, by a _superpartiens_ a composite species, and the reverse; the _dupla_ is its own mirror.
 119. The second rule of division: as the first part is taken from the whole, so each later part is taken from what is left (53b). Its ground is that proportional parts are parts of the same proportion (51a). Each part is then to the next as the proportion of division, read in reverse as the _sub-_ species: the second part of the _dupla_ is _subdupla_ to the first.
 120. Dolz works the later parts only for simple species and omits the composite ones for lack of time; the rule is the same.
+121. Page 54 takes up irrational proportion, promised on 28a and 50b. An irrational proportion is one between incommensurables, things of which nothing is an aliquot part of both. The common example is the diagonal of a square to its side. The diagonal of one square may have a rational proportion to the side of another, so irrationality is a relation between two quantities (54a).
+122. The two senses of _rationalis_ coincide: commensurable (54a) and found among numbers (50b). A common measure taken $m$ and $n$ times gives the proportion $m:n$, and the reverse.
+123. _Irrationalis_ has nothing to do with an _ens rationis_: both kinds of proportion can be had by the intellect (54a).
+124. The definition requires that **nothing** be an aliquot part of both terms, not that **something** aliquot to one fail to measure the other. The weaker form would make two feet to three feet irrational, though the foot measures both. This is the scope distinction of preamble 8 again (54a).
+125. There is no irrational proportion among numbers, because unity measures every number. If the side and diagonal are numbers for the Nominalists, they still do not have their proportion _inquantum numeri_ (54a–54b).
+126. Halving either term or both keeps the proportion irrational, because what measures a half also measures the whole (preamble 9). This proves what 28a assumed of half the diagonal (54b).
+127. Equals always share an aliquot part, so there is no irrational proportion of equality. Greater inequality must first be divided into rational and irrational; the five genera of 30b–32b are divisions of the rational branch. The irrational branch has several species, unnamed (54b).
+128. The diagonal to the side is called _medietas duplae_, the half of the _dupla_ that 50b denied to numbers. The name is explained from the square on the diagonal, which is double the square on the side; the explanation continues on 55a.
 
 ---
 
@@ -4282,3 +4509,7 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 53b | do tibi **pracsim** | **praxim** (adopted; conjectural) | _Praxis_, practice; cf. _poteris practicare de aliis_ (51a) |
 | 53b | debes **residuum** medietatem accipere | **residui** (adopted) | The half is the half of what is left, as in _pro tertia medietatem residui_ in the same sentence |
 | 53b | duas tertias residui **ad primam** | **a prima** (adopted) | _Residuum a prima_ is Dolz's fixed phrase, used for every proposition; the next clause has _residui a prima et a secunda_ |
+| 54a | sed sufficit **pbō** aliqua circa eam intelligere | **probatio** (adopted; expansion uncertain) | The syntax is loose: _aliqua circa eam intelligere_ reads as the subject of _sufficit_, leaving _probatio_ outside the construction. The sense, that a brief treatment is enough, is not affected |
+| 54a | et **coste** alterius quadrupedalis | **costa** (adopted) | The nominative is required: _posset… costa alterius \[esse\] quadrupedalis_, parallel to _diameter unius quadrati esse bipedalis_ |
+| 54a | **binarius aut quantitas bipedalis** est pars aliquota ternarii et non bipedalis | _(left as printed)_ | As printed false: two is not an aliquot part of three (28a: _pars non aliquota ternarii_), and nothing is an aliquot part of itself. The argument needs a quantity aliquot to three feet and not to two, such as the foot and a half; no simple emendation yields it |
+| 54b | proportio irrationalis est proportio **maioris** inaequalitatis | _(left as printed)_ | The proof excludes only equality, and both cases of proposition 4 (half the diagonal to the side, half the side to the diagonal) are of lesser inequality. Read as "of inequality", with greater inequality standing for both directions (33a) |

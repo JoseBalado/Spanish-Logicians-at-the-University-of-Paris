@@ -243,7 +243,7 @@ Dicis me in hoc male defendere Lax. Cum de illo loqueris, non tuae personae, sed
 
 ### Quarta reprehensio
 
-Praenotatus aemulus super definitione termini divisione incomplexum, me reprehendere voluit, quia concessi in meis *Terminis* quod hoc totum "Iste homo vel asinus" non est terminus complexus, nec hoc totum "Iste homo albus". Et nullam impugnationem adducit, nisi solum dicens me definitionem termini singularis et incomplexi eandem repraesentasse. Puer hoc non dixisset, nec quisquam alter mentis compos; manifeste ibi ostendit suam aemulationem. Bene scit me scire aliquem esse terminum incomplexum qui non est singularis et e contra. Istud iudicio aliorum relinquo.
+Praenotatus aemulus super definitione termini divisione incomplexum, me reprehendere voluit, quia concessi in meis *Terminis* quod hoc totum "Iste homo vel asinus" non est terminus complexus, nec hoc totum "Iste homo albus". Et nullam impugnationem adducit, nisi solum dicens me definitionem termini singularis et incomplexi eandem repraesentasse. Puer hoc non dixisset, nec quisquam alter mentis compos; manifeste ibi ostendit suam aemulationem. Bene scit me scire aliquem esse terminum incomplexum qui non est singularis et econtra. Istud iudicio aliorum relinquo.
 
 Vellet ut impugnasset argumento valido quod dixisse pronomen feratur in totum. Constat esse probabile illud totum habere rationem termini incomplexi, etsi oppositum positum sit probabile, non minus istud probabile dici debet; secus si pronomen caderet in primam partem. Et quando argumento non potuit uti, more functus est puerilibus iniuriis me afficiendo /20a/, vocando meas *Disceptationes* "Deceptiones". 
 
@@ -566,13 +566,13 @@ Habitudo illa quam in definitione ponimus nihil aliud quam aequalitas vel inaequ
 
 Circa haec notare debes, plures sibi involvi difficultates.
 
-Prima: An numeri ad unitatem sit proportio, vel e contra.
+Prima: An numeri ad unitatem sit proportio, vel econtra.
 
 Secunda: An numeri sive quantitatis discretae ad continuam sit proportio.
 
 Tertia: An inter res diversorum generum in aliquo tamen utrique communi comparatas sit proportio, aliter nihil esset dictum, patet ex declaratione facta.
 
-Quarta: An lineae ad superficiem, superficiei ad corpus aut e contra sit proportio, et praecipue more Realium.
+Quarta: An lineae ad superficiem, superficiei ad corpus aut econtra sit proportio, et praecipue more Realium.
 
 Quinta: An sicut ob magnitudinem proportio inter aliqua resultat, ita ob intensionem aut remissionem, velocitatem, tarditatem aliasque denominationes proportio abstrahatur.
 
@@ -963,7 +963,7 @@ Et nostrae vocitationi de proportionalitate continua annuit Aristoteles, quinto 
 
 Et haec est descriptio Alvari quam Lax aliis verbis exprimit, dicens: "Ubi infertur similitudo primi antecedentis ad ultimum consequens primae continuationis, et alterius antecedentis ad ultimum consequens eiusdem. Et ista ponitur communiter in sex terminis sic: a, b, c, d, e, f, et supposita similitudine proportionum inter eos inferendo; ergo qualis est a ad c, talis est d ad f. Et facile capies sic numeros 64, 32, 16, 8, 4, 2, inferendo, qualis est 64 ad 16, talis 8 ad 2, et pluribus aliis modis.
 
-Ibi Lax ponit duplicem proportionalitatem aequam, scilicet directam et indirectam. Alvarus non specificat, sed bene video illas duas in definitione proportionalitatis aequae includi, et non est magna cura super illo, nam discrimen est numeri qui ponitur in directa in una ordinatione, ponuntur in indirecta in alia, et e contra, idem termini tamen utrobique inferuntur.
+Ibi Lax ponit duplicem proportionalitatem aequam, scilicet directam et indirectam. Alvarus non specificat, sed bene video illas duas in definitione proportionalitatis aequae includi, et non est magna cura super illo, nam discrimen est numeri qui ponitur in directa in una ordinatione, ponuntur in indirecta in alia, et econtra, idem termini tamen utrobique inferuntur.
 
 ### Lax
 
@@ -1031,7 +1031,7 @@ Et si petas an corpus septem pedum cum dimidio sit illo maius, aliqui forsan dic
 
 ### Ad secundum
 
-Ad secundum argumentum dicitur quod infiniti ad finitum et e contra, aut infiniti ad infinitum nulla est proportio proprie loquendo, ut sermo communis philosophicus testatur. Et hoc verum habet loquendo de proportionibus de quibus superius locuti sumus, quia certum est illa proportio in nulla specierum assignatarum contineretur. Et ex consequenti haec consequentia est neganda: "a est maius et b est minus; ergo a ad b est proportio maioris inaequalitatis". Nec etiam sequitur: "a est minus et b maius; ergo a ad b est proportio minoris inaequalitatis". Patet in proposito.
+Ad secundum argumentum dicitur quod infiniti ad finitum et econtra, aut infiniti ad infinitum nulla est proportio proprie loquendo, ut sermo communis philosophicus testatur. Et hoc verum habet loquendo de proportionibus de quibus superius locuti sumus, quia certum est illa proportio in nulla specierum assignatarum contineretur. Et ex consequenti haec consequentia est neganda: "a est maius et b est minus; ergo a ad b est proportio maioris inaequalitatis". Nec etiam sequitur: "a est minus et b maius; ergo a ad b est proportio minoris inaequalitatis". Patet in proposito.
 
 Et si arguas: "ipsum finitum aliquoties sumptum reddit infinitum; ergo est multiplex proportio inter illa, patet ex definitione proportionis multiplicis, vel ad minus aliqua alia proportio", non negando consequentiam, nam in definitionibus superius positis nos loquebamur de continentia finitarum ad finitum, qualiter non est ibi. Nisi velis tenere unum quod superius dictum est, quod esset proportio infinita, et quod proportio primo posset dividi in proportionem finitam et infinitam, et quod processus factus sit de proportione finita, nisi etiam velles dicere quod esset proportio aequalitatis infiniti ad infinitum, de qua diximus ipsam nullas habere species, et si communiter oppositum dicatur loquimur /39a/ de aliis. In istis non obviamus mathematicis, quia de istis casibus et istis difficultatibus non curarunt. Sufficit rationabiliter loqui et consequenter.
 
@@ -1484,6 +1484,28 @@ Accipe exempla: sicut in dupla proportione accipiendo primam capis totius mediet
 
 Et sic constat regula quod sicut capis primam in ordine ad totum, debes alias capere in ordine ad residua remanentia. Quo intellecto in simplicibus, valebis applicare in compositis, quas quia tempus non patitur omittimus. /54a/
 
+## De proportione irrationali
+
+De proportione irrationali longus potest fieri processus, sed sufficit probatio aliqua circa eam intelligere.
+
+### Proportio irrationalis
+
+Primo detur eius definitio: proportio irrationalis est proportio aliquorum incommensurabilium inter se, id est proportio aliquorum quorum nihil idem est pars aliquota utriusque. Exemplum commune: proportio diametri ad costam eiusdem quadrati est proportio irrationalis. Nihil quod est pars aliquota illius diametri est pars aliquota costae, nec econtra, id est nihil quod aliquotiens sumptum reddit diametrum aliquotiens sumptum reddit costam, nec quod aliquotiens sumptum reddit costam aliquotiens sumptum reddit diametrum. Dico notanter eiusdem quadrati, quia si compararetur diameter unius quadrati ad costam alterius quadrati, bene posset esse proportio rationalis, nam posset diameter unius quadrati esse bipedalis et costa alterius quadrupedalis, quo habito, cum quadrupedalis et bipedalis idem sit pars aliquota, sequitur quod ibi erit proportio rationalis. Ponuntur aliquae propositiones huius proportionis irrationalis declarativae.
+
+Prima: non dicitur esse proportio irrationalis quia non fiat operatione intellectus, et rationalis operatione intellectus, sicut dicunt reales quod ens rationis dicitur ens causatum per operationem intellectus, nam utraque potest operatione intellectus haberi.
+
+Secunda propositio: non dicitur esse proportio irrationalis inter aliqua quia aliquid quod est pars aliquota unius non est pars aliquota alterius. Patet, nam tunc sequeretur quod inter bipedale et tripedale esset proportio irrationalis, quod est falsum. Sequela patet: aliquid quod est pars aliquota unius non est pars aliquota alterius; binarius aut quantitas bipedalis est pars aliquota ternarii et non bipedalis. Quod illud sit falsum patet, nam idem est pars aliquota utriusque, scilicet pedalitas. Ideo non sufficit dicere aliquid et caetera, sed assumere oportet nihil idem est pars aliquota utriusque; ergo est proportio irrationalis.
+
+Tertia propositio: inter numeros non reperitur proportio irrationalis. Patet: omnium numerorum idem est pars aliquota, ut puta unitas. Igitur nec valet arguere: istarum quantitatum est proportio irrationalis, demonstrando costam et diametrum, et hae quantitates sunt numeri secundum viam nominalium, ergo numerorum est proportio irrationalis; quia ille modus procedendi non est mathematicalis. /54b/ Item diceretur quod numerorum non est proportio irrationalis inquantum numeri sunt.
+
+Quarta: medietatis diametri ad costam et medietatis costae ad diametrum est proportio irrationalis. Patet, nam nihil idem est pars aliquota utriusque, nam si aliquid aliquotiens sumptum reddat medietatem diametri, etiam aliquotiens sumptum reddit diametrum; ergo ex dictis non aliquotiens sumptum reddit costam. Similiter si aliquotiens sumptum reddit medietatem costae, etiam aliquotiens sumptum reddit totam ipsam costam et ultra; ergo non diametrum.
+
+Quinta propositio: medietatis diametri ad medietatem costae et econtra est proportio irrationalis. Patet: si aliquid aliquotiens sumptum reddens medietatem diametri aliquotiens sumptum redderet medietatem costae, cum illud quod reddit medietatem diametri aliquotiens sumptum reddat diametrum, et id quod aliquotiens sumptum reddit medietatem costae reddat aliquotiens sumptum ipsam costam, esset costae ad diametrum proportio rationalis. Eodem modo possunt poni propositiones de aliis partibus aliquotis.
+
+Sexta propositio: proportio irrationalis est proportio maioris inaequalitatis, nam numquam reperitur inter aequalia, cum aequalium sit semper idem sit pars aliquota. Et cum superius dividebatur proportio maioris inaequalitatis, oportebat subintelligere ly 'rationalis', ita quod proportio maioris inaequalitatis primo dividenda est in proportionem rationalem et irrationalem, et rationalis subdividenda est ut factum est. Et poterunt poni plures species ipsius proportionis irrationalis. Ista quae est diametri ad costam solet vocari medietas duplae. Iam habes ex dictis quae proportio habet medietatem rationalem et quae non.
+
+Et si petas quare vocatur illa proportio medietas duplae, dico ob hanc causam: nam confecto uno quadrato quod sit a, conficiatur aliud cuius diameter sit costa alterius. Iam est una propositio in geometria quod quadratum diametri ad quadratum costae est proportio dupla, quam /55a/
+
 
 
 <!--
@@ -1607,4 +1629,9 @@ Page 53b: praxim ] conj. pracsim
 Page 53b: residui ] emend. residuum (debes residuum medietatem accipere)
 Page 53b: a prima ] emend. ad primam (duas tertias residui ad primam)
 Page 53b: debes ] emend. dedes
+Page 54a: costa ] emend. coste (et coste alterius quadrupedalis)
+Page 54a: probatio ] conj. (pbō; expansion of the abbreviation uncertain)
+Page 54a: ternarii et non bipedalis ] sic (binarius aut quantitas bipedalis est pars aliquota ternarii et non bipedalis; the example is obscure)
+Page 54a: mathematicalis ] conj. mathe[smudged]ticalis (non est mathematicalis; first half of the word blotted at the column end)
+Page 54b: sit ] sic (cum aequalium sit semper idem sit pars aliquota; sit printed twice)
 -->

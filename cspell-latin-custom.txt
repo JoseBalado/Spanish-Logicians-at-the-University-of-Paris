@@ -1658,6 +1658,7 @@ materialitatem
 materialitatis
 mathematicalia
 mathematicalibus
+mathematicalis
 mathematices
 Mediavilla
 medonem
@@ -2711,6 +2712,7 @@ subiicio
 subiicit
 subiicitur
 subiiciuntur
+subintelligere
 sublaternatam
 subordinabitur
 subordinabuntur

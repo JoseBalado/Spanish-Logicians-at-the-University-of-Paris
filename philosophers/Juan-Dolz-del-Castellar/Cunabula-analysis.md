@@ -1,6 +1,6 @@
 # Analysis of Dolz, _Cunabula omnium fere scientiarum_ (1518)
 
-A running commentary on Juan Dolz del Castellar, _Cunabula omnium fere scientiarum et praecipue physicalium difficultatum in proportionibus et proportionalitatibus_ (Montalbanum, 1518), following the text page by page. Sections are added as the transcription advances; references such as 34a mean page 34 of the Google Books PDF, column a, not a printed folio or gathering signature.
+A running commentary on Juan Dolz del Castellar, _Cunabula omnium fere scientiarum et praecipue physicalium difficultatum in proportionibus et proportionalitatibus_ (Montalbanum, 1518), following the text page by page to the explicit on 55b. References such as 34a mean page 34 of the Google Books PDF, column a, not a printed folio or gathering signature.
 
 ## Introduction: an elementary mathematical foundation for natural philosophy
 
@@ -22,7 +22,7 @@ The order of exposition is therefore not determined by the sequence of Aristotle
 
 Dolz is unusually conscious of the pedagogical problem he is addressing. He blames teachers rather than students for the neglect of proportions in Aquitaine; says that the subject was almost unheard of there; writes in response to students' requests; repeatedly promises preliminary foundations; and selects only as much mathematics as natural philosophy requires. He also extends the utility of proportion beyond physics to ethics, theology, medicine, dialectic, and law. The work thus proposes not simply a collection of results but a method for turning dispersed technical knowledge into common, teachable foundations.
 
-That ambition matters for the history of mathematical physics. A specialist result becomes cumulative only when later students can inherit it as elementary knowledge, apply it, criticize it, and develop it further. The _Cunabula_ attempts to create precisely such a pathway for proportions, velocities, activities, resistances, and motion. Its epistemic radicalism lies not in rejecting Aristotle or announcing discoveries already equivalent to modern mechanics, but in changing what must be learned **first** in order to investigate nature.
+That ambition matters for the history of mathematical physics. A specialist result becomes cumulative only when later students can inherit it as elementary knowledge, apply it, criticize it, and develop it further. The _Cunabula_ was planned as precisely such a pathway, from proportions to velocities, activities, resistances, and motion; the printed book carries it through the proportions and stops before motion (see below). Its epistemic radicalism lies not in rejecting Aristotle or announcing discoveries already equivalent to modern mechanics, but in changing what must be learned **first** in order to investigate nature.
 
 ### A precursor of modern theoretical physics?
 
@@ -33,6 +33,8 @@ In this particular respect, Dolz can appear more recognizably modern than either
 This resembles the organization of modern theoretical-physics education, in which mathematical methods are not external ornaments but prerequisites that determine what physical questions students can formulate and solve. Dolz's proportions are elementary by later standards, yet the curricular principle is consequential: a field advances cumulatively when the analytical achievements of specialists become the starting knowledge of the next generation. Galileo and Newton transformed physical theory; Dolz, on a much smaller technical scale, envisaged a way of systematically forming students capable of transforming it.
 
 The surviving text therefore supports the conclusion that Dolz deliberately attempted to make the mathematical methods required by physical analysis into an elementary and public curriculum. Stronger claims about absolute priority, uniqueness, influence, or the causes of the project's apparent failure require a wider comparison of textbooks and evidence of reception. Nevertheless, the project visible in the title, proemium, organization, and intended audience is clear. Its failure to establish a continuous pedagogical tradition may represent a lost path in the history of physics: what disappeared was not a completed Galilean mechanics, but a program through which generations of students might have acquired a shared mathematical language for physical inquiry.
+
+The printed book carries out only part of that program. The prooemium (25a) plans six articles. The book gives the first four, on definitions and divisions, on the greater, equal, and lesser, on excess and the proportion of proportions, and on division by proportional parts, adds a treatment of irrational proportion, and ends on 55b, dated at Montauban, 15 October 1518. The fifth article, on the rules of motion, and the sixth, on further difficulties, are not there, and Dolz says more than once that he is shortening the work (46b, 53b, 55a, 55b; §34). What the _Cunabula_ delivers is the mathematical foundation; the physical applications it was built for are announced, not given.
 
 ---
 
@@ -1009,7 +1011,7 @@ Four obstacles stood in the way:
 
 ### P10. Dividing a body by proportional parts
 
-Used on 51a–53b (§30–§32). The fourth article divides a body _per partes proportionales_. Dolz's first preamble: parts _eiusdem quantitatis_ are equal in extension; parts _eiusdem proportionis_ each stand to the next in one and the same proportion, _secundum ordinem proportionis duplae vel triplae et caetera_. On 52a he gives the rule for making the division, and it is step 1 below: _opus est ut totum ad residuum a prima parte proportionali habeat talem proportionem qualis est proportio in qua vis facere divisionem_. On 53b he adds the rule for the later parts, step 2: _sicut capis primam in ordine ad totum, debes alias capere in ordine ad residua remanentia_.
+Used on 51a–53b (§30–§32), and for an irrational proportion on 55b (§34; worked in P11). The fourth article divides a body _per partes proportionales_. Dolz's first preamble: parts _eiusdem quantitatis_ are equal in extension; parts _eiusdem proportionis_ each stand to the next in one and the same proportion, _secundum ordinem proportionis duplae vel triplae et caetera_. On 52a he gives the rule for making the division, and it is step 1 below: _opus est ut totum ad residuum a prima parte proportionali habeat talem proportionem qualis est proportio in qua vis facere divisionem_. On 53b he adds the rule for the later parts, step 2: _sicut capis primam in ordine ad totum, debes alias capere in ordine ad residua remanentia_.
 
 **The picture first.** Take a foot, from $a$ to $b$, and divide it by the _dupla_, _minoribus terminatis versus b_ (fourth preamble): the smaller parts are taken toward $b$. Count the foot as 32 small squares, so that the first three cuts come out in whole squares. □ is what is left, still to be cut; ■ is a part, cut off and set aside for good.
 
@@ -1162,7 +1164,7 @@ Modern check: $\tfrac58\times\tfrac38=\tfrac{15}{64}$ and $\tfrac58\div\tfrac{15
 
 ### P11. Rational or irrational: is there a common measure?
 
-Used on 28a (§6), 50b (§29), and 54a–54b (§33). Dolz's definition (54a): a proportion is **irrational** when nothing is an aliquot part of both terms. An aliquot part is one that, taken some number of times (at least twice), makes the whole exactly (preamble 6, §2). A common aliquot part is a **common measure**.
+Used on 28a (§6), 50b (§29), 54a–54b (§33), and 55a–55b (§34). Dolz's definition (54a): a proportion is **irrational** when nothing is an aliquot part of both terms. An aliquot part is one that, taken some number of times (at least twice), makes the whole exactly (preamble 6, §2). A common aliquot part is a **common measure**.
 
 **Rule 3. If one thing measures $A$ exactly $m$ times and $B$ exactly $n$ times, then $A$ is to $B$ as $m$ to $n$.** So a common measure turns a proportion of quantities into a proportion of numbers, which can be named (P2). This is why Dolz can call the half of the _dupla_ both "not rational" and "not found among numbers" (50b): the two say the same thing.
 
@@ -1249,6 +1251,54 @@ Halving, doubling, or taking any whole-number part of a term never changes ratio
 
 Three half-_duplae_ to the two that make the _dupla_: twice the diagonal is to the side in the _sesquialtera_ of the _dupla_, the $2\sqrt2:1$ of §29 (modern notation). Dolz does not draw this conclusion.
 
+**Rule 4. Whatever measures two quantities measures their sum and their difference.** If something goes $m$ times into $A$ and $n$ times into $B$, it goes $m+n$ times into $A$ and $B$ together, and $m-n$ times into what $A$ exceeds $B$ by. (If $m-n$ is $1$, take half the measure: it goes $2m$, $2n$, and $2$ times.) So adding to a term, or taking from it, a piece that the other term's measure also measures never changes rational into irrational or the reverse. Dolz uses this without stating it on 55a–55b (§34); cf. Euclid X.15–16.
+
+**Infinitely many irrational proportions (55a–55b).** Write $e$ for the excess of the diagonal over the side.
+
+| Terms | Rational? | Why |
+| --- | --- | --- |
+| side, $e$ | no | a common measure would measure their sum, the diagonal (Rule 4); Dolz: _nihil idem quod reddit illum excessum reddit costam_ |
+| side, half of $e$; side, a quarter of $e$ | no | halves keep it (propositions 4–5) |
+| side with half of $e$, side | no | a common measure would measure their difference, half of $e$ (Rule 4) |
+| side with a quarter of $e$, side | no | the same |
+
+Halving $e$ again and again gives two endless series of irrational proportions. Values are modern.
+
+| Series | First | Second | Third | Goes |
+| --- | --- | --- | --- | --- |
+| side with all, half, a quarter… of $e$, to the side | $1.4142$ (the diagonal to the side) | $1.2071$ | $1.1036$ | down toward equality |
+| side to all, half, a quarter… of $e$ | $2.4142$ | $4.8284$ | $9.6569$ | up without limit; each is the one before with a _dupla_ added |
+
+**Worked example: where does the _medietas duplae_ lie?** An irrational proportion has no name from numbers, but it can be placed between named ones. Double the named ones (P6) and compare with the _dupla_ (P7); halves keep the order (proposition 8, 49a). This is the _minor_ of 55b, which _patet intelligenti ea quae dicta sunt de maioritate proportionum_.
+
+| Step | Question | Work | Result |
+| --- | --- | --- | --- |
+| 1 | double the _sesquialtera_ | $3:2$ twice: the chain $9,\ 6,\ 4$ (50a) | $9:4$, _dupla sesquiquarta_ |
+| 2 | compare with the _dupla_ | the _dupla_ is $8:4$; $9:4$ is greater | the _sesquialtera_ doubled is more than the _dupla_ |
+| 3 | halve both | the half of $9:4$ is $3:2$; the half of the _dupla_ is the _medietas duplae_ | the _medietas duplae_ is less than the _sesquialtera_ |
+| 4 | what it says about the lines | the diagonal is less than one side and a half | $e$ is less than half the side, so the side to $e$ is more than the _dupla_ |
+| 5 | double the _sesquitertia_ | $4:3$ twice: the chain $16,\ 12,\ 9$ (50a) | $16:9$, _superseptipartiens nonas_ |
+| 6 | compare with the _dupla_ | the _dupla_ is $18:9$; $16:9$ is less | the _medietas duplae_ is greater than the _sesquitertia_ |
+| 7 | what it says about the lines | the diagonal is more than one side and a third | $e$ is more than a third of the side, so the side to $e$ is less than the _tripla_ |
+
+Modern check: $1.3333<1.4142<1.5$, and $2<2.4142<3$. Better bounds come from the near misses above: $7:5$ and $17:12$.
+
+**Dividing by an irrational proportion (55b).** The rule of P10 does not change: the whole must be to what is left as the proportion of division. What changes is how the cut is made. An irrational proportion has no $p$ and $q$, so the whole cannot be split into $p$ pieces with $q$ kept. A construction takes the place of the count. For the _medietas duplae_ Dolz takes the whole as the diagonal of a square; what is left is the side, and the first part is the excess. The side is made the diagonal of a second square, and so on.
+
+The figure above already contains the chain. The diagonal of the tilted square is the side of the large square, and the diagonal of a small square is the side of the tilted square. Take the whole to be the diagonal of the large square. Lengths are modern, with the small side $1$.
+
+| Cut | Square | What there is: its diagonal | What is left: its side | Part cut off: the excess |
+| --- | --- | --- | --- | --- |
+| 1 | the large square | $2.8284$ | $2$ | $0.8284$ |
+| 2 | the tilted square | $2$ | $1.4142$ | $0.5858$ |
+| 3 | a small square | $1.4142$ | $1$ | $0.4142$ |
+| 4 | a square with diagonal $1$ | $1$ | $0.7071$ | $0.2929$ |
+
+- Each part is to the next as the diagonal to the side: $0.8284:0.5858$ is $1.4142$.
+- After two cuts what is left, $1.4142$, is exactly half the whole, $2.8284$; after four, a quarter. Two _medietates duplae_ make the _dupla_ (55a).
+- So the third part is half the first, the fourth half the second: the division interleaves two divisions by the _dupla_.
+- The first part has no common measure with the whole, but it has one with the third part.
+
 ### Summary
 
 | Medieval operation | Method | Example | Modern equivalent |
@@ -1263,12 +1313,13 @@ Three half-_duplae_ to the two that make the _dupla_: twice the diagonal is to t
 | halving | _medium proportionale_; not always possible, the half of the _dupla_ is not rational (50b) | half of $9:4$ is $3:2$ | square root |
 | comparing | denomination, whole number first (46a–46b); leftovers to the same number of parts (48b); cross-multiply; or whole and part; only within one kind (48a) | $3:2>4:3$; $2:1>3:2$; $10:3>5:2$; $\tfrac24>\tfrac25$ | compare fractions |
 | how many times (_est ad_) | count links (49a–49b), never divide denominations; if no whole count, bound it by principle 3; a count may be a _sesquialtera_ (50b); Dolz's rule: _per earum compositionem_ (52a) | $8:1$ is three _duplae_, not four; $4:1$ is between one and two _triplae_; $8:1$ is _sesquialtera_ to $4:1$ | ratio of logarithms, not of values |
-| dividing by proportional parts | Dolz's first rule: cut so that the whole is to what is left as the proportion (52a); second rule: take each later part from what is left as the first from the whole (53b); repeat without end (P10) | _dupla_: $\tfrac12,\tfrac14,\tfrac18,\dots$; _tripla_: $\tfrac23,\tfrac29,\tfrac2{27},\dots$; _sesquitertia_: $\tfrac14,\tfrac3{16},\dots$; _dupla superbipartiens tertias_: $\tfrac58,\tfrac{15}{64},\dots$ | geometric series |
-| rational or irrational | look for a common aliquot part and count it into each term (54a); numbers always have unity; halves keep the result (54b) (P11) | three feet to two feet, by the foot, $3:2$; diagonal to side, none: _medietas duplae_ | rational or irrational number; $\sqrt2$ |
+| dividing by proportional parts | Dolz's first rule: cut so that the whole is to what is left as the proportion (52a); second rule: take each later part from what is left as the first from the whole (53b); repeat without end (P10); for an irrational proportion, construct instead of count (55b, P11) | _dupla_: $\tfrac12,\tfrac14,\tfrac18,\dots$; _tripla_: $\tfrac23,\tfrac29,\tfrac2{27},\dots$; _sesquitertia_: $\tfrac14,\tfrac3{16},\dots$; _dupla superbipartiens tertias_: $\tfrac58,\tfrac{15}{64},\dots$; _medietas duplae_: the excess of each diagonal over its side, in a chain of squares | geometric series |
+| rational or irrational | look for a common aliquot part and count it into each term (54a); numbers always have unity; halves keep the result (54b); sums and differences keep a common measure (Rule 4, 55a–55b) (P11) | three feet to two feet, by the foot, $3:2$; diagonal to side, none: _medietas duplae_; side to the excess of the diagonal, none | rational or irrational number; $\sqrt2$, $\sqrt2+1$ |
+| placing an irrational proportion | double the named proportions and compare them with the _dupla_, the double of the _medietas duplae_; halves keep the order (49a, 55b) | the _medietas duplae_ lies between the _sesquitertia_ and the _sesquialtera_, since $16:9$ is less and $9:4$ more than the _dupla_ | bounds on $\sqrt2$ |
 
-### Still to come
+### Coverage
 
-The second article, on the greater, equal, and lesser proportions, began on 43a. Its preambles, its principles, the general rule of greater proportion, and the order of the species (43a–46b, §22–§25) are covered by P1, P2, and P4–P7; the cube of 47b (§26) by P6; the comparisons of 48a–49a (§27) by P7; the proportion of proportions of 49a–51b (§28–§30) by P5 and P6. Dolz has promised an account of _communicatio proportionum_, overlapping proportions (43a), and of proportions that are not rational (_ut dicemus inferius_, 50b). The prooemium (25a) gives the third article the excess of one proportion over another and the proportion in which one is greater than another, and asks _quae regula dari valeat_. Page 50 separated the two questions (P5, Example F; P6); page 51a gives the rule for the first (P5, Example G) and closes both articles, and 52a adds that the second has no rule except counting by composition (P6). The fourth article, division by proportional parts, begins on 51a with six preambles; its first rule and twelve propositions, through all five genera of greater inequality, follow on 52a–53b, and its second rule, for the later parts, on 53b (P10). Dolz omits the later parts for the composite species (_quia tempus non patitur_); P10 works one. The irrational proportions promised on 28a and 50b begin on 54a: the definition by a common measure, six propositions, and the name _medietas duplae_ for the diagonal to the side (P11, §33); why it bears that name continues on 55a. The account of _communicatio proportionum_ promised on 43a has not yet come. The rules of motion belong to the fifth article. Operations needed for them will be added here as the transcription reaches them.
+The primer covers every operation the book uses. P1 and P2 serve throughout; the preambles and definitions of the first article (26b–43a) use P1–P3 and P8; the second article (43a–49a) P4–P7; the proportion of proportions of the third (49a–52a) P5 and P6; division by proportional parts in the fourth (51a–53b) P10; irrational proportion (54a–55b) P11, with the division by an irrational proportion. The prooemium (25a) plans six articles; the book ends on 55b after the fourth, without the rules of motion of the fifth or the difficulties of the sixth (§34).
 
 ---
 
@@ -1657,7 +1708,7 @@ First, its claim to be the uniquely **proper** proportion is unstable on Dolz's 
 
 Second and more importantly, it is inadequate to natural philosophy. The rules of Aristotle and the Calculators in the seventh book of the _Physics_ assign proportions to activities and resistances and compare proportions with one another. Dolz explicitly explains that these do not have the character of dimension or multitude, and anticipates a later rule according to which velocity is determined by the proportion of the proportions of activities to their resistances.
 
-He then appeals separately to proportions used by philosophers concerning local motion _ad longum_ in the third book of the _Physics_. Here, however, he merely says that these would not be proportions under the strict definition; he does not yet explain why. The promise _patebit inferius_ grammatically concerns the preceding rule about velocity, activity, and resistance, not necessarily this second appeal. The proemium announces that the fifth article will treat rules of motion both by cause and by effect, so the fuller justification belongs there; through page 40 those rules have not yet been given. Page 40 adds only a qualitative link: whether velocity increases or decreases follows from whether the proportion of power to resistance is increased or diminished (§19).
+He then appeals separately to proportions used by philosophers concerning local motion _ad longum_ in the third book of the _Physics_. Here, however, he merely says that these would not be proportions under the strict definition, without explaining why. The promise _patebit inferius_ grammatically concerns the preceding rule about velocity, activity, and resistance, not necessarily this second appeal. The proemium assigns the rules of motion, both by cause and by effect, to the fifth article, which the book never reaches (§34). The only link given is qualitative, on page 40: whether velocity increases or decreases follows from whether the proportion of power to resistance is increased or diminished (§19).
 
 Dolz's argument on page 29 is therefore: (1) the strict account recognizes proportion only where the terms share dimension or multitude; (2) natural philosophers nevertheless posit proportions between activities and resistances, which share neither; therefore (3) the strict account does not encompass every proportion required in natural philosophy. His appeal to local motion supplies a further accepted philosophical usage, although its precise ground remains to be explained. Excluding such uses would defeat the expressly philosophical purpose of the _Cunabula_. Dolz concedes that the strict use can serve some parts of philosophy — especially accounts of the increase of velocity associated with the Calculator, though less successfully when following Paulus Venetus — but page 29 ends by requiring a broader notion of proportion.
 
@@ -1672,7 +1723,7 @@ Page 30 makes explicit how Dolz broadens the mathematical account without abando
 | proper (_proprie_) | dimension or multitude | two lengths; two numbers |
 | improper (_improprie_) | a scale of degrees (_multitudo quoad gradum_) | intensity, remission, activity, resistance, velocity, slowness |
 
-This confirms two earlier conclusions. First, the omission of _eiusdem generis_ from Dolz's preferred definition is deliberate: membership in the same subaltern genus is not required. Second, the common respect need not be a mathematical measure in the strict sense. Dolz stretches _quantitas_ analogically so that it covers not only dimension and numerical multitude but also a _multitudo quoad gradum_ — a plurality or scale of degrees — in intensity, velocity, activity, and the like. His formula therefore partly includes the mathematicians but, in his words, **embraces the philosophers**. This is not a return to the strict definition, because the _aliquid_ common to the terms now ranges beyond dimension and multitude properly so called.
+Two consequences follow. First, the omission of _eiusdem generis_ from Dolz's preferred definition is deliberate: membership in the same subaltern genus is not required. Second, the common respect need not be a mathematical measure in the strict sense. Dolz stretches _quantitas_ analogically so that it covers not only dimension and numerical multitude but also a _multitudo quoad gradum_ — a plurality or scale of degrees — in intensity, velocity, activity, and the like. His formula therefore partly includes the mathematicians but, in his words, **embraces the philosophers**. This is not a return to the strict definition, because the _aliquid_ common to the terms now ranges beyond dimension and multitude properly so called.
 
 ### Equality and the direction of inequality
 
@@ -1846,7 +1897,7 @@ All the cases of page 31 in one table. $k$ is the number of added parts, $n$ the
 
 Dolz stops multiplying separate rules for _bi-_, _tri-_, _quadri-_, and so on, since that procedure could continue indefinitely. Instead he gives a decision rule: determine whether the indicated parts, taken together, make an aliquot part or a whole. If they do, the ratio is not _superpartiens_; if they do not, it is, provided the other conditions of the definition hold.
 
-This confirms, rather than merely approximates, the divisibility test reconstructed from page 31. For
+This is exactly the divisibility test of page 31. For
 
 $$
 A=B+k\left(\frac{B}{n}\right),
@@ -2127,7 +2178,7 @@ The same contrast applies to corruption, the gradual loss of a quality:
 
 Dolz now defines arithmetical proportionality as _excessus similitudo quamquam dissimilitudo_ and illustrates it with $1,2,3,4$: each successive excess is one, whereas the ratios change. In the Calculator case that began $2,3$ on page 33, the instruction to continue "arithmetically" therefore fixes the successive difference, not the successive ratio. Dolz extends this distinction to the corruption of something in equal successive amounts, contrasting it with the geometrical corruption of assent to a conclusion discussed at the beginning of the page: first one degree, then a half, then a quarter, then an eighth. He says that so long as some assent to the premises lasts, some assent to the conclusion lasts too; he refers the fuller explanation to his _Analyticorum_ lectures.
 
-The contrast also limits the often-cited definition of proportionality as _proportionum similitudo_: Dolz says that this describes **geometrical** proportionality, not proportionality in general. Page 40b confirms it: a proportionality does not require all its proportions to be similar (§19). The printed $2,3,5,7,9$ has excesses $1,2,2,2$; emending its first term to $1$ yields $1,3,5,7,9$, with constant excess $2$, as in the following $2,4,6,8$. Changing the second term to $4$ would also regularize the progression, but would duplicate that following example. The transcription adopts the minimal emendation and records the printed reading in its apparatus.
+The contrast also limits the often-cited definition of proportionality as _proportionum similitudo_: Dolz says that this describes **geometrical** proportionality, not proportionality in general. So also 40b: a proportionality does not require all its proportions to be similar (§19). The printed $2,3,5,7,9$ has excesses $1,2,2,2$; emending its first term to $1$ yields $1,3,5,7,9$, with constant excess $2$, as in the following $2,4,6,8$. Changing the second term to $4$ would also regularize the progression, but would duplicate that following example. The transcription adopts the minimal emendation and records the printed reading in its apparatus.
 
 ### Other writings attested by the _Cunabula_
 
@@ -2151,7 +2202,7 @@ Continuous geometrical proportionality joins similar ratios through a common mid
 
 Discontinuous proportionality has no such shared middle: $8:4=2:1$ uses four terms. Dolz says it cannot have fewer than four, though it can have more. His example of more terms, printed _qualis est 3 ad 6, talis est 8 ad 4, et 2 ad 1_, is defective as a proportionality: $3:6$ is subdouble, the other two ratios double. He then asks whether $3:6$ with $8:4$ is discontinuous and answers yes, adding that some _communicatio_ between proportions is compatible with discontinuity, as he will explain later.
 
-Page 37 sharpens the difficulty: the _talis… qualis_ propositions on which these modes rest must be **true**, and page 35 makes their truth depend on sameness of denomination. By Dolz's own criterion, therefore, _qualis 3 ad 6, talis 8 ad 4_ is false. Two explanations remain. Either _3 ad 6_ is an error for _6 ad 3_, which yields exactly what the sentence claims to show, a six-term discontinuous proportionality $6:3=8:4=2:1$; against this, the same order recurs in the next sentence. Or the broad formula _comparatio proportionum_ is meant to admit a comparison of reciprocal ratios, which the promised account of _communicatio proportionum_ may explain. Until that account appears, the equal-ratio rules must not be applied to this example.
+Page 37 sharpens the difficulty: the _talis… qualis_ propositions on which these modes rest must be **true**, and page 35 makes their truth depend on sameness of denomination. By Dolz's own criterion, therefore, _qualis 3 ad 6, talis 8 ad 4_ is false. Two explanations remain. Either _3 ad 6_ is an error for _6 ad 3_, which yields exactly what the sentence claims to show, a six-term discontinuous proportionality $6:3=8:4=2:1$; against this, the same order recurs in the next sentence. Or the broad formula _comparatio proportionum_ is meant to admit a comparison of reciprocal ratios, which the promised account of _communicatio proportionum_ may explain. That account never appears: the book ends on 55b without it (§34). The equal-ratio rules must therefore not be applied to this example.
 
 ---
 
@@ -2191,7 +2242,7 @@ Thus the new comparisons are **equal to each other**: $12:4=3:1$. The numbers in
 
 **What is it for?** Here _potentia_ is a mover's capacity to produce motion, _resistentia_ what opposes it (such as a load being moved), and _velocitas_ how swiftly the motion occurs — not modern force, energy, and acceleration. On page 36 Dolz says these rules let philosophers compare motions when each power acts on its own resistance and ask what follows when the powers are paired with the other resistances (_Physics_ VII).
 
-Alvarus Thomas's _Liber de triplici motu_ (1509), I.1 (ECHO transcription, XML pages 59–60), supplies comparable numbers: a power $8$ on a resistance $4$ and a power $4$ on a resistance $2$ are both double, although their excesses are $4$ and $2$. Exchanging the resistances gives $8:2=4$ and $4:4=1$, no longer equal. These are ratios of power to resistance, **not** speeds: a conclusion about speeds requires a law of motion, which Dolz has not yet given. Alvarus himself warns against the naive inference: two horses pulling two boats separately do not, by pulling them together, move the combined load at twice the speed. The crossed pairing is our illustration, not an example from either author.
+Alvarus Thomas's _Liber de triplici motu_ (1509), I.1 (ECHO transcription, XML pages 59–60), supplies comparable numbers: a power $8$ on a resistance $4$ and a power $4$ on a resistance $2$ are both double, although their excesses are $4$ and $2$. Exchanging the resistances gives $8:2=4$ and $4:4=1$, no longer equal. These are ratios of power to resistance, **not** speeds: a conclusion about speeds requires a law of motion, which the _Cunabula_ never gives (§34). Alvarus himself warns against the naive inference: two horses pulling two boats separately do not, by pulling them together, move the combined load at twice the speed. The crossed pairing is our illustration, not an example from either author.
 
 Why so many names? Dolz has first classified **individual ratios** by kind (double, sesquialteral, etc.), so he can recognize whether two ratios are alike. Here he classifies **valid inferences between equal ratios**: which changes to the terms preserve their equality, and which do not. The rules are meant to make such reasoning teachable, not to offer different ways of simplifying a fraction. Dolz says _coniuncta_ works whether the starting proportionality is continuous or discontinuous: the operation depends on the equal ratios, not on whether they share a middle term. The apparently separate _disiunctiva_ example $8:4=4:2$ applies the same operation to a **continuous** starting proportion, yielding $12:4=6:2$; the text does not here give it a distinct general rule.
 
@@ -2280,7 +2331,7 @@ If every ratio in both chains is the same, as in $64,32,16$ and $8,4,2$ (all dou
 
 ### Only the linked ratios must be similar
 
-Must all proportions in these modes be similar? No: $8:4=2:1$ yields $8:2=4:1$, passing from doubles to quadruples. What must be similar are the ratios joined by _talis… qualis_ in the premise, "alias antecedens non esset verum", and the modes presuppose that their _talis qualis_ propositions are true. This confirms the reading of pages 35–36: a proportionality is a **consequence** whose premise is a proposition of the form _qualis est A ad B, talis est C ad D_, true when the two ratios have the same denomination. The treatment of _ly 'talis qualis'_ as a syncategorematic connective is the logician's contribution to the mathematics. It also bears on the doubtful $3:6$ example of 34b (see §13).
+Must all proportions in these modes be similar? No: $8:4=2:1$ yields $8:2=4:1$, passing from doubles to quadruples. What must be similar are the ratios joined by _talis… qualis_ in the premise, "alias antecedens non esset verum", and the modes presuppose that their _talis qualis_ propositions are true. As on pages 35–36, a proportionality is a **consequence** whose premise is a proposition of the form _qualis est A ad B, talis est C ad D_, true when the two ratios have the same denomination. The treatment of _ly 'talis qualis'_ as a syncategorematic connective is the logician's contribution to the mathematics. It also bears on the doubtful $3:6$ example of 34b (see §13).
 
 ### Objections against the division of proportion
 
@@ -2458,7 +2509,7 @@ The words _proprie_ and _improprie maius_, Dolz says, are in use among natural p
 
 No infinite is called double or triple another infinite, properly or improperly. Not improperly, because those terms are not used in that way. Not properly, because then one would stand to the other in a double proportion, which is false.
 
-Could the improper excess at least ground a proportion with species? No, unless one consistently posits infinite proportions and, among them, some equal and some unequal, _etiam improprie loquendo; sed haec non sunt in usu_. This settles the _proportio infinita_ left open on 38b (§17): it is a possible extension, not part of the accepted doctrine.
+Could the improper excess at least ground a proportion with species? No, unless one consistently posits infinite proportions and, among them, some equal and some unequal, _etiam improprie loquendo; sed haec non sunt in usu_. The _proportio infinita_ of 38b (§17) is therefore a possible extension, not part of the accepted doctrine.
 
 The objection that follows is a serious one. Take a body infinite in both directions, east and west. It contains as much as $a$, which is infinite in one direction. From any point there is as much distance to the east as to the west, so it contains as much again. It therefore contains $a$ twice, and by definition a thing that contains another _bis adaequate_ is double. Dolz denies the consequence: the _bis_ in the definition of double, the _ter_ in that of triple, and so on, must be understood _finite_. Since _bis_ is already the finite number two, the restriction must mean that the definitions count repetitions of a **finite** quantity, as 38b had said: they concern _continentia finiti ad finitum_.
 
@@ -2601,7 +2652,7 @@ The positions are those of [The Paris calculatores, Alvarus Thomas, and Galileo]
 
 Dolz says that this will serve in philosophy when the power (_potentia_) increases with the resistance unchanged, or the resistance with the power unchanged, and when both increase or both decrease, one more than the other _proportionaliter_. From these rules the student will know whether the proportion is made greater or less, _et an velocitas augebitur motus vel diminuetur_.
 
-This is the first place where Dolz ties the direction of change in velocity to the direction of change in the proportion of power to resistance (§8, §14). It is a **qualitative** rule: it says whether velocity increases, not by how much. The quantitative rule announced on page 29, that velocity follows the _proportion of proportions_, is still to come.
+This is the first place where Dolz ties the direction of change in velocity to the direction of change in the proportion of power to resistance (§8, §14). It is a **qualitative** rule: it says whether velocity increases, not by how much. The quantitative rule announced on page 29, that velocity follows the _proportion of proportions_, belonged to the fifth article, which the book never reaches (§34).
 
 The insistence on _proportionabiliter_ puts the reasoning on the side of the ratio, not of the excess. On the excess reading, $10:5$ would move faster than $8:4$; on the ratio reading they move equally fast, as with Alvarus's $8:4$ and $4:2$ (§14).
 
@@ -2659,7 +2710,7 @@ The name of a composite species adds an integer count and a fraction; adding two
 
 The second alternative in Dolz's definition, _vel illam a qua subtrahi debet annihilari_, is obscure. One possible reading: subtracting a proportion from an equal one annihilates it and leaves equality, _sicut in quantitatibus_, as subtracting a quantity from an equal quantity leaves nothing. This is our guess (see the textual notes).
 
-The _continuatio_ of two dissimilar proportions through a shared term may bear on the _communicatio proportionum_ promised on 34b (§13), but Dolz does not connect them.
+The _continuatio_ of two dissimilar proportions through a shared term may bear on the _communicatio proportionum_ promised on 34b–35a (§13), but Dolz does not connect them, and the promised account never comes (§34).
 
 ### Harmonic proportionality
 
@@ -2903,7 +2954,7 @@ The last clause, _nec propterea erit simile de angelo, secus de eius unitate_, r
 | some other respect common to both | yes | possible |
 | Nominalists: continuum also discrete | yes | yes: two-foot to one-foot |
 
-The answer applies 28b: proportion requires a common respect, and neither continuity nor discreteness belongs to both. In another respect a proportion is possible. This settles the second question, left open in the table of §8.
+The answer applies 28b: proportion requires a common respect, and neither continuity nor discreteness belongs to both. In another respect a proportion is possible. This answers the second question of the table of §8.
 
 The Nominalists concede that a continuum is also discrete. On their view a discrete quantity can be continuous as well, and the two-foot body stands to the one-foot body as a continuous to a discrete quantity. Dolz again keeps the Realist _imaginatio_ as the default and records the Nominalist answer beside it, as in preamble 1.
 
@@ -2986,7 +3037,7 @@ The saying is not about the respect in which body and line are compared, for in 
 
 Three observations of ours:
 
-- _Incommensurabiliter_ here is not the incommensurability of side and diagonal (§6). Side and diagonal are magnitudes of one kind that lack a common measure. Line and body are of different dimension, and no multiple of the one reaches the other. Dolz treats the word as a synonym of _improportionabiliter_. Page 54 confirms the distinction: there _incommensurabilia_ in the strict sense, the side and diagonal, **have** a proportion, an irrational one (§33). Body and line, taken as body and line, have none.
+- _Incommensurabiliter_ here is not the incommensurability of side and diagonal (§6). Side and diagonal are magnitudes of one kind that lack a common measure. Line and body are of different dimension, and no multiple of the one reaches the other. Dolz treats the word as a synonym of _improportionabiliter_. On 54a _incommensurabilia_ in the strict sense, the side and diagonal, **have** a proportion, an irrational one (§33). Body and line, taken as body and line, have none.
 - This is the failure of Euclid V, def. 4 already seen for the angle of contingence (§20) and for finite and infinite (§18).
 - The excess is stronger than that of the infinite over the finite. On 42b infinitely many finite parts **do** make an infinite whole; infinitely many lines do not make a body. On the Realist premise of the second proposition, _linea non est lata_, so no aggregate of lines has breadth. This is close to Aristotle's denial that a continuum is composed of indivisibles (_Physics_ VI.1), but Dolz does not cite it.
 
@@ -3011,7 +3062,7 @@ Dolz admits that the question is hard (_non facile est explicare_). He sets out 
 
 Dolz says the Realist _imaginatio_ is _non minus congrua_. He does not decide between them, as preamble 1 had announced: he speaks _more Realium_ while holding the Nominalists truer (§1). The rest is left _curioso brevitatis causa_.
 
-He also promises to say later _de maioritate proportionis_, what it is for one proportion to be greater than another. This should settle whether proportions are compared by value or by composition, the question left open in §20. The second article, which begins on 43a, is this treatment, and its fourth preamble answers for the parts of a proportion: by composition (§22).
+He also promises to say later _de maioritate proportionis_, what it is for one proportion to be greater than another. The second article, which begins on 43a, is this treatment. It decides whether proportions are compared by value or by composition (§20): its fourth preamble answers for the parts of a proportion, by composition (§22), and page 49 for how many times one proportion contains another (§28).
 
 ### Ad ultimam: finite and infinite
 
@@ -3086,7 +3137,7 @@ Four observations of ours:
 - **This resolves the tension of §18 and §21.** The eastern part is aliquot, and taken twice it makes the line. Yet the line is not its double, because the part is not called a half. On 39a Dolz denied the name _dupla_ to the whole; on 43a he denies the name _medietas_ to the part. The two answers agree. The link between aliquot parts and the species of pages 30–31 is cut for infinites, and deliberately.
 - **42b had used _medietas_ of the strip.** That fits 43a only if the name is taken from the finite breadth: half of one foot. Of the infinite strip as a whole, 43a forbids it.
 - **Aliquot parts of the same count are unequal.** In a finite whole every half has the same size. Here the eastern parts from two different points are both aliquot, both taken twice, but one contains the other and more, so one is greater, improperly, by the criterion of 39a.
-- **Dolz marks these as his own.** _Non mireris si in his aliquid fateamur quod communiter non concederetur_: they are _probabilia_ added to the common doctrine. With them the first article, on definitions and divisions, ends, although he will come back to the subject (_adhuc super hac materia tangemus aliquid_).
+- **Dolz marks these as his own.** _Non mireris si in his aliquid fateamur quod communiter non concederetur_: they are _probabilia_ added to the common doctrine. With them the first article, on definitions and divisions, ends, although he will come back to the subject (_adhuc super hac materia tangemus aliquid_). He does so at the end of the book, with irrational proportion (54a–55b, §33–§34).
 
 ### The second article
 
@@ -3165,7 +3216,7 @@ The fifth preamble completes the scaffolding: as every whole is composed of its 
 
 ### Principle 3 decides between value and composition
 
-This is the most important point of the page. Page 41 left open whether one proportion is measured against another by value or by composition (§20); 43b answered for halves (§22). Principle 3 forces the answer in general. Take the octave as the fifth plus the fourth.
+This is the most important point of the page. Whether one proportion is measured against another by value or by composition (41a, §20) was answered for halves on 43b (§22). Principle 3 forces the answer in general. Take the octave as the fifth plus the fourth.
 
 | "Double the fourth" read as | Double of $4:3$ | Octave $2:1$ against it | Principle 3 |
 | --- | --- | --- | --- |
@@ -3452,7 +3503,7 @@ The _dupla sesquialtera_ thus contains the _dupla_ as a part, but its other part
 
 ### The geometrical principles left unexamined
 
-| Principle | Dolz's wording | Euclid, common notions | Used so far |
+| Principle | Dolz's wording | Euclid, common notions | Used |
 | --- | --- | --- | --- |
 | whole greater than part | _omne totum est maius sua parte_ | 5 | 44a, principle 1 (§23); 46b |
 | equals from equals | _si ab aequalibus aequalia demas, remanentia sunt aequalia_ | 3 | — |
@@ -3462,7 +3513,7 @@ Dolz says he would gladly have examined these principles, _quae iuvant multum ad
 
 Three observations of ours:
 
-- **The book was shortened under pressure.** This is the first explicit statement of it. The reasons are not given. It agrees with the prooemium, _Si vis mathematicus fieri, residua alibi quaeres_, and with the brisk dismissal by proverbs of the objections to the first principle on 44a (§23).
+- **The book was shortened under pressure.** This is the first explicit statement of it. The reasons are not given. Later statements follow on 53b (_quia tempus non patitur_), 55a (_non instat tempus demonstrandi_), and 55b (_processum pro nunc evitare intendo_), and the book ends after the fourth of its six articles (§34). It agrees with the prooemium, _Si vis mathematicus fieri, residua alibi quaeres_, and with the brisk dismissal by proverbs of the objections to the first principle on 44a (§23).
 - **_Alibi non praetermittam_ is a promise**, not evidence of an existing work. It does not belong with the writings attested in §13.
 - **The principles are about quantities, the application about proportions.** Applied to proportions, "taking away" is subtraction by breaking the chain (P5), not taking away an amount. The examination Dolz omits would have had to say this.
 
@@ -3675,7 +3726,7 @@ The rule is the reading "by value" of §20, refuted with the very example used t
 
 Three observations of ours:
 
-- **This settles what §20–§24 inferred.** Page 43b measured halves by composition (§22), principle 3 required it for "double" (§23), and 45b–46b showed value and composition agreeing on which proportion is greater (§24). Page 49 says it in so many words: for how many times, only composition counts.
+- **Composition, in so many words.** Page 43b measured halves by composition (§22), principle 3 required it for "double" (§23), and 45b–46b showed value and composition agreeing on which proportion is greater (§24). Page 49 says it in so many words: for how many times, only composition counts.
 - **It is the measure of Bradwardine's rule.** To make a speed three times a speed produced by a _dupla_, the rule needs the _octupla_, the _dupla_ tripled. The refuted rule would give the _sextupla_, $6:1$, since $6=3\times2$ (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-Alvarus-Thomas-and-Galileo.html), section 1.1). Dolz does not draw the consequence on this page.
 - **Only some _multiplices_ compare in whole counts.** _Per istas proportiones poteris facile alias multiplices comparare._ All the examples are powers of one proportion: $2,4,8,16$ of the _dupla_, $3,9$ of the _tripla_. The _tripla_ and the _dupla_ have no such common measure, and propositions 14 and 15 show what Dolz does then. A common measure does not guarantee a whole count: on 50b the _octupla_, three _duplae_, is _sesquialtera_ to the _quadrupla_, two _duplae_ (§29).
 
@@ -3831,7 +3882,7 @@ octupla 8:1           1 ------------------------ 8       3 steps
 
 The _octupla_ is three steps, the _quadrupla_ two (propositions 9 and 10); three to two is _sesquialtera_, as $3$ is to $2$.
 
-**_Rationalis._** This is the first time the transcription calls a proportion _rationalis_. The claim is limited: _maxime de rationali et de numero praedictarum_. Dolz denies that a _sesquialtera_ of the _dupla_ is found among rational proportions, not that one exists, and he defers the matter (_ut dicemus inferius_). Page 54 confirms this reading. The half of the _dupla_ is the proportion of a square's diagonal to its side, called _medietas duplae_, and _rationalis_ means commensurable: two terms with a common aliquot part, which is the same as having terms in numbers (54a–54b, §33; P11).
+**_Rationalis._** This is the first time the transcription calls a proportion _rationalis_. The claim is limited: _maxime de rationali et de numero praedictarum_. Dolz denies that a _sesquialtera_ of the _dupla_ is found among rational proportions, not that one exists, and he defers the matter (_ut dicemus inferius_). The half of the _dupla_ is the proportion of a square's diagonal to its side, called _medietas duplae_, and _rationalis_ means commensurable: two terms with a common aliquot part, which is the same as having terms in numbers (54a–54b, §33; P11).
 
 In modern terms it exists and is the proportion of $2\sqrt2$ to $1$. Here $2\sqrt2$ is one number, $2\times\sqrt2$, about $2.83$; it is the left term of the proportion, and $1$ the right term. It is found exactly as the _octupla_ was found for the _quadrupla_:
 
@@ -3886,9 +3937,9 @@ _Nos dicimus quod tripla excedit duplam per sesquialteram, et tamen non est sesq
 
 Three observations of ours:
 
-- **The third article announced.** The prooemium (25a) gave the third article two tasks: _cuiuslibet excessum super aliam enucleabit, et qua in proportione una alia proportione erit maior_. These are the two rows of the table. Page 50 separates them before any heading for a third article, and the propositions still continue the numbering of the second. Page 51a confirms that no heading follows: Dolz gives the rule the prooemium asked for and closes _his articulis_, the second and third together (§30).
+- **The third article announced.** The prooemium (25a) gave the third article two tasks: _cuiuslibet excessum super aliam enucleabit, et qua in proportione una alia proportione erit maior_. These are the two rows of the table. Page 50 separates them before any heading for a third article, and the propositions still continue the numbering of the second. No heading follows on 51a either: Dolz gives the rule the prooemium asked for and closes _his articulis_, the second and third together (§30).
 - **Rule 2 one level up.** For numbers, the excess is a difference and the proportion a ratio: $3$ exceeds $2$ by $1$ and is _sesquialtera_ to it (P1, Rule 2). For proportions, the excess is found by subtraction and is itself a proportion; the proportion between them is found by counting. Both answers use the same names, which is why the slip of the _sextupla_ is easy: the _octupla_ exceeds the _quadrupla_ by a _dupla_ and is _sesquialtera_ to it. On 51a Dolz makes the comparison himself, with five feet and two (§30).
-- **What it means for Bradwardine's rule.** A speed one and a half times the speed produced by a _dupla_ needs a proportion _sesquialtera_ to the _dupla_, and proposition 20 says none is found among numbers. Double, triple, and quadruple speeds can always be reached in whole numbers (propositions 16–19); one and a half times, not in general (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-Alvarus-Thomas-and-Galileo.html), section 1.1). Dolz does not draw this consequence; the rules of motion belong to his fifth article.
+- **What it means for Bradwardine's rule.** A speed one and a half times the speed produced by a _dupla_ needs a proportion _sesquialtera_ to the _dupla_, and proposition 20 says none is found among numbers. Double, triple, and quadruple speeds can always be reached in whole numbers (propositions 16–19); one and a half times, not in general (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-Alvarus-Thomas-and-Galileo.html), section 1.1). Dolz does not draw this consequence; the rules of motion belong to his fifth article, which the printed book never reaches (§34).
 
 ---
 
@@ -3993,7 +4044,7 @@ _Vides, possemus in abyssum multiplicare propositiones de proportione proportion
 
 Two observations of ours:
 
-- **Why proportional parts.** The objection of 37b already built a case from proportional parts, $7$, $7\tfrac12$, $7\tfrac34$, … (§16). Sums over proportional parts are the Calculators' main tool for intensities and motions (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-Alvarus-Thomas-and-Galileo.html)). The fourth article gives the student this tool before the rules of motion of the fifth.
+- **Why proportional parts.** The objection of 37b already built a case from proportional parts, $7$, $7\tfrac12$, $7\tfrac34$, … (§16). Sums over proportional parts are the Calculators' main tool for intensities and motions (see [The Paris calculatores, Alvarus Thomas, and Galileo](Calculatores-Paris-Alvarus-Thomas-and-Galileo.html)). The fourth article gives the student this tool before the rules of motion of the fifth. The fifth never came: the fourth article is the last the book contains (§34).
 - **The order of the articles.** First the species and their names (first article), then greater and lesser (second), then excess and how many times (third), and only then division by proportional parts. The division in a given proportion presupposes all three: the parts must stand in a named proportion, each must be less than the one before, and the remainder must be the whole less the parts taken.
 
 ---
@@ -4151,7 +4202,7 @@ Three observations of ours:
 
 ## 33. Irrational proportion (54a–54b)
 
-Page 54 leaves division by proportional parts behind, closed on 53b, and takes up a subject Dolz has promised twice. On 28a he wrote _postea probabimus nihil fore partem aliquotam diametri et costae eiusdem quadrati_ (§6); on 50b, _medietas duplae non dicatur rationalis, nec inter numeros reperiatur, ut dicemus inferius_ (§29). He now gives a definition, the common example of the side and diagonal of a square, six propositions, and the common name of that example, _medietas duplae_, the half of the _dupla_. Why it is so called is explained in an argument that runs on to 55a. The transcription's heading _De proportione irrationali_ stands at the head of 54a, where the new subject begins. The prooemium gives irrational proportion no article of its own (25a), and the fifth article, on the rules of motion, has not yet begun. By its content the page completes the first article, which promised the definitions of every proportion _cum omnium specierum assignatione sufficienti_: proposition 6 adds a division that the first article's list of species lacked.
+Page 54 leaves division by proportional parts behind, closed on 53b, and takes up a subject Dolz has promised twice. On 28a he wrote _postea probabimus nihil fore partem aliquotam diametri et costae eiusdem quadrati_ (§6); on 50b, _medietas duplae non dicatur rationalis, nec inter numeros reperiatur, ut dicemus inferius_ (§29). He now gives a definition, the common example of the side and diagonal of a square, six propositions, and the common name of that example, _medietas duplae_, the half of the _dupla_. Why it is so called is explained in an argument that runs on to 55a. The transcription's heading _De proportione irrationali_ stands at the head of 54a, where the new subject begins. The prooemium gives irrational proportion no article of its own (25a), and the fifth article, on the rules of motion, never begins: the book ends on 55b (§34). By its content the page completes the first article, which promised the definitions of every proportion _cum omnium specierum assignatione sufficienti_: proposition 6 adds a division that the first article's list of species lacked.
 
 ### _Sufficit probatio aliqua_ (54a)
 
@@ -4174,7 +4225,7 @@ Two observations of ours:
 - **A two-place relation again.** Being irrational belongs to a pair of quantities, not to the diagonal by itself, just as being aliquot belongs to a part together with a whole (§2, summary item 1). A diagonal of two feet has an irrational proportion to its own side and a rational one, $2:4$, to a side of four feet.
 - **The two senses of _rationalis_ are one.** On 50b a rational proportion is one found among numbers (_inter numeros_); on 54a it is one between commensurables. These agree. If one thing taken $m$ times makes $A$ and taken $n$ times makes $B$, then $A$ is to $B$ as $m$ to $n$, a proportion of numbers named as in P2. Conversely, if $A$ is to $B$ as $m$ to $n$, the $2m$-th part of $A$ is the $2n$-th part of $B$ and is aliquot to both (taken $2m$ and $2n$ times, so at least twice, as preamble 6 requires). So the half of the _dupla_ has no terms in numbers (50b; P6) exactly because the side and diagonal have no common measure (P11).
 
-The promise of 28a is not yet kept. On 54a the side and diagonal are given as the common example, without proof. What 54b proves is that further pairs are irrational _if_ these are (propositions 4 and 5).
+The promise of 28a is not kept here, nor later. On 54a the side and diagonal are given as the common example, without proof. What 54b proves is that further pairs are irrational _if_ these are (propositions 4 and 5). On 55a Dolz even supposes the geometrical proposition his explanation rests on, _quia non instat tempus demonstrandi_, and the book ends without the proof (§34).
 
 ### Six propositions (54a–54b)
 
@@ -4243,38 +4294,152 @@ _Proportio irrationalis est proportio maioris inaequalitatis, nam numquam reperi
 Three observations of ours:
 
 - **Lesser inequality too.** The proof excludes only equality. The definition includes the converse (_nec econtra_), and both cases of proposition 4 are of lesser inequality. So _maioris inaequalitatis_ must be read as "of inequality", with greater inequality standing for both directions, as on 33a every species of lesser inequality is the reciprocal of one of greater (textual notes).
-- **A correction to §18.** There we concluded that every solution of the six objections saves the division of proportion by restricting its domain, never by adding species. That remains true of the six objections. But page 54 shows that the division of 30b–32b was not exhaustive even for single, finite, determinate terms. Dolz himself now adds a branch above the five genera, and says the five were species of _rational_ greater inequality all along. None of the six objections raised the side and diagonal: the ratios of the first objection were all of whole numbers (§17).
-- **_Plures species_.** Dolz names only one irrational species. In modern terms every half, third, and so on that P6 cannot find in whole numbers is irrational, such as the half of the _tripla_ and the third of the _dupla_ (50b, §29).
+- **The division of 30b–32b completed.** The six objections are answered by restricting the division to single, finite, determinate terms (§18). The side and diagonal are such terms, and the five genera do not contain their proportion. So Dolz adds a branch above the five genera, which are species of _rational_ greater inequality. None of the six objections raised the side and diagonal: the ratios of the first objection were all of whole numbers (§17).
+- **_Plures species_.** Dolz names only one irrational species. In modern terms every half, third, and so on that P6 cannot find in whole numbers is irrational, such as the half of the _tripla_ and the third of the _dupla_ (50b, §29). On 55a Dolz shows that the species are infinitely many, both below and above the _dupla_ (§34).
 
 ### _Medietas duplae_ (54b)
 
 _Ista quae est diametri ad costam solet vocari medietas duplae. Iam habes ex dictis quae proportio habet medietatem rationalem et quae non._ The proportion of the diagonal to the side is the half of the _dupla_ that 50b denied to numbers. _Ex dictis_ points back to those pages, where the half was sought among numbers: the _quadrupla_ has a rational half, the _dupla_ and the _tripla_ have none (50b; the test of P6).
 
-Then Dolz asks why it has this name. Take a square $a$ and make another whose diameter is the side of $a$. _Iam est una propositio in geometria quod quadratum diametri ad quadratum costae est proportio dupla_, and the sentence breaks off at _quam_, to continue on 55a. Our reconstruction of the step, pending 55a:
-
-| Step | Claim | Ground |
-| --- | --- | --- |
-| 1 | the square on the diagonal is double the square on the side | the _propositio in geometria_ (Euclid I.47; the figure of Plato's _Meno_, P11) |
-| 2 | two squares stand in the proportion of their sides, doubled | one proportion per dimension (47b, §26; P6; Euclid VI.20) |
-| 3 | so the diagonal to the side, doubled, is the _dupla_ | steps 1 and 2 |
-| 4 | so the diagonal to the side is the half of the _dupla_ | the half is the proportion that, added to itself, makes the whole (43b, §22) |
-
-With Dolz's second square, whose diagonal is the side of $a$, the same holds: $a$ is double the second square, and the side of $a$ is to the side of the second as a diagonal to its side.
+Then Dolz asks why it has this name. Take a square $a$ and make another whose diameter is the side of $a$. _Iam est una propositio in geometria quod quadratum diametri ad quadratum costae est proportio dupla_; the argument is completed on 55a (§34).
 
 Two observations of ours:
 
-- **What §29 left open.** There we said that Dolz denies a rational _sesquialtera_ of the _dupla_, not that one exists. Page 54 confirms it: the half of the _dupla_ exists as a proportion of magnitudes and has a name. So the _sesquialtera_ of the _dupla_ exists too, as twice the diagonal to the side. In the chain twice the diagonal, twice the side, the diagonal, the side, each link is the half of the _dupla_; the first two links make the _dupla_, twice the diagonal to the diagonal, and the third adds its half (P11). Dolz does not draw this conclusion.
+- **The _sesquialtera_ of the _dupla_.** On 50b Dolz denies a rational _sesquialtera_ of the _dupla_, not that one exists (§29). The half of the _dupla_ exists as a proportion of magnitudes and has a name, so the _sesquialtera_ of the _dupla_ exists too, as twice the diagonal to the side. In the chain twice the diagonal, twice the side, the diagonal, the side, each link is the half of the _dupla_; the first two links make the _dupla_, twice the diagonal to the diagonal, and the third adds its half (P11). Dolz does not draw this conclusion.
 - **The modern value.** The diagonal is to the side as $\sqrt2$ to $1$ (P6, P9). The root is modern; the proportion and its name are Dolz's.
 
-### What page 54 settles
+### Page 54 and the earlier pages
 
-| Earlier | Claim | After page 54 |
+| Page | Point |
+| --- | --- |
+| 28a (§6) | half the diagonal is not aliquot to the side: proposition 4 derives it from the side and diagonal, whose incommensurability is assumed and never proved (55a, §34) |
+| 42a (§21) | _incommensurabiliter_ in the saying about body and line is a synonym of _improportionabiliter_: incommensurable quantities **have** a proportion, an irrational one; a body and a line, taken as body and line, have none |
+| 37b–39b (§17–§18) | the six objections are answered by restricting the division to single, finite, determinate terms; the division itself is completed on 54b by rational and irrational |
+| 50b (§29) | the half of the _dupla_ is not rational, but it exists: the diagonal to the side, _medietas duplae_ |
+| P6, P9 | the $\sqrt2:1$ of the modern bridge is Dolz's diagonal to side |
+
+---
+
+## 34. The _medietas duplae_ explained, infinitely many irrational species, and the end of the work (55a–55b)
+
+Page 55 is the last page of the book. It completes the explanation of the name _medietas duplae_ begun on 54b, shows that irrational proportion has infinitely many species, below and above the _dupla_, says how they may be named, and applies the rule of division by proportional parts to an irrational proportion. Then come _Finis_ and the explicit. The fifth and sixth articles announced in the prooemium (25a) do not follow.
+
+### _Non instat tempus demonstrandi_ (55a)
+
+The sentence broken off on 54b ends: _quam suppone esse verum, quia non instat tempus demonstrandi_. Then:
+
+> _Ergo proportio diametri ad costam erit subdupla ad duplam. Consequentia patet, nam semper proportio quadratorum est dupla ad proportionem costarum; sed subdupla ad duplam est medietas duplae, igitur._
+
+| Step | Dolz | Ground |
 | --- | --- | --- |
-| §6 (28a) | half the diagonal is not aliquot to the side; _postea probabimus_ | proposition 4 derives it from the side and diagonal; the side and diagonal are still assumed, not proved |
-| §21 (42a) | _incommensurabiliter_ in the saying about body and line is not the incommensurability of side and diagonal, but a synonym of _improportionabiliter_ | confirmed and sharpened: on 54a incommensurable quantities **have** a proportion, an irrational one; a body and a line, taken as body and line, have none |
-| §18 (39b) | the division of proportion is saved by restricting its domain, not by adding species | true of the six objections; but 54b adds rational and irrational as the first division of greater inequality |
-| §29 (50b) | Dolz denies a rational half of the _dupla_, not that it exists | confirmed: it exists, as the diagonal to the side, and is called _medietas duplae_ |
-| P6, P9 | the half of the _dupla_ is $\sqrt2:1$ | Dolz's own instance is the diagonal and side of a square |
+| 1 | take a square $a$, and a second square whose diagonal is the side of $a$ | construction (54b) |
+| 2 | the square on the diagonal, $a$, is to the square on the side, the second square, as the _dupla_ | the _propositio in geometria_ (Euclid I.47; the figure of Plato's _Meno_, P11), supposed and not proved |
+| 3 | the proportion of two squares is always double the proportion of their sides | _semper proportio quadratorum est dupla ad proportionem costarum_; one proportion per dimension (47b, §26; P6); Euclid VI.20 |
+| 4 | so the side of $a$ is to the side of the second square, a diagonal to its side, as what is _subdupla_ to the _dupla_ | steps 2 and 3 |
+| 5 | what is _subdupla_ to the _dupla_ is its half | _medietas duplae_ |
+
+Four observations of ours:
+
+- **The second square.** Dolz's rule in step 3 speaks of squares and their sides (_costae_). To apply it to a diagonal, the diagonal must first be a side, and the second square makes it one. The same square is used again on 55b.
+- **_Subdupla ad duplam_** is the language of the proportion of proportions (49a, §28): one proportion is _subdupla_ to another when the other is made of it twice. The half of the _dupla_ is a half by composition, not by value (P6).
+- **Why this irrational and not another.** _Et ista est causa quare potius diametri ad costam est illa irrationalis quam medietas triplae vel aliqua alia._ The figure fixes the species: the square on the diagonal is double the square on the side, not triple. The half of the _tripla_ has a figure too, the long diagonal of a cube to its edge, since the square on it is three times the square on the edge; Dolz does not mention it.
+- **Two assumptions, neither proved.** The geometrical proposition is supposed here (_suppone esse verum_), as the incommensurability of side and diagonal was on 54a. The _postea probabimus_ of 28a (§6) is not kept. Both proofs take a few lines with the operations of this book (P11).
+
+### _Infinitas species_ (55a–55b)
+
+> _Volo quod excessus quo diameter excedit costam diminuatur continue quousque diameter ille erit aequalis costae; tunc continue erunt aliae et aliae proportiones inaequalitatis maioris minores dupla, quae omnes erunt irrationales._
+
+When the excess is diminished to half, the proportion is still irrational; to a quarter, still irrational; _et sic consequenter_. On 55b Dolz adds a second series, greater than the _dupla_: the side to the excess, to half the excess, to a quarter of it, and so on. Write $e$ for the excess of the diagonal over the side. The values are modern (P11 has the details).
+
+| Series | Proportion | Value | Lies between |
+| --- | --- | --- | --- |
+| below | side with all of $e$ (the diagonal), to the side | $1.4142$ | _superbipartiens quintas_ $7:5$ and _sesquialtera_ $3:2$ |
+| below | side with half of $e$, to the side | $1.2071$ | the third and the fourth of the _dupla_ |
+| below | side with a quarter of $e$, to the side | $1.1036$ | the seventh and the eighth of the _dupla_, just under the seventh |
+| above | side to $e$ | $2.4142$ | _dupla_ and _tripla_ |
+| above | side to half of $e$ | $4.8284$ | _quadrupla_ and _quintupla_ |
+| above | side to a quarter of $e$ | $9.6569$ | _nonupla_ and _decupla_ |
+
+Why each is irrational. Dolz gives the ground for the side to the excess only: _nihil idem quod reddit illum excessum reddit costam_. For the rest he says _ut patet intelligenti dicta_. Our proof uses one step that Dolz does not state: **whatever measures two quantities measures their sum and their difference** (P11, Rule 4; cf. Euclid X.15–16).
+
+| Pair | Why no common measure |
+| --- | --- |
+| side, $e$ | a common measure would measure their sum, the diagonal |
+| side, half or a quarter of $e$ | what measures a half also measures the whole (propositions 4–5, 54b) |
+| side with half of $e$, side | a common measure would measure their difference, half of $e$ |
+
+Five observations of ours:
+
+- **Continuously, or step by step?** _Quae omnes erunt irrationales_ is too strong if it covers every stage of the continuous diminution. Shrinking the excess continuously, the proportion passes through every value between the _medietas duplae_ and equality, rational ones included. When the excess has shrunk to a fifth of the side, the diagonal has become to the side as $6:5$, a _sesquiquinta_; this happens between the half and the quarter of $e$. The instances Dolz names, a half, a quarter, and so on, are all irrational, and they are all the argument needs.
+- **_Minores dupla_.** True, but weak: all are less than the _medietas duplae_ itself.
+- **From _plures_ to _infinitas_.** On 54b irrational proportion had _plures species_; now it has infinitely many, as rational proportion had (_in abyssum_, 51b, §30). Each irrational proportion is its own species, as each rational one is.
+- **_Minor patet… de maioritate proportionum_.** That the side to $e$ is greater than the _dupla_ follows from the second article. Doubled, the _sesquialtera_ is the _dupla sesquiquarta_ $9:4$ (50a), greater than the _dupla_; halves keep the order (proposition 8, 49a, §28); so the _medietas duplae_ is less than the _sesquialtera_. The diagonal is then less than a side and a half, $e$ is less than half the side, and the side is more than double $e$. In the same way the _sesquitertia_ doubled is $16:9$ (50a), less than the _dupla_, so the side to $e$ is less than the _tripla_. Each further halving of $e$ diminishes the lesser term and adds a _dupla_ to the proportion (40a, §19), without limit.
+- **Two directions from one excess.** The lower series approaches equality, the upper grows without bound. The proportions of irrational greater inequality are therefore spread, like the rational ones, over the whole range of greater inequality.
+
+### The names (55a–55b)
+
+> _Sunt nomina nondum imposita pro omnibus, eo quod inusitatae sunt; sed quia continue minorabuntur, poteris eas vocare per partes aliquotas proportionis duplae, vel alio modo per circumlocutionem et complexionem._
+
+Of the upper series: _Quomodo vocentur omnes tales non est nobis curae, quia non communiter occurrunt; sufficit eas cognoscere, et quae maior et quae minor._
+
+Three observations of ours:
+
+- **The aliquot parts of the _dupla_ do not fit the series.** Read literally, the proportion with half the excess would be named as some part of the _dupla_. It is none: it lies between the third and the fourth, and the next one lies just under the seventh (table above). In modern terms the _medietas duplae_ is the only member of the series that is an aliquot part of the _dupla_. Halving the excess does not halve the proportion, because a proportion is not an excess (P1, Rule 2). The aliquot parts of the _dupla_ can bound the series, "greater than the fourth of the _dupla_, less than the third", and that is what Dolz asks for: _quae maior et quae minor_. The text may also mean something looser: the aliquot parts of the _dupla_ are themselves irrational (P6) and continually smaller, a second infinite series that already has names.
+- **Circumlocution is exact.** "The proportion of the side with half the excess to the side" fixes its species as firmly as _sesquialtera_ fixes $3:2$. It is the way the series was defined.
+- **The third of the _dupla_.** A cube double another has its edge to the other's edge as the third of the _dupla_, three dimensions with one proportion each (47b, §26). This is the classical problem of doubling the cube. Dolz does not mention it.
+
+### Division by the _medietas duplae_ (55b)
+
+> _Nota ultra quod, quemadmodum dictum est corpus posse dividi per partes proportionales proportione rationali, ita etiam illud potest contingere proportione irrationali, et regula quae data est superius pro proportionibus rationabilibus etiam deservit in proposito._
+
+The first rule (52a): the whole must be to what is left after the first part as the proportion of division, here the diagonal to the side. So the whole is taken as the diagonal of a square, and the first part is the excess of the diagonal over the side. What is left is the side. It is made the diagonal of a second square, and the second part is the excess of that diagonal over the side of the second square; _et sic consequenter_. Shares of the whole are modern (P10).
+
+| Cut | What there is | Made the diagonal of | Part cut off | Part, share of the whole | What is left, share of the whole |
+| --- | --- | --- | --- | --- | --- |
+| 1 | the whole | the first square | its excess over the side of the first square | $0.2929$ | $0.7071$, the side of the first square |
+| 2 | the side of the first square | the second square | its excess over the side of the second | $0.2071$ | $0.5$, the side of the second square |
+| 3 | the side of the second square | the third square | its excess over the side of the third | $0.1464$ | $0.3536$ |
+| 4 | the side of the third square | the fourth square | its excess over the side of the fourth | $0.1036$ | $0.25$ |
+
+Four observations of ours:
+
+- **A construction instead of a count.** For rational proportions P10 cuts by counting: split into $p$ pieces and keep $q$. An irrational proportion has no $p$ and $q$. Dolz replaces the count by a construction, the chain of squares in which each diagonal is the side of the square before. It is the second square of 55a, repeated.
+- **Every other remainder is half.** Two links of the _medietas duplae_ make the _dupla_ (55a). So after two cuts what is left is exactly half the whole, after four a quarter. The side of the second square is half the diagonal of the first. Each part is half the part two places before it: the division by the _medietas duplae_ interleaves two divisions by the _dupla_. Dolz does not say this.
+- **Parts and whole.** The whole is to the first part as the diagonal to $e$. It is composed of the _medietas duplae_ and the side to $e$ (modern: $1.4142\times2.4142=3.4142$), between the _tripla_ and the _quadrupla_, and irrational. The first part has no common measure with the whole, yet it is double the third part.
+- **_Consimiliter poteris dicere de aliis_.** For other irrational species Dolz gives no construction. _Dabo tibi exemplum de una_: one example, as on 53b, for the student to practise on.
+
+### _Finis_ (55b)
+
+> _Sufficit in his habere modum quo in aliis procedendi modum observare possemus. Etiam haec non occurrunt frequenter in aliis scientiis; quare, etsi possem, ut alios prolixe declaravi, tamen processum pro nunc evitare intendo._
+
+The restraint of _in abyssum_ (51b) and of _sufficit probatio aliqua_ (54a) closes the book. Then a play on _finis_: _Video quod his finem praestitutum attingere valebis; ita vellem finem nobis a Deo praestitutum consequeremur_. The end set for the book, _nostrum finem_ of the prooemium (25a), and the end set for man by God; the doxology, _trinus et unus, alpha et omega_, takes the last words from Apocalypse 1:8.
+
+The explicit:
+
+> _Expliciunt cunabula plurium scientiarum, praecipue difficultatum physicalium in proportionibus et proportionalitatibus, sita a Iohanne Dolz Aragonensi in lucem deducta, anno Domini millesimo quingentesimo XVIII, die XV mensis Octobris, apud Montalbanum, Aquitaniae civitatem insignem._
+
+Three observations of ours:
+
+- **The date.** 15 October 1518, at Montauban. October falls after Easter, so the year is 1518 whether the year is counted from Easter or from 1 January.
+- **_Plurium_ for _omnium fere_.** The title calls the book the cradle of almost all sciences; the explicit calls it the cradle of many. Whether this is modesty after the shortening or a compositor's variation cannot be decided.
+- **_Finem praestitutum attingere valebis_.** Dolz claims that the end is reached, though two of six articles are missing. The prooemium set that end as the understanding of the physical difficulties (_facile physicas difficultates callere valebis_, 25a). Dolz now claims that the four articles are enough for the student to reach it.
+
+### What the book promised, and what it gave
+
+| Promise | Page | Fate |
+| --- | --- | --- |
+| fifth article: rules of motion _tam penes causam quam effectum_ | 25a | not given |
+| sixth article: difficulties in proportions and proportionalities | 25a | not given |
+| velocity follows the proportion of proportions, _patebit inferius_ | 29b (§8) | not given; it belonged to the fifth article |
+| nothing is aliquot to the diagonal and side of a square, _postea probabimus_ | 28a (§6) | assumed on 54a; the geometrical proposition supposed on 55a |
+| an account of _communicatio proportionum_ | 34b–35a (§13), 43a (§22) | not given |
+| the geometrical principles, _tamen alibi non praetermittam_ | 46b (§25) | promised for another work |
+| the later parts of the composite species | 53b (§32) | omitted, _quia tempus non patitur_ |
+| _de maioritate proportionis_ | 42a (§21) | given: the second article (43a–49a) |
+| more on the matter of the first article, _adhuc… tangemus aliquid_ | 43a (§22) | given: irrational proportion (54a–55b) |
+| irrational proportion, _ut dicemus inferius_ | 50b (§29) | given (54a–55b) |
+
+The book is complete as printed, with _Finis_ and an explicit, but incomplete against its plan. What was printed is the mathematical part: definitions and divisions (first article), the greater, equal, and lesser (second), excess and the proportion of proportions (third), and division by proportional parts (fourth), with irrational proportion as a pendant to the first. The signs of shortening run from 46b (_compellor certis de causis opus abbreviare_) through 53b, 55a, and 55b. The curriculum leads the student to the threshold of the rules of motion and stops there.
 
 ---
 
@@ -4302,7 +4467,7 @@ Two observations of ours:
 20. Proportionality is a second-order relation between proportions, not another name for a single ratio. It is nevertheless a kind of proportion, because proportions are themselves quantities (41a).
 21. Geometrical proportionality preserves equal ratios while permitting unequal absolute excesses; Dolz applies this directly to Calculator problems of changing motion.
 22. Page 34 defines arithmetical proportionality by equal successive excesses despite differing ratios; its examples of motion and corruption contrast with geometrical progression.
-23. Continuous geometrical proportionality reuses the consequent of one ratio as the antecedent of the next; discontinuous proportionality lacks that common middle. Dolz's $3:6$ with $8:4$ is false as a _talis qualis_ proposition by his own criterion; it is either corrupt (for $6:3$) or depends on a broader _comparatio_ still to be explained.
+23. Continuous geometrical proportionality reuses the consequent of one ratio as the antecedent of the next; discontinuous proportionality lacks that common middle. Dolz's $3:6$ with $8:4$ is false as a _talis qualis_ proposition by his own criterion; it is either corrupt (for $6:3$) or depends on a broader _comparatio_ that the book never explains (§34).
 24. Page 35's _coniuncta_ and _disiuncta_ add and remove the consequent from corresponding antecedents; the two _eversa_ transformations do the same with the antecedent as denominator. All require genuinely equal starting ratios.
 25. Similarity of proportions depends on their denomination (the same exact ratio), not on similarity of their terms or equality of absolute differences. A proportionality functioning as a mode of argument must be a valid inference; equality of two initial ratios does not license arbitrary cross-comparisons.
 26. Page 36 names reversal of both ratios _conversa_ and the valid cross-comparison of antecedents and consequents _permutata_; these inferences need not preserve the original denomination.
@@ -4325,7 +4490,7 @@ Two observations of ours:
 43. Every solution saves the division by restricting it to single, determinate, finite terms rather than by adding species. This holds of the six objections; on 54b Dolz himself adds the division into rational and irrational (item 127).
 44. A proportion of greater inequality is increased when a proportion of greater inequality is added to it, in five ways: by changing either term or both. It is diminished in the five mirror-image ways.
 45. When both terms change, "more" means proportionally more: $8:4$ to $10:5$ changes both terms but not the proportion.
-46. The direction of change in velocity follows the direction of change in the proportion of power to resistance. This is a qualitative rule; the quantitative law is still to come.
+46. The direction of change in velocity follows the direction of change in the proportion of power to resistance. This is a qualitative rule; the quantitative law belonged to the fifth article, which the book never reaches (item 140).
 47. Proportions are added by continuing them through a common term and subtracted by breaking that continuation: _sesquialtera_ and _sesquitertia_ make _dupla_. In modern terms this multiplies and divides ratios; it is not the additive naming of composite species such as _dupla sesquialtera_.
 48. Harmonic proportionality, taken from Nicomachus, makes the ratio of the extremes equal to the ratio of the two excesses, as in $6,4,3$.
 49. The simple musical intervals are the tone $9:8$, diatessaron (fourth) $4:3$, diapente (fifth) $3:2$, and diapason (octave) $2:1$. Dolz gives them only so that students know the terms.
@@ -4407,7 +4572,19 @@ Two observations of ours:
 125. There is no irrational proportion among numbers, because unity measures every number. If the side and diagonal are numbers for the Nominalists, they still do not have their proportion _inquantum numeri_ (54a–54b).
 126. Halving either term or both keeps the proportion irrational, because what measures a half also measures the whole (preamble 9). This proves what 28a assumed of half the diagonal (54b).
 127. Equals always share an aliquot part, so there is no irrational proportion of equality. Greater inequality must first be divided into rational and irrational; the five genera of 30b–32b are divisions of the rational branch. The irrational branch has several species, unnamed (54b).
-128. The diagonal to the side is called _medietas duplae_, the half of the _dupla_ that 50b denied to numbers. The name is explained from the square on the diagonal, which is double the square on the side; the explanation continues on 55a.
+128. The diagonal to the side is called _medietas duplae_, the half of the _dupla_ that 50b denied to numbers. The name is explained from the square on the diagonal, which is double the square on the side; the explanation is completed on 55a (item 129).
+129. Why _medietas duplae_ (55a): a second square is built whose diagonal is the side of the first; the first square is double the second; the proportion of squares is always double the proportion of their sides; so the diagonal to the side is _subdupla ad duplam_, its half by composition. The figure fixes the species: the half of the _dupla_, not of the _tripla_.
+130. The geometrical proposition is supposed, _quia non instat tempus demonstrandi_, and the incommensurability of side and diagonal stays assumed. The _postea probabimus_ of 28a is never kept (55a).
+131. Irrational proportion has infinitely many species (55a). Diminishing the excess of the diagonal over the side to a half, a quarter, and so on, gives ever smaller irrational proportions of greater inequality, tending to equality. Taken of every stage of a continuous diminution, Dolz's _omnes_ is too strong, since rational proportions such as $6:5$ are passed on the way; the stages he names are all irrational.
+132. The side to the excess, to half of it, to a quarter, and so on, are irrational, unequal, and greater than the _dupla_ (55b). That the first is greater than the _dupla_ and less than the _tripla_ follows from the second article: the _medietas duplae_ is less than the _sesquialtera_, whose double $9:4$ exceeds the _dupla_, and greater than the _sesquitertia_, whose double $16:9$ falls short of it. Each halving of the excess adds a _dupla_.
+133. Their irrationality rests on a step Dolz leaves to the reader: whatever measures two quantities measures their sum and their difference (P11, Rule 4).
+134. Most irrational proportions have no names, _eo quod inusitatae sunt_. They may be called by aliquot parts of the _dupla_ or by circumlocution (55a). The aliquot parts of the _dupla_ only bound the series of the halved excess, since halving the excess does not halve the proportion; circumlocution names them exactly. Dolz asks only to know them, and which is greater and which less (55b).
+135. A body can be divided by proportional parts in an irrational proportion, and the rule of 52a and 53b still serves (55b). Dividing by the _medietas duplae_, the first part is the excess of the diagonal over the side, and each later part the excess of the side left over, made the diagonal of a new square, over that square's side.
+136. Where counting cannot make the cut, a construction makes it: the chain of squares, each with the side of the one before as its diagonal (55b).
+137. Since two _medietates duplae_ make the _dupla_, every second remainder in this division is half the one two places before it, and the division interleaves two divisions by the _dupla_. Dolz does not say so.
+138. The work ends on 55b: _Finis_, and the explicit, dated at Montauban, 15 October 1518. The explicit calls the book _cunabula plurium scientiarum_, where the title has _omnium fere_.
+139. Dolz closes with a play on _finis_: the reader can reach the end set for the book with what has been given, as all should reach the end set by God.
+140. Of the six articles of the prooemium (25a) the book gives four, with irrational proportion as a pendant to the first. The rules of motion (fifth article), the further difficulties (sixth), the account of _communicatio proportionum_ (34b–35a, 43a), and the proof promised on 28a are not given. The signs of shortening run from 46b to 55b.
 
 ---
 
@@ -4433,7 +4610,7 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 32b | **Simplex** minoris inaequalitatis etiam est multiplex… | probably **Similiter**… _(insecure)_ | The sentence otherwise calls the entire lesser-inequality division “simple” and then lists both its simple and composite branches; the preceding sentence and subsequent definitions require the same division as for greater inequality |
 | 33a | _subsuperbipartiens tertias_, exemplum **2 ad 5** | **3 ad 5** | $3:5$ is the reciprocal of $5:3$ and fits “once plus two thirds”; $2:5$ belongs to the _subdupla sesquialtera_ defined immediately afterward |
 | 34a | **2**, 3, 5, 7, 9 | **1**, 3, 5, 7, 9 (adopted) | The printed sequence has unequal successive excesses; $1,3,5,7,9$ has constant excess $2$ and avoids duplicating the following $2,4,6,8$ |
-| 34b | qualis est **3 ad 6**, talis est 8 ad 4 (twice) | possibly **6 ad 3** _(insecure)_ | $3:6$ is subdouble, $8:4$ and $2:1$ double; $6:3$ gives the intended six-term discontinuous example. Against it, the order recurs, and Dolz promises an account of _communicatio proportionum_ |
+| 34b | qualis est **3 ad 6**, talis est 8 ad 4 (twice) | possibly **6 ad 3** _(insecure)_ | $3:6$ is subdouble, $8:4$ and $2:1$ double; $6:3$ gives the intended six-term discontinuous example. Against it, the order recurs, and Dolz promises an account of _communicatio proportionum_, which never comes (§34) |
 | 35a | _disiuncta_: ex **dissimilitudine** aliquarum proportionum | probably **similitudine** _(insecure)_ | The given $12:4=3:1$ and $8:4=2:1$ example requires equality, and the subsequent paragraph explicitly requires similar proportions for these inferences; the transmitted wording is inconsistent |
 | 35a–35b | _eversa coniuncta_: antecedentis et consequentis unius ad antecedens et consequens alterius | _(insecure; left as printed)_ | Read literally, it does not describe the operation shown by its symbolic and numerical examples, $a:b=c:d\Rightarrow(a+b):a=(c+d):c$ |
 | 36a | _conversa_ example: **2** after _unius ad_ | **1** (adopted in transcription as _unius_) | Reversing $8:4=2:1$ gives $4:8=1:2$; retaining $2$ would make the conclusion false. The apparatus's numeral _1_ corresponds to the transcribed word _unius_ |
@@ -4513,3 +4690,6 @@ Proposed emendations arising from the analysis. Those marked _insecure_ are reco
 | 54a | et **coste** alterius quadrupedalis | **costa** (adopted) | The nominative is required: _posset… costa alterius \[esse\] quadrupedalis_, parallel to _diameter unius quadrati esse bipedalis_ |
 | 54a | **binarius aut quantitas bipedalis** est pars aliquota ternarii et non bipedalis | _(left as printed)_ | As printed false: two is not an aliquot part of three (28a: _pars non aliquota ternarii_), and nothing is an aliquot part of itself. The argument needs a quantity aliquot to three feet and not to two, such as the foot and a half; no simple emendation yields it |
 | 54b | proportio irrationalis est proportio **maioris** inaequalitatis | _(left as printed)_ | The proof excludes only equality, and both cases of proposition 4 (half the diagonal to the side, half the side to the diagonal) are of lesser inequality. Read as "of inequality", with greater inequality standing for both directions (33a) |
+| 55b | regula… **eiiā** deservit in proposito | **etiam** (adopted; conjectural) | The rule given for rational proportions serves _also_ for irrational ones, as the sentence's _quemadmodum… ita etiam_ requires |
+| 55b | ut **alios** prolixe declaravi | _(left as printed)_ | _Alios_ \[_processus_\]: the masculine anticipates _processum_ in the same sentence, "as I have set out other treatments at length". The adverb _alias_, "elsewhere", is possible but not needed |
+| 55b | alpha et **c o** | **omega** (adopted; conjectural) | The formula of Apocalypse 1:8, _Ego sum alpha et omega_; the printed letters probably render a Greek ω or an abbreviation of it |

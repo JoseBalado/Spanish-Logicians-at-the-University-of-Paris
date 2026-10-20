@@ -1648,6 +1648,6 @@ Page 54a: probatio ] conj. (pbō; expansion of the abbreviation uncertain)
 Page 54a: ternarii et non bipedalis ] sic (binarius aut quantitas bipedalis est pars aliquota ternarii et non bipedalis; the example is obscure)
 Page 54a: mathematicalis ] conj. mathe[smudged]ticalis (non est mathematicalis; first half of the word blotted at the column end)
 Page 54b: sit ] sic (cum aequalium sit semper idem sit pars aliquota; sit printed twice)
-Page 55b: etiam ] conj. eiiā (pro proportionibus rationabilibus etiam deservit; possibly eius)
+Page 55b: etiam ] conj. eiiā (pro proportionibus rationabilibus etiam deservit)
 Page 55b: omega ] conj. c o (alpha et c o)
 -->

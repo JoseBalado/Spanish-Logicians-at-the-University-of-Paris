@@ -1504,7 +1504,21 @@ Quinta propositio: medietatis diametri ad medietatem costae et econtra est propo
 
 Sexta propositio: proportio irrationalis est proportio maioris inaequalitatis, nam numquam reperitur inter aequalia, cum aequalium sit semper idem sit pars aliquota. Et cum superius dividebatur proportio maioris inaequalitatis, oportebat subintelligere ly 'rationalis', ita quod proportio maioris inaequalitatis primo dividenda est in proportionem rationalem et irrationalem, et rationalis subdividenda est ut factum est. Et poterunt poni plures species ipsius proportionis irrationalis. Ista quae est diametri ad costam solet vocari medietas duplae. Iam habes ex dictis quae proportio habet medietatem rationalem et quae non.
 
-Et si petas quare vocatur illa proportio medietas duplae, dico ob hanc causam: nam confecto uno quadrato quod sit a, conficiatur aliud cuius diameter sit costa alterius. Iam est una propositio in geometria quod quadratum diametri ad quadratum costae est proportio dupla, quam /55a/
+Et si petas quare vocatur illa proportio medietas duplae, dico ob hanc causam: nam confecto uno quadrato quod sit a, conficiatur aliud cuius diameter sit costa alterius. Iam est una propositio in geometria quod quadratum diametri ad quadratum costae est proportio dupla, quam /55a/ suppone esse verum, quia non instat tempus demonstrandi. Ergo proportio diametri ad costam erit subdupla ad duplam. Consequentia patet, nam semper proportio quadratorum est dupla ad proportionem costarum; sed subdupla ad duplam est medietas duplae, igitur. Et ista est causa quare potius diametri ad costam est illa irrationalis quam medietas triplae vel aliqua alia.
+
+Iam ostenditur quod proportio irrationalis habeat infinitas species. Volo quod excessus quo diameter excedit costam diminuatur continue quousque diameter ille erit aequalis costae; tunc continue erunt aliae et aliae proportiones inaequalitatis maioris minores dupla, quae omnes erunt irrationales. Igitur quando scilicet ille excessus erit diminutus ad subduplum, adhuc restabit proportio irrationalis; quando etiam ille excessus erit diminutus ad subquadruplum, adhuc erit proportio irrationalis, ut patet intelligenti dicta, et sic consequenter. Igitur erunt continue proportiones irrationales minores et maiores, et omnes tales erunt species proportionis irrationalis.
+
+Et si petas quomodo vocabuntur tales proportiones, dico sunt nomina nondum imposita pro omnibus, eo quod inusitatae sunt; sed quia continue minorabuntur, poteris eas vocare per partes aliquotas proportionis duplae, vel alio modo per circumlocutionem et complexionem.
+
+Etiam possunt capi multae proportiones irrationales inaequales maiores dupla, nam costae ad excessum quo diameter excedit costam est proportio irrationalis: nihil idem quod reddit illum excessum reddit costam. Similiter costae ad medietatem illius excessus est proportio irrationalis, et costae ad quartam partem illius excessus /55b/ est proportio irrationalis, et sic consequenter. Et tales sunt inaequales, et tales sunt maiores dupla, igitur. Minor patet intelligenti ea quae dicta sunt de maioritate proportionum. Quomodo vocentur omnes tales non est nobis curae, quia non communiter occurrunt; sufficit eas cognoscere, et quae maior et quae minor, quae omnia iam habes ex dictis.
+
+Nota ultra quod, quemadmodum dictum est corpus posse dividi per partes proportionales proportione rationali, ita etiam illud potest contingere proportione irrationali, et regula quae data est superius pro proportionibus rationabilibus etiam deservit in proposito; et applica eam. Dabo tibi exemplum de una, per quam, si interrogeris, poteris respondere de aliis. Si vis dividere per partes proportionales proportione irrationali quae dicitur medietas duplae, diametri ad costam, opus est quod ad residuum a prima parte proportionali sit illa proportio ipsius totius. Et sic debebis capere pro prima excessum quo diameter excedit costam; pro secunda excessum quo talis costa, cum est diameter secundi quadrati, excedit costam illius secundi quadrati, et sic consequenter. Et consimiliter poteris dicere de aliis.
+
+Sufficit in his habere modum quo in aliis procedendi modum observare possemus. Etiam haec non occurrunt frequenter in aliis scientiis; quare, etsi possem, ut alios prolixe declaravi, tamen processum pro nunc evitare intendo. Video quod his finem praestitutum attingere valebis; ita vellem finem nobis a Deo praestitutum consequeremur, quem Deus concedere nobis dignetur, qui est trinus et unus, alpha et omega.
+
+Finis.
+
+# Expliciunt cunabula plurium scientiarum, praecipue difficultatum physicalium in proportionibus et proportionalitatibus, sita a Iohanne Dolz Aragonensi in lucem deducta, anno Domini millesimo quingentesimo XVIII, die XV mensis Octobris, apud Montalbanum, Aquitaniae civitatem insignem.
 
 
 
@@ -1634,4 +1648,6 @@ Page 54a: probatio ] conj. (pbō; expansion of the abbreviation uncertain)
 Page 54a: ternarii et non bipedalis ] sic (binarius aut quantitas bipedalis est pars aliquota ternarii et non bipedalis; the example is obscure)
 Page 54a: mathematicalis ] conj. mathe[smudged]ticalis (non est mathematicalis; first half of the word blotted at the column end)
 Page 54b: sit ] sic (cum aequalium sit semper idem sit pars aliquota; sit printed twice)
+Page 55b: etiam ] conj. eiiā (pro proportionibus rationabilibus etiam deservit; possibly eius)
+Page 55b: omega ] conj. c o (alpha et c o)
 -->

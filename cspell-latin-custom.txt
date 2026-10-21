@@ -27,6 +27,7 @@ accidentaliter
 accidentaria
 accidentialiter
 acialiter
+acribologia
 actuando
 actuans
 actuare
@@ -250,6 +251,7 @@ Argyropyli
 Argyropylum
 Argyropylus
 Arimenensis
+arithmetices
 arsio
 articulativus
 artificiate
@@ -914,6 +916,7 @@ Eustratium
 Eustratius
 eutrogeniae
 Eutropolia
+excellueris
 exceptiva
 exceptivae
 exceptivam
@@ -1660,6 +1663,7 @@ mathematicalia
 mathematicalibus
 mathematicalis
 mathematices
+mathematum
 Mediavilla
 medonem
 mendatum
@@ -1887,6 +1891,7 @@ parificantur
 pariforma
 pariformiter
 Parisianos
+Parisiense
 Parisiensem
 Parisiensibus
 Parisiensis
@@ -2257,6 +2262,7 @@ quantitativis
 quantitativo
 quantitativum
 quantotius
+quantulumcunque
 quidditas
 quidditate
 quidditatem

@@ -474,3 +474,4 @@ Lax's mathematical works — the *Arithmetica speculativa* and *Proportiones* (P
 The following works by Gaspar Lax are available on this site:
 
 - [*Tractatus Summularum* (Zaragoza, 1521)](Tractatus-Summularum-1521.html)
+- [*Arithmetica speculativa* (Paris, 1515)](Arithmetica-speculativa-1515.html)

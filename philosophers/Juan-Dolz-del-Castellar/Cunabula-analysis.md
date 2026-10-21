@@ -4,9 +4,9 @@ A running commentary on Juan Dolz del Castellar, _Cunabula omnium fere scientiar
 
 ---
 
-# Preambles 1–9: number, the aliquot part, and proportion
+# Preambles 1–9 and the opening account of proportion
 
-**Pages 25a–28b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_, _pars non aliquota_, and the opening definition of proportion.
+**Pages 25a–29b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_, _pars non aliquota_, and the opening definition and division of proportion.
 
 ## 1. Why the metaphysics comes first
 
@@ -251,13 +251,56 @@ Dolz's first definition proper is:
 
 A proportion is therefore a **determinate relation of one quantity to another quantity**. The frequent addition "or of one number to another number" is redundant because number is already discrete quantity. This makes proportion, like aliquot part, essentially relational rather than an intrinsic property of either term.
 
-Dolz immediately explains _certa habitudo_ as equality or inequality **in something common to both terms**. That restriction is essential. An angel and a human are not proportioned in magnitude, because magnitude does not belong to both; they may be _non-equal_ in the merely contradictory sense, but they are not _unequal_ in the quantitative sense of one being more or less than the other. Quantitative inequality presupposes a shared measurable respect.
+Dolz immediately explains _certa habitudo_ as equality or inequality **in something common to both terms**. That restriction is essential. An angel and a human are not proportioned in magnitude, because magnitude does not belong to both; they may be _non-equal_ in the merely contradictory sense, but they are not _unequal_ in the relevant comparative sense of one being more or less than the other. Such inequality presupposes a shared respect that admits _magis vel minus_, more or less.
 
-This definition should not yet be reduced to a Lean predicate over `Nat`. Page 28 explicitly ranges over quantity in general, including continuous magnitude, and makes common comparability part of the definition. A faithful formalization therefore needs a type of quantities together with a relation expressing a shared dimension or measure; ordinary numerical equality and order would silently discard the angel example and the distinction Dolz is making.
+Page 29 clarifies that this common respect need not be a shared **measurable** dimension. Dolz is about to insist that intensity, speed, activity, and resistance also ground proportions even though they are not dimensions or multitudes. What the angel example excludes is comparison in a respect not common to both subjects, not every comparison lacking a common mathematical measure.
+
+This definition should not yet be reduced to a Lean predicate over `Nat`. It ranges beyond number and continuous magnitude, and makes typed comparability part of the relation. A faithful formalization therefore needs subjects, respects of comparison, a condition that the same respect applies to both subjects, and an equality or order relative to that respect. Ordinary numerical equality and order would silently discard both the angel example and the physical proportions introduced on page 29.
 
 ---
 
-## 8. Summary of the doctrine
+## 8. Page 29: the strict mathematical proportion is too narrow
+
+Dolz opens the division of proportion with seven questions that set the agenda for what follows:
+
+1. whether there is proportion between number and unity, in either direction;
+2. whether there is proportion between discrete and continuous quantity;
+3. whether things in different genera can be proportioned when compared in something common to both;
+4. whether line, surface, and body can be proportioned to one another, especially on the Realist account;
+5. whether proportion arises from intensity and remission, speed and slowness, and similar denominations as it does from magnitude;
+6. what entity proportion is — the related things themselves or something distinct from them;
+7. whether the finite is proportioned to the infinite, and even the infinite to the infinite.
+
+The list shows that the apparently simple definition on page 28 is programmatic rather than complete. Dolz must determine both the **range** of proportional comparison and the **ontological status** of the relation before its extension is settled.
+
+He begins with a deliberately strict account used _apud nonnullos_:
+
+> Proportio est duarum quantitatum eiusdem generis habitudo.
+
+That is: **“Proportion is the relation of two quantities of the same genus.”**
+
+On this account, the terms must belong to the same subaltern genus and share either dimension or multitude. It therefore admits proportion between two continuous quantities comparable in dimension and between two discrete quantities comparable in multitude. It excludes:
+
+- a continuous quantity compared with a discrete quantity, since they share only the highest genus of quantity and neither dimension nor multitude applies to both _qua_ continuous and discrete;
+- comparison in intensity or remission, because these are not dimension or multitude;
+- comparison in speed or slowness, for the same reason;
+- comparison in activity or resistance, likewise.
+
+These are exclusions from the **strict account**, not from Dolz's own broader account. Dolz's objection is precisely that natural philosophers do speak of proportions of intensity, speed, activity, and resistance; the strict definition is therefore too narrow for his purpose. What it permits is comparison between two continuous quantities in a common dimension, or between two discrete quantities in multitude — not comparison between a continuous quantity and a discrete one.
+
+Dolz reports that some mathematicians call this _proportio propria sive proprie dicta_, and that Lax presents it as the mathematicians' intention. Dolz nevertheless gives two reasons not to adopt it as his governing definition.
+
+First, its claim to be the uniquely **proper** proportion is unstable on Dolz's own metaphysics. Preamble 4 had argued that being equal, greater, or lesser belongs to indivisible predicamental numbers only improperly, through the unities they presuppose. Page 29 now draws the consequence: if proportion is called proper because it results from predicates properly attributed to its terms, then it should be restricted to continuous quantities rather than extended to discrete quantities as the strict definition does.
+
+Second and more importantly, it is inadequate to natural philosophy. The rules of Aristotle and the Calculators in the seventh book of the _Physics_ assign proportions to activities and resistances and compare proportions with one another. Dolz explicitly explains that these do not have the character of dimension or multitude, and anticipates a later rule according to which velocity is determined by the proportion of the proportions of activities to their resistances.
+
+He then appeals separately to proportions used by philosophers concerning local motion _ad longum_ in the third book of the _Physics_. Here, however, he merely says that these would not be proportions under the strict definition; he does not yet explain why. The promise _patebit inferius_ grammatically concerns the preceding rule about velocity, activity, and resistance, not necessarily this second appeal. Nevertheless, the proemium announces that the fifth article will treat rules of motion both by cause and by effect, so a fuller justification is likely intended later in the work. The present transcription stops at the opening of page 30a and does not yet contain that treatment.
+
+Dolz's argument on page 29 is therefore: (1) the strict account recognizes proportion only where the terms share dimension or multitude; (2) natural philosophers nevertheless posit proportions between activities and resistances, which share neither; therefore (3) the strict account does not encompass every proportion required in natural philosophy. His appeal to local motion supplies a further accepted philosophical usage, although its precise ground remains to be explained. Excluding such uses would defeat the expressly philosophical purpose of the _Cunabula_. Dolz concedes that the strict use can serve some parts of philosophy — especially accounts of the increase of velocity associated with the Calculator, though less successfully when following Paulus Venetus — but page 29 ends by requiring a broader notion of proportion.
+
+---
+
+## 9. Summary of the doctrine
 
 1. _Aliquot part_ is a **two-place relation** between a part and a whole, requiring exact measure and at least two repetitions.
 2. Dropping the second term of the relation is what generates every difficulty in preamble 8.
@@ -266,11 +309,12 @@ This definition should not yet be reduced to a Lean predicate over `Nat`. Page 2
 5. _Non aliquot part_ admits two consistent but non-equivalent descriptions, differing in quantifier scope. The first has an empty extension, the second applies to every positive part; the second, which matches mathematical usage, makes _aliquot_ and _non aliquot_ compatible without contradiction.
 6. The resolution is conventionalist and continuous with preamble 4: where the basis of a science is voluntary, descriptions are free and only consistency binds.
 7. The aliquot relation is transitive because its repetition counts multiply, but neither its converse nor mixed inferences involving non-aliquotness are valid.
-8. Proportion is a determinate equality or inequality between quantities in a common measurable respect; mere non-equality between incomparable subjects is insufficient.
+8. Proportion is a determinate equality or inequality in a respect common to both terms and admitting more or less; that respect is not restricted to mathematical dimension or multitude.
+9. The strict mathematical proportion between quantities of the same subaltern genus is useful but too narrow for natural philosophy, which also compares intensity, velocity, activity, and resistance.
 
 ---
 
-## 9. Textual notes
+## 10. Textual notes
 
 Proposed emendations arising from the analysis. Those marked _insecure_ are recorded but not recommended for adoption.
 

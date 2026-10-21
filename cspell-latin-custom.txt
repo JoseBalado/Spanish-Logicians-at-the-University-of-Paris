@@ -1741,6 +1741,7 @@ nolitiones
 nolitionis
 nolitiva
 nolitum
+nominalizando
 nomineitas
 noscitiva
 notanter
@@ -2134,6 +2135,7 @@ producibilium
 productore
 proemialem
 proemiali
+proemium
 proferibile
 prognosticare
 progressiva
@@ -2560,6 +2562,7 @@ singularizatur
 singularizatus
 singularizet
 singularizetur
+situabant
 situaliter
 situantur
 situaretur

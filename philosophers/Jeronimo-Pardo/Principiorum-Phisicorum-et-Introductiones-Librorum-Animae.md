@@ -1187,9 +1187,27 @@ Nunc consequenter pro maiori declaratione quaero aliquas quaestiones, quarum pri
 
 Pro solutione est notandum quod triplex est linea: quaedam est linea recta, alia est linea reflexa, alia vero refracta. Linea recta est quae procedit in longum continuo sine aliqua reversione. Sed linea reflexa est illa quae procedit ut ad aliquod punctum, et per illud punctum revertitur alia quae componit unam totam lineam. Sed linea refracta est linea quae revertitur modo fracto et curvo.
 
-Tunc dico quod rei physicae causatur species visibiles uno modo per lineam rectam, alio modo per lineam reflexam. Unde tunc multiplicantur per lineam rectam: quando visibile causat suas species per aliquod medium perspicuum seu sibi conveniens ad agendum, ita quod non invenit aliquod obstaculum donec ad illum locum ad quem potest agere, seu donec ad illum locum ad quem virtus sua se extendit, tunc causat suas species visibiles per lineam rectam.
+Tunc dico quod rei physicaliter causatur species visibiles uno modo per lineam rectam, alio modo per lineam reflexam. Unde tunc multiplicantur per lineam rectam: quando visibile causat suas species per aliquod medium perspicuum seu sibi conveniens ad agendum, ita quod non invenit aliquod obstaculum donec ad illum locum ad quem potest agere, seu donec ad illum locum ad quem virtus sua se extendit, tunc causat suas species visibiles per lineam rectam.
 
-Pro quo est notandum quod nullum agens naturale potest agere per infinitam distantiam. Et ideo quia agit per medium uniforme et non invenit obstaculum, agit quantum potest per lineam rectam donec ad certum punctum. Ideo dicunt mathematici quod linea recta est brevis inter lineas omnes, et ideo agens naturale maxime inclinatur agere secundum lineam /53a/ rectam.
+Pro quo est notandum quod nullum agens naturale potest agere per infinitam distantiam. Et ideo quia agit per medium uniforme et non invenit obstaculum, agit quantum potest per lineam rectam donec ad certum punctum. Ideo dicunt mathematici quod linea recta est brevis inter lineas omnes, et ideo agens naturale maxime inclinatur agere secundum lineam /53a/ rectam. Ex quo sequitur quod, quando quaerunt aliqui unam quaestionem, scilicet utrum gravia appetant descendere per lineam rectam, dico quod sic. Habemus ergo istam regulam in philosophia:
+
+> Quandocumque agens naturale agit per medium uniforme et non invenit obstaculum, agit tantum quantum potest per lineam rectam.
+
+Sed sic est quod visibile est unum agens naturale in producendo suas species; ergo agit per lineam rectam quantum potest, scilicet tantum quantum se extendit sua virtus, et si agat per medium uniforme et non invenit obstaculum.
+
+Sed aliquando visibile agit per lineam reflexam. Unde ponitur talis regula in philosophia: "quandocumque agens naturale incipit agere per lineam rectam", dico quod si inveniat aliquod magnum obstaculum ultra quod non potest agere, tunc agit per lineam reflexam. Ut capio ignem qui causat calorem per lineam rectam: dico quod si inveniat aliquod magnum obstaculum ultra quod non possit agere, tunc agit per lineam reflexam. Vel aliud exemplum: visibile multiplicat suas species per lineam, et si inveniat aliquod obstaculum, revertitur et per eandem lineam.
+
+Arguitur sic: si ista regula esset vera, sequeretur quod accidens migraret de subiecto in subiectum; sed hoc est falsum, ergo regula falsa. Probatur, quia capio /53b/ ignem qui incipit producere calorem per lineam rectam, quando invenit obstaculum; tunc calor revertitur per eandem lineam, ergo migrat de subiecto.
+
+Pro solutione advertendum est quod non est imaginandum quod ille calor revertatur in numero, quia accidens migrat de subiecto in subiectum. Sed dico quod sic intelligitur regula, videlicet quod quando agens naturale incipit agere per lineam rectam et invenit obstaculum, tunc producit alium effectum similem per lineam reflexam, id est per eandem lineam per quam primus effectus fuerat productus.
+
+Tunc pono talem regulam:
+
+> Quando visibile invenerit corpus transparens concurrente aliquo opaco, tunc reflectuntur species visibiles, seu illud visibile producit suas species per lineam reflexam.
+
+Quod declaratur per experientiam de speculo: ut facies mea producit suas species usque ad speculum et invenit obstaculum, scilicet illud fundum cum opaco et polito; tunc reflectitur per lineam rectam. Et ideo aliquis videtur in speculo, quia color meus causat species suas in organo visus, propter quem videt obstaculum quod invenit.
+
+Ideo propter hoc, ita quod si quis quaerat a me quare me video, dico quod ratio est quia species meae sunt in organo ubicumque. Obiectum aliquod potest causare suam speciem hic sufficienter intensiorem; hic potest causare suam visionem, et per hoc solvuntur talis quaestio: /54a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1224,6 +1242,9 @@ Page 49b: pertractabitur ] conj. praticabit'
 Page 52a: videri ] emend. videre
 Page 52a: Quodlibeto ] conj. cohbeto
 Page 52b: quis ] conj. qms
-Page 52b: physicae ] conj. phr
+Page 52b: physicaliter ] conj. phr
+Page 53b: similem ] conj. sitem
+Page 53b: fundum cum ] conj. lnndnʒ enʒ
+Page 53b: intensiorem ] conj. mtensloʒ
 
 -->

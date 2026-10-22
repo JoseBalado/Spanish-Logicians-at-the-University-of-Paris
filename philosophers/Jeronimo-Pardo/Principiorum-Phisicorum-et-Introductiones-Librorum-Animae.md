@@ -773,8 +773,19 @@ Et ponitur talis regula pro solutione:
  
 > Potentia sensitiva nihil aliud est quam compositum ex utraque parte corporis est ipsa anima. Ut potentia visiva non est ipsa anima, sed est aliquid compositum ex utraque parte. Corporis est ipsa anima informante.
 
-Potentiarum sensitivarum quaedam est cognitiva, alia est appetitiva. Pro cuius declaratione ponitur talis regula: quaelibet potentia cognitiva habet potentiam appetitivam sibi correspondentem, quae /35a/
+Potentiarum sensitivarum quaedam est cognitiva, alia est appetitiva. Pro cuius declaratione ponitur talis regula: quaelibet potentia cognitiva habet potentiam appetitivam sibi correspondentem, quae /35a/ potentia appetitiva non distinguitur realiter ab ipsa cognitiva, ut bene videtur, ista consequentia: "haec potentia cognoscit hoc obiectum; ergo post illud fugere vel prosequi". Ex quo sequitur secunda regula vera:
 
+> Quodcumque obiectum potest ferri cognitiva, circa illud potest ferri appetitiva. 
+
+Ut capio potentiam visivam, tunc dico quod potentia visiva cognoscit colorem, et postquam cognoscit colorem, potest fugere colorem et potest prosequi colorem. Unde eadem potentia vocatur cognitiva et appetitiva. Cognitiva inquantum cognoscit, appetitiva inquantum prosequitur vel fugit. Unde potentia sensitiva appetitiva habet duos actus, quia habet prosequi respectu obiecti convenientis, et habet fugere respectu obiecti disconvenientis, ut si capiatur exemplum gratia potentiam tactivam, dico quod potentia tactiva dicitur appetitus inquantum potest prosequi vel fugere aliquod obiectum, quia praedicta potentia tactiva prosequitur obiectum sibi delectabile.
+
+Sed si quis quaerat quomodo habet potentia sensitiva istos actus, videndum naturaliter vel libere, dico quod naturaliter habet illos, nam si sit obiectum disconveniens, necessario fugit, sed si sit sibi obiectum conveniens, delectabile et proportionabile, necessario prosequi illud. Habemus ergo quod quaelibet potentia cognitiva dicitur appetitiva /35b/ inquantum appetit vel fugit.
+
+Sed si quaeras quo ordine opponitur istae duae potentiae, exemplum per talem regulam similarem talem. Numquam potentia potest habere habitum meta aliquod obiectum, nisi prius cognitiva aliquomodo cognoscat illud. Vel sub aliis verbis dico quod potentia appetitiva numquam fertur incognitum obiectum. Ex quo sequitur quod numquam potentia sensitiva prosequitur vel fugit aliquod obiectum, nisi prius cognoscat vel sentiat illud obiectum.
+
+Potentiarum sensitivarum cognitivarum quaedam est potentia exterior, alia vero est interior. Unde potentia sensitiva exterior dividitur in quinque sensus exteriores, scilicet visum, tactum, auditum, gustum, olfactum. Istae potentiae habent aliquas proprietates, quarum prima est quod ipsae non possunt habere actum suum nisi circa obiectum existens et debite praesens, et actus istarum potentiarum exteriorum vocatur sensatio exterior.
+
+Ita dico quod quadruplex est operatio diversa eorum, nam operatio visus vocatur visio, et auditus auditio, et tactus tactio, et caetera. Volo habere quod istae operationes non possunt habere nisi de obiecto existente, quia est quod aliquid videatur et quod illud non sit, et sic est quod audiatur et palpetur, et sic /36a/
 
 <!--
 ## Apparatus Criticus Reference

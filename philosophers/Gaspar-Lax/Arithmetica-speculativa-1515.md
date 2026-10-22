@@ -83,3 +83,175 @@ Undecimus trium medietatum principalium, scilicet arithmeticae, geometricae et m
 Duodecimus aliarum medietatum minus principalium passiones investigat.
 
 /8/
+# Liber primus
+
+## Gasparis Lax arithmetica speculativa duodecim libris demonstrata feliciter incipit
+
+## Libri primi definitiones
+
+Unitas est qua unaquaeque res una dicitur.
+
+### 2
+
+Numerus est multitudo ex unitatibus composita.
+
+### 3
+
+Naturalis series numerorum dicitur in qua secundum unitatis additionem fit ipsorum computatio.
+
+### 4
+
+Differentia numerorum appellatur numerus quo maior abundat a minore.
+
+### 5
+
+Numeri ab aliis aequidistare dicuntur cum ipsorum ad illos aequales sunt differentiae.
+
+### 6
+
+Numeri ab aliquo aequidistare dicuntur cum ipsorum ad illum differentiae sunt aequales.
+
+### 7
+
+Numeri circum se positi sunt quorum differentia est unitas.
+
+### 8
+
+Numeri autem circum aliquem positi dicuntur cum cuiuslibet illorum ad illum differentia est unitas.
+
+### 9
+
+Numeri autem circum aliquos positi sunt quorum cuiuslibet ad quemlibet illorum sibi relatum differentia est unitas.
+
+### 10
+
+Numerus per aliquem multiplicari dicitur qui totiens sibi coacervatur quotiens in multiplicante est unitas, et ille idem multiplicatus dicitur.
+
+### 11
+
+Numerus autem aliquem multiplicans est in quo totiens unitas reperitur quotiens multiplicatus sibi coacervatur.
+
+### 12
+
+Productus vero est qui ex eorum multiplicatione crescit.
+
+### 13
+
+Numerus aliquem numerare dicitur qui secundum aliquem multiplicatus illum producit.
+
+### 14
+
+Numeratus autem ab aliquo est qui ex multiplicatione illius per aliquem producitur.
+
+### 15
+
+Pars alicuius est quae cum alia illud constituit. Duplex est pars alicuius: quaedam aliquota et quaedam non aliquota.
+
+### 16
+
+Pars aliquota alicuius est quae pluries sumpta adaequate illud reddit, et illa eadem submultiplex illius dicitur. Et cum praecise bis sumpta adaequate illud reddit, subduplum similiter et 2 pars aliquota et medietas illius dicitur. Et cum praecise ter, subtriplum similiter et 3 pars aliquota, et ita deinceps.
+
+### 17
+
+Pars autem non aliquota alicuius est pars illius quae non pluries sumpta adaequate reddit illud.
+
+### 18
+
+Numerus denominans partem aliquotam alicuius totius est ille secundum quem ipsa multiplicata producit illud totum.
+
+### 19
+
+Similes partes aliquotae respectu aliquorum dicuntur quae ab eodem numero illorum partes aliquotae denominantur, et illae aeque submultiplicia dicuntur.
+
+### 20
+
+Prima et simplex numeri pars est unitas.
+
+### 21
+
+Multiplex alicuius est quod ex illo pluries sumpto adaequate resultat. Et si ex illo praecise bis sumpto adaequate resultet, duplum illius dicetur; et si ex illo praecise ter sumpto, triplum, et ita deinceps.
+
+### 22
+
+Aeque multiplicia respectu aliquorum dicuntur quorum illa sunt similes partes aliquotae.
+
+[Signatura: "A ii"]
+
+/9/
+### 23
+
+Numerum dividere per aliquem est ipsum in tot partes aequales quot sunt unitates in illo per quem dividitur adaequate secare.
+
+### 24
+
+Numerus divisor est secundum quem sumuntur partes aequales in diviso.
+
+### 25
+
+Partes autem in quas aliquid dividitur dividentia appellantur.
+
+### 26
+
+Numerus autem quotiens est numerus ex divisione alicuius per aliquem perveniens, et ille idem est maximus numerus secundum quem divisor in diviso reperitur.
+
+### 27
+
+Cum duorum numerorum inaequalium cuilibet eadem fuerit communis pars aliquota, quotiens illa fuerit in minori, tot partes aliquotae maioris dicetur esse minor. Et totae partes aliquotae maioris erit minor quotiens illa communis pars fuerit in maiori.
+
+### 28
+
+Mensura alicuius est quae semel aut pluries sumpta adaequate illud reddit.
+
+### 29
+
+Commensurabilia dicuntur quibus est eadem mensura communis.
+
+### 30
+
+Incommensurabilia dicuntur quibus non est mensura communis eadem.
+
+## Pro istarum definitionum perfecta intellectione aliqua succincte tangam quae pro sequentibus etiam deservient.
+
+## Circa primum igitur definitionem est advertendum
+
+Quod arithmeticus imaginatur unitatem distinctam a re qua ipsa dicitur una, et eam imaginatur indivisibilem eo modo quo reales imaginantur, saltem loquendo de unitate praedicamentali, de qua arithmeticus procedit; et propterea ibi loquar sicut arithmeticus. Nec est cura si alias alium modum dicendi insecutus sim, quia quantumcunque non realiter et de facto sint tales unitates sicut hic modus imaginatur, hoc tamen non impedit demonstrationes: abstrahentium enim non est mendacium. Si enim illud impediret demonstrationes, perirent omnes mathematicales scientiae secundum viam nominalium; nec ista impedient ea quae de fractionibus numerorum et unitatum imaginantur doctores in his materiis. Pro nunc igitur secundum istam imaginationem arithmetico more procedemus. Hoc supposito, definitio illa prima est manifesta.
+
+## Circa secundam definitionem consimiliter est supponendum
+
+Quod arithmeticus imaginatur numerum a rebus numeratis distinctum esse ponendum, saltem praedicamentalem, de quo procedit eo modo quo reales solent ponere. Nec est imaginandum quod numerus realiter et de facto ex unitatibus constituatur secundum illam viam, sed potius est accidens indivisibile, sicut et unitas, omni carens parte. Sed cum illud conceditur, intelligitur quod numerus est accidens praesupponens plures unitates, et per hoc ab unitate differt; et ita poterit intelligi definitio posita.
+
+Et ad hunc sensum etiam debent intelligi omnia quae videntur huic imaginationi contravenire, utputa cum dicitur aliquam unitatem esse partem numeri aut aliquem numerum esse alterius numeri partem. Intelligenda enim sunt ad hunc sensum: quod talis unitas est una illarum quae a tali numero praesupponuntur, et numerus aliquis dicitur pars alterius quia alius praesupponit easdem unitates quas ipse praesupponit et aliam vel alias. Et per idem dicetur numerus aliquis ex aliquibus adaequate componi, quia adaequate praesupponit unitates quas illi praesupponunt. Et propter consimilem causam dicetur numerus in numeros aut unitates aut in numerum et unitatem dividi. Et dicetur etiam numerus addi numero quia sumitur numerus praesupponens tot unitates quot sunt illae omnes quas illi praesupponunt; et propter consimilem causam dicetur unitas numero addi, et non propterea quia ex illis aliquis numerus efficiatur.
+
+Et ex his apparet quod proprie nullus numerus est altero maior aut minor, sed ad hunc sensum, quia plures aut pauciores unitates praesupponit. Nec numerus proprie dicetur unitate maior, sed quia plures unitates praesupponit et non unitas. Et propter consimilem causam etiam dicetur numerus aliquis in aliqua proportione se habere ad numerum aliquem aut ad unitatem.
+
+Patet ultra quod ex additione unitatis ad aliquem numerum aut numeri ad numerum non proprie efficitur maior numerus: tum quia illa non adduntur taliter quod numerum proprie componant, unde satis manifeste sequitur illud; tum etiam quia indivisibile additum divisibili aut indivisibili non facit maius. Sed si ex additione unitatis ad numerum aut numeri ad numerum dicatur maior numerus effici, illud poterit ad hunc sensum salvari, scilicet quod si fiat talis additio ad sensum secundum quem potest fieri, sumitur inde numerus plures praesupponens unitates. Et in proportionabili sensu debebit intelligi quod aliquis numerus excedat aliquem numerum per unitatem aut numerum. Et pari forma dicetur numerum aliquem esse aliquot unitates; ad hunc sensum intelligetur quod praesupponit tot unitates. Et dicetur numerus aliquis esse aliquot partes aliquotae aut aliqui numeri, quia praesupponit omnes illas unitates quas illi praesupponunt. Et ita de aliis omnibus locutionibus in hac materia tritis. Sed de his plura in physicalibus in materia de quantitate discreta dicentur; ibi ergo cum communiter loquentibus loquimur. Poterunt tamen dicta intelligi ut dictum est.
+
+Occurrit tamen difficultas circa istam definitionem, quia videtur unitas ab ea excludi. Hoc tamen videtur contravenire Boetio in principio suae arithmeticae, ubi hoc habet:
+> Unitatem numerorum fontem principiumque /10/
+
+
+
+<!--
+## Apparatus Criticus Reference
+* conj.    (coniectura)  : Text is unreadable; this is an educated guess.
+* corrupt. (corruptio)   : Text is a corrupted or mangled printing of the word.
+* del.     (deletio)     : Printer repeated a word; deleted the extra one.
+* emend.   (emendatio)   : Corrected a flat-out printing mistake.
+* leg.     (legitur)     : Standardized spelling (like modernizing u/v or i/j).
+* om.      (omissio)     : Printer left a word out; supplied missing text.
+* transp.  (transposito) : Printer accidentally swapped word or letter order.
+* sic                    : Error left exactly as printed in the original.
+
+Format: edited reading ] siglum original reading (context)
+* The context in parentheses quotes the passage as printed in the original,
+  so the source reading stays visible. To find the passage in the edited text,
+  substitute the reading before the ] into the context.
+* Editorial explanations follow the context after a semicolon or "cf.".
+* For om., the context quotes the original and marks the supplied word
+  in [ ], e.g. a ] om. (Volo quod [a] valeat). Everything outside the
+  brackets is as printed.
+
+## Log
+Page 9: loquar ] emend. locar (et propterea ibi locar sicut arismeticus); cf. "alium modum dicendi" in the following clause
+
+-->

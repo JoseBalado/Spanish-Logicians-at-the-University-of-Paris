@@ -1245,13 +1245,23 @@ Secunda quaestio: utrum possim me videre in pariete. Dico quod non. Contra: caus
 
 <!--
 ## Apparatus Criticus Reference
-* emend.  (emendatio)  : Corrected a flat-out printing mistake.
-* leg.    (legitur)    : Standardized spelling (like modernizing u/v or i/j).
-* om.     (omissio)    : Printer left a word out; supplied missing text.
-* sic                  : Error left exactly as printed in the original.
-* conj.   (coniectura) : Text is unreadable; this is an educated guess.
-* transp. (transposito): Printer accidentally swapped word or letter order.
-* del.    (deletio)    : Printer repeated a word; deleted the extra one.
+* conj.    (coniectura)  : Text is unreadable; this is an educated guess.
+* corrupt. (corruptio)   : Text is a corrupted or mangled printing of the word.
+* del.     (deletio)     : Printer repeated a word; deleted the extra one.
+* emend.   (emendatio)   : Corrected a flat-out printing mistake.
+* leg.     (legitur)     : Standardized spelling (like modernizing u/v or i/j).
+* om.      (omissio)     : Printer left a word out; supplied missing text.
+* transp.  (transposito) : Printer accidentally swapped word or letter order.
+* sic                    : Error left exactly as printed in the original.
+
+Format: edited reading ] siglum original reading (context)
+* The context in parentheses quotes the passage as printed in the original,
+  so the source reading stays visible. To find the passage in the edited text,
+  substitute the reading before the ] into the context.
+* Editorial explanations follow the context after a semicolon or "cf.".
+* For om., the context quotes the original and marks the supplied word
+  in [ ], e.g. a ] om. (Volo quod [a] valeat). Everything outside the
+  brackets is as printed.
 
 ## Log
 Page 3b: intrinsece ] emend. m̄trin̄cisse

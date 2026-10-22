@@ -6,7 +6,7 @@ A running commentary on Juan Dolz del Castellar, _Cunabula omnium fere scientiar
 
 # Preambles 1–9 and the opening account of proportion
 
-**Pages 25a–29b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_, _pars non aliquota_, and the opening definition and division of proportion.
+**Pages 25a–30b.** The nine preambles that precede the definitions of the first article, with particular attention to _pars aliquota_, _pars non aliquota_, and the opening definition and division of proportion.
 
 ## 1. Why the metaphysics comes first
 
@@ -294,13 +294,48 @@ First, its claim to be the uniquely **proper** proportion is unstable on Dolz's 
 
 Second and more importantly, it is inadequate to natural philosophy. The rules of Aristotle and the Calculators in the seventh book of the _Physics_ assign proportions to activities and resistances and compare proportions with one another. Dolz explicitly explains that these do not have the character of dimension or multitude, and anticipates a later rule according to which velocity is determined by the proportion of the proportions of activities to their resistances.
 
-He then appeals separately to proportions used by philosophers concerning local motion _ad longum_ in the third book of the _Physics_. Here, however, he merely says that these would not be proportions under the strict definition; he does not yet explain why. The promise _patebit inferius_ grammatically concerns the preceding rule about velocity, activity, and resistance, not necessarily this second appeal. Nevertheless, the proemium announces that the fifth article will treat rules of motion both by cause and by effect, so a fuller justification is likely intended later in the work. The present transcription stops at the opening of page 30a and does not yet contain that treatment.
+He then appeals separately to proportions used by philosophers concerning local motion _ad longum_ in the third book of the _Physics_. Here, however, he merely says that these would not be proportions under the strict definition; he does not yet explain why. The promise _patebit inferius_ grammatically concerns the preceding rule about velocity, activity, and resistance, not necessarily this second appeal. Nevertheless, the proemium announces that the fifth article will treat rules of motion both by cause and by effect, so a fuller justification is likely intended later in the work. Page 30 confirms the broader sense in which these physical comparisons count as proportions, but does not yet supply the promised rules of motion.
 
 Dolz's argument on page 29 is therefore: (1) the strict account recognizes proportion only where the terms share dimension or multitude; (2) natural philosophers nevertheless posit proportions between activities and resistances, which share neither; therefore (3) the strict account does not encompass every proportion required in natural philosophy. His appeal to local motion supplies a further accepted philosophical usage, although its precise ground remains to be explained. Excluding such uses would defeat the expressly philosophical purpose of the _Cunabula_. Dolz concedes that the strict use can serve some parts of philosophy — especially accounts of the increase of velocity associated with the Calculator, though less successfully when following Paulus Venetus — but page 29 ends by requiring a broader notion of proportion.
 
 ---
 
-## 9. Summary of the doctrine
+## 9. Page 30: philosophical proportion and its first division
+
+Page 30 makes explicit how Dolz broadens the mathematical account without abandoning determinate comparability. Things are compared **properly** when the comparison is in multitude or dimension; they are compared **improperly** when it concerns another respect in which equality or inequality can be found, such as intensity, activity, resistance, velocity, or slowness. In either case, a proportion requires something common to both terms and an equality or a _magis vel minus_ within that respect.
+
+This confirms two earlier conclusions. First, the omission of _eiusdem generis_ from Dolz's preferred definition is deliberate: membership in the same subaltern genus is not required. Second, the common respect need not be a mathematical measure in the strict sense. Dolz stretches _quantitas_ analogically so that it covers not only dimension and numerical multitude but also a _multitudo quoad gradum_ — a plurality or scale of degrees — in intensity, velocity, activity, and the like. His formula therefore partly includes the mathematicians but, in his words, **embraces the philosophers**. This is not a return to the strict definition, because the _aliquid_ common to the terms now ranges beyond dimension and multitude properly so called.
+
+### Equality and the direction of inequality
+
+The first division is exhaustive at the level of _certa habitudo_:
+
+- a **proportion of equality** relates one thing to another equal to it, as $4:4$ or one foot to one foot;
+- a **proportion of inequality** relates one thing to another unequal to it, as $4:2$.
+
+Inequality is then divided according to the **direction of comparison**, not merely the unordered pair of terms:
+
+- _proportio maioris inaequalitatis_ compares the greater with the lesser, as $8:4$ or $4:2$;
+- _proportio minoris inaequalitatis_ compares the lesser with the greater, as $2:4$.
+
+Thus $4:2$ and $2:4$ involve the same two quantities but are different directed proportions. Equality is unaffected by reversal, whereas reversing an unequal proportion exchanges greater and lesser inequality. This directional structure was already implicit in the definition as the relation of **one** quantity _ad alteram_; page 30 now makes it explicit.
+
+### Simple greater inequality
+
+Dolz next divides greater inequality into simple and composite, and simple greater inequality into _multiplex_, _superparticularis_, and _superpartiens_. Page 30 completes the first two branches:
+
+| Kind | Condition for greater term $A$ and lesser term $B$ | Examples |
+| --- | --- | --- |
+| _multiplex_ | $A=nB$, for an integer $n\ge 2$ | double $4:2$; triple $6:2$ |
+| _superparticularis_ | $A=B+B/n$; the excess is one aliquot part of $B$ | sesquialteral $3:2$, $6:4$; sesquitertian $4:3$, $8:6$ |
+
+The species are determined exactly by the repetition count introduced in preambles 6–7. A double contains the lesser twice, a triple three times, and so forth. A sesquialteral proportion contains the lesser once plus its half; a sesquitertian contains it once plus its third. The early discussion of aliquot parts was therefore not preliminary arithmetic for its own sake: it supplies the differentiae from which the species of proportion are constructed.
+
+The definition of _superpartiens_ begins at the end of 30b but runs onto page 31a. What is available says only that the greater contains the lesser once plus several aliquot parts which do not together make one aliquot part of it. Its precise analysis should await the completion and examples on page 31.
+
+---
+
+## 10. Summary of the doctrine
 
 1. _Aliquot part_ is a **two-place relation** between a part and a whole, requiring exact measure and at least two repetitions.
 2. Dropping the second term of the relation is what generates every difficulty in preamble 8.
@@ -311,10 +346,13 @@ Dolz's argument on page 29 is therefore: (1) the strict account recognizes propo
 7. The aliquot relation is transitive because its repetition counts multiply, but neither its converse nor mixed inferences involving non-aliquotness are valid.
 8. Proportion is a determinate equality or inequality in a respect common to both terms and admitting more or less; that respect is not restricted to mathematical dimension or multitude.
 9. The strict mathematical proportion between quantities of the same subaltern genus is useful but too narrow for natural philosophy, which also compares intensity, velocity, activity, and resistance.
+10. Dolz calls comparison in dimension or multitude proper and comparison in physical degrees improper, but both can ground proportion under his deliberately extended use of _quantitas_.
+11. Unequal proportions are directional: greater-to-lesser and lesser-to-greater are distinct, reciprocal kinds.
+12. Multiplex and superparticular ratios are defined through exact containment and aliquot parts, showing why the nine arithmetical preambles were needed before the division of proportion.
 
 ---
 
-## 10. Textual notes
+## 11. Textual notes
 
 Proposed emendations arising from the analysis. Those marked _insecure_ are recorded but not recommended for adoption.
 

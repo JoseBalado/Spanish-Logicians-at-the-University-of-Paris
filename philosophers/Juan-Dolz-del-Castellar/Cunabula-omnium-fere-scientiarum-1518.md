@@ -596,9 +596,63 @@ Item, in tertio *Physicorum*, quis dubitat philosophos proportiones ponere, quae
 
 Non inficior quin illa proportionis acceptio alicui philosophiae parti prodesse valeat, et maxime velocitati motus augmentationis, praecipue secundum opinionem Calculatoris, licet non aeque bene Venetum insequendo.
 
-Opus /30a/ est igitur latius assumere proportionem...
+Opus /30a/ est igitur latius assumere proportionem, postquam philosophice studemus. Non opus esset ponere primo modo accipiendo ly 'generis subalterni', si poneres comparationem in dimensione vel multitudine utrique convenienti, nam ex hoc propria iam proportio resultaret. Opus est igitur, ne irritum verbum faciamus, dare unam proportionis descriptionem quae tam Mathematicis quam Naturalibus Philosophis prodesse poterit. Pro cuius insinuatione ponenda est una distinctio, dupliciter scilicet aliqua posse comparari, et inter aliqua habitudinem reperiri ut ad proportionem sufficiat, scilicet proprie et improprie.
+
+Illa dicuntur proprie comparari in proposito quae in ratione multitudinis comparantur sive dimensionis, improprie vero quae non solum in illo, verum in aliis in quibus maioritas, minoritas aut inaequalitas etiam improprie reperiri valet, ut intensio, remissio, activitas vel resistentia, velocitas aut tarditas, et sic de similibus. Et ad causandum proportionem hoc modo sufficit maioritas vel minoritas aut aequalitas quoad intensionem. Et sic resolutorie proportio haec de qua intendimus loqui in philosophia potest sumi tam ex parte dimensionis quam ex parte numeri sive multitudinis, quam etiam ex parte aliorum in quibus proprie aut improprie maioritas, minoritas aut aequalitas reperitur.
+
+Et sic in nostra definitione non opus erit addere ly 'eiusdem generis', sed poterit dari definitio prior, scilicet:
+
+> Proportio est unius quantitatis ad alteram certa habitudo.
+
+Intelligendo sub nomine quantitatis dimensionem et multitudinem, et non solum multitudinem quoad numerum, sed quoad gradum intensionis, velocitatis, activitatis et aliorum quae diximus. Et similiter sub ly 'certa habitudo' eadem comprehendentur. Verum etiam nec isto modo proportio ponenda est inter aliqua nisi propter aliquid quod utrique sit commune, aut secundum aequalitatem, aut secundum magis vel minus. Nec hoc est redire ad priorem definitionem, quia in ly 'aliquid', ut enucleam, plura ibi comprehendimus quam in alia definitione. Et haec descriptio partim comprehendet Mathematicos, et amplectetur Philosophos. Et antequam alias quaestiones absolvam, ponetur divisio proportionum.
 
 # De divisione proportionis
+
+### Divisio proportionum
+
+Proportionum quaedam aequalitatis, quaedam inaequalitatis.
+
+### Proportio aequalitas
+
+Proportio aequalitatis /30b/: est unius ad aliud sibi aequale certa habitudo. Et intellige hos terminos ut prius, et etiam in omnibus descriptionibus ponendis. Exemplum, 4 ad 4, pedale ad pedale.
+
+Proportio inaequalitatis: est unius ad aliud sibi inaequale certa habitudo, ut 4 ad 2. Proportio inaequalitatis gemina est, quaedam est maioris inaequalitatis, quaedam minoris inaequalitatis.
+
+Proportio maioris inaequalitatis: est unius ad aliud sibi inaequale certa habitudo maioris facta comparatione ad minus, ut 8 ad 4, 4 ad 2.
+
+### Proportio minoris inaequalitatis
+
+Proportio minoris inaequalitatis: est unius ad aliud sibi inaequale certa habitudo minore ad maius comparato, ut duorum ad quattuor.
+
+Proportio maioris inaequalitatis scinditur, nam quaedam simplex, quaedam composita. Simplex dividitur, quaedam multiplex sine addito, quaedam superparticularis, quaedam superpartiens.
+
+### Proportio multiplex
+
+Proportio multiplex: est quando aliquid continet aliud pluries adaequate, id est, aut bis aut ter aut quater dumtaxat, et sic consequenter, ut quattuor ad duo. Species multiplicis in quas multiplex dividitur plures sunt, dupla, tripla, quadrupla, et caetera.
+
+### Dupla
+
+Dupla: quando aliquid continet aliud bis praecise, ut quattuor ad duo.
+
+### Tripla
+
+Tripla: quando aliquid continet aliud ter praecise, et sic consequenter. Exemplum, sex ad duo, et sic valebis de aliis exemplificare.
+
+### Superparticularis
+
+Proportio superparticularis: est quando aliquid continet aliud semel tantum, et cum hoc unam eius partem aliquotam adaequate, non est curae quae sit illa pars aliquota. Haec in plures species etiam dividitur, in scilicet sesquialteram, sesquitertiam, et sic de aliis.
+
+### Sesquialtera
+
+Sesquialtera: est quando aliquid continet aliud semel solum, et cum hoc partem aliquotam quae vocatur medietas adaequate. Exemplum, trium ad duo. Sex ad quattuor continet quattuor et binarium, medietatem quaternarii ad sensum dictum in praeambulis.
+
+### Sesquitertia
+
+Proportio sesquitertia: est quando aliquid continet aliud semel solum, et cum hoc partem quae tertia nuncupatur adaequate. Exemplum, quattuor ad 3, 8 ad 6, et ita consimiliter poteris alias species describere et earum exempla dare.
+
+### Superpartiens
+
+Proportio superpartiens: est quando aliquid continet aliud semel solum, et cum hoc partes aliquotas eius ex quibus non fit una /31a/ aliquota illius ut...
 
 <!--
 ## Apparatus Criticus Reference

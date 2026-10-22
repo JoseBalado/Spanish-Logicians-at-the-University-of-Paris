@@ -252,6 +252,6 @@ Format: edited reading ] siglum original reading (context)
   brackets is as printed.
 
 ## Log
-Page 9: loquar ] emend. locar (et propterea ibi locar sicut arismeticus); cf. "alium modum dicendi" in the following clause
+Page 9: loquar ] emend. locar (et propterea ibi loquar sicut arithmeticus); cf. "alium modum dicendi" in the following clause
 
 -->

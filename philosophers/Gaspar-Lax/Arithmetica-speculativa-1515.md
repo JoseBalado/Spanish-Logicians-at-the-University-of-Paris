@@ -243,13 +243,16 @@ Occurrit tamen difficultas circa istam definitionem, quia videtur unitas ab ea e
 * sic                    : Error left exactly as printed in the original.
 
 Format: edited reading ] siglum original reading (context)
-* The context in parentheses quotes the passage as printed in the original,
-  so the source reading stays visible. To find the passage in the edited text,
-  substitute the reading before the ] into the context.
+* The context in parentheses quotes the passage as it reads in the edited
+  text, so it can be copied and searched in the transcription. To recover
+  the original, substitute the reading after the siglum for the reading
+  before the ].
+* The original passage is never quoted in full: it uses palaeographic signs,
+  and the reading after the siglum is itself an interpretation (it may be an
+  author's slip, a printer's or scribe's slip, or a misreading).
 * Editorial explanations follow the context after a semicolon or "cf.".
-* For om., the context quotes the original and marks the supplied word
-  in [ ], e.g. a ] om. (Volo quod [a] valeat). Everything outside the
-  brackets is as printed.
+* For om., the context marks the supplied word in [ ], e.g.
+  a ] om. (Volo quod [a] valeat). The original lacks the bracketed word.
 
 ## Log
 Page 9: loquar ] emend. locar (et propterea ibi loquar sicut arithmeticus); cf. "alium modum dicendi" in the following clause

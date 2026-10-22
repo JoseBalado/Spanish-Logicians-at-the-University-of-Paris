@@ -1207,7 +1207,41 @@ Tunc pono talem regulam:
 
 Quod declaratur per experientiam de speculo: ut facies mea producit suas species usque ad speculum et invenit obstaculum, scilicet illud fundum cum opaco et polito; tunc reflectitur per lineam rectam. Et ideo aliquis videtur in speculo, quia color meus causat species suas in organo visus, propter quem videt obstaculum quod invenit.
 
-Ideo propter hoc, ita quod si quis quaerat a me quare me video, dico quod ratio est quia species meae sunt in organo ubicumque. Obiectum aliquod potest causare suam speciem hic sufficienter intensiorem; hic potest causare suam visionem, et per hoc solvuntur talis quaestio: /54a/
+Ideo propter hoc, ita quod si quis quaerat a me quare me video, dico quod ratio est quia species meae sunt in organo ubicumque. Obiectum aliquod potest causare suam speciem hic sufficienter intensiorem; hic potest causare suam visionem, et per hoc solvuntur talis quaestio: /54a/ utrum in speculo videam me vel species mei. Et quod videam me patet, quia video speciem qua video me; ergo video me.
+
+Dico quod, dato quod est contra multos, videlicet quod video me ipsum et non video speciem mei. Et quod videam me ipsum probo, et capio talem regulam:
+
+> Quandocumque aliquod obiectum potest causare suam speciem in organo satis intensam, tunc potest causare notitiam sui.
+
+Id est visionem meam.
+
+Sed colores meae faciei possunt causare propter illam reflexionem speciem mei satis intensam in organo; ergo possunt causare visionem mei in potentia.
+
+Contra: vos non debetis negare quin vos videatis imaginem vestram. Patet, quia non est inconveniens quod videndo imaginem seu speciem videam me.
+
+Pro solutione notanda est una regula quam ponit Scotus, videlicet:
+
+> Quandocumque species est in organo et est ratio videndi aliquod obiectum, non videtur ipsa, sed est ratio videndi; tunc ipsa non videtur.
+
+Ex quo sequitur quod illa species coloris existens in organo, postquam est ratio videndi, non videtur. Et ideo, si quaeratur an species possit videri, distinguo aut quando illa species est ratio videndi illud cuius est species, et sic non videtur; aut quando non est ratio videndi, et sic dico quod videtur.
+
+Et pono aliam regulam:
+
+> Quando sensus exterior cognoscit suas species, tunc non cognoscit obiectum illius speciei per illam speciem, quamvis possit cognoscere per aliquid aliud.
+
+Et ratio est quia tunc illa non esset intuitiva respectu illius obiecti cuius est illa species, sed esset abstractiva respectu speciei. Ex quo /54b/ sequitur quod, quando video me in speculo, video me ipsum et non aliquid aliud, et hoc terminative video me.
+
+Sed quaeritur quare apparet mihi quod sum in speculo. Tunc quod video est quia illa distantia causat etiam suam similitudinem et speciem sui, et ideo sunt ibi duo.
+
+Primo causa quare ego appareo ex parte speculi talis est, quia iudicium sequitur suam naturam agentis. Sed sic est quod esset visibile secundum suam naturam per lineam rectam.
+
+Secundo posset esse ibi quaestio: quare est quod videt se ita longe a speculo? Et ratio est quia illa distantia causat suam similitudinem sive species. Et ideo resolutorie in ista materia sunt duae quaestiones quarum primae est: cur apparent res ex parte speculi? Dico quod ideo est quia causat iudicium ac similo modo fuisset linea recta.
+
+Secunda quaestio: quare apparet retro speculum, et aliquando magis et aliquando minus, secundum quod aliquis se approximat speculo. Dico quod ratio est quia illa distantia causat etiam species sive similitudinem.
+
+Sed est difficultas quomodo fiant istae reflexiones et tunc tali modo quaero primo utrum sit illud quod recitat Aristoteles de Antiphone, quod videbat se aere. Dico quod forte est una fatuitas dicere quod posset esse ibi reflexio. Dico quod ulterius, quod forsan ipse erat in aere grosso, ubi fiebat aliqua parva reflexio, quae reflexio erat proportionata potentiae visivae.
+
+Secunda quaestio: utrum possim me videre in pariete. Dico quod non. Contra: causo speciem in pariete et inveniunt ibi obstaculum; ergo reflectuntur ad visum meum, et per consequens video me. /55a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1246,5 +1280,12 @@ Page 52b: physicaliter ] conj. phr
 Page 53b: similem ] conj. sitem
 Page 53b: fundum cum ] conj. lnndnʒ enʒ
 Page 53b: intensiorem ] conj. mtensloʒ
+Page 54a: Scotus ] conj. ſrōnis
+Page 54b: terminative ] conj. teriae
+Page 54b: video ] conj. ideo (Tunc quod video est quia illa distantia)
+Page 54b: iudicium ] conj; (quia iudicium sequitur suam naturam agentis)
+Page 54b: iudicium ] conj; (ideo est quia causat iudicium)
+Page 54b: simili modo ] conj; smo (simili modo fuisset linea recta)
+Page 54b: quod ] del. (struck in the manuscript) (Dico [quod] ulterius quod forsan)
 
 -->

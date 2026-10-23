@@ -1243,6 +1243,28 @@ Sed est difficultas quomodo fiant istae reflexiones et tunc tali modo quaero pri
 
 Secunda quaestio: utrum possim me videre in pariete. Dico quod non. Contra: causo speciem in pariete et inveniunt ibi obstaculum; ergo reflectuntur ad visum meum, et per consequens video me. /55a/
 
+Respondetur quod ad hoc quod causentur species in organo potentiae visivae requiritur magna actio per lineam rectam, vel requiritur quod sit reflexio improbabilis, unde organum difficulter potest recipere species. Et ideo dico quod quando invenit aliquod obstaculum quod non est politum, tunc non reflectitur, sed non in tantum quod potentia visiva recipiat, id est non in tantum quod species recipiatur in organo.
+
+Alia quaestio: utrum species visibilis causetur immediate ab obiecto, vel una causet aliam. Ut ecce color quo est: an iste color causet omnes species visibiles usque ad organa, vel solum causet aliquas et illae causent alias, et sic consequenter.
+
+De hoc sunt duo modi dicendi probabiles. Et primus est Scoti, qui dicit quod omnes species immediate causentur ab obiecto, sive causentur per lineam rectam sive per reflexam.
+
+Contra: quando fit reflexio specierum, tunc oportet dicere quod una species causat aliam. Ergo respondetur quod agens naturale, quando non potest agere per lineam rectam, tunc agit per lineam reflexam, et ideo causat illas species.
+
+Alia est opinio quae dicit quod una species causatur ab alia et non omnes causantur ab obiecto, et ista est opinio Occam. Et istae duae opiniones sunt bonae intelligendo eas bene. Unde dico quod probabile est quod una species habeat virtutem causandi aliam; unde dicunt communiter doctores quod species possunt se multiplicare.
+
+Dico secundo quod obiectum est sufficiens multiplicare per certam distantiam suas species. Et ratio est /55b/ quia omne agens naturale potest producere effectum suum per certam distantiam in passum bene dispositum.
+
+Arguitur sic: una species non potest multiplicare seu causare aliam; ergo male dictum est. Probatur antecedens, quia tunc causarentur species per infinitam distantiam. Patet, quia ea ratione qua species produceret b, et b produceret c, et c produceret d, et sic in infinitum. Responde iste modus quod est devenire ad aliquam speciem ita remissam, quod non erit sufficiens causare aliam speciem. Tenet tamen Scotus quod omnes species causantur ab obiecto, et hoc in *Secundo* et in *Quarto*.
+
+Alia quaestio: utrum species visibiles causentur in instanti vel successive. Respondetur, tenendo modum communem, quod causantur in instanti in medio disposito. Unde secundum omnes philosophos ponitur talis regula:
+
+> Quandocumque aliqua qualitas non habet contrarium nec requirit motum localem ad hoc quod producatur, semper producitur in instanti.
+
+Sed sic est quod species visibiles non habent contrarium nec praesupponunt motum localem ad eius productionem; igitur producuntur in instanti. Ex quo sequitur quod visio in instanti causatur.
+
+Alia quaestio: utrum species visibiles contrarientur sicut qualitates a quibus causantur, ut sicut albedo et nigredo contrariantur, ita suae species contrariantur. Dico quod non quia species. /56a/
+
 <!--
 ## Apparatus Criticus Reference
 * conj.    (coniectura)  : Text is unreadable; this is an educated guess.
@@ -1300,5 +1322,8 @@ Page 54b: iudicium ] conj; (quia iudicium sequitur suam naturam agentis)
 Page 54b: iudicium ] conj; (ideo est quia causat iudicium)
 Page 54b: simili modo ] conj; smo (simili modo fuisset linea recta)
 Page 54b: quod ] del. (struck in the manuscript) (Dico [quod] ulterius quod forsan)
+Page 55a: improbabilis ] conj. imrablis (vel requiritur quod sit reflexio improbabilis)
+Page 55a: difficulter ] conj. diſitnlter (unde organum difficulter potest recipere species)
+Page 55b: ultimam istam ] conj. itare miſſaʒ (ad aliquam speciem ita remissam)
 
 -->

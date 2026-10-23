@@ -227,7 +227,55 @@ Et ex his apparet quod proprie nullus numerus est altero maior aut minor, sed ad
 Patet ultra quod ex additione unitatis ad aliquem numerum aut numeri ad numerum non proprie efficitur maior numerus: tum quia illa non adduntur taliter quod numerum proprie componant, unde satis manifeste sequitur illud; tum etiam quia indivisibile additum divisibili aut indivisibili non facit maius. Sed si ex additione unitatis ad numerum aut numeri ad numerum dicatur maior numerus effici, illud poterit ad hunc sensum salvari, scilicet quod si fiat talis additio ad sensum secundum quem potest fieri, sumitur inde numerus plures praesupponens unitates. Et in proportionabili sensu debebit intelligi quod aliquis numerus excedat aliquem numerum per unitatem aut numerum. Et pari forma dicetur numerum aliquem esse aliquot unitates; ad hunc sensum intelligetur quod praesupponit tot unitates. Et dicetur numerus aliquis esse aliquot partes aliquotae aut aliqui numeri, quia praesupponit omnes illas unitates quas illi praesupponunt. Et ita de aliis omnibus locutionibus in hac materia tritis. Sed de his plura in physicalibus in materia de quantitate discreta dicentur; ibi ergo cum communiter loquentibus loquimur. Poterunt tamen dicta intelligi ut dictum est.
 
 Occurrit tamen difficultas circa istam definitionem, quia videtur unitas ab ea excludi. Hoc tamen videtur contravenire Boetio in principio suae arithmeticae, ubi hoc habet:
-> Unitatem numerorum fontem principiumque /10/
+> Unitatem numerorum fontem principiumque /10/ etiam numeri appellatione censemus.
+
+Sed ad hoc dicendum est quod interdum ly 'numerus' capitur stricte prout definitus est, et tunc unitas non est numerus; interdum autem capitur large prout comprehendit numerum stricte sumptum et unitatem, et hoc modo tantum valet sicut hoc totum: multitudo ex unitatibus composita vel principium numeri. Et sic capiendo intellexit Boetius unitatem numerum appellari, et hoc modo frequenter in sequentibus sub numero eam comprehendemus.
+
+## Circa tertiam definitionem occurrit difficultas an incipiendo a
+
+numero denario vel quocunque alio et capiendo aliquot numeros per continuam additionem unitatis aggregatum ex talibus possit dici series naturalis numerorum, vel utrum solum inchoando ab unitate. Haec tamen difficultas ad nomen consistit. Si dicatur quod oportet inchoare ab unitate, sic poterit intelligi definitio illa: naturalis series numerorum est ordinatio aliquorum numerorum ab unitate inchoando in qua quilibet numerus sequens immediate praecedentem ipsum per solam unitatem excedit. Si autem dicatur alio modo, oportebit tollere illam particulam ab unitate inchoando. Et qualitercumque dicatur, ibi unitas sub numero comprehenditur, quia alias, si inchoaretur ab unitate inclusive, definitio non conveniret tali aggregato.
+
+Adhuc occurrit parva difficultas an, capta naturali serie, si numeri illi aliter disponerentur, an tunc ex ipsis resultaret naturalis series numerorum. Ad hoc potest dici quod non, nisi cum hoc manerent taliter ordinati.
+
+## Circa quartam definitionem adverte quod illic sub numero unitas
+
+comprehenditur; alias enim definitio illa non conveniret differentiae 7 ad 6. Et iuxta istam definitionem potest definiri ly 'differentia aliquorum' in toto suo ambitu, prout ad quorumcunque duorum inaequalium differentiam tam extra numeros quam in numeris se extendit, hoc modo: differentia aliquorum est excessus quo maius illorum excedit minus eorundem.
+
+## Circa definitionem quintam, esto quod satis clara sit ex se, adverte
+
+quod illa poterit sic intelligi: numeri ab aliis aequidistantes dicuntur numeri sic se habentes quod cuiuslibet illorum ad quemlibet aliorum sibi relatum aequalis est differentia sicut cuiuscunque alterius eorundem ad alterum aliorum sibi relatum, similiter et cuiuslibet aliorum ad quemlibet sibi relatum aequalis est differentia sicut cuiuscunque alterius eorundem ad alium illorum sibi relatum. Et propterea tres numeri inaequales poterunt ab aliis tribus inaequalibus esse aequidistantes, et quattuor a quattuor; sed nulli inaequales a pluribus vel paucioribus inaequalibus quam ipsi sint erunt aequidistantes.
+
+## Sexta definitio clara est, et ex ipsa sequitur quod non plures numeri
+
+inaequales quam duo sunt ab aliquo aequidistantes. Et inde est quod haec consequentia non valet: a et b sunt aequidistantes a c, similiter et d et e; ergo a et b et d et e sunt aequidistantes a c, nisi improprie caperetur consequens. Et ex consequenti patet quod nulli numeri inaequales dicerentur ab aliquo aequidistantes nisi unus illorum sit illo maior et reliquus minor.
+
+## Septima definitio est etiam manifesta, et potest dici consequenter ad
+
+ipsam quod tres numeri sunt circum se positi, similiter et quattuor et quinque, et sic consequenter. Et ita dicendo non requiretur ad hoc quod aliqui numeri sunt circum se positi quod cuiuslibet illorum ad quemlibet alium eorundem differentia sit unitas, sed satis est quod nullus possit dari inaequalis cuicunque illorum quin ille sit quocunque illorum maior aut quocunque minor.
+
+Posset etiam oppositum dici, et tunc requireretur ad illud quod cuiuslibet illorum ad quemlibet alium eorundem differentia esset unitas, et tunc non plures quam duo possent esse circum se positi. Quocunque tamen istorum modorum dicatur, facilis est definitionis expositio.
+
+## Octava definitio est clara. Et ex ipsa sequitur quod non plures
+
+numeri quam duo sunt circum aliquem positi, nec aliqui inaequales dicentur circum aliquem positi nisi alter illorum sit illo maior et reliquus eodem minor.
+
+Ex his definitionibus constat quod si aliqui numeri sunt circum aliquem positi, illi sunt ab eo aequidistantes, et non oportet e diverso; et propterea illi termini se habent sicut superius et inferius. Et pari forma quicunque numeri circum aliquos positi sunt aequidistantes ab illis, et non e diverso.
+
+## Nona definitio proportionabiliter exponatur sicut quinta
+
+mutatis mutandis.
+
+## Circa decimam definitionem est advertendum quod diversimode
+
+solet capi ille terminus multiplicatio. Alia enim ratione dicitur linea multiplicari per lineam, et alia ratione dicitur aliquid multiplicari per numerum, et alia ratione dicitur aliquid multiplicari secundum partem aliquotam. De primo modo multiplicationis non spectat ad arithmeticum mentionem facere, sed ad geometram, et de illo facit mentionem Euclides specialiter secundo *Elementorum* suorum. De aliis autem duobus arithmetici est considerare, et signanter de primo, de quo ibi procedemus; de alio autem modo multiplicationis in 9 fiet mentio.
+
+Et esto quod definitio illa videatur solum procedere de multiplicatione numeri per numerum, tamen, loquendo de multiplicatione eo modo quo est in proposito sermo, non solum numerus per numerum multiplicari potest, sed etiam quantitas continua similiter et alia per numerum multiplicari possunt. Unde universaliter loquendo illud dicitur multiplicari quod totiens sibi coacervatur quotiens in numero multiplicante ipsum est unitas. Et ex his potest haberi definitio multiplicationis in toto suo ambitu ita loquendo: est enim multiplicatio alicuius coacervatio ipsius totiens sibi ipsi quotiens unitas in numero multiplicante ipsum reperitur.
+
+In hac definitione unitas
+
+[Signatura: "A iii"]
+
+/11/
 
 
 
@@ -256,5 +304,7 @@ Format: edited reading ] siglum original reading (context)
 
 ## Log
 Page 9: loquar ] emend. locar (et propterea ibi loquar sicut arithmeticus); cf. "alium modum dicendi" in the following clause
+Page 10: nomen ] emend. momen (Haec tamen difficultas ad nomen consistit); the difficulty is merely verbal, since both ways of defining the series are then allowed
+Page 10: habent ] emend. habet (et propterea illi termini se habent sicut superius et inferius)
 
 -->

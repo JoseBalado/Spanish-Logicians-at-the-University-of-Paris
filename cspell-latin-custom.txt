@@ -2720,6 +2720,7 @@ subiicit
 subiicitur
 subiiciuntur
 subintelligere
+subintelligi
 sublaternatam
 subordinabitur
 subordinabuntur

@@ -271,11 +271,39 @@ solet capi ille terminus multiplicatio. Alia enim ratione dicitur linea multipli
 
 Et esto quod definitio illa videatur solum procedere de multiplicatione numeri per numerum, tamen, loquendo de multiplicatione eo modo quo est in proposito sermo, non solum numerus per numerum multiplicari potest, sed etiam quantitas continua similiter et alia per numerum multiplicari possunt. Unde universaliter loquendo illud dicitur multiplicari quod totiens sibi coacervatur quotiens in numero multiplicante ipsum est unitas. Et ex his potest haberi definitio multiplicationis in toto suo ambitu ita loquendo: est enim multiplicatio alicuius coacervatio ipsius totiens sibi ipsi quotiens unitas in numero multiplicante ipsum reperitur.
 
-In hac definitione unitas
+In hac definitione unitas [Signatura: "A iii"] /11/ sub numero comprehenditur, unde unitas per numerum multiplicatur; similiter et numerus per unitatem, et unitas per seipsam, et aliud a numero vel unitate potest etiam per unitatem multiplicari. Et propterea definitio illa non sic in rigore intelligenda est quod ad hoc quod aliquid multiplicetur requiratur quod pluries sibi coacervetur; sed oportet subintelligere in definitione hanc particulam 'sub disiunctione', scilicet aut quod praecise semel sumatur si multiplicans sit unitas. Et ex hoc apparet quid sit aliquid ducere in aliquem numerum: est enim illud multiplicari per talem numerum.
 
-[Signatura: "A iii"]
+## Undecima et duodecima definitiones ex his sunt manifestae.
 
-/11/
+Unde etiam constare potest quid sit numerus aliquid multiplicans quodcunque fuerit, et quid sit numerum aliquid multiplicare, et quid sit productum ex multiplicatione alicuius quodcunque fuerit per aliquem numerum. Unde productum ex multiplicatione alicuius numeri per aliquem numerum est ille in quo est totiens ille multiplicatus quotiens in multiplicante illum est unitas.
+
+Et ex his constare potest quod si aliquid multiplicetur per numerum maiorem unitate, illud crescit ad hunc sensum quod inde productum est multiplicato maius. Hoc dico ad differentiam multiplicationis fractionis per fractionem, de qua fiet mentio in nono; in tali enim multiplicatione, ut apparebit, non oportet simile contingere.
+
+## In decimatertia et decimaquarta definitionibus sub numero
+
+unitas comprehendi debet de necessitate in ultimis particulis, quia solet concedi in hac materia frequenter quod idem numerat seipsum, prout ex multis conclusionibus apparebit; modo nihil numerat seipsum per aliquem numerum distinguendo contra unitatem. Et ex hoc apparet quid sit aliquid ab aliquo numerari in toto suo ambitu, prout ad quaecunque tam extra numeros quam in numeris se extendit: est enim illud ex multiplicatione illius per aliquem numerum produci.
+
+## Circa quintamdecimam definitionem adverte quod mathematici
+
+similiter et arithmetici speculativi antiqui per partem alicuius solum partem quam aliquotam vocamus intelligebant. Sed quia communiter non adeo stricte solet ille terminus capi, in sequentibus secundum communem modum procedemus, per partem indifferenter partem aliquotam similiter et non aliquotam intelligentes; et propterea posita est definitio illa partis in communi, similiter et divisio cum membrorum definitionibus.
+
+Hic tamen adverte quod frequenter in his materiis solent doctores concedere de aliquo quod est pars alterius, similiter et de parte aliquota et de parte non aliquota, ubi tamen realiter et de facto non ita est. Illud tamen salvatur ad hunc sensum quod est pars talis vel parti illius aequalis, et ita si fiat mentio de parte aliquota aut non aliquota. Et ad proportionabilem sensum etiam potest concedi quod aliquid componitur aut resultet ex aliquibus, esto quod illa non sint realiter et de facto partes illius.
+
+Et si in posterum similia assumantur quae non videantur stare cum hac definitione, in proportionabili sensu poterunt salvari. Et ad hunc sensum etiam procedemus in sequentibus more antiquorum, cum assumemus aliquid esse medietatem alicuius aut partem aliquotam aut non aliquotam, aut aliquid dividi in aliqua vel ex aliquibus componi, esto quod, procedendo in rigore sicut communis modus procedit, non habeant verum.
+
+## Divisio posita illic et decimasexta et decimaseptima definitiones
+
+sunt notae. Ex quibus apparet quod eodem modo definitur ly 'submultiplex alicuius' et ly 'pars aliquota alicuius', esto quod communis modus concederet quod aliquid est submultiplex alicuius quod non est pars aliquota illius; sed illud non impedit modum loquendi in his materiis. Unde dicendum est quod in definitione partis aliquotae, ubi dicitur 'quae pluries sumpta', subintelligi debet ly 'secundum se vel aliquod sibi aequale', et proportionabiliter de definitione submultiplicis dicatur. Et ita procedendo non esset dubia illorum terminorum convertibilitas; et ita procedunt doctores communiter in his materiis, et nos etiam procedemus.
+
+## Decimaoctava definitio nota est ex se. Circa ipsam tamen
+
+adverte quod unitas nullam partem aliquotam denominat, quia tunc illa deberet esse pars aliquota sui ipsius, cum per unitatem multiplicata seipsam producat. Sed quilibet alius numerus aliquam partem aliquotam denominat, et quaelibet pars aliquota alicuius ab aliquo numero denominatur illius pars aliquota; et licet eadem pars a diversis numeris possit denominari respectu diversorum, non tamen respectu eiusdem pro eodem tempore. Et ex ista definitione apparet quod medietas uniuscuiusque a binario denominatur pars aliquota illius, et tertia pars a ternario, et ita deinceps.
+
+## Decimanona definitio est manifesta. Et ex ipsa apparet quod eadem
+
+ratione aliqua dicuntur similes partes aliquotae aliquorum et aeque submultiplicia respectu eorundem. Et eaedem sunt illorum terminorum definitiones, quod propter communem modum loquendi poterit salvari, sicut convertibilitas illorum duorum terminorum: 'pars aliquota alicuius', 'submultiplex alicuius'. Et ex hoc apparet quae sunt dissimiles partes aliquotae aliquorum aut inaeque submultiplicia respectu eorundem: sunt enim quae a diversis numeris denominantur partes aliquotae respectu illorum.
+
+Et si ex hoc inferas quod aliqua sunt similes partes aliquotae respectu aliquorum et dissimiles partes aliquotae respectu eorundem, numerus enim quaternarius a quaternario denominatur pars aliquota 16, et similiter binarius respectu octonarii, quare illi sunt similes partes aliquotae respectu illorum; et ex altera parte quaternarius a binario denominatur pars aliquota octonarii, et binarius ab octonario respectu 16, quare videntur illae dissimiles partes aliquotae illorum: hanc difficultatem et alias huiusmodi quae interdum in his materiis occurrere possunt facillime ex logica poteris /12/
 
 
 
@@ -306,5 +334,8 @@ Format: edited reading ] siglum original reading (context)
 Page 9: loquar ] emend. locar (et propterea ibi loquar sicut arithmeticus); cf. "alium modum dicendi" in the following clause
 Page 10: nomen ] emend. momen (Haec tamen difficultas ad nomen consistit); the difficulty is merely verbal, since both ways of defining the series are then allowed
 Page 10: habent ] emend. habet (et propterea illi termini se habent sicut superius et inferius)
+Page 11: quodcunque ] emend. quotcunque (et quid sit productum ex multiplicatione alicuius quodcunque fuerit); cf. "quodcunque fuerit" in the preceding clause
+Page 11: mathematici ] emend. methamathici (Circa quintamdecimam definitionem adverte quod mathematici)
+Page 11: eaedem ] emend. hedem (Et eaedem sunt illorum terminorum definitiones)
 
 -->

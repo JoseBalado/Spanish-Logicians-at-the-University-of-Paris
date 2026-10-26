@@ -739,7 +739,7 @@ Pro quarum enucleatione sit tale documentum: Sicut inter numeros et quantitates 
 
 ### Proportionalitas geometrica, proportionalitas arithmetica
 
-Proportionalitas est proportionum ob aequalitatem vel inaequalitatem habitudo, quae multiplex est, quaedam dicitur geometrica, quaedam arithmetica.
+> Proportionalitas est proportionum ob aequalitatem vel inaequalitatem habitudo, quae multiplex est, quaedam dicitur geometrica, quaedam arithmetica.
 
 Geometrica proportionalitas est similium proportionum cum excessus dissimilitudine. Exemplum: 1, 2, 4, 8. Ibi continue servatur similis proportio, quia continue servatur dupla descendendo et subdupla ascendendo, ut vides, dato quod non semper observetur similitudo excessus, quoniam primus excessus est unitatis, secundus binarii, et caetera. Ex quo patet quod tam ascendendo quam descendendo potest reperiri haec proportionalitas.
 
@@ -749,9 +749,53 @@ Et ex hoc sequitur unum documentum in naturali philosophia, quandocumque ponitur
 
 Patet ultra [quod] haec proportionalitas geometrica multipliciter potest fieri, scilicet ascendendo per duplam aut per subduplam, ut in exemplo dato, similiter per triplam aut per subtriplam, ut ibi, 1, 3, 9, 27, similiter per quadruplam aut subquadruplam, ut ibi, 1, 4, 16, 64, et sic consequenter.
 
-### Per *Posterioribus*
+### Pro *Posterioribus*
 
-Patet ultra quomodo sit intelligenda una difficultas quae solet tangi in *Posterioribus* de corruptione assensus conclusionis per corruptionem assensus praemissarum, ubi dicitur corruptionem illius assensus conclusionis debere fieri geometrice, et non /34a/
+Patet ultra quomodo sit intelligenda una difficultas quae solet tangi in *Posterioribus* de corruptione assensus conclusionis per corruptionem assensus praemissarum, ubi dicitur corruptionem illius assensus conclusionis debere fieri geometrice, et non /34a/ arithmetice, id est, si corrumpatur unus gradus in principio, postea medius, postea quarta pars, postea octava, et sic consequenter per similitudinem proportionis cum excessus dissimilitudine.
+
+Et hoc servit pluribus aliis locis ubi tangitur de hac corruptione geometrica, et sic semper quandiu durabit aliquid, de assensu praemissarum durabit aliquid de assensu conclusionis, et si non tantum, non obstat patet Aristotelem illic dicentem: "Necesse est magis assentire praemissis quam conclusioni". Modo qualiter sit intelligendum declaravi in *Analyticorum* lectura.
+
+### Proportionalitas arithmetica
+
+> Proportionalitas arithmetica est excessus similitudo quamquam dissimilitudo.
+
+Do exemplum, ut: 1, 2, 3, 4. Et sic consequenter. Vides semper unitatis servatur excessum cum alia et alia proportione. Quando igitur in physica reperies casum quod mobile in prima parte proportionali moveatur ut 2, in secunda ut 3, et sic consequenter arithmetice, iam scies intelligere quod debes servare similem excessum ut in principio, et si non similem proportionem.
+
+Patet ultra, quando reperies corruptionem alicuius debere fieri arithmetice, iam comperies quod semper similis excessus corrumpi debet, et sic si in principio sit unius corruptio, semper et unius erit, et si in principio medietatis corruptio, semper talis erit, et sic consequenter de aliis. Et quia multiplex excessus similis servari poterit, etiam multipliciter haec proportionalitas sumi valebit. Unum exemplum situm est, cape aliud 1, 3, 5, 7, 9; aliud, 1, 4, 7, 10; aliud 2, 4, 6, 8, et caetera, et sic valebis plura alia exempla capere.
+
+Reperio tamen unam definitionem proportionalitatis sic datam: est proportionum similitudo. Sed dico hanc definitionem dari de proportionalitate geometrica.
+
+Adhuc proportionalitas multiplex est quae possunt includi sive poni sub geometrica, quae proportionalitates his nominibus vocantur: proportionalitas continua, proportionalitas discontinua, proportionalitas conversa, proportionalitas eversa, proportionalitas coniuncta, proportionalitas disiuncta, proportionalitas permutata, proportionalitas directa, proportionalitas indirecta. Per quarum descriptionem sunt duo termini notandi quibus mathematici utuntur, quibus sine licet ut nostro proposito accommodatur loqui valeremus, tamen clare cum eis loquimur.
+
+Et ideo est notandum quod antecedens et consequens usitantur in his proportionalitatibus quadam metaphora in ordine ad logicale antecedens sive consequens. Antecedens ibi nuncupatur terminus sive quantitatis, quae ad alid comparatur /34b/, et consequens dicitur ibi numerus aut quantitas ad quam alter comparatur.
+
+### Quid antecedens in proportionalitatibus et quod consequens
+
+Et sicut in logica, non est inconveniens id esse antecedens et consequens oppositis considerationibus, ita ibi non inconvenit id esse antecedens et consequens diversis considerationibus sive comparationibus cum illis, licet non consimilis proportio denominaretur. Exemplum dicendo qualis est proportio 4 ad 2, talis est 2 ad 1; ibi 4 sunt antecedens et 2 consequens, et etiam 2 sunt antecedens alterius comparationis, scilicet 2 ad 1, et 2 ad 4.
+
+### Proportionalitas continua
+
+Tunc proportionalitas continua sic definitur:
+
+> Est similitudo proportionum communicantium in eodem tertio communi medio vel pluribus, sive quando consequens unius est antecedens alterius.
+
+Exemplum: qualis est proportio 8 ad 4, talis est 4 ad 2. Haec proportionalitas continua dicitur et vocatur continua geometrica propter proportionum similitudinem cum excessus dissimilitudine.
+
+### Aristoteles quinto *Ethicorum*
+
+De ista loquitur Aristoteles quinto *Ethicorum*, tractatu 1, capite 3, ponens figuram de 12, 6, et 3.
+
+Sed dices: ipse dicit illic et etiam comparatio rationum, et in quattuor minimis, et seiunctam quidem in quattuor esse constat an non, et continua in 4 est? Uno namque termino utitur ut duobus, et infra, quare si bis positus fuerit, 4 erunt ea quae comparationem subeunt rationem. Haec Peripateticus videtur.
+
+Igitur continuam inter 4 esse dico aequivalenter, potest dici esse in 4, quia idem sumitur bis, et supplet vices duorum, sed in rei veritate non opus est in se tribus, cum paucioribus non valet esse, licet cum pluribus, et sic non negandum quin plures tribus accipi possent. Unde et si communiter non detur exemplum nisi in tribus, in pluribus tribus possumus etiam exemplum dare. Unde in hoc exemplo etiam reperitur proportionalitas continua, qualis est proportio 8 ad 4, talis 4 ad 2, et 2 ad 1. Et sic posses capere exemplum de pluribus terminis, 4 etiam.
+
+Proportionalitas continua non potest reperiri in proportionalitate arithmetica, cum dicatur ad proportionalitatem continuam requiri proportionum similitudinem.
+
+### Proportionalitas discontinua
+
+> Proportionalitas discontinua est comparatio proportionum.
+
+Vel si vis, ut dixi, similitudo proportionum inter quas non capitur idem commune, sive inter quas non est consequens unius antecedens alterius. Exemplum ut qualis est proportio 8 ad 4, talis est 2 ad 1. Et haec proportionalitas non reperitur in paucioribus terminis quam 4, sed in pluribus reperiri valet. Patet in exemplo qualis est 3 ad 6, talis est 8 ad 4, et 2 ad 1. Et si petas utrum ibi sit proportionalitas discontinua, qualis est proportio 3 ad 6, talis 8 /35a/ ad 4, dico quod sic.
 
 
 
@@ -794,5 +838,7 @@ Page 32b: capias ] emend. tcapiaε
 Page 32b: Similiter ] conj. Simplex
 Page 33a: commutativa ] emend. commitativa
 Page 33a: 3 ] emend. 2
+Page 34a: 1 ] emend. 2 (initial term of 1, 3, 5, 7, 9)
+Page 34a: licet ] conj. 13
 
 -->

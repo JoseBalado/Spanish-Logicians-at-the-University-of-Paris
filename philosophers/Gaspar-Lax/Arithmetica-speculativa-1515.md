@@ -52,7 +52,7 @@ Ast certe hoc munere digniorem reperi neminem, quando is sis qui, spretis saecul
 
 Nam taceo non mediocrem in soluta oratione et poesis modulatione suaviloquentiam, cum omnes in orationem et versum tuum veniant adiuratae Camenae. Praetereo quantum in liberalium artium studiis nobiles coaetaneos excellueris tirones, quod ipse me doctore expertus sum. Nonne admirandum et singulare id est tui acerrimi ingenii opus, totius naturae quasi portentum, quod hoc elapso biennio ita omnes sis mathematices partes adsecutus, ut pares paucos et raros habeas, sisque posthac habiturus neminem? At nec in arithmetica aut geometria solum, sed in astrologia, cosmographia, in opticis specularibusque ita praestas, ut nemo tibi inspectionem aliquam quamvis difficilem proponat quam non paucis et evidentissimis mediis aperias.
 
-Merito igitur hoc a me tibi munusculum mathematicis demonstrationibus refertum debebatur, cuius tu censor optimus et contra nebulones protector esse iure potes. Quod si non tam tersum ac comptum est ut tuo celeberrimo nomine sit adornandum, parce, oro, doctissime Francisce; scis enim me in hac arithmetica, nullo doctore, meum praecipitasse ingeniolum, quod, ut sunt hominum ingenia ad errorem proclivia, hallucinari facile potuit. Tu tamen id opusculum, quantulumcunque est, benigne, ut omnes soles, confove, et ipsius parvitatem amoris nostri ardentissimo affectu repende, et ab oblatratorum dentibus tui nominis splendore me atque ipsum protege; in tuum peculium utrumque hilari vultu suscipe.
+Merito igitur hoc a me tibi munusculum mathematicis demonstrationibus refertum debebatur, cuius tu censor optimus et contra nebulones protector esse iure potes. Quod si non tam tersum ac comptum est ut tuo celeberrimo nomine sit adornandum, parce, oro, doctissime Francisce; scis enim me in hac arithmetica, nullo doctore, meum praecipitasse ingeniolum, quod, ut sunt hominum ingenia ad errorem proclivia, hallucinari facile potuit. Tu tamen id opusculum, quantulumcumque est, benigne, ut omnes soles, confove, et ipsius parvitatem amoris nostri ardentissimo affectu repende, et ab oblatratorum dentibus tui nominis splendore me atque ipsum protege; in tuum peculium utrumque hilari vultu suscipe.
 
 Vale, litterarum decus, tibique Deus diu et felicissime vivere concedat. Ex aedibus nostris litterariis Collegii Montis Acuti, Parisius, Kalendis Iuniis.
 
@@ -72,7 +72,7 @@ Sextus de numeris quadratis, cubicis, superficialibus, similibus et solidis pert
 
 Septimus numeri paris, imparis, pariter paris, pariter imparis, impariter paris, perfecti, abundantis et diminuti proprietates aperit.
 
-Octavus de commensurabilitate et incommensurabilitate quorumcunque eiusdem rationis inquirit.
+Octavus de commensurabilitate et incommensurabilitate quorumcumque eiusdem rationis inquirit.
 
 Nonus fractionum vulgarium additiones, subtractiones, multiplicationes et divisiones declarat.
 
@@ -214,7 +214,7 @@ Incommensurabilia dicuntur quibus non est mensura communis eadem.
 
 ## Circa primum igitur definitionem est advertendum
 
-Quod arithmeticus imaginatur unitatem distinctam a re qua ipsa dicitur una, et eam imaginatur indivisibilem eo modo quo reales imaginantur, saltem loquendo de unitate praedicamentali, de qua arithmeticus procedit; et propterea ibi loquar sicut arithmeticus. Nec est cura si alias alium modum dicendi insecutus sim, quia quantumcunque non realiter et de facto sint tales unitates sicut hic modus imaginatur, hoc tamen non impedit demonstrationes: abstrahentium enim non est mendacium. Si enim illud impediret demonstrationes, perirent omnes mathematicales scientiae secundum viam nominalium; nec ista impedient ea quae de fractionibus numerorum et unitatum imaginantur doctores in his materiis. Pro nunc igitur secundum istam imaginationem arithmetico more procedemus. Hoc supposito, definitio illa prima est manifesta.
+Quod arithmeticus imaginatur unitatem distinctam a re qua ipsa dicitur una, et eam imaginatur indivisibilem eo modo quo reales imaginantur, saltem loquendo de unitate praedicamentali, de qua arithmeticus procedit; et propterea ibi loquar sicut arithmeticus. Nec est cura si alias alium modum dicendi insecutus sim, quia quantumcumque non realiter et de facto sint tales unitates sicut hic modus imaginatur, hoc tamen non impedit demonstrationes: abstrahentium enim non est mendacium. Si enim illud impediret demonstrationes, perirent omnes mathematicales scientiae secundum viam nominalium; nec ista impedient ea quae de fractionibus numerorum et unitatum imaginantur doctores in his materiis. Pro nunc igitur secundum istam imaginationem arithmetico more procedemus. Hoc supposito, definitio illa prima est manifesta.
 
 ## Circa secundam definitionem consimiliter est supponendum
 
@@ -233,17 +233,17 @@ Sed ad hoc dicendum est quod interdum ly 'numerus' capitur stricte prout definit
 
 ## Circa tertiam definitionem occurrit difficultas an incipiendo a
 
-numero denario vel quocunque alio et capiendo aliquot numeros per continuam additionem unitatis aggregatum ex talibus possit dici series naturalis numerorum, vel utrum solum inchoando ab unitate. Haec tamen difficultas ad nomen consistit. Si dicatur quod oportet inchoare ab unitate, sic poterit intelligi definitio illa: naturalis series numerorum est ordinatio aliquorum numerorum ab unitate inchoando in qua quilibet numerus sequens immediate praecedentem ipsum per solam unitatem excedit. Si autem dicatur alio modo, oportebit tollere illam particulam ab unitate inchoando. Et qualitercumque dicatur, ibi unitas sub numero comprehenditur, quia alias, si inchoaretur ab unitate inclusive, definitio non conveniret tali aggregato.
+numero denario vel quocumque alio et capiendo aliquot numeros per continuam additionem unitatis aggregatum ex talibus possit dici series naturalis numerorum, vel utrum solum inchoando ab unitate. Haec tamen difficultas ad nomen consistit. Si dicatur quod oportet inchoare ab unitate, sic poterit intelligi definitio illa: naturalis series numerorum est ordinatio aliquorum numerorum ab unitate inchoando in qua quilibet numerus sequens immediate praecedentem ipsum per solam unitatem excedit. Si autem dicatur alio modo, oportebit tollere illam particulam 'ab unitate inchoando'. Et qualitercumque dicatur, ibi unitas sub numero comprehenditur, quia alias, si inchoaretur ab unitate inclusive, definitio non conveniret tali aggregato.
 
 Adhuc occurrit parva difficultas an, capta naturali serie, si numeri illi aliter disponerentur, an tunc ex ipsis resultaret naturalis series numerorum. Ad hoc potest dici quod non, nisi cum hoc manerent taliter ordinati.
 
 ## Circa quartam definitionem adverte quod illic sub numero unitas
 
-comprehenditur; alias enim definitio illa non conveniret differentiae 7 ad 6. Et iuxta istam definitionem potest definiri ly 'differentia aliquorum' in toto suo ambitu, prout ad quorumcunque duorum inaequalium differentiam tam extra numeros quam in numeris se extendit, hoc modo: differentia aliquorum est excessus quo maius illorum excedit minus eorundem.
+comprehenditur; alias enim definitio illa non conveniret differentiae 7 ad 6. Et iuxta istam definitionem potest definiri ly 'differentia aliquorum' in toto suo ambitu, prout ad quorumcumque duorum inaequalium differentiam tam extra numeros quam in numeris se extendit, hoc modo: differentia aliquorum est excessus quo maius illorum excedit minus eorundem.
 
 ## Circa definitionem quintam, esto quod satis clara sit ex se, adverte
 
-quod illa poterit sic intelligi: numeri ab aliis aequidistantes dicuntur numeri sic se habentes quod cuiuslibet illorum ad quemlibet aliorum sibi relatum aequalis est differentia sicut cuiuscunque alterius eorundem ad alterum aliorum sibi relatum, similiter et cuiuslibet aliorum ad quemlibet sibi relatum aequalis est differentia sicut cuiuscunque alterius eorundem ad alium illorum sibi relatum. Et propterea tres numeri inaequales poterunt ab aliis tribus inaequalibus esse aequidistantes, et quattuor a quattuor; sed nulli inaequales a pluribus vel paucioribus inaequalibus quam ipsi sint erunt aequidistantes.
+quod illa poterit sic intelligi: numeri ab aliis aequidistantes dicuntur numeri sic se habentes quod cuiuslibet illorum ad quemlibet aliorum sibi relatum aequalis est differentia sicut cuiuscumque alterius eorundem ad alterum aliorum sibi relatum, similiter et cuiuslibet aliorum ad quemlibet sibi relatum aequalis est differentia sicut cuiuscumque alterius eorundem ad alium illorum sibi relatum. Et propterea tres numeri inaequales poterunt ab aliis tribus inaequalibus esse aequidistantes, et quattuor a quattuor; sed nulli inaequales a pluribus vel paucioribus inaequalibus quam ipsi sint erunt aequidistantes.
 
 ## Sexta definitio clara est, et ex ipsa sequitur quod non plures numeri
 
@@ -251,15 +251,15 @@ inaequales quam duo sunt ab aliquo aequidistantes. Et inde est quod haec consequ
 
 ## Septima definitio est etiam manifesta, et potest dici consequenter ad
 
-ipsam quod tres numeri sunt circum se positi, similiter et quattuor et quinque, et sic consequenter. Et ita dicendo non requiretur ad hoc quod aliqui numeri sunt circum se positi quod cuiuslibet illorum ad quemlibet alium eorundem differentia sit unitas, sed satis est quod nullus possit dari inaequalis cuicunque illorum quin ille sit quocunque illorum maior aut quocunque minor.
+ipsam quod tres numeri sunt circum se positi, similiter et quattuor et quinque, et sic consequenter. Et ita dicendo non requiretur ad hoc quod aliqui numeri sunt circum se positi quod cuiuslibet illorum ad quemlibet alium eorundem differentia sit unitas, sed satis est quod nullus possit dari inaequalis cuicumque illorum quin ille sit quocumque illorum maior aut quocumque minor.
 
-Posset etiam oppositum dici, et tunc requireretur ad illud quod cuiuslibet illorum ad quemlibet alium eorundem differentia esset unitas, et tunc non plures quam duo possent esse circum se positi. Quocunque tamen istorum modorum dicatur, facilis est definitionis expositio.
+Posset etiam oppositum dici, et tunc requireretur ad illud quod cuiuslibet illorum ad quemlibet alium eorundem differentia esset unitas, et tunc non plures quam duo possent esse circum se positi. Quocumque tamen istorum modorum dicatur, facilis est definitionis expositio.
 
 ## Octava definitio est clara. Et ex ipsa sequitur quod non plures
 
 numeri quam duo sunt circum aliquem positi, nec aliqui inaequales dicentur circum aliquem positi nisi alter illorum sit illo maior et reliquus eodem minor.
 
-Ex his definitionibus constat quod si aliqui numeri sunt circum aliquem positi, illi sunt ab eo aequidistantes, et non oportet e diverso; et propterea illi termini se habent sicut superius et inferius. Et pari forma quicunque numeri circum aliquos positi sunt aequidistantes ab illis, et non e diverso.
+Ex his definitionibus constat quod si aliqui numeri sunt circum aliquem positi, illi sunt ab eo aequidistantes, et non oportet e diverso; et propterea illi termini se habent sicut superius et inferius. Et pari forma quicumque numeri circum aliquos positi sunt aequidistantes ab illis, et non e diverso.
 
 ## Nona definitio proportionabiliter exponatur sicut quinta
 
@@ -271,17 +271,17 @@ solet capi ille terminus multiplicatio. Alia enim ratione dicitur linea multipli
 
 Et esto quod definitio illa videatur solum procedere de multiplicatione numeri per numerum, tamen, loquendo de multiplicatione eo modo quo est in proposito sermo, non solum numerus per numerum multiplicari potest, sed etiam quantitas continua similiter et alia per numerum multiplicari possunt. Unde universaliter loquendo illud dicitur multiplicari quod totiens sibi coacervatur quotiens in numero multiplicante ipsum est unitas. Et ex his potest haberi definitio multiplicationis in toto suo ambitu ita loquendo: est enim multiplicatio alicuius coacervatio ipsius totiens sibi ipsi quotiens unitas in numero multiplicante ipsum reperitur.
 
-In hac definitione unitas [Signatura: "A iii"] /11/ sub numero comprehenditur, unde unitas per numerum multiplicatur; similiter et numerus per unitatem, et unitas per seipsam, et aliud a numero vel unitate potest etiam per unitatem multiplicari. Et propterea definitio illa non sic in rigore intelligenda est quod ad hoc quod aliquid multiplicetur requiratur quod pluries sibi coacervetur; sed oportet subintelligere in definitione hanc particulam 'sub disiunctione', scilicet aut quod praecise semel sumatur si multiplicans sit unitas. Et ex hoc apparet quid sit aliquid ducere in aliquem numerum: est enim illud multiplicari per talem numerum.
+In hac definitione unitas [Signatura: "A iii"] /11/ sub numero comprehenditur, unde unitas per numerum multiplicatur; similiter et numerus per unitatem, et unitas per seipsam, et aliud a numero vel unitate potest etiam per unitatem multiplicari. Et propterea definitio illa non sic in rigore intelligenda est quod ad hoc quod aliquid multiplicetur requiratur quod pluries sibi coacervetur; sed oportet subintelligere in definitione hanc particulam sub disiunctione, scilicet 'aut quod praecise semel sumatur si multiplicans sit unitas'. Et ex hoc apparet quid sit aliquid ducere in aliquem numerum: est enim illud multiplicari per talem numerum.
 
 ## Undecima et duodecima definitiones ex his sunt manifestae.
 
-Unde etiam constare potest quid sit numerus aliquid multiplicans quodcunque fuerit, et quid sit numerum aliquid multiplicare, et quid sit productum ex multiplicatione alicuius quodcunque fuerit per aliquem numerum. Unde productum ex multiplicatione alicuius numeri per aliquem numerum est ille in quo est totiens ille multiplicatus quotiens in multiplicante illum est unitas.
+Unde etiam constare potest quid sit numerus aliquid multiplicans quodcumque fuerit, et quid sit numerum aliquid multiplicare, et quid sit productum ex multiplicatione alicuius quodcumque fuerit per aliquem numerum. Unde productum ex multiplicatione alicuius numeri per aliquem numerum est ille in quo est totiens ille multiplicatus quotiens in multiplicante illum est unitas.
 
 Et ex his constare potest quod si aliquid multiplicetur per numerum maiorem unitate, illud crescit ad hunc sensum quod inde productum est multiplicato maius. Hoc dico ad differentiam multiplicationis fractionis per fractionem, de qua fiet mentio in nono; in tali enim multiplicatione, ut apparebit, non oportet simile contingere.
 
 ## In decimatertia et decimaquarta definitionibus sub numero
 
-unitas comprehendi debet de necessitate in ultimis particulis, quia solet concedi in hac materia frequenter quod idem numerat seipsum, prout ex multis conclusionibus apparebit; modo nihil numerat seipsum per aliquem numerum distinguendo contra unitatem. Et ex hoc apparet quid sit aliquid ab aliquo numerari in toto suo ambitu, prout ad quaecunque tam extra numeros quam in numeris se extendit: est enim illud ex multiplicatione illius per aliquem numerum produci.
+unitas comprehendi debet de necessitate in ultimis particulis, quia solet concedi in hac materia frequenter quod idem numerat seipsum, prout ex multis conclusionibus apparebit; modo nihil numerat seipsum per aliquem numerum distinguendo contra unitatem. Et ex hoc apparet quid sit aliquid ab aliquo numerari in toto suo ambitu, prout ad quaecumque tam extra numeros quam in numeris se extendit: est enim illud ex multiplicatione illius per aliquem numerum produci.
 
 ## Circa quintamdecimam definitionem adverte quod mathematici
 
@@ -303,7 +303,35 @@ adverte quod unitas nullam partem aliquotam denominat, quia tunc illa deberet es
 
 ratione aliqua dicuntur similes partes aliquotae aliquorum et aeque submultiplicia respectu eorundem. Et eaedem sunt illorum terminorum definitiones, quod propter communem modum loquendi poterit salvari, sicut convertibilitas illorum duorum terminorum: 'pars aliquota alicuius', 'submultiplex alicuius'. Et ex hoc apparet quae sunt dissimiles partes aliquotae aliquorum aut inaeque submultiplicia respectu eorundem: sunt enim quae a diversis numeris denominantur partes aliquotae respectu illorum.
 
-Et si ex hoc inferas quod aliqua sunt similes partes aliquotae respectu aliquorum et dissimiles partes aliquotae respectu eorundem, numerus enim quaternarius a quaternario denominatur pars aliquota 16, et similiter binarius respectu octonarii, quare illi sunt similes partes aliquotae respectu illorum; et ex altera parte quaternarius a binario denominatur pars aliquota octonarii, et binarius ab octonario respectu 16, quare videntur illae dissimiles partes aliquotae illorum: hanc difficultatem et alias huiusmodi quae interdum in his materiis occurrere possunt facillime ex logica poteris /12/
+Et si ex hoc inferas quod aliqua sunt similes partes aliquotae respectu aliquorum et dissimiles partes aliquotae respectu eorundem, numerus enim quaternarius a quaternario denominatur pars aliquota 16, et similiter binarius respectu octonarii, quare illi sunt similes partes aliquotae respectu illorum; et ex altera parte quaternarius a binario denominatur pars aliquota octonarii, et binarius ab octonario respectu 16, quare videntur illae dissimiles partes aliquotae illorum: hanc difficultatem et alias huiusmodi quae interdum in his materiis occurrere possunt facillime ex logica poteris /12/ dissolvere, sive uno modo sive alio velis loqui; quare eas relinquam.
+
+## Circa vigesimam definitionem adverte quod ideo unitas dicitur
+
+cuiuscumque numeri prima pars, quia quaelibet alia pars numeri ipsam praesupponit et non e diverso; et dicitur simplex quia omni caret parte.
+
+## Circa vigesimam primam definitionem adverte quod ex eo quod frequenter
+
+solet concedi quod aliquid est multiplex alicuius quod non realiter est illius pars, ubi in illa definitione dicitur 'ex illo pluries sumpto et cetera', poterit haec particula in definitione subintelligi, scilicet 'vel ex aliquo aequali illi', et tunc facile salvabitur illud. Est ultra supponendum quod quodlibet multiplex alicuius ab aliquo numero denominatur multiplex illius, et quilibet numerus praeter unitatem potest aliquod multiplex denominare.
+
+## Circa vigesimam secundam definitionem consimilis difficultas
+
+potest occurrere sicut circa definitionem similium partium aliquotarum. Et ad salvandum communem modum loquendi poterit intelligi cum consimili addito, ut puta ubi dicitur 'quorum illa sunt similes partes aliquotae', intelligendo hanc particulam sub disiunctione 'vel illis aequalia'. Et ex hoc potest apparere quae sint inaeque multiplicia respectu aliquorum: sunt enim ea quorum illa vel illis aequalia sunt dissimiles partes aliquotae. Et ad difficultatem quae potest ibi occurrere, quia videntur aliqua esse aeque multiplicia et inaeque multiplicia respectu eorundem, patet ex dictis qualiter sit procedendum in eius solutione.
+
+## Circa vigesimam tertiam definitionem adverte quod alio modo
+
+loquimur de divisione vulgariter, et alio modo solent loqui arithmetici practici de divisione cum eam ponunt unam speciem algorismi, et alio modo fit sermo de divisione in fractionibus vulgaribus; de isto secundo modo in 9 fiet mentio. Et procedendo primo modo de divisione, nihil aliud est aliquid dividere quam ipsum in aliquot partes adaequate secare, sive illae aequales sive inaequales; et haec acceptio divisionis est magis ampla quam illa de qua procedit praesens definitio.
+
+Sed pro divisione de qua arithmeticus practicus mentionem facit in illa specie algorismi, adverte quod adhuc duobus modis possemus de tali divisione loqui. Uno modo large, et hoc modo sufficeret ad hoc quod aliquid divideretur per aliquid quod adaequate secaretur in tot partes aequales quot sunt unitates in illo, aut adaequate in tot partes aequales quot sunt unitates in illo et aliqua ultra minorem illo per quem dividitur; et hoc modo videtur procedere arithmeticus practicus. Frequenter enim in operatione iuxta illam speciem algorismi aliquis numerus dividitur non adaequate in tot partes aequales quot sunt unitates in divisore, sed in tot et aliquam ultra minorem divisore. Et communiter conceditur talem divisionem fieri secundum quod arithmetica docet, et illud contingit universaliter quando divisor non est submultiplex numero dividendo nec illi aequalis, sicut patet dividendo 18 per 4.
+
+Et ita procedendo de divisione, si aliquis secundum regulas speciei algorismi deberet aliquem numerum dividere per aliquem, esto quod inconveniret, saltem debite operando secundum illas regulas, quod divideret in tot partes aequales quot sunt unitates in divisore et aliquam ultra quae esset aequalis divisori aut ea maior, tamen non inconveniret quod adaequate illum divideret in tot partes aequales quot sunt unitates in divisore et unam aequalem uni illarum, aut maiorem quacumque illarum, aut minorem. Primum patet dividendo 12 per 5, secundum patet dividendo 14 per 5, tertium patet dividendo 16 per 5.
+
+Et procedendo etiam de ista divisione, non oportet, si aliquis numerus per aliquem dividatur et quod inde provenit per divisorem multiplicetur, quod redeat ille numerus divisus; licet bene oporteat illud, aut quod redeat aliquis numerus qui cum illa parte in quam dividitur ultra illas partes aequales sumptas secundum divisorem constituat illum numerum divisum, sicut ex arithmetica practica apparet. Universaliter tamen oportet, si aliquis numerus producatur ex multiplicatione alicuius per aliquem et ille idem dividatur per multiplicantem, quod redeat ille multiplicatus; immo si ille productus divideretur per multiplicatum, rediret ille multiplicans, ex quo, sicut apparebit ex una conclusione, ille idem produceretur si e diverso multiplicans per multiplicatum multiplicaretur.
+
+Patet ultra quod stat bene aliquem numerum, ut puta a, hoc modo dividere per aliquem certum numerum, ut puta per b, et quod proveniat c, et tamen dividendo a per c non proveniret b, sed maior numerus quam b; hoc patet dividendo 12 per 10. Verum est tamen quod tunc inconveniret quod proveniret minor numerus quam b.
+
+Haec omnia iterum ex arithmetica practica sunt manifesta. Sed definitio posita non procedit de ista acceptione divisionis, sed alio modo capitur magis stricte; et tunc ad hoc quod aliquid dividatur per aliquem numerum requiritur quod adaequate secetur in tot partes aequales quot sunt unitates in numero per quem dividitur, et secundum hanc acceptionem procedit definitio data. Et ita procedendo nullus numerus poterit dividi per aliquem numerum nisi ille sit ipsi aequalis aut submultiplex ad ipsum, nisi ad fractiones recurratur: numerus enim denarius non potest per quaternarium dividi sine fractione. Et procedendo de hac divisione, si aliquis numerus dividatur per aliquem numerum et postea iterum per illum qui provenit dividatur, provenit alius divisor; et si aliquis per aliquem dividatur et proveniens per divisorem multiplicetur, producetur numerus divisus.
+
+Arithmeticus speculativus frequenter de isto modo divisionis facit sermonem, et frequenter de illo modo divisionis de quo vulgariter loquimur, raro autem vel numquam de alia acceptione statim tacta. Ibi non tangitur definitio divisionis sicut vulgariter capitur, quia praesupponitur tamquam nota. Interdum ergo de divisione de qua loquimur vulgariter in sequentibus fiet mentio, et interdum de ultima acceptione; quando igitur de una acceptione et quando de alia procedetur, ex modo loquendi poterit satis innotescere. Quando enim fit mentio de divisione vulgariter loquendo, non fit mentio quod aliquis numerus debeat esse divisor, quia illud non oportet; sed quando de alia divisione fit [Signatura: "A iiii"] /13/
 
 
 
@@ -334,8 +362,11 @@ Format: edited reading ] siglum original reading (context)
 Page 9: loquar ] emend. locar (et propterea ibi loquar sicut arithmeticus); cf. "alium modum dicendi" in the following clause
 Page 10: nomen ] emend. momen (Haec tamen difficultas ad nomen consistit); the difficulty is merely verbal, since both ways of defining the series are then allowed
 Page 10: habent ] emend. habet (et propterea illi termini se habent sicut superius et inferius)
-Page 11: quodcunque ] emend. quotcunque (et quid sit productum ex multiplicatione alicuius quodcunque fuerit); cf. "quodcunque fuerit" in the preceding clause
+Page 11: quodcumque ] emend. quotcunque (et quid sit productum ex multiplicatione alicuius quodcumque fuerit); cf. "quodcumque fuerit" in the preceding clause
 Page 11: mathematici ] emend. methamathici (Circa quintamdecimam definitionem adverte quod mathematici)
 Page 11: eaedem ] emend. hedem (Et eaedem sunt illorum terminorum definitiones)
+Page 12: definitionem ] emend. diffinitione (sicut circa definitionem similium partium aliquotarum)
+Page 12: secetur ] emend. seccetur (requiritur quod adaequate secetur in tot partes aequales)
+Page 12: innotescere ] emend. ignotescere (ex modo loquendi poterit satis innotescere)
 
 -->

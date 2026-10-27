@@ -331,7 +331,35 @@ Patet ultra quod stat bene aliquem numerum, ut puta a, hoc modo dividere per ali
 
 Haec omnia iterum ex arithmetica practica sunt manifesta. Sed definitio posita non procedit de ista acceptione divisionis, sed alio modo capitur magis stricte; et tunc ad hoc quod aliquid dividatur per aliquem numerum requiritur quod adaequate secetur in tot partes aequales quot sunt unitates in numero per quem dividitur, et secundum hanc acceptionem procedit definitio data. Et ita procedendo nullus numerus poterit dividi per aliquem numerum nisi ille sit ipsi aequalis aut submultiplex ad ipsum, nisi ad fractiones recurratur: numerus enim denarius non potest per quaternarium dividi sine fractione. Et procedendo de hac divisione, si aliquis numerus dividatur per aliquem numerum et postea iterum per illum qui provenit dividatur, provenit alius divisor; et si aliquis per aliquem dividatur et proveniens per divisorem multiplicetur, producetur numerus divisus.
 
-Arithmeticus speculativus frequenter de isto modo divisionis facit sermonem, et frequenter de illo modo divisionis de quo vulgariter loquimur, raro autem vel numquam de alia acceptione statim tacta. Ibi non tangitur definitio divisionis sicut vulgariter capitur, quia praesupponitur tamquam nota. Interdum ergo de divisione de qua loquimur vulgariter in sequentibus fiet mentio, et interdum de ultima acceptione; quando igitur de una acceptione et quando de alia procedetur, ex modo loquendi poterit satis innotescere. Quando enim fit mentio de divisione vulgariter loquendo, non fit mentio quod aliquis numerus debeat esse divisor, quia illud non oportet; sed quando de alia divisione fit [Signatura: "A iiii"] /13/
+Arithmeticus speculativus frequenter de isto modo divisionis facit sermonem, et frequenter de illo modo divisionis de quo vulgariter loquimur, raro autem vel numquam de alia acceptione statim tacta. Ibi non tangitur definitio divisionis sicut vulgariter capitur, quia praesupponitur tamquam nota. Interdum ergo de divisione de qua loquimur vulgariter in sequentibus fiet mentio, et interdum de ultima acceptione; quando igitur de una acceptione et quando de alia procedetur, ex modo loquendi poterit satis innotescere. Quando enim fit mentio de divisione vulgariter loquendo, non fit mentio quod aliquis numerus debeat esse divisor, quia illud non oportet; sed quando de alia divisione fit [Signatura: "A iiii"] /13/ sermo, bene fit mentio de illo, quia illud oportet. His igitur suppositis, definitio illa est manifesta.
+
+Hic tamen supponendum est quod non solum numerus potest per numerum dividi, sed etiam aliquid aliud potest iuxta illam speciem algorismi dividi per numerum. Si aliquid tamen dividatur iuxta illam speciem, sub ratione numeri dividitur: imaginantur enim in illo partes aequales sumptae secundum aliquem numerum, ex cuius divisione per aliquem numerum apparet divisio illius per illum divisorem. Et ex his potest sufficienter apparere quid sit aliquid dividere per numerum, sive illud fuerit numerus sive non, proportionabiliter procedendo: est enim illud in tot partes aequales adaequate secare quot sunt unitates in divisore.
+
+## Vicesima quarta et vicesima quinta definitiones ex his quae
+
+dicta sunt evadunt notae.
+
+## Circa 26 definitionem adverte quod cum fit divisio secundum illam speciem algorismi de qua facta
+
+est mentio, sive loquimur strictissime sive alio modo, aliquis numerus ex tali divisione provenit, qui numerus quotiens solet vocari; et duo denotat talis numerus. Primo enim denotat quod divisor secundum ipsum reperitur in diviso, ut puta totiens quotiens unitas est in ipso et non pluries; et propter hanc denotationem vocatur numerus quotiens. Secundo denotat quod, dividendo talem numerum per illum divisorem, partes in quas dividitur debent esse aequales illi, saltem illae quae inveniuntur in diviso secundum divisorem; et propter hanc denotationem potest vocari numerus ex divisione proveniens.
+
+Et si loquamur de tali divisione strictissime, denotaret ille numerus quod quaelibet illarum partium in quas adaequate dividitur talis numerus per illum divisorem sit aequalis illi; sed si loquamur alio modo, denotabit quod tot partes aequales illi quot sunt unitates in divisore, et non tot maiores illo, in illo diviso reperiuntur. Ex quo patet quod si strictissime deberet numerus denarius dividi per quaternarium, recurrendo ad fractiones, quod ex tali divisione proveniret non esset numerus, sed esset numerus cum aliqua fractione. His intellectis, definitio illa est manifesta.
+
+## Circa 27 definitionem est advertendum quod non aliud est dictu quod prima pars praetendit quam si
+
+diceretur quod si aliqua sit pars aliquota duorum numerorum inaequalium, minor illorum adaequate resultat ex tot partibus aequalibus non communicantibus, quarum quaelibet est aliquota maioris, quot sunt unitates in numero secundum quem illa pars communis multiplicata illum minorem producit. Exemplum patet de numero 9 respectu 12: quia enim numerus ternarius est utriusque pars aliquota, et ipse ter reperitur in numero 9, et per seipsum multiplicatus illum producit, numerus 9 adaequate resultabit ex tribus partibus aliquotis maioris aequalibus non communicantibus, quia tres unitates reperiuntur solum in illo secundum quem multiplicata ipsum producit. Et si per respectum ad unitatem loquamur, ille adaequate resultabit ex novem partibus aequalibus non communicantibus, quarum quaelibet est aliquota maioris. Unde quando diversorum numerorum inaequalium quilibet est pars maioris et minoris, minor erit tot partes aliquotae maioris ad sensum datum quot sunt unitates in quocumque numero secundum quem aliqua illarum partium communium multiplicata illum producit.
+
+Pro secunda parte est advertendum quod idem est petere 'quota pars aliquota illius est hoc' et petere 'a quo numero denominatur hoc pars aliquota illius'; et idem est dicere 'hoc est tota vel tota pars illius' ac si diceretur 'hoc est pars aliquota illius a tali vel tali numero denominata'. Hoc supposito, sensus illius secundae partis est quod ille numerus minor in tali casu adaequate resultat ex aliquot partibus aequalibus non communicantibus, quarum quaelibet est aliquota maioris denominata ab illo numero secundum quem illa pars communis multiplicata illum maiorem producit. Et ideo in exemplo dato, quia ille numerus ternarius est una quarta maioris, ille minor adaequate resultabit ex quartis maioris; et quia etiam unitas est utriusque illorum pars communis et est duodecima pars maioris, ille minor adaequate resultabit ex duodecimis maioris non communicantibus; et ita universaliter in quibuscumque in quibus diversorum numerorum inaequalium quilibet est utriusque pars aliquota. Et ex his apparere potest in huiusmodi casibus quot et quotae partes maioris esset minor.
+
+Haec definitio sic exposita est ut indifferenter verum habeat, sive dicamus totum distingui ab omnibus suis partibus simul sumptis sive non. Et propter consimilem causam, ubi in sequentibus dicetur aliquem numerum esse partes maioris aliquotas, aut non aliquotas, aut esse tot partes, aut totae partes, aut tot et totae, in consimilibus sensibus intelligantur huiusmodi dicta, ut indifferenter secundum omnem modum verum habeant; quia tamen talis est modus loquendi doctorum in hac materia, loquimur ut ipsi.
+
+Hic tamen adverte quod, in his sensibus procedendo, sicut concedimus in casibus tactis numerum esse partes aliquotas maioris tot aut totas, ita etiam possemus concedere numerum maiorem esse tot aut totas partes aliquotas minoris. Multi tamen antiquorum per 'aliquem numerum esse partes alicuius' intelligebant illum esse minorem illo, et non partem aliquotam illius, sed partes aliquotas illius. Hoc tamen non obstante, bene potest dici quod aliquis numerus est pars aliquota alicuius et partes aliquotae; immo, procedendo ad sensum datum, interdum erit necessarium illud concedere. De hoc tamen non est curandum, quia ad nomen consisteret haec difficultas.
+
+Finaliter adverte pro ista definitione quod ipsa proportionabiliter omnino potest deservire pro quibuscumque commensurabilibus extra numeros, sicut pro numeris deservit, mutatis mutandis.
+
+## Circa 28 definitionem adverte quod ad hoc quod aliquid sit mensura alicuius non requiritur quod sit illius
+
+pars aliquota, sed satis est quod sit aequale illi vel illius pars aliquota. Et ratio huius potest assignari ex communi modo loquendi: solet enim proportio rationalis sic communiter definiri, 'est duorum commensurabilium habitudo'; et solet insuper concedi quod cuiuslibet numeri ad unitatem est proportio rationalis. Unde manifeste constat quemlibet numerum et unitatem esse commensurabilia, loquendo eo /14/
 
 
 
@@ -368,5 +396,12 @@ Page 11: eaedem ] emend. hedem (Et eaedem sunt illorum terminorum definitiones)
 Page 12: definitionem ] emend. diffinitione (sicut circa definitionem similium partium aliquotarum)
 Page 12: secetur ] emend. seccetur (requiritur quod adaequate secetur in tot partes aequales)
 Page 12: innotescere ] emend. ignotescere (ex modo loquendi poterit satis innotescere)
+Page 13: sermo ] emend. seruio (sed quando de alia divisione fit [Signatura: "A iiii"] /13/ sermo); cf. "facit sermonem" earlier in the paragraph
+Page 13: Secundo ] emend. secuudo (Secundo denotat quod, dividendo talem numerum)
+Page 13: aequales ] emend. quales (partes in quas dividitur debent esse aequales illi)
+Page 13: inaequalium ] emend. inequatium (Unde quando diversorum numerorum inaequalium quilibet est pars maioris et minoris)
+Page 13: aliquotae ] emend. oliquote (est pars aliquota alicuius et partes aliquotae)
+Page 13: quibuscumque ] emend. quibuicumque (potest deservire pro quibuscumque commensurabilibus)
+Page 13: mutatis ] emend. muttatis (sicut pro numeris deservit, mutatis mutandis)
 
 -->

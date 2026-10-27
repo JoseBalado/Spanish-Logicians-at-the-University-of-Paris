@@ -1263,7 +1263,25 @@ Alia quaestio: utrum species visibiles causentur in instanti vel successive. Res
 
 Sed sic est quod species visibiles non habent contrarium nec praesupponunt motum localem ad eius productionem; igitur producuntur in instanti. Ex quo sequitur quod visio in instanti causatur.
 
-Alia quaestio: utrum species visibiles contrarientur sicut qualitates a quibus causantur, ut sicut albedo et nigredo contrariantur, ita suae species contrariantur. Dico quod non quia species. /56a/
+Alia quaestio: utrum species visibiles contrarientur sicut qualitates a quibus causantur, ut sicut albedo et nigredo contrariantur, ita suae species contrariantur. Dico quod non, quia species /56a/ qualitatum contrariarum diffunduntur per idem medium.
+
+Alia quaestio, quae inter omnes est difficilior: utrum species visibilis sit extensa. Suo modo sicut alia accidentia. Et posito quod sit extensa, an sit tam extensa sicut suum obiectum? Dico primo quod omnes species sunt extensae quia recipiuntur in subiecto extenso, ideo sunt extensae per accidens.
+
+Dico secundo quod non oportet quod species extensae prius in organo sit ita extensa sicut obiectum a quo causatur. Sed requiritur: postquam non est tam extensa sicut obiectum, qui videtur seu apparet tam extensa? Respondetur quod illa species non habet ex stricta, vel ex tanta extensione, repraesentare obiectum. Unde accidit speciei ut repraesentet obiectum quod sit tanta, id est tam extensa. Sed dico quod habet repraesentare obiectum quia est similitudo talis obiecti.
+
+Sed circa hoc quaero unam quaestionem. Et capio illam speciem parietis quae est in organo; illa species est extensa, tunc dividatur in duas partes, scilicet in a et in b. Quaero utrum per a repraesentetur totum obiectum, et similiter per b, vel medietas obiecti, scilicet albedinis.
+
+Primo nunc dico quod sic est imaginandum, videlicet quod talis species, quae est ratio videndi aliquod obiectum, recipiatur in toto, quod si quis quaerat in quo recipitur species istius totius albedinis, dico quod in toto organo. Et si quaeras an, capiendo illam partem speciei quae est in parte organi, posses videre aliquid per illam, dico quod non, quia illa pars non est de ratione /56b/ speciei nec similitudinis nec habet rationem videndi; immo solum illud quod recipitur in toto organo habet rationem speciei et rationem videndi. Ex quo sequitur quod tot quot sunt proprietates quae videntur, tot sunt species quae recipiuntur in toto organo.
+
+Secundo, visibile diffundit suas species per lineam refractam, et tunc vocatur radius visualis refractus. Et ad videndum qualiter species refranguntur, ponitur talis regula perspectivorum:
+
+> Quandocumque species diffunduntur per aliquod medium et occurrit aliud medium alterius diaphanitatis, puta medium rarius vel densius, tunc refranguntur species visibiles.
+
+Ut si visibile producat suas species per aerem et occurrat aqua, tunc ibi refranguntur illae species visibiles. Sed adverte quod propter aliam et aliam refractionem aliter et aliter apparet obiectum. Unde pono duas regulas, quarum prima est:
+
+> Quando aliquid producit suas species per aliquod medium et occurrit medium rarius, tunc illa res apparet maior quam est.
+
+Ut si aliquod visibile producat suas species per aquam et postea per aerem, illud visibile existens in aqua apparebit maius. Exemplum: ut si ponatur truncus in aqua, apparebit maior. Item dico quod tunc illud videbitur ubi non /57a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1325,5 +1343,11 @@ Page 54b: quod ] del. (struck in the manuscript) (Dico [quod] ulterius quod fors
 Page 55a: improbabilis ] conj. imrablis (vel requiritur quod sit reflexio improbabilis)
 Page 55a: difficulter ] conj. diſitnlter (unde organum difficulter potest recipere species)
 Page 55b: ultimam istam ] conj. itare miſſaʒ (ad aliquam speciem ita remissam)
+Page 56a: ex stricta ] conj. extricta (non habet ex stricta, vel ex tanta extensione)
+Page 56a: ut ] sic (struck in the manuscript) (accidit speciei ut repraesentet)
+Page 56a: parietis ] conj. paxietis (capio illam speciem parietis)
+Page 56b: proprietates ] conj. ponetes (tot quot sunt proprietates quae videntur)
+Page 56b: ut si aliquod visibile ] del. ut si aliquod visibile ut si aliquod visibile (Ut si aliquod visibile producat suas species)
+Page 56b: truncus ] conj. turcong (ut si ponatur truncus in aqua)
 
 -->

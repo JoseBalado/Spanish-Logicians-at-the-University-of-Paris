@@ -741,6 +741,7 @@ diaphaneitas
 diaphaneitate
 diaphaneitatem
 diaphaneitatis
+diaphanitatis
 dicibilius
 dictamen
 dictamine
@@ -1945,6 +1946,7 @@ perseiatem
 perseitas
 perseitatis
 perspectivistae
+perspectivorum
 perspicatiores
 persuasiva
 persuasivum
@@ -2367,6 +2369,7 @@ reflexivae
 reflexivis
 reflexivum
 reflexivus
+refranguntur
 refrigidare
 Registrum
 regitivam

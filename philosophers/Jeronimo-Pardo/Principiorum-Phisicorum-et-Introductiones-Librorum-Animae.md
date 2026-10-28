@@ -528,7 +528,7 @@ Ut sint duo homines portantes lapidem, dico quod quilibet portat suam partem.
 
 Circa istam regulam est unum magnum problema apud doctores, utrum sit possibile quod sint aliquae causae accidentaliter subordinatae totales, id est totaliter producentes aliquem effectum, ita quod una remota non minus effectus producatur ab illa eadem modo ac si esset cum alia, ut duo homines portantes lapidem ut dictum est.
 
-Scotus tenet quod non est possibile, Ockham vero tenet quod sic. Sed hoc tractatur in secundo *Physicorum*.
+Scotus tenet quod non est possibile, Occam vero tenet quod sic. Sed hoc tractatur in secundo *Physicorum*.
 
 Secunda regula:
 
@@ -760,7 +760,7 @@ Ita quod nihil magis cognoscitur vivens aliquid esse eminens quam per actum pote
 
 Contra: si hoc esset verum, sequeretur quod homo haberet potentiam sensitivam. Sed hoc est falsum, igitur.
 
-Minor probatur quia si homo haberet potentiam sensitivam haberet et animam sensitivam. Patet quia potentia sensitivam est propria illi qui habet animam sensitivam; ergo nego ultimam probationem. Sed bene est propria illi qui habet animam sensitivam vel qui habet perfectiorem animam quam anima sensitiva. Ex quo sequitur error Ockham, qui ponit in homine animam sensitivam et intellectivam, et infert etiam quod in homine et brutum, scilicet compositum ex materia et anima, illa sensitiva, est brutum.
+Minor probatur quia si homo haberet potentiam sensitivam haberet et animam sensitivam. Patet quia potentia sensitivam est propria illi qui habet animam sensitivam; ergo nego ultimam probationem. Sed bene est propria illi qui habet animam sensitivam vel qui habet perfectiorem animam quam anima sensitiva. Ex quo sequitur error Occam, qui ponit in homine animam sensitivam et intellectivam, et infert etiam quod in homine et brutum, scilicet compositum ex materia et anima, illa sensitiva, est brutum.
 
 Et de istis /34b/ potentiis sensitivis quaeritur talis quaestio: utrum potentiae sensitivae sint idem realiter cum ipsa anima. De hoc est problema, nam tenent omnes Nominales quod sint ipsa anima, quae anima dicitur potentia sensitiva inquantum operatur mediante aliquo organo corporeo.
 
@@ -1145,7 +1145,7 @@ Unde pro declaratione speciei sensibilis sensus exterioris ponuntur aliquae prop
 
 Prima proprietas: cogimur ponere species sensibiles sensuum exteriorum, hoc probatur per aliquas experientias quas videmus. Prima experientia est de speculo, nam nos videmus per experientiam quod video me in speculo, et non nisi gratia me causatur aliquae species; igitur opus est ponere species. Secunda experientia: res aliqua, secundum quod videtur per alium et alium medium, apparet maior vel minor, ut capiatur pyramis et ponatur in aqua: apparet maior quam in exemplum aquam. Et hoc non est nisi propter diversum modum causandi suas species.
 
-Unde dico quod multi doctores discordaverunt in hoc, scilicet an essent ponendae species sensibiles sensus exterioris. Dico tamen quod diversitas est inter doctores an istae species sensibiles sint eiusdem speciei cum obiecto a quo causantur. Nam tenet Guilhelmus Ockham in *Quodlibeto* quod sint eiusdem speciei cum obiecto, ut albedo causat suas species, id est albedines quasdam inesse remisso. Sed ista opinio reprehenditur ab omnibus bonis doctoribus, et signanter a Gregorio in *Primo*, et ideo tenebimus quod illae species sunt alterius speciei cum obiecto a quo causantur.
+Unde dico quod multi doctores discordaverunt in hoc, scilicet an essent ponendae species sensibiles sensus exterioris. Dico tamen quod diversitas est inter doctores an istae species sensibiles sint eiusdem speciei cum obiecto a quo causantur. Nam tenet Guilhelmus Occam in *Quodlibeto* quod sint eiusdem speciei cum obiecto, ut albedo causat suas species, id est albedines quasdam inesse remisso. Sed ista opinio reprehenditur ab omnibus bonis doctoribus, et signanter a Gregorio in *Primo*, et ideo tenebimus quod illae species sunt alterius speciei cum obiecto a quo causantur.
 
 Secunda proprietas: species sensibilis sensus exterioris a solo obiecto causantur, saltem primae. Ex quo sequitur quod nullo modo causatur a sensu exteriori, hoc postea declarabitur.
 
@@ -1179,7 +1179,7 @@ Pro solutione notandum est quod opinio domini de Aliaco et multorum philosophoru
 
 Sed de colore dico quod est una qualitas quae recipitur subiective in corpore denso et terminato et opaco. Unde corpora opaca sunt quaedam loca obscura et tenebrosa, et in istis recipitur color subiective. Et de colore dico quod diffundit suos radios visuales sive suas species visibiles.
 
-Sed dubium est an radii visuales qui diffunduntur a colore possint videri. Et de hoc est magna difficultas apud doctores, et Scotus tenet in *Quodlibeto* quod possunt videri, et ad hoc adduco experientiam: nam quando sol transit per ulnam rubeam, tunc apparent species rubedinis seu radii rubedinis. Ex hoc sumitur [ulterius argumentum/olram] ad probandum quod species sunt eiusdem speciei cum obiecto cuius sunt species. Patet quia illa rubedo quae est in pariete videtur eiusdem speciei cum rubedine vitrine, et illa est species; ergo species sunt eiusdem speciei cum obiecto.
+Sed dubium est an radii visuales qui diffunduntur a colore possint videri. Et de hoc est magna difficultas apud doctores, et Scotus tenet in *Quodlibeto* quod possunt videri, et ad hoc adduco experientiam: nam quando sol transit per ulnam rubeam, tunc apparent species rubedinis seu radii rubedinis. Ex hoc sumit Occam ad probandum quod species sunt eiusdem speciei cum obiecto cuius sunt species. Patet quia illa rubedo quae est in pariete videtur eiusdem speciei cum rubedine vitrine, et illa est species; ergo species sunt eiusdem speciei cum obiecto.
 
 Notandum est ulterius quod color non potest causare suas species visibiles nisi mediante lumine, et ideo dicitur communiter quod lumen requiritur ad videndum. Et ideo difficultas est an lumen concurrat partialiter cum colore ad producendum species coloris. Gregorius tenet quod sic, et alii tenent quod non. Et teneatur quidquid /52b/ placuerit de hoc.
 
@@ -1281,7 +1281,27 @@ Ut si visibile producat suas species per aerem et occurrat aqua, tunc ibi refran
 
 > Quando aliquid producit suas species per aliquod medium et occurrit medium rarius, tunc illa res apparet maior quam est.
 
-Ut si aliquod visibile producat suas species per aquam et postea per aerem, illud visibile existens in aqua apparebit maius. Exemplum: ut si ponatur truncus in aqua, apparebit maior. Item dico quod tunc illud videbitur ubi non /57a/
+Ut si aliquod visibile producat suas species per aquam et postea per aerem, illud visibile existens in aqua apparebit maius. Exemplum: ut si ponatur truncus in aqua, apparebit maior. Item dico quod tunc illud videbitur ubi non /57a/ videretur si praecise fuisset [in uno medio]. Patet: et capiatur pelvis plena aqua, et supponatur turonus infra; tunc videbitur ab aliqua distantia ubi non videretur si non fuisset ibi aqua, et hoc propter rationem specierum.
+
+Secunda regula:
+
+> Quando aliquid videtur per duo media, et primo causat suas species per medium rarius et secundo per medium densius, tunc illud apparebit minus.
+
+Quaeritur utrum species visibiles possint remanere in organo absente obiecto a quo causantur. Si dicatur quod sic. Contra: ergo visus mediante illa poterit cognoscere obiectum, et ultra, ergo visus poterit habere notitiam abstractivam, quod est falsum.
+
+Respondetur quod species visibiles et quaecumque aliae non possunt manere in organo vel medio obiecto absente. Vel, si remanent, sunt tam imperfectae et tam remissae quod non sunt sufficientes causare notitiam obiecti. Ut capio speciem albedinis quae sit in organo visus: dico quod ista species non remanet absente albedine. Vel, si remanet, est adeo remissa quod non potest ducere in notitiam ipsius albedinis. Unde dicunt philosophi quod ista organa valde parum sunt retentiva specierum. Ex quo sequitur quod visus nec alia potentia sensitiva exterior non potest cognoscere abstractive aliquod obiectum.
+
+Contra: et quia adducitur experientia de illo qui aspicit solem: sole absente, vel quando claudit oculos, videtur sibi quod videat solem.
+
+Pro solutione dico duo. Primo, quod ille non videt solem nec experitur se videre solem. Secundo dico, /57b/ ut dicit beatus Augustinus, quod remanent quaedam reliquiae lucis, id est quoddam parvum lumen circa palpebras oculi, et illud videtur.
+
+Sed tunc sunt hic duae difficultates, quarum prima est quomodo illud lumen videtur. Et arguitur sic: sensibile positum supra sensum, id est supra organum sensus, non facit sensationem; sed illud ponitur supra sensum; ergo. Respondetur negando quod illud ponatur supra sensum, quia non ponitur supra illos nervos, immo est in partibus exterioribus oculi.
+
+Secunda difficultas: si istud lumen videretur, sequeretur quod species visibiles sui viderentur. Sed hoc est falsum; ergo. Respondetur negando, scilicet quod species visibiles non possunt videri, quia dicit Commentator quod quando species visibiles reiciuntur ad opacum, tunc possunt videri.
+
+Secundo arguitur sic: si sint nives in camera clausa et quis ingreditur illam cameram obscuram, tunc videbit nives, et tamen illae nives se habent ut absentes; ergo. Similiter arguitur de quibusdam vermibus de nocte lucentibus, et similiter de oculis cati, et caetera; igitur.
+
+Pro solutione multarum experientiarum notandum est quod sunt quaedam corpora quae habent lucem eis inhaerentem. Unde dicunt aliqui quod probabile est quod quodlibet coloratum in gradu excellenti habet aliquam lucem annexam. Et dico quod lux diffundit suos radios, vel suas species, usque ad organum, et tunc videtur illud corpus. Dico etiam quod ista quae communiter videntur habent magnam lucem eis inhaerentem /58a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1349,5 +1369,13 @@ Page 56a: parietis ] conj. paxietis (capio illam speciem parietis)
 Page 56b: proprietates ] conj. ponetes (tot quot sunt proprietates quae videntur)
 Page 56b: ut si aliquod visibile ] del. ut si aliquod visibile ut si aliquod visibile (Ut si aliquod visibile producat suas species)
 Page 56b: truncus ] conj. turcong (ut si ponatur truncus in aqua)
+Page 57a: si praecise fuisset in uno ] conj. se precise fuisse umi (videretur si praecise fuisset in uno medio)
+Page 57a: turonus ] sic (et supponatur turonus infra); i.e. a coin of Tours ("tournois")
+Page 57a: rationem ] conj. roēʒ (et hoc propter rationem specierum)
+Page 57a: ducere ] conj. dncore (non potest ducere in notitiam)
+Page 57b: illud ] emend. illa (sed illud ponitur supra sensum)
+Page 57b: reiciuntur ] conj. rciat∞ (quando species visibiles reiciuntur ad opacum)
+Page 57b: opacum ] leg. oppaln̄ʒ (reiciuntur ad opacum)
+Page 57b: et caetera ] om. illegible abbreviated word after etc̄ (de oculis cati, et caetera)
 
 -->

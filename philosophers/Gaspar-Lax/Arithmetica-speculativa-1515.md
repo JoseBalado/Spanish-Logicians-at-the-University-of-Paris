@@ -359,7 +359,91 @@ Finaliter adverte pro ista definitione quod ipsa proportionabiliter omnino potes
 
 ## Circa 28 definitionem adverte quod ad hoc quod aliquid sit mensura alicuius non requiritur quod sit illius
 
-pars aliquota, sed satis est quod sit aequale illi vel illius pars aliquota. Et ratio huius potest assignari ex communi modo loquendi: solet enim proportio rationalis sic communiter definiri, 'est duorum commensurabilium habitudo'; et solet insuper concedi quod cuiuslibet numeri ad unitatem est proportio rationalis. Unde manifeste constat quemlibet numerum et unitatem esse commensurabilia, loquendo eo /14/
+pars aliquota, sed satis est quod sit aequale illi vel illius pars aliquota. Et ratio huius potest assignari ex communi modo loquendi: solet enim proportio rationalis sic communiter definiri, 'est duorum commensurabilium habitudo'; et solet insuper concedi quod cuiuslibet numeri ad unitatem est proportio rationalis. Unde manifeste constat quemlibet numerum et unitatem esse commensurabilia, loquendo eo /14/ modo quo in illa definitione. Unde per commensurabilia intelligunt illa quibus est eadem communis mensura; unde manifeste sequitur, cum nihil aliud ab unitate sit mensura unitatis, ipsam unitatem esse sui ipsius mensuram. Unde apparet intentum. Hoc supposito, definitio illa est manifesta.
+
+## Circa 29 et tricesimam definitiones adverte quod loquendo de commensurabilitate ut in proposito
+
+quicumque duo numeri sunt commensurabiles, similiter et quilibet est unitati commensurabilis. Aliter tamen fit mentio de commensurabilitate numerorum in tertio. Communis modus loquitur de commensurabilitate hoc modo; et inde apparet quod, ad hoc quod aliqua sint commensurabilia hoc modo, non requiritur quod idem sit utriusque pars aliquota: hoc patet de numero et unitate. Hoc supposito, definitiones illae sunt manifestae.
+
+Finaliter adverte quod in expositionibus praedictarum definitionum illae ad alia applicatae sunt, quia in sequentibus multae demonstrationes extra numeros tangentur, pro quarum intellectionibus illa sunt necessaria; et propter illud etiam istae duae ultimae definitiones positae sunt.
+
+## Dignitates
+
+### 1
+
+Omne totum est maius sua parte. Et omnis pars minor suo toto.
+
+### 2
+
+Quaecumque quae eidem sunt aequalia inter se sunt aequalia.
+
+### 3
+
+Quicquid altero duorum aequalium est maius est etiam reliquo maius. Et quicquid est altero duorum aequalium minus est reliquo minus.
+
+### 4
+
+Quicquid est maius maiori aliquorum est maius minori eorundem. Et quicquid est minus minore aliquorum est minus maiore eorundem.
+
+### 5
+
+Cuiuscumque totius omnes partes simul sumptae ipsi toti aequantur.
+
+### 6
+
+Si aequalibus aequalia addatur vel idem commune, quae fient erunt aequalia.
+
+### 7
+
+Si aequalibus inaequalia addantur, quae fient erunt inaequalia.
+
+### 8
+
+Si ab aequalibus aequalia auferantur vel idem ipsis commune, remanentia erunt aequalia.
+
+### 9
+
+Si ab aequalibus inaequalia auferantur, remanentia erunt inaequalia.
+
+### 10
+
+Si altero duorum aequalium invariato reliquo aliquid addatur vel ab eo auferatur, fient inaequalia.
+
+### 11
+
+Si inaequalibus aequalia addantur vel idem commune, fient inaequalia.
+
+### 12
+
+Si ab inaequalibus aequalia auferantur vel idem ipsis commune, remanentia erunt inaequalia.
+
+### 13
+
+Si inaequalium maiori maius addatur quam minori, aut a minori maius auferatur quam a maiori, aut maiori addatur aliquid et a minori auferatur aliquid, remanebunt inaequalia.
+
+### 14
+
+Si maiori inaequalium invariato a minori aliquid removeatur, aut ipsi addatur maius aut minus quam eorum differentia, remanebunt inaequalia. Et si minori invariato maiori addatur aliquid, aut ab eo auferatur maius aut minus differentia ipsorum, remanebunt inaequalia.
+
+### 15
+
+Si aliquorum unum alicui tertio sit aequale cui reliquum est inaequale, illa sunt inaequalia.
+
+### 16
+
+Quorumcumque inaequalium differentia est sicut differentia maioris ad quodlibet aequale minori; similiter et sicut differentia cuiuslibet aequalis maiori ad illud minus vel illi aequale.
+
+### 17
+
+Si aliquorum aliquae partes sunt aequales vel ipsis eadem communis, similiter et residuae partes sunt aequales, illa sunt aequalia. Et si aliqua sint aequalia et aliquae partes eorum sunt aequales vel eadem illis communis, residuae etiam erunt aequales.
+
+### 18
+
+Si aliquorum aliquae partes sint aequales vel eadem ipsis communis et residuae inaequales, illa sunt inaequalia, et illud cuius pars illarum inaequalium est maior est altero maius. Et si alicuius aliqua pars aliqua parte alterius sit maior, et residua pars eiusdem residua alterius sit etiam maior vel illi aequalis, erit illud altero maius. Et si aliqua sint inaequalia et aliquae partes eorum sint aequales vel eadem ipsis communis, residua pars maioris erit maior residua minoris.
+
+### 19
+
+Omne totum ex aliquibus compositum ex qualibet parte eius et differentia illius ad illam ad aequale resultat. Et quodlibet altero maius ex tali minori vel sibi aequali [Signatura: "A v"] /15/
 
 
 
@@ -403,5 +487,14 @@ Page 13: inaequalium ] emend. inequatium (Unde quando diversorum numerorum inaeq
 Page 13: aliquotae ] emend. oliquote (est pars aliquota alicuius et partes aliquotae)
 Page 13: quibuscumque ] emend. quibuicumque (potest deservire pro quibuscumque commensurabilibus)
 Page 13: mutatis ] emend. muttatis (sicut pro numeris deservit, mutatis mutandis)
+Page 14: est ] emend. ex (Hoc supposito, definitio illa est manifesta)
+Page 14: manifesta ] emend. maufesta (Hoc supposito, definitio illa est manifesta)
+Page 14: mentio ] emend. inentio (Aliter tamen fit mentio de commensurabilitate numerorum in tertio)
+Page 14: aliquid ] emend. aliquod (aut maiori addatur aliquid)
+Page 14: aliquid ] emend. aliquod (et a minori auferatur aliquid)
+Page 14: tangentur ] emend. tangetur (in sequentibus multae demonstrationes extra numeros tangentur); plural subject "multae demonstrationes"
+Page 14: necessaria ] emend. necenaria (pro quarum intellectionibus illa sunt necessaria)
+Page 14: reliquo ] del. reli liquo (est etiam reliquo maius); syllable repeated across the line break
+Page 14: aequali ] aequa- (vel sibi aequali [Signatura: "A v"] /15/); word divided across pages, completed with "li" from the first line of page 15
 
 -->

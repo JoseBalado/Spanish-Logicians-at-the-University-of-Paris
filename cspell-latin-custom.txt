@@ -138,6 +138,7 @@ alterativarum
 alterativas
 alterativi
 alterativis
+Alvarus
 amativa
 amativus
 ambulativa
@@ -774,6 +775,7 @@ Disamis
 discontinua
 Discontinua
 discontinuae
+discontinuam
 discontinuantur
 discontinuatarum
 discontinuatum
@@ -2175,6 +2177,7 @@ proportionantur
 proportionari
 proportionatur
 proportionetur
+proportionistae
 propositionabilem
 propositionale
 propositionalem
@@ -2527,6 +2530,8 @@ sermocionales
 sesquipedalitas
 sesquipedalitatis
 Severino
+Severinum
+Severinus
 Sexingenta
 sexqui
 sigillatim
@@ -2977,6 +2982,7 @@ Viterbiensis
 Viterbo
 vivificativam
 vivificativi
+vocitationi
 volendi
 volendo
 volendum

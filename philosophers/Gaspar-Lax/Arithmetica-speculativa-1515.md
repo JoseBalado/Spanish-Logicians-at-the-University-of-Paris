@@ -521,6 +521,78 @@ Quaelibet quantitas totiens multiplicari potest ut quantilibet eiusdem rationis 
 
 /16/
 
+### 1
+
+Quocumque numero quantumlibet maiorem contingit sumere. Similiter et cuilibet quotcumque possunt sumi aequales, et cuilibet quotcumque aeque multiplices, et cuilibet qualescumque multiplices.
+
+### 2
+
+Nullus numerus potest in infinitum diminui; cuiuslibet enim diminutio in unitate cessat.
+
+### 3
+
+Series numerorum in infinitum potest augeri, nec potest dari in ea numerus quin eo maiorem in serie contingat cum ipso collocare.
+
+### 4
+
+Numquam maius numerat minus.
+
+### 5
+
+Si duo numeri inaequales eundem numerum numerent, maior eorum per minorem numerum numerabit illum quam minor illum numeret. Et si aliqui per diversos numeros eundem numerent, qui per maiorem illum numerabit erit minor, et qui per minorem maior.
+
+### 6
+
+Si aliquis numerus numeret diversos numeros inaequales per diversos numeros, ipsos numerabit maiorem per maiorem, minorem per minorem. Et si duo inaequales duos per eundem numerent, illi numerati erunt inaequales, et maior a maiori per illum numerum numerabitur, minor autem a minori. Et si aliqui ab eodem numero per eundem numerum numerentur, illi sunt aequales.
+
+### 7
+
+Nullus numerus ductus in numerum maiorem unitate seipsum producit, sed universaliter inde productus erit multiplex illi denominatus ab illo in quem ducitur. Et si numerus per numerum maiorem unitate numeret aliquem numerum, ille numeratus erit multiplex illi denominatus ab illo per quem illum numerat.
+
+### 8
+
+Si aliquis numerus in duos aequales ducatur, tantum producetur ex ductu illius in unum illorum sicut in reliquum. Et si duo aequales in eundem ducantur, tantum producetur ex ductu unius in illum quantum ex ductu alterius in eundem.
+
+### 9
+
+Si aliquis numerus in duos inaequales ducatur vel duo inaequales in ipsum, ex ipso in maiorem maior producetur quam ex ipso in minorem; similiter ex maiori in ipsum maior quam ex minori in ipsum. Et si ex aliquo in se maius producatur quam ex altero in se, ille erit altero maior.
+
+### 10
+
+Si duorum numerorum alter in alterum ducatur, minor producetur quam ex ductu aliorum duorum alterius in alterum quorum unus uno illorum est maior et reliquus reliquo maior vel illi aequalis; et maior producetur quam ex ductu aliorum duorum alterius in alterum quorum unus uno illorum est minor et reliquus etiam reliquo vel illi aequalis.
+
+### 11
+
+Si unus numerus in seipsum ducatur, maius producetur quam ex ductu minoris ipso in se, similiter et quam ex ductu illius in minorem ipso; similiter et quam ex ductu duorum unius in alterum quorum quilibet est eo minor, aut unus sibi aequalis et alter minor. Et minor producetur quam ex ductu ipsius in maiorem ipso, similiter et quam ex ductu duorum quorum quilibet est eo maior, aut unus sibi aequalis et alter maior, unius in alterum.
+
+### 12
+
+Si aliquid numeret aliquid eo maius, illud est pars aliquota illius.
+
+### 13
+
+Nulla pars aliquota alicuius est maior medietate eiusdem.
+
+### 14
+
+Si duorum inaequalium minus ex maiori detrahatur quoad possit, nihil remanebit aut remanebit minus minori.
+
+### 15
+
+Si detracto minori ex maiori quoad possit supersit aliquid, maius non erit multiplex minoris. Et si maior non fuerit multiplex minoris, minori ab ipso detracto quoad possit remanebit minus minori; residua tamen pars maioris ab illo quod supererit erit multiplex minoris vel illi aequalis.
+
+### 16
+
+Si duorum inaequalium maior fuerit multiplex minoris, minori ab ipso detracto quoad possit nihil supererit. Et si nihil supersit ex tali detractione, maior erit multiplex minoris.
+
+### 17
+
+Si minor ex maiori detrahatur pluries aut semel et aliquid remanserit ex maiori, tali detractione facta minor numerabit reliquam partem maioris ab illa quae remanebit, et erit illi aequalis aut submultiplex ad illam.
+
+### 18
+
+Si parte alicuius totius maiorata totum remanserit aequale, reliquam partem illius tantum deperdere quantum illa maiorata acquirit necesse est. Et si toto manente aequali continuo aliqua pars eius minoretur, reliquam tantum acquirere quantum illa deperdit necessarium erit. /17/
+
 
 
 <!--
@@ -572,5 +644,7 @@ Page 14: tangentur ] emend. tangetur (in sequentibus multae demonstrationes extr
 Page 14: necessaria ] emend. necenaria (pro quarum intellectionibus illa sunt necessaria)
 Page 14: reliquo ] del. reli liquo (est etiam reliquo maius); syllable repeated across the line break
 Page 14: aequali ] aequa- (vel sibi aequali [Signatura: "A v"] /15/); word divided across pages, completed with "li" from the first line of page 15
+Page 16: reliquo ] sic (et reliquus etiam reliquo vel illi aequalis); "minor" seems understood, parallel to "reliquo maior vel illi aequalis" in the preceding clause
+Page 16: acquirit ] leg. ad quirit (quantum illa maiorata acquirit necesse est); cf. "acquirere" in the following sentence
 
 -->

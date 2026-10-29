@@ -1297,11 +1297,35 @@ Pro solutione dico duo. Primo, quod ille non videt solem nec experitur se videre
 
 Sed tunc sunt hic duae difficultates, quarum prima est quomodo illud lumen videtur. Et arguitur sic: sensibile positum supra sensum, id est supra organum sensus, non facit sensationem; sed illud ponitur supra sensum; ergo. Respondetur negando quod illud ponatur supra sensum, quia non ponitur supra illos nervos, immo est in partibus exterioribus oculi.
 
-Secunda difficultas: si istud lumen videretur, sequeretur quod species visibiles sui viderentur. Sed hoc est falsum; ergo. Respondetur negando, scilicet quod species visibiles non possunt videri, quia dicit Commentator quod quando species visibiles reiciuntur ad opacum, tunc possunt videri.
+Secunda difficultas: si istud lumen videretur, sequeretur quod species visibiles sui viderentur. Sed hoc est falsum; ergo. Respondetur negando, scilicet quod species visibiles non possunt videri, quia dicit Commentator quod quando species visibiles reiciantur ad opacum, tunc possunt videri.
 
 Secundo arguitur sic: si sint nives in camera clausa et quis ingreditur illam cameram obscuram, tunc videbit nives, et tamen illae nives se habent ut absentes; ergo. Similiter arguitur de quibusdam vermibus de nocte lucentibus, et similiter de oculis cati, et caetera; igitur.
 
-Pro solutione multarum experientiarum notandum est quod sunt quaedam corpora quae habent lucem eis inhaerentem. Unde dicunt aliqui quod probabile est quod quodlibet coloratum in gradu excellenti habet aliquam lucem annexam. Et dico quod lux diffundit suos radios, vel suas species, usque ad organum, et tunc videtur illud corpus. Dico etiam quod ista quae communiter videntur habent magnam lucem eis inhaerentem /58a/
+Pro solutione multarum experientiarum notandum est quod sunt quaedam corpora quae habent lucem eis inhaerentem. Unde dicunt aliqui quod probabile est quod quodlibet coloratum in gradu excellenti habet aliquam lucem annexam. Et dico quod lux diffundit suos radios, vel suas species, usque ad organum, et tunc videtur illud corpus. Dico etiam quod ista quae communiter videntur habent magnam lucem eis inhaerentem. /58a/
+
+Notandum est ulterius quod dictum commune est omnium perspectivorum quod species visibiles multiplicantur ad modum figurae pyramidalis, id est ad modum figurae unius piri. Unde pirus habet duo, scilicet habet pyramidem; et communiter pyramis est basis, puta grossior pars, et conus vocatur pars superior, puta pars acutior. Tunc dicunt perspectivi quod visibile diffundit suas species usque ad visum ad modum figurae pyramidalis. Et hoc non est physicae considerationis.
+
+Quaeritur, nam dictum est, quod quando reiciatur lumen ad opacum potest videri, tunc quaeritur utrum praedictum lumen causet species per quam videatur, et utrum sit eiusdem rationis an ratio lumine. Dico primo quod causat speciem. Dico secundo quod illa species est alterius rationis a lumine. Similiter dico quod si species coloris videatur, hoc est per alias species alterius rationis.
+
+Et notandum est unum fundamentum pro tota philosophia:
+
+> Quandocumque video per experientiam quod propter adventum alicuius causatur aliquid quod non fuit prius, oportet dicere quod illud fuit causa partialis illius.
+
+Itaque oportet dicere unum sub disiunctione, videlicet vel quod illud sit causa, vel quod hoc sit passivum, mediante quo aliud operatur, vel quod illud est sine quo non habetur effectus eius. Sed nos videmus quod species coloris nisi terminentur ad opacum, et sic mirabile lumen excellens, et illud corpus sit politum et opacum; ideo oportet dicere quod illa duo requiruntur ad causandum visionem illius. /58b/
+
+Nunc ostendendum est de speciebus audibilibus a quo causantur. Unde illud a quo causantur species audibiles est sonus. Unde sonus est una qualitas successiva quae recipitur subiective in aere velociter moto et fracto, cuius aeris fractio accidit ex contactu duorum corporum vel aliquorum se habentium ut corpora.
+
+Dicitur notanter 'qualitas successiva', id est quae habet partem post partem, ita quod quando una pars est, reliqua non est. Et per hoc differt sonus ab aliis obiectis aliorum sensuum, quia obiecta aliorum sensuum non sunt qualitates successivae, sed bene qualitates permanentes. Tunc ponitur talis propositio:
+
+> Sonus multiplicat species per aerem.
+
+Et si quaeratur per aerem quomodo multiplicat, respondetur primo quod, si quaeris de tempore multiplicationis, quod successive multiplicat, quia non potest multiplicare nisi quomodo est; sed est successivus; igitur multiplicat successive. Sed si quaeratur quoad figuram, dico, ut dicunt naturales philosophi sive perspectivi, quod multiplicat suas species circulariter. Pro quo est advertendum quod cum sit sonus fiunt inundationes in aere, et in tali inundatione multiplicantur species audibiles. Et ideo ponendae sunt eius proprietates, quarum prima est:
+
+> Sonus multiplicat suas species successive.
+
+Secunda proprietas:
+
+> Sonus multiplicat suas species orbiculariter. /59a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1374,8 +1398,13 @@ Page 57a: turonus ] sic (et supponatur turonus infra); i.e. a coin of Tours ("to
 Page 57a: rationem ] conj. roēʒ (et hoc propter rationem specierum)
 Page 57a: ducere ] conj. dncore (non potest ducere in notitiam)
 Page 57b: illud ] emend. illa (sed illud ponitur supra sensum)
-Page 57b: reiciuntur ] conj. rciat∞ (quando species visibiles reiciuntur ad opacum)
+Page 57b: visibiles ] emed. visibiles (quando species visibiles reiciantur ad opacum)
+Page 57b: reiciantur ] conj. rciat∞ (quando species visibiles reiciantur ad opacum)
 Page 57b: opacum ] leg. oppaln̄ʒ (reiciuntur ad opacum)
 Page 57b: et caetera ] om. illegible abbreviated word after etc̄ (de oculis cati, et caetera)
+Page 58a: reiciatur ] conj. rciat∞ (quod quando reiciatur lumen)
+Page 58a: operatur ] conj. q aliudoꝑat∞ (mediante quo aliud operatur)
+Page 58b: multiplicationis ] emend. multiplicatiōe (si quaeris de tempore multiplicationis)
+Page 58b: sive ] conj. 8me (ut dicunt naturales philosophi sive perspectivi)
 
 -->

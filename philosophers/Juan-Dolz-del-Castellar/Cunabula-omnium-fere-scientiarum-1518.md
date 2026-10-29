@@ -544,7 +544,7 @@ Item capio unam partem illius medietatis diametri quae sit aliquota costae. Illa
 
 Quandocumque aliquid est pars aliquota partis aliquotae alicuius, illius est pars aliquota illius. Patet si aliquotiens sumptum reddat partem aliquotam alicuius, etiam aliquoties sumptum reddet illud totum. Ex hoc inferuntur aliqua.
 
-Primum: Quidquid est pars aliquota medietatis alicuius est pars aliquota ipsius. Patet quia si bis sumptum reddat medietatem, quater sumptum reddet totum ipsum, et si ter sumptum reddat medietatem alicuius, septies sumptum reddet ipsum totum.
+Primum: Quidquid est pars aliquota medietatis alicuius est pars aliquota ipsius. Patet quia si bis sumptum reddat medietatem, quater sumptum reddet totum ipsum, et si ter sumptum reddat medietatem alicuius, sexies sumptum reddet ipsum totum.
 
 Secundum: Quidquid est pars aliquota tertiae partis alicuius est pars aliquota /28b/ illius. Patet, nam si bis sumptum reddat tertiam alicuius, sexies sumptum reddet ipsum, et si ter sumptum reddat tertiam alicuius, novies sumptum reddet ipsum. Eodem modo valebis probare de quarta et quinta et aliis.
 
@@ -967,9 +967,51 @@ Ibi Lax ponit duplicem proportionalitatem aequam, scilicet directam et indirecta
 
 ### Lax
 
-Lax dicit quod ibi per antecedens oportet intelligere illud quod sic est antecedens quod nullo modo est consequens, et per consequens illud quod sic est consequens quod nullo modo est antecedens. Dat exemplum de directa /37a/, sic qualis est proportio a ad b talis...
+Lax dicit quod ibi per antecedens oportet intelligere illud quod sic est antecedens quod nullo modo est consequens, et per consequens illud quod sic est consequens quod nullo modo est antecedens. Dat exemplum de directa /37a/ sic: qualis est proportio a ad b talis est d ad e, et qualis est b ad c talis est e ad f; ergo qualis est a ad c talis est d ad f.
 
+De indirecta vero sic dat exemplum: qualis est proportio a ad b talis est e ad f, et qualis est b ad c talis est d ad e; ergo qualis est a ad c talis est d ad f. 
 
+Et dicit quod tunc reperitur directe similitudo inter aliquas proportiones continuatas quando proportio primi antecedentis ad primum consequens in una est similis proportioni primi antecedentis ad primum consequens in alia; tunc vero indirecte quando proportio primi antecedentis ad primum consequens in una est similis proportioni ultimi antecedentis ad ultimum consequens alterius.
+
+## Argumenta in proportiones
+
+### Arguitur
+
+Sed contra hunc modum declarandi arguitur: si omnes proportiones essent similes inter illos sex numeros, adhuc posset esse proportionalitas aequa, et tunc proportio primi antecedentis ad primum consequens esset similis proportioni primi antecedentis alterius ad consequens primum, et sic procederet directe; et etiam proportio primi antecedentis ad primum consequens primae continuationis esset similis proportioni ultimi antecedentis alterius ad ultimum consequens, et sic simul et semel procederetur directe et indirecte, quod non videtur apparens. Et si dicatur: tunc non esset proportionalitas aequa.
+
+Contra: oppositum patet ibi: 64, 32, 16 et 8, 4, 2, ubi omnes sunt similes proportiones, quia omnes duplae; tamen similis est proportio 64 ad 16 sicut 8 ad 2, quia utraque quadrupla; ideo videtur aequa secundum modum declarandi aliorum. Ideo quidquid sit in hoc non facio vim.
+
+Est difficultas si in istis est opus servare semper similitudinem omnium proportionum. Dico quod non; tam antecedentis quam consequentis. Patet in hoc modo arguendi: qualis est proportio 8 ad 4 talis est 2 ad 1; ergo qualis est 8 ad 2 talis est 4 ad 1. Primae proportiones sunt duplae et ultimae quadruplae. Sed quoad primas inter quas interponitur ly 'talis qualis', oportet quod sint similes, alias antecedens non esset verum; et ibi in istis modis arguendi praesupponitur quod propositiones de 'talis qualis' sunt verae.
+
+### Primum argumentum
+
+Sed arguitur contra praedicta probando divisiones proportionis esse nullas: aliqua est proportio quae nec est maioris inaequalitatis, nec aequalitatis, nec minoris inaequalitatis; ergo dicta nulla.
+
+Antecedens patet: volo quod a ponatur in infinitis locis; in uno sit ut 7, in secundo ut 7 cum dimidio, in tertio ut 7 cum dimidio et ultra quarta, et sic consequenter infra /37b/ 8, sic quod omnem quantitatem infra 8 attingat, sed non attingat quantitatem ut 8.
+
+Capio b ut 8: b ad a est proportio, quia b et a possunt comparari in aliquo utrique communi, et caetera, et unum est magnum, aliud etiam; tamen nulla illarum proportionum potest assignari. Patet Nam si aliqua maxime esset proportio maioris inaequalitatis; sed hoc non, nam quaero: vel est multiplex vel superparticularis, et caetera. Nullum istorum, nam maxime esset multiplex; sed hoc non, quia vel dupla vel tripla, et caetera. Sed nulla istarum potest assignari, ut patet intuenti, igitur.
+
+### Secundum argumentum
+
+Secundo arguitur: sit a unum infinitum b, unum finitum a ad b est proportio, et tamen nulla illarum; nam maxime proportio maioris inaequalitatis. Sed hoc non, quia quaeram vel multiplex vel superparticularis, et caetera. Et nulla istarum potest assignari, nam maxime multiplex. Sed arguitur quod non, nam neque dupla nec tripla, et sic consequenter, et caetera.
+
+### Tertium argumentum
+
+Tertio arguitur: sit a corpus octupedale, b sit aggregatum ex uno quadrupedali et uno bipedali; tunc a ad b est proportio, tamen nulla illarum. Patet inductive ut prius, igitur.
+
+### Quartum argumentum
+
+Quarto arguitur: totum ad quamlibet suam partem habet aliquam proportionem, et tamen non habet ad quamlibet suam partem nec maioris inaequalitatis, et caetera, ut patet ut prius eumdem inductive.
+
+### Quintum argumentum
+
+Quinto arguitur: totum est maius sua parte; ergo in aliqua proportione est maius sua parte; sed illa nec est maioris inaequalitatis nec aequalitatis, et caetera. Patet inducendo de omnibus, igitur.
+
+Item bos est perfectior asino; ergo in aliqua proportione, sed non potest illa assignari, quia si sit in duplo, gratia exempli, cum poterit dari brutum in duplo perfectius asino, illud igitur aequaretur bovi, et sic daretur brutum aeque perfectum ut bos. Et patet illa consequentia, nam si a est duplum ad b, et c sit duplum ad b, erit aequale a.
+
+Multa similia argumenta fieri possunt, sed per haec quod dicentur in solutionibus istorum patebit quid dicendum sit in aliis.
+
+Pro solutione primi adverte quod naturaliter ille casus non possunt dari; ideo si admittatur, loquendum erit supernaturaliter. Et ob consimilem casum destruitur unum quod communiter solet dici in philosophia, quod potentia activa terminatur per minimum in quod non potest; tamen si Sortes esset activitatis ut 8, et unum pondus ponderetur in infinitis locis, in primo esset resistentiae ut 7, in secundo esset resistentiae ut 7 cum dimidio, et sic consequenter ut positum est de alio, tunc hoc esset maximum pondus quod Sortes potest /38a/ portare
 
 <!--
 ## Apparatus Criticus Reference
@@ -1004,7 +1046,7 @@ Page 26a: phantastica ] emend. fantastica
 Page 26a: aequalis ] emend. et qualis 
 Page 27a: sesquipedalitatis ] emend. se imipedalitatis
 Page 27a: sesquipedalitas ] emend. se imipedalitas
-Page 28b: sexies ] emend. septies
+Page 28a: sexies ] emend. septies
 Page 32a: 15 ] emend. 16
 Page 32b: capias ] emend. tcapiaε
 Page 32b: Similiter ] conj. Simplex
@@ -1015,5 +1057,6 @@ Page 34a: licet ] conj. 13
 Page 36a: 1 ] emend. 2
 Page 36a: conclusione ] conj. ꝯōe
 Page 36b: 64 ] emend. 94
+Page 37b: octupedale ] emend. octupedalo
 
 -->

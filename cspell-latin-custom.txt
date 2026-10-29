@@ -1805,6 +1805,7 @@ obviationem
 obviationes
 occasionaliter
 occasionatus
+octupedale
 odiat
 odiendi
 odiendo
@@ -2201,6 +2202,7 @@ punibile
 Pyrrothi
 quadrivariam
 quadrupedale
+quadrupedali
 quadrupliciter
 quaesitiva
 quaesitivi

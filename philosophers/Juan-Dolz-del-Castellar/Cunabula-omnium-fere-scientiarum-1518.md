@@ -279,7 +279,7 @@ Dico secundo: quando dicitur in meis *Terminis* "licet sit propositio falsa", il
 
 Vis te penitus diffamare ostendendo te ignarum logicum, et minus eruditum grammaticum. Nescis cognoscere nisi unum suppositum verbi, ubi plura sint quae possint reddere in sensu grammaticali. Dictis tuis iuvenibus, carissimi, advertite ne incidatis in foveam. Ecce qualis amor videatis, quo amore vos persequitur, mittendo in vobis errores. Iste est verus deceptor et qui dolus recte nuncupatur. Vos videte, res est luce clarior.
 
-Tertio: possumus dicere propositio in uno libro reperta debet sumi ad intentionem /21a/ scribentis, sicut dicunt doctores de iuramento ad intentionem iurantis, et de lege ad intentionem praecipientis. Poterat intendere "est propositio falsa", id est in propositione falsa praedicatur, sicut intransitiva potest reduci ad transitivam et e converso. Ideo cognosce tuum delictum et agas poenitentiam.
+Tertio: possumus dicere propositio in uno libro reperta debet sumi ad intentionem /21a/ scribentis, sicut dicunt doctores de iuramento ad intentionem iurantis, et de lege ad intentionem praecipientis. Poterat intendere "est propositio falsa", id est in propositione falsa praedicatur, sicut intransitiva potest reduci ad transitivam et econverso. Ideo cognosce tuum delictum et agas poenitentiam.
 
 Frequenter hic aemulus dicit dicta cuiusdam esse erronea, a nemine nominando, et nullas facit impugnationes, sed dicit "non sunt digna ut impugnentur" quando nescit impugnare. Si posuisset impugnationes, formaliter respondissem.
 
@@ -1125,7 +1125,7 @@ Posset ibi quaeri utrum ad proportionalitatem requiratur omnium proportionum sim
 
 ## De proportionalitatibus
 
-Dico quod sic: proportionalitas et proportio habent se ut superius et inferius. Omnis proportionalitas est proportio et non e converso, ut assentias probo ratione. Prima: proportionalitas est quantitatum habitudo; ergo est proportio. Antecedens patet: proportionalitas est proportionum habitudo, proportiones sunt quantitas, quia quantitas discreta, quia numerus, igitur.
+Dico quod sic: proportionalitas et proportio habent se ut superius et inferius. Omnis proportionalitas est proportio et non econverso, ut assentias probo ratione. Prima: proportionalitas est quantitatum habitudo; ergo est proportio. Antecedens patet: proportionalitas est proportionum habitudo, proportiones sunt quantitas, quia quantitas discreta, quia numerus, igitur.
 
 Et nota quod etiam proportionalitates positae geometrice et aliae possunt reperiri inter excessus proportionum et proportiones proportionum, sicut inter excessus numerorum et proportiones numerorum, et omnino eodem modo loqui. Multa alia obticeo, quia nostro proposito impertinentia admodum, quae in geometria et arithmetica videri debent.
 
@@ -1436,7 +1436,7 @@ Tertium: quando ponitur casus de divisione alicuius corporis per partes proporti
 
 Quartum praeambulum: partes proportionales accipi minoribus terminatis versus aliquod extremum nihil est aliud quam capi minores versus illud extremum, et proportionabiliter de maioribus.
 
-Quintum praeambulum: numquam datur ultima pars proportionalis secundum ordinem sive secundum extremum versus quod capiuntur minores. Quod notanter addo, quia aliqui dicunt quod, divisa hora sequenti per partes proportionales minoribus terminatis versus hoc instans, quae est prima ordine e converso versus nos vocatur ab eis ultima, incipiendo a nobis; prima vero semper datur incipiendo a maioribus, saltem prima secundum talem divisionem, licet non simpliciter, quia quacumque data alia secundum aliam divisionem est illa prior.
+Quintum praeambulum: numquam datur ultima pars proportionalis secundum ordinem sive secundum extremum versus quod capiuntur minores. Quod notanter addo, quia aliqui dicunt quod, divisa hora sequenti per partes proportionales minoribus terminatis versus hoc instans, quae est prima ordine econverso versus nos vocatur ab eis ultima, incipiendo a nobis; prima vero semper datur incipiendo a maioribus, saltem prima secundum talem divisionem, licet non simpliciter, quia quacumque data alia secundum aliam divisionem est illa prior.
 
 Sextum praeambulum: solum corpus finitum potest dividi per partes proportionales. Patet, quia, ut patebit inferius, divisio partis proportionalis debet fieri. Et sic octupla est sesquialtera ad quadruplam, et proportionabiliter poteris de aliis probare. Sed addo adhuc aliqua super alio articulo.
 

@@ -596,7 +596,7 @@ Id est cuius effectus non est alicuius gratia sive non est notabilis bonitatis v
 
 Item causarum quaedam vocantur propinquae, quaedam remota. Unde causa remota est quae communi nomine nominatur vel inter quam et suum effectum multae interiacent causae. Exemplum ut domificator dicitur causae remota domus, quia communi nomine nominatur. Et etiam effectus vocatur communisque communi nomine nominatur, dicendo domus, quia domificator et domus sunt termini communes. Notandum quod causa remota vocatur causa universalis et effectus etiam vocatur universalis, de quo effectu dat Aristoteles secundo *Physicorum* talem regulam:
 
-> Si aliquis quaerat per causarum universalem respondens per effectum universalem, et e contra.
+> Si aliquis quaerat per causarum universalem respondens per effectum universalem, et econtra.
 
 Ut si quaerat quis fecit domum respondendum est quod domificator, et de causa particularis datur ab ipso regula per oppositum. Querenti de effectu particularis, id est de effectu qui nominatur nomine simpliciter respondendum sibi per causam particularem, ut quaerenti quis fecit hanc domum, dico quod domificator. Notandum quod in philosophia non solum vocamus causam universalem illam quae communi nomine nominatur, sed etiam illam quae producit plures effectus differentes specie, quia si sint duae causae et una potest producere  plures effectus differentes specie quam alliam, illa vocatur universalior, ut sol et Deus dicuntur causae universales, sed Deus propter dicta est causa universalior.
 

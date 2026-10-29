@@ -593,6 +593,54 @@ Si minor ex maiori detrahatur pluries aut semel et aliquid remanserit ex maiori,
 
 Si parte alicuius totius maiorata totum remanserit aequale, reliquam partem illius tantum deperdere quantum illa maiorata acquirit necesse est. Et si toto manente aequali continuo aliqua pars eius minoretur, reliquam tantum acquirere quantum illa deperdit necessarium erit. /17/
 
+### 19
+
+Si aliquod totum ex pluribus partibus duabus adaequate resultet, et illo continuo remanente aequali una illarum partium minoretur et alia tantum acquirat sicut illa deperdit, totum residuum ab illis manebit continuo aequale.
+
+### 20
+
+Si numerum datum numerus multiplicet idemque productum dividat, numerum datum redire, et econtra. Si aliquis numerus datum numerum dividat et quod provenit rursum multiplicet, itidem numerum datum redire.
+
+### 21
+
+Si primum pluries contineatur in secundo quam tertium in quarto, et primum totiens adaequate contineatur in aliqua parte secundi sicut tertium in aliqua certa parte quarti continetur, primum pluries continebitur in residua parte secundi quam tertium in residua parte quarti contineatur.
+
+## Dignitatibus et petitionibus quae communiter solent poni aliquas
+
+alias adiecimus, ut facilius possint comprehendi demonstrationes conclusionum ponendarum. Nec minus sunt notae ex se illae adiectae quam illae quae communiter poni solent.
+
+## Sed circa illas aliqua notabis. In primis enim circa primam dignitatem
+
+adverte quod non solum illa in quantitatibus continuis aut discretis deservire potest, verum etiam in quibuscumque aliis in quibus aliquo modo maioritas aut minoritas reperiri potest: in activitatibus enim et resistentiis, et in intensionibus et remissionibus, et aliis multis. Eam intelligendo sicut intelligi debet, adeo per se nota erit sicut in quibuscumque aliis; diversimode tamen intelligi debet secundum quod ad diversa applicabitur. Et ita de omnibus aliis dignitatibus dicendum est. Non tamen spectat ad propositum illas omnes expositiones videre, nec etiam ad propositum spectat solvere rationes quae contra ipsas in rigore procedendo fieri possunt. Propter tamen causam superius tactam, ut puta propter demonstrationes tangendas in aliis a numeris, sic positae sunt dignitates et petitiones ut in aliis aeque bene sicut in numeris deservire possint.
+
+## Circa primam petitionem est advertendum quod non est ipsa sic
+
+intelligenda quod quocumque numero dato in quacumque proportione maioris inaequalitatis contingat sumere maiorem eo: hoc enim manifeste falsum est. Sed ad hunc sensum debet intelligi, quod quocumque dato in quacumque proportione multiplici contingit sumere maiorem eo, et ex consequenti quod in quocumque excessu contingit sumere maiorem ipso.
+
+## Circa quartam, quintam et sextam petitiones est advertendum
+
+quod in quibuscumque aliis a numeris illae deservient, esto quod quinta et sexta solum in numeris videantur procedere. Facile tamen possunt similes petitiones pro omnibus poni, quas propter brevitatem relinquimus, supponentes illas posse ad alia applicari quam ad numeros.
+
+Est ultra advertendum quod, sicut apparet ex Euclide secundo *Elementorum*, linea in lineam duci potest; alia tamen ratione linea in lineam diceretur duci quam numerus in numerum vel aliquid aliud in numerum. Hoc tamen non spectat ad propositum inquirere, sed solum hoc unum supponendum est: quod similia contingunt de ductu lineae in lineam sicut octava, nona, decima et undecima petitiones de ductu numeri in numerum ponunt, et propterea petitiones illae debite applicatae pro ductu lineae in lineam simili modo deservient. Omnes igitur petitiones et dignitates quae non specialiter pro numeris positae sunt pro quibuscumque indifferenter intelligantur; illae autem quae de numeris expresse ponuntur et ad alia applicari possunt pro omnibus in quibus deservire poterunt teneantur.
+
+## Circa ultimam petitionem adverte quod ipsa procedit de divisione
+
+prout est species algorismi strictissime loquendo adhuc.
+
+## Finaliter adverte circa istas dignitates et petitiones quod multae
+
+aliae possunt esse in his materiis dignitates: tot enim quot possunt esse propositiones notae ex terminis. Et possunt etiam esse multae aliae petitiones. Si tamen aliquis dubitaret de aliqua istarum petitionum, ita quod non videretur esse sufficienter nota ad hoc ut supponeretur pro demonstrationibus ponendis, quemadmodum posset alicui apparere de 12 petitione posita, quando ita contingeret, illae quae possent aliquo modo demonstrari immediate ex terminis efficerentur notae. Unde de illa sic constat: quia si minus numeret maius, cum non numeret ipsum per unitatem, quia tunc esset aequalis illi, numerabit ipsum per maiorem numerum unitate; et per consequens multiplicatum per maiorem unitate producet ipsum; et per consequens ex terminis pluries adaequate erit in illo, et ex consequenti erit pars aliquota illius. Et si forte simile contingeret de aliquibus aliis, quia facillima potest esse deductio, non est in illo insistendum.
+
+## Libri primi conclusiones
+
+### 1
+
+Quorumcumque duorum numerorum inaequalium minor est maioris pars aliquota aut partes aequales non communicantes sumptae secundum ipsum, quarum quaelibet est pars aliquota maioris ab ipso maiori denominata.
+
+## Sint
+
+*a* numerus minor et *b* maior. Tunc si *a* numeret *b*, ex 12 petitione *a* erit pars aliquota *b*. Si autem *a* non numeret *b*, cum unitas numeret *b*, non erit ipse *a* unitas, et per consequens erit maior unitate; et ex consequenti erit plures unitates aequales non communicantes sumptae secundum ipsum *a*, quarum quaelibet per 31 dignitatem est pars aliquota *b* ab ipso *b* denominata. Unde constat propositum. /18/
+
 
 
 <!--
@@ -646,5 +694,6 @@ Page 14: reliquo ] del. reli liquo (est etiam reliquo maius); syllable repeated 
 Page 14: aequali ] aequa- (vel sibi aequali [Signatura: "A v"] /15/); word divided across pages, completed with "li" from the first line of page 15
 Page 16: reliquo ] sic (et reliquus etiam reliquo vel illi aequalis); "minor" seems understood, parallel to "reliquo maior vel illi aequalis" in the preceding clause
 Page 16: acquirit ] leg. ad quirit (quantum illa maiorata acquirit necesse est); cf. "acquirere" in the following sentence
+Page 17: intelligenda ] emend. ingenlligenda (non est ipsa sic intelligenda quod quocumque numero dato)
 
 -->

@@ -1830,7 +1830,7 @@ In hoc decimo capitulo de aptissima disputationis argumentatione quae descensus 
 
 ### Omnis descensus debite factus est bona consequentia
 
-> Omnis descensus debite factus est bona consequentia, et e converso.
+> Omnis descensus debite factus est bona consequentia, et econverso.
 
 > Omnis ascensus debite factus est bona consequentia.
 
@@ -1886,7 +1886,7 @@ Similiter ista: "nullum animal est asinus", posito quod solus homo sit, est cont
 
 ### Cuiuslibet universalis verae singulares sunt verae extra insolubilia
 
-Sed dare aliquam universalem veram cuius singulares sint falsae extra insolubilium materiam non est possibile neque e converso, sicut dat quidam doctor \<Petrus de Aliaco\> istam: "neutrum contradictoriorum contingentium necessario est verum", quam dicit esse falsam eo quod sua contradictoria est vera, scilicet, ista alteratum contradictoriorum contingentium necessario est verum, et tamen quaelibet singularis est vera.
+Sed dare aliquam universalem veram cuius singulares sint falsae extra insolubilium materiam non est possibile neque econverso, sicut dat quidam doctor \<Petrus de Aliaco\> istam: "neutrum contradictoriorum contingentium necessario est verum", quam dicit esse falsam eo quod sua contradictoria est vera, scilicet, ista alteratum contradictoriorum contingentium necessario est verum, et tamen quaelibet singularis est vera.
 
 ### Neutrum contradictoriorum contingentium necessario est esse verum
 

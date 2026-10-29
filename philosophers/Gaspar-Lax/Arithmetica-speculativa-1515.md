@@ -443,7 +443,83 @@ Si aliquorum aliquae partes sint aequales vel eadem ipsis communis et residuae i
 
 ### 19
 
-Omne totum ex aliquibus compositum ex qualibet parte eius et differentia illius ad illam ad aequale resultat. Et quodlibet altero maius ex tali minori vel sibi aequali [Signatura: "A v"] /15/
+Omne totum ex aliquibus compositum ex qualibet parte eius et differentia illius ad illam ad aequale resultat. Et quodlibet altero maius ex tali minori vel sibi aequali [Signatura: "A v"] /15/ et differentia ipsorum adaequate resultat.
+
+### 20
+
+Cuiuslibet totius ad quamlibet suam partem differentia est residua pars eiusdem totius ab illa, et quamlibet suam partem per residuum eius ab illa excedit.
+
+### 21
+
+Quorumcumque duorum inaequalium inter quae aliquid mediat differentia ex differentiis eorum ad quodlibet medium inter illa adaequate resultat. Et si inter duo inaequalia plura medient inaequalia, differentia illorum ex omnibus differentiis intermediorum et illorum ad intermedia adaequate componetur.
+
+### 22
+
+Si fuerint duo inaequalia, differentia eorum minori addita vel a maiori ablata efficientur aequalia.
+
+### 23
+
+Si quorumcumque uni tantum addatur quantum ab altero eorundem subtrahitur, aggregatum ex illis remanebit aequale. Et si alicui tantum ex una parte addatur quantum ex eo ab alia subtrahitur, remanebit aequale.
+
+### 24
+
+Omne adaequate compositum ex duobus aequalibus non communicantibus ad quodlibet illorum est duplum, et illorum quodlibet est eius medietas. Et omne adaequate compositum ex tribus aequalibus non communicantibus ad quodlibet illorum est triplum, et ita deinceps.
+
+### 25
+
+Si aliquid adaequate componatur ex duobus non communicantibus et ad unum illorum sit duplum, ad reliquum etiam erit duplum, et erunt illa duo aequalia.
+
+### 26
+
+Quaecumque quae eidem vel aequalibus sunt aeque multiplicia vel aeque submultiplicia inter se sunt aequalia. Et ex consequenti, si aliqua sint inaequalia et unum illorum alicui tertio sit aliqualiter multiplex aut submultiplex, reliquum non erit eidem taliter multiplex aut submultiplex, nec alicui illi aequali. Et si aliquorum unum fuerit aliqualiter multiplex aut submultiplex alicui cui reliquum non est taliter multiplex aut submultiplex, illa sunt inaequalia.
+
+### 27
+
+Quicquid alicui est multiplex aut submultiplex cuilibet aequali illi est taliter multiplex aut submultiplex. Et quodlibet aequale ipsi alteri et cuilibet aequali illi erit taliter multiplex aut submultiplex.
+
+### 28
+
+Quaecumque quorum similes partes aliquotae sunt aequales sunt inter se aequalia; similiter et quaecumque quae aequalium sunt similes partes aliquotae; et quorumcumque aequalium similes partes aliquotae sunt aequales.
+
+### 29
+
+Quorumcumque inaequalium similes partes aliquotae sunt inaequales, et earum maior quae maioris illorum talis pars aliquota est, et quae minoris minor. Et quaecumque quorum inaequalia sunt similes partes aliquotae sunt inaequalia, et cuius maius illorum inaequalium talis pars aliquota est, est maius, et cuius minus, minus.
+
+### 30
+
+Si aliquid sit pars aliquota unius duorum et non sit similis pars aliquota alterius, illa sunt inaequalia. Et si fuerint duo inaequalia et aliquod tertium sit pars aliquota unius illorum, illud non erit tota pars aliquota alterius; et cuius unum inaequalium est pars aliquota, reliquum non est talis pars aliquota.
+
+### 31
+
+Cuiuslibet numeri unitas est pars aliquota ab ipso denominata aliquota, et quemlibet numerum vel unitatem unitas numerat.
+
+### 32
+
+Quilibet numerus totus est in serie ab unitate inchoando quota pars aliquota eius est unitas.
+
+### 33
+
+Quilibet numerus in unitatem ductus seipsum producit; similiter et in quemcumque unitas ducatur, ipsemet inde producetur.
+
+### 34
+
+Quanto pars aliquota alicuius a maiori numero denominatur, pars aliquota illius tanto minor est, et quanto a minore, maior.
+
+### 35
+
+Si quotcumque totidem aequalia, primum primum et secundum secundum et sic consequenter, vel idem aequaliter excedant vel aequaliter ab ipsis vel ipso excedantur, illa inter se sunt aequalia.
+
+### 36
+
+Quotiens aliquid in aliquo reperitur, totiens ab eo subtrahi potest; et quotiens aliquid ab aliquo subtrahi potest, totiens in illo reperitur.
+
+### 37
+
+Quaelibet quantitas totiens multiplicari potest ut quantilibet eiusdem rationis excedat.
+
+## Petitiones
+
+/16/
 
 
 

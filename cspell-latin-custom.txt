@@ -2255,6 +2255,7 @@ quidditativum
 quidditatum
 quiditativae
 quiescenter
+quietatum
 quinetiam
 Quinetiam
 quinies
@@ -2267,6 +2268,7 @@ quodlibeti
 quodlibetis
 Quodlibeto
 quodlibetum
+Quolibeto
 quomodolibet
 quoquomodo
 quotata

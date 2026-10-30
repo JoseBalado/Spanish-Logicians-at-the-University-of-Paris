@@ -641,6 +641,66 @@ Quorumcumque duorum numerorum inaequalium minor est maioris pars aliquota aut pa
 
 *a* numerus minor et *b* maior. Tunc si *a* numeret *b*, ex 12 petitione *a* erit pars aliquota *b*. Si autem *a* non numeret *b*, cum unitas numeret *b*, non erit ipse *a* unitas, et per consequens erit maior unitate; et ex consequenti erit plures unitates aequales non communicantes sumptae secundum ipsum *a*, quarum quaelibet per 31 dignitatem est pars aliquota *b* ab ipso *b* denominata. Unde constat propositum. /18/
 
+### Corollarium
+
+Ex praesenti constat quod quorumcumque duorum commensurabilium inaequalium minus est pars aliquota maioris, aut adaequate resultat ex aliquot partibus aequalibus non communicantibus quarum quaelibet est pars aliquota maioris. Quia si minus non sit pars aliquota maioris, saltem adaequate resultabit ex aliquot partibus aequalibus non communicantibus quarum quaelibet erit aequalis illi mensurae communi ipsi et maiori. Cum igitur quaelibet talis sit etiam pars aliquota maioris, constat propositum.
+
+### 2
+
+Si inaequales numeri aequalibus addantur aut aequales inaequalibus, erit compositorum differentia sicut differentia illorum inaequalium.
+
+## Sit *a*
+
+numerus aequalis *b*, sitque *c* maior *d*, et *e* eorum differentia; residua autem pars *c* ab illa differentia, quae erit aequalis *d*, sit *f*. Tunc dico quod differentia totius *ca* ad totum *db* est *e*. Quia differentia *ca* ad *fa* est *e*, ex quo *c* adaequate resultat ex *e* et ex *f*; modo *fa* per 17 dignitatem est aequalis toti *db*; ergo per 16 dignitatem differentia totius *ca* ad totum *db* est *e*, quod est propositum.
+
+### 1 corollarium
+
+Ex praesenti constat quod si aequales numeri ab inaequalibus auferantur et ex quolibet aliquid remaneat, erit remanentium differentia ut differentia compositorum ex illis remanentibus et ex illis ablatis. Quia si illa ablata iterum addantur illis remanentibus, per praesentem differentia compositorum erit sicut differentia illorum remanentium. Unde constat propositum.
+
+### 2 corollarium
+
+Patet insuper quod in quibuscumque aliis a numeris haec etiam verum habent quae praesens et primum corollarium in numeris proponunt. Eadem est enim in quibuscumque demonstratio.
+
+### 3
+
+Si ab aequalibus numeris inaequales auferantur et ex quolibet illorum aequalium aliquid remanserit, erit ablatorum differentia sicut differentia remanentium.
+
+## Sit *ab*
+
+numerus aequalis *cd* numero, et auferantur *a* maior ex *ab* et *c* minor ex *cd*, et remaneant *b* et *d*. Tunc dico quod differentia *b* ad *d* est ut differentia *a* ad *c*. Quia per 9 dignitatem *b* et *d* erunt inaequales, et *b* est minus *d*; alias per 18 dignitatem *ab* esset maius *cd*, quod est contra hypothesim. Si igitur differentia *a* ad *c* sit inaequalis differentiae *b* ad *d*, sit differentia *a* ad *c* maior, et ex *a* aufero tantum sicut est differentia *b* ad *d*, et illud addo *b*. Tunc per 22 dignitatem *b* erit aequalis *d*. Et quia minus quam erat differentia *a* maioris ad *c* minorem ablatum est ex *a*, *c* invariato, per 14 dignitatem *a* manebit inaequalis *c*; quare per 18 dignitatem tunc aggregatum ex *ab* erit inaequale *cd*. Cum igitur per 23 dignitatem *ab* manebit aeque magnus ut prius, sequitur quod prius non erit aequalis *cd*, quod est contra hypothesim.
+
+### 1 corollarium
+
+Ex praesenti apparet quod si ex additione aliquorum duorum inaequalium aliquibus duobus inaequalibus debeant effici aggregata aequalia, illorum inaequalium addendorum et illorum quibus debent fieri additiones differentiae debebunt esse aequales. Dato enim opposito huius, si postea illa addenda auferantur ab illis aggregatis, contingeret oppositum praesentis.
+
+### 2 corollarium
+
+Patet insuper quod in quibuscumque verum habent quae conclusio cum corollario in numeris proponunt. Eadem enim est in quibuscumque demonstratio.
+
+### 4
+
+Si aliqui numeri inaequales fuerint circum aliquem positi vel aequaliter ab eo distantes, maior illorum erit illo circa quem positi sunt maior, et minor erit eodem minor. Eritque ipsorum differentia dupla ad differentiam cuiuslibet illorum ad illum.
+
+## Prima
+
+pars patet quia, dato opposito eius, vel ambo essent illo maiores, vel ambo minores, vel minor esset illo maior et maior eodem minor. Non poterit hoc ultimum dari, quia tunc illud minus per 4 dignitatem deberet esse maius illo maiori, quod implicat. Si autem detur primum, tunc minor mediaret inter maiorem et illum, et per consequens non essent circa ipsum positi vel ab eo aequaliter distantes, quod est contra hypothesim. Et si detur secundum, tunc maior mediaret inter minorem et illum, et tunc non aequaliter ab illo distarent. Cum igitur, dato illius primae partis opposito, non possint se habere in ordine ad illum aliter quam aliquo istorum modorum, sequitur quod non poterit illius oppositum dari. Habetur igitur prima pars.
+
+Secunda autem patet, quia per 21 dignitatem differentia illorum adaequate resultat ex differentiis maximi ad medium et minimi ad medium. Cum igitur ex terminis illae sint aequales non communicantes, ex 24 dignitate illorum differentia ad quamlibet illarum erit dupla, quod est propositum secundae partis.
+
+### Corollarium
+
+Ex praesenti apparet quod in quibuscumque hoc verum habet, scilicet quod si duorum inaequalium ad idem tertium differentiae sint aequales, maius illorum erit illo tertio maius et minus illo tertio minus, eritque differentia illorum duorum dupla ad differentiam cuiuslibet illorum ad illud tertium. Eadem est penitus in quibuscumque demonstratio sicut in numeris.
+
+### 5
+
+Si duo numeri inaequales fuerint circum aliquem positi vel aequaliter ab eo distantes, ille est medietas compositi ex illis. Et si aliquis numerus sit medietas alicuius qui ex duobus inaequalibus adaequate resultat, quicumque duo inaequales ex quibus ille maior adaequate resultat sunt aequidistantes ab illo.
+
+## Sit *a*
+
+numerus circa quem sint positi *b* maior et *c* minor, ut aequaliter ab eo distantes, et *d* sit adaequate compositus ex *b* et *c*. Tunc dico primo quod *a* est medietas *d*. Dico secundo quod si *a* sit medietas *d*, et *d* adaequate resultet ex *b* maiori et *c* minori, *b* et *c* sunt aequidistantes ab *a*.
+
+Primum patet, quia ex terminis differentia *b* ad *a* est aequalis differentiae *a* ad *c*, et per praecedentem *b* est maius *a* et *c* minus *a*. Aufero ergo differentiam *b* ad *a* ex *b* et eam addo *c*. Tunc per 22 dignitatem *b* fiet aequalis *a*, et *c* similiter fiet aequalis *a*; quare per secundam dignitatem, illo facto, *b* et *c* erunt aequalia, et per 23 dignitatem *d* remanebit aeque magnum ut prius. Cum igitur tunc per 24 dignitatem *b* sit medietas *d*, erit tunc etiam *a* medietas *d*. Et quia *a* manebit invariatum, ut suppono, et *d*, ut probatum est, manebit aeque magnum ut iam est, sequitur quod *a* est iam medietas *d*, quod est primum. /19/
+
 
 
 <!--
@@ -695,5 +755,7 @@ Page 14: aequali ] aequa- (vel sibi aequali [Signatura: "A v"] /15/); word divid
 Page 16: reliquo ] sic (et reliquus etiam reliquo vel illi aequalis); "minor" seems understood, parallel to "reliquo maior vel illi aequalis" in the preceding clause
 Page 16: acquirit ] leg. ad quirit (quantum illa maiorata acquirit necesse est); cf. "acquirere" in the following sentence
 Page 17: intelligenda ] emend. ingenlligenda (non est ipsa sic intelligenda quod quocumque numero dato)
+Page 18: modorum ] del. modororum (aliquo istorum modorum); syllable repeated
+Page 18: patet ] emend. petet (Secunda autem patet, quia per 21 dignitatem)
 
 -->

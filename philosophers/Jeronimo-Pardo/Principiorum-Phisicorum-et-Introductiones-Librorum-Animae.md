@@ -1327,6 +1327,24 @@ Secunda proprietas:
 
 > Sonus multiplicat suas species orbiculariter. /59a/
 
+Tertia proprietas: sonus hoc modo se habet, nam primo causat suas species in organo auditus. Secundo, sonus causat suam notitiam sensitivam seu suam auditionem.
+
+Sed hic quaeritur an illa species sit causa auditionis audibilis. Ad hoc est duplex modus dicendi. Unus est qui dicit quod illa species non est causa auditionis, sed est unus effectus primus et requisitus ad auditionem; et iste modus est ipsius Scoti. Alius est modus ipsius Occam, qui dicit quod illa species partialiter, licet minus principaliter, est causa. Ex quo sequitur quod in vacuo nihil potest sentiri praeterquam a tactu.
+
+His suppositis, quaero aliquas quaestiones, quarum prima est utrum, quando fit aliquis sonus et sunt plures audientes, eundem sonum vel diversos audiant. Dico quod eundem sonum audiunt. Et ratio est a simili, quia sicut eundem colorem quem video videt ille et ille et ille, ita etiam eundem sonum audit ille et ille.
+
+Contra: alius sonus venit ad aures unius et alius ad aures alterius; ergo non est idem sonus. Respondetur quod idem sonus auditur per diversas species causatas in organis diversis: unde eadem albedo videtur per diversas species albedinis, ita idem sonus auditur per diversas species causatas in diversis organis.
+
+Quaeritur ulterius utrum sit possibile audire sonum quando sonus non est. Dico quod non, quia sensus exterior numquam habet actum suum circa non existens.
+
+Contra, et adduco experientiam: quando aliquis clamat /59b/ inter duos montes, videtur quod aliquis sibi respondet, et tunc sonus auditur, et non nisi sonus qui non est; igitur sonus qui non est auditur. Et quod ille non sit probatur, quia ille sonus durabit nisi quando perceptionem auditionem; igitur auditur aliquid quando non est.
+
+Pro solutione est notandum quod propter hoc argumentum dicit Buridanus quod sonus qui non est auditur, sed modicum ante fuit. Et si quaeras quomodo auditur, dico quod propter species audibiles quae per reflexionem causantur in organo. Et quando dicis, ergo sensus exterior habet notitiam sensitivam de obiecto non existente, distinguo: aut de obiecto absente per magnum tempus, et sic nego; aut de obiecto non existente per modicum tempus, et sic concedo.
+
+Ex quo infertur Buridanus quod termini significantes operationes sensuum exteriorum ampliant ad illud quod est vel ante modicum fuit, ut 'auditur', 'videtur', et caetera. Ut 'sonus auditur', id est sonus qui est vel modicum antea fuit auditur. Sed istum modum tenendi voluimus tenere, et ratio est quia ut diximus, et verum est, sensus exterior non potest habere nisi notitiam intuitivam; immo auditus tantum cognoscit intuitive. Sed si cognosceret aliquod absens, iam cognosceret abstractive.
+
+Sed pro declaratione notandum est quod sonus echo est sonus causatus per refractionem. Unde sicut visibile causat suas species per aliquod spatium, et si inveniat obstaculum, tunc illae species reflectuntur ad organum. Et adverte quod dicit Aristoteles, secundo *De anima*, quod semper fit reflexio talis /60a/
+
 <!--
 ## Apparatus Criticus Reference
 * conj.    (coniectura)  : Text is unreadable; this is an educated guess.
@@ -1406,5 +1424,9 @@ Page 58a: reiciatur ] conj. rciat∞ (quod quando reiciatur lumen)
 Page 58a: operatur ] conj. q aliudoꝑat∞ (mediante quo aliud operatur)
 Page 58b: multiplicationis ] emend. multiplicatiōe (si quaeris de tempore multiplicationis)
 Page 58b: sive ] conj. 8me (ut dicunt naturales philosophi sive perspectivi)
+Page 59a: notitiam ] conj. nvaʒ (causat suam notitiam sensitivam)
+Page 59a: auditionem ] conj. vditioeʒ (seu suam auditionem)
+Page 59a: nihil potest sentiri ] conj. mihilpi (in vacuo nihil potest sentiri)
+Page 59b: echo ] leg. echon (sonus echo est sonus causatus)
 
 -->

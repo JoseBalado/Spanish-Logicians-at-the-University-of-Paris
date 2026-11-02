@@ -1343,7 +1343,31 @@ Pro solutione est notandum quod propter hoc argumentum dicit Buridanus quod sonu
 
 Ex quo infertur Buridanus quod termini significantes operationes sensuum exteriorum ampliant ad illud quod est vel ante modicum fuit, ut 'auditur', 'videtur', et caetera. Ut 'sonus auditur', id est sonus qui est vel modicum antea fuit auditur. Sed istum modum tenendi voluimus tenere, et ratio est quia ut diximus, et verum est, sensus exterior non potest habere nisi notitiam intuitivam; immo auditus tantum cognoscit intuitive. Sed si cognosceret aliquod absens, iam cognosceret abstractive.
 
-Sed pro declaratione notandum est quod sonus echo est sonus causatus per refractionem. Unde sicut visibile causat suas species per aliquod spatium, et si inveniat obstaculum, tunc illae species reflectuntur ad organum. Et adverte quod dicit Aristoteles, secundo *De anima*, quod semper fit reflexio talis /60a/
+Sed pro declaratione notandum est quod sonus echo est sonus causatus per refractionem. Unde sicut visibile causat suas species per aliquod spatium, et si inveniat obstaculum, tunc illae species reflectuntur ad organum. Et adverte quod dicit Aristoteles, secundo *De anima*, quod semper fit reflexio talis /60a/ quod per illam audiatur. Unde illa reflexio non fit nisi in locis concavis, id est non est nata fieri ad audiendum nisi in locis concavis. Tunc pono talem conclusionem:
+
+> Ille sonus auditur per reflexionem.
+
+Et probabile est et tenere quod species soni audiuntur, nam non minus probabile est hoc, scilicet quod species audibiles audiantur, quam quod species visibiles videantur. Sed sic est quod nos diximus quod species visibiles videntur; ergo species audibiles audiuntur, sicut et sonus.
+
+Contra: ille sonus tunc non est; ergo non auditur. Patet antecedens, quia nos experimur quod prius audimus unum sonum, et deinde per modicum tempus audimus alium, et tunc plus non est; igitur.
+
+Pro solutione est notandum quod huius argumenti sunt multae solutiones, quarum prima ponit talem propositionem:
+
+> Probabile est quod remanent species in medio per aliquod parvum tempus obiecto absente, et tunc illae continuant alias species per quas illae species audiuntur.
+
+Et si arguatur: ergo species audibiles remanent sine subiecto, distinguo: aut per notabile tempus, et sic nego; aut per parvum tempus, et sic concedo. Et hoc concedit Gregorius in primo, qui dicit quod lumen potest manere per aliquod parvum tempus absente luminoso. Et ita videtur concedere de aliis speciebus quia similiter lumen est species luminis. Et tenendo hunc modum, conclusio quam posuimus non est vera.
+
+Alia solutio potest dari tenendo probabiliter quod ille sonus auditur. Pro quo quaeritur /60b/ talis quaestio: utrum, quando ista vox 'Petrus' profertur, sunt ibi multae voces quae sunt illa vox 'Petrus'. Videri potest probabiliter, ut dicit Hentisberus, quod cum profertur ista vox 'Petrus', sunt ibi multae voces, quarum quaelibet est 'Petrus', quarum una est prior quam alia. Et tunc probabile est quod posterius auditur una vox 'Petrus' quam alia, et semper ita est, licet non ita bene percipimus nisi de sono echo.
+
+Alia solutio potest dari, videlicet quod simul fit auditio ambarum. Et ponitur alia regula perspectivorum:
+
+> Illud quod videtur per lineam rectam et reflexam videtur posterius sentiri.
+
+Et ideo dico quod simul fit auditio, tamen decipimur, quia illa auditio fit tam per lineam rectam quam per reflexam, et videtur nobis ultimo audire. Omnes istae solutiones sunt probabiles.
+
+Tertio restat videre de speciebus odoris. Pro quo primo advertendum est quod odor est una qualitas parva existens subiective in corpore odorabili, nata percipi a tali potentia odorativa, ita quod sic est imaginandum, videlicet quod sicut iste color est subiective in pariete et natus est percipi a visu, sic etiam odor est subiective in aliquo corpore et natus est percipi ab odoratu.
+
+Sed adverte quod non apparet nobis ita esse de obiectis aliorum sensuum sicut de obiecto odoratus, quia dicit Aristoteles quod visus est inter omnes potentias exteriores potentia perfectior, quia plures distinctiones rerum nobis ostendit, vel plures res /61a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1427,6 +1451,5 @@ Page 58b: sive ] conj. 8me (ut dicunt naturales philosophi sive perspectivi)
 Page 59a: notitiam ] conj. nvaʒ (causat suam notitiam sensitivam)
 Page 59a: auditionem ] conj. vditioeʒ (seu suam auditionem)
 Page 59a: nihil potest sentiri ] conj. mihilpi (in vacuo nihil potest sentiri)
-Page 59b: echo ] leg. echon (sonus echo est sonus causatus)
 
 -->

@@ -1367,7 +1367,53 @@ Et ideo dico quod simul fit auditio, tamen decipimur, quia illa auditio fit tam 
 
 Tertio restat videre de speciebus odoris. Pro quo primo advertendum est quod odor est una qualitas parva existens subiective in corpore odorabili, nata percipi a tali potentia odorativa, ita quod sic est imaginandum, videlicet quod sicut iste color est subiective in pariete et natus est percipi a visu, sic etiam odor est subiective in aliquo corpore et natus est percipi ab odoratu.
 
-Sed adverte quod non apparet nobis ita esse de obiectis aliorum sensuum sicut de obiecto odoratus, quia dicit Aristoteles quod visus est inter omnes potentias exteriores potentia perfectior, quia plures distinctiones rerum nobis ostendit, vel plures res /61a/
+Sed adverte quod non apparet nobis ita esse de obiectis aliorum sensuum sicut de obiecto odoratus, quia dicit Aristoteles quod visus est inter omnes potentias exteriores potentia perfectior, quia plures distinctiones rerum nobis ostendit, vel plures res /61a/ ostenduntur visui quam alteri potentiae sensitivae exteriori. Hoc supposito, ponuntur proprietates odoris, quarum prima est:
+
+> Odor est quaedam qualitas permanens et fixa existens in corpore odorabili.
+
+Secunda proprietas:
+
+> Odor multiplicat suas species per medium, puta per aerem, et non per aquam nisi forte valde parum.
+
+Ex quo sequitur quod numquam bene percipitur nisi in aere.
+
+Tertia proprietas:
+
+> Odor causat suas species odoris in organo odoratus.
+
+Quarta proprietas:
+
+> Odor causat suam speciem in organo, tunc causat odorationem, id est illam sensationem quae vocatur odoratio.
+
+Quarto videndum est de tactu. Et primo videndum est quod est obiectum tactus. Unde dicunt communiter philosophi quod obiectum tactus suppletur per hoc disiunctum: frigiditas, caliditas, vel humiditas, vel siccitas.
+
+Sed contra hoc arguitur sic: durities percipitur a tactu, et tamen non illarum qualitatum aliqua; ergo male dicis. Respondetur quod non percipitur durities nisi in quantum percipitur siccitas.
+
+Contra: gravitas et levitas percipiuntur a tactu, et tamen non sunt aliquae illarum qualitatum; ergo. Respondetur ad hoc, ut dicit Gregorius in primo, quod gravitas et levitas non percipiuntur nisi in quantum percipitur motus, qui est sensibile commune.
+
+Tertio sic: si aliquis verberetur cum virgis, non est possibile quod illae quatuor qualitates faciunt sibi tantum malum; ergo est aliquid aliud.
+
+Pro solutione /61b/ istius dicit Scotus in tertio unam propositionem, scilicet:
+
+> Sensus tactus datus animali ut percipiat omne corruptibile naturae, et non solum caliditatem, frigiditatem, siccitatem et humiditatem.
+
+Pro maiori declaratione movetur dubium quod movet Occam, videlicet quid sentit ille qui aliquo vulnere afficitur. Respondet ipse quod facto vulnere causatur quaedam qualitas a corporibus superioribus quae est disconveniens, et percipitur ab ipso tactu. Vel potest dici aliter, ut dicit Scotus in tertio, quod sensus tactus sentit illam discontinuationem quam maxime in modo abhorret natura. Unde dico, ut ipse Scotus dicit in dicto tertio, quod solum sensus tactus datus fuit animali ut percipiat corruptionem et disconvenientiam naturae. Ex his sequitur quod sensus tactus non praesentialiter sentit quatuor praedictas qualitates.
+
+Ex his secundo inferuntur proprietates ipsius tactus, quarum prima est:
+
+> Tangibile diffundit suas species per medium, et illud est caro.
+
+Ex quo sequitur quod species tangibiles non diffunduntur per aerem nec per aquam.
+
+Secunda proprietas:
+
+> Tangibile diffundit suas species usque ad organum tactus, quod organum tactus sunt quidam nervi ad modum retis extensi per totum corpus.
+
+Tertia proprietas:
+
+> Tangibile causat suam motionem, id est suam sensationem, in potentia tactiva.
+
+Hoc supposito, est difficultas quid sensus tactus requirat species ad sentiendum, quando est aliquis vulneratus /62a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1451,5 +1497,7 @@ Page 58b: sive ] conj. 8me (ut dicunt naturales philosophi sive perspectivi)
 Page 59a: notitiam ] conj. nvaʒ (causat suam notitiam sensitivam)
 Page 59a: auditionem ] conj. vditioeʒ (seu suam auditionem)
 Page 59a: nihil potest sentiri ] conj. mihilpi (in vacuo nihil potest sentiri)
+Page 61b: sensus tactus ] del. sensus [illegible word, struck in the manuscript] tactus (quod solum sensus tactus datus fuit animali)
+Page 61b: praesentialiter ] conj. prenselier (sensus tactus non praesentialiter sentit quatuor)
 
 -->

@@ -1413,7 +1413,29 @@ Tertia proprietas:
 
 > Tangibile causat suam motionem, id est suam sensationem, in potentia tactiva.
 
-Hoc supposito, est difficultas quid sensus tactus requirat species ad sentiendum, quando est aliquis vulneratus /62a/
+Hoc supposito, est difficultas quid sensus tactus requirat species ad sentiendum, quando est aliquis vulneratus, /62a/ quod est illud quod diffundit suas species. Occam, vero timens istam difficultatem, dicit quod cum aliquis vulneratur, causatur aliqua qualitas in corporibus superioribus, quae extenditur usque ad organum tactus.
+
+Quinto videndum est de gustu, nunc videndum de speciebus gustabilibus. Pro quo est notandum quod sapor est quaedam qualitas quae est permanens et nata est percipi a potentia gustativa, et in subiecto saporoso, sicut color. Tunc ponuntur proprietates saporis, quarum prima est:
+
+> Sapor diffundit suas species per medium quod dicitur esse caro.
+
+Ex quo sequitur quod bene dicunt philosophi quod sunt duo sensus qui sentiunt per medium intrinsecum, scilicet gustus et tactus. Sed dicunt philosophi quod alii sensus sentiunt per medium extrinsecum, ut puta visus, auditus, olfactus, qui per aerem vel per aquam.
+
+Tertia proprietas:
+
+> Sapor diffundit suas species usque ad organum gustus.
+
+Ita quod species gustabilis subiective recipitur in organo gustus, quod organum gustus sunt quidam nervi principaliter existentes in lingua. Et in eodem instanti sapor causat suam sensationem in potentia gustativa, quae sensatio vocatur sensatio, id est gustatio. Et sic sunt ibi tria, scilicet species quae sunt primo in medio, et secundo in organo, et tertio in potentia gustativa, et hoc sit in eodem tempore.
+
+Hoc supposito, advertendum est quod aliquid dicitur sentiri duobus /62b/ modis: uno modo per se, alio modo per accidens. Seu, ut communiter dicitur, duplex est sensibile, scilicet per se et per accidens. Unde sensibile per se est illud quod potest causare suas species, sive partialiter sive totaliter, et per consequens potest causare suas sensationes. Ex quo sequitur quod nihil dicitur sensibile nisi possit causare suas species, et ideo ista consequentia non valet: "Hoc est sensibile; ergo est sensibile per se".
+
+Sed sensibile per accidens est illud quod non potest causare suas species nec sentitur, sed vocatur sensibile per accidens quia sibi inhaeret illud quod est sensibile per se, nec causat suam sensationem. Ut substantia parietis habet albedinem: illa substantia dicitur sensibile per accidens, ideo recipit sensibile per se. Et ideo ista consequentia non valet: "Hoc est sensibile per accidens; ergo est sensibile", sed bene econtra.
+
+Ulterius est notandum quod duplicia sunt sensibilia: quaedam sunt propria, alia vero communia. Propria sunt illa quae diximus, ut color, sonus, sapor, odor, et caetera, et ideo dicuntur propria quia ab uno sensu percipiuntur. Sed sensibile commune est illud quod a pluribus sensibus percipitur. Et sensibilia communia sunt quinque, ut dicit Aristoteles secundo *De anima*, scilicet numerus, figura, magnitudo, motus et quies.
+
+De istis sensibilibus communibus quaeritur talis quaestio: utrum ista sensibilia quinque sunt sensibilia per se. Dicitur communiter quod sic.
+
+Contra: numerus non est sensibile per se; ergo. Antecedens patet, quia illud quod est sensibile per se potest /63a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1499,5 +1521,9 @@ Page 59a: auditionem ] conj. vditioeʒ (seu suam auditionem)
 Page 59a: nihil potest sentiri ] conj. mihilpi (in vacuo nihil potest sentiri)
 Page 61b: sensus tactus ] del. sensus [illegible word, struck in the manuscript] tactus (quod solum sensus tactus datus fuit animali)
 Page 61b: praesentialiter ] conj. prenselier (sensus tactus non praesentialiter sentit quatuor)
+Page 62a: Tertia ] sic (Tertia proprietas); no second property is numbered
+Page 62b: est ] emend. ī (duplex est sensibile)
+Page 62b: diximus ] conj. dxim9 (Propria sunt illa quae diximus)
+Page 62b: Antecedens ] conj. ans (ergo. Antecedens patet, quia illud)
 
 -->

@@ -1435,7 +1435,45 @@ Ulterius est notandum quod duplicia sunt sensibilia: quaedam sunt propria, alia 
 
 De istis sensibilibus communibus quaeritur talis quaestio: utrum ista sensibilia quinque sunt sensibilia per se. Dicitur communiter quod sic.
 
-Contra: numerus non est sensibile per se; ergo. Antecedens patet, quia illud quod est sensibile per se potest /63a/
+Contra: numerus non est sensibile per se; ergo. Antecedens patet, quia illud quod est sensibile per se potest /63a/ causare suas proprias species, sed numerus non potest causare suas species; ergo non est sensibile per se.
+
+Item arguitur de quiete, quia vel capitur pro privatione, et sic nihil est quies illa, et per consequens non potest causare suas species, et ultra, ergo non est sensibile per se; vel capitur pro corpore quiescente, et sic est difficultas an sentitur illa quantitas vel substantia. Non substantia; ergo quantitas; et si quantitas, non est sensibile proprium, sed commune.
+
+Pro solutione istius ponuntur aliquae propositiones, quarum prima est:
+
+> Quies non est sensibile per se.
+
+Et hoc capiendo quietem prout nihil est, id est formaliter, quia sic est privatio.
+
+Contra: vel quies est sensibilis a sensu exteriori vel non. Si non, male dicit Aristoteles.
+
+Pro solutione notandum est quod quies et omnis privatio non est cognoscibilis nisi argumentative. Ex quo sequitur quod erroneum est dicere quod quies est sensibilis ab aliquo sensu, nec ab exteriori nec ab interiori. Dico tamen quod philosophi multa vocaverunt sensibilia non quia sunt sensibilia, sed quia per quoddam argumentum deducuntur ex sensibilibus per quandam argumentationem. Exemplum de quiete: quies enim vocatur sensibile ab Aristotele, non quia de facto est sensibilis, quia eius cognitio deducitur ab aliquo sensibili.
+
+Secunda propositio probabilis:
+
+> Motus etiam non est sensibile per se.
+
+Patet, quia si motus sit res quae movetur, tunc non est sensibile, quia est substantia, et tunc non diffundit suas species. Aut tenetur, ut tenent reales, quod motus /63b/ est una quantitas realiter distincta a mobili et successiva, et si hoc teneatur, adhuc difficile est tenere quod diffundat suas species.
+
+Contra: Aristoteles dicit quod motus est sensibile commune; ergo male dicis. Nego consequentiam. Et ratio est quia quando Aristoteles dicit quod motus est sensibilis, capitur ibi large sensibile pro illo quod est sensibile vel cuius cognitio deducitur ex sensibilibus.
+
+Tertia propositio:
+
+> Difficile est salvare quod numerus sit sensibile a sensu exteriori.
+
+Et ideo est quia difficile est salvare quod numerus effundit suas species. Et simile argumentum potest fieri sicut de aliis, et similiter datur solutio sicut prius. Et dico quod phantasia vel intellectus cognoscit numerum.
+
+Quarta propositio:
+
+> Difficile est salvare quod figura sit unum sensibile per se a sensu exteriori.
+
+Et ideo est quia si teneatur quod figura est unus respectus, puta ordo partium ad partes loci, difficile est quod diffundat suas species. Et si sit res figurata, tunc certius est quod non causat suas species, quia est substantia.
+
+Quinta propositio:
+
+> Probabile est defendere, ut dicit Scotus, quod quantitas seu magnitudo est unum sensibile per se a sensu exteriori.
+
+Contra: nihil est sensibile per se nisi possit causare suas species; sed quantitas non potest producere qualitatem; ergo non potest producere suas species. Patet minor, quoniam imperfectius non potest producere perfectius; sed quantitas est imperfectior qualitate; ergo quantitas non potest producere qualitatem, et per consequens nec suas /64a/
 
 <!--
 ## Apparatus Criticus Reference

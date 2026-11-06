@@ -1473,7 +1473,35 @@ Quinta propositio:
 
 > Probabile est defendere, ut dicit Scotus, quod quantitas seu magnitudo est unum sensibile per se a sensu exteriori.
 
-Contra: nihil est sensibile per se nisi possit causare suas species; sed quantitas non potest producere qualitatem; ergo non potest producere suas species. Patet minor, quoniam imperfectius non potest producere perfectius; sed quantitas est imperfectior qualitate; ergo quantitas non potest producere qualitatem, et per consequens nec suas /64a/
+Contra: nihil est sensibile per se nisi possit causare suas species; sed quantitas non potest producere qualitatem; ergo non potest producere suas species. Patet minor, quoniam imperfectius non potest producere perfectius; sed quantitas est imperfectior qualitate; ergo quantitas non potest producere qualitatem, et per consequens nec suas /64a/ species. Patet quod sunt qualitates. Pro isto arguo. Duo sunt videnda: primo videndum est an quantitas sit imperfectior qualitate; ad quod respondeo quod quaelibet qualitas est perfectior quantitate; secundo videndum est an illa propositio sit vera, scilicet quod imperfectius non potest producere perfectius. Respondetur quod sic debet glosari: imperfectius non potest producere perfectius tamquam agens principalius. Unde dico quod imperfectius, puta albedo, producit perfectius, puta suam notitiam, et non est agens principale in illa productione. De speciebus albedinis dico quod non sunt perfectiores albedine; tunc dico quod si teneamus quod quantitas producat suas species, diceremus quod species quantitatis principalius causantur a qualitate et a quantitate.
+
+Contra: omnes philosophi dicunt quod quantitas et materia prima sunt steriles, id est non possunt agere. Ergo male dicis. Nego consequentiam, et ratio est quia quando philosophi dicunt quod quantitas et materia prima sunt steriles, intelligunt quod sunt steriles ad agendum actione reali et non actione intellectuali vel intentionaliter.
+
+Notandum ulterius quod sensibile proprium non potest agere nisi in sensibile commune, et hoc maxime in sensu vel intellectu, et ponitur talis regula:
+
+> Omnes philosophi dicunt quod quantitas est ratio agendi et patiendi omnium corporalium.
+
+Id est quantitas est illud quod requiritur ad hoc quod agens corporeum patiatur, et per hoc solvuntur aliquae difficultates seu quaestiones.
+
+Prima utrum si albedo esset separata /64b/ a quantitate, posset sentiri. Dico quod non. Contra: quantitas non concurrit cum albedine ad causandum speciem albedinis; ergo albedo sine quantitate potest sentiri. Nego consequentiam, et ratio est quia licet non concurrat ad causandum suam speciem. Tamen est ratio quare requiritur ad hoc quod possit agere; ideo est causa sine qua non.
+
+Alia est species phantastica, quae vocatur apud doctores 'phantasma'. Unde phantasma est species rei existens in organo phantasiae vel in spiritibus ipsius animalis. De quo phantasmate pono tres propositiones.
+
+> Phantasma non est actus phantasiandi seu imaginatio aliqua, quia nos nihil cogitantes habemus plura phantasmata, et non habemus tales actus.
+
+Secunda propositio:
+
+> Phantasma non est habitus.
+
+Et huius ratio est quia habitus causatur ex actibus, sed phantasma non causatur ex actibus. Unde ponitur talis propositio generalis:
+
+> Si aliquis habitus habeat sive speciem intelligibilem non potest exire in actum, sive non potest elicere suos actus, quod idem est.
+
+Tertia propositio:
+
+> Phantasia est aliquid quod potest remanere et potest causare actuum phantasiandi abstractive.
+
+De ista igitur specie dubitatur. An species phantastica sit alterius speciei a speciebus sensibilibus sensuum exteriorum. De hoc est problema inter doctores. Unde dicunt quod phantasmata non sunt alterius speciei a speciebus sensibilibus sensuum exteriorum. Et dicunt quod phantasmata deferuntur ad phantasiam /65a/
 
 <!--
 ## Apparatus Criticus Reference

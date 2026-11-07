@@ -1501,7 +1501,37 @@ Tertia propositio:
 
 > Phantasia est aliquid quod potest remanere et potest causare actuum phantasiandi abstractive.
 
-De ista igitur specie dubitatur. An species phantastica sit alterius speciei a speciebus sensibilibus sensuum exteriorum. De hoc est problema inter doctores. Unde dicunt quod phantasmata non sunt alterius speciei a speciebus sensibilibus sensuum exteriorum. Et dicunt quod phantasmata deferuntur ad phantasiam /65a/
+De ista igitur specie dubitatur. An species phantastica sit alterius speciei a speciebus sensibilibus sensuum exteriorum. De hoc est problema inter doctores. Unde dicunt quod phantasmata non sunt alterius speciei a speciebus sensibilibus sensuum exteriorum. Et dicunt quod phantasmata deferuntur ad phantasiam /65a/, id est ad organum eius, per organa sensuum exteriorum. Iste modus est probabilis.
+
+Dico tamen, sequendo modum communem, quod phantasmata sunt alterius speciei a speciebus sensuum exteriorum. Et fundo me in una ratione, videlicet quod multa causant phantasmata quae non possunt causare species sensibiles sensuum exteriorum; ergo phantasmata non sunt eiusdem rationis cum speciebus sensibilibus. Patet, quia operationes sensuum exteriorum, puta visio, auditio, possunt causare phantasmata, et tamen non possunt causare vel producere species sensibiles sensuum exteriorum; ergo non sunt eiusdem speciei.
+
+Tunc ponuntur proprietates specierum phantasiarum, quarum prima est:
+
+> Probabile est dicere quod phantasmata sunt alterius rationis a speciebus sensibilibus sensuum exteriorum.
+
+Secunda proprietas:
+
+> Probabile est dicere quod phantasmata causantur a speciebus sensibilibus sensuum exteriorum.
+
+Et hoc intelligendo de phantasmatibus quae sic se habent quod eorum obiecta possunt causare species sensibiles sensuum exteriorum, quod notanter additur quia visio percipitur a phantasia et habet phantasma, et illud phantasma repraesentat sua obiecta simpliciter cum conditionibus individuantibus.
+
+Contra: phantasma non repraesentat; ergo nego consequentiam. Et ratio est quia iste modus dicendi sic debet glosari: phantasma repraesentat, id est causat notitiam per quam notitiam repraesentatur seu cognoscitur res simpliciter cum conditionibus individuantibus. Et hoc etiam debet /65b/ intelligi de aliis speciebus a phantasticis.
+
+Quarta proprietas:
+
+> Phantasmata recipiuntur in quibusdam nervis, vel in quibusdam spiritibus qui sunt in organo phantasiae.
+
+De spiritibus dicunt doctores propter aliquas experientias. Pro cuius declaratione quaeritur talis quaestio: utrum phantasia faciat casum in proprio corpore, id est utrum phantasia possit producere in corpore illo cuius est illud de quo ipsa phantasiatur, vel in alio corpore.
+
+Pro quo est advertendum quod in omnibus istis quae videmus in phantasia oportet dare rationem dicendo quod illa sunt propter tales species phantasticas. Et ponuntur aliquae propositiones probabiles.
+
+Prima propositio probabilis:
+
+> Species quae dicitur phantastica et etiam species sensibilis sensus exterioris habent talem virtutem alterandi sicut res a qua causantur, licet non in tantum in perfecto gradu, sed remisse, ut species caloris habent virtutem calefaciendi sicut calor, licet non in tam perfecto gradu.
+
+Et adverte circa istam propositionem quod istam propositionem ponunt aliqui doctores ad salvandum dictum Aristotelis: "Excellens sensibile corrumpit sensum".
+
+Pro cuius declaratione est advertendum quod difficultas est apud doctores quomodo excellens sensibile corrumpit sensum. Et de hoc sunt modi dicendi. Unus est quem ponit Scotus in tertio, et dicit quod excellens sensibile non corrumpit sensum nisi de per accidens, pro quanto causando sensationem corrumpit sensum, id est per quam corrumpitur dispositio qualitativa. Et infert Scotus /66a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1591,5 +1621,6 @@ Page 62a: Tertia ] sic (Tertia proprietas); no second property is numbered
 Page 62b: est ] emend. ī (duplex est sensibile)
 Page 62b: diximus ] conj. dxim9 (Propria sunt illa quae diximus)
 Page 62b: Antecedens ] conj. ans (ergo. Antecedens patet, quia illud)
+Page 65b: cuius est ] conj. enȝ9 ē (in corpore illo cuius est illud)
 
 -->

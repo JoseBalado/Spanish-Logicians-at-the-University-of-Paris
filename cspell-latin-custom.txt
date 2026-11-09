@@ -229,6 +229,7 @@ appropriatam
 appropriati
 appropriatum
 approximata
+approximatae
 approximatam
 approximatione
 approximationem
@@ -715,6 +716,7 @@ defluxae
 defluxam
 degeneratione
 deglutitio
+delativus
 denominabili
 deobligatus
 deobligaverit

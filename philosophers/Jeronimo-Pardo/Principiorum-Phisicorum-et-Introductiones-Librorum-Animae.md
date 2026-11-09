@@ -1531,7 +1531,31 @@ Prima propositio probabilis:
 
 Et adverte circa istam propositionem quod istam propositionem ponunt aliqui doctores ad salvandum dictum Aristotelis: "Excellens sensibile corrumpit sensum".
 
-Pro cuius declaratione est advertendum quod difficultas est apud doctores quomodo excellens sensibile corrumpit sensum. Et de hoc sunt modi dicendi. Unus est quem ponit Scotus in tertio, et dicit quod excellens sensibile non corrumpit sensum nisi de per accidens, pro quanto causando sensationem corrumpit sensum, id est per quam corrumpitur dispositio qualitativa. Et infert Scotus /66a/
+Pro cuius declaratione est advertendum quod difficultas est apud doctores quomodo excellens sensibile corrumpit sensum. Et de hoc sunt modi dicendi. Unus est quem ponit Scotus in tertio, et dicit quod excellens sensibile non corrumpit sensum nisi de per accidens, pro quanto causando sensationem corrumpit sensum, id est per quam corrumpitur dispositio qualitativa. Et infert Scotus /66a/ quod nullum sensibile ut sensibile corrumpit sensum, sed in quantum habet aliquam actionem realem alterativam organum. Aliter vero dicunt quod species multum intensa nata est corrumpere dispositionem qualitativam organi, et per consequens corrumpitur organum. Et hoc volumus tenere ita quod sic debet glosari: "Excellens sensibile corrumpit sensum", id est excellens sensibile causat unam speciem intensam quae corrumpit sensum.
+
+Sed contra praedictam propositionem arguitur sic: si species caliditatis haberet virtutem calefaciendi, vel esset causa univoca vel aequivoca. Dico quod habet virtutes calefaciendi ut causa aequivoca et ut univoca, et non semper potest producere illum calorem, sed cum certo subiecto et in certis motionibus. Ita quod sicut caliditas virtualis piperis habet vim calefaciendi, sed non in quocumque subiecto et cum certis modis sive motionibus, id est dispositionibus, et ita dicendum est de specie phantastica et de specie sensibili sensus exterioris, et forte de specie intelligibili.
+
+Secunda propositio quam ponit Gerson:
+
+> Sicut aer est delativus, id est potest deferre et recipere species luminis et caloris alias species, sicut species phantastica potest deferri in quibusdam spiritibus animalis seu in quibusdam humoribus.
+
+Ex quo sequitur quod sicut species sensibiles sensus exterioris habent duplex subiectum, puta medium aerem vel aquam vel carnem, et habent etiam organum, ita species phantastica potest habere /66b/ duplex subiectum, unum quidem spiritus quosdam vel spiritum quemdam, aliud organum phantasiae, vel, si non, potest habere humores quosdam.
+
+Et quaeritur an species illa phantastica existens in humoribus possit causare notitiam abstractivam in phantasia. Exemplum, ut species parietis existens in illis humoribus possit causare notitiam abstractivam albedinis. Dico quod sic, et hoc sit indebite approximata, dato quod non informet organum phantasiae. Ex quo sequitur quod species phantasticae possunt deferri in illis humoribus sive spiritibus.
+
+Unde iste est modus quo angeli et daemones possunt mirabiles phantasias facere sive imaginationes, ut unus habet speciem phantasticam intensissimam. De altero dico quod daemon capit humorem cum illa specie in tali loco quod ille bonus vir non facit nisi cogitare de auro, et cum illo phantasmate tentat eum.
+
+Et inde dant aliqui causam quare est quod unus somniat de rebus de quibus est imaginandum, patet quod non cogitavit, immo de quibus numquam cognovit. Respondetur quod ideo est quia illae species phantastior de illis rebus sunt magis approximatae quam aliae, ideo movetur ille talis ad somniandum de illis rebus.
+
+Tertia propositio:
+
+> Phantasmata seu species phantasticae possunt duobus modis deferri: ad delationem sui subiecti.
+
+Pro quo ponitur talis propositio:
+
+> Non potest deferre accidens quin deferatur subiectum.
+
+Ex quo sequitur quod per delationes illorum humorum in quibus recipiuntur illa phantasmata potest deferri species phantastica, et ille est /67a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1622,5 +1646,13 @@ Page 62b: est ] emend. ī (duplex est sensibile)
 Page 62b: diximus ] conj. dxim9 (Propria sunt illa quae diximus)
 Page 62b: Antecedens ] conj. ans (ergo. Antecedens patet, quia illud)
 Page 65b: cuius est ] conj. enȝ9 ē (in corpore illo cuius est illud)
+Page 66a: Gerson ] conj. geιſſon (Secunda propositio quam ponit Gerson)
+Page 66a: Sicut aer est delativus ] conj. 8um aere dela-/tīuo (Sicut aer est delativus, id est potest deferre)
+Page 66b: deferri ] emend. differre (species phantasticae possunt deferri in illis humoribus)
+Page 66b: imaginandum ] conj. ē magīʒ (de rebus de quibus est imaginandum)
+Page 66b: phantastior ] sic (illae species phantastior de illis rebus); read phantasticae
+Page 66b: deferri ] emend. deferre (possunt duobus modis deferri: ad delationem)
+Page 66b: deferre ] leg. diferre (Non potest deferre accidens)
+Page 66b: deferatur ] leg. diferatur (quin deferatur subiectum)
 
 -->

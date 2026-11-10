@@ -1525,13 +1525,13 @@ Finis.
 <!--
 ## Apparatus Criticus Reference
 * conj.    (coniectura)  : Text is unreadable; this is an educated guess.
-* corrupt. (corruptio)   : Text is a corrupted or mangled printing of the word.
-* del.     (deletio)     : Printer repeated a word; deleted the extra one.
-* emend.   (emendatio)   : Corrected a flat-out printing mistake.
+* corrupt. (corruptio)   : Text is corrupted or mangled in the source.
+* del.     (deletio)     : Superfluous word in the source (repetition or struck text); removed.
+* emend.   (emendatio)   : Editor's correction of a reading judged erroneous in the source, whatever its cause.
 * leg.     (legitur)     : Standardized spelling (like modernizing u/v or i/j).
-* om.      (omissio)     : Printer left a word out; supplied missing text.
-* transp.  (transposito) : Printer accidentally swapped word or letter order.
-* sic                    : Error left exactly as printed in the original.
+* om.      (omissio)     : Word missing in the source; supplied by the editor.
+* transp.  (transpositio): Word or letter order swapped in the source; restored.
+* sic                    : Reading kept as in the source although it seems irregular or erroneous.
 
 Format: edited reading ] siglum original reading (context)
 * The context in parentheses quotes the passage as it reads in the edited
@@ -1540,7 +1540,7 @@ Format: edited reading ] siglum original reading (context)
   before the ].
 * The original passage is never quoted in full: it uses palaeographic signs,
   and the reading after the siglum is itself an interpretation (it may be an
-  author's slip, a printer's or scribe's slip, or a misreading).
+  error of the author, the printer or the scribe, or a misreading).
 * Editorial explanations follow the context after a semicolon or "cf.".
 * For om., the context marks the supplied word in [ ], e.g.
   a ] om. (Volo quod [a] valeat). The original lacks the bracketed word.

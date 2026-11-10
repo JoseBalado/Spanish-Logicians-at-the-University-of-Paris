@@ -3922,13 +3922,28 @@ Et haec de complexe significabilibus.
 
 <!--
 ## Apparatus Criticus Reference
-* emend.  (emendatio)  : Corrected a flat-out printing mistake.
-* leg.    (legitur)    : Standardized spelling (like modernizing u/v or i/j).
-* om.     (omissio)    : Printer left a word out; supplied missing text.
-* sic                  : Error left exactly as printed in the original.
-* conj.   (coniectura) : Text is unreadable; this is an educated guess.
-* transp. (transposito): Printer accidentally swapped word or letter order.
-* del.    (deletio)    : Printer repeated a word; deleted the extra one.
+* conj.    (coniectura)  : Text is unreadable; this is an educated guess.
+* corrupt. (corruptio)   : Text is corrupted or mangled in the source.
+* del.     (deletio)     : Superfluous word in the source (repetition or struck text); removed.
+* emend.   (emendatio)   : Editor's correction of a reading judged erroneous in the source, whatever its cause.
+* leg.     (legitur)     : Standardized spelling (like modernizing u/v or i/j).
+* om.      (omissio)     : Word missing in the source; supplied by the editor.
+* transp.  (transpositio): Word or letter order swapped in the source; restored.
+* sic                    : Reading kept as in the source although it seems irregular or erroneous.
+
+Format: edited reading ] siglum original reading (context)
+* The context in parentheses quotes the passage as it reads in the edited
+  text, so it can be copied and searched in the transcription. To recover
+  the original, substitute the reading after the siglum for the reading
+  before the ].
+* The original passage is never quoted in full: it uses palaeographic signs,
+  and the reading after the siglum is itself an interpretation (it may be an
+  error of the author, the printer or the scribe, or a misreading).
+* Editorial explanations follow the context after a semicolon or "cf.".
+* For om., the context marks the supplied word in [ ], e.g.
+  a ] om. (Volo quod [a] valeat). The original lacks the bracketed word.
+* Entries in this log predate this convention and give no context; the
+  original reading is recorded without the surrounding passage.
 
 ## Log
 Page 80: inoportuno ] emend. importuno

@@ -1555,18 +1555,40 @@ Pro quo ponitur talis propositio:
 
 > Non potest deferre accidens quin deferatur subiectum.
 
-Ex quo sequitur quod per delationes illorum humorum in quibus recipiuntur illa phantasmata potest deferri species phantastica, et ille est /67a/
+Ex quo sequitur quod per delationes illorum humorum in quibus recipiuntur illa phantasmata potest deferri species phantastica, et ille est /67a/ modus quo daemon potest ferre phantasmata. Secundo modo possunt deferri phantasmata improprie per suam radiationem seu per suam multiplicationem, potest enim in unum phantasma aliud causare.
+
+Quarta propositio:
+
+> Phantasmata possunt deferri usque ad sensus exteriores, quo facto fieret in sensibus exterioribus talis sensatio sicut si sensus exteriores obiectis extrinsecis moverentur.
+
+Ex qua propositione sequitur quod sensus exteriores possunt sentire illa phantasmata, quo facto apparebit talis sensatio.
+
+Contra: Praedicta propositione contradicit dictis alias positis, ergo propositio nulla. Patet, quia dictum est superius quod sensus exteriores non possunt habere notitias abstractivas. Sed sic est quod si phantasmata causaret illas notitias, tunc causaret notitias abstractivas; ergo contradictio.
+
+Pro solutione est notandum quod praedicta propositio potest salvari, omnibus salvatis excepto uno puncto. Et est istud: puta quod teneamus phantasmata rei sensibilis esse eiusdem rationis cum speciebus sensibilibus sensus exterioris. Tunc pono duo dicta.
+
+Primum: sic species sensibiles sensus exterioris possunt cognoscere et percipi intuitive a sensu exteriori, sic etiam phantasmata possunt percipi a sensu exteriori.
+
+Secundum dictum: quod quando a sensu /67b/ percipitur species, tunc causatur iudicium organicum in phantasia quo iudicat quod percipit rem cuius est species. Do experientiam de illo qui audit sonum, scilicet homo: illae species percipiuntur, et tunc apparet sibi quod percipit rem. Et per ista possunt salvari omnes istae experientiae unde experti sunt multi, non indispositi, qui crediderunt videre canem et non videbant. Respondetur quod tunc non sentiebatur canis, sed phantasma canis, et videbatur, et tunc causabatur iudicium erroneum quo credebat percipere canem. Sed quaero ubi erant illa phantasmata. Dico quod erant in aliquo humore.
+
+Alia propositio sit ista ad salvandum multa quae fiunt in phantasia:
+
+> Quando aliquis habet imaginem fortem de aliqua re et sensus exterior sentit aliquid ab illis duobus, causatur iudicium quo credit quod illa res quae videtur sit illa res quae imaginatur.
+
+Et per hoc possunt salvari illa quae videmus de phantasia. Et ideo quaero aliquas quaestiones, quarum prima est: quomodo est possibile naturaliter quod propter imaginationem quam aliquis habet de igne apparet quod sit in igne et quod fit infirmus, et deinde quod fiat infirmus? Dico quod ideo est quia species phantastica potest eandem sensationem causare sicut rei cuius est phantasia, et ideo phantasma ignis potest calefacere.
+
+Alia quaestio: unde potest esse quod quidam homo omnino albus /68a/
 
 <!--
 ## Apparatus Criticus Reference
 * conj.    (coniectura)  : Text is unreadable; this is an educated guess.
-* corrupt. (corruptio)   : Text is a corrupted or mangled printing of the word.
-* del.     (deletio)     : Printer repeated a word; deleted the extra one.
-* emend.   (emendatio)   : Corrected a flat-out printing mistake.
+* corrupt. (corruptio)   : Text is corrupted or mangled in the source.
+* del.     (deletio)     : Superfluous word in the source (repetition or struck text); removed.
+* emend.   (emendatio)   : Editor's correction of a reading judged erroneous in the source, whatever its cause.
 * leg.     (legitur)     : Standardized spelling (like modernizing u/v or i/j).
-* om.      (omissio)     : Printer left a word out; supplied missing text.
-* transp.  (transposito) : Printer accidentally swapped word or letter order.
-* sic                    : Error left exactly as printed in the original.
+* om.      (omissio)     : Word missing in the source; supplied by the editor.
+* transp.  (transpositio): Word or letter order swapped in the source; restored.
+* sic                    : Reading kept as in the source although it seems irregular or erroneous.
 
 Format: edited reading ] siglum original reading (context)
 * The context in parentheses quotes the passage as it reads in the edited
@@ -1575,7 +1597,7 @@ Format: edited reading ] siglum original reading (context)
   before the ].
 * The original passage is never quoted in full: it uses palaeographic signs,
   and the reading after the siglum is itself an interpretation (it may be an
-  author's slip, a printer's or scribe's slip, or a misreading).
+  error of the author, the printer or the scribe, or a misreading).
 * Editorial explanations follow the context after a semicolon or "cf.".
 * For om., the context marks the supplied word in [ ], e.g.
   a ] om. (Volo quod [a] valeat). The original lacks the bracketed word.
@@ -1628,7 +1650,7 @@ Page 57a: turonus ] sic (et supponatur turonus infra); i.e. a coin of Tours ("to
 Page 57a: rationem ] conj. roēʒ (et hoc propter rationem specierum)
 Page 57a: ducere ] conj. dncore (non potest ducere in notitiam)
 Page 57b: illud ] emend. illa (sed illud ponitur supra sensum)
-Page 57b: visibiles ] emed. visibiles (quando species visibiles reiciantur ad opacum)
+Page 57b: visibiles ] emed. visibilis (quando species visibiles reiciantur ad opacum)
 Page 57b: reiciantur ] conj. rciat∞ (quando species visibiles reiciantur ad opacum)
 Page 57b: opacum ] leg. oppaln̄ʒ (reiciuntur ad opacum)
 Page 57b: et caetera ] om. illegible abbreviated word after etc̄ (de oculis cati, et caetera)
@@ -1654,5 +1676,11 @@ Page 66b: phantastior ] sic (illae species phantastior de illis rebus); read pha
 Page 66b: deferri ] emend. deferre (possunt duobus modis deferri: ad delationem)
 Page 66b: deferre ] leg. diferre (Non potest deferre accidens)
 Page 66b: deferatur ] leg. diferatur (quin deferatur subiectum)
+Page 67a: modus ] del. de modus (et ille est modus quo daemon potest ferre phantasmata); 'de' struck in the manuscript
+Page 67a: deferri ] emend. deferre (Phantasmata possunt deferri usque ad sensus exteriores)
+Page 67a: Tunc pono duo dicta ] del. tunc pono duo dicta. p3 sic species sensibilibus sensus exterioris tunc pono duo dicta (Tunc pono duo dicta. Primum)
+Page 67b: scilicet homo ] conj. s ho (qui audit sonum, scilicet homo)
+Page 67b: videre ] emend. viderunt (qui crediderunt videre canem)
+Page 67b: aliquis ] emend. aliquid (Quando aliquis habet imaginem)
 
 -->

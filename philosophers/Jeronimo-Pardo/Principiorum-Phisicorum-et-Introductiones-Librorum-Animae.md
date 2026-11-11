@@ -1577,7 +1577,29 @@ Alia propositio sit ista ad salvandum multa quae fiunt in phantasia:
 
 Et per hoc possunt salvari illa quae videmus de phantasia. Et ideo quaero aliquas quaestiones, quarum prima est: quomodo est possibile naturaliter quod propter imaginationem quam aliquis habet de igne apparet quod sit in igne et quod fit infirmus, et deinde quod fiat infirmus? Dico quod ideo est quia species phantastica potest eandem sensationem causare sicut rei cuius est phantasia, et ideo phantasma ignis potest calefacere.
 
-Alia quaestio: unde potest esse quod quidam homo omnino albus /68a/
+Alia quaestio: unde potest esse quod quidam homo omnino albus /68a/ et mulier omnino alba, et bene dispositi, produxerunt filium nigrum? Dico quod probabile fuit. Et ratio est quia ille talis habebat magnam imaginationem et bene extensam, et phantasma Aethiopis quod erat in quibusdam humoribus, et diffundit cum femina, et illud phantasma potuit habere actionem ut produceret nigredinem. Et hoc est verisimile de muliere quae habebat phantasmata, scilicet phantasiam de Aethiope.
+
+Et pro ampliori declaratione huius ponitur talis propositio, quae est propositio Origenis:
+
+> Omnis imaginatio multum intensa habet suam insaniam sive fatuitatem et stultitiam annexam, et suum furorem seu rabiem quamdam.
+
+Et per istam propositionem declarantur multi casus. Nam ex forte imaginatione causatur iudicium erroneum. Hoc patet de avaris et de invidis, et sic de aliis.
+
+Alia quaestio: unde est quod aliqui homines existentes in locis tenebrosis credunt mirabiles sonos audire quos non audiunt, et videre mirabilia quae non vident? Pro solutione notandum est quod sunt aliqui homines, et signanter melancholici qui habent humores multum nigros, et phantasma existens in illis habet maiorem activitatem quam in aliis. Propter quod illi habentes phantasmata vel de somniis vel de aliis rebus /68b/ fortiter agunt, propter quod credunt audire sonum, et sic de speciebus phantasticis.
+
+Nunc videndum est de speciebus intelligibilibus, de quibus pono tres propositiones, quarum prima est:
+
+> Species intelligibilis non est actus intelligendi, sive sit habitus sive non.
+
+Patet, quia per notitiam actualiter cognoscimus aliquid et non per speciem. Igitur minor patet, quia dormiens multas species habet, tamen actualiter nihil cognoscit.
+
+Secunda propositio:
+
+> Species non est habitus.
+
+Et ratio est quia habitus producitur ex actibus, sed sic est quod species non producuntur ex actibus, immo producunt actus. Igitur ista secunda propositio seu conditio est contra Occam. Pro quo est notandum quod tenent omnes doctores quod semper ex notitia intuitiva derelinquitur aliquis habitus. Habitus in potentia nisi sit multum remissa. Et hoc intelligitur de potentia interiori: ut cognosco intuitive hanc albedinem per intellectum, ex illa intellectione intuitiva derelinquitur unus habitus in intellectu, per quem habitum inclinor ad recordandum quod ego cognovi albedinem.
+
+Nunc dico quod dicit Occam quod non est ponenda illa species, sed ille habitus. Et quantum ad istam ultimam particulam maledixit Occam, cuius opiniones in hoc tenere volumus, quia omnes doctores sunt in hoc contra eum. Sic ergo essent ponendae species phantasticae /69a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1682,5 +1704,7 @@ Page 67a: Tunc pono duo dicta ] del. tunc pono duo dicta. p3 sic species sensibi
 Page 67b: scilicet homo ] conj. s ho (qui audit sonum, scilicet homo)
 Page 67b: videre ] emend. viderunt (qui crediderunt videre canem)
 Page 67b: aliquis ] emend. aliquid (Quando aliquis habet imaginem)
+Page 68a: invidis ] conj. inui-/dis (de avaris et de invidis); 'multis' struck in the manuscript
+Page 68b: nolumus ] emend.  volumus (cuius opiniones in hoc tenere nolumus); context suggests nolumus
 
 -->

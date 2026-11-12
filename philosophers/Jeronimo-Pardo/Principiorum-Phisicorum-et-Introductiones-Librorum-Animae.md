@@ -45,7 +45,7 @@ continere aliquod corpus. Ex quo sequitur quod in loco duo importantur, absolutu
 
 Absolutum est superficies, respectivum est talis habitudo, scilicet contineri
 illud corpus quod est superficiei ad ipsum corpus contentum. Unde locus sic se debet habere ad locatum quod debet uniri ipsi locato. Ex quo sequitur quod numquam se habet aliquid in
-ratione loci nisi in ratione superficiei, et ideo bene dicit Scotus in *Secundo*, quod nihil locat nisi secundum quandam indivisibilitatem. Et ratio huius est quia locus, ea ratione qua est locus, debet esse inmediatus locato. Sed sic est quod nihil est inmediatum alicui ea parte qua est divisibile, et ratio quia omne divisibile habet partes. /4b/ Sic habet partes, una est propinquior alia.
+ratione loci nisi in ratione superficiei, et ideo bene dicit Scotus in secundo, quod nihil locat nisi secundum quandam indivisibilitatem. Et ratio huius est quia locus, ea ratione qua est locus, debet esse inmediatus locato. Sed sic est quod nihil est inmediatum alicui ea parte qua est divisibile, et ratio quia omne divisibile habet partes. /4b/ Sic habet partes, una est propinquior alia.
 
 Notandum est ulterius quod duplex est superficies, quaedam est superficies concava, et alia est convexa. Unde superficies concava est quae nata est continere, secundum talem dispositionem, scilicet aliquod corpus. Sed superficies convexa est quae non est nata continere, secundum talem dispositionem, aliquod corpus.
 
@@ -69,7 +69,7 @@ Dico quod in natura non potest esse vacuum. Arguitur sic, et pono casum quod sit
 
 Dicitur notanter "excepto caelo ultimo, est in loco", quia ultimum, secundum partem superiorem, /5a/ non est in loco, et est quia ultra caelum illud nihil est.
 
-Et pro declaratione istius propositionis, notandum est quod dicit Scotus, in *Secundo*, quod quatuor conveniunt alicui corpori secundum quod corpus duobus modis potest considerari.
+Et pro declaratione istius propositionis, notandum est quod dicit Scotus, in secundo, quod quatuor conveniunt alicui corpori secundum quod corpus duobus modis potest considerari.
 
 ### Uno modo potest considerari aliquod corpus ut est mathematicum:
 
@@ -112,7 +112,7 @@ Respondetur negando consequentiam, quia non volo dicere quod illa superficies es
 
 Tunc quaeritur talis quaestio: Quomodo debent esse corpora in loco, ad hoc quod naturaliter sint in loco?
 
-Respondetur per talem distinctionem, quia vel illa corpora sunt gravia, vel levia, vel nec gravia nec levia, sicut sunt caeli. Hoc modo dico, de mente Scoti in *Quarto* et aliorum doctorum, quod nec sunt in loco naturaliter vel violenter, sed neutraliter se habent ad locum. Unde dico quod si una particula caeli poneretur hic, quod nec moveretur sursum nec deorsum; ex quo sequitur quod si caelum non moveretur a Deo vel ab angelo /6b/ ibi maneret.
+Respondetur per talem distinctionem, quia vel illa corpora sunt gravia, vel levia, vel nec gravia nec levia, sicut sunt caeli. Hoc modo dico, de mente Scoti in quarto et aliorum doctorum, quod nec sunt in loco naturaliter vel violenter, sed neutraliter se habent ad locum. Unde dico quod si una particula caeli poneretur hic, quod nec moveretur sursum nec deorsum; ex quo sequitur quod si caelum non moveretur a Deo vel ab angelo /6b/ ibi maneret.
 
 Ex quo sequitur secundo error aliquorum philosophorum, qui dicunt quod caelum movetur naturaliter circulariter, sicut lapis movetur deorsum naturaliter. Aut illa corpora sunt gravia vel levia, et tunc ponitur talis propositio secundum Albertum de Saxonia in *De caelo*, qualiter debent corpora signari vel situari, quod gravia sint sub levioribus et levia super gravia.
 
@@ -344,7 +344,7 @@ Prima est: causa materialis habet aliquam causalitatem, quia necessarium est dic
 
 Contra: superius dictum est quod materia prima nullam actionem habet; ergo causa materialis non habet aliquam actionem.
 
-Pro solutione istius videndum est in quo consistit causalitas causae materialis. Respondet ad hoc Scotus in *Quarto* et dicit quod causalitas materialis causae consistit in recipiendo formam, id est quod causa materialis causat in genere suo, scilicet in genere causae materialis, quod est recipere formam. Ideo ad argumentum responde /16a/ distinguendo aut quod nullam actionem habeat in genere causae materialis, et sic nego. Aut in genere causae efficientis, et sic concedo.
+Pro solutione istius videndum est in quo consistit causalitas causae materialis. Respondet ad hoc Scotus in quarto et dicit quod causalitas materialis causae consistit in recipiendo formam, id est quod causa materialis causat in genere suo, scilicet in genere causae materialis, quod est recipere formam. Ideo ad argumentum responde /16a/ distinguendo aut quod nullam actionem habeat in genere causae materialis, et sic nego. Aut in genere causae efficientis, et sic concedo.
 Unde dico quod causam materialem habere actionem in suo genere est ipsam recipere formam.
 
 Contra: Materia nihil causat; ergo male dicitur. Antecedens patet quia detur illud, dico quod causat totum compositum in genere suo, quod nihil aliud est dicere nisi quod ipsa recipit formam ex qua se ipsa fit compositum. Ex quo sequitur quod causare non solum dici de causa efficiente sed etiam de causa materiali.
@@ -512,7 +512,7 @@ Ut pater, sol et Deus concurrunt /22b/ ad producendum hominem.
 
 Dico quod sol est principalior quam pater quia potest plures effectus, et est illimitatior. Et Deus gloriosus dicitur esse principalior quam sol eadem ratione.
 
-Sed quaereret aliquis quid est unam causam agere in virtute alterius. Ad quod respondent aliqui quod habere talem ordinem in agendo quod una nullo modo possit facere sine alia. Sed istud improbatur quia si illa declaratio esset bona sequeretur quod illa definitio non esset bona. Ideo alli respondetur et melius quod unam causam agere in virtute alterius, est unam causam non agere nisi aliquid moveat ad agendum. Ut Deus et Sortes producunt aliquem effectum. Dico quod Deus duo facit: primo producitur illum effectum, secundo facit quod Sortes producat illum effectum. Ideo agit Duo De Causis qua una non agit in virtute alterius, ut obiectum et intellectus. Dico quod intellectus movet obiectum ad causandam notitiam, et hoc dicit Petrus de Aliaco in *Quarto* et optime.
+Sed quaereret aliquis quid est unam causam agere in virtute alterius. Ad quod respondent aliqui quod habere talem ordinem in agendo quod una nullo modo possit facere sine alia. Sed istud improbatur quia si illa declaratio esset bona sequeretur quod illa definitio non esset bona. Ideo alli respondetur et melius quod unam causam agere in virtute alterius, est unam causam non agere nisi aliquid moveat ad agendum. Ut Deus et Sortes producunt aliquem effectum. Dico quod Deus duo facit: primo producitur illum effectum, secundo facit quod Sortes producat illum effectum. Ideo agit Duo De Causis qua una non agit in virtute alterius, ut obiectum et intellectus. Dico quod intellectus movet obiectum ad causandam notitiam, et hoc dicit Petrus de Aliaco in quarto et optime.
 
 Ex quo sequitur glosam Scoti prius recitatam non valere, quia illa dicta communia non possunt salvari, scilicet:
 
@@ -844,7 +844,7 @@ Sexta proprietas: Potentia phantastica est tam mirabilis quod potest cognoscere 
 
 Et ponitur septima proprietas: Potentia phantastica seu solus sensus interior et nulla alia potentia operatur in dormientibus, ex quo sequitur quod, si in illis aliquando operabatur in dormientibus, sicut in prophetis, hoc erat ex quodam privilegio Dei eis dato. Ex quo sequitur quod, si aliquid volumus probare, non est melius argumentum quam per somnium. /39a/
 
-Octava proprietas: Phantasia est potentia collativa, id est, potentia affirmare propositiones affirmativas et negativas. Dico quod potest etiam habere iudicium et omnia insta probantur de dormientibus, ex quo sequitur corollarium, quod propositiones quas format phantasia possunt vocari propositiones phantasticae sensuales interiores. Et si quaeras quas propositiones potest formare phantasia, dico solum singulares, ut dicens Gregorius in *Primo* et in dictamine in *Posterioribus*, quia numquam cognoscit quod hoc currit sed quod hic homo currit, id est, quod hoc homo est currens. 
+Octava proprietas: Phantasia est potentia collativa, id est, potentia affirmare propositiones affirmativas et negativas. Dico quod potest etiam habere iudicium et omnia insta probantur de dormientibus, ex quo sequitur corollarium, quod propositiones quas format phantasia possunt vocari propositiones phantasticae sensuales interiores. Et si quaeras quas propositiones potest formare phantasia, dico solum singulares, ut dicens Gregorius in primo et in dictamine in *Posterioribus*, quia numquam cognoscit quod hoc currit sed quod hic homo currit, id est, quod hoc homo est currens. 
 
 Sed quaereret aliquis utrum iste sensus interior possit cognoscere omnia entia mundi, vel aliqui et aliqua non. Tunc ponendo nonam proprietatem, quod potentia phantastica solum est cognitiva entium materialium seu exteriorum seu quantorum. volo dicere quod potentia phantastica nihil potest cognoscere nisi sit extensum, puta longum, latum et profundum, ex quo sequitur quod est impossibile phantasiam cognoscere angelum, aut animam, aut aliquid huiusmodi. 
 
@@ -876,7 +876,7 @@ Notandum quod numquam appetitus sensitivus prosequitur vel fugit aliquod obiectu
 
 Contra: phantasia appetit obiectum aliquod quod non sentit; ergo antecedens. Patet quia phantasia appetit cibum quem non sentit. Patet quia non habet illum cibum; ergo non sentit illum vel sentitur illud quod non est, tunc negando consequentiam qui dictum est quod sensation interior potest esse tam de obiecto existente quam de non existente. Et enim infers: "Ergo sentit illud quod non est". Distinguo: aut sensatione exteriori, et sic nego; aut interiori, et sic concedo.
 
-Notandum est quod dicit Scotus, in *Secundo*, praeter omnes illas potentias exteriores sensuum interiorum, ponendae sunt duae potentiae appetitivae, quarum una vocatur concupiscibilis, alia vero vocatur irascibilis. Et primo dicatur de prima, scilicet quod est eius obiectum et quis est illius actus, pro quo melius intelligendo ponuntur aliquae proprietates, quarum prima est: potentia concupiscibilis in parte sensitivam habet unum organum quod est una pellicula /40b/ quae constringitur, qui est dolor in tale potentia, et dilatatur, qui est delectatio in illa potentia.
+Notandum est quod dicit Scotus, in secundo, praeter omnes illas potentias exteriores sensuum interiorum, ponendae sunt duae potentiae appetitivae, quarum una vocatur concupiscibilis, alia vero vocatur irascibilis. Et primo dicatur de prima, scilicet quod est eius obiectum et quis est illius actus, pro quo melius intelligendo ponuntur aliquae proprietates, quarum prima est: potentia concupiscibilis in parte sensitivam habet unum organum quod est una pellicula /40b/ quae constringitur, qui est dolor in tale potentia, et dilatatur, qui est delectatio in illa potentia.
 
 Secunda proprietas est quod potentia concupiscibilis, licet pro obiecto conveniens potentiae sensitivae, vel disconveniens, est conveniens gustui. Dico quod concupiscibilis concupiscit unum non simpliciter, sed inquantum est conveniens gustui; et potentia concupiscibilis refugit aliquod obiectum non simpliciter, sed inquantum est disconveniens potentiae qui talis non fugit malum unum simpliciter, sed inquantum est disconveniens gustui.
 
@@ -1008,13 +1008,13 @@ Tertia proprietas est: voluntas non naturaliter sed libere potest elicere suos a
 
 Contra: voluntas non potest non amare obiectum sibi conveniens; ergo non libere amat. Antecedens patet, quia bene sequitur: est sibi conveniens; ergo amat.
 
-Pro solutione est notandum quod, ut dicit Scotus in *Tertio*, magna differentia est inter aliquod obiectum respectu voluntatis et respectu appetitus sensitivi, quia aliquod obiectum ex natura sua habet quod sit conveniens vel disconveniens appetitui sensitivo, ita quod appetitus sensitivus non dat obiecto quod sit conveniens vel disconveniens. Sed voluntas dat obiecto suo convenientiam vel disconvenientiam, et non habet ex natura sua hoc obiectum. Sed aliquod obiectum est conveniens voluntati ut supra ipsum cadat actus volendi, et est disconveniens ut supra ipsum cadat actus nolendi, ut voluntas dicat /47a/ placet mihi esse in igne. Et ideo si quis quaerat utrum esse in igne sit conveniens voluntati, distinguo quod vel voluntas vult seu acceptat, et sic est conveniens, aut voluntas non vult, et sic est disconveniens.
+Pro solutione est notandum quod, ut dicit Scotus in tertio, magna differentia est inter aliquod obiectum respectu voluntatis et respectu appetitus sensitivi, quia aliquod obiectum ex natura sua habet quod sit conveniens vel disconveniens appetitui sensitivo, ita quod appetitus sensitivus non dat obiecto quod sit conveniens vel disconveniens. Sed voluntas dat obiecto suo convenientiam vel disconvenientiam, et non habet ex natura sua hoc obiectum. Sed aliquod obiectum est conveniens voluntati ut supra ipsum cadat actus volendi, et est disconveniens ut supra ipsum cadat actus nolendi, ut voluntas dicat /47a/ placet mihi esse in igne. Et ideo si quis quaerat utrum esse in igne sit conveniens voluntati, distinguo quod vel voluntas vult seu acceptat, et sic est conveniens, aut voluntas non vult, et sic est disconveniens.
 
 Quarta proprietas voluntatis est quod voluntas non potest elicere actum suum circa aliquod obiectum nisi illud obiectum sit prius cognitum ab intellectu, quia amamus invisa, sed incognita nequaquam. Et hoc est quod communiter dicitur: nihil volitum nisi prius cognitum. Modo dico numquam voluntas actualiter aliquod vult quin illud intellectus cognoscit actualiter.
 
 Contra, et pono per casum quod voluntas imperet intellectui quod intelligat aliquid incognitum, et tamen intellectus non intelligat; quo facto, aliquid est volitum quod non est cognitum. Ergo nego, immo dico quod, sicut voluntas vult quod intellectus intelligat incognitum, ita intellectus cognoscit illud idem incognitum, id est intellectus cognoscit se debere cognoscere incognitum.
 
-Quinta proprietas voluntatis est quod voluntas est potens, ut dicit Scotus in *Secundo*, quod facere nolitionem comparativam qua vellet unum in ordine ad aliud, ut intellectus non praesens habet notitiam comparativam. Et sub aliis verbis: voluntas potest componere ubi intellectus numquam composuit, ut ad hoc quod velim comedere panem non oportet quod prius cognoscerem panem me comedere, sed sufficit quod intellectus prius cognoverit panem et comedere. /47b/
+Quinta proprietas voluntatis est quod voluntas est potens, ut dicit Scotus in secundo, quod facere nolitionem comparativam qua vellet unum in ordine ad aliud, ut intellectus non praesens habet notitiam comparativam. Et sub aliis verbis: voluntas potest componere ubi intellectus numquam composuit, ut ad hoc quod velim comedere panem non oportet quod prius cognoscerem panem me comedere, sed sufficit quod intellectus prius cognoverit panem et comedere. /47b/
 
 Ex quo sequitur quod, sicut intellectus est potentia collativa, ita et voluntas est potentia collativa, et ponitur talis regula:
 
@@ -1145,7 +1145,7 @@ Unde pro declaratione speciei sensibilis sensus exterioris ponuntur aliquae prop
 
 Prima proprietas: cogimur ponere species sensibiles sensuum exteriorum, hoc probatur per aliquas experientias quas videmus. Prima experientia est de speculo, nam nos videmus per experientiam quod video me in speculo, et non nisi gratia me causatur aliquae species; igitur opus est ponere species. Secunda experientia: res aliqua, secundum quod videtur per alium et alium medium, apparet maior vel minor, ut capiatur pyramis et ponatur in aqua: apparet maior quam in exemplum aquam. Et hoc non est nisi propter diversum modum causandi suas species.
 
-Unde dico quod multi doctores discordaverunt in hoc, scilicet an essent ponendae species sensibiles sensus exterioris. Dico tamen quod diversitas est inter doctores an istae species sensibiles sint eiusdem speciei cum obiecto a quo causantur. Nam tenet Guilhelmus Occam in *Quodlibeto* quod sint eiusdem speciei cum obiecto, ut albedo causat suas species, id est albedines quasdam inesse remisso. Sed ista opinio reprehenditur ab omnibus bonis doctoribus, et signanter a Gregorio in *Primo*, et ideo tenebimus quod illae species sunt alterius speciei cum obiecto a quo causantur.
+Unde dico quod multi doctores discordaverunt in hoc, scilicet an essent ponendae species sensibiles sensus exterioris. Dico tamen quod diversitas est inter doctores an istae species sensibiles sint eiusdem speciei cum obiecto a quo causantur. Nam tenet Guilhelmus Occam in *Quodlibeto* quod sint eiusdem speciei cum obiecto, ut albedo causat suas species, id est albedines quasdam inesse remisso. Sed ista opinio reprehenditur ab omnibus bonis doctoribus, et signanter a Gregorio in primo, et ideo tenebimus quod illae species sunt alterius speciei cum obiecto a quo causantur.
 
 Secunda proprietas: species sensibilis sensus exterioris a solo obiecto causantur, saltem primae. Ex quo sequitur quod nullo modo causatur a sensu exteriori, hoc postea declarabitur.
 
@@ -1255,7 +1255,7 @@ Alia est opinio quae dicit quod una species causatur ab alia et non omnes causan
 
 Dico secundo quod obiectum est sufficiens multiplicare per certam distantiam suas species. Et ratio est /55b/ quia omne agens naturale potest producere effectum suum per certam distantiam in passum bene dispositum.
 
-Arguitur sic: una species non potest multiplicare seu causare aliam; ergo male dictum est. Probatur antecedens, quia tunc causarentur species per infinitam distantiam. Patet, quia ea ratione qua species produceret b, et b produceret c, et c produceret d, et sic in infinitum. Responde iste modus quod est devenire ad aliquam speciem ita remissam, quod non erit sufficiens causare aliam speciem. Tenet tamen Scotus quod omnes species causantur ab obiecto, et hoc in *Secundo* et in *Quarto*.
+Arguitur sic: una species non potest multiplicare seu causare aliam; ergo male dictum est. Probatur antecedens, quia tunc causarentur species per infinitam distantiam. Patet, quia ea ratione qua species produceret b, et b produceret c, et c produceret d, et sic in infinitum. Responde iste modus quod est devenire ad aliquam speciem ita remissam, quod non erit sufficiens causare aliam speciem. Tenet tamen Scotus quod omnes species causantur ab obiecto, et hoc in secundo et in quarto.
 
 Alia quaestio: utrum species visibiles causentur in instanti vel successive. Respondetur, tenendo modum communem, quod causantur in instanti in medio disposito. Unde secundum omnes philosophos ponitur talis regula:
 
@@ -1633,7 +1633,40 @@ Quinta proprietas:
 
 > Species intelligibilis potest repraesentare rem cum conditionibus individuantibus et sine eis, id est species intelligibilis potest causare notitiam repraesentantem cum illis conditionibus et sine illis.
 
-Contra: nos experimur quod si volumus considerare de hac albedine, oportet considerari de ea cum tali figura; ergo intellectus non cognoscit nisi cum conditionibus individuantibus. Respondetur quod ideo apparet nobis quod phantasia considerat conditiones individuales, ideo apparet nobis quod intellectus non potest sine illis intelligere, quia ipsa phantasia sic considerat cum intellectu, et ipsa phantasia habet tantam connexionem cum ipso intellectu, quod videtur quod /70a/
+Contra: nos experimur quod si volumus considerare de hac albedine, oportet considerari de ea cum tali figura; ergo intellectus non cognoscit nisi cum conditionibus individuantibus. Respondetur quod ideo apparet nobis quod phantasia considerat conditiones individuales, ideo apparet nobis quod intellectus non potest sine illis intelligere, quia ipsa phantasia sic considerat cum intellectu, et ipsa phantasia habet tantam connexionem cum ipso intellectu, quod videtur quod /70a/ intellectus intelligat cum conditionibus individuantibus sicut ipsa phantasia, et quamvis nobis ita appareat, non est verum.
+
+Sexta proprietas:
+
+> Species intelligibilis causatur a phantasmate rei existente in organo phantasiae cum intellectu agente, et recipitur in intellectu possibili.
+
+Volo dicere quod species intelligibilis causatur a duobus. Primum exemplum: causatur ab intellectu partialiter et etiam causatur a phantasmate, et recipitur in intellectu possibili, id est qui potest recipere et recipit. Ex quo sequitur quod species intelligibilis differt ab aliis speciebus, quia causatur a potentia cognoscente, a qua non causantur aliae.
+
+Contra: nulla est ratio quare species intelligibilis causetur ab intellectu; ergo. Dico quod ratio est quod species intelligibiles sunt immateriales et inextensae, et ideo producuntur ab intellectu, qui est immaterialis. Habeo ergo quod sunt duae causae producentes speciem intelligibilem, scilicet intellectus et species phantasticae.
+
+Contra: de aliquo habetur species intelligibilis et de illo non habetur phantasma; ergo. Antecedens patet, quia intellectus habet speciem intelligibilem de actibus suis; ergo. Dico quod quando dicitur quod species intelligibilis causatur a phantasmate, intelligitur illud de quo habetur species intelligibilis possit habere phantasma. Modo dico quod intellectiones non possunt habere phantasmata.
+
+Et advertendum quod doctores communiter tenent quod solum intellectus potest reflecti supra suos actus, et nulla alia potentia a potentia intellectiva. Sed contra eos facio unum argumentum: postquam quis somniavit, recordatur se somniasse; ergo ex /70b/ illo somno fuit derelictum aliquod phantasma; ergo phantasia est potentia reflexiva sicut ipse intellectus, et somniat aliquis sese somniasse; ergo phantasia reflectitur supra suos actus.
+
+Septima proprietas:
+
+> Probabile est, sicut dicit Scotus in quarto, quod species intelligibilis est indelebilis seu incorruptibilis sicut ipsa anima.
+
+Pro cuius declaratione est notandum quod non est simile de specie phantastica et de specie intelligibili, quia species phantasticae corrumpuntur ad corruptionem subiecti, et ideo secundum quod aliqui habent durum organum, dicuntur magis vel minus remotum.
+
+Et si quaeras: cur ergo non semper recordamur? Dico quod ratio est quia species phantasticae sunt corruptae, quia, ut dictum est, necesse est intelligentem phantasmata speculari. Et sic est finis de primo accidente ipsius animae, quod est species.
+
+Sequitur de secundo accidente ipsius animae, quod est actus, et sic terminabimus istum tractatum, et deinde dabimus finem.
+
+* **Proprietates speciei intelligibilis**
+  * recipitur in intellectu subiective; per hoc differt ab aliis
+  * quod est immaterialis et inextensa, sicut subiectum in quo recipitur
+  * quod est similitudo habitualis sui obiecti, quia est talis naturae
+  * quod differt ab aliis speciebus propter hoc quod potest repraesentare notitiam universalem
+  * quod potest repraesentare rem cum conditionibus individuantibus et sine eis
+  * quod causatur a phantasmate rei existente in organo phantasiae et ab intellectu
+  * quod est incorruptibilis et indelebilis, sicut subiectum in quo est
+
+/71a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1745,5 +1778,9 @@ Page 69b: quin ] conj. q̂m (quod non est dubium quin)
 Page 69b: conceptum ] conj. conaptʒ (potest causare conceptum communem et conceptum singularem)
 Page 69b: sic ] conj. sit (quia ipsa phantasia sic considerat)
 Page 69b: tantam ] conj.tantā (habet tantam connexionem)
+Page 70a: primum exemplum ] conj. pmʒ (Primum exemplum: causatur ab intellectu)
+Page 70a: causatur ] emend. cau (quia causatur a potentia cognoscente)
+Page 70b: durum ] conj. durū (secundum quod aliqui habent durum organum)
+Page 70b: recipitur ] emend. recipiuntur (recipitur in intellectu subiective)
 
 -->

@@ -1599,7 +1599,41 @@ Secunda propositio:
 
 Et ratio est quia habitus producitur ex actibus, sed sic est quod species non producuntur ex actibus, immo producunt actus. Igitur ista secunda propositio seu conditio est contra Occam. Pro quo est notandum quod tenent omnes doctores quod semper ex notitia intuitiva derelinquitur aliquis habitus. Habitus in potentia nisi sit multum remissa. Et hoc intelligitur de potentia interiori: ut cognosco intuitive hanc albedinem per intellectum, ex illa intellectione intuitiva derelinquitur unus habitus in intellectu, per quem habitum inclinor ad recordandum quod ego cognovi albedinem.
 
-Nunc dico quod dicit Occam quod non est ponenda illa species, sed ille habitus. Et quantum ad istam ultimam particulam maledixit Occam, cuius opiniones in hoc tenere volumus, quia omnes doctores sunt in hoc contra eum. Sic ergo essent ponendae species phantasticae /69a/
+Nunc dico quod dicit Occam quod non est ponenda illa species, sed ille habitus. Et quantum ad istam ultimam particulam maledixit Occam, cuius opiniones in hoc tenere volumus, quia omnes doctores sunt in hoc contra eum. Sic ergo essent ponendae species phantasticae, /69a/ sed hoc est falsum, ergo.
+
+Et si Occam det quod sunt ponendi illi habitus in phantasia, quia ubi recipiuntur actus, ibi recipiuntur et habitus. Contra: ergo non possunt deferri phantasmata nisi deferatur phantasia. Sed hoc est falsum, igitur. Patet, quia hoc est contra omnes doctores, contra Augustinum, contra medicos. Et ultra, ergo et sunt ponendae species intelligibiles propter illos habitus.
+
+Tertia propositio:
+
+> Species intelligibilis est aliquid quod recipitur in intellectu subiective, quod cessante actu potest causare notitiam abstractivam de re.
+
+Unde quod sit ponenda species sic ostendo ratione: quia cognosco nunc albedinem quam vidi, et illa notitia non causatur ab albedine nec a solo intellectu; ergo ponendum est aliquid quod causet illam, et vocetur quomodo volueris, sive species sive habitus. Et ista ratio est insolubilis.
+
+Tunc ponuntur proprietates istius speciei intelligibilis, quam exemplum prima est:
+
+> Species intelligibilis recipitur subiective in intellectu.
+
+Et per hoc differt ab aliis speciebus, quia aliae species recipiuntur in corpore.
+
+Secunda proprietas:
+
+> Species intelligibilis est immaterialis et inextensa.
+
+Quia sicut intellectus est immaterialis et inextensus, ita etiam accidentia quaecumque recipiuntur in ipso erunt immaterialia et inextensa. Et hoc per illam rationem famosam, videlicet: quidquid /69b/ recipitur ad modum rei recipientis recipitur, id est, si subiectum sit extensum, et accidens quod recipitur in illo erit extensum; et si inextensum, inextensum. Et hoc intelligitur de accidente absoluto propter relationes. Ex quo sequitur quod non est dubium quin species intelligibilis distinguatur specie ab aliis speciebus non intelligibilibus.
+
+Tertia proprietas est:
+
+> Species intelligibilis est similitudo habitualis sui obiecti, quia est talis virtutis et naturae quod potest producere effectum, id est notitiam actualem effective sui obiecti.
+
+Quarta proprietas:
+
+> Species intelligibilis differt ab aliis speciebus, quia potest repraesentare rem et universaliter et particulariter: potest causare conceptum communem et conceptum singularem.
+
+Quinta proprietas:
+
+> Species intelligibilis potest repraesentare rem cum conditionibus individuantibus et sine eis, id est species intelligibilis potest causare notitiam repraesentantem cum illis conditionibus et sine illis.
+
+Contra: nos experimur quod si volumus considerare de hac albedine, oportet considerari de ea cum tali figura; ergo intellectus non cognoscit nisi cum conditionibus individuantibus. Respondetur quod ideo apparet nobis quod phantasia considerat conditiones individuales, ideo apparet nobis quod intellectus non potest sine illis intelligere, quia ipsa phantasia sic considerat cum intellectu, et ipsa phantasia habet tantam connexionem cum ipso intellectu, quod videtur quod /70a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1706,5 +1740,10 @@ Page 67b: videre ] emend. viderunt (qui crediderunt videre canem)
 Page 67b: aliquis ] emend. aliquid (Quando aliquis habet imaginem)
 Page 68a: invidis ] conj. inui-/dis (de avaris et de invidis); 'multis' struck in the manuscript
 Page 68b: nolumus ] emend.  volumus (cuius opiniones in hoc tenere nolumus); context suggests nolumus
+Page 69a: Augustinum ] conj. agnstuʒ (contra Augustinum, contra medicos)
+Page 69b: quin ] conj. q̂m (quod non est dubium quin)
+Page 69b: conceptum ] conj. conaptʒ (potest causare conceptum communem et conceptum singularem)
+Page 69b: sic ] conj. sit (quia ipsa phantasia sic considerat)
+Page 69b: tantam ] conj.tantā (habet tantam connexionem)
 
 -->

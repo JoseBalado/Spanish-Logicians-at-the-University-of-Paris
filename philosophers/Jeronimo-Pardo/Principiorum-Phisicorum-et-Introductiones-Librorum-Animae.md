@@ -1686,7 +1686,25 @@ Sed obiectum potentiae olfactivae est qualitas sensibilis communis ad odoratum e
 
 Sed obiectum gustus est qualitas communis ad saporem et speciem saporis. Sed circa hoc quaeritur quare est quod, si quis potaverit vinum bonum et postea bibat de alio communi, quod sibi non apparet ita bonum sicut fecisset si non bibisset antea de bono vino. Dico quod hoc ideo est quia species boni vini remanserunt in lingua.
 
-Alia est cognitio sensus interioris seu phantasiae, et ista cognitio vocatur a doctoribus imaginatio, potentia cognitiva sensitiva interior, phantasiatio; et iste actus phantasiae se extendit ad obiectum materiale et extensum /72a/
+Alia est cognitio sensus interioris seu phantasiae, et ista cognitio vocatur a doctoribus imaginatio, potentia cognitiva sensitiva interior, phantasiatio; et iste actus phantasiae se extendit ad obiectum materiale et extensum, /72a/ et phantasia est talis naturae quod semper apprehendit rem cum tali quantitate, in tali loco et cum tali figura. Ex quo sequitur corollarium quod multi philosophi insequentes sensum negant multa propter phantasiam sic apprehendentem, sicut faciunt nominales.
+
+Advertendum quod phantasia potest memorari, et ideo vocatur memoria, ita quod duplex est memoria: quaedam est memoria sensitiva et est ipsa phantasia; alia est intellectiva et est memoria intellectus. Et quia omnes actus cognoscendi, tam complexe quam incomplexe, excepto cognoscere universaliter, possunt convenire phantasiae, ideo de intellectu tractabimus omnem modum operandi ipsius phantasiae, quia omnia sibi conveniunt praeter cognoscere sive intelligere universaliter.
+
+Alia est operatio intellectus, et illa vocatur intellectio. Unde cognitio in communi sic definitur:
+
+> Cognitio est una qualitas existens subiective in potentia cognitiva, vitaliter immutans ipsam potentiam cognitivam.
+
+Et dicitur 'qualitas', quia cognitio est aliquid absolutum. Ex quo sequitur quod falsa est illa opinio quae dicit quod cognitio est quidam respectus. Dicitur notanter 'existens subiective in potentia cognitiva', quia cognitio inhaeret et perficit potentiam cognitivam. Dicitur notanter 'vitaliter immutans potentiam cognitivam', per quam qualitatem potentia cognitiva attingit et cognoscit obiectum. Unde ibi tangitur unus respectus quem illa qualitas habet, et /72b/ fundatur in illa qualitate et terminatur ad obiectum. Ex quo sequitur quod iste terminus 'notitia' sive 'cognitio' supponit pro una qualitate connotando talem respectum, connotando quod per illam qualitatem potentia cognitiva attingat et cognoscat obiectum.
+
+Unde ponitur talis regula:
+
+> Quilibet terminus significans operationem alicuius potentiae supponit immediate pro una qualitate connotando tendentiam ipsius potentiae ad obiectum.
+
+Ut iste terminus 'volitio' supponit pro una qualitate connotando unam tendentiam per modum prosecutionis. Et per hoc patet quomodo possunt definiri operationes potentiarum: ut visio est una qualitas existens in potentia visiva, per quam potentia visiva tendit in obiectum cognoscendo, et similiter de aliis operationibus.
+
+Hoc supposito, ponendae sunt divisiones notitiarum intellectus, et dicendum est de qualibet, scilicet quae est et qualis est et quomodo causatur in nobis.
+
+Notitiarum ipsius intellectus quaedam est notitia intuitiva, alia est abstractiva; et hoc loquendo de notitia simplici. Unde notitia intuitiva est illa quae habetur de obiecto praesente ut praesens est. Dicitur notanter 'praesente'. Unde obiectum dicitur esse praesens alicui potentiae quando sic se habet quod est in debita distantia, sic quod quantum est de se potest causare suam notitiam, sive causet sive non. /73a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1805,5 +1823,7 @@ Page 70b: recipitur ] emend. recipiuntur (recipitur in intellectu subiective)
 Page 71a: quintuplex ] del. quadruplex quintuplex (sensus exterioris est quintuplex); 'quadruplex' struck in the manuscript
 Page 71b: communis ad ] sic (struck in the manuscript) (est qualitas sensibilis communis ad sonum)
 Page 71b: sonum ] del. quattuor primas qualitates sonum (communis ad sonum); 'quattuor primas qualitates' struck in the manuscript
+Page 72a: praeter ] emend. prepter (omnia sibi conveniunt praeter cognoscere)
+Page 72a: cognitio inhaeret ] del. cognitio non inheret (quia cognitio inhaeret et perficit); 'non' struck in the manuscript
 
 -->

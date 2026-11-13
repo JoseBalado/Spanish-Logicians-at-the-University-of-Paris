@@ -1850,6 +1850,7 @@ officiatorum
 olfactibilis
 olfactio
 Olfactiva
+olfactivae
 olfactivus
 omnisciens
 opaciore
@@ -1969,6 +1970,7 @@ phantasiabilis
 phantasiandi
 phantasiantur
 phantasiata
+phantasiatio
 phantasiatur
 phantasmatae
 Philelphus
@@ -2857,6 +2859,7 @@ synonymitatem
 synonymus
 tactiva
 Tactiva
+tactivae
 tactivam
 tangibile
 tangibilem

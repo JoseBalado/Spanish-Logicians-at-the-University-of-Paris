@@ -1668,6 +1668,26 @@ Sequitur de secundo accidente ipsius animae, quod est actus, et sic terminabimus
 
 /71a/
 
+Secundum membrum istius secundae figurae est actus animae, et subdividitur, quia quidam sunt actus qui sunt cognitiones, alii sunt actus qui vocantur affectiones. Cognitio autem dividitur, quia quaedam est sensus exterioris, quaedam vero sensus interioris, quaedam vero est cognitio intellectiva seu intellectus.
+
+Unde cognitio sensus exterioris est quintuplex, scilicet visio, auditio, gustatio, palpatio et olfactio seu odoratio. Unde dico quod quodlibet istorum est cognitio, conceptus et notitia; et potentiam visivam cognoscere est eam videre, et cognitionem potentiae tactivae est eam tangere, et sic de caeteris.
+
+Et de istis cognitionibus sensuum exteriorum quaero a quo et quomodo causantur. Dico quod iste est modus, quia Deus sic fecit istas potentias et dedit cuilibet potentiae suum proprium obiectum.
+
+Et arguitur sic: quodcumque obiectum potest percipi ab uno sensu potest percipi ab alio, quia in eodem subiecto et in eadem parte inveniuntur illa quae percipiuntur ab omnibus aliis, ut in eadem parte lactis in qua est dulcedo est albedo; ergo, si dulcedo percipitur a gustu, ergo et percipitur albedo. Nego consequentiam, et ratio est quia Deus sic ordinavit quod, quamvis sint in eadem parte, tamen non recipiuntur ab uno, sed unum percipit unum et aliud alterum; ideo quaelibet suarum potentiarum percipit suum obiectum.
+
+Notandum quod obiectum visus est qualitas sensibilis communis praecise ad ista quattuor, scilicet ad lucem, vel lumen, id est species lucis, et colorem, id est ad speciem coloris. Tunc dico quod visibile sic percipitur a visu, videlicet: primo visibile diffundit suas species /71b/ per medium, scilicet aerem vel aquam; secundo causat suas species in organo; tertio causat sensationes sensus exterioris.
+
+Sed obiectum potentiae auditivae est qualitas sensibilis communis ad sonum et ad speciem soni, tenendo probabiliter quod species soni audiantur. Ex quo patet quod potentia auditiva data est animali ut percipiat sonum vel speciem soni. Et sonus causat auditionem prius diffundendo suam speciem per aerem vel aquam; secundo causat suam speciem in organo; tertio causat suam auditionem in potentia auditiva.
+
+De obiecto tactus sunt multae opiniones, sicut dictum est; tamen potest dici quod qualitas sensibilis communis ad quattuor primas qualitates et duritiem et mollitiem et omne corruptivum naturae est obiectum. Ex quo sequitur quod gravitas et levitas sunt qualitates sensibiles, et non sentiuntur nisi de per accidens.
+
+Sed obiectum potentiae olfactivae est qualitas sensibilis communis ad odoratum et speciem odoris.
+
+Sed obiectum gustus est qualitas communis ad saporem et speciem saporis. Sed circa hoc quaeritur quare est quod, si quis potaverit vinum bonum et postea bibat de alio communi, quod sibi non apparet ita bonum sicut fecisset si non bibisset antea de bono vino. Dico quod hoc ideo est quia species boni vini remanserunt in lingua.
+
+Alia est cognitio sensus interioris seu phantasiae, et ista cognitio vocatur a doctoribus imaginatio, potentia cognitiva sensitiva interior, phantasiatio; et iste actus phantasiae se extendit ad obiectum materiale et extensum /72a/
+
 <!--
 ## Apparatus Criticus Reference
 * conj.    (coniectura)  : Text is unreadable; this is an educated guess.
@@ -1782,5 +1802,8 @@ Page 70a: primum exemplum ] conj. pmʒ (Primum exemplum: causatur ab intellectu)
 Page 70a: causatur ] emend. cau (quia causatur a potentia cognoscente)
 Page 70b: durum ] conj. durū (secundum quod aliqui habent durum organum)
 Page 70b: recipitur ] emend. recipiuntur (recipitur in intellectu subiective)
+Page 71a: quintuplex ] del. quadruplex quintuplex (sensus exterioris est quintuplex); 'quadruplex' struck in the manuscript
+Page 71b: communis ad ] sic (struck in the manuscript) (est qualitas sensibilis communis ad sonum)
+Page 71b: sonum ] del. quattuor primas qualitates sonum (communis ad sonum); 'quattuor primas qualitates' struck in the manuscript
 
 -->

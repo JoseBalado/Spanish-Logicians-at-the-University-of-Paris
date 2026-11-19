@@ -1704,7 +1704,27 @@ Ut iste terminus 'volitio' supponit pro una qualitate connotando unam tendentiam
 
 Hoc supposito, ponendae sunt divisiones notitiarum intellectus, et dicendum est de qualibet, scilicet quae est et qualis est et quomodo causatur in nobis.
 
-Notitiarum ipsius intellectus quaedam est notitia intuitiva, alia est abstractiva; et hoc loquendo de notitia simplici. Unde notitia intuitiva est illa quae habetur de obiecto praesente ut praesens est. Dicitur notanter 'praesente'. Unde obiectum dicitur esse praesens alicui potentiae quando sic se habet quod est in debita distantia, sic quod quantum est de se potest causare suam notitiam, sive causet sive non. /73a/
+Notitiarum ipsius intellectus quaedam est notitia intuitiva, alia est abstractiva; et hoc loquendo de notitia simplici. Unde notitia intuitiva est illa quae habetur de obiecto praesente ut praesens est. Dicitur notanter 'praesente'. Unde obiectum dicitur esse praesens alicui potentiae quando sic se habet quod est in debita distantia, sic quod quantum est de se potest causare suam notitiam, sive causet sive non /73a/ propter aliquod impedimentum. Ex quo sequitur quod cum dicitur notitia intuitiva est quae habetur de obiecto praesente, id est qua cognoscitur aliquod obiectum esse praesens, id est qua cognoscitur obiectum quod est in debita distantia quod possit causare suam notitiam, et hoc quantum est de se. Dicitur 'ut praesens est', id est quae notitia causatur effective ab obiecto praesente, vel nata est causari, ut si Deus supplet obiectum. Ex quo sequitur quod clariori modo sic potest definiri:
+
+> Notitia intuitiva est notitia quae causatur ab aliquo obiecto praesente et per eam illud obiectum cognoscitur, et hoc naturaliter loquendo.
+
+Ex quo sequitur quod non vocatur intuitiva quia res in seipsa immediate manifestat se potentiae cognitivae et intellectivae.
+
+Contra: notitia qua cognosco tenebras vel silentium est intuitiva, et tamen non habetur de obiecto praesente; ergo. Patet quia tenebra percipitur a visu, et visus non cognoscit nisi intuitive; igitur.
+
+Pro solutione videndum est quomodo cognoscitur privatio, pro quo ponitur talis regula:
+
+> Omnis privatio seu omnis absentia rei cognoscitur notitia complexa discurrendo.
+
+Et hoc est quod volunt dicere philosophi, quod privationes cognoscuntur per habitus, id est per notitiam habituum cum quadam argumentatione devenimus in cognitionem privationum, sic arguendo: ego in phantasia vel in intellectu recordor quod quando eram in tali loco /73b/ cum oculis apertis videbam aliquid, et nunc nihil video, et sum in illo modo sicut eram ante; ergo tenebra est, id est carentia luminis.
+
+Ex isto sequitur quod nec visus percipit tenebras nec per se nec per accidens, nec auditus, et sic de caeteris sensibus exterioribus, qui nec per se nec per accidens cognoscunt absentiam rerum intuitive, sed solum in phantasia cognoscitur illa arguitive.
+
+Secundo sic arguitur: iudicium quo iudico baculum in aqua esse fractum est notitia intuitiva, et tamen non habetur de obiecto praesente; ergo notitia intuitiva habetur de re absente. Patet antecedens, quia habetur de fractione baculi, quae fractio baculi non est.
+
+Ad hoc sunt tres solutiones. Una est Gregorii, qui dicit quod illud iudicium non est notitia intuitiva nec abstractiva; et quando dicitur: 'notitia intuitiva et abstractiva', non dividitur notitia in communi, sed notitia simplex apprehensiva. Et ista solutio est bona, quia ista iudicia non debent dici notitiae intuitivae, sed sunt producta a notitia intuitiva.
+
+Alia est opinio aliquorum Scotizantium, qui dicunt quod illud iudicium potest dici intuitiva. Et quando dicis: notitia intuitiva non potest haberi de re absente vel obiecto absente, distinguo vel tamquam de obiecto minus principali et partiali, et sic nego; aut de obiecto magis principali et partiali, et sic concedo. Nam totum hoc est obiectum totale, scilicet baculus fractus in aqua, modo dico quod obiectum principale non est. /74a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1825,5 +1845,7 @@ Page 71b: communis ad ] sic (struck in the manuscript) (est qualitas sensibilis 
 Page 71b: sonum ] del. quattuor primas qualitates sonum (communis ad sonum); 'quattuor primas qualitates' struck in the manuscript
 Page 72a: praeter ] emend. prepter (omnia sibi conveniunt praeter cognoscere)
 Page 72a: cognitio inhaeret ] del. cognitio non inheret (quia cognitio inhaeret et perficit); 'non' struck in the manuscript
+Page 73a: supplet ] leg. suplet (ut si Deus supplet obiectum)
+Page 73b: obiectum principale ] emend. sb̄m p̄ncipale (in dicto quod obiectum principale non est)
 
 -->

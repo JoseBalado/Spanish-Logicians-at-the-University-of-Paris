@@ -1726,6 +1726,30 @@ Ad hoc sunt tres solutiones. Una est Gregorii, qui dicit quod illud iudicium non
 
 Alia est opinio aliquorum Scotizantium, qui dicunt quod illud iudicium potest dici intuitiva. Et quando dicis: notitia intuitiva non potest haberi de re absente vel obiecto absente, distinguo vel tamquam de obiecto minus principali et partiali, et sic nego; aut de obiecto magis principali et partiali, et sic concedo. Nam totum hoc est obiectum totale, scilicet baculus fractus in aqua, modo dico quod obiectum principale non est. /74a/
 
+Tertia est solutio quod non est inconveniens quod notitia iudicativa sit de obiecto absente. Sed quaero unde decipimur credendo quod baculus sit fractus. Pro solutione ponitur talis propositio:
+
+> Notitia intuitiva imperfecta unius nata est causare notitiam intuitivam alterius, iudicium erroneum alterius.
+
+Modo dico quod video refractionem et baculum, et nescio iudicare in quo sit illa refractio, et hoc distincte, nisi in baculo, in quo non est; ideo decipimur. Sed illa refractio est in speciebus, et credo eam esse in baculo.
+
+Hoc supposito, ponuntur aliquae propositiones seu proprietates notitiae intuitivae, quarum prima est:
+
+> Notitia intuitiva nata est statim causare iudicium de existentia rei quam intuemur, puta nata causare iudicium quo iudico quod haec res est.
+
+Secunda proprietas probabilis:
+
+> Notitia intuitiva nec naturaliter nec supernaturaliter potest haberi de obiecto absente.
+
+Volo dicere quod Deus non potest facere quod visio qua video hanc albedinem maneat vel maneret destructa albedine. Pro qua opinione sic est imaginandum quod notitia intuitiva duo significat: primo significat quamdam qualitatem existentem in potentia cognitiva; secundo significat attingentiam, unum respectum realem extrinsecus advenientem. Ut video hanc albedinem: in illa visione sunt duo; unum est una qualitas existens /74b/ in potentia visiva, secundum est attingentia ipsius qualitatis ad albedinem, et per illam attingentiam habet illa qualitas quod sit notitia intuitiva.
+
+Tunc pono duas propositiones. Prima: illa qualitas potest esse sine obiecto per potentiam divinam. Secunda propositio: Deus non potest facere quod illa attingentia sit sine obiecto. Et ratio est quia illa attingentia est unus respectus realis qui requirit fundamentum et terminum actualiter existentia.
+
+Contra: quidquid potest Deus facere cum causa secunda, potest se solo; sed illam attingentiam potest facere cum obiecto; ergo se solo. Distinguo maiorem: aut se solo effective concurrente, et sic concedo; aut se solo nullo alio requisito, et sic nego. Modo dico quod obiectum requiritur ad terminandum notitiam.
+
+Ex quo sequitur quod quando dicitur quod "notitia intuitiva non potest esse sine obiecto" debet glosari in sensu composito, scilicet haec est impossibilis: "Notitia intuitiva est sine obiecto".
+
+Sed contra: non potest esse sine obiecto; igitur. Antecedens patet, quia si posset, vel hoc esset propter causationem vel propter terminationem; sed nullum istorum est dicendum; igitur. Dico primo quod hoc non est propter causationem, quia Deus potest supplere illam causationem. Dico secundo quod hoc est propter terminationem, quia obiectum absens non potest terminare illam attingentiam; immo plus dico, quod illud obiectum requiritur in debita distantia, ita quod si esset in maiori, non terminaret illam attingentiam. /75a/
+
 <!--
 ## Apparatus Criticus Reference
 * conj.    (coniectura)  : Text is unreadable; this is an educated guess.
@@ -1847,5 +1871,13 @@ Page 72a: praeter ] emend. prepter (omnia sibi conveniunt praeter cognoscere)
 Page 72a: cognitio inhaeret ] del. cognitio non inheret (quia cognitio inhaeret et perficit); 'non' struck in the manuscript
 Page 73a: supplet ] leg. suplet (ut si Deus supplet obiectum)
 Page 73b: obiectum principale ] emend. sb̄m p̄ncipale (in dicto quod obiectum principale non est)
+Page 74a: notitiam intuitivam alterius, iudicium erroneum alterius ] sic (nata est causare notitiam intuitivam alterius, iudicium erroneum alterius); 'notitiam intuitivam alterius' is likely an uncancelled anticipation corrected in-line to 'iudicium erroneum alterius'
+Page 74b: attingentia ] emend. attingentiam (secundum est attingentia ipsius qualitatis)
+Page 74b: requirit ] leg. recquiri (respectus realis qui requirit fundamentum)
+Page 74b: se solo ] del. se solo effective concurrente (ergo se solo. Distinguo maiorem); 'effective concurrente' struck in the manuscript
+Page 74b: Modo dico ] del. modo dico modo dico (Modo dico quod obiectum requiritur)
+Page 74b: obiecto ] emend. sb̄o ('non potest esse sine obiecto' debet glosari in sensu composito)
+Page 74b: obiecto ] emend. sb̄o (haec est impossibilis: "Notitia intuitiva est sine obiecto")
+Page 74b: non potest ... si posset ] context expects 'potest ... si non posset'
 
 -->

@@ -455,7 +455,7 @@ Quodlibet conditionatum, cuius terminus inferens terminatum illatum infert, est 
 Terminus sequens si est inferens, praecedens illatus, alius terminus est concomitans sive concurrens. Ex hac sequitur:
 
 1.  Primo: Si terminus inferens sit inferior aut convertibilis cum illato conditionatum, est transcendes, ut "Animal Si est homo", "Homo Si est risibile".
-2.  Secundo sequitur: Si terminus inferens de nullo verificai potest, conditionatum est transcendens, ut "Ens Si est Chimaera".
+2.  Secundo sequitur: Si terminus inferens de nullo verificari potest, conditionatum est transcendens, ut "Ens Si est Chimaera".
 
 Regula secunda:
 

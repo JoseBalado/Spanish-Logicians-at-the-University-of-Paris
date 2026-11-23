@@ -1768,6 +1768,26 @@ Alia est notitia abstractiva, et est illa quae immediate causatur a specie obiec
 
 Et iste est ordo: nam albedo primo causat suam speciem in medio, secundo in organo, tertio causat suam sensationem, quarto causat suam speciem phantasticam, quinto illa albedo causat notitiam intuitivam in phantasia, sexto causat suam speciem intelligibilem, septimo causat notitiam intuitivam in intellectu. /76a/
 
+Ex quo sequitur quod notitia intuitiva et notitia abstractiva non differunt penes obiecta, sed differunt penes causationem: quia sicut notitia intuitiva terminatur immediate ad albedinem, similiter notitia abstractiva; sed differunt penes causationem, quia intuitiva causatur ab albedine et abstractiva ab specie albedinis. Unde notitia abstractiva habet suam imperfectionem ex eo quod non causatur a re, sed a specie rei; ideo quaelibet notitia abstractiva est imperfectior quam quaelibet intuitiva, quia per intuitivam res se manifestat in propria forma, sed per notitiam abstractivam se manifestat per suam speciem, ideo dicitur obscura.
+
+Et de ordine istarum notitiarum ponitur talis propositio:
+
+> Omnis notitia abstractiva alicuius rei praesupponit notitiam intuitivam illius rei.
+
+Unde bene sequitur: "Cognosco nunc patrem meum per notitiam abstractivam; ergo alias cognovi per notitiam intuitivam".
+
+Nunc quaeritur utrum de eadem re possit haberi simul et semel notitia intuitiva et abstractiva. Dico quod non. Contra quod arguitur dupliciter: primo experientia, secundo ratione. Experientia sic: veniat aliquis a remotis, et sit pater meus, et tamen non sciam quod sit pater meus, et tamen cogitem de patre meo; quo facto, habeo notitiam intuitivam et abstractivam de eadem re; igitur. Secundo: quando habeo notitiam intuitivam huius albedinis et habeo speciem illius albedinis, tunc sic: quando causa naturalis alicuius effectus est, tunc potest poni effectus; sed sic est quod species cum intellectu sunt causae talis notitiae abstractivae; /76b/ ergo illam habeo.
+
+Respondetur quod propter istas rationes ponenda est talis conclusio:
+
+> De eadem re potest haberi notitia intuitiva et abstractiva, sive illa notitia intuitiva sit perfecta sive imperfecta.
+
+Contra: illae duae notitiae repugnant; ergo non possunt haberi de eadem re simul et semel. Antecedens patet, quia illa notitia intuitiva est clara et abstractiva est obscura; sed clara et obscura repugnant; igitur. Nego quod notitia clara et obscura repugnent, et hoc maxime si non causantur ab eodem. Et nota quod quaelibet notitia abstractiva, quantumcumque distincta, est obscura, et quaelibet intuitiva, quantumcumque imperfecta, vocatur clara, quia res manifestat se in propria forma, quod negatur de abstractiva, quod manifestat se per propriam speciem; et ideo non est contradictio cognoscere clare et obscure per diversas notitias.
+
+Contra: experior quod, quando habeo notitiam intuitivam huius albedinis, quod non possum habere notitiam abstractivam. Dico quod deceptio provenit ex parte mei, et hoc est propter intensiorem notitiam intuitivam, et ideo videtur mihi quod non possum habere notitiam abstractivam quando habeo intuitivam bene intensam.
+
+Tertio arguitur sic: si notitia intuitiva et abstractiva possunt haberi de eodem simul et semel, sequeretur quod numquam possem habere notitiam intuitivam quin habeam notitiam abstractivam. Patet, quia numquam habeo notitiam intuitivam quin etiam habeam causas naturales producentes notitiam abstractivam, puta speciem intelligibilem et in- /77a/
+
 <!--
 ## Apparatus Criticus Reference
 * conj.    (coniectura)  : Text is unreadable; this is an educated guess.
@@ -1902,5 +1922,11 @@ Page 75b: existentia ] emend. essentia (iudicium de existentia rei quae intuetur
 Page 75b: causatur ] om. (et est illa quae immediate [causatur] a specie obiecti)
 Page 75b: ab ] emend. ap (et non ab ipso obiecto)
 Page 75b: Et iste est ordo ] del. et iste est ordo et iste est ordo (Et iste est ordo: nam albedo primo)
+Page 76a: notitiarum ] emend. potentiarum (Et de ordine istarum notitiarum ponitur talis propositio); Pardo wrote 'pōarꝫ' for 'nōarꝫ'
+Page 76a: Experientia ] leg. Sperientia (Experientia sic: veniat aliquis a remotis)
+Page 76b: conclusio ] emend. quaestio (propter istas rationes ponenda est talis conclusio); scribe wrote 'q⁰' for 'ꝯ⁰'
+Page 76b: imperfecta ] emend. perfecta (et quaelibet intuitiva, quantumcumque imperfecta, vocatur clara); cf. 76b above: "De eadem re potest haberi notitia intuitiva et abstractiva, sive illa notitia intuitiva sit perfecta sive imperfecta"
+Page 76b: experior ] leg. sperior (Contra: experior quod, quando habeo)
+Page 76b: producentes ] emend. producentem (causas naturales producentes notitiam abstractivam)
 
 -->

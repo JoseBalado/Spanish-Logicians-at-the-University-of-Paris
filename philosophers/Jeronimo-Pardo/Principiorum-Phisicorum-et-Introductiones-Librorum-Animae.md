@@ -1750,6 +1750,24 @@ Ex quo sequitur quod quando dicitur quod "notitia intuitiva non potest esse sine
 
 Sed contra: non potest esse sine obiecto; igitur. Antecedens patet, quia si posset, vel hoc esset propter causationem vel propter terminationem; sed nullum istorum est dicendum; igitur. Dico primo quod hoc non est propter causationem, quia Deus potest supplere illam causationem. Dico secundo quod hoc est propter terminationem, quia obiectum absens non potest terminare illam attingentiam; immo plus dico, quod illud obiectum requiritur in debita distantia, ita quod si esset in maiori, non terminaret illam attingentiam. /75a/
 
+Ex quo sequitur quod attingentia notitiae intuitivae et abstractivae sunt alterius rationis, quia attingentia notitiae intuitivae est respectus realis, ideo requirit fundamentum et terminum existere, sed attingentia notitiae abstractivae est respectus rationis qui non requirit fundamentum et terminum existere.
+
+Nunc quaero talem quaestionem: quae sunt illa quae possunt cognosci intuitive ab intellectu nostro? Unde aliquod obiectum movere intellectum meum est causare suam notitiam naturaliter et non libere. Tunc dico quod obiectum mei intellectus pro statu isto est sensibile vel immutativum cognoscentis, vel ipsa anima secundum alios, ita quod pro statu isto nihil potest cognosci nisi sit sensibile vel immutativum cognoscentis, et omne quod est sensibile vel immutativum cognoscentis potest cognosci ab intellectu pro statu isto.
+
+Contra: intellectus non potest cognoscere suam intellectionem pro statu isto; igitur. Patet antecedens, quia nihil est in intellectu quin prius fuerit in sensu. Respondetur quod illud habet verum de sensibili, et est talis ordo, quia aliquid est sensibile prius in sensu, postea in phantasia, tertio in intellectu. Secundo sic: aliquid est cognoscibile a phantasia et non a sensu exteriori, illud prius causabit suam speciem in phantasia et postea in intellectu; tamen non vult habere auctoritas quod nihil est in intellectu quin prius fuerit in sensu.
+
+/75b/
+
+* **Notitiae intuitivae proprietates**
+  * Notitia intuitiva est rei praesentis ut praesens est
+  * quod nata est causare immediate iudicium de existentia rei quae intuetur
+  * quod nec naturaliter nec supernaturaliter potest haberi obiecto absente
+  * quod ipsa includit duo, scilicet qualitatem et attingentiam
+
+Alia est notitia abstractiva, et est illa quae immediate causatur a specie obiecti et non ab ipso obiecto, nec partialiter nec totaliter; et ista notitia est obscura et aenigmatica, et hoc est quia obiectum non manifestat se in se, sed in sua specie. Et quod sit ponenda talis notitia abstractiva patet, quia nunc cognosco albedinem absentem, et illa notitia non causatur ab albedine nec ab intellectu solum; ergo ponendum est aliquid, et illud voco speciem, a qua causatur talis notitia abstractiva. Et ista notitia abstractiva causatur a specie phantastica et intelligibili, et non a specie sensibili sensus exterioris.
+
+Et iste est ordo: nam albedo primo causat suam speciem in medio, secundo in organo, tertio causat suam sensationem, quarto causat suam speciem phantasticam, quinto illa albedo causat notitiam intuitivam in phantasia, sexto causat suam speciem intelligibilem, septimo causat notitiam intuitivam in intellectu. /76a/
+
 <!--
 ## Apparatus Criticus Reference
 * conj.    (coniectura)  : Text is unreadable; this is an educated guess.
@@ -1879,5 +1897,10 @@ Page 74b: Modo dico ] del. modo dico modo dico (Modo dico quod obiectum requirit
 Page 74b: obiecto ] emend. sb̄o ('non potest esse sine obiecto' debet glosari in sensu composito)
 Page 74b: obiecto ] emend. sb̄o (haec est impossibilis: "Notitia intuitiva est sine obiecto")
 Page 74b: non potest ... si posset ] context expects 'potest ... si non posset'
+Page 75a: sed attingentia ] emend. secundum attingentiam (sed attingentia notitiae abstractivae est respectus rationis); Pardo wrote 'ſm̄' ('secundum', as in 'secundum alios' below), attracting 'attingentia' into the accusative
+Page 75b: existentia ] emend. essentia (iudicium de existentia rei quae intuetur); cf. 74a: "Notitia intuitiva nata est statim causare iudicium de existentia rei quam intuemur"
+Page 75b: causatur ] om. (et est illa quae immediate [causatur] a specie obiecti)
+Page 75b: ab ] emend. ap (et non ab ipso obiecto)
+Page 75b: Et iste est ordo ] del. et iste est ordo et iste est ordo (Et iste est ordo: nam albedo primo)
 
 -->

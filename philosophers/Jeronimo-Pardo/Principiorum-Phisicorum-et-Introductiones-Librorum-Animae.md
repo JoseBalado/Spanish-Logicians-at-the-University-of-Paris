@@ -1806,7 +1806,29 @@ Et ponitur talis propositio notanda:
 
 > Nullum conceptum communem possumus habere nisi aliquod incomplexum singulare illius conceptus communis fuerit cognitum intuitive.
 
-Ideo non possumus habere conceptum specificum cui /78a/
+Ideo non possumus habere conceptum specificum cui /78a/ subordinetur iste terminus 'homo' in significando, et ratio est quia numquam habeo speciem intelligibilem alicuius hominis.
+
+Tunc quaeritur quae istarum notitiarum habetur prius, aut communis aut singularis. Respondetur per talem conclusionem:
+
+> Simpliciter loquendo, notitia singularis est quae primo habetur.
+
+Quod sic probatur, quia quando est aliquod agens potens producere duos effectus, unum perfectiorem et alium imperfectiorem, si non sit impedimentum ex parte utriusque, semper producit perfectiorem effectum; sed notitia minus communis est magis perfecta et magis communis est minus perfecta; ergo intellectus prius producit notitiam minus communem. Dicunt tamen aliqui quod ordine distincte cognoscendi, id est definitive, prius cognoscitur magis commune quam minus commune; tamen de hoc parum est curandum.
+
+Pro declaratione quaeritur talis quaestio: utrum notitia unius singularis sit repraesentativa alterius singularis sibi similis, ut quaero utrum notitia huius albedinis sit nata repraesentare aliam sibi similem.
+
+Pro solutione ponitur talis divisio notitiarum: notitiarum quaedam eiusdem speciei, alia alterius speciei. De notitiis eiusdem speciei ponitur talis propositio vel regula, ut bene valet ista consequentia: "Istae notitiae sunt eiusdem speciei; ergo, si sunt in eodem intellectu, componunt unam aliam notitiam perfectiorem".
+
+Sed ad videndum quae non sunt eiusdem speciei, videndum est de modo repraesentandi notitiarum, pro quo ponuntur aliquae propositiones.
+
+Prima: naturaliter repraesentat illud /78b/ cuius est notitia, ita quod naturaliter loquendo impossibile est quod notitia non repraesentet suum obiectum.
+
+Secunda propositio: notitia non simpliciter necessario repraesentat suum obiectum, immo Deus potest facere quod illa qualitas quae est notitia sit in potentia cognitiva et non repraesentet obiectum suum, id est potest removere illam attingentiam; de hoc non est curandum a philosopho naturali, quia hoc est supernaturale.
+
+Tertia propositio: haec consequentia est bona: "Haec notitia est repraesentativa huius obiecti; ergo repraesentat hoc obiectum", et hoc naturaliter loquendo; et ratio huius est quia illam qualitatem necessario naturaliter consequitur repraesentatio sui obiecti.
+
+Quarta propositio: quandocumque aliqua notitia non est nata repraesentare aliquod obiectum, Deus non potest facere quod illa repraesentet, ut Deus non potest facere quod notitia adaequata omnium albedinum repraesentaret omnes nigredines; tamen de hac propositione non est curandum a philosopho naturali.
+
+Quarta propositio, quae ponitur pro regula: quandocumque aliquae notitiae sic se habent quod una repraesentat aliquod obiectum quod obiectum alia notitia non potest repraesentare, infertur tunc quod illae notitiae differunt specie, et hoc naturaliter loquendo. Ideo sequitur probabiliter quod notitia intuitiva huius albedinis et notitia intuitiva alterius albedinis differunt specie. Quod probatur dupliciter, et primo sic: quandocumque aliquae notitiae sic se habent quod una repraesentat aliquod quod repugnat alteri notitiae repraesentare, tunc illae notitiae differunt specie; sed sic est quod notitiae huius albedinis convenit repraesentare hanc /79a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1953,5 +1975,10 @@ Page 77a: quam ] emend. quae (cuius speciei sit illa res quam repraesentat)
 Page 77a: determinatissima ] sic (Alia est notitia singularis determinatissima); scribe first wrote 'det̄minatiā' ('determinativa') on the line and added 'ſſi' above the end
 Page 77b: species ] emend. notitia (ut species huius albedinis potest causare); Pardo's thesis contra Occam is that the species intelligibilis (not the notitia, as Occam held) causes universal cognitions; cf. 77b above: "Species intelligibilis alicuius singularis potest causare notitiam omnium superiorum"
 Page 77b: aliquod incomplexum singulare ] sic (nisi aliquod incomplexum singulare illius conceptus communis fuerit cognitum intuitive); 'incomplexum' may be displaced from 'conceptum communem [incomplexum]'
+Page 78a: agens ] emend. genus (quando est aliquod agens potens producere duos effectus)
+Page 78a: notitiarum ] del. Notandum notitiarum (notitiarum: notitiarum quaedam eiusdem speciei); 'Notandum' struck in the manuscript
+Page 78b: cuius ] del. cuius cuius (repraesentat illud /78b/ cuius est notitia); repeated across the page break ('cuiȝ9' at end of 78a, 'cuius' at start of 78b)
+Page 78b: Quarta ] sic (Quarta propositio, quae ponitur pro regula); repeated after the preceding 'Quarta propositio'
+Page 78b: alterius ] del. huius alterius (et notitia intuitiva alterius albedinis); 'huius' struck and 'alterius' added above the line in the manuscript
 
 -->

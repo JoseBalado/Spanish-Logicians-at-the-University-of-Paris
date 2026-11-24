@@ -1786,7 +1786,27 @@ Contra: illae duae notitiae repugnant; ergo non possunt haberi de eadem re simul
 
 Contra: experior quod, quando habeo notitiam intuitivam huius albedinis, quod non possum habere notitiam abstractivam. Dico quod deceptio provenit ex parte mei, et hoc est propter intensiorem notitiam intuitivam, et ideo videtur mihi quod non possum habere notitiam abstractivam quando habeo intuitivam bene intensam.
 
-Tertio arguitur sic: si notitia intuitiva et abstractiva possunt haberi de eodem simul et semel, sequeretur quod numquam possem habere notitiam intuitivam quin habeam notitiam abstractivam. Patet, quia numquam habeo notitiam intuitivam quin etiam habeam causas naturales producentes notitiam abstractivam, puta speciem intelligibilem et in- /77a/
+Tertio arguitur sic: si notitia intuitiva et abstractiva possunt haberi de eodem simul et semel, sequeretur quod numquam possem habere notitiam intuitivam quin habeam notitiam abstractivam. Patet, quia numquam habeo notitiam intuitivam quin etiam habeam causas naturales producentes notitiam abstractivam, puta speciem intelligibilem et /77a/ intellectum; ergo. Ad hoc argumentum videbitur solutio in quadam quaestione in qua quaeritur quod, cum ita sit quod habemus multas species in intellectu, unde est quod una magis movet nos ad recordandum de una re quam de alia.
+
+Secunda divisio notitiarum incomplexarum: quaedam est notitia singularis, alia est notitia communis. Unde notitia singularis est quae praecise unam rem repraesentat, per quam cognoscitur una res singularis, ut notitia qua cognosco hanc albedinem est notitia singularis. Contra: non tantum repraesentat unam albedinem, sed etiam alias sibi similes; igitur. Nego.
+
+De ista notitia singulari dico quod etiam est duplex, scilicet notitia intuitiva et abstractiva: intuitiva singularis, ut notitia qua cognosco hanc albedinem; abstractiva eius, quae causatur a specie eius.
+
+Deinde notitia abstractiva singularis dividitur, quia quaedam est singularis vaga, alia est notitia singularis determinata, et additur una alia propter communem modum loquendi, scilicet determinatissima.
+
+Unde notitia singularis vaga est notitia singularis repraesentans rem, quae est tam debilis quod non potest causare iudicium quo iudicem cuius speciei sit illa res. Exemplum: ut veniat Sortes multum a remotis, tunc habeo notitiam Sortis, et illa talis dicitur vaga, quia illa notitia est imperfecta, quia non potest causare iudicium distinctum seu distinctivum quo iudicem cuius speciei sit illa res. Sed notitia singularis determinata est notitia singularis quae potest causare iudicium quo iudicem cuius speciei sit illa res quam repraesentat. Alia est notitia singularis determinatissima, /77b/ et est notitia singularis quae potest causare iudicium determinatissimum, quo posset quis iudicare et distinguere illam rem a quacumque alia; et nullam talem possumus habere pro statu isto.
+
+Alia est notitia communis, et est illa quae potest repraesentare multa singularia immediate, ut notitia hominis. Exemplum: capio notitiam communem albedinis, et quaero utrum illa notitia sit intuitiva vel abstractiva. Dico quod est notitia abstractiva, quia mirabile esset quod haberem notitiam intuitivam qua cognoscerem omnes albedines possibiles. Contra: vel illa notitia abstractiva causatur ab hac albedine, vel ab hac albedine. Respondetur quod illa communis causatur a specie huius albedinis. Ex quo sequitur quod species intelligibilis huius albedinis potest causare duplicem notitiam abstractivam: unam qua cognosco hanc albedinem, et aliam qua cognosco omnes albedines abstractive.
+
+Item, notitiarum communium quaedam est generica, quaedam specifica, alia vero transcendens. Et de omnibus istis quaero an possint causari ab eodem. Dico ad hoc per talem propositionem contra Occam:
+
+> Species intelligibilis alicuius singularis potest causare notitiam omnium superiorum, ut species huius albedinis potest causare notitiam albedinis, coloris et entis.
+
+Et ponitur talis propositio notanda:
+
+> Nullum conceptum communem possumus habere nisi aliquod incomplexum singulare illius conceptus communis fuerit cognitum intuitive.
+
+Ideo non possumus habere conceptum specificum cui /78a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1928,5 +1948,10 @@ Page 76b: conclusio ] emend. quaestio (propter istas rationes ponenda est talis 
 Page 76b: imperfecta ] emend. perfecta (et quaelibet intuitiva, quantumcumque imperfecta, vocatur clara); cf. 76b above: "De eadem re potest haberi notitia intuitiva et abstractiva, sive illa notitia intuitiva sit perfecta sive imperfecta"
 Page 76b: experior ] leg. sperior (Contra: experior quod, quando habeo)
 Page 76b: producentes ] emend. producentem (causas naturales producentes notitiam abstractivam)
+Page 77a: repraesentat ] emend. recipit (Contra: non tantum repraesentat unam albedinem); cf. 77a above: "Unde notitia singularis est quae praecise unam rem repraesentat"
+Page 77a: quam ] emend. quae (cuius speciei sit illa res quam repraesentat)
+Page 77a: determinatissima ] sic (Alia est notitia singularis determinatissima); scribe first wrote 'det̄minatiā' ('determinativa') on the line and added 'ſſi' above the end
+Page 77b: species ] emend. notitia (ut species huius albedinis potest causare); Pardo's thesis contra Occam is that the species intelligibilis (not the notitia, as Occam held) causes universal cognitions; cf. 77b above: "Species intelligibilis alicuius singularis potest causare notitiam omnium superiorum"
+Page 77b: aliquod incomplexum singulare ] sic (nisi aliquod incomplexum singulare illius conceptus communis fuerit cognitum intuitive); 'incomplexum' may be displaced from 'conceptum communem [incomplexum]'
 
 -->

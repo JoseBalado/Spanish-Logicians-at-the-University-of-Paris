@@ -1828,7 +1828,27 @@ Tertia propositio: haec consequentia est bona: "Haec notitia est repraesentativa
 
 Quarta propositio: quandocumque aliqua notitia non est nata repraesentare aliquod obiectum, Deus non potest facere quod illa repraesentet, ut Deus non potest facere quod notitia adaequata omnium albedinum repraesentaret omnes nigredines; tamen de hac propositione non est curandum a philosopho naturali.
 
-Quarta propositio, quae ponitur pro regula: quandocumque aliquae notitiae sic se habent quod una repraesentat aliquod obiectum quod obiectum alia notitia non potest repraesentare, infertur tunc quod illae notitiae differunt specie, et hoc naturaliter loquendo. Ideo sequitur probabiliter quod notitia intuitiva huius albedinis et notitia intuitiva alterius albedinis differunt specie. Quod probatur dupliciter, et primo sic: quandocumque aliquae notitiae sic se habent quod una repraesentat aliquod quod repugnat alteri notitiae repraesentare, tunc illae notitiae differunt specie; sed sic est quod notitiae huius albedinis convenit repraesentare hanc /79a/
+Quarta propositio, quae ponitur pro regula: quandocumque aliquae notitiae sic se habent quod una repraesentat aliquod obiectum quod obiectum alia notitia non potest repraesentare, infertur tunc quod illae notitiae differunt specie, et hoc naturaliter loquendo. Ideo sequitur probabiliter quod notitia intuitiva huius albedinis et notitia intuitiva alterius albedinis differunt specie. Quod probatur dupliciter, et primo sic: quandocumque aliquae notitiae sic se habent quod una repraesentat aliquod quod repugnat alteri notitiae repraesentare, tunc illae notitiae differunt specie; sed sic est quod notitiae huius albedinis convenit repraesentare hanc /79a/ albedinem, et repugnat huic notitiae alterius albedinis; ergo differunt specie.
+
+Secunda probatio, et fortior: duae notitiae eiusdem speciei non possunt esse in intellectu quin componant unam tertiam notitiam perfectiorem et intensiorem; sed notitia huius albedinis *a* et alterius albedinis non possunt componere tertiam notitiam in eodem intellectu; ergo differunt specie. Et confirmatur, quia notitia albedinis non intenditur nisi per notitias repraesentantes albedinem *a*, et non per notitias repraesentantes albedinem *b*; ergo differunt specie. Et notitia huius albedinis habet partes, quarum quaelibet repraesentat *a* albedinem. Patet, quia illud habet partes quod intenditur et remittitur; sed notitia *a* albedinis est huiusmodi; ergo notitia habet partes. Patet quando remittatur, quia si ego prolongem me ab hac albedine, notitia huius albedinis remittetur.
+
+Sed contra hoc est ratio difficilis, quia quandocumque aliqua differunt specie, tunc unum est perfectius alio. Patet, quia si essent perfectae, non differrent specie; sed sic est quod notitia huius albedinis non est perfectior alia; ergo non differunt specie. Patet, quia pono quod una albedo sit aeque perfecta sicut alia et in tali distantia, et quod non sit impedimentum de una nec de alia; ergo non oportet dicere quod differunt specie. Argumentum est difficile et longum.
+
+Tertia divisio notitiarum est ista: notitiarum quaedam vocatur recta, quaedam vocatur reflexa. Unde notitia recta vocatur illa quae non immediate terminatur ad aliquam notitiam, sed terminatur immediate ad rem ad extra, ut notitia qua cognosco hanc albedinem est notitia recta, quia immediate /79b/ repraesentat albedinem et non aliam notitiam.
+
+Alia est notitia reflexa, et est notitia alicuius cognitionis, ut notitia qua cognosco me cognoscere hanc albedinem. Et de ista ponitur talis propositio:
+
+> Notitia reflexa supra seipsam est debilior notitia quam notitia alterius notitiae.
+
+Et ideo est quia homo magis cognoscit defectus aliorum quam suos.
+
+Circa istam divisionem solet quaeri a doctoribus utrum notitia alterius notitiae repraesentet rem repraesentatam per primam notitiam, ut notitia Petri repraesentat Petrum, quaero utrum notitia notitiae Petri repraesentet mihi Petrum.
+
+Pro solutione primo advertendum est quod fuit opinio aliquorum quod non erat aliqua differentia inter actum rectum et reflexum, immo idem actus est rectus et reflexus, et notitia notitiae Petri non est alia a notitia Petri. Sed ista opinio est falsa, quia experimur quod aliquando cognosco Petrum et non cognosco me cognoscere Petrum; ergo duo sunt isti actus.
+
+Suppono ergo quod isti sunt duo actus. Quaeritur utrum notitia Petri repraesentet Petrum, idem est utrum cognoscens in notitia notitiae Petri cognoscat Petrum. Ad hoc solet responderi communiter quod notitia potest cognosci dupliciter: uno modo, in quantum est quaedam qualitas vel tale ens, et hoc modo non oportet quod cognoscens notitiam cognoscat rem repraesentatam per notitiam; alio modo potest cognosci in quantum est notitia, id est in quantum per ipsam cognoscitur obiectum, et hoc modo dico quod notitia notitiae Petri etiam naturaliter repraesentat Petrum.
+
+Alia quaestio: utrum in actibus reflexis sit procedendum in infinitum, utrum sit possibile cognoscere Petrum et cognoscere suam cognitionem, et sic /80a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -1980,5 +2000,7 @@ Page 78a: notitiarum ] del. Notandum notitiarum (notitiarum: notitiarum quaedam 
 Page 78b: cuius ] del. cuius cuius (repraesentat illud /78b/ cuius est notitia); repeated across the page break ('cuiȝ9' at end of 78a, 'cuius' at start of 78b)
 Page 78b: Quarta ] sic (Quarta propositio, quae ponitur pro regula); repeated after the preceding 'Quarta propositio'
 Page 78b: alterius ] del. huius alterius (et notitia intuitiva alterius albedinis); 'huius' struck and 'alterius' added above the line in the manuscript
+Page 79a: perfectae ] sic (quia si essent perfectae, non differrent specie); context expects 'aeque perfectae', cf. 79a below: "pono quod una albedo sit aeque perfecta sicut alia"
+Page 79b: notitia Petri ] sic (Quaeritur utrum notitia Petri repraesentet Petrum); context expects 'notitia notitiae Petri', cf. 79b above: "quaero utrum notitia notitiae Petri repraesentet mihi Petrum"
 
 -->

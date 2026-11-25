@@ -17,6 +17,7 @@ abstractivae
 abstractivam
 abstractivas
 abstractivene
+abstractivis
 abstractivo
 abstractivus
 abstrahibilia
@@ -327,6 +328,7 @@ Biblia
 bicubico
 bicubicum
 bifurcatur
+bipedalitates
 bipedaliter
 Bocardo
 Boccacium

@@ -1848,7 +1848,17 @@ Pro solutione primo advertendum est quod fuit opinio aliquorum quod non erat ali
 
 Suppono ergo quod isti sunt duo actus. Quaeritur utrum notitia Petri repraesentet Petrum, idem est utrum cognoscens in notitia notitiae Petri cognoscat Petrum. Ad hoc solet responderi communiter quod notitia potest cognosci dupliciter: uno modo, in quantum est quaedam qualitas vel tale ens, et hoc modo non oportet quod cognoscens notitiam cognoscat rem repraesentatam per notitiam; alio modo potest cognosci in quantum est notitia, id est in quantum per ipsam cognoscitur obiectum, et hoc modo dico quod notitia notitiae Petri etiam naturaliter repraesentat Petrum.
 
-Alia quaestio: utrum in actibus reflexis sit procedendum in infinitum, utrum sit possibile cognoscere Petrum et cognoscere suam cognitionem, et sic /80a/
+Alia quaestio: utrum in actibus reflexis sit procedendum in infinitum, utrum sit possibile cognoscere Petrum et cognoscere suam cognitionem, et sic /80a/ semper procedendo in infinitum. Distinguo: aut in notitiis abstractivis, tunc dico quod procedendum est in infinitum, id est non est dabilis aliqua notitia quae non possit cognosci ab intellectu; aut in notitiis intuitivis, et sic dico quod non, quia notitia intuitiva requirit obiectum existens, abstractiva vero non. Tunc dico quod *a* sit notitia Petri et *b* sit notitia *a* et *c* sit notitia *b* et *e* sit notitia *c*: tunc dico quod *a* sit notitia Petri et *b* sit notitia *a*, et sic, ut dictum est; et sic oportet quod ad hoc quod una sit oportet quod omnes aliae sint, et quia nullus potest esse attentus circa tot notitias, ideo non est procedere in infinitum. Et si quaeras qui erit ille status, dico quod secundum unum intellectum forte erit ad tres, et in alio ad quinque, et secundum dispositionem ipsius intellectus.
+
+Notitiarum alia perfectior, alia imperfectior. Unde notitia perfectior est notitia perfectioris obiecti, caeteris paribus, in eodem genere notitiae. Pro cuius declaratione est advertendum quod non est inconveniens quod notitia alicuius obiecti imperfectioris sit perfectior. Sic declaro: ut notitia intuitiva quam ego habeo de ista albedine est perfectior notitia abstractiva Dei et hominis, et sic de aliis. Unde pono aliquas propositiones.
+
+Prima propositio: quaelibet notitia intuitiva est perfectior abstractiva. Ex quo sequitur corollarium probabile quod notitia intuitiva quam habeo de hac albedine est perfectior notitia quam notitia abstractiva quam angeli habent de essentia divina. Et ideo hoc est quia in notitia intuitiva res manifestatur in sua propria praesentia et in se et in sua propria forma, sed in notitia abstractiva res non praesentat seipsam /80b/ praesentia et in sua forma, sed in sua specie; et inde habet praedicta notitia quod sit obscura et aenigmatica.
+
+Secunda propositio: quodlibet scire est perfectius quolibet opinari, et quaelibet opinio est perfectior quolibet errore.
+
+Tertia propositio: si isti assensus habeantur de eodem obiecto et etiam de eisdem obiectis, semper ille assensus qui est simpliciter perfectior dicendus est perfectior. Verbi gratia, ut scientia quae habetur de ista "Omnis homo est risibilis" est perfectior opinione quam quis habet de ista propositione "Deus est trinus et unus". Ex quo sequitur, ergo, solutio: quod, comparando notitias in eodem genere, perfectioris obiecti perfectior est notitia.
+
+Sed quaeritur utrum sit dabilis aliqua notitia quae sit infinitae perfectionis. Dico quod non. Pro cuius declaratione est notandum quod triplex potest imaginari infinitum: quoddam secundum extensionem, aliud secundum intensionem, aliud secundum perfectionem. Infinitum perfectione est cuius perfectio est sine limite et sine termino; verbi gratia, ut Deus est infinitus perfectione, quia eius perfectio est tanta quod est sine limite et fine. Sed infinitum secundum extensionem imaginatur aliqua quantitas quae habet infinitas partes aequales, puta infinitas pedalitates vel bipedalitates. Sed infinitum secundum intensionem, si esset una qualitas quae haberet infinitas partes aequales et in eodem loco et situ, ut /81a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -2002,5 +2012,9 @@ Page 78b: Quarta ] sic (Quarta propositio, quae ponitur pro regula); repeated af
 Page 78b: alterius ] del. huius alterius (et notitia intuitiva alterius albedinis); 'huius' struck and 'alterius' added above the line in the manuscript
 Page 79a: perfectae ] sic (quia si essent perfectae, non differrent specie); context expects 'aeque perfectae', cf. 79a below: "pono quod una albedo sit aeque perfecta sicut alia"
 Page 79b: notitia Petri ] sic (Quaeritur utrum notitia Petri repraesentet Petrum); context expects 'notitia notitiae Petri', cf. 79b above: "quaero utrum notitia notitiae Petri repraesentet mihi Petrum"
+Page 80a: e ] sic (et *e* sit notitia *c*); skips *d* after *a*, *b*, *c*
+Page 80a: seipsam ] emend. seipsa (res non praesentat seipsam /80b/ praesentia); perhaps through omission of the nasal bar ('seipsā') or attraction to 'praesentia'
+Page 80b: assensus ] emend. sensus (si isti assensus habeantur de eodem obiecto); manuscript reads 'ſenſ9', omitting initial 'a-' before 'ſenſ9' ('aſenſus' in the next line: "semper ille assensus")
+Page 80b: de eodem ] leg. deod̄ (habeantur de eodem obiecto); haplographic contraction of 'de eod̄'
 
 -->

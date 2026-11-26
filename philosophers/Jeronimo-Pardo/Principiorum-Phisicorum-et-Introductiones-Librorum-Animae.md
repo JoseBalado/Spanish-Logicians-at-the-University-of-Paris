@@ -1870,7 +1870,25 @@ Notandum tamen quod non valet hic haec consequentia: "Hoc est infinitum in perfe
 
 Item, notitiarum quaedam apprehensiva, alia iudicativa. Notitia apprehensiva iterum est duplex, quia quaedam est simplex et incomplexa, alia est notitia complexa. Notitia apprehensiva simplex est notitia qua aliquod simplex apprehenditur, ut notitia huius albedinis.
 
-Sed ista notitia simplex dividitur, quia quaedam est notitia simplex incomplexa absoluta, alia est connotativa. Unde notitia simplex incomplexa absoluta est notitia per quam cognoscitur aliqua res incomplexe et nihil cognoscitur sibi convenire per modum alteri adhaerentis per illam notitiam, ut si formem per illam notitiam conceptum albedinis, per illum conceptum conciperem albedinem non ut convenit alicui nec ut sibi convenit aliquid. Et talis terminus vocalis vel scriptus qui fuerit impositus ad significandum albedinem secundum illum conceptum vocatur terminus absolutus, ut iste terminus 'albedo'; et ista notitia vocatur a Scoto notitia quidditativa. Sed notitia connotativa est notitia qua aliqua concipiuntur, unum in recto seu per modum recti, alterum in obliquo. Declaro /82a/
+Sed ista notitia simplex dividitur, quia quaedam est notitia simplex incomplexa absoluta, alia est connotativa. Unde notitia simplex incomplexa absoluta est notitia per quam cognoscitur aliqua res incomplexe et nihil cognoscitur sibi convenire per modum alteri adhaerentis per illam notitiam, ut si formem per illam notitiam conceptum albedinis, per illum conceptum conciperem albedinem non ut convenit alicui nec ut sibi convenit aliquid. Et talis terminus vocalis vel scriptus qui fuerit impositus ad significandum albedinem secundum illum conceptum vocatur terminus absolutus, ut iste terminus 'albedo'; et ista notitia vocatur a Scoto notitia quidditativa. Sed notitia connotativa est notitia qua aliqua concipiuntur, unum in recto seu per modum recti, alterum in obliquo. Declaro: /82a/ ut notitia patris est notitia connotativa quae repraesentat aliquid in recto, puta illum qui generat, et aliquid in obliquo, puta filium. Aliud exemplum: iste terminus 'idem' subordinatur uni conceptui quo cognosco quod aliqua res est eadem sibi et diversa a quocumque alio.
+
+Sed de istis notitiis sunt duae magnae difficultates, quarum una est utrum terminus connotativus mentalis naturaliter proprie significet omne illud quod significat. Dico quod sic.
+
+Contra: ergo notitia connotativa supponit pro illo quod significat. Probatur consequentia: notitia connotativa, ut puta iste terminus 'pater', quae immediate significat Petrum et Iohannem qui est filius, ergo non est maior ratio quod ille terminus supponat pro Petro quam pro Iohanne. Item, si per illam notitiam aeque immediate repraesentatur filius, sicut patet, cur magis repraesentat patrem habentem filium quam filium habentem patrem?
+
+Pro solutione notandum est quod dicit Gregorius in primo quod notitia connotativa significat connotatum, scilicet connotative, et non naturaliter proprie, sive ad placitum, significat illud quod significatur in obliquo: ut conceptus vocatur connotativus, puta 'pater', qui significat naturaliter proprie patrem, et ad placitum filium quem connotat vel significat in obliquo. Et ideo dico quod difficile est salvare tales conceptus connotativos in mente; tamen potest salvari aliquo modo, licet cum difficultate, et ponitur talis regula:
+
+> Quandocumque aliqua potentia potest habere notitias simplices aliquorum, ex illis duabus potest habere notitiam simplicem illorum duorum unitivam ad invicem.
+
+Sed sic est in proposito quod intellectus potest cognoscere albedinem; /82b/ ex illis duabus potest causari una alia notitia simplex in entitate quae repraesentet unum in ordine ad aliud. Et illa notitia unitiva potest esse duplex: una qua cognosco unum in ordine ad aliud per modum distantis, puta qua concipiam hoc esse hoc vel hoc non esse hoc, et ista notitia est propositio mentalis, et non est illa quae est terminus connotativus. Alia est qua concipitur unum in ordine ad aliud per modum indistantis, ut cognoscere hominem album, asinum meum; et per istam notitiam possum cognoscere unum ut homo et aliud ut hominem, sive unum per modum recti et aliud per modum obliqui, ut hominem et habentem albedinem ut habitam. Ex hoc habet illa notitia quod supponat pro illa re habente aliquid, ut pro albedine simili alicui, vel pro me habente identitatem.
+
+Et ideo pro declaranda ista materia quaeruntur aliquae quaestiones, quarum prima est utrum conceptus connotativus sit incomplexus. Distinguo: aut in identitate, et sic dico quod sic; aut in repraesentando, dico quod non. Ex quo sequitur quod vocatur conceptus simplex in identitate.
+
+Contra: ergo talis conceptus debet dici propositio mentalis. Nego, quia non concipitur unum in ordine ad aliud distanter.
+
+Contra: ergo non debet poni talis terminus connotativus. Nego, quia vocatur terminus eo quod est una notitia simplex in se quae non est propositio; ideo dicitur terminus, large accipiendo terminum.
+
+Secunda quaestio: utrum intellectus meus possit formare conceptum /83a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -2030,5 +2048,8 @@ Page 80b: assensus ] emend. sensus (si isti assensus habeantur de eodem obiecto)
 Page 80b: de eodem ] leg. deod̄ (habeantur de eodem obiecto); haplographic contraction of 'de eod̄'
 Page 81a: propositum quod ad probandum aliquam /81b/ qualitatem esse intensam ] sic (Ideo dico ad propositum quod ad probandum aliquam /81b/ qualitatem esse intensam, quod neganda est); enclosed in brackets and underlined across the column break in the manuscript
 Page 81b: per illam notitiam ] sic (ut si formem per illam notitiam conceptum albedinis); enclosed in brackets and underlined in the manuscript
+Page 82a: cognoscere albedinem ] sic (intellectus potest cognoscere albedinem; /82b/ ex illis duabus potest causari); a second object and inference such as 'et subiectum; ergo' appear to have dropped out at the page break before 'ex illis duabus'
+Page 82b: indistantis ] emend. distantis (in ordine ad aliud per modum indistantis, ut cognoscere hominem album); cf. 82b above: "una qua cognosco unum in ordine ad aliud per modum distantis, puta qua concipiam hoc esse hoc vel hoc non esse hoc" and 82b below: "Nego, quia non concipitur unum in ordine ad aliud distanter"
+Page 82b: simplex ] del. simplex snple (quod vocatur conceptus simplex in identitate); 'snple' ('simple') repeated across the line break
 
 -->

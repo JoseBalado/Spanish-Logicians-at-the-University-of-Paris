@@ -1888,7 +1888,19 @@ Contra: ergo talis conceptus debet dici propositio mentalis. Nego, quia non conc
 
 Contra: ergo non debet poni talis terminus connotativus. Nego, quia vocatur terminus eo quod est una notitia simplex in se quae non est propositio; ideo dicitur terminus, large accipiendo terminum.
 
-Secunda quaestio: utrum intellectus meus possit formare conceptum /83a/
+Secunda quaestio: utrum intellectus meus possit formare conceptum /83a/ connotativum cui subordinetur iste terminus 'pater'. Dico quod non, quia oporteret primo quod prius cognosceret substantiam et postea filium, scilicet Petrum habentem filium; et quia non possumus cognoscere substantiam pro statu isto, ideo et caetera. Sed de conceptu albi dico quod, si 'album' supponat pro quantitate habente albedinem, possumus formare conceptum cui subordinatur iste terminus 'album'; tamen si supponat pro substantia, dico quod non, per rationem iam dictam.
+
+Tertia quaestio: utrum possit poni in mente conceptus complexus formaliter. Dico quod sic: ut possum habere conceptum quantitatis et albedinis in mente, et tamen ille talis non erit unus conceptus, sed erunt duo conceptus per modum determinantis et determinabilis.
+
+Item, notitiarum complexarum quaedam est complexa complexione distanti, alia est complexa complexione indistanti. Notitia complexa complexione indistanti potest imaginari dupliciter: uno modo quod sint plures notitiae simul unitae; alio modo potest imaginari sic, scilicet quod sit una notitia simplex in entitate, tamen repraesentat aliqua quae repraesentantur per alias diversas notitias, et illa potest vocari notitia connotativa, ideo erit complexa in repraesentando. Alia est notitia complexa complexione distanti, et est una notitia simplex in entitate qua cognosco hoc esse hoc vel hoc non esse hoc; et ista notitia causatur ex notitiis extremorum, ut notitia qua cognosco hominem esse animal, quae causatur a notitia hominis et a notitia animalis; /83b/ quia regula est: quandocumque intellectus habet diversas notitias simplices aliquorum, tunc potest habere unam quae causatur ab illis, qua cognosco illa unitive.
+
+Contra: omnis notitia causatur ab obiecto vel a specie; ergo. Verum est quod omnis notitia causatur ab obiecto vel a specie, mediate vel immediate.
+
+Finaliter, pro ista materia de actibus animae quaeruntur aliquae quaestiones. Prima: utrum una notitia possit fieri ex alia. Ad hoc respondetur generaliter distinguendo quod una notitia potest fieri ex alia quattuor modis. Primo, causaliter, id est quod una causetur ab alia. Et tunc quaero utrum una notitia possit causari ex alia se habente in ratione obiecti. Distinguo: aut loqueris de notitia simplici in repraesentando, et sic dico quod non; aut de notitia complexa in repraesentando, sive sit apprehensiva sive iudicativa, et sic dico quod sic.
+
+Secundo modo una notitia fit ex alia occasionaliter, id est quod una notitia sit occasio habendi aliam notitiam, et sic dico quod sic. Et hoc intelligit Aristoteles in primo *Posteriorum*, qui concedit quod notitia intellectiva fit ex notitia sensitiva, id est causatur occasionaliter; tamen non valet haec consequentia: "Est causa occasionis; ergo est causa", quia est fallacia secundum quid ad simpliciter.
+
+Tertio modo una notitia fit ex alia abstractive. Exemplum: ut ex conceptu albi abstrahit intellectus duas notitias, scilicet unam /84a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -2051,5 +2063,9 @@ Page 81b: per illam notitiam ] sic (ut si formem per illam notitiam conceptum al
 Page 82a: cognoscere albedinem ] sic (intellectus potest cognoscere albedinem; /82b/ ex illis duabus potest causari); a second object and inference such as 'et subiectum; ergo' appear to have dropped out at the page break before 'ex illis duabus'
 Page 82b: indistantis ] emend. distantis (in ordine ad aliud per modum indistantis, ut cognoscere hominem album); cf. 82b above: "una qua cognosco unum in ordine ad aliud per modum distantis, puta qua concipiam hoc esse hoc vel hoc non esse hoc" and 82b below: "Nego, quia non concipitur unum in ordine ad aliud distanter"
 Page 82b: simplex ] del. simplex snple (quod vocatur conceptus simplex in identitate); 'snple' ('simple') repeated across the line break
+Page 83a: indistanti ] emend. distanti (Notitia complexa complexione indistanti potest imaginari dupliciter); cf. 82b: "Alia est qua concipitur unum in ordine ad aliud per modum indistantis, ut cognoscere hominem album"
+Page 83a: distanti ] emend. indistanti (Alia est notitia complexa complexione distanti, et est una notitia simplex in entitate qua cognosco hoc esse hoc vel hoc non esse hoc); cf. 82b: "una qua cognosco unum in ordine ad aliud per modum distantis, puta qua concipiam hoc esse hoc vel hoc non esse hoc"
+Page 83b: habente ] leg. habenti (ex alia se habente in ratione obiecti)
+Page 83b: notitia intellectiva ] del. notitia sensitiva intellectiva (quod notitia intellectiva fit ex notitia sensitiva); first 'sensitiva' struck in the manuscript
 
 -->

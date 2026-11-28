@@ -1900,7 +1900,17 @@ Finaliter, pro ista materia de actibus animae quaeruntur aliquae quaestiones. Pr
 
 Secundo modo una notitia fit ex alia occasionaliter, id est quod una notitia sit occasio habendi aliam notitiam, et sic dico quod sic. Et hoc intelligit Aristoteles in primo *Posteriorum*, qui concedit quod notitia intellectiva fit ex notitia sensitiva, id est causatur occasionaliter; tamen non valet haec consequentia: "Est causa occasionis; ergo est causa", quia est fallacia secundum quid ad simpliciter.
 
-Tertio modo una notitia fit ex alia abstractive. Exemplum: ut ex conceptu albi abstrahit intellectus duas notitias, scilicet unam /84a/
+Tertio modo una notitia fit ex alia abstractive. Exemplum: ut ex conceptu albi abstrahit intellectus duas notitias, scilicet unam /84a/ albedinis et aliam rei albae. Tunc dico quod hoc est inintelligibile et falsum; nam prius est necesse habere notitiam rei albae et notitiam albedinis quam albi notitiam habere.
+
+Contra: dabilis est experientia in qua prius habeatur notitia albi quam notitia rei albae et albedinis; ergo male dicis. Antecedens patet, ponendo quod unus qui numquam vidit nunc videat, et videat parietem album, et deinde videat parietem nigrum; postea abstrahit illas duas notitias; tunc illae duae notitiae abstrahuntur a notitia albi; ergo male dicis. Dico quod prius habuit notitiam rei albae et notitiam albedinis.
+
+Contra: talis non credit quod ibi sint duo; ergo habuit illas duas notitias. Nego consequentiam, et ratio est quia tu non concludis quod non habuit duas notitias sufficientes causare iudicium distinctum quo iudicetur quod ibi sint duo, tamen postea per unum argumentum quod fit ille causavit iudicium distinctum quod erant ibi duo. Ex quo patet quod dictum Dorp non est verum, qui dicit quod iste terminus 'album' subordinatur uni conceptui simplici qui indistincte repraesentat rem albam et albedinem; et ille conceptus non est natus causare iudicium quo iudicem quod albedo non est res alba. Sed contra hoc arguitur, quia tunc sequeretur quod prius non haberet conceptum cui subordinatur iste terminus 'album'; sed hoc est falsum; igitur. Patet, quia prius non habet conceptum qui indistincte /84b/ repraesentet rem albam et albedinem; ergo.
+
+Quarto modo solet dici quod una notitia fit ex alia elicitive; et hoc modo dicit Henricus de Gandavo quod ex notitia alicuius sensibilis elicitur notitia alicuius insensibilis, ut ovis ex notitia lupi elicit speciem inimicitiae. Sed contra istam opinionem sunt Gregorius, Scotus, Occam, et ratio est quia inimicitia non potest cognosci ab ove ex eo quod est insensibilis.
+
+Sed contra: ovis fugit, et non nisi quia habet notitiam inimicitiae; ergo cognoscit illam. Respondetur negando antecedens; immo sic fugit propter accidentia sensibilia lupi, a quibus potentia appetitiva refugit et potentia motiva movetur ad fugiendum; et hoc est quod aliqui dicunt quod accidentia sic movent appetitum ovis, et caetera. Et circa hoc advertendum quod appetitus sensitivus naturaliter fugit vel prosequitur obiectum sibi conveniens vel disconveniens.
+
+Sed quaeritur quae sunt obiecta magis convenientia alicui potentiae sensitivae. Dico quod illa quae proportionantur magis cum ipsa potentia sensitiva. Et inde est quod unus homo magis amat unum hominem quam alium, quia potentia sensitiva magis prosequitur, ideo voluntas magis amat; et hoc non est de necessitate, sed quia voluntas nata est condelectari appetitui sensitivo. Et etiam sic dicatur de dolore et tristitia. /85a/
 
 <!--
 ## Apparatus Criticus Reference
@@ -2067,5 +2077,10 @@ Page 83a: indistanti ] emend. distanti (Notitia complexa complexione indistanti 
 Page 83a: distanti ] emend. indistanti (Alia est notitia complexa complexione distanti, et est una notitia simplex in entitate qua cognosco hoc esse hoc vel hoc non esse hoc); cf. 82b: "una qua cognosco unum in ordine ad aliud per modum distantis, puta qua concipiam hoc esse hoc vel hoc non esse hoc"
 Page 83b: habente ] leg. habenti (ex alia se habente in ratione obiecti)
 Page 83b: notitia intellectiva ] del. notitia sensitiva intellectiva (quod notitia intellectiva fit ex notitia sensitiva); first 'sensitiva' struck in the manuscript
+Page 84a: inintelligibile ] emend. intelligibile (Tunc dico quod hoc est inintelligibile et falsum); haplographic omission of initial 'in-' before 'intelligibile'
+Page 84a: habuit ] sic (ergo habuit illas duas notitias); context expects 'non habuit', cf. 84a below: "quia tu non concludis quod non habuit duas notitias"
+Page 84a: duas ] leg. duā (quod non habuit duas notitias sufficientes); context expects something like 'quod non habuit duas notitias, sed solum quod non habuit duas notitias sufficientes'
+Page 84b: Henricus ] leg. Enrricus (et hoc modo dicit Henricus de Gandavo)
+Page 84b: sic fugit ] emend. si fugit (immo sic fugit propter accidentia sensibilia lupi); cf. 84b below: "quod accidentia sic movent appetitum ovis"
 
 -->

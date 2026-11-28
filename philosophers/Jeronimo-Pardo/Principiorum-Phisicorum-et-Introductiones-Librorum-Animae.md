@@ -1912,6 +1912,18 @@ Sed contra: ovis fugit, et non nisi quia habet notitiam inimicitiae; ergo cognos
 
 Sed quaeritur quae sunt obiecta magis convenientia alicui potentiae sensitivae. Dico quod illa quae proportionantur magis cum ipsa potentia sensitiva. Et inde est quod unus homo magis amat unum hominem quam alium, quia potentia sensitiva magis prosequitur, ideo voluntas magis amat; et hoc non est de necessitate, sed quia voluntas nata est condelectari appetitui sensitivo. Et etiam sic dicatur de dolore et tristitia. /85a/
 
+Secunda quaestio: utrum omnis notitia abstractiva praesupponat notitiam intuitivam. Dico quod sic.
+
+Contra: habeo notitiam abstractivam albedinis quae est Romae, tamen de illa numquam habui notitiam intuitivam; ergo. Patet, quia habeo conceptum specificum repraesentantem omnes albedines; ergo habeo conceptum albedinis quae est Romae. Distinguo quod habeam conceptum albedinis quae est Romae: aut conceptum communem, et sic concedo; aut discretum, et sic nego. Modo dico quod notitia abstractiva non praesupponit notitiam intuitivam nisi illa abstractiva sit discreta, sed sufficit quod habuerit notitiam intuitivam unius singularis ad hoc quod habeam notitiam abstractivam communem.
+
+Contra: cognosco elephantem, tamen numquam vidi ipsum, et per consequens numquam habui notitiam intuitivam ipsius, nec singularem nec communem.
+
+Pro solutione notandum est quod est pulchra difficultas: qualem formaret conceptum ille qui numquam vidit elephantem, ita quod sibi narrarem formam elephantis et omnia quae habet distincte. Si dicatur quod formaret abstractivam notitiam, hoc non est verum, quia sequeretur quod haberem notitiam abstractivam sine intuitiva. Sed si dicas quod illa notitia est communis et non repraesentat unum elephantem, sed communem elephantem, /85b/ contra: ipsum formare conceptum trium elephantum et quod praecise repraesentaret mihi illos tres; ergo possum habere notitiam singularem elephantis; et ultra ergo quaeritur quem illorum repraesentat, et non est dicendum magis unum quam alium; ergo oportet dicere quod formabo unum elephantem per imaginationem qui non fuit nec erit nec potest esse. Et si dicas quod non cognosco nisi aliqua accidentia elephantis, contra: postea, si viderem elephantem, dicerem: "Iste est ille quem cognosco vel cognoscebam".
+
+Pro solutione notandum est quod Gregorius in primo dicit quod praeter species veras causatas ab ipsis rebus ponendae sunt species fictae, quae causantur ab istis speciebus et ab intellectu, et postea conceptus causatus ab illis speciebus fictis dicitur conceptus fictus. Declaro hoc: ut habeo speciem albedinis causatam ab hac albedine, et habeo speciem illius figurae quae est nasus, et habeo speciem pedis alicuius equi, et caetera; ex istis multis speciebus potest intellectus causare unam tertiam speciem quae vocabitur species ficta, et ex illa specie causabo unum conceptum qui repraesentabit mihi elephantem. Et ista dicuntur a Gregorio, et allegat Augustinum.
+
+Sed contra: nihil facit hoc, quia quaero: vel illa /86a/
+
 <!--
 ## Apparatus Criticus Reference
 * conj.    (coniectura)  : Text is unreadable; this is an educated guess.
@@ -2082,5 +2094,10 @@ Page 84a: habuit ] sic (ergo habuit illas duas notitias); context expects 'non h
 Page 84a: duas ] leg. duā (quod non habuit duas notitias sufficientes); context expects something like 'quod non habuit duas notitias, sed solum quod non habuit duas notitias sufficientes'
 Page 84b: Henricus ] leg. Enrricus (et hoc modo dicit Henricus de Gandavo)
 Page 84b: sic fugit ] emend. si fugit (immo sic fugit propter accidentia sensibilia lupi); cf. 84b below: "quod accidentia sic movent appetitum ovis"
+Page 85a: habuerit ] leg. hauerit (sed sufficit quod habuerit notitiam intuitivam unius singularis ad hoc quod habeam notitiam abstractivam communem); shifts from third person to first person
+Page 85a: haberem ] leg. haerem (quia sequeretur quod haberem notitiam abstractivam sine intuitiva); shifts from third person ('formaret') to first person
+Page 85b: contra: ipsum formare ] sic (sed communem elephantem, /85b/ contra: ipsum formare conceptum trium elephantum); elliptical construction (e.g. 'pono' omitted before 'ipsum formare'), shifting to first person in 'repraesentaret mihi'
+Page 85b: praeter ] emend. prepter (quod praeter species veras causatas ab ipsis rebus)
+Page 85b: nihil ] leg. michil (Sed contra: nihil facit hoc)
 
 -->
